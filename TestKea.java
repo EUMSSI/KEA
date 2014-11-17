@@ -37,10 +37,10 @@ public class TestKea {
 		 
 		// 3. Name of the vocabulary -- name of the file (without extension) that is stored in VOCABULARIES
 		//    or "none" if no Vocabulary is used (free keyphrase extraction).
-		km.setVocabulary("agrovoc");
+		km.setVocabulary("none");
 		
 		// 4. Format of the vocabulary in 3. Leave empty if vocabulary = "none", use "skos" or "txt" otherwise.
-		km.setVocabularyFormat("skos");
+		km.setVocabularyFormat("none");
 		
 //		 B. optional arguments if you want to change the defaults
 		// 5. Encoding of the document
@@ -90,12 +90,12 @@ public class TestKea {
 		 
 		// 3. Name of the vocabulary -- name of the file (without extension) that is stored in VOCABULARIES
 		//    or "none" if no Vocabulary is used (free keyphrase extraction).
-		ke.setVocabulary("agrovoc");
+		ke.setVocabulary("none");
 		
-		// 4. Format of the vocabulary in 3. Leave empty if vocabulary = "none", use "skos" or "txt" otherwise.
-		ke.setVocabularyFormat("skos");
+//		// 4. Format of the vocabulary in 3. Leave empty if vocabulary = "none", use "skos" or "txt" otherwise.
+		ke.setVocabularyFormat("none");
 		
-//		 B. optional arguments if you want to change the defaults
+		// B. optional arguments if you want to change the defaults
 		// 5. Encoding of the document
 		ke.setEncoding("UTF-8");
 		
@@ -116,6 +116,7 @@ public class TestKea {
 		// 10. Set to true, if you want to compute global dictionaries from the test collection
 		ke.setBuildGlobal(false);		
 		
+		ke.setAdditionalInfo(true);
 		
 	}
 	

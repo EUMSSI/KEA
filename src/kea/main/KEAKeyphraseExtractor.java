@@ -26,6 +26,7 @@ import java.io.InputStreamReader;
 import java.io.ObjectInputStream;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.Enumeration;
 import java.util.HashMap;
 import java.util.Hashtable;
@@ -45,7 +46,6 @@ import kea.stemmers.SremovalStemmer;
 import kea.stemmers.Stemmer;
 import kea.stopwords.Stopwords;
 import kea.stopwords.StopwordsEnglish;
-import kea.stopwords.StopwordsSpanish;
 import kea.util.Counter;
 
 /**
@@ -137,7 +137,7 @@ public class KEAKeyphraseExtractor implements OptionHandler {
 	
 	
 	/** Also write stemmed phrase and score into .key file. */
-	boolean m_AdditionalInfo = false;
+	boolean m_AdditionalInfo = true;
 	
 	
 	/** Build global dictionaries from the test set. */
@@ -624,6 +624,107 @@ public class KEAKeyphraseExtractor implements OptionHandler {
 			throw new Exception("Problem opening directory " + m_dirName);
 		}
 		return stems;
+	}
+	
+	public HashMap<String,HashMap<String,String>> extractKeyphrasesToMap(String text) {
+
+		m_KEAFilter.setNumPhrases(m_numPhrases);
+		m_KEAFilter.setVocabulary(m_vocabulary);
+		m_KEAFilter.setVocabularyFormat(m_vocabularyFormat);
+		m_KEAFilter.setDocumentLanguage(getDocumentLanguage());
+		m_KEAFilter.setStemmer(m_Stemmer);
+		m_KEAFilter.setStopwords(m_Stopwords);
+
+		if (getVocabulary().equals("none")) {
+			m_KEAFilter.m_NODEfeature = false;
+		} else {
+			m_KEAFilter.loadThesaurus(m_Stemmer, m_Stopwords);
+		}
+
+		FastVector atts = new FastVector(3);
+		atts.addElement(new Attribute("doc", (FastVector) null));
+		atts.addElement(new Attribute("keyphrases", (FastVector) null));
+		atts.addElement(new Attribute("filename", (String) null));
+		Instances data = new Instances("keyphrase_training_data", atts, 0);
+
+		if (m_KEAFilter.m_Dictionary == null) {
+			// Build dictionary of n-grams with associated
+			// document frequencies
+			m_KEAFilter.m_Dictionary = new HashMap();
+
+			// Enumeration over all files in the directory (now in the hash):
+			KEAPhraseFilter kpf = new KEAPhraseFilter();
+
+			HashMap hash = m_KEAFilter.getPhrasesForDictionary(kpf
+					.tokenize(text));
+			Iterator it = hash.keySet().iterator();
+			while (it.hasNext()) {
+				String phrase = (String) it.next();
+				Counter counter = (Counter) m_KEAFilter.m_Dictionary
+						.get(phrase);
+				if (counter == null) {
+					m_KEAFilter.m_Dictionary.put(phrase, new Counter());
+				} else {
+					counter.increment();
+				}
+			}
+		}
+
+		// Extract keyphrases
+
+		double[] newInst = new double[2];
+
+		newInst[0] = (double) data.attribute(0).addStringValue(text);
+		newInst[1] = (double) data.attribute(1).addStringValue("");
+
+		data.add(new Instance(1.0, newInst));
+
+		try {
+			m_KEAFilter.input(data.instance(0));
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		data = data.stringFreeStructure();
+		
+		Instance[] topRankedInstances = new Instance[m_numPhrases];
+		Instance inst;
+
+		// Iterating over all extracted keyphrases (inst)
+		while ((inst = m_KEAFilter.output()) != null) {
+
+			int index = (int) inst.value(m_KEAFilter.getRankIndex()) - 1;
+
+			if (index < m_numPhrases) {
+				topRankedInstances[index] = inst;
+			}
+		}
+
+		HashMap<String,HashMap<String,String>> output = new HashMap<String,HashMap<String,String>>();
+		
+		for (int i = 0; i < m_numPhrases; i++) {
+			if (topRankedInstances[i] != null){
+				output.put(topRankedInstances[i].stringValue(m_KEAFilter
+						.getUnstemmedPhraseIndex()), new HashMap<String, String>());
+				output.get(topRankedInstances[i].stringValue(m_KEAFilter
+						.getUnstemmedPhraseIndex())).put("stemmed",
+								topRankedInstances[i].
+								stringValue(m_KEAFilter.getStemmedPhraseIndex()));
+				output.get(topRankedInstances[i].stringValue(m_KEAFilter
+						.getUnstemmedPhraseIndex())).put("probability",
+								String.valueOf(topRankedInstances[i].
+								value(m_KEAFilter.
+										getProbabilityIndex())));
+				output.get(topRankedInstances[i].stringValue(m_KEAFilter
+						.getUnstemmedPhraseIndex())).put("rank",String.valueOf(i));
+				output.get(topRankedInstances[i].stringValue(m_KEAFilter
+						.getUnstemmedPhraseIndex())).put("stem",
+								topRankedInstances[i].stringValue(m_KEAFilter
+								.getStemmedPhraseIndex()));
+			}
+		}
+		return output;
 	}
 	
 	/**
