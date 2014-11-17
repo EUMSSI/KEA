@@ -1,0 +1,467 @@
+Document occasionnel de la CECPI No. 31 EIFAC/CECPI/OP31
+
+Cover Page
+
+DIRECTIVES POUR LE REPEUPLEMENT EN CORÉGONES
+
+TABLE DES MATIÈRES
+
+
+PRÉPARATION DE CE DOCUMENT
+
+Ce document occasionnel a été préparé en réponse à une recommandation de la Commission Européenne Consultative pour les Pêches dans les Eaux Intérieures (CECPI), Groupe de travail sur les repeuplements, qui a reconnu la nécessité de définir des directives pour le repeuplement en cogérones, un groupe de poissons important en Europe. La collaboration active du Dr. M. Bninska (Pologne), du Dr. K. Salojarvi (Finlande) et du Dr. J. Banks (Royaume-Uni) à la rédaction de ces directives a été particulièrement appréciée.
+
+COMMISSION EUROPÉENNE CONSULTATIVE POUR LES PÊCHES DANS LES EAUX INTÉRIEURES DIRECTIVES POUR LE REPEUPLEMENT EN CORÉGONES Document occasionnel de la CECPI, N^o 31. Rome, FAO. 1994.
+
+RÉSUMÉ
+
+Les directives concernent trois espèces: la petite marêne (Coregonus albula), le lavaret (C. lavaretus L. s.l.) et le peled (C. peled). Le transfert du lavaret et de la petite marêne a été pratiqué depuis des siècles et a considérablement étendu l'aire de répartition des corégones en Europe. Les présentes directives sont basées sur l'expérience pratique et le travail de recherche. Des repeuplements à grande échelle de petites marênes sont pratiqués en Pologne et en Finlande; des lavarets et des peled sont déversés dans de nombreux pays d'Europe. Les directives présentent un schéma pour la planification des repeuplements en corégones et pour l'élaboration de règles d'aménagement. Les quatre sections principales du document traitent des considérations d'ordre écologique, des considérations relatives à la pêche, des coûts et effets sociaux ainsi que de l'évaluation des informations et des méthodes disponibles. Ces directives s'adressent principalement aux gestionnaires et
+administrateurs des pêcheries, afin de les aider au développement de règlements et de pratiques de repeuplement efficaces et économiques.
+
+Distribution
+
+Département des pêches de la FAO
+Fonctionnaires régionaux des pêches de la FAO
+Correspondants nationaux de la CECPI
+Liste de distribution de la CECPI
+
+FOOD AND AGRICULTURE ORGANISATION OF THE UNITED NATIONS
+COMMISSION EUROPÉENNE CONSULTATIVE POUR LES PÊCHES DANS LES EAUX INTÉRIEURES
+ROME, 1996
+
+
+Les liens hypertextes vers d'autres sites de l'Internet ne signifient nullement que l'Organisation approuve officiellement les opinions, idées, données ou produits qui y sont présentés, qu'elle en assume la responsabilité ou qu'elle garantit la validité des informations qui s'y trouvent. Leur seul objectif est d'indiquer où trouver un complément d'informations sur des thèmes apparentés.
+
+Cette version numérique du document a été scannérisé en utilisant des logiciels de reconnaissance optique de texte (OCR). La FAO décline toute responsabilité pour les éventuelles différences pouvant apparaître dans ce document par rapport à la version imprimée originale.
+
+
+TABLE DES MATIÈRES
+
+1. INTRODUCTION
+
+1.1 Rappel historique
+
+1.2 Pratiques actuelles
+
+1.3 Modèle de décision
+
+2. POLITIQUE D'AMÉNAGEMENT
+
+2.1 Objectifs
+
+2.2 Stratégies alternatives
+
+3. CONSIDÉRATIONS ÉCOLOGIQUES
+
+3.1 Facteurs environnementaux abiotiques
+
+3.2 Interactions intraspécifiques
+
+3.3 Interactions interspécifiques
+
+3.4 Sujets de repeuplement et saison des opérations
+
+3.5 Pathologie et génétique
+
+3.6 Impact environnemental
+
+4. CONSIDÉRATIONS HALIEUTIQUES
+
+4.1 Potentiel de capture
+
+4.2 Effets sur les populations de même espèce
+
+4.3 Effets sur les populations des autres espèces de la pêcherie
+
+4.4 Répartition des captures entre les groupes d'utilisateurs
+
+4.5 Effets dans les pêcheries à stocks mélangés
+
+5. FACTEURS ÉCONOMIQUES
+
+6. COÛTS ET EFFETS SOCIAUX
+
+7. ÉVALUATION DES INFORMATIONS ET MÉTHODES DISPONIBLES
+
+8. MISE EN OEUVRE
+
+ANNEXES
+Table des matières Page suivante
+
+
+1. INTRODUCTION
+
+Les conclusions de la douzième session de la CECPI ont souligné le fait qu' en dépit d'une longue histoire de repeuplements avec de nombreuses espèces dans les eaux intérieures d'Europe, les conséquences écologiques et économiques de ces pratiques restaient peu connues. Il est cependant apparent que, malgré quelques succès, la plupart des pratiques actuelles de repeuplement sont mal orientées et qu'elles sont écologiquement et économiquement improductives (CECPI/XIII/84/2). Les directives pour le repeuplement en corégones concernent trois espèces: la pétite marêne (Coregonus albula), le lavaret (C. lavaretus L. s.l.) avec ses différents écotypes et le peled (C. peled). La petite marêne et le lavaret sont des poissons paléarctiques; le peled a été introduit de Sibérie. Ces directives s'adressent principalement aux gestionnaires et aux administrateurs des pêcheries, afin de les aider au développement de règlements et de pratiques de repeuplement efficaces et économiques. Cette
+démarche n'exclut pas la nécessité de recherches complémentaires sur les densités appropriées de repeuplements en corégones. La terminologie utilisée dans ce document est présentée à l'Annexe 1. Comme ces directives ont été écrites en vue de réaliser un document pratique, les références bibliographiques détaillées se rapportant à toutes les affirmations et opinions ont été omises délibérément. Pour ceux qui souhaiteraient en lire davantage, une liste de références a été jointe à l'Annexe 4. Le document entend donner une image de la situation géographiquement équilibrée, avec des documents provenant de Scandinavie, de Pologne et d'Europe Centrale. Un document supplémentaire (Todd 1993) qui concerne principalement la pêche dans les Grands Lacs contient également une rétrospective historique utile.
+
+1.1 Rappel historique
+
+Le transfert du lavaret et de la petite marêne a été pratiqué depuis plusieurs siècles, ce qui a étendu considérablement l'aire de répartition des corégones en Europe. L'exploitation en écloserie débuta au milieu du XIX° siècle et se répandit rapidement à travers l'Europe et l'Amérique du Nord. L'élevage de juvéniles destinés au repeuplement commença à la fin du XIX°.
+
+Les premières directives pour le repeuplement en corégones sont apparues très probablement à la fin du XIX° en Suède et plus tard dans de nombreux pays européens. Dans leurs principes, ces directives étaient très similaires. Elles spécifiaient le type de lacs qui conviennent aux repeuplements en corégones (exigences quant à la qualité de l'eau, morphologie du lac, etc.) et les techniques de repeuplement. L'objectif de la plupart de ces opérations était d'établir des populations se reproduisant naturellement. Des recommandations sur les densités adéquates à utiliser pour le repeuplement apparurent au début du XX^o. Jusqu'à ce jour, les directives sont basées sur l'expérience des gestionnaires des pêcheries et sur celle des pêcheurs, mais très peu sur la recherche. Bien que certaines d'entre elles soient encore applicables dans des situations où les lacs sont restés dans leur état initial, dans d'autres situations, où les lacs ont été sujets à des stress considérables, par
+exemple en Pologne, de telles directives ne sont plus applicables. De surcroît, de nombreux réservoirs apparus au XX^o siècle ont été repeuplés en corégones sans aucune directive sur l'efficacité de cette pratique.
+
+1.2 Pratiques actuelles
+
+On sait que des repeuplements en lavarets sont effectués dans de nombreux pays européens, mais il n'y a pas de statistiques générales disponibles sur le nombre de poissons utilisés pour le repeuplement. En Finlande, la production totale de juvéniles de lavarets est d'environ 200 tonnes.
+
+Des repeuplements à grande échelle en petites marênes sont pratiqués en Pologne et en Finlande. En Pologne, la plupart des repeuplements en petites marênes s'effectuent à l'aide de larves vésiculées. La densité moyenne de repeuplement atteint environ 12000 larves vésiculées/ha (max.: 70000/ha) tous les 2 ans. En Finlande, les juvéniles de l'année, capturés dans des lacs naturels et transférés dans des lacs et des réservoirs voisins, constituent le matériel de repeuplement le plus fréquent. La densité moyenne de repeuplement dans les petits lacs est de 500 à 1500 ind./ha et, dans les grands lacs, elle est < 150 ind./ha.
+
+Les repeuplements en peled et en lavaret sont effectués dans la plupart des pays au stade de larve vésiculée et de larve mais l'élevage de juvéniles est en expansion. En Europe Centrale, la densité de repeuplement en peled et en lavaret sous forme de larves vésiculées est plus importante (jusqu'à 50000 ind./ha; normalement < 20000) qu'en Scandinavie (seulement quelques milliers au maximum). Les valeurs correspondantes pour les juvéniles de l'été sont, en Pologne, < 3500 pour le lavaret et < 6500 pour le peled. La densité de repeuplement est en moyenne de 10 à 20 juvéniles/ha dans le nord de la Finlande mais varie largement d'un lac à l'autre, la plus importante étant >200.
+
+1.3 Modèle de décision
+
+Un modèle d'examen et de décision relatif aux programmes de repeuplement est présenté à la figure 1. Le repeuplement est une option d'aménagement et, pour cette raison, il devrait s'inscrire dans la politique d'aménagement adoptée. Les repeuplements devraient contribuer positivement aux captures, devraient être économiquement profitables et/ou socialement avantageux. Les effets génétiques et les incertitudes liées à l'estimation de l'impact de ces repeuplements devraient être évalués et pris en considération avant que le repeuplement considéré ne puisse être accepté et mis en oeuvre. Les parties suivantes de ce document développent certains stades d'examen de ce modèle et fournit ainsi les connaissances de bases nécessaires pour répondre aux questions posées aux différents stades de décision du modèle (Fig. 1).
+
+
+Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+2. POLITIQUE D'AMÉNAGEMENT
+
+2.1 Objectifs
+
+Pour l'aménagement des pêches, la demande socio-économique doit être adaptée le mieux possible à la faisabilité écologique. Les objectifs de l'aménagement des pêches peuvent être la conservation, la compensation des dommages occasionnés par des changements de l'environnement naturel, la diversification des stocks et l'augmentation de la valeur, du niveau et de la stabilité des captures. Le repeuplement n'est pas un objectif en soi. C'est un choix stratégique.
+
+Le plus souvent, les objectifs poursuivis par les repeuplements en corégones sont la compensation, la maintenance et l'amélioration des stocks, la repopulation et la conservation (Annexe 1).
+
+2.2 Stratégies alternatives
+
+La stratégie choisie pour atteindre les objectifs d'aménagement peut être basée sur des améliorations environnementales (conservation de l'habitat, restauration et développement, élimination massive de poissons indésirables), sur la régulation des pêches et sur les repeuplements, séparément ou en combinaison. II convient d'insister sur le fait que le repeuplement n'est qu'un des moyens pour atteindre des objectifs d'aménagement et reste rarement, pour ne pas dire jamais, le seul applicable.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+3. CONSIDÉRATIONS ÉCOLOGIQUES
+
+3.1 Facteurs environnementaux abiotiques
+
+Les populations de corégones qui se maintiennent de manière autonome nécessitent des eaux oligotrophes ou mésotrophes, fraîches et bien oxygénées. C'est la raison pour laquelle leur aire de répartition en Europe s'étend de l'Europe centrale du nord jusqu'au nord de la Scandinavie et des lles Britanniques à l'ouest à la limite orientale de l'Europe en Russie. En Europe centrale, ils sont abondants dans les lacs subalpins de France, d'Allemagne, d'ltalie, de Suisse, d'Autriche et dans les réservoirs de la République tchèque et slovaque.
+
+A l'extrémité sud de leur aire de répartition, les lacs qu'ils préfèrent sont profonds mais, au nord de l'Europe, les corégones vivent également dans les lacs peu profonds. Pour le maintien autonome des stocks, la température et l'oxygène sont les paramètres de qualité d'eau les plus importants; il en va de même de la présence de substrats appropriés au dépôt du frai. La température maximale létale pour le lavaret est d'environ 22°C, l'optimum étant < 15°C et, pour le peled, ces taux sont un peu plus élevés. Le taux d'oxygène ne devrait pas descendre en dessous de 4 mg/l et la saturation en oxygène sur les frayères devrait être supérieure à 70%. Le degré de sensibilité à une qualité défavorable de l'eau dépend du stade de développement et de la condition physiologique du poisson, du temps d'acclimatation, de la composition chimique de l'eau et encore d'autres facteurs.
+
+La qualité de l'eau n'est pas le seul facteur abiotique qui, en conditions naturelles, affecte l'effectif de la classe d'âge de l'année. Les conditions climatiques (la température, le vent, les rayons du soleil, etc.) sont parmi les facteurs les plus importants pouvant affecter le recrutement des corégones. La sensibilité du poisson au stress environnemental décroît généralement en fonction de sa taille (stade de développement). On peut également repeupler des lacs et des réservoirs où les corégones ne peuvent pas maintenir une population naturelle autonome; c'est le cas dans les lacs eutrophes.
+
+3.2 Interactions intraspécifiques
+
+La compétition au sein des cohortes et entre les cohortes est importante et l'on a observé occasionnellement du cannibalisme.
+
+Une relation entre géniteurs et recrues n'a pu être observée que rarement pour la petite marêne chez qui la variabilité de recrutement est grande. En eau oligotrophe, la compétition au sein d'une cohorte au stade larvaire (croissance et survie dépendantes de la densité) est, chez la petite marêne, le mécanisme réputé comme affectant le plus l'effectif de la classe d'âge. La compétition asymétrique entre les petites marênes jeunes et adultes est également considérée comme significative. Dans les lacs eutrophes, les facteurs environnementaux (indépendants de la densité) sont plus importants.
+
+On a rarement pu mettre en relation le recrutement dans les stocks naturels de lavaret et la taille de la population. Pour cette raison, on considère que, dans la plupart des cas, le recrutement des lavarets est déterminé par des mécanismes environnementaux abiotiques et biotiques indépendants de la densité. Ceci explique le succès des repeuplements finlandais en juvéniles dans des lacs contenant des populations de lavarets indigènes. Les lavarets sont connus pour leur prédation considérable sur leurs propres oeufs et larves, ce qui pourrait jouer un rôle dans la régulation de la population.
+
+II faut se rappeler que lors de repeuplements en larves vésiculées, les mêmes facteurs environnementaux agissent autant que pour les larves écloses naturellement. Ceci explique aussi, au moins partiellement, pourquoi les repeuplements à partir de larves vésiculées échouent si fréquemment en présence de stocks à reproduction naturelle dans le lac. Contrairement aux repeuplements avec des juvéniles, il n'est donc pas réaliste d'espérer quelque résultat positif marqué de repeuplements avec des larves vésiculées de lacs dans lesquels des populations à reproduction naturelle existent déjà. Ceci est valable pour tous les corégones. La situation est différente dans les lacs eutrophes dans lesquels la pêche est efficace et les conditions nutritives bonnes.
+
+II est logique de supposer que des mécanismes compensatoires peuvent également agir dans une certaine mesure lors de repeuplements en poissons juvéniles. Dans les systèmes naturels, le nombre de recrues est généralement déterminé avant la période juvénile et donc les repeuplements en juvéniles accroissent la densité de la population et donc aussi la compétition intraspécifique pour les ressources. Dans de telles situations, le nombre de recrues est déterminé par des mécanismes dépendants (compensatoires) de la densité. La croissance des juvéniles dépend en particulier de la taille de la cohorte. Un retard de la croissance accroît vraisemblablement la vulnérabilité à la prédation et affecte ainsi le nombre de recrues pour la pêche.
+
+Pour cette raison, on pense que dans les lacs peu eutrophes qui possèdent des stocks de lavaret se reproduisant naturellement, les repeuplements avec des poissons juvéniles tendent à être plus efficaces que ceux effectués avec des larves. Ceci est probablement valable également pour le peled, bien que cela ne figure dans les observations reprises ultérieurement (au tableau 1). II faut y noter la grande amplitude des valeurs présentées et admettre que ces valeurs devraient utilement être publiées pour les recherches à venir. Dans les lacs plus eutrophes dépourvus de population naturelle de corégones, la taille des sujets de repeuplement est moins importante.
+
+Figure 1.
+
+Figure 1. Un modèle pour la planification des repeuplements en corégones. Les examens, à gauche, illustrent les différents niveaux de la collecte des données et les champs de décision, à droite, les stades de décision respectifs, avec des questions qui s'y rapportent. Les repeuplements devraient être rejetés si les réponses sont négatives.
+
+3.3 Interactions interspécifiques
+
+Les interactions entre les espèces de poissons sont très complexes et peuvent changer aux différents stades de leur vie. Les interactions peuvent se présenter sous la forme d'une compétition pour les ressources ou sous la forme d'une prédation.
+
+La petite marêne est nettement planctonophage et supplante le peled et le lavaret dans les lacs oligotrophes. II a été démontré en Scandinavie que, dans les lacs abritant le lavaret, des repeuplements avec des petites marênes ont de bonnes chances de réussite et ce, quel que soit leur stade de développement; pour des repeuplements avec des larves vésiculées de lavaret, le contraire est rarement exact. Cependant, lorsque des lavarets à un stade plus avancé sont utilisés, les succès sont plus fréquents.
+
+Le peled semble sensible à la compétition alimentaire dans les lacs oligotrophes où la petite marêne et le lavaret sont tous deux présents. Les captures provenant de repeuplement en peled n'ont dans ce cas jamais été bonnes et ce, quelle que soit la taille ou l'âge des peleds déversés. La tendance générale pour les espèces qui possèdent un nombre plus élevé de branchiospines est d'occuper la zone pélagique dans laquelle elles se nourrissent, alors que les espèces qui possèdent un nombre plus faible de branchiospines restent en zone littorale et s'y nourrissent de benthos. Ce problème n'a pas été rencontré dans les lacs eutrophes.
+
+L'introduction et le repeuplement en lavaret a été dommageable pour les populations d'ombles chevaliers dans de nombreux lacs scandinaves. La pérennité de l'omble chevalier et du lavaret est cependant possible dans les grands lacs oligotrophes. Les larves de lavaret sont la proie des perches et, dans de nombreux petits lacs, le lavaret a été exterminé par la perche. Cependant, on peut limiter l'action des perches dans les lacs de faible étendue par l'introduction de lavarets à un stade de développement plus avancé. Néanmoins, les grands lacs plus profonds procurent un avantage au lavaret par rapport à la perche. La tendance générale est que le lavaret domine la perche dans les grands lacs profonds comportant une zone pélagique étendue et que la perche tend à dominer la lavaret dans les plus petits lacs, plus chauds. Les mécanismes de dominance sont valables également pour les stades jeunes de développement.
+
+Les espèces prédatrices (brochet, lote de rivière, truite fario, etc.) se nourrissent de corégones. La prédation dépend de la taille et, en conséquence, la mortalité naturelle est très importante chez les individus de plus petite taille. Le risque de prédation décroît en fonction de la taille du poisson. Plus les repeuplements sont importants, plus les conditions sont favorables aux prédateurs. La détermination du niveau de prédation sur les oeufs et les larves peut d'ailleurs servir à estimer le taux de recrutement des corégones dans de nombreux lacs.
+
+Certains effets positifs ont été observés dans des lacs polonais légèrement eutrophes dans lesquels les lavarets issus des repeuplements ont tendance à remplacer les petits cyprinidés dans les communautés piscicoles et améliorent de cette façon la qualité de l'environnement et la valeur des captures. L'impact peut alors s'avérer similaire à celui résultant de l'élimination massive d'espèces indésirables. Certaines observations indiquent que pour des lacs dans lesquels les stocks de petite marêne et de lavaret sont constitués de spécimens de grande taille et où l'abondance de la population est restée très faible pendant plusieurs années, des éliminations massives d'espèces indésirables peuvent induire une augmentation très importante des populations de petite marêne et de lavaret.
+
+Aux endroits où des repeuplements d'hybrides de peled et de lavaret ont été effectués dans des lacs eutrophes, soit à partir d'écloseries, soit par des hybridations naturelles, la croissance de la population s'est avérée faible, la reproduction précoce et la valeur des captures faible.
+
+3.4 Sujets de repeuplement et saison des opérations
+
+Il est très important de prendre en compte les facteurs écologiques pour déterminer les sujets à déverser (espèce, stade de développement, taille, etc.) et la saison des opérations de repeuplement. La sensibilité aux manipulations dépend des conditions physiologiques, de la taille du poisson destiné au repeuplement et de la température ambiante. Il est évident que plus le poisson destiné au repeuplement est gras, moins il est résistant et que plus la température est élevée, plus il est sensible aux manipulations. La taille des poissons de repeuplement doit être déterminée sur base des conditions environnementales (exigences physiologiques quant à la qualité de l'eau, composition des espèces, prédation, etc.).
+
+L'environnement physique et le taux de prédation varient en fonction des saisons et doivent être pris en considération pour déterminer la période appropriée pour les opérations de repeuplement. D'autre part, la période des opérations de repeuplement doit être déterminée sur base des cycles de production et des périodes de repeuplement techniquement souhaitables. Les transferts pour les petites marênes ne devraient s'effectuer qu'en hiver quand les jeunes de l'année sont faciles à récolter et que le transport peut être organisé avec un minimum de pertes de poisson.
+
+3.5 Pathologie et génétique
+
+Les corégones peuvent être porteurs de nombreuses maladies bactériennes, virales ou parasitaires propres aux salmonidés. La probabilité de ce portage s'accroît normalement avec l'âge et la taille. Les parasites les plus observés sont Diplostomum, Proteocephalus et Triaenophorus dans les élevages en étang et en écloserie. Les populations denses peuvent accroître la sensibilité à certains parasites qui sont susceptibles de déprécier la valeur des captures. Triaenophorus est particulièrement problématique là où les brochets sont abondants; la valeur marchande des poissons parasités peut alors être pratiquement nulle. Pour cette raison, il est très important d'utiliser dans la mesure du possible du matériel de repeuplement porteurs de charges parasitaires minimales.
+
+Lorsque les poissons provenant d'écloserie sont déversés, ils peuvent avoir un effet génétique néfaste à cause de la consanguinité, l'hybridation et l'introgression dans les populations naturelles de corégones. Il peut en découler une perte de variabilité génétique (caractère hétérozygote réduit) et un accroissement des gènes "d'écloserie" non adaptés et, par conséquent, une réduction de la tenue et la vigueur générale des stocks de corégones, mais très peu d'informations sont disponibles sur le sujet.
+
+Les risques génétiques sont peu importants dans les lacs où les stocks de corégones ne se reproduisent pas naturellement mais ils peuvent être très importants dans les lacs oligotrophes où les stocks sont naturels. Le matériel local doit toujours être utilisé là où c'est possible. Le transfert de corégones vers un nouvel environnement ou vers de nouvelles aires géographiques dans lesquelles des populations de corégones indigènes existent déjà est risqué, s'il est destiné à produire une population qui se maintient d'elle-même dans la mesure où la relation entre la période de reproduction et les conditions environnementales semble être, au moins partiellement, déterminées génétiquement; les hybrides pourraient ainsi être moins bien adaptés que les stocks d'origine.
+
+Les risques génétiques et pathologiques qui entrent en jeu dans les repeuplements peuvent être réduits en respectant les consignes suivantes:
+* Afin de maintenir une base solide pour le matériel de repeuplement, les lacs qui possèdent une souche locale utilisée pour la récolte de frai destiné à l'élevage en écloserie ne devraient pas être repeuplés avec d'autres matériels que la souche locale.
+* Les lavarets provenant de régions marines ne devraient pas être introduits dans les eaux continentales et les oeufs de lavarets marins devraient être désinfectés soigneusement lorsque l'incubation se déroule en eaux douces.
+* Le transport de poissons d'un réseau hydrographique à l'autre devrait être réduit au strict minimum.
+* L'origine des poissons utilisés pour le repeuplement, leur condition et les risques sanitaires éventuels doivent être examinés avant le repeuplement.
+* Pour éviter une reproduction sélective non intentionnelle, il est important d'utiliser tout l'éventail de la population reproductrice. Par exemple, la récolte de trop de matériel tôt dans la saison de reproduction favorise la maturité précoce et par conséquent les plus petits poissons.
+
+3.6 Impact environnemental
+
+Lors de repeuplements intensifs de petite marêne et de peled, on peut s'attendre à un accroissement de la prolifération des algues et de la biomasse, de par leur forte prédation sur le zooplancton; pour cette raison, leur utilisation n'est pas toujours considérée comme favorable dans les réservoirs d'eau potable. Cependant, il est évident qu'un repeuplement intensif en petite marêne peut améliorer la qualité de l'environnement et ralentir le processus d'eutrophisation. Ceci est dû au fait que les captures de petite marêne provenant de repeuplements peuvent être très importantes et que des quantités substantielles de phosphore sont retirées de l'écosystème à l'occasion de la capture de poissons. Pour cette raison, le repeuplement en petite marêne a également un effet bénéfique indirect sur le stock de poissons dans les lacs. Il existe des lacs dans lesquels l'équilibre écologique est maintenu principalement grâce aux repeuplements importants en petite marêne et grâce à une
+pression de pêche importante (par exemple, le Lac Maroz). La contradiction apparente de l'expérience polonaise face aux résultats des biomanipulations s'explique par le fait que la pêche dans les lacs polonais est une pêche très efficace portant sur plusieurs espèces (en fait une expérience de biomanipulation à grande échelle).
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+4. CONSIDÉRATIONS HALIEUTIQUES
+
+4.1 Potentiel de capture
+
+Le potentiel de capture n'est pas seulement affecté par l'espèce de corégone utilisée pour le repeuplement mais aussi par les facteurs environnementaux abiotiques et biotiques et les facteurs intrinsèques de la population en question (voir point 3). Ceux-ci devraient être pris en compte avant de décider d'un repeuplement en corégone. Pour fixer le potentiel de capture, une procédure en trois étapes est recommandée.
+
+Dès que le gestionnaire est convaincu que les conditions générales sont favorables au repeuplement, il doit considérer la relation entre le potentiel de capture, le stade de développement et la densité de repeuplement en vue de la détermination des prélèvements à réaliser par la pêche. Il faut insister sur le fait que les prélèvements prévus doivent être réalistes. Dans le but d'accroître les prises, une erreur fréquente est d'utiliser une densité initiale de repeuplement trop élevée. La première étape est d'examiner les données du tableau 1, qui résume tous les résultats connus chez les corégones en termes de nombre de poissons nécessaires au repeuplement en vue de dégager 1kg/ha de capture. Par exemple, si dans un lac eutrophe, l'objectif est d'accroître les captures de lavaret de 1 kg/ha, celui-ci pourra être atteint en déversant 323 larves (=1000/3,1) ou 38 juvéniles de l'été (=1000/26,3) ou 15 juvéniles de l'automne (=1000/66,7).
+
+Tableau 1. Captures (kg/1000 poissons déversés) provenant des repeuplements en corégones, pour chaque stade de développement et dans le cas de lacs oligotrophes (finlandais) et eutrophes (polonais).
+
+L'amplitude est indiquée entre parenthèse, sauf pour les larves vésiculées pour lesquelles seule l'amplitude est indiquée. Les "?" indiquent que les résultats ne sont pas connus.
+
+STADEDE DEVELOPPEMENT PETITE MARÊNE PELED LAVARET
+OLIGO. EU. OLIGO. EU. OLIGO. EU.
+Larves vésiculées 0 - 0,04 0,17 - 5 0 - 14,9 0 - 26,3 0 -7,3 ?
+Larves ? ? ? 16,9
+(4,7 - 83,3) ? 3,1
+(0,9 - 38,5)
+Juvéniles
+- Eté ? ? ? 8
+(0 - 333) ? 26,3
+(8,5 - 83,3)
+- Automne 15,9 ? 62,5
+(3 - 142,9) 26,3
+(1 - 200) 55,6
+(2 - 250) 66,7
+(2 - 250)
+
+L'amplitude des données reprises au tableau 1 est très grande. Les captures provenant du repeuplement ne sont pas seulement affectées par les conditions environnementales et la densité des repeuplements mais également par la pêche. Naturellement, s'il n'y a pas de pêche, le produit des repeuplements est nul. Au point de vue de l'aménagement des pêches, l'effort de pêche devrait être pris en considération pour la densité de repeuplement. Cela peut être fait dans la deuxième étape du raisonnement.
+
+Lorsqu'il existe suffisamment de données comparatives, cette seconde étape consiste à procéder à une analyse statistique des variables que l'on sait être significatives dans une aire géographique donnée. Cette méthode tient compte des considérations environnementales et halieutiques et donc de l'ajustement de la densité de repeuplement. Cette approche a été utilisée en pratique pour l'aménagement des pêches, au moins en Pologne (pour la petite marêne et le lavaret) et en Finlande (pour le lavaret). Les résultats de l'expérience polonaise sont disponibles à l'Institut des Pêches Intérieures à Olsztyn. En ce qui concerne la Finlande, l'annexe 2 présente un exemple d'application pour les repeuplements en juvéniles de lavarets. Cette méthode fournit une base de travail pour la régulation des pêches et du repeuplement qui pourront ultérieurement être ajustés en fonction du suivi des résultats de la pêche.
+
+La taille des poissons déversés est un facteur important qui affecte le potentiel de capture. Le tableau 1 nous montre que les captures qui résultent des repeuplements sont fonction du stade de développement. Cependant, l'accroissement n'est pas linéaire (Fig. 2a). Les juvéniles d'été peuvent, à peu de choses près, donner d'aussi bons résultats que les juvéniles d'automne. Les observations faites en Finlande confirment également que la taille des juvéniles d'automne a un effet très faible sur les captures provenant du repeuplement. Un aspect primordial est que l'incertitude du potentiel de capture décroît aux stades de développement les plus avancés (Fig. 2c), ce qui est une indication de l'effet de la taille sur les captures.
+
+La troisième étape du raisonnement devrait être une adaptation des règles d'aménagement. Ces règles devront être revues de temps à autre, mais cela devrait être fait de manière progressive, à des intervalles de temps suffisamment espacés pour pouvoir observer la rendement de la pêche à différents stades. Diverses méthodes sont disponibles pour tester l'efficacité des repeuplements: par exemple, des comparaisons entre lacs, l'étude de séries temporelles, l'alternance des années de repeuplement, l'analyse des captures ou des effectifs des classes d'âge. La contribution de toute population présente naturellement devrait également être prise en compte par le biais de techniques telles que la récolte des oeufs sur le fond, la comparaison des larves issues du peuplement naturel ou du repeuplement, le marquage des poissons.
+
+4.2 Effets sur les populations de même espèce
+
+Il peut y avoir des effets à court et à long terme de l'espèce de repeuplement sur les populations de même espèce. Cela suppose qu'une population autonome de l'espèce soit présente dans le lac et donc la plupart des lacs eutrophes sont hors propos.
+
+Les effets à long terme sont peu connus, bien que l'on sache que l'hybridation et très probablement l'introgression se sont déjà manifestées (cf. point 3). De plus, il peut y avoir des effets sur la distribution et l'abondance des pathogènes et d'autres parasites des poissons. Les effets des facteurs génétiques et pathologiques sur le rendement de la pêche restent à ce jour inconnus.
+
+On en connaît davantage sur les effets à court terme. Le repeuplement à l'aide d'oeufs fécondés et des larves vésiculées de toutes les espèces de corégones ont très peu d'effets néfastes dans les lacs qui abritent un stock endémique (pas ou peu d'augmentation des captures). Les repeuplements en juvéniles accroissent le taux de capture mais les repeuplements excessifs ont, dans de nombreux cas, contribué à un ralentissement de la croissance des populations et à la réduction de l'importance et de la valeur marchande des captures. Comme les repeuplements en juvéniles réussissent dans la plupart des cas, il y a une plus grande probabilité d'effets génétiques (augmentation des gènes "d'écloserie") et, au moins en théorie, il est probable que la population de repeuplement détrône la population endémique.
+
+4.3 Effets sur les populations des autres espèces de la pêcherie
+
+De par les interactions complexes dans les écosystèmes d'eau douce, il est difficile de prévoir les effets des repeuplements sur l'écosystème ou la production totale de poissons. Cependant, si le repeuplement est réussi, il affecte le flux d'énergie dans toute la communauté. On connaît très peu de choses jusqu'à présent des effets précis des repeuplements au niveau des communautés. Quelques exemples connus sont présentés au point 3.3 (considérations d'ordre écologique).
+
+4.4 Répartition des captures entre les groupes d'utilisateurs
+
+Les repeuplements peuvent entraîner des conflits entre les différents groupes de pêcheurs et les autres utilisateurs de l'eau. La petite marêne et le lavaret ont été, le plus souvent, des espèces destinées à la subsistance et aux pêcheurs professionnels. Le lavaret a maintenant une importance croissante pour la pêche à la ligne.
+
+Les repeuplements peuvent changer la répartition des prises entre la pêche commerciale, de subsistance et récréative. Actuellement, il y a de la pêche commerciale dans des lacs où il n'en existait pas avant repeuplement. Les prises commerciales s'effectuent à l'aide de verveux et, dans une certaine mesure, à l'aide de chaluts qui réduisent les prises aux filets maillants. L'importance moyenne de la taille des captures au verveux et au chalut est plus faible que celle observée pour le filet maillant. Cela peut créer des conflits entre les groupes de pêcheurs. Dans certains cas, des repeuplements excessifs ont occasionné un ralentissement de la croissance des lavarets de repeuplement. Cela a réduit les captures de la pêche de subsistance et appauvrit la condition du poisson.
+
+4.5 Effets dans les pêcheries à stocks mélangés
+
+Dans les pêcheries à stocks mélangés, il faut considérer les taux de croissance pour les repeuplements potentiels et la méthode de pêche proposée. Par exemple, l'introduction du peled dans le lac de Starnberg a été un échec parce que, avant d'avoir pu se reproduire, il était vulnérable aux filets maillants conçus pour la pêche du lavaret, dont la vitesse de croissance est plus faible.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+5. FACTEURS ÉCONOMIQUES
+
+La rentabilité des repeuplements peut être calculée si les coûts et bénéfices sont connus ou faciles à obtenir. Les coûts devraient inclure la récolte du frai en milieu naturel ou de la production d'oeufs en pisciculture, l'incubation des oeufs, l'élevage des larves et juvéniles, le transport et le repeuplement. Les coûts financiers devraient également être considérés dans leur intégralité.
+
+La valeur des prises est obtenue en multipliant les captures provenant des repeuplements par le prix moyen du poisson. Dans les pêcheries commerciales, il est conseillé de tenir compte des coûts liés à la pêche; en Finlande et en Pologne, ces coûts sont estimés à environ 30 % de la valeur des captures. Pour la pêche de subsistance et récréative, les coûts liés à la pêche peuvent être ignorés. Il est évident que si la probabilité de capture d'un poisson de repeuplement augmente, la demande de licences augmente également. Pour cette raison, il faut au moins évaluer les captures provenant de poissons de repeuplement dans le cas où les bénéfices sont mesurés en terme d'accroissement de revenus provenant de la perception de droits de pêche.
+
+L'indice le plus simple de rentabilité pour le repeuplement est le ratio économique coût/bénéfice. Ce ratio peut être plus faible si la rentabilité n'est pas le seul objectif des repeuplements. Il faut aussi se rappeler que certains des profits de repeuplements sont difficiles voire impossibles à déterminer en termes financiers. Cela est valable pour tous les cas où les conséquences des repeuplements sont des profits d'ordres social et écologique qui, a priori, ne peuvent être exprimés en terme d'argent.
+
+La rentabilité des repeuplements est affectée par la taille (stade de développement) des corégones déversés. On sait que les captures issues de juvéniles sont plus importantes que celles issues de larves vésiculées (Fig. 2a) et que, dans les groupes de juvéniles, la taille n'a en revanche qu'un faible effet sur les résultats. Les captures provenant de repeuplements à partir de larves vésiculées sont plus difficiles à prévoir et très variables (à cause des facteurs environnementaux aléatoires) alors qu'au départ de juvéniles, elles peuvent être ajustées de façon précise (survie et croissance dépendantes de la densité).
+
+Les coûts de production des corégones de repeuplement augmentent en fonction de la taille des poissons (Fig. 2b), mais les coûts de repeuplements augmentent moins rapidement et de façon non linéaire. Ceci est dû au fait qu'il faut moins de poissons pour obtenir la même quantité de captures supplémentaires à partir des poissons de repeuplement lorsque la taille de ceux-ci est plus importante. L'incertitude des captures provenant des repeuplements et l'incertitude économique qui en résulte décroît également en fonction de la taille du poisson (Fig. 2c). Lorsque l'on dépasse une certaine taille de transition, les captures issues du repeuplement deviennent plus faciles à prévoir.
+
+L'objectif est donc d'utiliser du matériel de repeuplement d'une taille optimale pour le ratio entre les captures et les coûts des repeuplements et ce, tout en minimisant les incertitudes économiques et sociales. En aucun cas, la taille qui donne la plus grande rentabilité n'a pu être arrêtée définitivement, mais logiquement cette taille doit se situer quelque part dans le stade larvaire ou dans le début du stade post larvaire (Fig. 2d).
+
+Figure 2. Modèle conceptuel indiquant la taille optimale du corégone d'un point de vue économique. La zone hachurée montre la taille optimale. A) Amplitude des captures provenant des repeuplements en corégones pour une gestion contrôlée ou non contrôlée. B) Coûts de production (production), fonction de la taille du poisson.
+Coûts de repeuplement par unité supplémentaire de capture (Repeuplement = Nb. relâché × (coûts de production + le transport et autres coûts de repeuplement)). C) Rentabilité de repeuplement en fonction de la taille des corégones relâchés.
+
+Figure 2.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+6. COÛTS ET EFFETS SOCIAUX
+
+Les bénéfices et contraintes sociales liées aux repeuplements sont difficiles à chiffrer en terme d'argent. Le nombre de personnes employées (construction d'étangs et d'écloseries, gestion des écloseries et des étangs, aménagement des pêches, pêche, etc.) et parfois aussi leur valeur sociale peuvent être estimés. En plus de cela, il y a d'autres bénéfices difficiles à évaluer en termes financiers, comme ceux du poisson pour sa valeur alimentaire et récréationnelle. Toutes ces implications sociales peuvent être prises en compte de façon imprécise en abaissant le ratio coût/bénéfice souhaité.
+
+S'il peut y avoir des bénéfices, il peut y avoir aussi contraintes. Il peut y avoir des conflits entre les différents utilisateurs de l'eau liés directement aux programmes de repeuplement. Dans ce cas, les effets considérés comme bénéfiques par un groupe d'utilisateurs peuvent être perçus négativement par l'autre. Par exemple, on connaît des cas en Pologne où les repeuplements en lavarets de certains lacs ont attiré un grand nombre de pêcheurs à la ligne. Ceux-ci ne se contentaient pas de pêcher massivement le lavaret mais détruisaient également (par simple curiosité) les filets posés par les pêcheurs professionnels. Par conséquent, les pêcheurs professionnels qui avaient supporté les frais du repeuplement ont subi des pertes économiques, tandis que les pêcheurs à la ligne considéraient ces lacs comme hautement attractifs. D'un point de vue socio-économique, le programme de repeuplement s'est traduit par un bénéfice pour les pêches à la ligne, mais les pêcheurs
+professionnels l'ont trouvé nuisible et non rentable.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+7. ÉVALUATION DES INFORMATIONS ET DES MÉTHODES DISPONIBLES
+
+La quantification de tous les effets écologiques des repeuplements est impossible sur base des connaissances actuelles. Pour cette raison, les risques éventuels devraient être examinés attentivement et évalués séparément pour chaque cas. Les autorités qui ont la pêche dans leur attributions devraient contrôler tous les programmes importants de repeuplement et rejeter ceux pour lesquels les risques encourus sont trop importants ou ceux pour lesquels les objectifs d'aménagement des pêches ne seraient probablement pas atteints.
+
+La condition de départ indispensable à la mise en oeuvre de tout repeuplement est le respect des exigences de l'espèce concernée quant à la qualité de l'eau.
+
+Il est souhaitable de ne pas réaliser de repeuplement dans les conditions énumérées dans le tableau 2.
+
+On admet généralement que les repeuplements sont économiquement profitables lorsque le ratio coût/bénéfice est supérieur à 1. De nouveaux projets de repeuplement sont susceptibles d'avoir un niveau plus important d'incertitude et, pour cette raison, il est prudent de les prévoir initialement avec un ratio plus élevé. D'autre part, la plupart des programmes de repeuplement génèrent des bénéfices sociaux et ceux-ci peuvent mitiger les erreurs possibles lors de l'évaluation économique. Dans certains cas, les repeuplements ont été justifiés d'un point de vue purement social mail il n'est pas recommandé que des programmes de repeuplement à long terme soient entrepris sans une évaluation plus complète des facteurs entrant en jeu.
+
+Tableau 2. Résumé des situations dans lesquelles, sur base de considérations écologiques, les repeuplements ne sont pas recommandables. Ces recommandations sont valables pour les différents stades de développement.
+
+Espèces Repeuplements non recommandés
+Lacs oligotrophes
+Petite marêne Pas de repeuplement dans les lacs avec des stocks de petites marênes pêchables (l'objectif ne peut être la stabilisation des captures)
+Pas de repeuplement dans les lacs abritant du lavaret (pas de petite marêne indigène) si le lavaret est l'espèce de prédilection pour la pêche.
+Peled Pas d'introduction ou de repeuplement dans des lacs ou réservoirs qui abritent des lavarets indigènes.
+Lavaret Pas de repeuplement dans des lacs où des populations indigènes autonomes de lavarets existent.
+Pas d'introduction dans des lacs abritant l'omble chevalier si l'omble est l'espèce favorite pour la pêche.
+Pas de repeuplement dans les lacs où les lavarets de trop petite taille abondent et où l'effort de pêche est faible.
+Pas de repeuplement dans de petits lacs abritant de l'omble chevalier (dans de grands lacs, des repeuplements de faible densité sont possibles)
+Pas de repeuplement (ou à des densités de repeuplement très faibles) dans les lacs importants pour la pêche de la petite marêne.
+Autres lacs:
+Petite marêne et lavaret Dans les lacs et réservoirs abritant des petites marênes pêchables ou des stocks de lavarets, il ne faudrait pas déverser des poissons provenant d'autres pièces d'eau.
+Peled Comme pour les lacs oligotrophes.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+8. MISE EN OEUVRE
+
+Les opérations de repeuplement doivent être planifiées prudemment en commençant par la production et en terminant par le suivi et l'ajustement des repeuplements sur base de l'analyse des résultats de la pêche. Un modèle de mise en oeuvre du repeuplement et d'analyse des résultats de la pêche figure à l'annexe 3. Plusieurs guides pour le transport des poissons et le repeuplement sont également disponibles, par exemple le Document Technique de la CECPI, No. 48 publié en 1986.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières
+
+
+ANNEXE 1
+TERMINOLOGIE (Document Technique de la CECPI N^o 44, 1984).
+
+1) Espèce introduite: (= espèce non-indigène; comprend aussi bien les espèces non-indigènes que les espèces exotiques): toute espèce intentionnellement ou accidentellement transportée et relâchée par l'homme dans un milieu extérieur à son aire actuelle de répartition.
+
+2) Espèce transférée: (=espèce transplantée): toute espèce intentionnellement ou accidentellement transportée et relâchée dans son aire de répartition.
+
+3) Repeuplement: lâcher intentionnel d'organismes aquatiques dans le but d'utiliser la productivité biologique naturelle de plans d'eau naturels ou artificiels (tels que les réservoirs) autres que les bassins de pisciculture ou autres unités d'élevage intensif.
+
+4) Buts des repeuplements
+* Compenser: pour remplacer un stade du cycle biologique supprimé par l'intervention de l'homme (en l'absence de repeuplement le stock disparaîtrait).
+* Entretenir: pour soutenir les stocks qui doivent faire face aux pressions du milieu ou de la pêche qui les empêchent d'atteindre leur capacité de charge naturelle.
+* Améliorer: pour maintenir la production au-dessus du niveau qu'elle atteindrait naturellement en présence d'une forte exploitation.
+* Stocker et récolter: pour fournir des poissons de la taille autorisée pour la capture en vue d'une rapide exploitation par les pêcheurs à la ligne (contribution minimale du milieu).
+* Stocker et récolter après croissance: pour fournir des poissons qui devront atteindre la taille autorisée pour la capture avant d'être exploités par les pêcheurs à la ligne (une certaine contribution du milieu).
+* Repopulation: établissement d'un stock unitaire d'une communauté dans des eaux d'où il a été éliminé auparavant.
+* Accroître la diversité: pour augmenter la gamme d'espèces disponibles dans une pêcherie.
+* Occuper une niche: pour introduire des stocks qui utiliseront un espace ou une ressource considérée comme inexploitée.
+* Créer du poisson-fourrage: pour fournir une espèce-proie pour améliorer la production de la pêche à la ligne ou de la pêche commerciale.
+* Lutter contre les ravageurs: pour fournir des organismes en mesure de limiter la flore ou la faune considérée comme nuisibles à l'homme.
+* Améliorer le milieu: pour fournir des organismes susceptibles d'avoir des effets positifs sur l'écosystème.
+* Conserver: pour entretenir la diversité génétique (pour conserver les espèces ou les stocks menacés.
+
+5) Nomenclature des termes des stades de développement des corégones utilisés dans ce document:
+* Oeufs fécondés: la phase qui va de la fécondation des oeufs jusqu'à leur éclosion.
+* Les larves vésiculées: la phase qui va de l'éclosion à la résorption de la vésicule.
+* Larve: la phase qui va de la première absorption de nourriture à l'acquisition minimale des rayons de nageoires des adultes^1.
+* Juvénile: la phase qui va de l'acquisition du minimum des rayons de nageoires des adultes à la maturité sexuelle (on peut encore les subdiviser en juvéniles de l'été et juvéniles d'automne, etc. ou sur base de leur taille)
+* Adultes: la phase qui va de la maturité sexuelle à la vieillesse (généralement utilisé en rapport avec les transferts de poisson).
+
+^1 En pratique, les repeuplements en larves sont généralement effectués après avoir été initialement nourries
+
+ANNEXE 2
+MODÈLE POUR LE REPEUPLEMENT EN JUVÉNILES DE LAVARETS DANS LES LACS FINLANDAIS
+
+De nombreux facteurs affectent les captures provenant de repeuplements en juvéniles de lavaret, mais les deux variables les plus importantes détectées par une analyse de régression multiple sont l'effort de pêche (mesuré en nombre de filets maillants utilisés pour la pêche du lavaret) et la densité du repeuplement (F[2,37] = 28,06; P<0,0001; R^2=0,60).
+
+* Les captures provenant des repeuplements peuvent être augmentées par un effort de pêche plus soutenu et par le déversement d'un plus grand nombre de juvéniles, jusqu'à 30 individus/ha.
+* Du point de vue de l'aménagement des pêches, il est préférable de faire varier l'effort de pêche. L'accroissement de l'effort de pêche augmente les captures/1000 juvéniles déversés et les revenus des licences de pêche au filet maillant. L'accroissement des densités de repeuplement occasionne des coûts plus élevés et des captures plus réduites/1000 juvéniles déversés si l'effort de pêche est stable.
+* Un effort de pêche assez élevé est également important parce qu'il déclenche des mécanismes compensatoires; par exemple, le taux de croissance individuelle augmente, ce qui conduit à des captures d'une plus grande valeur.
+* Il n'est pas recommandable d'augmenter les densités de repeuplement à une fréquence plus élevée que tous les 5 ans, mais l'effort de pêche, lui, peut être ajusté sur une base annuelle.
+* Les captures issues du repeuplement ne peuvent pas être accrues indéfiniment en augmentant l'effort de pêche, puisque le potentiel de croissance du lavaret est limité et qu'il y aura toujours une part du stock de lavaret qui disparaîtra par mortalité naturelle. Tous les rendements connus des repeuplements effectués au départ de juvéniles de lavaret ont été < 500 kg/1000 juvéniles déversés.
+
+Pour une pêche efficace, la densité de la population devrait être relativement élevée (taille du stock exploitable). La densité de repeuplement et l'effort de pêche devraient être ajustés de telle sorte que les captures/1000 juvéniles déversés soient approximativement de 75-150 kg.
+
+ANNEXE 3
+PLAN DE MISE EN OEUVRE POUR LE REPEUPLEMENT/DE A
+
+Lieu de repeuplement:
+District de pêche: Zone de pêche:
+Propriétaire de la pièce d'eau: Pièce d'eau:
+Surface de la pièce d'eau: ha Type d'eau:
+
+Pêche actuelle:
+Pêcheurs professionnels: Pêcheurs de subsistance:
+Pêcheurs de loisir Prises de corégones: kg/ha
+Nombre d'engins de pêche: unités Applicables pour les corégones unités
+
+Objectifs de l'aménagement des pêches:
+
+Objectifs des repeuplements:
+Captures souhaitées: kg/ha Effort de pêche: filets/ha
+Autres objectifs:
+
+Matériel de repeuplement:
+Type de corégone: Age: Taille:
+Nb. d'alevins nécessaire: Densité de repeuplement: ind./ha
+Prix des alevins: /ind.
+Écloseries/étang etc.:
+Contrôle sanitaire:
+
+Repeuplements:
+Moment: Lieu:
+Personne responsable:
+
+Profit:
+Valeur des prises: Prix des alevins:
+Revenu des permis: Frais de transports:
+Autres bénéfices: Autres coûts:
+Somme des bénéfices: Somme des coûts:
+
+RATIO COÛT/BÉNÉFICE:
+
+
+Bénéfices sociaux:
+
+
+Organisation du contrôle des résultats:
+
+
+Plan est accepté par:
+Le district de pêche:
+La région de pêche:
+Le propriétaire de la pièce d'eau:
+
+Plan réalisé par:
+
+ANNEXE 4
+RÉFÉRENCES
+
+Bninska M. and M. Leopold, 1990. Fisheries management in Polish lakes. In: W.L.T. van Densen, B. Steinmetz & R.H. Hughes (eds). Management of freshwater fisheries. Proceedings of a symposium organized by the European Inland Fisheries Advisory Commission, Goteborg, Sweden 31 May-3 June 1988. Pudoc. Wageningen pp 406-436.
+
+Hartmann J. 1988. Ist die Rekrutierung (Jahrgangsstärke) beim Bodenseefelchen (Coregonus lavaretus) schon verstanden? Osterreichs Fischerei 41. p. 135-142
+
+Müller R. 1990. Management practices for lake fisheries in Switzerland. In: W.L.T. van Densen, B. Steinmetz & R.H. Hughes (eds). Management of freshwater fisheries. Proceedings of a symposium organized by the European Inland Fisheries Advisory Commission, Goteborg, Sweden 31 May-3 June 1988. Pudoc. Wageningen pp 477-492.
+
+Salojärvi K. 1992. The role of compensatory processes in determining the yield from whitefish (Coregonus lavaretus L. s.l.) stocking in inland waters in Northern Finland. Finnish Fisheries Research 13. p 1-30.
+
+Svardson G. 1976. Interspecific population dominance in fish communities in Scandinavian lakes. Rep. Inst. Freshwater Res. Drottningholm 55. p 144-171.
+
+Szczeerbowski J. 1977. Effectiveness of stocking lakes with lake whitefish. Efekywnosc zarybinia jezior sieja Rocz. Nauk Roln. Ser. H. 98(2), p 117-1 33.
+
+Todd T.N. 1983. The feasibility of mass-culturing coregonines in the Great Lakes. Research Completion Report 179p (mimeo).
+
+
+Page précédente Début de page

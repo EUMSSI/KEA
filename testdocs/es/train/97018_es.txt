@@ -1,0 +1,1027 @@
+FAO, Informe de Pesca N^o 289 FIPP/FIRM/R289 (Es)
+
+Cover
+
+INFORME DE LA CONSULTA DE EXPERTOS SOBRE LA REGULACION DEL ESFUERZO DE PESCA (MORTALIDAD ICTICA)
+
+CONTENIDO
+
+
+Roma, 17-26 de enero de 1983
+
+Reunión preparatoria para la Conferencia Mundial de la FAO
+sobre Ordenación y Desarrollo Pesqueros
+
+Las denominaciones empleadas en esta publicación y la forma en que aparecen presentados los datos que contiene no implican, de parte de la Organización de las Naciones Unidas para la Agricultura y la Alimentación, juicio alguno sobre la condición jurídica de países, territorios, ciudades o zonas, o de sus autoridades, ni respecto de la delimitación de sus fronteras o límites.
+
+M-43
+ISBN 92-5-301394-X
+
+Reservados todos los derechos. No se podrá reproducir ninguna parte de esta publicación, ni almacenarla en un sistema de recuperación de datos o transmitirla en cualquier forma o por cualquier procedimiento (electrónico, mecánico, fotocopia, etc.), sin autorización previa del titular de los derechos de autor. Las peticiones para obtener tal autorización, especificando la extensión de lo que se desea reproducir y el propósito que con ello se persigue, deberán enviarse al Director de Publicaciones, Organización de las Naciones Unidas para la Agricultura y la Alimentación, Via delle Terme di Caracalla, 00100 Roma, Italia.
+
+PREPARACION DE ESTE DOCUMENTO
+
+Se trata del informe de la Consulta de Expertos sobre la Regulación del Esfuerzo de Pesca (mortalidad íctica), que es una de las reuniones preparatorias para la Conferencia Mundial sobre Ordenación y Desarrollo Pesqueros, aprobada por los participantes a la conclusión de la reunión de Roma, 17-26 de enero de 1983. Un estudio más amplio de los problemas relativos al control del esfuerzo de pesca, basándose en los trabajos escritos enviados a la Consulta y los debates durante la reunión, está siendo preparado por los Dres Beddington y Rettig y se publicará como Documento Técnico de Pesca. También se publicará una selección de los documentos presentados en la Consulta como complemento de este informe.
+
+RESUMEN
+Se examinan los problemas relativos al control del esfuerzo de pesca. Todo método deberá satisfacer ciertos criterios - mantener la productividad del recurso, rendimiento económico y equidad (o necesidades sociales). Se examinan los métodos para lograr estos objetivos, entre ellos, límites de captura, control directo de la capacidad de la flota (por ejemplo, limitación de licencias) medidas indirectas (luz de malla, zonas vedadas) medidas financieras y derechos de propiedad. Se discuten las ventajas e inconvenientes de cada método teniendo en cuenta los criterios establecidos. No hay un método único. La ordenación de la mayor parte de las pesquerías exigirá la aplicación de varios métodos y no puede separarse del desarrollo.
+
+Distribución: Para fines bibliográficos este documento debe ser citado como sigue:
+Departamento de Pesca de la FAO
+Oficiales Regionales de la FAO
+Directores de Pesca
+Selector SM
+Ordenación de la Pesca
+
+FAO, 1983 Informe de la Consulta de Expertos sobre la regulación del esfuerzo de pesca (mortalidad íctica). Roma, 17-26 de enero de 1983. Reunión preparatoria para la Conferencia Mundial de la FAO sobre ordenación y desarrollo pesqueros. FAO Inf.Pesca, (289):32 p.
+
+ORGANIZACION DE LAS NACIONES UNIDAS PARA LA AGRICULTURA Y LA ALIMENTACION
+Roma © FAO 1983
+
+
+Los hiperenlances que remiten a sitios Internet distintos de los de la FAO no implican, de parte de la Organización, ratificación oficial o responsabilidad respecto a opiniones, ideas, datos o productos presentados en dichos sitios, o una garantía de validez acerca de las informaciones que contienen. El único propósito de los enlaces a sitios distintos de los de la FAO es proporcionar otras informaciones disponibles sobre asuntos conexos.
+
+La presente versión electrónica de este documento ha sido preparada utilizando programas de reconocimiento óptico de texto (OCR). La FAO declina cualquier responsabilidad por las eventuales diferencias que puedan existir entre esta versión y la versión original impresa.
+
+
+CONTENIDO
+
+APERTURA DE LA REUNION
+
+CRITERIOS PARA LA REGULACION
+
+TECNICAS DE REGULACION DEL ESFUERZO DE PESCA
+
+Regulación según Límites de Captura
+Métodos Alternativos para la Regulación del Esfuerzo y Algunos Problemas Especiales
+Reglamentación sobre Luz de Malla/Selectividad del Equipo
+Respuestas de las Pesquerías
+Regulación del Esfuerzo mediante Licencias para las Embarcaciones/Control del Equipo, Licencias para los Pescadores
+Conservación del Recurso
+Eficiencia Económica
+Equidad
+Viabilidad Administrativa y Política
+Conclusiones
+Regulación del Esfuerzo de Pesca mediante Medidas Monetarias
+Regulación del Esfuerzo mediante Derechos de Propiedad
+
+EVALUACION DE TECNICAS DE REGULACION DEL ESFUERZO DE PESCA
+
+Conclusiones Generales y Propuestas para tomar Medidas
+Objectivos
+Elección de Instrumentos de Ordenación
+
+APENDICE 1 Lista de Participantes
+2 Apéndice Provisional y Calendario
+3 Lista de Documentos
+Indice Página siguiente
+
+
+APERTURA DE LA REUNION
+
+1. La Consulta de Expertos sobre la Regulación del Esfuerzo de Pesca se celebró en Roma del 17 al 26 de enero de 1983. A ella asistieron 18 expertos así como seis consultores de la FAO y siete miembros de esta Organización. En el Apéndice 1 figura la lista de participantes.
+
+2. La Consulta fue presidida por el Dr G.D. Waugh. El Dr D. Menasveta, en nombre del Oficial encargado del Departamento de Pesca, Dr A. Labon, pronunció unas palabras de bienvenida.
+
+3. La Consulta aprobó el Programa y Calendario que figuran en el Apéndice 2. En el Apéndice 3 se reproduce la lista de documentos presentados durante la reunión.
+
+
+Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CRITERIOS PARA LA REGULACION (Documentos 1, 2, 3 y 4)
+
+4. Una de las razones de pedir un reexamen profundo del Derecho del Mar hace unos diez años fue la preocupación existente a causa del agotamiento de muchas poblaciones ícticas y las difficultades para ocuparse de ellas de acuerdo con el régimen internacional vigente. El nuevo Convenio da oportunidades a los países y también responsabilidades para ordenar sus pesquerías, especialmente en las zonas económicas nacionales ampliadas. Sin ordenación, los recursos pueden verse amenazados reduciéndose la cantidad y estabilidad del abastecimiento íctico y también los países puede que no logren los considerables beneficios económicos y sociales que pueden obtenerse cuando hay unas comunidades e industrias pesqueras prósperas. Al mismo tiempo, toda la ordenación, en el sentido de una u otra forma de intervención estatal, tiene algunos costos que aumentan según la intensidad y complejidad de la intervención. Por lo tanto, debe existir un equilibrio favorable entre los gastos y los
+ingresos de cualquier ordenación propuesta. Este equilibrio variará con el estado de desarrollo del país y de la pesca en cuestión. Incluso habrá algunos casos en que la situación especial de la pesca, a causa de su escasa importancia y las dificultades de intervención, justifique que el Gobierno no tome decisiones de ordenación para intentar regular el esfuerzo de pesca.
+
+5. Los participantes en la Consulta han sido elegidos teniendo en cuenta su experiencia y los éxitos y fracasos en lo relativo a regulación del esfuerzo. Estas experiencias se han producido predominantemente en los países desarrollados del Atlántico norte y Pacífico norte, en donde la supercapacidad ha constituido el problema crucial durante los últimos 20 años aproximadamente. Se admitió que una vez identificados los factores del éxito y fracaso en los países desarrollados eran necesarios más estudios y consultas para evaluar la posibilidad de transferir estas experiencias en términos de asesoramiento específico a determinados países en desarrollo. Sin embargo, entre los países las situaciones son muy diversas y se estimó que los debates se efectuarían mejor a nivel regional (por ejemplo, sudeste de Asia, América Latina) como ya se había previsto, por ejemplo, en el Comité de Pesca para el Atlántico centro-oriental (CPACO) en 1983.
+
+6. La Consulta examinó los objetivos generales de la ordenación pesquera y los criterios que podrían utilizarse al evaluar distintos sistemas. Se puso de relieve que debe existir un entendimiento de los objetivos antes de comenzar la ordenación sin que ello requiera una específicación explícita y detallada de los objetivos. Incialmente se podrían obtener ventajas si la declaración de objetivos se hiciera en términos generales. Hay una variedad de objetivos que deben ser examinados y éstos no siempre pueden lograrse simultáneamente siendo conveniente que las decisiones sobre objetivos se tomen gradualmente como parte del proceso regular de ordenación.
+
+7. Se convino en que los objetivos podrían resumirse en tres grupos - mantenimiento de los recursos, rendimiento económico y equidad (o necesidades sociales). Se podrían utilizar como criterios para juzgar el rendimiento de distintos planes de ordenación y además también se deberían tener en cuenta los costos de transacción (los costos de la investigación, administración y aplicación coercitiva). Es decir, el costo de lograr una serie de objetivos (costos/beneficios) es una parte integral del proceso iterativo de establecer y perfeccionar los objetivos. Se admite que la cuantificación de beneficios es algunas veces difícil pero es esencial para tomar decisiones sobre cantidad, métodos y complejidad de regulación.
+
+8. La Consulta admitió que la consecución de la renta máxima normalmente no es el principal objetivo de la ordenación pesquera. Aun cuando se acepte esto, convendría poner de manifiesto que los objetivos relativos a la eficacia económica no deben ser omitidos. Si si ignoraran, el efecto a largo plazo sería que el sector pesquero se convierta en un obstáculo para la sociedad en vez de una fuente de abastecimiento alimentario y de empleo seguro. Los criterios utilizados para determinar la eficacia económica variarán evidentemente de un país a otro como consecuencia de las necesidades de empleo, escasez de combustible y otras condiciones especiales.
+
+9. Todas las medidas de ordenación afectan a los pescadores. Por lo tanto, deben tenerse en cuenta los intereses y puntos de vista de los pescadores. La abrumadora mayoría de los pescadores se dedican a la pesca en pequeña escala, a la cual corresponde un gran porcentaje de toda la producción pesquera mundial. La mayor parte de estos pescadores viven en comunidades que tienen una gran tradición pesquera. Estas comunidades han dado lugar a características complejas de competencia y cooperación que deben ser tenidas en cuenta en cualquier plan de ordenación. Si los pescadores están convencidos de que las reglamentaciones son necesarias y convenientes, estarán más dispuestos a cumplir con ellas. Por otra parte, los pescadores no obedecerán aquellas leyes que no respetan y si se intentara ponerlas en ejecución afrontarían enormes dificultades.
+
+10. Se indicó que las pesquerías artesanales en pequeña escala son una amenaza mucho menor para los recursos que las modernas pesquerías industriales, lo cual es cierto cuando se refiere a las pesquerías tradicionales que pueden haber alcanzado un equilibrio entre el hombre y los recursos durante un largo período. Sin embargo, con el crecimiento demográfico, mejor comercialización y la difusión de la nueva tecnología (motores fuera de borda, redes sintéticas), muchas pesquerías artesanales están explotando excesivamente los recursos. Sería injusto echar la culpa a las pesquerías artesanales en lo relativo al agotamiento de los recursos pero también sería igualmente equivocado pensar que estas pesquerías no tienen los problemas de ordenación que afrontan muchas pesquerías industriales del mundo.
+
+11. El sector de la elaboración y comercialización desempeña una función vital en todas las pesquerías, aunque con frecuencia haya sido olvidada al examinar la ordenación pesquera. Por regla general, la ordenación siempre se centra en el aspecto de las capturas. En consecuencia, las necesidades de los elaboradores - para un suministro de pescado previsible y uniforme, con mejor calidad y capturado en el momento y lugar en que la calidad es mejor - han sido olvidadas. En consecuencia, las regulaciones pueden dar lugar a que el valor de las capturas - bien en la primera venta o a los consumidores finales - sea muy inferior a lo que debería haber sido.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+TECNICAS DE REGULACION DEL ESFUERZO DE PESCA
+
+Regulación según Límites de Captura
+
+12. El debate sobre este asunto se inició con la presentación de los documentos de trabajo (1.1 a 1.13). En ellos se hacía un estudio general de la materia (documento 1.1) con la descripción de alguno de los procesos y problemas implicados en el trabajo científico de determinar los límites de captura (documentos 1.2 y 1.4) y la experiencia práctica en varias pesquerías de los Estados Unidos (documentos 1.5, 1.9, 1.11, 1.12 y 1.13) en el Canadá (documento 1.7), en Chile (documento 1.6) y en la Comunidad Económica Europea (CEE) (documentos 1.3 y 1.10). Un tema común en todos estos documentos es el relativo a la ejecución de los límites de captura que probablemente plantea graves dificultades. Sin embargo, utilizando otro método de control quizás hayan de afrontarse las mismas o similares dificultades. Si se aplican apropiadamente los límites de captura se pueden ordenar las pesquerías de una manera práctica y algunas veces del modo más útil.
+
+13. Antes de comenzar a aplicar los límites de captura o cualquier otra forma de ordenación, se deben conocer con claridad los objetivos. No se trata de una declaración detallada y específica que podría ser perjudicial en el futuro si cambiara la situación y que podría suscitar expectativas que luego no se colmarían.
+
+(i) Establecimiento de la captura total permisible (CTP)
+
+14. Dados unos objetivos, la primera fase para controlar los límites de captura es determinar la cantidad total de capturas que podrá explotarse. Estos objetivos podrían ser bastante específicos (por ejemplo, el logro de un tamaño de población previamente fijado o mortalidad íctica) o más general (por ejemplo, evitar una pesca excesiva o incrementar el tamaño de la población). Con independencia de los objetivos, se trata esencialmente de una tarea científica y hubo un considerable debate con respecto a a quién corresponde la decisión final sobre el valor real. Algunos participantes estimaron que los científicos deberían limitarse a estudiar las opciones y los efectos biológicos de ellas. Otros estimaron que los científicos deberían, teniendo en cuenta los conocimientos del recurso y los objetivos de la ordenación, establecer una captura total permisible precisa o límite biológico seguro. Con esta diferencia se podrían reflejar las diversas experiencias de los
+participantes, especialmente si (como sucede en las pesquerías multinacionales) las decisiones de ordenación se toman mediante consenso o en comités, o (como sucede en una pesquería puramente nacional) por una única autoridad identificable. Tmabién es pertinente el estado de desarrollo de la industria.
+
+15. La Consulta admitió que los cambios introducidos en la jurisdicción pesquera en todo el mundo han provocado una transformación radical de las condiciones bajo las cuales se establecieron los límites de captura (u otro tipo de control). Al examinar el concepto de "excedente" en el texto del tratado del Derecho del Mar se decidió, a fines de la Consulta, considerar que el Estado costero tiene plena autoridad en cuanto a establecer la captura permisible y su propia capacidad de cosecha. Sin embargo, se admitió que habían sido sugeridas otras interpretaciones alternativas.
+
+16. Se insistió en la enorme cantidad de trabajo que supone el cálculo de la CTP, por lo menos con el detalle y la frecuencia necesarios en el nordeste del Atlántico. Se manifestó cierta preocupación con respecto a los costos implicados y acerca de las repercusiones que el excesivo trabajo tendría en la actividad científica general. Ello supondría que los científicos se dedicarán a examinar sólo problemas a corto plazo, excluyendo los planteados a plazo medio y largo. Se estimó que probablemente todo ello afectaría a la calidad global del asesoramiento científico.
+
+17. Los cálculos no necesitan efectuarse siempre anualmente. La frecuencia de la reevaluación podría ser inferior para las poblaciones que viven mucho, para aquellas que tienen unos índices de explotación relativamente bajos y para las que el reclutamiento no varía mucho.
+
+18. La Consulta estimó la precisión y confiabilidad que podría preverse y que, en realidad, se estaba logrando al calcular las CTP. Tomó nota de que las cifras CTP más confiables han sido las producidas por los grupos de trabajo en los que los científicos participantes se han familiarizado mucho con la pesca o cuando el reclutamiento varió poco. Se sugirió que la precisión del CTP actual podría aumentarse mediante una proyección más cuidadosa del acopio y análisis de datos - así como con una expansión general de las labores de investigación - pero que existían un mínimo irreducible - quizás el 10 por ciento - por debajo del cual no se podría reducir la variancia. De los factores implicados el más importante es la estimación del volumen de la clase anual reclutada.
+
+19. Se manifestó que la precisión necesaria, así como la frecuencia de la reevaluación, depende de la estrategia de ordenación. Si la finalidad es explotar lo más posible el recurso, las sanciones podrían ser importantes y, además, es necesario un alto grado de precisión, lo cual significa además que hay que acopiar datos de gran calidad con el alto costo correspondiente. Por otra parte, si el administrador está contento con unas capturas relativamente pequeñas, dejando un margen de seguridad razonable, podrían aceptarse errores de mayor cuantía. También existen otras compensaciones recíprocas, por ejemplo, entre el nivel medio de capturas y la variación de un año a otro alrededor de dicho promedio. Los elaboradores pueden preferir un promedio más bajo con una variación más baja.
+
+(ii) Asignación de porcentajes en una CTP
+
+20. Una vez establecido el límite de la captura total, este total, por regla general, se asigna de alguna forma. En una pesquería internacional, la primera fase es hacer las asignaciones nacionales; estas asignaciones (y la captura total de una única pesquería nacional) se dividen entonces entre distintos grupos del país. Este proceso origina problemas que frecuentemente son graves. Sin embargo, se convino en que eran riesgos necesarios. Si no existieran las asignaciones y el tope de la captura total fuera el único control, no se podría limitar el crecimiento de la capacidad lo cual crea diversas dificultades, entre ellas, la posibilidad de graves disturbios en las características estacionales de pesca. Probablemente, todo ello es causa de graves perturbaciones económicas con el riesgo de un desastre económico, como sucedió con la pesca del cangrejo ruso de Alaska. También se manifestó que incluso si no se tomara una decisión explícita sobre asignaciones, esta decisión,
+por sí misma, daría lugar a una asignación implícita de beneficios, por ejemplo, a aquellos que estuvieran en mejores condiciones de capturar más pescado a principios de la temporada.
+
+21. Por lo que se refiere a la asignación nacional en las pesquerías multinacionales, se hizo una distinción entre cuatro situaciones: pesca con libre acceso; poblaciones (compartidas) más allá de determinados confines; poblaciones anadromas y pesca nacional en una ZEE nacional. En condiciones previas al Derecho del Mar, el acceso libre a la pesca constituía una situación típica. Acualmente, las poblaciones de alta mar, como es el caso de los túnidos, son los únicos ejemplos.
+
+22. La Comunidad Económica Europea (CEE) es el único ejemplo de un grupo de naciones que han acordado combinar sus recursos pesqueros y actuar como un único estado ribereño, asignando sus recursos comunes entre ellos sobre una base acordada y negociando como una unidad con aquellos estados que no son miembros de la CEE en lo relativo a asignaciones a estos estados no miembros.
+
+23. La Consulta opinó que no era apropiado intentar establecer criterios científicos para la asignación de poblaciones entre las naciones ya que estas decisiones dependerán de muchos factores adicionales. Sin embargo, para las poblaciones compartidas, es probable que se insista más en las características biológicas de las poblaciones, por ejemplo, emplazamiento de los grupos de desove. Podrían proporcionar una base inicial objetiva para las negociaciones. Por ello, sería útil que el asesoramiento biológico proceda de un amplio grupo - incluidos los que no están directamente interesados en las negociaciones - reduciendo así las posibilidades de error. Se estimó que era cierto incluso por aquellos que opinan que las actuales negociaciones deberían restringirse a aquéllos interesados inmediatamente.
+
+24. Para las poblaciones que se encuentran totalmente dentro de una sola ZEE de un país, las decisiones sobre el porcentaje atribuible a las embarcaciones extranjeras, fueron tomadas exclusivamente por el estado ribereño. Para las poblaciones anadromas esta decisión la toma aquella nación en donde desova el pez. En términos de asignación, actualmente se presta menos atención al rendimiento histórico y más a otros factores - cumplimiento de las reglamentaciones en años anteriores, cooperación en materia de investigaciones o ejecución, acceso a los mercados, etc. Cuando todavía el rendimiento histórico era pertinente, se observó que no siempre había un registro preciso sobre información.
+
+25. La Consulta observó que, por regla general, el objetivo final del Estado ribereño era suprimir gradualmente la pesca extranjera, lo cual no es siempre la mejor política. Por ejemplo, varias poblaciones varían enormemente de un año a otro o en un período más largo, en abundancia o en disponibilidad. Una política sensible en este caso sería desarrollar la capacidad pesquera local sólo hasta el nivel en que podría funcionar con éxito en los años malos. Todo exceso superior a las necesidades nacionales en los buenos años podría ofrecerse a las flotas extranjeras que tendrían que hacer frente a los problemas de supercapacidad en los años malos.
+
+26. Las asignaciones dentro de un país pueden mejorar la equidad y eficacia económica hasta un punto que depende de las características de la asignación. Las asignaciones a determinadas empresas permiten que estas espacien sus capturas durante toda la estación con objeto de alcanzar los mejores precios o efectuar las capturas con un costo mínimo. Normalmente, las asignaciones se hacen con una proporción fijada de las CTP pero las variaciones en la distribución o disponibilidad del pescado pueden hacer difícil el logro de este porcentaje fijado en cada temporada.
+
+27. Se destacó que, sin asignación, los efectos indirectos del control de cupos (por ejemplo, temporada corta) podrían cambiar la eficacia relativa de los distintos tipos de embarcaciones. Las embarcaciones de gran tamaño, caras y técnicamente adelantadas, eran raras veces las más eficientes. Sin embargo, las pequeñas embarcaciones, por regla general, necesitan faenar durante un período mayor. Las embarcaciones de gran tamaño se utilizan y son más eficientes cuando se reduce radicalmente la temporada.
+
+(iii) Administración de límites de captura
+
+28. La administración y ejecución de cualquier reglamento debe hacerse con la participación de los pescadores ya que sin una colaboración razonable de estos es difícil, por no decir imposible, su aplicación. Se manifestó que cuando los pescadores están convencidos de que es necesario y conveniente un reglamento son los que mejor se cuidan de ejecutarlo. Por otra parte, hay algunos reglamentos que obligan a los hombres honestos a transgredir la ley con tal de mantener su subsistencia. Se estimó que debería hacerse todo lo posible para evitar esta situación.
+
+29. La Consulta observó que hay varias diferencias entre los países con respecto al grado de participación de los compradores y elaboradores en la ejecución. Por ejemplo, se manifestó que con respecto al pescado que se captura por encima del cupo de capturas, la situación del comprador de pescado podría ser considerada análoga al receptor de artículos robados. La aplicación de los cupos de captura probablemente sería más fácil si los pescadores y los compradores pudieran ser procesados por incumplimiento de lo reglamentado.
+
+30. Se debatió considerablemente el impacto de los límites de captura sobre la calidad de los datos estadísticos, particularmente las cifras de capturas totales utilizadas en la evaluación de poblaciones. Se admitió que hay varias pesquerías en las que las cifras oficialmente notificadas son con toda seguridad inferiores a las reales. Algunos participantes indicaron que sería útil establecer sistemas paralelos para el acopio de datos (a fines de ejecución e investigaciones). Otros estimaron que no era conveniente, particularmente a largo plazo. Estos sistemas, y también la costumbre de considerar "confidenciales" los datos estadísticos, podría interpretarse como una aceptación oficial de notificación incompleta.
+
+31. Los libros registro constituyen una importante fuente de datos. Se mencionaron dos usos: un sistema obligatorio para la ejecución y un sistema para proporcionar datos estadísticos de forma más detallada de la que generalmente se obtiene con los registros anteriores. Estos usos no deben ser confundidos, ni tampoco deben constituir un intento para realizar dos conjuntos de sistemas - los pescadores ya tienen bastante que hacer. Cuando los controles sobre capturas son complejos, incluidas cifras diversas para distintas áreas y poblaciones, alguna forma de libro registro obligatorio es probable que sea esencial a otras formas de control.
+
+32. Por último, el control y la ejecución significa poder recurrir a un tribunal. Cuanto más complicada es la reglamentación - se menciona como ejemplo un cupo de 13 cwt por tripulante y semana - más posibilidades hay de que los procedimientos jurídicos se ocupen de problemas tales como las definiciones - cuándo pesca realmente una embarcación, cuántos tripulantes hay realmente, etc. Se puso de manifiesto que el procedimiento judicial y, en especial, la normativa en cuanto a sentencias podrían desempeñar una función primordial. La confianza de los pescadores en una eficacia de la reglamentación y su voluntad de asistir a los procesos contra los transgresores queda en entredicho si la pena es suave, y el transgresor continúa pescando al día siguiente. Se observó que en Alaska el objetivo de penalizar gravemente a los transgresores era garantizar que cesen en la pesca.
+
+33. La ejecución es cara - como queda demostrado por los gastos de las embarcaciones y aeronaves utilizados por los Estados Unidos (documento 1.8). Muchos participantes estimaron que los costos corrientes eran demasiado altos aunque frecuentemente no podían evitarse. Se prestó atención a los posibles métodos para reducir los gastos. Se sugirió la utilización de embarcaciones pesqueras para servicios de vigilancia. Se trató la posibilidad de utilizar equipo especial (por ejemplo, registros de datos similares a las "cajas negras" de las aeronaves). El tipo de equipo más frecuentemente examinado fue cierta forma de transpondedor, capaz de identificar la embarcación y su situación, conectado con un satélite. Además, con la actual tecnología no son eficaces en relación con su costo. Por otra parte, las aeronaves podrían mantener la vigilancia en grandes zonas a un costo razonable.
+
+Métodos Alternativos para la Regulación del Esfuerzo y algunos Problemas Especiales
+
+34. El documento general (2.1), así como otros en los que se examina la experiencia obtenida con el hipogloso del Pacífico (2.5), en Cuba (2.7) y en Israel (2.8), indicaba que se han utilizado métodos alternativos desde hace mucho tiempo y en la mayoría de las regiones. Todavía son las principales medidas de control en las pescas tradicionales, especialmente en la pesca de bajura. Algunas de estas medidas están comprendidas en los reglamentos y otras son consecuencia de diversas prácticas cualturales características de determinadas zonas.
+
+35. La Consulta tomó nota de que los objetivos de introducir estas medidas habían variado. Los principales impactos y la racionalización consiguiente de estas medidas muchas veces eran distintas de la razón inicialmente propuesta para la ordenación. Esta característica ha provocado gran confusión sobre el verdadero impacto y potencial de estos tipos de medidas. Se examinaron las siguientes clases de objetivos:
+a. Económicos: por ejemplo, una pesquería puede ser vedada cuando las condiciones del mercado no son satisfactorias o cuando la pesca esté en mala situación, o en momentos, zonas y temporadas en que se captura pescado venenoso o masrico.
+b. Equidad: por ejemplo, la veda de zonas cercanas a la costa donde faenan arrastreros es una característica común en muchos lugares, especialmente en los trópicos, para proteger a los pescadores en pequeña escala y reducir al mínimo las controversias (por ejemplo, en Malasia).
+c. Sociales: por ejemplo, para evitar la pesca en épocas del año cuando el clima u otras circunstancias significan que la pesca es peligrosa o cuando hay otras actividades más importantes.
+d. Biológicos: por ejemplo, las vedas de los caladeros de cría y de temporada pueden ser medidas para proteger a los juveniles; también pueden emplearse para proteger las especies incidentales (por ejemplo, para la faneca noruega del Mar del Norte). También se pueden emplear las vedas para proteger el desove.
+
+36. Las vedas también se han aplicado a determinadas pesquerías como la de la langosta y pargo en Cuba y atún rojo que tiene una vulnerabilidad tan grande en determinadas épocas que sólo los controles directos (por ejemplo, la limitación del número de embarcaciones) pueden no ser efectivos para mantener el índice de explotación en un nivel aceptable. En las pesquerías de múltiples especies, las vedas de zona y temporada pueden contribuir a reajustar el equilibrio de la presión pesquera entre distintas especies.
+
+37. Las temporadas de veda son bastante efectivas para proteger poblaciones muy vulnerables; cuando se utilizan como principal medida para controlar el esfuerzo, estas vedas pueden traducirse en unas temporadas breves nada prácticas, lo cual puede provocar una pérdida de la productividad económica, ya que los índices de capacidad son mayores y los pescadores faenan muy por debajo de su eficacia máxima. Sin embargo, la ventaja de las vedas estacionales es que pueden ser relativamente fáciles de ejecutar.
+
+38. Estos métodos indirectos tienen ventajas. Son relativamente baratos y fáciles de administrar y los pescadores los aceptan bastante bien y pueden constituir una forma simple de administrar la captura total permitida. Tal como se han utilizado en Cuba e Islandia, las temporadas/zonas de veda han demostrado ser útiles como parte de un sistema de ordenación idóneo y directo.
+
+39. También se tomó nota de que la ejecución de las temporadas o zonas de veda podría implicar importantes problemas jurídicos y administrativos. Los pescadores de bajura no siempre llevan cartas de navegar y, por lo tanto, pueden no saber dónde están situadas las zonas de veda. Las definiciones de zonas no siempre son evidentes, por ejemplo, límites de tres millas a partir de puntos de referencia. Las definiciones de zonas algunas veces son arbitrarias (por latitud y longitud) y los pescadores puede que no las encuentren razonables. La utilización de coordinadas expresada en términos de ayudas para la navegación (por ejemplo, Loran, Decca) cuando éstas son utilizadas por los pescadores, podrían ser más aceptables y menos ambiguas. Cuando se autoriza la pesca de algunas especies en una zona pero no de otras, las infracciones son difíciles de observar. Con las vedas será necesaria una definición jurídica precisa de la pesca. La definición jurídica de pesca propuesta en un
+país es la que se inicia con el empleo del equipo y termina cuando se extrae el último pez del agua.
+
+40. La ejecución de temporadas y zonas de veda implica la misma cuestión de costos y eficacia observados en relación con los cupos de captura aunque, por regla general, los costos son inferiores. Se mencionó nuevamente la posible utilización de transpondedores que podrían establecer el modelo real de actividad pesquera. Con frecuencia la vigilancia aérea puede ser muy costosa en relación con su eficacia para controlar las zonas vedadas.
+
+41. Las vedas de temporada o zonas, cuya finalidad es evitar la pesca de algunas especies, pueden impedir la captura legítima de otras. Las temporadas de veda pueden afectar a los pescadores que se dedican a una sola población más que a aquellos que pueden diversificar sus actividades hacia otras zonas y recursos. Las zonas de veda creadas por los estados/autoridades locales pueden tener repercusiones contradictorias y confundir los objetivos de la ordenación nacional.
+
+42. En conclusión, la Conferencia estimó que las vedas de zonas y temporadas pueden ser muy útiles para armonizar las pesquerías junto con otras medidas pero menos eficientes como principal método de ordenación. Cuando la ejecución es viable y efectiva en relación con su costo, se puede proteger parte de una población (por ejemplo, juveniles) que necesita especial atención o toda la población durante períodos o en zonas de alta vulnerabilidad. Sin embargo, las zonas y temporadas de veda necesitan ser determinadas cuidadosamente, prestando especial atención a sus repercusiones en otras especies - específicamente si el esfuerzo se diversifica hacia otros lugares. En general, estos métodos deben combinarse con otros sistemas más directos con respecto a la ordenación, especialmente si es alta la presión pesquera. Se observó que las consecuencias a largo plazo de estos planes en la distribución de beneficios entre pescadores deberían ser cuidadosamente examinadas, porque
+podrían darse situaciones no deseables. Las diferencias culturales de la movilidad, etc. pueden tener repercusiones distintas en diversos países.
+
+43. Evidentemente estos reglamentos son más efectivos cuando se utilizan junto con los cupos o control del esfuerzo, como sucede en la pesca del hipogloso del Pacífico. Algunos métodos especiales, como las temporadas de duración variable que pueden ser vedadas cuando los índices de captura descienden por debajo de un nivel determinado, pueden constituir un instrumento valioso para algunas pesquerías. Un problema común a todas estas medidas indirectas es que requieren la cooperación de los pescadores para garantizar su eficacia.
+
+44. Las zonas de veda, las reservas, refugios y medidas similares pueden contribuir a proteger la pesca excesiva de los recursos pesqueros ribereños y también a otros objetivos sociales en la zona costera. Una medida alternativa para ocuparse del uso indebido de los recursos ribereños ha sido la asignación de derechos de propiedad sobre poblaciones ícticas o sobre acceso a los caladeros.
+
+Reglamentación sobre Luz de Malla/Selectividad del Equipo
+
+45. Se presentaron documentos en los cuales se describen los principios generales de la reglamentación de la luz de malla, especialmente en la pesca al arrastre (documento 2.4) y la forma en que distintos tipos de pesca y diferentes métodos de utilizar equipos similares pueden dar por resultado unas capturas de especies y tamaños de pescado muy distintos (documento 2.3)). También se notificaron (documento 2.6) las experiencias específicas con el empleo variado de equipo fijo en la pesca del hipogloso y en otras. El principio que reglamenta la luz de malla es simple. Se elige una luz de malla para que puedan pasar los peces pequeños, juveniles y de rápido crecimiento, reteniendo aquellos que tienen un tamaño apto para su comercialización. Se estimó que este sistema es idóneo en las pesquerías de especie única, por ejemplo, para el bacalao alrededor de Islandia. Para las pesquerías de múltiples especies en los trópicos hay grandes problemas. La luz de malla óptima para las
+especies de gran tamaño es considerablemente mayor que para los camarones o peces de pequeño tamaño. Incluso en estas pesquerías se podrían obtener ciertas ventajas aumentando la luz de malla con respecto al tamaño muy pequeño corrientemente utilizado en muchas pescas, aunque la luz de malla probablemente que se adopte todavía sería pequeña en relación con el óptimo para las especies más grandes. Así,. es necesario tomar otras medidas. Se sugirió que en estas pesquerías tropicales sería útil controlar el material de las redes (por ejemplo, el uso de monofilamento) al reajustar su selectividad, lo cual podría ser relativamente fácil de ejecutar cuando la mayor parte del material sea de importación.
+
+46. La Consulta también tomó nota de que el control de la luz de malla de las redes de arrastre no era el único ejemplo de ordenación en lo relativo a selectividad de equipo. Las luces de malla de las redes de enmalle, tamaños de los anzuelos y aperturas de escape en las nasas para la pesca de la langosta, eran otros ejemplos.
+
+47. Los debates subsiguientes pusieron de manifiesto que es necesario trabajar estrechamente con la industria en lo relativo al desarrollo y ejecución de los reglamentos sobre equipo. Se citaron varias maneras mediante las cuales los pescadores pueden evitar o frustrar estas restricciones. Generalmente los pescadores cumplen con los reglamentos cuando comprenden la finalidad que hay detrás de ellos. También se manifestó que los beneficios de efectuar cambios en la reglamentación sobre el equipo, por ejemplo, la utilización de una luz de malla de mayor tamaño, van precedidos generalmente de pérdidas a corto plazo de las descargas durante un período mientras crecen los peces puestos en libertad. Los pescadores, que ven cómo escapan los peces más pequeños, es de esperar que se opongan a dicho reglamento, a menos que se dé una justificación. La Consulta tomó nota de que es difícil demostrar inequívocamente los beneficios que se derivan de la reglamentación de la luz de malla,
+aun cuando tenga éxito. La razón es que la variabilidad natural de las poblaciones ícticas ocultará todo incremento del rendimiento medio.
+
+48. Gran parte del debate se centró en cuestiones relativas a las restricciones de la luz de malla. Se reiteraron las dificultades prácticas relativas al cumplimiento y ejecución en varias pesquerías. Se pusieron en duda las bases biológicas para restringir la luz de malla y su eficacia para conservar las poblaciones o alcanzar rendimientos máximos, particularmente en las pescas de especies múltiples y tropicales. Además, se puso en tela de juicio su eficacia física en relación con los daños que podrían producirse a los peces que atraviesan las mallas. Sin embargo, los límites de tamaño y luz de malla pueden proporcionar un nivel fundamental de protección para las poblaciones en muchas pesquerías, particularmente si, al no existir dicho control, los peces fueron capturados antes de llegar a su madurez y de haber desovado. En este caso especial, los límites de tamaño, si pueden ejecutarse, deberán por lo menos evitar que las poblaciones lleguen a ser excesivamente
+explotadas, aun cuando sean temporalmente ineficaces otras medidas para controlar la mortalidad íctica. Lo que antecede es particularmente útil para aquellas especies (por ejemplo, langosta, vieiras) que pueden ser devueltas al mar vivas cuando no tienen el tamaño deseado.
+
+49. Varios oradores se refirieron a las perfecciones o adiciones a los sistemas de ordenación que pueden ayudar a los regímenes basados en restricciones de equipo. La vigilancia de las especies fundamentales en una pesquería y los cupos o vedas selectivos fueron considerados como importantes elementos auxiliares a las restricciones sobre equipo en muchas circunstancias.
+
+50. Los cambios en la reglamentación del equipo deberán dar tiempo para que los pescadores reemplacen el viejo en vez de obligarles a que vendan como chatarra un equipo útil.
+
+51. Varios oradores tomaron nota de que los pescadores que más éxito tienen utilizan voluntariamente tamaños de luz de malla mayores que los exigidos en la reglamentación, supuestamente porque en muchas zonas los precios del mercado son mejores para el pescado de mayor tamaño. También los pescadores no cumplen con las restricciones sobre equipo cuando la pesca está superexplotada y económicamente deprimida.
+
+52. Se observó que los reglamentos sobre la luz de malla han sido frecuentemente introducidos cuando la intensidad de pesca había ya reducido sustancialmente el tamaño medio del pescado. La reglamentación sobre la luz de malla ponía de manifiesto una situación de hecho. En estas situaciones, la reglamentación de la luz de malla será ineficaz a menos que se tomen algunas medidas para controlar la intensidad de pesca.
+
+53. La nueva tecnología pesquera permite la localización de los peces con más rapidez y precisión y las redes se calan con más frecuencia. Así, habrá que observar continuamente la reglamentación del equipo para determinar su eficacia continua. Cuando aumenta constantemente la capacidad de pesca se hacen necesarios ciertos reajustes de la reglamentación.
+
+54. Por regla general, en los debates se llegó a la conclusión de que las restricciones de equipo y/o límites de tamaño pueden ser importantes sectores de un régimen de ordenación y pueden ser utilizadas con considerable flexibilidad y perfección para lograr los objetivos económicos y biológicos propuestos. En condiciones favorables - especialmente en la pesca de especies únicas en las cuales los pescadores comprenden y aceptan las restricciones - siempre han tenido éxito. Incluso en estas circunstancias no pueden resolver ciertos problemas, entre los que figuran el económico de la supercapacidad. En otras condiciones pueden tener un valor muy limitado.
+
+55. La Consulta tomó nota de que en Alaska (en donde se aplican sanciones muy severas para los infractores), en una pesca de múltiples especies, los pescadores han tenido éxito en lo relativo a conservar las capturas de las especies que no son objeto de la pesca dentro del límite legal.
+
+Respuestas de las Pesquerías
+
+56. Se presentaron dos documentos (2.2 y 2.9) en los cuales se describía la dinámica de la pesca y poblaciones ícticas. Ambos estudios pusieron de manifiesto que las pesquerías eran sistemas dinámicos y que los acontecimientos pesqueros, aún cuando no haya una intervención activa de ordenación, eran más complejos que los descritos en simples modelos estáticos.
+
+57. El primer documento indicaba que todos los tipos de pesca sin reglamentar o con acceso libre pueden dañar a las poblaciones y las pruebas prehistóricas e históricas lo confirman, incluso con ejemplos artesanales.
+
+58. Varias personas comentaron que cuando se podían aplicar mecanismos para la autorreglamentación, estos se han elaborado durante un largo período de tiempo, algunas veces cientos de años. Frecuentemente, la pesca se produce con un índice tan bajo que la población no estaba gravemente amenazada y, en todo caso, el índice de cambio de pesca era lento. No se puede llegar a la conclusión de que este mecanismo funcione siempre especialmente con una técnica moderna mediante la cual incluso una persona o grupo que tenga pensamientos conservadores podría dañar "su" población mediante la ignorancia de las repercusiones de la cosecha o incapacidad para actuar cooperativamente. También el esfuerzo de pesca puede provocar graves daños incluso antes de que sean aparentes los efectos moderados.
+
+59. La reglamentación pasiva se produce cuando, por una u otra razón, los pescadores abandonan la actividad pesquera para dedicarse a otra. Se puede producir por razones religiosas o culturales. Un ejemplo sería el de los pescadores que pemanecen en el hogar en días festivos religiosos y los tabúes culturales que se oponen a comer pescado en ciertas ocasiones. También puede surgir como consecuencia de que un grupo individual o coherente obtenga derechos de propiedad con respecto a una pesca.
+
+60. La reglamentación pasiva puede garantizar la seguridad de la población frecuentemente a expensas de la subutilización. La falta de tecnología moderna en las pesquerías primitivas significa, por regla general, que sólo una fracción de la población queda explotada y, en muchos casos, la pesca es sólo una de las diversas actividades alternativas.
+
+61. Se puso de manifiesto que incluso la pesca artesanal que utiliza equipo "primitivo" puede producir el agotamiento de las poblaciones, especialmente cuando se efectúa una transición de una economía de subsistencia a otra de mercado o trueque. La existencia de un mercado para el pescado y salidas comerciales a un mayor grupo de consumidores puede ser, en realidad, el mecanismo activador para efectuar mejoras en lo relativo a eficacia y, en consecuencia, aumentar la posibilidad de una explotación excesiva.
+
+62. También se observó que el grupo que controla el acceso a los recursos pesqueros tiene que ejercer un control interno difícil tanto de las actividades de los miembros como de la amplitud del tamaño del grupo. Por ejemplo, un grupo puede autocontrolarse, así como la distancia de otros grupos con respecto a sus caladeros, todo lo cual puede conducir a unos derechos de propiedad que garanticen una conservación idónea. Sin embargo, las innovaciones tecnológicas (por ejemplo, motores fuera de borda, nuevos tipos de aparejos) que permiten a los extraños tener acceso a sus caladeros pueden destruir este sistema.
+
+63. Cuando los individuos aspiran a tener más de una ocupación se refuerza la regulación pasiva haciendo más fácil que se mantengan los ingresos de los pescadores, lo cual está en contradicción con el punto de vista de que hay que conceder precedencia a los pescadores con plena dedicación. Se manifestó que este pluralismo laboral puede mitigar las dificultades de lograr una reducción del esfuerzo cuando la explotación es demasiado intensa. No es así cuando hay "castas pesqueras" especializadas con plena dedicación que con frecuencia no pueden diversificar sus actividades en esta situación. En tal caso, el pluralismo en las actividades de explotación ha sido probablemente una importante válvula de seguridad de las pesquerías tradicionales.
+
+64. Se convino en que, hablando en términos generales, los "locales" han tenido más incentivos para autoregular una determinada pesquería que las flotas nómadas. Sin embargo, se puso de manifiesto que incluso los locales pueden explotar excesivamente una población si no existe un control social pertinente del número de participantes locales.
+
+65. El segundo documento dedicó más atención a la dinámica recíproca de las pesquerías y poblaciones ícticas. Destacó que aunque el análisis de la teoría del equilibrio (rendimiento por análisis de reclutas, modelado de la producción) pueda ser apropiado como primera medida en el examen de una pesca, las inestabilidades de los factores económicos y ambientales pueden desestabilizar las pesquerías, tanto a corto como a largo plazo, de manera tal que no puede ser tenida en cuenta en términos de teoría de equilibrio.
+
+66. La ordenación debe ser planificada y ejecutada teniendo en cuenta esta probabilidad. Sin embargo, muchas veces los administradores y participantes tienen un punto de vista a corto plazo y, por consiguiente, dejan aparte algunos aspectos de la utilización de la pesca muy importantes contribuyendo a crear cierta inestabilidad en la pesca.
+
+67. La existencia de fluctuaciones periódicas e inestabilidad las pesquerías no se aprecia con facilidad dentro de la ordenación pesquera debido a los horizontes de tiempo generalmente breves implicados y las cortas series de datos históricos generalmente disponibles.
+
+68. Una de las principales causas de los ciclos e irregularidades en la pesca puede ser el reclutamiento variable, que a su vez refleja variaciones a largo o corto plazo en la producción biológica del medio ambiente. Sin embargo, se pueden producir oscilaciones en otros sistemas estables y, en general, tienen comienzo con la inversión de algunos pescadores emprendedores, lo cual implica la percepción de nuevas técnicas pesqueras, nuevos mercados y aumentos de la abundancia de los recursos tradicionales o nuevos. El éxito de los innovadores puede ser causa de un rápido incremento en la participación y en el documento se presenta la tesis de que este proceso de "intensificación del esfuerzo", percepción del mismo y retroalimentación informativa que permite su subsiguiente corrección mediante leyes, retiro y diversificación de embarcaciones y pescadores, puede asimismo ser causa de un comportamiento oscilatorio en otros sistemas relativamente estables. Los debates pusieron de
+manifiesto ciertos aspectos teóricos, biológicos y económicos (por ejemplo, teoría predador-presa) que podrían conducir a un comportamiento cíclico y se hizo evidente que las intervenciones administrativas que siguen a la fase inicial de las inversiones serían menos efectivas al corregir la inestabilidad del esfuerzo que un control efectivo del índice de introducción del nuevo esfuerzo a principios del ciclo.
+
+69. Los debates se centraron en los aspectos económicos y causas de los ciclos. En un aspecto, los propios pescadores pueden tener un "ciclo vital" cuando comienzan como miembros de la tripulación, consiguen una pequeña embarcación, más adelante otra mayor, etc. Según sea el conjunto de pescadores que se canalizan a través del sistema, este factor puede conducir a determinados ciclos pesqueros. También los pescadores pueden "pasar" de una pesca a otra según sea el potencial relativo de beneficios que obtiene al explotar distintas poblaciones y la facilidad con que pueden reequipar sus embarcaciones, aunque en este caso la subdivisión progresiva de zonas marinas por parte de las ZEE, zonas de veda nacionales y limitación de licencias, está limitando gravemente este último mecanismo. Además, las embarcaciones tienen un ciclo de duración que puede verse afectado por la percepción de los pescadores de la estabilidad de las poblaciones; así, si perciben que la población puede
+disminuir después de algunos años, obtendrán un equipo de menos duración y, en consecuencia, menos caro. Por lo tanto, pueden ir a otros lugares cuando la población comience a disminuir. Sin embargo, si no acertaran, pueden, según sea la versatilidad de su equipo y experiencia, pemanecer en la pesca provocando una mayor disminución de las poblaciones.
+
+70. Puede ser útil distinguir entre poblaciones que fluctúan naturalmente o incluso "inclinadas a la catástrofe" y aquéllas que son normalmente estables. En el documento se hace una distinción entre cuatro categorías de pesca: (1) estable - para su ordenación pueden aplicarse modelos de equilibrio; (2) fluctuación regular como consecuencia de periodicidad ambiental - entonces es posible la previsión de la pesca; (3) pesquerías que presentan fluctuaciones irregulares; y también puede tener lugar (4) un crecimiento periódico y un agotamiento de los recursos o su sustitución por otros. En las dos últimas categorías puede ser una estrategia útil aprovechar los años bajos como base y luego utilizar las empresas conjuntas, flotas móviles extranjeras, etc. para sacar partido del excedente en los años buenos. En este último caso, es necesario un control apropiado que tenga en cuenta consideraciones de tipo político y equidad.
+
+Regulación del Esfuerzo mediante Licencias para las Embarcaciones/Control del Equipo, Licencias para los Pescadores
+
+71. Se presentaron varios documentos (3.2 a 3.8) que se ocupan de esta materia, en los cuales se informa a los participantes de la experiencia de países o regiones adelantadas en el empleo de estas medidas para regular el esfuerzo: Alaska, Australia, Canadá, Israel, Japón, Malasia, Noruega y los Estados Unidos. Las experiencias notificadas fueron distintas. En algunos casos, se habían producido ciertas dificultades en la ejecución de medidas y no habían tenido éxito para lograr los objetivos normativos. En otros casos, las medidas parecían haber tenido éxito y fueron consideradas como tal por parte de los pescadores.
+
+72. En los debates siguientes se examinó la conveniencia de los sistemas para limitar las licencias en lo relativo a lograr algunos de los objetivos básicos de la ordenación pesquera, a saber: conservación del recurso, eficacia económica, equidad y viabilidad administrativo-política.
+
+Conservación del Recurso
+
+73. El problema que causa más frustración en la ordenación pesquera es la tendencia del esfuerzo de pesca a aumentar con el transcurso del tiempo, hasta un punto en que están amenazados las existencia de la población y una pesca viable. Por regla general, las políticas de cupos no han tenido éxito en lo relativo a reducir el esfuerzo en una pesca superdesarrollada. Todo ello es causa muchas veces de que se acorten más y más las temporadas de pesca provocando en muchos casos trastornos en el sector comercial. En consecuencia, parecería necesario contar con mejores instrumentos para controlar el nivel de esfuerzo y el otorgamiento de licencias es uno de ellos.
+
+74. Se estimó que una capacidad de pesca excesiva puede debilitar las posibilidades de otras medidas de ordenación pesquera (como el tamaño de la luz de malla, vedas estacionales y de zonas) para proteger la viabilidad de determinadas pesquerías reduciendo la rentabilidad de la embarcación hasta un punto en el cual la pesca ilegal es la única alternativa para sobrevivir. También una capacidad excesiva origina una presión política para aumentar la captura total permisible o reajustar las asignaciones. Cuando la capacidad es demasiado grande en varios países se puede originar una presión adicional para ampliar las CTP y dificultar las negociaciones internacionales sobre asignación de las CTP entre las naciones.
+
+75. Una cuestión fundamental fue si al no existir un plan limitado de participación, podría existir un mecanismo autorregulador (bioeconómico) que detenga el incremento del esfuerzo de pesca en un determinado nivel antes de que se produzca un grave daño para el sistema biológico; al disminuir los índices de captura los pescadores voluntariamente abandonarían la pesca. En la Consulta se manifestó que esto no sucederá si la pesca continúa siendo rentable con niveles de escasa abundancia (especies de bajo costo/altos precios), si la abundancia disminuye con más rapidez que los índices de captura (como sucede en la mayor parte de los pequeños recursos pelágicos) o si los pescadores tienen pocas oportunidades de pesca alternativa.
+
+76. Se debatió a fondo el proceso del reajuste dinámico de la pesca. Un punto de vista importante fue el relativo a que debería establecerse una limitación de licencias cuando una aumenta la pesca aunque esto se debiera a que la población con anterioridad había sido escasamente explotada o porque el mejoramiento del medio incrementa el volumen de la población. Sin embargo, para la mayor parte de las pesquerías desarrolladas se trata de una empresa desesperada.
+
+77. También se tomó nota de que la limitación de licencias ha sido introducida frecuentemente cuando una población estaba disminuyendo, con toda probabilidad como consecuencia del efecto combinado del esfuerzo de pesca y cambios naturales/ambientales. En estos casos, la limitación de licencias es políticamente más fácil de proponer e introducir aunque sea muy difícil de obtener un resultado positivo (restauración de poblaciones).
+
+78. La Consulta llegó a la conclusión de que el otorgamiento de licencias era una técnica que podría tener repercusiones positivas en la conservación de recurso en tanto se mantenga realmente la mortalidad íctica por debajo de ciertos niveles predeterminados. Generalmente es necesario combinar el otorgamiento de licencias con otras reglamentaciones con objeto de lograr este objetivo.
+
+79. La Consulta estimó que un problema especialmente difícil es la ordenación de los recursos que tienen diversas especies demersales. Con una participación limitada, algunas especies serán superexplotadas mientras que otras lo estarán insuficientemente. Sin embargo, se trata de un problema con cualquier método para ordenar cosechas de múltiples especies y la participación limitada puede ser la mejor forma de abordar esta difícil cuestión.
+
+80. Se manifestó que las condiciones en que se conceden las licencias contituían un instrumento valioso y flexible para los administradores. En particular, la facilitación de datos apropiados (por ejemplo, registros con indicación de especies ícticas capturadas, lugar y cantidad de pesca) podría ser una condición útil para estar en posesión de una licencia.
+
+Eficiencia Económica
+
+81. Por regla general, se convino en que sólo el otorgamiento de licencias no era suficiente para reforzar las "ganancias" económicas provenientes de disminuir una excesiva capacidad de pesca. La capacidad media pesquera por embarcación aumenta con la introducción de nuevas tecnologías y otras inversiones en cada embarcación, ya que el incentivo para una mayor inversión todavía existe, ya que se trata de obtener una proporción mayor de la captura potencial del grupo de unidades de pesca con licencia. Generalmente todo ello se traduce en un aumento de la eficacia pesquera de las embarcaciones, reducción de la temporada de pesca y consiguientes dificultades comerciales y de empleo en tierra.
+
+82. Por lo tanto, con objeto de mejorar la eficacia, el plan de regulación deberá incluir un conjunto de medidas complementarias encaminadas a evitar esta tendencia hacia la acumulación de capital. A dicho fin, las medidas monetarias (aumento de los derechos de licencia, impuestos, etc.) pueden ser instrumentos útiles para reducir los incentivos de la superinversión (véase el párrafo sobre medidas monetarias).
+
+83. Las partes principales del debate relativo al bienestar económico se refirieron a la cuestión de estabilizar los ingresos durante un período mitigando los efectos de las fluctuaciones causadas por la variación de la abundancia íctica, precios y costos. En algunos casos se utilizan fondos de urgencia en años de abundancia de capturas para compensar los bajos ingresos en malos años. Los representantes de diversos países describieron dichos programas de estabilización de ingresos para pescadores.
+
+84. Los programas para la limitación de licencias han mejorado muchas veces los ingresos de los pescadores, pero también, aunque menos a menudo, han permitido recaudar grandes entradas fiscales. No se obtuvo ningún consenso con los debates con respecto al nivel conveniente de los derechos de licencia. Algunos pedían unos derechos altos para compensar los costos de ordenación y crear fondos para el desarrollo de urgencia y otros abogaron por unos derechos bajos teniendo en cuenta el escaso nivel de ingresos y la vulnerabilidad política de ciertos grupos pesqueros.
+
+85. A pesar de los defectos se estimó que parte de los evidentes beneficios de la participación limitada eran preventivos; la situación hubiera sido peor si no hubieran sido introducidos.
+
+86. Por último, se observó que los incrementos en la capacidad por embarcación pueden ser por lo menos contrarrestados mediante un programa de desguace o una política de recompra (cuyo costo podría ser apoyado por el fondo obtenido con los derechos de licencia). La recompra también puede llevarse a cabo por los propios pescadores.
+
+Equidad
+
+87. Las consideraciones equitativas son una de las más evasivas de la ordenación pesquera. Se basan en objetivos particulares que, por regla general, no se encuentran en otros lugares. En vez de buscar restricciones sobre horas de mano de obra, salarios, condiciones laborales, tienen por objeto garantizar la protección de los pescadores en pequeña escala contra los efectos negativos de la pesca industrial, de grupos étnicos minoritarios, etc. Las principales cuestiones son: ¿quién obtiene ventajas cuando se limitan las licencias? ¿quién pierde? ¿son los cambios razonables y convenientes?
+
+88. Una importante cuestión es: ¿quién debería figurar en el plan? Teniendo en cuenta que el acceso libre provoca automáticamente un exceso de capacidad en la mayoría de los casos, se debatieron tres posibles normas de idoneidad para otorgar licencias:
+* venta y subasta al mejor postor;
+* dar prioridad a la presencia histórica en la pesca;
+* utilizar criterios regionales y nacionales socioeconómicos.
+
+89. Los participantes con notable experiencia en aquellos países que poseen pesquerías artesanales arguyeron con decisión que los sistemas de otorgamiento de licencias deberían ser utilizados con cuidado cuando afectan negativamente objetivos nacionales para proteger el bienestar de los pescadores artesanales. Se citaron ejemplos de tratamiento especial de los pescadores aborígenes en los Estados Unidos y el Canadá y pescadores artesanales en el Japón.
+
+90. También se indicó que muchas veces los pescadores con plena dedicación quedan excluidos de un tratamiento particular. Sin embargo, esta consideración especial depende de las circunstancias y no se hicieron generalizaciones.
+
+91. Algunos oradores indicaron que las normas inciales para cumplir con determinados requisitos, así como las relativas a participación, serían más equitativas si se elaboraran en estrecha colaboración con los pescadores, con sus industrias y comunidades afines y con otros responsables de las comunidades pesqueras.
+
+92. Además de las consultas, cuando se proyecta un programa, muchas veces se constituyen Comités de Apelación para resolver las controversias dimanantes de la ejecución del programa. Algunos participantes estimaron que estos comités serían más efectivos si en ellos participaran los pescadores, bien en el Comité bien a título asesor. Otros asistentes manifestaron que la participación directa de los pescadores había tenido repercusiones muy negativas. Con objeto de evitar apelaciones demasiado frecuentes, los administradores prefieren equivocarse en aras de una liberalidad que, algunas veces, es causa de un incremento excesivo del número de licencias distribuidas inicialmente.
+
+93. Se manifestó que era necesario decidir si las licencias podían ser transferibles y si se expedían a las embarcaciones o a los pescadores. Las licencias pueden ser no transferibles, sólo a los pescadores en general o a algunos que pertenezcan a determinada familia o grupo, o transferibles a cualquier comprador en un mercado libre.
+
+Viabilidad Administrativa y Política
+
+94. Se manifestó cierta proporción con respecto a que la limitación de licencias iría seguida de unos reglamentos cada vez más complejos. Otros observaron que la limitación de licencias es un instrumento que se adopta cuando ya existen problemas en una pesquería; el número de reglamentos puede ser un reflejo simple de ciertos problemas que no se pueden abandonar y que pueden plantear dificultades en su solución sin que importe el sistema que se adopte. Sin embargo, se convino en que, siempre que fuera posible, es preferible y más fácil dar inicio a un sistema de otorgamiento de licencias limitado lo antes posible y preferentemente con anterioridad a que la situación sea realmente crítica.
+
+95. En los países que tienen mucha experiencia en lo relativo a otorgamiento de licencias, el sistema de limitación se ha producido lentamente con ensayos y errores. Algunos países que desean adoptar planes para otorgar licencias hoy día están esperando soluciones óptimas para surgir con demasiada rapidez.
+
+96. Se tomó nota de que, por regla general, la moratoria constituye una medida rápida en casos de crisis y sólo temporal para congelar las actividades mientras se prepara un programa más completo y limitado para el otorgamiento de licencias (y a más largo plazo). Las licencias constituyen también un instrumento útil para la ordenación a corto plazo (iniciar o suspeder operaciones pesqueras en breve tiempo).
+
+97. Se observó que, como es corriente, los pescadores aceptarían las restricciones del esfuerzo con más facilidad si estuvieran convencidos (y pudieran garantizar efectivamente que otros participantes en la pesca recibían un tratamiento igual. La responsabilidad de este aspecto se dejará generalmente a la administración que tendrá que elaborar un programa adecuado de vigilancia y acopio de datos.
+
+98. En los países en desarrollo se ha tropezado con un grave problema en la falta de ejecución efectiva y uso de licencias más bien como un mecanismo de acopio de ingresos que como medio para conservar las especies.
+
+Conclusiones
+
+99. La concesión limitada de licencias a los pescadores, embarcaciones, equipo, etc., se estimó generalmente por parte de todos los participantes como un instrumento potencial de ordenación que tiene que ser cuidadosamente examinado. Su adopción debe ser considerada en el contexto del sistema económico y social del país o región pertinentes.
+
+100. Este instrumento debe ser complementado con otros reglamentos para limitar algunos efectos potenciales no deseados. Antes de proyectar el plan, deberán especificarse los objetivos de la ordenación y cuando se aplique una nueva política, deberá emprenderse un cuidadoso programa de vigilancia; se deberán prever los problemas y corregirlos a tiempo para garantizar la idoneidad de los resultados de la pesquería en cuestión.
+
+101. También se estimó que la limitación de licencias podría ser un instrumento complementario útil de las políticas de cupos, capturas totales permisibles, para garantizar la asignación necesaria a nivel nacional.
+
+102. En la reunión la única experiencia presentada con respecto a la limitación de licencias para las pesquerías artesanales fue la relativa a las poblaciones aborígenes de América del Norte. Mientras que, según lo manifestado, la experiencia obtenida tuvo un éxito relativo, algunos participantes estimaron que los sistemas de otorgamiento de licencias podrían no ser aplicables a las pesquerías ribereñas de los países en desarrollo; poniendo de manifiesto los resultados satisfactorios conseguidos utilizando sistemas de derechos de propiedad en las pesquerías artesanales y de otorgamiento de licencias para las pesquerías industriales. Otros participantes estimaron que el control de licencias puede tener valor en todas las pesquerías, incluso en los países en desarrollo.
+
+Regulación del Esfuerzo de Pesca mediante Medidas Monetarias
+
+103. La reunión consideró las características generales de estos controles, tal como figuran en el documento del examen. Se destacaron los aspectos positivos de las medidas financieras, con especial referencia a que dichas medidas deben ser lo suficientemente severas para incluir negativamente en lo que los pescadores intentan hacer. Los ejemplos citados fueron el sistema que se sigue en Islandia para gravar las especies preferidas y subvencionar aquéllas subutilizadas, así como el sistema de la laguna Bardawil, en donde los impuestos que pagan los pescadores se utilizan para mantener el medio ambiente en su nivel productivo.
+
+104. Se hicieron preguntas para aclarar el plan de impuestos/subvención de Islandia y se explicó que este sistema era posible por los precios fijos para las especies establecidos para la temporada. Por lo tanto, el precio del bacalao se fijó por debajo del precio comercial y el precio de la gallineta por encima del precio comercial. Se manifestó que este sistema sería difícil de ejecutar si los pescadores tuvieran que competir con las importaciones de las mismas especies o distintos pescadores explotaran las especies por separado.
+
+105. Fue presentado el documento en el que se describen las medidas monetarias y se insistió en la descripción de diferencias entre la teoría económica y las prácticas reales que se aplican en la pesca. Se puso de manifiesto que el principal objetivo de muchas pesquerías es, en la práctica, no la potenciación máxima de los excedentes económicos, sino más bien la viabilidad económica de zonas relativamente remotas.
+
+106. Se prestó atención en este documento al impacto de los subsidios cuya finalidad es aumentar las oportunidades de empleo y mejorar los niveles de ingreso. Unos ingresos mayores y la incorporación de las innovaciones tecnológicas ha provocado una mayor supercapacidad. Cuando se ha alcanzado una supercapacidad no es posible eliminar los subsidios porque ha disminuido la condición económica de la pesca y, en realidad, ha aumentado la necesidad de ellos.
+
+107. Además, se indicó que con la ampliación de los límites a 200 millas, muchos gobiernos tienen menos interés en aplicar impuestos que en subvencionar el capital como medio para estimular las inversiones para el ulterior desarrollo de la pesca. Este sistema ha frustrado directamente la ordenación pesquera.
+
+108. Se centró la atención en los efectos de los subsidios en un país donde el incremento del esfuerzo de pesca se atribuyó a los subsidios dando por resultado un aumento de los niveles de explotación. Pronto cada población se utilizó plenamente, lo cual ha provocado la falta de competencia, lo cual no habría sucedido sin subsidios. Así, pues, la ordenación tuvo que responder imponiendo medidas reglamentarias.
+
+109. Las conclusiones del documento son:
+a. los derechos de licencia deben mantenerse para restringir las inversiones y la supercapacidad;
+b. los impuestos sobre la pesca, en muchos casos, no son necesarios ya que es suficiente eliminar los subsidios para reducir el esfuerzo de pesca;
+c. puede ser necesaria la ayuda económica para estimular a la industria pero esta ayuda deberá dirigirse a la infraestructura evitando que el sector de explotación pesquera soporte los problemas de una sociedad.
+
+110. En su resumen el autor indica de qué forma los subsidios variaron pasando del estímulo positivo a otro negativo cuando se alcanza la plena explotación de los recursos y comienza la supercapacidad.
+
+111. Se examinaron los impuestos y se tomó nota de que en la mayoría de los casos no estaban en proporción con el esfuerzo de pesca. En particular, en algunos países, el mecanismo para cambiar los impuestos es demasiado lento para que sea efectivo como medio de alterar el esfuerzo de pesca de un año a otro cuando varía el tamaño de la población; por ejemplo, debido a que el reclutamiento es bueno o malo. Sin embargo, los derechos de licencia, capaces de amortizar parte de los costos de ordenación, además de los derechos de descarga basados en el peso bruto en la planta de elaboración, tienen valor monetario y estadístico.
+
+112. Hubo un importante debate sobre la función de los programas de ayuda financiera. Algunos opinaron que dichos programas podrían provocar problemas importantes y que sólo deberían ser introducidos después de un examen concienzudo. Muchos subsidios han complicado de tal manera las pesquerías que es muy difícil comprender la verdadera situación económica. Por ejemplo, los subsidios del combustible para las embarcaciones pesqueras podrían ayudar a las grandes flotas móviles a expensas de las locales, frecuentemente en zonas remotas, pero cercanas a los recursos.
+
+113. La ayuda financiera se introduce por diversas razones. Como ejemplo de éstas figuran el estímulo del desarrollo de la pesca en un recurso subutilizado y la resolución de problemas de una pesca desarrollado debido a la supercapacidad, como consecuencia de crisis temporales, como es el caso de fallos en el mercado y en el reclutamiento. Estas razones son consistentes y permiten inversiones sólidas por parte de las naciones u órganos internacionales.
+
+114. La Consulta estimó que muchas veces se presentaban casos excelentes para el primer tipo, especialmente los países en desarrollo, para estimular el crecimiento. Sin embargo, incluso en este caso existe el peligro de que una vez concedido los subsidios sean muy difíciles de detener. Por lo tanto, pueden continuar después de que la pesca se desarrolla y provocar problemas de supercapacidad. Algunas formas de subsidios (por ejemplo, préstamos con bajo interés) serían más fáciles de eliminar que otros.
+
+115. Se estimó que para la segunda clase de ayuda financiera existía menos justificación a menos que se hiciera de manera estrictamente temporal; por ejemplo, algunos meses después de una grave tempestad. Sin embargo, se observó que en algunas pesquerías multinacionales algunos países han aprobado subsidios temporales para mantener en sus pesquerías en existencia mientras se introducía un plan de ordenación nacional.
+
+116. Un problemas común de los programas de ayuda financiera es que frecuentemente son indiscriminados. Las embarcaciones subvencionadas que se construyen para pescar especies subexplotadas cuando no hay otros controles se dedican a la pesca de las superexplotadas. Algunas veces surgen dificultades políticas cuando se seleccionan los subsidios a favor, por ejemplo, de los pescadores de zonas remotas. Al mismo tiempo, algunos tipos de subsidio podrían utilizarse para corregir problemas del sistema económico, por ejemplo, facilitando préstamos a los pescadores en pequeña escala sin acceso fácil a créditos normales.
+
+117. La Consulta tomó nota de las presiones financieras que podrían originar problemas en la pesca de los países en desarrollo. Es estos países, los organismos de ayuda bilateral, bancos internacionales de desarrollo y otros, están proporcionando fondos para contribuir al desarrollo pesquero. En principio esta ayuda debería ser muy bien acogida y con frecuencia se ha aplicado apropiadamente habiendo demostrado ser útil. Sin embargo, hay ciertas ocasiones en que los resultados han sido la importación de métodos pesqueros inapropiados y el crecimiento de una grave supercapacidad. Esto sucede porque algunos de los intereses de los organismos puede en parte estar interesado con la supercapacidad de las embarcaciones pesqueras o los astilleros en el país donante o con la ejecución de un préstamo en gran escala sin considerar si sería mejor uno más pequeño (por ejemplo, para 20 arrastreros en vez de para 400).
+
+118. La Consulta estimó que algunos de estos problemas surgen como consecuencia de vínculos insuficientes dentro de los gobiernos nacionales y organismos internacionales entre los interesados en el "desarrollo" (construcción de más embarcaciones) y la "ordenación" (por ejemplo, reducir la supercapacidad).
+
+Regulación del Esfuerzo mediante Derechos de Propiedad
+
+119. Los documentos de esta reunión describen el sistema utilizado para asignar derechos en las pesquerías artesanales del Japón, programas de cupos individuales en el Atlántico del Canadá para el arenque y peces de fondo y el debate de una reciente Consulta técnica sobre derechos de uso territorial en la pesca. También figura un breve resumen del examen realizado en Alaska sobre el sistema de participación de pescadores para la asignación de cupos para el hipogloso del Pacífico. Por último, se notifican determinados éxitos con el sistema de participación de cupos en las pesquerías del estornino en el lago Superior en los Estados Unidos.
+
+120. Una conclusión general de estos documentos y de anteriores debates durante la Consulta es que si los pescadores tuvieran determinados derechos de propiedad pesquera, cuando estiman que se produce una situación de "explotación excesiva", responderían mejor a la ordenación. Indudablemente podrían proponer medidas más restrictivas que las que indican los administradores. Sin embargo, hay límites prácticos (por ejemplo, el grado de movilidad del recurso) y obstáculos políticos y jurídicos para la adopción inmediata o generalizada de este sistema.
+
+121. En el Canadá, el sistema de derechos de propiedad contó con aspectos prometedores pero como se introdujo tarde en el historial pesquero de la costa oriental tuvo que afrontar enormes problemas originados por la multitud de embarcaciones y de la pesca de diversas especies. Así, los pescadores tardaron mucho en acostumbrarse y fue difícil que aceptaran la distinción de grupos entre ellos según distintos tipos de equipo y tamaño de las embarcaciones, todos en competición en el mismo recurso. Incluso hubo compañías que tuvieron problemas en cuanto a obtener las máximas ventajas con los derechos de propiedad sobre la pesca para sus embarcaciones. Sin embargo, se llega a la conclusión de que la pesca en esta región está superreglamentada y que el sistema de conceder derechos de propiedad es el más idóneo para normalizar estas pesquerías.
+
+122. Se tomó nota de que los derechos de propiedad podrían ser un concepto poco familiar en las pesquerías, pero que en algunos lugares se habían utilizado durante siglos (por ejemplo, Japón y Sri Lanka). Indudablemente en tierra están ampliamente aceptados y contribuyen al aprovechamiento eficiente de las tierras.
+
+123. Los derechos de propiedad pueden revestir varias formas. Entre éstas la asignación de pescado (por ejemplo, una participación en la CTP), licencias territoriales o de pesca. Los derechos pueden ser concedidos individualmente o a las comunidades. El primero es una forma de participación limitada pero una comunidad que tiene "propiedad" de pesca probablemente tendría que considerar controles adicionales (por ejemplo, sobre el número de embarcaciones).
+
+124. Se manifestó cierta preocupación con respecto a los derechos de propiedad como medio de ordenar las pesquerías, ya que es injusto y desigual, favoreciendo a aquellos que garantizan dichos derechos mientras que niegan oportunamente a los que no pueden conseguirlo. Mientras que la propiedad de los derechos no tiene repercusiones en la distribución, no por ello es algo extraordinario, puesto que los derechos de propiedad constituyen un aspecto fundamental del acceso a los recursos en una empresa terrestre. Sin embargo, se puso de manifiesto que aquellos que disfrutan de dichos beneficios deberían pagar por ellos con royalties (u otros acuerdos) para sufragar los gastos de investigación y administración.
+
+125. La Consulta tomó nota de que los derechos de uso territorial en la pesca habían dado buen resultado durante siglos en varios lugares, especialmente en las regiones costeras y de bajura. Cuando las condiciones lo permiten (por ejemplo, la falta de movilidad del recurso), estos derechos pueden ser una buena estrategia de ordenación si proporcionan una distribución equitativa de los beneficios, son útiles a fines de conservación y proporcionan ingresos para el gobierno suficientes para sufragar los gastos de ordenación. También constituyen un incentivo para que los participantes hagan inversiones en sus pesquerías e induzcan a los gobiernos a contribuir o financiar las mismas. Los planes de derechos de uso territorial pesquero (TURF) deberán ser flexibles permitiendo la venta o transferencia de participaciones, fusionarse con otros adyacentes, etc. La vigilancia es necesaria para prevenir el deterioro de los TURF - situaciones en que la propiedad cada vez queda entre
+menos manos, para monopolizar, etc. La esencia de un sistema de derechos de uso territorial es la comunidad en vez de la propiedad individual. Se puso de manifiesto que en las zonas costeras podrían existir controversias entre los derechos de propiedad pesquera y los intereses de otros usuarios de las aguas ribereñas.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+EVALUACION DE TECNICAS DE REGULACION DEL ESFUERZO DE PESCA
+
+Conclusiones Generales y Propuestas para tomar Medidas
+
+126. Una de las razones para pedir un reexamen profundo del Derecho del Mar hace un decenio o más fue la preocupación existente con relación al agotamiento de muchas poblaciones ícticas y las dificultades de tratar este tema de acuerdo con el régimen internacional en vigor. El nuevo Convenio facilita a los países oportunidades y también responsabilidades para ordenar las pesquerías, especialmente dentro de las zonas económicas exclusivas nacionales. Sin ordenación, los recursos están amenazados, se reduce la cantidad y estabilidad del abastecimiento íctico y los países pueden no lograr los considerables beneficios económicos y sociales derivados de unas comunidades e industrias pesqueras prósperas. Al mismo tiempo, toda la ordenación, en el sentido de una forma u otra de intervención estatal, tiene algunos gastos que aumentan a medida de que la intervención es mayor y más compleja. Por lo tanto, debe existir un equilibrio favorable entre los gastos y beneficios de
+cualquier ordenación propuesta. Este equilibrio variará con el estado de desarrollo del país y de la pesquería en cuestión. Pueden existir algunos casos en que las condiciones (por ejemplo, pequeño volumen de la pesca y dificultades de intervención) puedan significar que una decisión de ordenación por parte del gobierno en el sentido de no intentar regular el esfuerzo de pesca esté justificada.
+
+127. Los participantes en la Consulta han sido elegidos teniendo en cuenta su experiencia en la reglamentación del esfuerzo pesquero, haya tenido ésta éxito o no. Estas experiencias han sido inevitablemente predominantes en los países desarrollados del Atlántico norte y del Pacífico norte, donde la supercapacidad ha constituido un elemento fundamental durante los últimos 20 años aproximadamente. Se admitió que habiendo sido identificados los factores del éxito o fracaso de los países desarrollados, eran necesarios más estudios y consultas para evaluar la posibilidad de una transferencia de estas experiencias en términos de asesoramiento específico a determinados países en desarrollo. Sin embargo, había una amplia gama de condiciones dentro de los países y se opinó que estos debates se tratarían mejor a nivel regional (por ejemplo, sudeste asiático, América Latina) como ya se había previsto, por ejemplo, con el Comité de Pesca para el Atlántico Centro-Oriental (CPACO) en
+1983.
+
+Objectivos
+
+128. La Consulta examinó los objectivos generales de la ordenación pesquera y los criterios que podrían utilizarse para evaluar diversos sistemas. Se puso de relieve que debe existir una comprensión de los objetivos antes de inciar la ordenación aunque esta necesidad no requiera una especificación explícita y detallada de los objetivos. Indudablemente, en un principio pueden existir ventajas si se deja la declaración de objetivo en términos generales. Existen varios objetivos que podían ser estudiados. No siempre se logran simultáneamente y sería conveniente tomar decisiones entre objectivos con el transcurso del tiempo como parte de un proceso regular de ordenación.
+
+129. Se convino en que los objetivos podrían reunirse en tres grupos - mantenimiento de recursos, rendimiento económico y equidad (o necesidades sociales). Podrían ser utilizados como criterios para juzgar el rendimiento de diversos planes de ordenación pero además habría que tener en cuenta los gastos de transacción (los costos de investigación, administración y ejecución). Es decir, los gastos para lograr la mezcla de objetivos (costos/beneficios), como parte integral de un proceso iterativo de establecimiento y perfeccionamiento de objetivos. Se admitió que calibrar los beneficios es algunas veces difícil pero es esencial para tomar decisiones sobre cantidad, métodos y complejidad de la regulación.
+
+130. La Consulta reconoció que lograr el máximo rendimiento económico no es normalmente el principal objetivo de la ordenación pesquera. Incluso si admitiéramos este concepto, habría que destacar que los objetivos relativos a la eficacia económica no deben ser omitidos. Si se ignoraran, las repercusiones a largo plazo serían que el sector pesquero se convierta en una carga para la sociedad en vez de una fuente de empleo seguro y suministro de alimentos. Los criterios utilizados para determinar la eficacia económica varían evidentemente de un país a otro, como consecuencia de las necesidades de empleo, escasez de combustible y otras circunstancias especiales.
+
+131. Por regla general, se admiten algunos de los conflictos/compensaciones recíprocas entre los objetivos, por ejemplo, entre alto empleo y altos ingresos por persona. Es menos discutido que los intentos para lograr un rendimiento anual alto hacen aumentar los riesgos de explotación excesiva de una población. Por lo tanto, existe una compensación recíproca entre los riesgos y el volumen de las capturas y también de administración y otros gastos. Probablemente, los gastos de investigación sean inferiores si es aceptable alguna reducción del rendimiento con respecto al máximo teórico y se emplea un nivel de rendimiento conservador.
+
+132. Una clase de objetivo comúnmente manifestada es la consecución de alguna forma de estabilidad. Por ejemplo, en los ingresos o suministros de los pescadores con respecto a los productores o consumidores. Sin embargo, todas las poblaciones ícticas fluctúan naturalmente, algunas de ellas intensamente. No se puede esperar que la ordenación elimine estas fluctuaciones y sus repercusiones en las capturas. Un objetivo más razonable es reducirlas, pero hay que destacar que será especialmente difícil si también se requiere un alto nivel de rendimiento medio. Se puede obtener alguna reducción del impacto negativo de estas fluctuaciones utilizando fondos de "seguro", que en algunos países constituyen parte integral del sistema de ordenación de la pesca.
+
+133. La mayoría de los objetivos se ocupan de los pescadores y casi todas las medidas de ordenación afectan a los mismos. No es probable que tengan éxito, a menos que los pescadores participen estrechamente en todas las fases y comprendan y ayuden las medidas propuestas.
+
+Elección de Instrumentos de Ordenación
+
+134. El administrador tiene un conjunto de instrumentos a su disposición - grupos de captura, zonas vedadas, restricciones de equipo, etc. La Consulta estimó que, en la mayor parte de los casos, sería necesario una mezcla de estos instrumentos. Un instrumento -por ejemplo, cupos de captura - sólo puede lograr una cantidad limitada. La Consulta tuvo oportunidad de examinar el uso de los diversos instrumentos a través de la experiencia de los distintos participantes. Tomó nota de que cada tipo de medida tiene probablemente efectos similares siempre que se aplica, aunque podría haber cierta variación entre las pesquerías de alta y baja latitud. La elección actual debe hacerse para satisfacer especiales circunstancias de cada pesca.
+
+135. La flexibilidad en la ordenación es importante. El administrador deberá ajustar los reglamentos rápidamente en respuesta a nueva información, por ejemplo, para vedar una zona durante un determinado tiempo cuando la proporción de peces juveniles en dicha zona es particularmente alta. El marco jurídico y administrativo para la ordenación deberá ser de tal naturaleza que permita dicha flexibilidad.
+
+136. Históricamente, los métodos indirectos, como es el caso de las zonas de veda y los controles de la luz de malla, han sido los primeros que se han aplicado en una pesquería. En algunas circunstancias, especialmente cuando sólo pueden garantizar la protección de los peces hasta que hayan desovado por lo menos una vez, pueden por sí mismos lograr una protección suficiente del recurso. Pueden ser necesarias otras medidas por razones ecocómicas o sociales, aunque algunas indirectas (por ejemplo, veda de franjas costeras, luz de malla de las redes de arrastre) también pueden ayudar. En otras circunstancias (por ejemplo, pesquerías de arrastre de una única especie) la reglamentación de la luz de malla o zonas de veda puede contribuir de manera importante al mejoramiento de la ordenación. Aunque existen algunas pesquerías en que estas medidas pueden ser de menor ayuda, por regla general, pueden ser comprendidas y aceptadas por los pescadores; por lo tanto, son valiosas y
+pueden ser ejecutadas con relativa facilidad.
+
+137. Las pesquerías multinacionales presentan problemas especiales. Los métodos indirectos, como la luz de malla mínima, pueden ser aplicados a todos los participantes, pero la ejecución de métodos directos requiere cierta decisión sobre asignación entre países. Se estimó que esto tendría que hacerse en términos de captura, por ejemplo, asignación de porcentajes nacionales en las CTP. Sin embargo, los países todavía tienen una amplia elección de métodos (cupos de capturas, limitación del esfuerzo) para garantizar que sus capturas están dentro de su asignación nacional.
+
+138. En parte debido a su importancia histórica en las pesquerías internacionales, el control mediante los límites de captura ha recibido una atención especial. Con algunas excepciones (por ejemplo, especies muy variables de vida breve), las CTP pueden en principio resolver el problema de la conservación de especies únicas. Sin embargo, las flotas pesqueras pueden todavía tener más capacidad de la que es necesaria para cosechar el rendimiento sostenido. Las resultantes presiones políticas sociales pueden ser un riesgo para los objetivos de conservación. Para aplicar las CTP es esencial contar con buenas estadísticas. La ejecución y la necesaria vigilancia regular científica de las CTP puede ser cara. También hay un valor limitado en las pesquerías de múltiples especies.
+
+139. Los problemas económicos y sociales pueden ser reducidos si las CTP (o participación en las CTP multinacionales) se asignan a grupos de pescadores dentro del país, aunque todavía existan considerables problemas de control. Esta asignación, que puede ser considerada como una forma de derecho de propiedad, podría, por ejemplo, seguir las prácticas observadas en varios países representados en la Consulta - pescadores artesanales de subsistencia (aquéllos que sólo faenan para su propio consumo), equipos fijos, equipos semimóviles y equipos móviles.
+
+140. El control directo con respecto a las embarcaciones de pesca mediante la participación limitada u otorgamiento de licencias parece que ofrece las mejores posibilidades de resolver los problemas de supercapacidad. En principio, este método deberá también resolver los problemas de conservación. Sin embargo, a largo plazo, el verdadero impacto sobre la población sólo puede alcanzar niveles excesivos mediante el mejoramiento del volumen y eficacia de las embarcaciones. Este efecto es también económicamente no deseable, como consecuencia de las grandes inversiones de capital necesario. La limitación de licencias deberá siempre incluir el control sobre la capacidad efectiva de pesca de determinadas embarcaciones con licencia (por ejemplo, sobre tonelaje o caballos de vapor). Incluso en este caso, siempre se producirán algunas mejoras técnicas. Para ocuparse al respecto, las autoridades de ordenación necesitan a largo plazo poder reducir el número de embarcaciones con
+licencia (por ejemplo, sobre tonelaje o caballos de vapor). Incluso en este caso, siempre se producirán algunas mejoras técnicas. Para ocuparse al respecto, las autoridades de ordenación necesitan a largo plazo poder reducir el número de embarcaciones con licencia (o su tonelaje combinado). Para algunas poblaciones, por ejemplo, especies pelágicas gregarias, puede existir una amenaza más grave a plazo medio o corto mediante la capacidad de la flota para concentrarse en los remanente cardúmenes de un recurso en decadencia.
+
+141. La limitación de licencias o la participación limitada pueden ser más fáciles y entrañar menos problemas si se introducen cuando una pesca aún está en crecimiento, en vez de cuando la supercapacidad y superexplotación ya constituyen un problema. Es difícil de lograr una reducción inmediata de la cantidad de pesca mediante estas medidas y el efecto inmediato de introducir o amenazar con introducir estas medidas puede realmente incrementar el esfuerzo. No obstante, introducido con anterioridad, puede recortar la expansión -aunque si no se toman las medidas precisas ésta pueda ser fácilmente superada. También hay objeciones prácticas a las medidas tempranas; por ejemplo, los Gobiernos no desean gastar dinero para resolver problemas que todavía no han de surgir durante algunos años. El mayor valor de la limitación de licencias, por lo menos en los países desarrollados, puede ser como complemento de los cupos de captura.
+
+142. Las medidas monetarias - ayuda financiera, comprendidos los subsidios, impuestos directos o estructuras impositivas (por ejemplo, índice de depreciación) pueden ser instrumentos estratégicos útiles para orientar las decisiones de manera conveniente (por parte de pescadores, compañías pesqueras o inversionistas). Pueden ser usadas de manera indebida - los apoyos financieros, por regla general, se mantienen durante mucho tiempo. También son lentas en lo relativo a repercusiones, por lo que no tienen provecho utilizadas como armas tácticas; muchas veces no se utilizan cuando la ordenación más las necesita. Pocos políticos incrementarán los impuestos sobre una industria que tiene dificultades, aun cuando éstas sean causadas por una supercapacidad. En la medida de lo posible deberán evitarse los subsidios. Cuando la ayuda financiera puede hacer una contribución útil, por ejemplo, para estimular el crecimiento de la pesca de una población subutilizada, deberán mantenerse
+por un período limitado. Los impuestos serán más útiles en las fases finales de una ordenación para encauzar los beneficios "excesivos" y deberán utilizarse para cubrir los gastos de ordenación.
+
+143. En algunos países en desarrollo pueden existir presiones financieras por parte de organismos bilaterales, bancos internacionales de desarrollo y otros organismos a fin de incrementar el volumen y capacidad de sus flotas. Estas presiones, en forma de créditos baratos, etc., pueden ser acogidos satisfactoriamente cuando son aplicados cuidadosamente. Sin embargo, cuando se aplican de manera indiscriminada pueden provocar la importación de métodos inadecuados de pesca, demasiadas embarcaciones para faenar poco, daños a los recursos o pérdidas a los actuales pescadores y al país.
+
+144. A este respecto, se destacó que la utilización de la tecnología adelantada no significa necesariamente que una embarcación sea económica. Los grandes arrastreros por popafactoría, pocas veces capturan pescado tan barato como las pequeñas embarcaciones basadas localmente y con poco consumo de combustible.
+
+145. Los derechos de propiedad pueden revestir varias formas - cupos individuales de captura, etc. Tienen varias ventajas. Cuando los pescadores estiman que las poblaciones ícticas son de su propiedad, adoptarán una actitud más positiva con respecto a las medidas de conservación y ordenación. Por regla general, la ejecución es más fácil y más barata. Con frecuencia el producto puede comprarse en tierra en mejores condiciones y durante una temporada más larga en beneficio del consumidor. En general, la Consulta estimó que los derechos de propiedad, de una u otra forma, son unos de los sistemas más prometedores de la ordenación pesquera, especialmente en los países en desarrollo que cuentan con pocos pescadores artesanales.
+
+146. En resumen, las principales conclusiones generales de la Consulta fueron las siguientes:
+i. La ordenación de la pesca es esencial. Sin una adecuada ordenación la pesca no puede producir los grandes beneficios de que es capaz. Entre ellos un alto y razonable suministro de alimentos, empleo para las comunidades ribereñas (particularmente en regiones remotas) y una alta contribución al bienestar económico.
+ii. Los países desarrollados han cometido muchos errores al ordenar sus pesquerías. Hay varias razones, entre ellas, la falta de capacidad para controlar las pesquerías frente a sus costas como consecuencia del régimen oceánico internacional previo. Los países en desarrollo, especialmente aquellos que tienen también una pesca en desarrollo, quizás saquen enseñanzas de estos errores en vez de intentar hacer lo mismo que los países desarrollados.
+iii. La ordenación pesquera puede ser costosa según el nivel deseado de desarrollo, especialmente en lo relativo a investigaciones y ejecución. Las decisiones de ordenación deben tener en cuenta el equilibrio entre los costos y los beneficios que se esperan.
+iv. Los pescadores y otros dedicados a la industria (comerciantes, trabajadores en tierra, elaboradores, etc.) deberán participar en la ordenación pesquera. Deberán tener oportunidad para participar en todas las fases, desde la proyección y elección de medidas de ordenación hasta su ejecución. La autoejecución, cuando sea posible, es barata y eficiente pero necesita ser vigilada.
+v. No existe una forma simple para regular la pesca. Una reglamentación efectiva significa utilizar la mezcla correcta de instrumentos reguladores y de otro tipo. Esta mezcla será distinta de una pesca a otra y de un país a otro. La mezcla de instrumentos empleados debe ir en consonancia con las condiciones específicas de cada pesca.
+vi. La ordenación no puede separarse del desarrollo. Muchas veces las acciones indiscriminadas tomadas para estimular el crecimiento de una pesca (por ejemplo, la introducción de subsidios) pueden tener graves repercusiones en el porterior éxito de la ordenación. La administración de funciones de "desarrollo" y "ordenación pesquera", dentro de un país o de un organismo internacional, deberán ser integradas estrechamente.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+APENDICE 1
+Lista de Participantes
+
+EXPERTOS
+
+Australia
+
+Dr R. Bain
+First Assistant Secretary
+Fisheries Division
+Department of Primary Industry
+Canberra ACT 2614
+
+Canadá
+
+Mr R.A. Crouter
+Director-General
+Scotia Fundy Region
+Department of Fisheries and Oceans
+Boutiers Point
+Halifax, Nova Scotia
+
+Chile
+
+Sr Alejandro Zuleta
+Under-Secretariat of Fisheries
+Ministerio de Economía
+Teatinos 120 piso 11
+Santiago
+
+Cuba
+
+Dr J.A. Baisre
+Sub-Director
+Ministerio de la Industria Pesquera
+Centro de Investigaciones pesqueras
+Ave. Primera y 26
+Miramar
+La Habana
+
+Estados Unidos de América
+
+Mr Wm. Gordon
+Assistant Administrator
+NOAA-NMFS
+3300 Whitehaven Street, N.W.
+Washington, D.C. 20235
+
+Dr B.E. Skud
+Adj. Professor of Oceanography
+University of Rhode Island
+National Marine Fisheries Service (NMFS)
+South Ferry Road
+Narragansett
+Rhode Island 02882
+
+Mr Clement V. Tillion
+North Pacific Fisheries Management Council
+P.O. Box 3136 DT
+Anchorage, Alaska 9951
+
+Capt. L.N. Schowengerdt, Jr
+Chief
+Operational Law Enforcement
+US Coast Guard (Gole)
+2100 Second Street SW
+Washington, D.C. 205930
+
+Israel
+
+Mr M. Bar Ilan
+c/o Department of Fisheries
+Ministry of Agriculture
+P.O. Box 21170
+Tel Aviv 62263
+
+Prof. Adam Ben-Tuvia
+Department of Zoology
+Hebrew University of Jerusalem
+91904 Jerusalem
+
+Japón
+
+Dr T. Yamamoto
+Professor of Fishery Economics
+College of Economics
+Nihon University
+Tokyo
+
+Malasia
+
+Mr Shahrom Majid
+Assistant Director-General
+Fisheries Management and Protection Branch
+Department of Fisheries
+Ministry of Agriculture
+Jalan Mahameru, Kuala Lumpur
+
+Nueva Zelandia
+
+Dr G. Duncan Waugh
+Director
+Fisheries Research Centre
+Ministry of Agriculture and Fisheries
+P.O. Box 297
+Wellington
+
+Noruega
+
+Mr B. Brochmann
+Director of Planning
+Ministry of Fisheries
+Fishery Economic Division
+Box 8118, DEP
+Oslo, 1
+
+Reino Unido
+
+Mr Peter Derham
+Chief Inspector of Fisheries
+Ministry of Agriculture, Fisheries and Food
+Great Westminster House
+Horseferry Road
+Londres SWIP 2AE
+
+Mr J. Pope
+Fisheries Laboratory
+Ministry of Agriculture, Fisheries and Food
+Lowestoft, Suffolk
+
+Consejo Internacional para la Exploración del Mar
+
+Mr K. Hoydal
+Palaegade 2-4
+1261 Copenhagen
+Dinamarca
+
+Comisión de las Comunidades Europeas
+
+Mr M.J. Holden
+Directorate-General for Fisheries
+Rue de la Loi 200
+B-1049 Bruxelles
+Bélgica
+
+Consultores de la FAO
+
+Mr I. McSween
+Scottish Fish Producers Organization
+601 Queensferry Road
+Edinburgh 4, Scotland
+Reino Unido
+
+Mr J. Goodlad
+Shetland Fishermen's Association
+Lerwick, Scotland
+Reino Unido
+
+Mr D. Thomson
+Farmhouse Baberton
+EH 14 2SR Edinburgh, Scotland
+Reino Unido
+
+Prof. R. McGoodwin
+University of Colorado
+Boulder
+Estados Unidos de América
+
+Prof. B. Rettig
+Oregon State University
+Carvallis, Oregon
+Estados Unidos de América
+
+Mr M. Ben-Yami
+Director
+Fisheries Technology Division
+Haifa
+Israel
+
+Personal de la FAO
+
+Dr C. Newton
+Secretario de la Consulta
+Oficial Superior de Planificación Pesquera
+Dirección de Políticas y Planificación de la Pesca
+
+Sr A. Gumy
+Oficial de Planificación Pesquera
+Dirección de Políticas y Planificación de la Pesca
+
+Dr J. Gulland
+Jefe del Servicio de Recursos Marinos
+Dirección de Ambientes y Recursos Pesqueros
+
+Dr J. Caddy
+Oficial Superior de Recursos Pesqueros
+Dirección de Ambientes y Recursos Pesqueros
+
+Dr S.M. Garcia
+Oficial Superior de Recursos Pesqueros
+Dirección de Ambientes y Recursos Pesqueros
+
+Sr I. Robertson
+Oficial Superior de Industrias Pesqueras
+Dirección de Industrias Pesqueras
+
+Dr E. Ruckes
+Oficial de Industrias Pesqueras
+(Mercadeo)
+Dirección de Industrias Pesqueras
+
+Srta Luisa Almagia
+Oficial de Reuniones
+
+Sra Pat Bowton
+Secretaria
+
+Srta Ana María Defendi
+Secretaria
+
+Srta Jessica Kwang
+Secretaria
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+APENDICE 2
+Apéndice Provisional y Calendario
+
+Lunes, 17 de enero
+HORA
+
+Mañana
+
+09.30 Discurso inaugural del Subdirector General del Departamento de Pesca de la FAO
+
+Observaciones introductorias
+
+10.30-12.30 SESION I:
+CRITERIOS PARA LA REGLAMENTACION
+
+Presentación de documentos con 20 minutos por documento, seguido de 10 minutos para cuestiones de aclaración, etc.
+
+Documentos:
+
+Algunas notas de la Consulta sobre esfuerzo de pesca (Gulland)
+
+Objetivos y criterios para la reglamentación de la pesca (Waugh)
+
+Pescadores y ordenación de la pesca (Thomson)
+
+Consideraciones sobre elaboración y comercialización para las regulaciones (McSween)
+
+Tarde
+
+SESION II:
+TECNICAS DE REGULACION DEL ESFUERZO DE PESCA
+
+14.00-17.00 Cuadro 1: Regulación de los límites de capturas
+
+Presentación de documentos con 20 minutos por documento, seguido de 10 minutos para cuestiones de aclaración, etc.
+
+Documentos:
+
+Procedimientos CIEM al formular asesoramiento sobre ordenación (Hoydal)
+
+Complejidades biológicas de los cálculos de las capturas totales permisibles - Título provisional (Pope)
+
+Procedimientos de la Comunidad Europea en la ejecución de recomendaciones científicas del CIEM - Título provisional (Holden)
+
+Experiencias de EE.UU. en la asignación de las capturas totales permisibles - Título provisional (Gordon)
+
+Asignación de cupos según equipos de pesca para las pesquerías del arenque en la bahía de Fundy - Título provisional (Crouter)
+
+Experiencia chilena en el establecimiento de límites de capturas (Zuleta)
+
+Los problemas de la ordenación de cupos en el contexto de la Comunidad Europea (Derham)
+
+Ejecución de regulación de cupos para la pesca nacional y extranjera - Título provisional (Schowengerdt)
+
+Martes, 18 de enero
+
+Mañana
+
+09.00-12.00 SESION II: Cuadro I (continuación)
+
+i) Establecimiento de las capturas totales permisibles
+
+Especialmente los problemas biológicos de determinar el valor apropiado de las capturas totales permisibles para la siguiente campaña.
+
+
+Tarde
+
+14.00-17.00 ii) Asignación de porcentajes de una captura total permisible
+
+Se debatirá la conveniencia de las asignaciones y los principios y procesos implicados en la asignación nacional e internacional.
+
+
+Miércoles, 19 de enero
+
+Mañana
+
+09.00-12.00 SESION II: Cuadro 1 (continuación)
+
+iii) Administración de límites de capturas
+
+Se tratarán las medidas implicadas en la ejecución de límites de capturas (inspección en tierra y mar) y el impacto indirecto de los límites de captura
+
+
+Tarde
+
+14.00-17.00 Cuadro 2: Sistemas alternativos para la reglamentación del esfuerzo y algunos problemas especiales
+
+Presentación de documentos
+
+Después de cada documento habrá breves debates que se limitarán principalmente a cuestiones para su correspondiente aclaración. Los debates técnicos se llevarán a cabo el día siguiente.
+
+Documentos:
+
+Overview paper - Indirect approaches to regulation of fishing mortality (Caddy)
+
+The history and evaluation of closure regulations in the Pacific Halibut Fishery (Skud)
+
+Regulatory measures in the Cuban domestic fishery - Provisional title (Baisre)
+
+Experience in regulating the fisheries of the Bardawil lagoon - Provisional title (Ben-Tuvia)
+
+Debate sobre zonas de veda, cinturones costeros y temporadas
+a) Por cuatro integrantes del cuadro
+b) Por participantes
+
+Jueves, 20 de enero
+
+Mañana
+
+09.00-12.00 Cuadro 2 (continuación)
+
+Documentos:
+
+Fishing gear selectivity and performance (Thomson and Ben-Yami)
+
+Manipulation of fixed gear and the effect of catch-per-unit effort (Skud)
+
+Mesh size regulation and its role in fisheries management (Jones)
+
+Debate sobre equipo y reglamentación de la luz de malla y sus repercusiones en la mortalidad:
+a) Por cuatro integrantes del cuadro
+b) Por participantes
+
+Tarde
+
+14.00-15.00 Cuadro 2 (continuación)
+
+Documentos:
+
+Self-regulatory mechanisms in unmanaged fisheries - Provisional title (McGoodwin)
+
+An alternative to equilibrium theory for management of fisheries (Caddy)
+
+Debate sobre impactos globales de las medidas de ordenación indirectas y cómo deben ser aplicadas:
+a) Por cuatro integrantes del cuadro
+b) Por participantes
+
+Debate del primer proyecto por Relatores y Secretario Técnico
+
+Viernes, 21 de enero
+
+Mañana
+
+09.00-12.00 SESION II:
+TECNICAS DE REGLAMENTACION DEL ESFUERZO DE PESCA
+
+Cuadro 3: Reglamentación del esfuerzo según licencias para embarcaciones/ control del equipo
+Licencias para pescadores
+
+Documento introductorio:
+
+Practices and problems with licence limitation in the US and Canada (Rettig)
+
+Documentos con experiencias:
+
+Alaska (Tillion)
+Australia (Bain)
+Japón (Yamamoto)
+
+Debate
+
+Tarde
+
+14.00-17.00 Cuadro 3 (continuación)
+
+Documentos con experiencia:
+
+Noruega (Brochman)
+Israel (Bar-Ilan)
+Malasia (Majid)
+Polonia (Ropelewsky)
+
+Debate
+
+Sábado, 22 de enero
+Libre
+
+Domingo, 23 de enero
+Libre
+
+Lunes, 24 de enero
+
+Mañana
+
+09.30-12.00 Cuadro 3 (continuación)
+
+Debate sobre los efectos del control directo con respecto al número de unidades pesqueras
+
+Tarde
+
+14.00-17.00 Cuadro 4: Regulación del esfuerzo mediante medidas monetarias
+
+Documentos
+
+Islandia (Ellison)
+Noruega (Brochman)
+
+Debate
+
+Cuadro 5: Regulación del esfuerzo mediante derechos de propiedad
+
+Documentos
+
+Canadá (Doucet)
+Panayoutou
+
+Debate
+
+Martes, 25 de enero
+
+Mañana
+
+09.00-12.00 SESION III: EVALUACION DE TECNICAS DE REGULACION DEL ESFUERZO DE PESCA
+
+a) Impacto sobre recursos
+
+b) Impacto sobre rendimiento económico incluido el sector de elaboración/ comercialización
+
+Tarde
+
+14.00-17.00 SESION III (continuación)
+
+c) Cuestiones de equidad
+
+d) Viabilidad administrativa/aceptación política
+
+Miércoles, 26 de enero
+
+Mañana
+
+09.00-12.00 Conclusiones generales y propuestas para tomar medidas
+
+Tarde
+
+14.00 Aprobación del informe oficial de la Consulta para el Secretario General de la Conferencia Mundial sobre Ordenación y Desarrollo Pesqueros
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice
+
+
+APENDICE 3
+Lista de Documentos
+
+Sesión Cuadro Título Autor
+
+1 Inf.Paper Catch, effort and fishing power J.F. Caddy
+
+1 Paper 1 Some Notes for the Consultation on the Regulation of Fishing Effort J.A. Gulland
+
+1 Paper 2 Fishermen and fisheries management D. Thomson
+
+1 Paper 3 Regulation of fishing effort (fishing mortality), New Zealand G.D. Waugh
+
+1 Paper 4 The interaction between fisheries management and the marketing of fish I. McSween
+
+2 1.1 Control of the amount of fishing by catch limits J.A. Gulland
+
+2 1.2 ICES procedures in formulating management advice K. Hoydal
+
+2 1.3 The problems of quota management in the European Community Context P. Derham
+
+2 1.4 Notes on the Scientific problems of TAC management J. Pope
+
+2 1.5 Enforcement of foreign fishing quota allocations by the United States Coast Guard L.N. Schowengerdt
+
+2 1.6 The management of Chilean pelagic fisheries with emphasis on the Spanish sardine A. Zuleta
+
+2 1.7 Quotas by fishing gear for the herring fishery of the Bay of Fundy R.A. Crouter
+
+2 1.8 United States fishing effort restrictions and fishing vessel licensing under the 200 mile limit W.D. Chappell
+
+2 1.9 Anchovy management by quota Wm. Gordon (NMFS)
+
+2 1.10 The procedures followed and the problems met by the European Economic Community in implementing the scientific recommendations of the International Council for the Exploration of the Sea on total allowable catches M.J. Holden
+
+2 1.11 Management of the Atlantic groundfish fishery under the US Magnuson Fishery Conservation and Management Act, 1977 to 1982 F. Grice
+P. Colosi (NMFS)
+
+2 1.12 Management of the shrimp fishery of the Gulf of Mexico NMFS
+
+2 1.13 Management of the Atlantic surf clam fishery under the US Magnuson Act, 1977 to 1982 B. Nicholls (NMFS)
+
+2 2.1 Indirect approaches to regulation of fishing effort J.F. Caddy
+
+2 2.2 An alternative to equilibrium theory for management of fisheries J.F. Caddy
+
+2 2.3 Fishing gear selectivity and performance D. Thomson
+M. Ben-Yami
+
+2 2.4 Mesh size regulation and its role in fisheries management R. Jones
+
+2 2.5 The history and evaluation of closure regulations in the Pacific halibut fishery B.E. Skud
+
+2 2.6 Manipulation of fixed gear and the effect on catch-per-unit effort B.E. Skud
+
+2 2.7 Regulation of fishing effort in Cuban shelf fisheries: The case studies of shrimp, lane snapper and spiny lobster fisheries J.A. Baisre
+
+2 2.8 Biological basis for the fishery regulation and management of the Bardawill Lagoon, Mediterranean coast of Sinai A. Ben-Tuvia
+
+2 2.9 Some examples of self-regulatory mechanisms in unmanaged fisheries R. McGoodwin
+
+2 3.2 Practices and problems with licence limitation in the US and Canada B. Rettig
+
+2 3.3 Controlling of fishing efforts: Malaysia's experience and problems S. Majid
+
+2 3.4 Fisheries management on Lake Kinnereth M. Bar-Ilan
+
+2 3.5 Fisheries management in Alaska C.V. Tillion
+
+2 3.6 Vessel licences, gear control and fishermen licensing in Australia: Australian experience of these and related management measures R.Bain
+
+2 3.7 Fishery regulations adopted for coastal and offshore fisheries in Japan T. Yamamoto
+
+2 3.8 Licence limitation regulations: The Japanese system Y. Asada
+
+2 4.1 On regulating fishing effort through vessel licences B. Brochmann
+
+2 4.2 Financial measures to regulate effort B. Brochmann
+
+2 5.1 FAO Workshop on Territorial Use Rights in Fisheries - preliminary report T. Panayotou
+
+2 5.2 Fishermen's quotas - one method of controlling fishing effort F. Doucet
+
+2 5.3 The individual vessel allocation scheme for the Bay of Fundy herring purse seine fleet F. Doucet
+
+Techniques of regulating fishing effort: the common fisheries policy of the EEC - fisheries management or political compromise? J. Goodlad
+
+Back Cover
+
+
+Página precedente Inicìo de página

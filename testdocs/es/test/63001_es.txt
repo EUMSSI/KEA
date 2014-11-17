@@ -1,0 +1,2070 @@
+Informe del Taller Piloto sobre la Aplicación de la Biotelemetría al Estudio de los Peces para la Ordenación de la Pesca Continental en África Occidental
+
+
+FIRI/R654 (Spanish)
+ISSN 1014-6547
+
+Sélingué, Malí, 29 de enero - 10 de febrero de 2001
+
+Instituto de Investigación para el Desarrollo
+Oficina para el Desarrollo Rural de Sélingué
+Instituto de Economía Rural de Malí
+Universidad de Lieja
+organizado por
+el Instituto de Investigación para el Desarrollo (IRD),
+el Instituto de economía rural (IER) de Malí,
+la Oficina para el Desarrollo Rural de Sélingué (ODRS),
+con el apoyo de la Universidad de Lieja y de la FAO
+
+ORGANIZACIÓN DE LAS NACIONES UNIDAS PARA LA AGRICULTURA Y LA ALIMENTACIÓN
+Roma, 2001
+
+Indice
+
+
+Los pedidos de publicaciones de la FAO se han de dirigir a:
+
+Grupo de Ventas y Comercialización
+Dirección de Información
+FAO
+Vialle delle Terme di Caracalla
+00100 Roma, Italia
+Correo electrónico: publications-sales@fao.org
+Fax: (+39) 06 5705 3360
+
+Las denominaciones empleadas en esta publicación y la forma en que aparecen presentados los datos que contiene no implican, de parte de la Organización de las Naciones Unidas para la Agricultura y la Alimentación, juicio alguno sobre la condición jurídica de países, territorios, ciudades o zonas, o de sus autoridades, ni respecto de la delimitación de sus fronteras o límites.
+
+ISBN 92 - 5 - 304641 - 4
+
+Todos los derechos reservados. Se autoriza la reproducción y difusión de material contenido en este producto informativo para fines educativos u otros fines no comerciales sin previa autorización escrita de los titulares de los derechos de autor, siempre que se especifique claramente la fuente. Se prohibe la reproducción de material contenido en este producto informativo para reventa u otros fines comerciales sin previa autorización escrita de los titulares de los derechos de autor. Las peticiones para obtener tal autorización deberán dirigirse al Jefe del Servicio de Publicaciones y Multimedia de la Dirección de Información de la FAO, Viale delle Terme di Caracalla, 00100 Roma, Italia, o por correo electrónico a copyright@fao.org
+
+© FAO 2001
+
+
+Indice
+
+
+PREPARACIÓN DEL PRESENTE DOCUMENTO
+
+RESUMEN
+
+PRÓLOGO
+
+APERTURA DEL TALLER
+
+INSTALACIONES Y SERVICIOS
+
+ASPECTOS TEÓRICOS DE LA BIOTELEMETRÍA
+
+Marcado de los peces
+Detección de las señales de biotelemetría
+Localización de los emisores, posicionamiento de los peces en el hábitat
+
+SELECCIÓN DE MÉTODOS DE ESTUDIO ALTERNATIVOS Y COMPLEMENTARIOS, DEFINICIÓN DE PROYECTOS
+
+TRABAJOS PRÁCTICOS Y TRABAJOS DIRIGIDOS
+
+Anestesia y marcado
+Funcionamiento de las estaciones receptoras y búsqueda de emisores
+Utilización de emisores de biotelemetría
+Estudio de prueba
+Utilización de marcas archivo (etiquetas para el almacenamiento de datos: DST)
+
+ANEXO 1: Lista de participantes
+
+ANEXO 2: Prospecto
+
+ANEXO 3: Programa
+
+ANEXO 4: Discurso de inauguración: aplicación de la biotelemetría al estudio de los peces para la ordenación de la pesca continental en África occidental (G. Marmulla, FAO)
+
+ANEXO 5: Índice del Manual de biotelemetría acuática
+
+ANEXO 6: Polígono del pantano de Sélinguéni
+
+ANEXO 7: Los medios y material utilizados durante el taller
+
+SECCIÓN DE FOTOGRAFÍAS
+
+CUBIERTA POSTERIOR
+Indice Página siguiente
+
+
+PREPARACIÓN DEL PRESENTE DOCUMENTO
+
+El presente documento es el informe del taller piloto sobre la aplicación de la biotelemetría al estudio de los peces para la ordenación de la pesca continental en África occidental, celebrado en Sélingué, Malí, del 29 de enero al 10 de febrero de 2001. Etienne Baras, investigador cualificado del FNRS adjunto a la Universidad de Lieja, Vincent Bénech, investigador ictiólogo del IRD de Bamako y Gerd Marmulla, especialista en recursos pesqueros del Departamento de Pesca de la FAO, han contribuido a la elaboración de este informe.
+
+Deseamos dar las gracias al Instituto maliense de economía rural (IER) y a la Oficina para el desarrollo rural de Sélingué (ODRS) por haber coorganizado y hospedado este taller. También deseamos dar las gracias a las empresas ATS Advanced Telemetry Systems Inc., AVM Instrument Company Ltd., y Star-Oddi por su muy apreciado apoyo, que también comprendió la donación de material.
+
+Distribución:
+
+Todos los Miembros y miembros asociados de la FAO
+Participantes en el taller piloto
+Otros países y organizaciones nacionales e internacionales interesadas
+Departamento de Pesca de la FAO
+Especialistas en pesca de las Oficinas Regionales de la FAO
+
+
+Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+RESUMEN
+
+FAO.
+
+Informe del Taller Piloto sobre la Aplicación de la Biotelemetría al Estudio de los Peces para la Ordenación de la Pesca Continental en África Occidental. Sélingué, Malí, 29 de enero - 10 de febrero de 2001.
+
+FAO Informe de Pesca. No. 654. Roma, FAO. 2001. 36p.
+
+El Taller piloto sobre la aplicación de la biotelemetría al estudio de los peces para la ordenación de la pesca continental en África occidental se celebró en los locales de la Oficina para el desarrollo rural (ODRS) de Sélingué, Malí, del 29 de enero al 10 de febrero de 2001. El taller estuvo organizado por el Instituto de Investigación para el Desarrollo (IRD, Francia), y en particular, por su centro de Bamako en cooperación con el Instituto maliense de economía rural (IER) y la Oficina para el desarrollo rural de Sélingué (ODRS), además de contar con el apoyo de la Universidad de Lieja (Bélgica) y de la Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO). Los participantes procedían de Benin, Burkina Faso, Côte d'Ivoire, Guinea y Malí. El objetivo de este taller consistía en divulgar y difundir la biotelemetría, una herramienta muy útil para la obtención de informaciones más precisas e indispensables con vistas a una ordenación mejor y más
+duradera de los recursos acuáticos.
+
+Los aspectos abordados en teoría comprendían el funcionamiento de los receptores, las antenas y las marcas físicas activas (emisores de biotelemetría y marcas archivo), la anestesia de los peces, la fijación de marcas telemétricas, los efectos del marcado en el comportamiento y la fisiología, la retención de los emisores, los principios de base de la propagación de las señales de radio y acústicas, el posicionamiento de la fuente de emisión, además de la cartografía y las bases matemáticas correspondientes.
+
+Los trabajo prácticos y los dirigidos comprendieron la anestesia y el marcado, el funcionamiento de las estaciones receptoras y la búsqueda de emisores, la utilización de emisores de biotelemetría, un estudio de prueba destinado a que los participantes se familiarizaran con los distintos métodos de posicionamiento, balizado y cartografía, además del empleo de marcas archivo.
+
+En un seminario, previo a la definición de los proyectos por parte de los participantes, se pasó revista a los distintos métodos aplicables al estudio del comportamiento de los peces en su medio natural, insistiendo en sus características específicas y complementarias en relación con la herramienta de la biotelemetría.
+
+Todos los participantes presentaron y elaboraron después la propuesta de proyecto que habían preparado antes del taller, y que constituyó un elemento esencial para la selección de los candidatos.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+PRÓLOGO
+
+1. La biotelemetría - medida a distancia de variables biológicas - constituye una herramienta crucial para la obtención rápida de información sobre la biología de los peces en su medio natural, como lo demuestra el número creciente de estudios y actividades de seguimiento que utilizan estas técnicas en Europa y en América del Norte. Su aplicación en especies de peces tropicales de agua dulce es mucho más reducida, sobre todo por el desconocimiento del potencial de esta herramienta y por la ausencia de formación especializada en la materia. Desde las primeras conversaciones, entabladas en 1997, entre Vincent Bénech (IRD) y Gerd Marmulla (FAO), ha ido germinando la idea de una difusión de informaciones sobre la biotelemetría acuática entre los investigadores y biólogos y los gestores de la pesca en regiones tropicales. Esta idea se transmitió a la comunidad de biotelemetristas europeos con motivo de un comunicado presentado durante la tercera Conferencia sobre Telemetría
+Pesquera, celebrada en Norwich en junio de 1999, a la que siguió un minitaller en el que participaron E. Baras (ULg, Bélgica), V. Bénech (IRD, Fancia), M. Gerlier (Asociación del salmón del Rhin, Francia), T.G. Heggberget (NINA-Trondheim), G. Marmulla (FAO) y V. Thorsteinsson (HAFRO, Islandia). En el transcurso de este minitaller se señaló la necesidad de transmitir la información sobre la biotelemetría de manera más detallada y concreta, dando prioridad a la teoría sobre la práctica en el marco de una formación más estructurada.
+
+2. Así nació la idea de este taller piloto de biotelemetría acuática aplicada a la ordenación pesquera en las regiones tropicales. La importancia de la pesca continental en África occidental y la experiencia del IRD en materia de ictiología tropical y radio seguimiento de peces en esta región, ofrecían los criterios de interés pesquero y logístico indispensables para la organización de dicho taller piloto. La cuenca del río Niger, y en particular su parte maliense, se presentaba por tanto como un enclave ideal. Los contactos IRD-ODRS-IER permitieron concretar mejor esta idea proponiendo la sede de Sélingué, uno de los principales lagos de retención y emplazamientos pesqueros de Malí, como lugar de celebración del taller, una elección muy acertada puesto que esta sede ofrecía todas las facilidades para la organización de conferencias, la realización de experimentos con los peces de piscicultura y el alojamiento de los participantes.
+
+3. Tras estos contactos y en el transcurso de la visita de G. Marmulla a Malí en marzo de 2000, se precisó la estructura provisional del taller, cuyos aspectos logísticos y presupuestarios acordaron E. Baras, V. Bénech y G. Marmulla en la reunión celebrada el 19 de abril de 2000 en la sede del IRD de París. A lo largo de los meses siguientes, se entablaron contactos informales con los posibles participantes del taller, mientras que cada organizador trabajaba en la preparación de las labores que le incumbían. La última reunión de coordinación se celebró en la estación de acuicultura de la Universidad de Lieja en Tihange en noviembre de 2000, y en el transcurso de la misma se estudió la utilidad de poner a disposición de los participantes, de forma más estructurada y sobre todo más permanente, la información ofrecida en el transcurso del taller. Esta idea se concretó en un manual de biotelemetría acuática, redactado en francés para este primer taller. El presente informe se
+hace eco de los tres años de gestación y los 10 meses de preparación intensiva para dicho taller piloto.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+APERTURA DEL TALLER
+
+4. El taller piloto sobre la aplicación de la biotelemetría al estudio de los peces para la ordenación de la pesca continental en África occidental se celebró en los locales de la Oficina para el desarrollo rural de Sélingué (ODRS) en Sélingué, Malí, del 29 de enero al 10 de febrero de 2001. Organizó el taller el Instituto de investigación para el desarrollo (IRD, Francia) y, en particular, su centro de Bamako en cooperación con el Instituto maliense de economía rural (IER) y la Oficina para el desarrollo rural de Sélingué (ODRS), además de contar con el apoyo de la Universidad de Lieja (Bélgica) y de la Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO). En el Anexo 1 se encuentra la lista de las personas recurso y los participantes venidos de Benin, Burkina Faso, Côte d´Ivoire, Guinea y Malí. En los Anexos 2 y 3 se incluye el prospecto y el programa del taller.
+
+5. La ceremonia de apertura del taller piloto se celebró el 29 de enero de 2001 en los locales del centro IRD de Bamako en presencia de los representantes del IER, la ODRS, la DNAER^[1], la Universidad de Lieja y la FAO. El presidente de la sesión de apertura, el Sr. Profesor J. Brunet-Jailly, representante del IRD en Malí, dio la bienvenida a los representantes de las organizaciones asociadas, así como a los supervisores del IRD y a los participantes procedentes de cinco países del África occidental. En su discurso de bienvenida, el Sr. Brunet-Jailly mencionó la larga tradición del IRD en Malí y pasó revista a los aspectos más importantes de esta colaboración científica. Más en concreto, en el marco de este taller, subrayó la importancia de la cooperación con los asociados malienses, sobre todo el IER y la ODRS, y con organizaciones internacionales como la FAO, y deseó el mayor de los éxitos al taller.
+
+6. A continuación, el representante del IER, Sr. N´Diaye, dio a su vez la bienvenida a los participantes y las personalidades presentes. Después de hablar de la reestructuración de su Instituto, el Sr. N´Diaye describió los 16 programas distintos de investigación del IER y subrayó la gran importancia del taller para la citada institución, que está empeñada en la ordenación pesquera mediante su programa de recursos pesqueros (PRH).
+
+7. El Dr. Vincent Bénech, investigador ictiólogo del IRD de Bamako, presentó a continuación un resumen de los estudios realizados en colaboración con el IER sobre el comportamiento migratorio de los peces-gato, clarias anguillaris, en el delta interior del río Níger. Este estudio constituía la primera aplicación de la herramienta de la radiotelemetría en Malí, en este caso para obtener una información bioecológica no accesible mediante los medios de investigación tradicionales en la vasta planicie de inundación del río Níger.
+
+8. El Sr. Gerd Marmulla, especialista en recursos pesqueros del Departamento de Pesca con sede en la FAO en Roma, agradeció al Instituto de economía rural y a la ODRS haber aceptado organizar este taller (Anexo 4). También expresó su agradecimiento al Instituto de investigación para el desarrollo por la eficaz organización del mencionado taller y por haber facilitado el acceso a importantes recursos humanos y materiales. El Sr. Marmulla mencionó que el objetivo del taller era divulgar y difundir la biotelemetría, herramienta muy útil para la obtención de informaciones más precisas, indispensables para una ordenación mejor y sostenible de los recursos acuáticos. Se mostró complacido de que Malí se hubiera ofrecido para acoger el taller, puesto que la pesca continental es de gran importancia para este país, donde se pescan al año entre 80 000 y 130 000 toneladas de pescado y, además, Malí ya había adquirido una cierta experiencia en cuanto a la radiotelemetría, como ya se
+había indicado en el discurso de Bénech.
+
+9. El Dr. Etienne Baras, investigador cualificado del FNRS adjunto a la Universidad de Lieja destacó la importancia general de la biotelemetría, así como el objetivo y el programa del taller. El empleo eficaz de la herramienta de la biotelemetría se basa, en efecto, en el dominio de los componentes de naturaleza biológica, física y matemática, inherentes al marcado de los peces, a su comportamiento, a la propagación de las ondas de radio y acústicas en el medio acuático, y al análisis estadístico de las informaciones, teniendo en cuenta las recomendaciones para la ordenación pesquera. El Dr. Baras aseguró que estos elementos decisivos, cuyo dominio condiciona el éxito de los proyectos de investigación, iban a estudiarse en detalle en el transcurso del taller, en el marco de seminarios y sesiones de trabajos prácticos, lo que permitiría a los participantes estructurar los proyectos de estudios que implicaban la utilización de la herramienta de la biotelemetría.
+
+10. A la apertura del taller le siguió una recepción bajo la carpa emplazada en el jardín del IRD. En la foto 1 aparecen los cursillistas, la dirección y las personalidades asistentes a la ceremonia de apertura del taller piloto en el centro IRD de Bamako. El traslado a Sélingué se realizó por la tarde en minibús. Esa misma noche, una primera mesa redonda permitió a los participantes y las personas-recurso principales (los señores Etienne Baras, Vincent Bénech, André Mahieux, Gerd Marmulla y Jean Raffray) explicar brevemente sus trayectorias y motivaciones para participar en el taller.
+
+
+^[1] Dirección nacional de ordenación y equipamiento rural.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+INSTALACIONES Y SERVICIOS
+
+11. Durante la celebración del taller, la Oficina para el desarrollo rural de Sélingué ofreció su sala de conferencias, situada en la ciudad administrativa de Kangaré, además de instalaciones acondicionadas en el laboratorio, los estanques y las piscinas que se encuentran en la piscicultura al pie de la presa. La dirección acondicionó la sala de conferencias para organizar las reuniones sobre los aspectos teóricos y para que sirviera de taller informático. En el taller había cuatro ordenadores de oficina y tres ordenadores portátiles. Los debates sobre los aspectos teóricos y las reuniones con ordenadores se celebraron en la sala de conferencias. Los trabajos prácticos relativos al marcado de los peces, los controles del comportamiento postoperatorio y la utilización del material de biotelemetría se efectuaron principalmente en las instalaciones de la piscicultura de la ODRS. El seguimiento de los comportamientos de los peces equipados con emisores en su medio natural se
+enmarcaba dentro de un estudio prueba del pantano de Sélinguéni, en la rivera izquierda del río Sankarani, aguas abajo de la presa de Sélingué.
+
+12. El segundo día del taller, M. Hinna Haïdara, Director General Adjunto de la ODRS con sede en Sélingué, tuvo la gentileza de presentar la infraestructura de la Oficina para el desarrollo rural de Sélingué y sus responsabilidades en cuanto a la gestión del lago. Mencionó la gran importancia del lago de Sélingué para la economía de la región, es decir, para la producción de electricidad, el riego, la pesca y la mejora de la navegabilidad del río Níger. También destacó que, con sus 4 000 toneladas de pescado al año el lago ocupaba el segundo lugar en cuanto a la producción piscícola de Malí, sólo superado por el delta interior del Níger. Las cifras socioeconómicas presentadas subrayaban la importancia de la pesca como medio de subsistencia sostenible de la población rural de Sélingué.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ASPECTOS TEÓRICOS DE LA BIOTELEMETRÍA
+
+13. Los aspectos abordados en la teoría comprendían el funcionamiento de los receptores, las antenas y las marcas físicas activas (emisores de biotelemetría y marcas archivo), la anestesia de los peces, la fijación de las marcas telemétricas, los efectos del marcado en el comportamiento y la fisiología, la retención de los emisores, los principios básicos de propagación de las señales de radio y acústicas, el posicionamiento de la fuente de emisión, además de la cartografía y los principios matemáticos correspondientes. En el marco del presente informe, estos aspectos sólo se han recogido a grandes rasgos. Existe una descripción más exhaustiva en un manual de unas 160 páginas, elaborado durante la fase preparatoria del taller (E. Baras, V. Bénech y G. Marmulla) y distribuido a todos los participantes en el momento de su llegada. En el Anexo 5 del presente informe se encuentra el índice del programa de estudios.
+
+Marcado de los peces
+
+14. El primer seminario trató sobre todo las técnicas de marcado telemétrico, aplicables para la colocación de emisores de biotelemetría o de marcas archivo. Los emisores de biotelemetría contienen una fuente de energía y transmiten con una longitud de onda precisa una señal a pulsos que informa al observador sobre la posición del animal. Si se añade un circuito acoplado a un sensor se puede modular el ritmo de pulsación e indica al observador el valor de la variable medida (profundidad, temperatura, actividad). En cuanto a las marcas archivo, éstas no transmiten una señal, pero registran en una memoria interna los valores medidos, que no podrán obtenerse y descodificarse hasta después de la captura del animal. La fotografía 2 muestra marcas biotelemétricas.
+
+15. La fijación de los emisores de biotelemetría o de las marcas archivo puede realizarse mediante aplicación externa, inserción intragástrica, inserción intraperitoneal, intervención quirúrgica o también a través de la inserción intraperitoneal por el gonoducto. Todos los métodos de fijación presentan inconvenientes y ventajas intrínsecas, de carácter ambiental o específico, que conviene tener en cuenta al definir un estudio. La inserción intragrástica es el método menos perturbador, pero puede afectar al comportamiento de la alimentación. La fijación externa suele ser adecuada a corto plazo, pero problemática a largo, sobre todo en las aguas corrientes. La inserción intraperitoneal mediante intervención quirúrgica (fotografía 3) es sin duda más perturbadora a corto plazo, puesto que requiere una operación, aunque, una vez completada la cicatrización de la pared abdominal, representa el método más seguro, tanto para el éxito del estudio como para la salud del pez. La
+inserción en la cavidad peritoneal por la vía del gonoducto sólo es posible en ciertas especies. Debido al aumento en la duración de los emisores de telemetría y las marcas archivo, la inserción intraperitoneal se ha convertido en el método de fijación más utilizado. El éxito o el fracaso de este método suele estar a menudo condicionado a la adopción de medidas profilácticas y terapéuticas apropiadas, a la elección del lugar de incisión a partir de criterios histopatológicos y de modos de cierre de la incisión (sutura, adhesivos cianoacrilatos, grapas), que tengan en cuenta la dinámica de cicatrización en las especies tratadas. Estos diversos aspectos se han examinado en una vasta gama de especies de peces de regiones templadas y tropicales. Las fotografías 4 y 5 muestran una tilapia marcada.
+
+16. El segundo seminario permitió examinar las particularidades del marcado, incluidos los problemas de rechazo o de pérdida de las marcas. En el caso de las fijaciones externas, las razones principales de esta pérdida precoz e involuntaria son la precariedad de los nudos de fijación o los cortes de la musculatura dorsal ocasionados por los filamentos de fijación, sobre todo en un río de facies lótica. Entre los peces señalados mediante marcas intraestomacales puede producirse el rechazo por peristaltismo o regurgitación. La aparición del rechazo y la demora en la expulsión varían considerablemente en función de la especie y del tamaño relativo de la marca. La expulsión de las marcas también puede producirse en los peces en los que la marca se ha implantado en la cavidad peritoneal, ya sea a través de la incisión o de una zona intacta de la pared abdominal, o bien a través del intestino en ciertas especies. Se analizaron diferentes técnicas y procedimientos que permiten
+reducir al mínimo la probabilidad de rechazo.
+
+17. En cuanto a los efectos de las marcas en la fisiología y el comportamiento de los peces, se recalcó que era indispensable tener en cuenta las características específicas de las especies estudiadas, sobre todo en lo que respecta a las propiedades de la vejiga natatoria (especies de fisóstomos y fisoclistos). También se debatió sobre las particularidades de los métodos de fijación externa, intraestomacal e intraperitoneal, subrayando el riesgo que supone extrapolar conclusiones de una especie a otra y la necesidad de realizar estudios de viabilidad sobre las especies para las que no se dispone de ninguna información.
+
+Detección de las señales de biotelemetría
+
+18. Se dedicaron dos seminarios a las particularidades de las ondas de radio y acústicas en cuanto a su propagación en el medio acuático, con el objetivo principal de proporcionar a los participantes las bases de cálculo necesarias para la definición de la viabilidad de un estudio y de la estrategia que ha de adoptarse.
+
+19. Las ondas de radio (30-170 MHz) se propagan en el medio acuático en todas las direcciones, pero sólo los vectores de onda que forman un ángulo de menos de 6º con la perpendicular a la superficie agua-aire pueden atravesar dicha superficie, propagarse en el aire y ser detectados mediante un antena aérea acoplada a una estación receptora. La señal sólo puede captarse cuando la acumulación de las atenuaciones en el transcurso de la propagación de la señal no reduzca la relación señal-ruido que queda por debajo del umbral de sensibilidad del receptor. Se pasó revista a los diversos factores de atenuación (propagación en el agua, en la superficie agua-aire, en el aire, en la antena receptora y en el cableado). Este análisis incluyó las ecuaciones que permiten modelizar la atenuación en función de características medioambientales (profundidad, conductividad, frecuencia de emisión,...). La limitación principal para la propagación de las ondas de radio es la profundidad de la
+emisión, mientras que la atenuación de la señal será tanto mayor cuanto más elevada sea la conductividad del agua. Recurriendo a estos principios matemáticos, los participantes pudieron calcular la potencia mínima de los emisores necesarios para realizar un estudio en tal o cual medio, o adaptar la estrategia de seguimiento a los emisores y a las condiciones medioambientales. Una sesión de ejercicios permitió que los participantes pusieran en práctica estos conocimientos sobre la propagación de las ondas de radio para la definición de los proyectos de estudio.
+
+20. En cuanto a la elección de las bandas de frecuencia durante la planificación de un proyecto que comprende un estudio mediante radiotelemetría, resulta muy recomendable analizar con cuidado las posibles frecuencias existentes. Por supuesto, al principio hay que informarse de las bandas asignadas por la legislación del país (o de los países) en el/los que se llevará a cabo el proyecto.
+
+21. El segundo seminario sobre la propagación se dedicó a las ondas acústicas (30-80kHz). En telemetría acústica, la frecuencia de emisión es inversamente proporcional al diámetro del transductor piezo-eléctrico, de tal modo que el marcado de los peces pequeños sólo puede hacerse con emisores que operen en frecuencias elevadas, que se atenúan más cuando se propagan en medio acuático. La velocidad de propagación del sonido varía en función de la salinidad y la temperatura. Cualquier superficie entre medios con velocidades de propagación diferentes provoca una reflexión y una refracción de las señales, de modo que la termoclina, la haloclina y la vegetación representan barreras casi impermeables para la propagación de las ondas acústicas. Por este motivo, un hidrófono sumergido ha de detectar obligatoriamente las señales acústicas. Como se hizo con las ondas de radio, se pasó revista a los factores de atenuación de las ondas acústicas y se les modelizó en función de las
+condiciones medioambientales. Esta modelización matemática permitió a los participantes determinar en el transcurso de una sesión de ejercicios la viabilidad de los estudios mediante biotelemetría acústica en entornos concretos.
+
+Localización de los emisores, posicionamiento de los peces en el hábitat
+
+22. El seminario siguiente se dedicó a la problemática del posicionamiento de la fuente de emisión de la señal mediante un operador. Para ello se examinaron los diagramas de recepción de antenas e hidrófonos direccionales y omnidireccionales y se compararon las potencias de recepción asociadas a ellos. Se analizaron los rendimientos intrínsecos de los sistemas direccionales, en cuanto a ángulo de abertura y ganancia de recepción, en función del contexto del estudio mediante biotelemetría y en el marco tanto de estaciones automáticas de escucha pasiva como de seguimiento en barco o vehículo. A continuación, en una sesión de ejercicios prácticos los participantes pudieron determinar objetivamente varios elementos decisivos de la estrategia de estudio: en este caso particular, el tipo de antena (dipolo, lazo, H-Adcock, Yagi) más adaptado al medio ambiente, el número de frecuencias que pueden escanearse mediante una estación receptora y la velocidad de progresión de un equipo
+motorizado sin que exista riesgo de no detección de la señal. Para el caso de que las condiciones medioambientales restrinjan en exceso una de las variables consideradas, se examinaron alternativas técnicas, en concreto las estaciones receptoras acopladas a multiplexores de antenas y la utilización de emisores codificados que funcionasen con la misma frecuencia portadora.
+
+23. A continuación se debatió la precisión del posicionamiento por triangulación a partir de antenas direccionales, con el fin de obtener localizaciones tan precisas como posibles optimizando las parametrizaciones de distancias y ángulos relativos de las posiciones de los observadores que se encuentran frente al emisor. En función del contexto del estudio, el posicionamiento puede producirse a partir de señales cuyas coordenadas se conozcan (p. ej. balizas) o de puntos precisos cuyas coordenadas se determinen in situ (p.ej. GPS). Se mostraron programas de usuario desarrollados específicamente para aplicaciones de radioseguimiento y se detallaron sus principios matemáticos para aplicarlos en las sesiones de trabajos prácticos. Se consideraron alternativas para el posicionamiento de emisores mixtos (de radio y acústicos) y de emisores acústicos mediante hidrófonos omnidireccionales, que permitan localizar la posición del emisor en función de los momentos en que la señal llega
+a los diferentes hidrófonos (principio inverso de la navegación hiperbólica). La combinación de las precisiones angular, métrica y temporal permite al operador determinar las dimensiones del polígono de error limitando el emplazamiento real del emisor; resulta este elemento crucial para la determinación de la estrategia de recogida de datos cartográficos y sobre el hábitat.
+
+24. Los datos de posición se localizaron en el mapa del hábitat, en coordenadas cartesianas. A continuación, se calculó el dominio vital o el área de actividades diarias mediante polígono convexo, función normal bivariada (elipse de una confianza del N%) o mediante cuadrículas de mallas. La precisión de las localizaciones y la estructura de la base de datos (obligación de binormalidad para las elipses) dictaron la elección de los métodos. En el marco de este análisis, también resulta crucial que cualquier dato de posición tenga la misma representatividad en el tiempo y que, por tanto, los datos se recojan a intervalos regulares. La elección del intervalo depende de la biología de la especie estudiada y de la logística del estudio. En la práctica, se recomienda basarse en las localizaciones cotidianas, completadas por ciclos de 24 horas, en las que la actividad del pez está descrita del modo más frecuente posible. Una vez que se disponga de esta base de datos, es posible
+determinar mediante submuestreo la importancia de la pérdida de información resultante del aumento del lapso temporal entre posiciones sucesivas, compararla con los presupuestos necesarios para la realización de estudios sobre la base de localizaciones más o menos frecuentes, y definir así una lógica para un proyecto. Este procedimiento también puede aplicarse a la recogida de datos en el transcurso de un ciclo diario. Constituye asimismo una base particularmente útil para la programación de marcas archivo, emisores de biotelemetría y estaciones automáticas de registro, en el sentido de que permite optimizar la vida de la marca con relación a la frecuencia útil de recogida de informaciones.
+
+Las fotografías 6 y 7 muestran grupos de cursillistas detectando señales.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+SELECCIÓN DE MÉTODOS DE ESTUDIO ALTERNATIVOS Y COMPLEMENTARIOS, DEFINICIÓN DE PROYECTOS
+
+25. En el transcurso de los seminarios precedentes, los participantes pudieron comprender las ventajas, grados de rendimiento y limitaciones de los útiles de biotelemetría en el marco de la ordenación de la pesca continental. En algunos ejemplos, sobre todo cuando el tamaño de los peces es insuficiente, no puede aplicarse la biotelemetría. En otros casos, esta última no puede por sí sola aportar las respuestas al conjunto de cuestiones planteadas por un proyecto de estudio, pero permite facilitar en gran medida la aplicación de otras herramientas de estudio y de medida. El objetivo de este seminario, previo a la definición de los proyectos por los participantes, consistía en pasar revista a los diversos métodos aplicables al estudio del comportamiento de los peces en su medio natural, insistiendo en sus características específicas y complementarias con respecto a la herramienta de la biotelemetría:
+
+- hidroacústica, medidores de resistividad
+- marcas genéticas y químicas intrínsecas (tejidos esqueléticos)
+- marcas pasivas externas
+- marcas pasivas internas
+- transpondedores
+
+26. Este inventario terminaba con una lista de preguntas tipo, que debían permitir que los participantes seleccionar con acierto los métodos de estudio que habrían de aplicar en distintos tipos de proyectos, y estaba ilustrado con ejemplos de casos concretos de proyectos donde se había utilizado la biotelemetría como método principal o secundario para el estudio de la biología de los peces y sus relaciones con el medio ambiente. En la exposición de dichos proyectos también se hizo referencia a las etapas experimentales y a los criterios de elección de los métodos de marcado y seguimiento.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+TRABAJOS PRÁCTICOS Y TRABAJOS DIRIGIDOS
+
+27. La organización de los trabajos prácticos y los trabajos dirigidos en el transcurso del taller se describe siguiendo un orden lógico. En realidad, se organizaron diversos ensayos con el fin de que los participantes pudieran familiarizarse con los campos que requerían una práctica mayor. En el programa (Anexo 3) se recoge la lista cronológica de los diferentes trabajos.
+
+Anestesia y marcado
+
+28. La primera sesión de trabajos prácticos permitió a los participantes realizar puntos de sutura sobre una placa de poliestireno (fotografía 8) para comprender bien el proceso de cierre de una incisión. A continuación, los participantes practicaron la anestesia y la cirugía abdominal en peces cíclidos (tilapias) y cláridos (pez gato Clarias gariepinus) recogidos en la estación de piscicultura de la ODRS. Se eligieron estos dos grupos de especies por su representatividad en la pesca de África occidental. A lo largo del taller se repitió esta operación, con el fin de que los participantes adquirieran la maestría necesaria para la realización de implantaciones de emisores de biotelemetría y para que pudieran probar distintos tamaños de peces y diversos materiales de marcado (hilo de sutura, agujas de diferentes tipos). Los peces marcados se soltaron en un estanque alimentado de forma continua por el agua de la presa de Sélingué.
+
+29. En este estanque también se habían soltado peces (Tilapia, Clarias y Auchenoglanis sp.) marcados previamente por el personal de supervisión y dotados de marcas archivo y de emisores de biotelemetría, cuyas señales registraba una estación de escucha pasiva instalada en el recinto de la piscicultura. Durante una semana, la temperatura del agua en la superficie y en las profundidades, así como la luminosidad en la superficie del agua, se registraron cada cinco minutos mediante data loggers (registradores secuenciales de datos). El objetivo principal de esta operación consistía en que los participantes pudieran comparar diferentes métodos de medidas biotelemétricas (emisores de radio frente a marcas archivo), así como contrastar datos biológicos y medioambientales durante los trabajos dirigidos (véase el capítulo "Utilización de emisores de biotelemetría").
+
+30. A lo largo de la segunda semana del taller se vació el estanque y se controlaron los peces marcados, para que los participantes evaluaran de forma objetiva la calidad del marcado practicado y los progresos que aún debían realizar antes de la aplicación del método de marcado en el marco de un proyecto de estudio.
+
+Funcionamiento de las estaciones receptoras y búsqueda de emisores
+
+31. El funcionamiento y la utilización de las estaciones receptoras se resumieron e ilustraron mediante distintos modelos de receptores y antenas (lazo, Yagi, M-Yagi) que funcionaban a frecuencias portadoras distintas (49 y 151 MHz). En la periferia del Lago de Sélingué y en las instalaciones de la piscicultura de la ODRS se organizaron dos sesiones de la "caza del zorro" (es decir la búsqueda de emisores diseminados; fotografía 9), con el fin de que los participantes se familiarizaran con la búsqueda de emisores tanto de larga como de muy pequeña distancia. De este modo, los participantes pudieron apreciar su progreso de una sesión a otra y se enfrentaron en la práctica a situaciones distintas susceptibles de aparecer en el marco de proyectos de estudio, tanto para la localización de peces vivos como para la recuperación de emisores de peces capturados por pescadores o por depredadores.
+
+Utilización de emisores de biotelemetría
+
+32. A los participantes se les enseñó a utilizar tres tipos principales de emisores de biotelemetría: los que miden la temperatura, la profundidad y la actividad del pez. Efectuaron una calibración para cada tipo de emisor, consistente en determinar las variaciones del intervalo entre pulsos de la señal en función de la variable medida. La calibración de la profundidad se llevó a cabo en el lago de la presa de Sélingué (0-18m) y la de la temperatura se realizó mezclando agua a distintas temperaturas (15-32º C). Para los emisores en actividad, se llevó a cabo una calibración a partir de emisores estáticos y activos con el fin de determinar los ritmos mínimo y máximo de pulsación, y se efectuaron medidas complementarias sobre los peces intervenidos y mantenidos en cautividad en el acuarium para identificar los movimientos mínimos que desencadenaran el tránsito a un ritmo de pulsación rápido. A continuación, se analizaron las curvas de calibración con el ordenador para
+determinar las relaciones de regresión lineal que pudieran servir para la interpretación de los resultados recogidos por una estación automática de escucha pasiva.
+
+33. Se programó una estación automática de registro de señales consistente en un receptor ATS Challenger 2100, un ordenador DCC II y una antena lazo (fotografía-10), con el fin de registrar las señales de los peces recogidos en el estanque de la ODRS durante un ciclo de 24-horas, a razón de 30 segundos de registro continuo por pez cada cinco minutos. Al término de la grabación, los participantes tuvieron la oportunidad de descargar la estación, comprobar la idoneidad de los ajustes iniciales en cuanto a la ganancia de recepción y el rechazo de parásitos, y de analizar los datos recogidos en comparación con los registrados mediante las marcas archivo y los data loggers que miden la temperatura en la superficie y en las profundidades.
+
+34. Las distintas etapas descritas permitieron que los participantes cobraran conciencia del elevado grado de rendimiento de las estaciones automáticas de escucha pasiva, pero también de la necesidad de una programación minuciosa de la ganancia so pena de integrar en sus bases de datos informaciones sesgadas y susceptibles de modificar la interpretación de los datos biológicos.
+
+Estudio de prueba
+
+35. En el pantano de Sélinguéni se realizó un verdadero estudio de prueba en condiciones naturales con la participación conjunta del personal directivo y de los participantes. Con el fin de que estos últimos se familiarizaran con los distintos métodos de posicionamiento, balizado y cartografía, este estudio consistió en:
+
+- El marcado de tres peces de especies diferentes (Bagrus bajad, Clarias gariepinus y Tilapia zillii) mediante emisores de biotelemetría de tipo actividad-inactividad, y su suelta en el pantano al principio del taller.
+
+- El balizado del pantano y la determinación de la posición relativa de las balizas mediante tres métodos alternativos (nivel del topógrafo, GPS y coordenadas polares sucesivas mediante la combinación de brújula y pentadecámetro; polígono del pantano de Sélinguéni en el Anexo 6).
+
+- La realización de transectos de batimetría.
+
+- La comparación mediante ordenador de la precisión de los tres métodos de balizado.
+
+- El posicionamiento de los peces y la medida de su ritmo de actividad a lo largo de un ciclo de estudio de seis horas, a razón de una localización por pez y una medida de actividades de treinta segundos cada diez minutos.
+
+- La medida continua (p.ej. 30 segundos de registro cada minuto) del ritmo de actividad de uno de los tres peces (Clarias) mediante la estación automática.
+
+- La determinación mediante ordenador de las posiciones de los peces sobre los que se realiza el seguimiento.
+
+- La comparación entre los datos recogidos por la estación automática y los operadores, lo que permitió determinar la representatividad de las muestras recogidas cada diez minutos con respecto a las mediciones continuas.
+
+36. La combinación de las diferentes operaciones descritas permitió que los participantes pusieran en práctica diversos puntos cruciales de la enseñanza teórica y que los integraran en una secuencia lógica, indispensable para la realización de un programa estructurado.
+
+Utilización de marcas archivo (etiquetas para el almacenamiento de datos: DST)
+
+37. Al comienzo del taller, se dotó a tres tipos de peces (Tilapia, Clarias y Auchenoglanis sp.) de marcas archivo (DST 200 y DST 300, Star-Oddi), fijadas dorsalmente a los peces que se habían soltado en el estanque de la ODRS. Todas las marcas medían, con un minuto de intervalo, la profundidad de inmersión y la temperatura ambiente en el hábitat en el que se encontraba el pez. La marca que portaba el pez gato Clarias gariepinus medía además la orientación del pez con respecto a la horizontal, y la diferencia entre mediciones sucesivas permitía deducir un índice de actividad.
+
+38. Durante el vaciado del estanque, los participantes pudieron comparar los efectos en la salud del pez del método de fijación dorsal utilizado por las marcas archivo (fotografía 11) con los del método de inserción intraperitoneal empleado para la implantación de emisores de biotelemetría (fotografía 12) en los mismos individuos, presentando las marcas archivo y los emisores un peso comparable. A continuación, los participantes pudieron asistir a las diferentes etapas del procedimiento de retirada de las informaciones contenidas en las marcas archivo (desglose de las marcas [fotografía 13], extracción de la memoria interna, descarga en el ordenador [fotografía 14]) para comenzar a analizar los datos biológicos, contrastándolos con las informaciones medioambientales proporcionadas por los data loggers y los datos de biotelemetría recogidos por la estación automática.
+
+39. El análisis de datos recogidos por los distintos sistemas telemétricos permitió a los participantes comparar el grado de rendimiento de los diferentes sistemas en cuanto a precisión, seguridad y garantía de recuperación, elementos indispensables para la estructuración de un proyecto de estudio.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ANEXO 1: Lista de participantes
+
+BENÍN
+
+Sr. Antoine CHIKOU
+Laboratorio de Hidrobiología y Acuicultura
+Universidad Nacional de Benin
+01 BP 526
+Cotonou
+
+BURKINA FASO
+
+Sr. Sana BOUDA
+BP 2937 Bobo Dioulasso
+projet.peche@fasonet.bf
+sanabouda@yahoo.fr
+
+Sr. Aboubacar TOGUYENI
+Instituto de Desarrollo Rural
+Universidad Politécnica de Bobo
+01 BP 1091
+Bobo Dioulasso 01
+Tel & Fax (226) 97 37 49
+toguyeni@univ-ouaga.bf
+
+CÔTE D'IVOIRE
+
+Sr. Kouassi Sebastino DA COSTA
+CNRA, Estación de Piscicultura
+01 B.P. 633
+BOUAKE 01
+
+Sr. Tidiani KONE
+Universidad de Cocody,
+Laboratorio de Hidrobiología
+22 B.P. 582
+Abidjan 22
+Tel.: (225) 05 70 19 62
+hydrobio@ci.refer.org
+
+GUINEA
+
+Sr. Moussa Elimane DIOP
+OMS/OCP - Kankan
+Tel. & Fax (224) 71 02 78
+
+MALÍ
+
+Sr. Soumana ALHOUSSEINI
+Instituto Superior de Formación e Investigación Aplicada
+B.P. E475
+Bamako
+Tel. & Fax: (223) 21 04 66
+soumana@ird.ml
+
+Sr. Alassane TOURE
+IER
+B.P. 205
+Mopti
+Tel.: (223) 43 00 28/03 57/00 51
+Moussa.Kane@ier.ml
+
+Sr. Harouna TRAORE
+ODRS
+B.P. 03
+Bamako
+Tel.: (223) 65 02 57/22 54 03
+
+IRD
+
+Sr. Vincent BENECH
+IRD
+BP 2528
+Bamako, Malí
+benech@ird.ml
+
+Sr. Harber DICKO
+IRD
+BP 2528
+Bamako, Malí
+
+Sr. André MAHIEUX
+IRD
+BP 2528
+Bamako, Malí
+mahieux@ird.ml
+
+Sr. Jean RAFFRAY
+IRD, Dakar, Senegal
+Raffay@ird.sn
+
+Sr. Moussa SACKO
+IRD
+Sélingué, Malí
+
+Sr. Bekaye TOGOLA
+IRD
+BP 2528
+Bamako, Malí
+
+UNIVERSIDAD DE LIEJA
+
+Sr. Etienne BARAS
+Investigador Cualificado de FNRS
+CEFRA-ULg
+10 Chemin de la Justice
+B - 4500 Tihange
+Tél.: + 32 85 27 41 56
+Fax: + 32 85 23 05 92E.Baras@ulg.ac.be
+
+FAO
+
+Sr. Gerd MARMULLA
+Especialista en recursos pesqueros
+Departamento de Pesca
+Viale delle Terme di Caracalla
+00100 Roma, Italia
+Tel.: + 39 06 5705 2944
+Fax: + 39 06 5705 3020
+Gerd.Marmulla@fao.org
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ANEXO 2: Prospecto
+
+Aplicación de la biotelemetría al estudio de los peces para la ordenación de la pesca en África occidental
+
+Taller piloto de Sélingué (Malí), 28 de enero - 10 de febrero de 2001
+
+Desde hace centenares de años, los recursos acuáticos marinos y de agua dulce, y, más concretamente los peces, son objeto de explotación por parte de la pesca continental, sobre todo en las regiones intertropicales, donde el consumo de pescado puede alcanzar los 500 gramos por habitante y día. El espectacular aumento demográfico en las regiones intertropicales ha ido acompañado de una intensificación creciente de la pesca y de modificaciones cada vez más marcadas del medio ambiente en cuanto a la contaminación química u orgánica, o de cambios en la hidrología como consecuencia de la construcción de presas de fines fundamentalmente hidroeléctricos. Estas modificaciones son comprensibles y útiles con respecto al desarrollo económico de las regiones intertropicales, aunque han interferido con los procesos ecológicos y, sobre todo, con las necesidades de los peces en cuanto al hábitat y las migraciones. Éstas últimas han tenido o van a tener una repercusión en la pesca
+continental y la alimentación, sin contar las consecuencias en el ámbito de la biodiversidad de las especies no explotadas. Este hecho objetivo indica la necesidad y la urgencia de recoger informaciones precisas en cuanto a la ecología y al comportamiento de los peces, tanto en su medio ambiente natural como en uno modificado. Estos datos resultan indispensables para una gestión integrada de los recursos naturales que combine la preservación de la biodiversidad, la ordenación eficiente de la pesca y el mantenimiento prolongado de las actividades y la condición de vida.
+
+Entre las técnicas y metodología aplicables, la biotelemetría reviste un interés muy particular gracias a la precisión de las informaciones recogidas y a la velocidad de obtención de dichos datos. El término biotelemetría comprende un conjunto de herramientas y metodologías (radioseguimiento y seguimiento acústico) que permiten recoger informaciones sobre la bioecología de los peces (dominio vital, utilización del hábitat, migraciones estacionales y diarias). Mediante las técnicas y los métodos convencionales de observación y muestreo, cuya eficacia varía en función de las condiciones medioambientales, resulta más difícil acceder a estas informaciones, que son esenciales para comprender la biología de los peces, así como para la preservación de su biodiversidad y la ordenación de la pesca continental.
+
+En Europa, América del Norte, Australia y Asia oriental se han realizado cerca de 1 500 estudios sobre las técnicas de biotelemetría. En comparación, el número total de estudios en medio tropical de agua dulce continúa siendo demasiado reducido, pese a la importancia de la pesca continental y de las condiciones medioambientales hasta cierto punto favorables a la realización de dichos estudios. La rareza relativa de estos estudios, a pesar del interés evidente que pueden suscitar y las informaciones cruciales que pueden aportar, proviene del desconocimiento de estas tecnologías, de su reputación de costosas y, sobre todo, de complejas, tanto que las formaciones científicas y técnicas que pudieran desmitificarlas son inhabituales o inexistentes. Por lo tanto, desde el punto de vista de un desarrollo sostenible, resulta obligado poner estas técnicas, y los conocimientos teóricos y prácticos que permitan aprovecharlas al máximo, a disposición de los investigadores de las
+regiones tropicales y de otros países en desarrollo que manifiesten esa necesidad.
+
+Estas funciones de educación, de ayuda a la investigación, la ordenación y el desarrollo constituyen el objetivo de este taller piloto, que se celebrará en Sélingué, Malí, del 28 de enero al 10 de febrero de 2001. El taller está destinado a un total de ocho cursillistas, naturales de los países del África francófona y motivados por la realización, a corto o medio plazo, de programas de investigación orientados a optimizar la ordenación de los recursos acuáticos continentales y que no pueden llevarse a cabo sin dominar la "herramienta de la telemetría".
+
+Malí, el país de acogida de este taller piloto, está muy sensibilizado por la explotación de los recursos piscícolas que, con más de 100 000 toneladas al año, representan una de las principales fuentes de ingresos del país. La Dirección del Instituto de Economía Rural (IER) de Malí aceptó hacerse cargo de la coordinación de la organización del taller en colaboración con la Oficina de Desarrollo Rural de Sélingué (ODRS). La Dirección de la ODRS ofreció sus infraestructuras locales de Sélingué. El IRDS, el ULg y la FAO contribuyen, en cuanto a los recursos financieros y humanos, a la organización de este taller piloto. Este último alternará aspectos teóricos y prácticos, desde la concepción de los proyectos hasta el tratamiento de la información y la formulación de recomendaciones en materia de elaboración de programas de investigación aplicados a la investigación de los recursos (véase el programa).
+
+Al término del taller, el seguimiento de los proyectos de los cursillistas por parte de los organizadores favorecerá la proyección de estas actividades y permitirá mantener un contacto fructífero entre las diferentes partes. El taller y las actividades derivadas directa o indirectamente quizás puedan prolongarse mediante un taller-debate durante la Cuarta Conferencia sobre Telemetría aplicada al pescado en Europa, donde se debatirían las ventajas de la fórmula y los posibles problemas detectados durante el taller piloto. Por último, es factible repetir este tipo de taller en otras regiones del mundo que también deseen beneficiarse de esta clase de formación (Asia, América Latina, el África anglófona y Europa Oriental).
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ANEXO 3: Programa
+
+Domingo, 28 de enero de 2001
+
+Llegada de los participantes a Bamako
+
+Lunes 29 de enero
+
+Ceremonia de apertura y bienvenida a los participantes
+
+Traslado a Selingué
+
+Mesa redonda: presentaciones y expectativas de los participantes
+
+Martes 30 de enero
+
+Las marcas telemétricas
+
+La anestesia y el marcado de los peces
+
+Trabajos prácticos sobre la anestesia y el marcado de los peces
+
+Resumen de la jornada
+
+Miércoles 31 de enero
+
+Efectos del marcado en la biología de los peces
+
+Principios de base de la localización de los emisores de telemetría
+
+Trabajos prácticos: búsqueda de emisores ("caza del zorro")
+
+Resumen de la jornada
+
+Jueves 1º de febrero
+
+Propagación de la ondas de radio en medio acuático
+
+Cálculo de la distancia de recepción de los emisores de radio
+
+Trabajos prácticos: marcado de peces y localización de emisores (continuación)
+
+Resumen de la jornada
+
+Viernes 2 de febrero
+
+Propagación de las ondas acústicas en medio acuático
+
+Cálculo de la distancia de recepción de los emisores acústicos
+
+Trabajos prácticos: cartografía del medio y localización de peces dotados de emisores
+
+Sábado 3 de febrero
+
+Estrategia de radioseguimiento: elección de las ondas y las frecuencias
+
+Utilización de las estaciones automáticas
+
+Cartografía y localizaciones: bases matemáticas y aplicación
+
+Domingo 4 de febrero
+
+Día libre
+
+Lunes 5 de febrero
+
+Utilización del hábitat por parte de los peces: bases de cálculo
+
+Precisión de las localizaciones: cálculo e implicaciones para los mapas-hábitat
+
+Trabajos prácticos: revisiones
+
+Resumen de la jornada
+
+Martes 6 de febrero
+
+Métodos alternativos de estudio del comportamiento de los peces en su medio natural (hidroacústico, marcado-recaptura, tipos de marcas, criterios de selección)
+
+Presentación de una proposición de proyecto utilizando la herramienta de radioseguimiento, por K. DA COSTA
+
+Ciclo de seguimiento de peces marcados en su medio natural
+
+Miércoles 7 de febrero
+
+Definición de proyectos de estudio que recurran a la biotelemetría: criterios, estructura y realización
+
+Presentación de una propuesta de proyecto que utilice la herramienta de radioseguimiento, por T. KONE
+
+Recogida de peces marcados, evaluación del marcado, retirada de las informaciones a partir de registradores electrónicos (marcas archivo y data loggers)
+
+Presentación de una propuesta de proyecto que utilice la herramienta de radioseguimiento, por A. CHIKOU
+
+Resumen de la jornada
+
+Jueves 8 de febrero
+
+Retirada de las informaciones biotelemétricas a partir de las marcas archivo y de una estación de registro automático de biotelemetría
+
+Presentación de una propuesta de proyecto que utilice la herramienta del radioseguimiento, por A. TOURE
+
+Aplicación de los datos de radioseguimiento y biotelemetría
+
+Presentación de una propuesta de proyecto que utilice la herramienta del radioseguimiento, por S. ALHOUSSEINI, M.E. DIOP y H. TRAOERE
+
+Resumen de la jornada
+
+Viernes 9 de febrero
+
+Presentación de una propuesta de proyecto que utilice la herramienta del radioseguimiento, por A. TOGUYENI
+
+Presentación de una propuesta de proyecto que utilice la herramienta del radioseguimiento, por S. BOUDA
+
+Informe final general sobre el taller
+
+Ceremonia oficial de clausura del taller
+
+Sábado 10 de febrero
+
+Viaje de regreso a Bamako
+
+Estudio de los sitios Web de fabricantes de material para biotelemetría
+
+Salida de los participantes de Bamako
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ANEXO 4: Discurso de inauguración: aplicación de la biotelemetría al estudio de los peces para la ordenación de la pesca continental en África occidental (G. Marmulla, FAO)
+
+Excmo. Representante del Instituto de Economía Rural,
+
+Excmo. Director de la Oficina de Desarrollo Rural de Selingué,
+
+Excmo. Director del Instituto de Investigación para el Desarrollo de Malí, estimados colegas, señoras y señores:
+
+En nombre del Director General de la FAO, el Dr. Diouf y del Representante de la FAO en Malí, M. Ramos, tengo el gran placer y privilegio de darles la bienvenida a la apertura de este taller.
+
+Permítanme expresar nuestra sincera gratitud hacia todos los socios con los que hemos mantenido un estrecho contacto durante varios meses para la organización de este taller. En primer lugar, debo dar las gracias a la dirección del Instituto de Economía Rural maliense que, en cooperación con la Oficina de Desarrollo Rural de Selingué, ha aceptado albergar este taller para que el curso se pudiera desarrollar en un país africano que ya ha adquirido una cierta experiencia en el sector de la biotelemetría. También me gustaría agradecer a la dirección del Instituto de Investigación para el Desarrollo de Malí por haber puesto a disposición de este taller -y seguir haciéndolo- importantes recursos humanos y materiales. Llegado a este punto, me permito dirigir un agradecimiento especialmente caluroso a mis dos colegas, el Dr. Vincent Bénech del IRD y el Dr. Etienne Baras de la Universidad de Lieja, colaboradores asimismo en esta actividad, por su cooperación eficaz e incansable
+durante varios meses.
+
+Para mí representa un gran placer estar hoy aquí presente en la apertura de este taller sobre la aplicación de la biotelemetría al estudio de los peces para la ordenación de la pesca continental en África occidental, taller que, además, es el primero en su género. Se trata de un taller piloto, sin que esto tenga nada que ver con la aviación, sino que significa que es la primera vez que se organiza con el apoyo de la FAO un taller que trate de las técnicas y el empleo del radioseguimiento en África. Este taller se celebra con el fin de conocer mejor y divulgar la herramienta de la biotelemetría, que puede ser útil para generar datos de base más precisos e indispensables de cara a una ordenación más adecuada y duradera de los recursos acuáticos.
+
+La pesca continental tiene una importancia no despreciable e incluso creciente en muchos países del África occidental y sobre todo en Malí, cuya producción anual media durante últimos años ha totalizado entre 80 000 y 130 000 toneladas de pescado. Por eso desempeña un papel importante en el suministro de proteínas de la población, sobre todo la rural. Por lo tanto, resulta de importancia capital que los gestores de los recursos naturales estén en condiciones de proteger las bases de la pesca, es decir, los peces, necesarios para la renovación de las poblaciones, con el fin de que esté garantizada una explotación duradera. En cuanto al aspecto biológico de la pesca, la ausencia de conocimientos profundos de la biología o del comportamiento de ciertas especies muy apreciadas por los pescadores corre el riesgo, en ciertos casos, de representar un obstáculo para la durabilidad. Con el fin de garantizar que la pesca pueda continuar desempeñando su papel de fuente importante de
+proteínas, ha de evitarse una sobreexplotación de los recursos precisamente mediante una ordenación mejorada y apropiada.
+
+La utilidad de la biotelemetría ya no se pone en duda, incluso está más que demostrada, sobre todo en América del Norte y en Europa. Estamos convencidos de que la biotelemetría también puede proporcionar en África datos que permitan adoptar decisiones con miras a una mejor ordenación. Por este motivo nos encontramos hoy aquí. En lo que respecta a este taller, nos hemos limitado a invitar a participantes naturales de países francófonos, en particular de Benin, Burkina Faso, Côte d´Ivoire, Guinea y Malí, puesto que sólo se trata de una prueba. No obstante, si se considera útil, este tipo de actividad cofinanciada por la FAO quizás podría repetirse para formar a otros expertos africanos -francófonos, anglófonos u otros- en la materia.
+
+Habiendo establecido así los objetivos, deseamos a los participantes que los trabajos teóricos y prácticos de las dos semanas venideras sean enriquecedores y les aporten sus frutos. A continuación, será mi colega, el Dr. Baras, quien les explique en detalle el desarrollo de los trabajos de los próximos días.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ANEXO 5: Índice del Manual de biotelemetría acuática
+
+INTRODUCCIÓN
+
+1
+
+I.
+
+UTILIZACIÓN DEL TIEMPO Y DEL ESPACIO EN LOS PECES
+
+2
+
+1.1
+
+Migración y "migración": definición y relación
+
+3
+
+1.2
+
+Aptitud genética: enfoque completo
+
+4
+
+1.3
+
+Aptitud: repercusiones para la migración
+
+6
+
+1.4
+
+Métodos de estudio de la migración
+
+7
+
+Referencias
+
+8
+
+II.
+
+MÉTODOS DE ESTUDIO DEL COMPORTAMIENTO DE LOS PECES
+
+10
+
+2.1
+
+Métodos de estudio independientes de la captura
+
+10
+
+2.1.1
+
+Observación visual
+
+10
+
+2.1.2
+
+Medidor de la resistividad de las señales eléctricas
+
+10
+
+2.1.3
+
+Hidroacústica
+
+11
+
+2.2
+
+Métodos de estudio independientes de la captura
+
+15
+
+2.2.1
+
+Variaciones de la densidad y de las capturas por unidad de esfuerzo de pesca
+
+15
+
+2.3
+
+Marcado y tipo de marcas
+
+17
+
+2.3.1
+
+Introducción
+
+17
+
+2.3.2
+
+Tipos de marcas
+
+18
+
+2.4
+
+Marcas bióticas extrínsecas
+
+19
+
+2.4.1
+
+Variables morfométricas, merísticas y truss network
+
+19
+
+2.4.2
+
+Patrones de puntuaciones
+
+20
+
+2.4.3
+
+Marcas genéticas
+
+20
+
+2.4.3.1
+
+Polimorfismo enzimático
+
+20
+
+2.4.3.2
+
+ADN mitrocondrial y nucleico
+
+21
+
+2.4.3.3
+
+Improntas genéticas
+
+21
+
+2.4.3.4
+
+Técnicas principales utilizadas en el marcado genético
+
+22
+
+2.4.3.5
+
+Elección de las marcas genéticas
+
+26
+
+2.5
+
+Marcas biológicas extrínsecas
+
+27
+
+2.5.1
+
+Parásitos
+
+27
+
+2.5.2
+
+Quemometría
+
+28
+
+2.5.2.1
+
+Ácidos grasos
+
+28
+
+2.5.2.2
+
+Otros elementos intrínsecos
+
+29
+
+2.6
+
+Marcas extrínsecas
+
+30
+
+2.6.1
+
+Marcado por mutilación
+
+31
+
+2.6.2
+
+Marcas químicas extrínsecas
+
+34
+
+2.6.3
+
+Marcado mediante colorantes
+
+35
+
+2.6.4
+
+Marcados mediante quemadura por frío (cold branding)
+
+36
+
+2.7
+
+Marcas físicas ("tags")
+
+37
+
+2.7.1
+
+Marcas físicas externas
+
+37
+
+2.7.1.1
+
+Marcas de inserción intramuscular
+
+37
+
+2.7.1.2
+
+Marcas transcorporales y transestructurales
+
+39
+
+2.7.2
+
+Marcas físicas internas
+
+40
+
+2.7.2.1
+
+Identificador EVI (Elastomer Visible Implant)
+
+40
+
+2.7.2.2
+
+Identificadores V.I.
+
+41
+
+2.7.2.3
+
+Micromarcas magnéticas
+
+42
+
+2.7.2.4
+
+Transpondedores pasivos integrados o PIT tags
+
+46
+
+2.8
+
+Marcas físicas activas
+
+48
+
+Emisores de biotelemetría, marcas archivo
+
+48
+
+2.9
+
+Elección de los métodos de estudio
+
+48
+
+Referencias bibliográficas
+
+52
+
+ANESTESIA, MARCADO DE LOS PECES, SESGO RELACIONADOS CON EL MARCADO
+
+III.
+
+ANESTESIA
+
+58
+
+3.1
+
+Tipos de anestésicos, aspectos legislativos
+
+58
+
+3.1.1
+
+Anestésicos químicos
+
+58
+
+3.1.2
+
+Métodos alternativos
+
+60
+
+3.2
+
+Fases de la anestesia
+
+62
+
+3.3
+
+Elección de un anestésico
+
+62
+
+3.4
+
+Factores que afectan a la anestesia, la elección de las concentraciones y el período de aplicación
+
+64
+
+3.5
+
+Perturbaciones de la fisiología y del comportamiento de los peces debidas a la anestesia
+
+65
+
+3.6
+
+Sugerencias para la mejora de los protocolos de anestesia y de recuperación
+
+68
+
+3.7
+
+Protocolos de utilización de los anestésicos principales
+
+69
+
+IV.
+
+FIJACIÓN DE LAS MARCAS TELEMÉTRICAS
+
+72
+
+4.1
+
+Introducción
+
+72
+
+4.2
+
+Aplicación externa
+
+73
+
+4.3
+
+Inserción intraestomacal
+
+74
+
+4.4
+
+Inserción intraperitonal
+
+75
+
+4.4.1
+
+Incisión
+
+76
+
+4.4.2
+
+Posicionamiento del emisor
+
+77
+
+4.4.3
+
+Cierre de la incisión: sutura
+
+78
+
+Realización de un punto de sutura
+
+78
+
+Tipo de punto de sutura
+
+79
+
+Elección del material de sutura
+
+80
+
+4.4.4
+
+Métodos alternativos de cierre de la incisión
+
+81
+
+4.4.5
+
+Dinámica de cicatrización
+
+83
+
+4.4.6
+
+Profilaxis, medidas postoperatorias
+
+83
+
+4.5
+
+Peso, dimensiones y formas de los emisores: Limitaciones funcionales
+
+85
+
+V.
+
+SESGOS RELACIONADOS CON EL MARCADO
+
+86
+
+5.1
+
+Supervivencia
+
+86
+
+5.2
+
+Infecciones y heridas
+
+87
+
+5.3
+
+Efectos en el crecimiento y la alimentación
+
+88
+
+5.4
+
+Efectos del marcado en el comportamiento y la fisiología
+
+90
+
+5.4.1
+
+Flotabilidad y equilibrio
+
+90
+
+5.4.2
+
+Rendimiento natatorio y gastos energéticos
+
+90
+
+5.4.3
+
+Efecto en las interacciones sociales
+
+91
+
+5.4.4
+
+Actividad y selección del hábitat
+
+91
+
+5.4.5
+
+Otras perturbaciones del comportamiento
+
+92
+
+5.5.
+
+Rechazo y pérdida de los emisores
+
+92
+
+5.5.1
+
+Pérdida de las marcas externas
+
+92
+
+5.5.2
+
+Regurgitación de las marcas intraestomacales
+
+93
+
+5.5.3
+
+Expulsión de marcas implantadas en la cavidad intraperitoneal
+
+93
+
+Mecanismo de expulsión
+
+93
+
+Factores que afectan a la expulsión (Figura 5.4)
+
+95
+
+CONCLUSIONES
+
+96
+
+Referencias
+
+97
+
+Seguimiento y biotelemetría
+
+Propiedades de las señales, estrategias de estudio, utilización de los resultados
+
+VI.
+
+PRINCIPIOS DE BASE, PROPAGACIÓN DE LAS SEÑALES
+
+102
+
+6.1
+
+Propiedades específicas y puntos comunes de la biotelemetría radio y acústica
+
+103
+
+6.2
+
+Propagación de las señales acústicas
+
+104
+
+6.2.1
+
+Velocidad de propagación, reflexión, refracción
+
+104
+
+6.2.2
+
+Pérdidas relacionadas con la propagación
+
+105
+
+6.2.3
+
+Ruido y disminución de la relación señal/ruido
+
+106
+
+6.2.4
+
+Cálculo de la distancia máxima de detección de una señal
+
+107
+
+6.3
+
+Propagación de las señales de radio
+
+108
+
+6.3.1
+
+Atenuación de las señales de radio en el agua
+
+108
+
+6.3.2
+
+Atenuación en el aire y en la superficie aire-agua
+
+109
+
+6.3.3
+
+Pérdidas relacionadas con la estación receptora
+
+110
+
+6.3.4
+
+Pérdidas y ganancias relacionadas con las antenas receptoras y emisoras
+
+110
+
+6.3.5
+
+Potencia de los emisores, sensibilidad de los receptores
+
+111
+
+6.3.6
+
+Cálculo de la distancia de detección de un emisor de radio
+
+112
+
+6.4
+
+Elección del tipo de radio y de la frecuencia de emisión en función del entorno
+
+113
+
+VII
+
+POSICIONAMIENTO DE LA FUENTE DE EMISIÓN
+
+115
+
+7.1
+
+Homing in
+
+115
+
+7.2
+
+Posicionamiento a distancia mediante triangulación
+
+115
+
+7.2.1
+
+Principio básico
+
+115
+
+7.2.2
+
+Cálculo de las coordenadas cartesianas
+
+116
+
+7.2.3
+
+Triangulación mediante estaciones receptoras direccionales
+
+117
+
+7.2.4
+
+Precisión del posicionamiento mediante triangulación
+
+117
+
+7.2.5
+
+Diagramas de recepción y optimización sobre el empleo de las antenas direccionales
+
+118
+
+Utilización de una antena lazo
+
+119
+
+Utilización de una antena Yagi
+
+119
+
+7.3
+
+Posicionamiento de emisores mixtos mediante un único operador
+
+120
+
+7.4
+
+Posicionamiento a distancia mediante navegación hiperbólica
+
+121
+
+7.5
+
+Programas informátivos de pretratamiento de los datos de radioseguimiento "X-Y PGM track"
+
+121
+
+7.5.1
+
+Principio de funcionamiento
+
+121
+
+Observaciones generales
+
+122
+
+7.5.2
+
+Explicaciones complementarias
+
+122
+
+Parte A.
+
+122
+
+Parte B.
+
+122
+
+Parte C.
+
+123
+
+Parte D.
+
+124
+
+Parte E.
+
+124
+
+7.5.3
+
+Lista del programa
+
+125
+
+VIII.
+
+ESTRATEGIA DE ESTUDIO
+
+129
+
+8.1
+
+Frecuencia de recogida de los datos
+
+129
+
+8.1.1
+
+Recogida continua
+
+129
+
+8.1.2
+
+Recogida periódica (una o varias veces al día)
+
+129
+
+8.1.3
+
+Recogida periódica (menos de una vez al día)
+
+131
+
+Control manual
+
+131
+
+Detección automática
+
+131
+
+8.2
+
+Limitación técnica del número de peces detectables
+
+132
+
+8.3
+
+Mejora de los resultados de la detección
+
+134
+
+8.3.1
+
+Estaciones multiantenas
+
+134
+
+8.3.2
+
+Emisores codificados
+
+136
+
+8.4
+
+Búsqueda de emisores, velocidad de progresión
+
+136
+
+IX.
+
+CÁLCULO DEL DOMINIO VITAL Y DEL ÁREA DE ACTIVIDADES
+
+138
+
+9.1
+
+Método del polígono convexo
+
+138
+
+9.1.1
+
+Principio
+
+138
+
+9.1.2
+
+Limitaciones
+
+138
+
+9.2
+
+Modelos estadísticos normales bivariados y normales circulares
+
+138
+
+9.2.1
+
+Principio
+
+138
+
+9.2.2
+
+Limitaciones
+
+139
+
+9.3
+
+Método de las casillas y probabilidad de utilización de la especie
+
+140
+
+9.3.1
+
+Principio
+
+140
+
+9.3.2
+
+Limitaciones
+
+140
+
+9.4
+
+Comparación de los distintos métodos
+
+142
+
+9.5
+
+Cálculo de la superficie de un polígono convexo
+
+142
+
+X.
+
+BIOTELEMETRÍA, MARCAS PROGRAMABLES Y APLICACIONES CONCRETAS
+
+144
+
+10.1
+
+Introducción
+
+144
+
+10.2
+
+Medidas de señales de biotelemetría
+
+144
+
+10.3
+
+Inconvenientes específicos de los emisores de biotelemetría
+
+147
+
+10.4
+
+Emisores programables
+
+148
+
+10.5
+
+Ejemplos
+
+150
+
+10.5.1
+
+Aplicación de la telemetría en la acuicultura
+
+150
+
+10.5.2
+
+Fidelidad al lugar de reproducción en el Barbus barbus
+
+152
+
+10.5.3
+
+Actividad y elección del hábitat en la anguila Anguilla anguilla
+
+153
+
+10.5.4
+
+Utilización del ritmo cardíaco como indicador del metabolismo
+
+155
+
+XI.
+
+SÍNTESIS, CONCLUSIÓN, ASPECTOS PRÁCTICOS
+
+157
+
+11.1
+
+Estructurar un estudio o proyecto
+
+157
+
+Finalidad del estudio
+
+157
+
+Peces
+
+157
+
+Medio ambiente
+
+157
+
+Cálculo del coste total del estudio, determinación de la viabilidad
+
+157
+
+Presupuestaria
+
+11.2
+
+Información, recompensa
+
+158
+
+11.3
+
+Riesgos inherentes a los métodos de biotelemetría
+
+158
+
+Referencias
+
+159
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ANEXO 6: Polígono del pantano de Sélinguéni
+
+
+El balizado del pantano y la determinación de la posición relativa de las balizas se ha realizado mediante tres métodos alternativos (nivel de geómetra, GPS y coordenadas polares sucesivas mediante la combinación de brújula y pentadecámetro).
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ANEXO 7: Los medios y material utilizados durante el taller
+
+Maletín
+
+Folletos informativos
+
+IRD, IER, ODRS, FAO
+
+Portadocumentos y etiquetas identificativas
+
+IRD
+
+Manual fotocopiado sobre el radioseguimiento
+
+ULG, IRD, FAO
+
+Maletín de disección
+
+IRD
+
+Mapa de Sélingué 1/50000 y 1/2000000
+
+IRD
+
+Bloc de notas, bolígrafo, lápiz
+
+IRD
+
+Folletos de los suministradores de material de radioseguimiento
+
+ATS, AVM, Star-Oddi
+
+Lista de los participantes (dirección, teléfono, correo electrónico...)
+
+IRD
+
+Invitación a la recepción de bienvenida del IRD
+
+IRD
+
+Material de radioseguimiento
+
+2 receptores AVM 151 MHz
+
+IRD
+
+2 receptores AVM 49 MHZ
+
+FAO
+
+2 receptores ATS 48-49.9 MHz
+
+IRD
+
+1 ordenador de recogida de datos (DCC) ATS
+
+IRD
+
+1 receptor ATS 48-49.9 MHz + 1 auricutar de escucha
+
+FAO
+
+3 antenas Diamant 48-49.9 MHz
+
+IRD
+
+2 antenas M-Yagi 49 MHz
+
+FAO
+
+2 antenas Yagi 151 MHz
+
+IRD
+
+4 auriculares de audio
+
+IRD
+
+1 transmisor 48 MHz opción de profundidad
+
+IRD
+
+1 transmisor 151MHz activo/inactivo
+
+IRD
+
+1 transmisor 151MHz con opción de temperatura
+
+IRD
+
+1 transmisor 49 MHz de control de posición
+
+IRD
+
+1 transmisor 49MHz activo/inactivo
+
+IRD
+
+1 transmisor 49MHz de tiempo real
+
+IRD
+
+1 transmisor 49MHz con opción de temperatura
+
+IRD
+
+2 cargadores AVM
+
+IRD
+
+2 adaptadores AVM de voltaje y corriente
+
+IRD
+
+1 adaptador encendedor AVM
+
+IRD
+
+Emisores mudos (7 pequeños, 3 grandes, antena externa)
+
+IRD
+
+3 DST300 (temp., prof., ángulo)
+
+IRD
+
+2 DST300 (temp., prof.)
+
+IRD
+
+20 DST dummy
+
+IRD
+
+Programa informática DST para PCT-DOS
+
+IRD
+
+Cutter, agujas, hilo de acero
+
+IRD
+
+Material pedagógico
+
+Sala de conferencias
+
+ODRS
+
+Pizarra
+
+ODRS
+
+Tiza blanca y de color
+
+IRD
+
+1 PC + impresora
+
+ISFRA
+
+2 PC
+
+IRD
+
+1 Mac Performa 630
+
+IRD
+
+1 PC portátil
+
+IRD
+
+1 PC portátil
+
+Ulg
+
+1 PowerBook 150
+
+IRD
+
+1 impresora a color
+
+IRD
+
+ZIP Iomega para MAC
+
+IRD
+
+3 x 10 disquetes PC 1,3Mo
+
+IRD
+
+Ondulador 1000 + cable
+
+IRD
+
+Retroproyector para transparencias
+
+IRD
+
+Magnetoscopio + TV
+
+IRD
+
+Cintas de vídeo VHS
+
+IRD, ULg
+
+Proyector de diapositivas
+
+FAO
+
+2 cajas de transparencias
+
+IRD
+
+Diapositivas
+
+ULg
+
+Pantalla
+
+ODRS
+
+Peces recogidos en la piscicultura de la ODRS de Sélingué
+
+Oreocromis niloticus (250 g producidos por la ODRS)
+
+IRD
+
+Clarias gariepinus (de 500 a 2000 g producidos por la ODRS y la pesca local)
+
+IRD
+
+Hemisynodontis membranaceus (capturados en el lago)
+
+IRD, ODRS
+
+Tilapia y Sarotherodon (capturado en el lago)
+
+IRD, ODRS
+
+Bagrus bajad (capturado en el lago)
+
+IRD, ODRS
+
+Auchenoglanis occidentalis (capturado en el lago)
+
+IRD, ODRS
+
+Gymnarchus niloticus (capturado en el lago)
+
+IRD, ODRS
+
+Pilas de almacenamiento
+
+3 pilas de cemento de 3 m^3
+
+ODRS
+
+1 estanque que puede vaciarse
+
+ODRS
+
+Acuario de 300 litros
+
+IRD
+
+Laboratorio de campo de la piscicultura de la ODRS
+
+Acuario de 300 litros + oficina de apoyo + accesorios
+
+IRD
+
+Mesas para la disección (2)
+
+ODRS
+
+Pequeña oficina de metal
+
+IRD
+
+Electricidad: conexiones múltiples y alargadores
+
+IRD
+
+Lámpara de oficina
+
+IRD
+
+Agua: Tubo de plástico de 10 m
+
+IRD
+
+400 ml de fenoxietanol + jeringuilla 10 ml
+
+IRD
+
+Biseptina (desinfectante)
+
+IRD
+
+Cola rápida de cianoacrilato
+
+ULg
+
+Balanza de 1 a 6000 g
+
+IRD
+
+2 cubetas, un salabre para la anestesia y el despertar
+
+IRD
+
+Tubería para la operación
+
+IRD
+
+1 esponja, dos paños, 2 servilletas
+
+IRD
+
+Salabres
+
+ODRS
+
+Embarcaciones
+
+Zodiac
+
+IRD
+
+Motor HB 15CV
+
+IRD
+
+Chaleco salvavidas
+
+IRD
+
+Medios de transporte terrestre
+
+1 Toyota Hi-Lux de cabina doble (5 plazas)
+
+IRD
+
+1 Toyota plateau (3 plazas)
+
+IRD
+
+1 Mobytte
+
+IRD
+
+Comunicación
+
+Teléfono vía satélite + batería de coche 12v
+
+IRD
+
+Otros materiales
+
+100 etiquetas de disco petersen
+
+IRD
+
+100 etiquetas Carlin Dangler
+
+IRD
+
+4 baterías portátiles +2 cargadores
+
+IRD
+
+Postes de referencia
+
+IRD
+
+Pentadecámetro (2+1)
+
+IRD, ODRS
+
+Nivel + mira
+
+IRD
+
+2 GPS
+
+IRD
+
+2 walkie talkie + 1 cargador doble + 4 baterías de repuesto
+
+IRD
+
+Linterna de mano + pilas
+
+IRD
+
+Neveras (1+1)
+
+IRD, ODRS
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+SECCIÓN DE FOTOGRAFÍAS
+
+Foto 1 - Cursillistas, personal directivo y personalidades asistentes a la ceremonia de apertura del taller piloto en el centro IRD de Bamako.
+
+Foto 2 - Marcas biotelemétricas. En el centro: emisor de radio con antena externa (peso: 5,5g) para la implantación intraperitoneal. A la derecha: marca archivo (DST = data storage tag; etiqueta de almacenamiento de datos; peso: 8g) para fijación dorsal. A la izquierda: discos etersen para la fijación dorsal de la marca archivo.
+
+Foto 3 - Implantación de un emisor de radio con antena externa en la cavidad peritonial de una tilapia.
+
+Foto 4 - Fijación de una marca archivo sobre la parte dorsal de la tilapia que aparece en la fotografía 3. Los hilos de fijación se introdujeron en la musculatura dorsal y se fijaron sobre el flanco opuesto; la colocación de discos Petersen reduce los riesgos de desgarros de la musculatura.
+
+Foto 5 - Ilustración de la tilapia dotada de la marca archivo.
+
+Foto 6 - Equipo de radioseguimiento detectando precisamente la dirección de la señal mediante "null-peaking" (es decir, la búsqueda de la señal menos fuerte) con la ayuda de una antena lazo provista de una brújula de cuadrante giratorio. Al fondo, el nivel de geómetra utilizado para la cartografía del pantano de Sélinguéni.
+
+Foto 7 - Equipo de radioseguimiento en las riveras del pantano de Sélinguéni, midiendo la dirección de la señal más fuerte con la ayuda de una antena de tipo Yagi, a partir de uno de los puntos de referencia del balizado efectuado con anterioridad (poste de madera provisto de una banderola bicolor).
+
+Foto 8 - Capacitación de los participantes para adquirir práctica en puntos de sutura y cirugía
+
+Foto 9 - Concentración de los participantes antes de una "caza del zorro", consistente en la búsqueda de emisores de radio diseminados en el perímetro de regadío de Sélingué.
+
+Foto 10 - Ajuste de una estación automática de biotelemetría para registrar de forma continua las actividades de los peces soltados en el pantano de Sélinguéni. La estación se compone de un ordenador (a la derecha), un receptor (en el centro), una batería (a la izquierda) y una antena lazo de pié (a la izquierda del todo).
+
+Foto 11 - Marcado dorsal (marca archivo) en un pez-gato: recuperación, al final del taller, de los peces marcados y examen de las posibles heridas ocasionadas por el procedimiento de marcado.
+
+Foto 12 - Cirugía abdominal en una tilapia: examen de las posibles heridas ocasionadas por el procedimiento de marcado.
+
+Foto 13 - Recuperación de las informaciones registradas en una marca archivo: apertura de la marca archivo cortando la envoltura plástica externa.
+
+Foto 14 - Comprobación de los datos en el aula informática instalada en la sala de conferencias de la ODRS de Sélingué.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice
+
+
+CUBIERTA POSTERIOR
+
+El Taller piloto sobre la aplicación de la biotelemetría al estudio de los peces para la ordenación de la pesca continental en África occidental se celebró del 29 de enero al 10 de febrero de 2001 en Sélingué (Malí). El taller fue organizado por el Instituto de Investigación para el Desarrollo (Francia), y en particular por su centro de Bamako, en cooperación con el Instituto de Economía Rural de Malí y la Oficina para el Desarrollo Rural de Sélingué. El taller contó con el apoyo de la Universidad de Lieja (Bélgica) y de la FAO. Los participantes procedían de Benin, Burkina Faso, Cote d'lvoire, Guinea y Malí. El objetivo del taller era divulgar y difundir la biotelemetría, una herramienta muy útil para la obtención de informaciones precisas para una ordenación mejor y más duradera de los recursos acuáticos.
+
+
+Página precedente Inicìo de página

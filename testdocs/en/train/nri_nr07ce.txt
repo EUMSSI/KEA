@@ -1,0 +1,476 @@
+<title>Commercialization of non-timber forest products in Amazonia</title>
+NRI Socio-economic Series 2
+E M Richards
+<section>Foreword</section>
+This series is based upon work carried out under the socio-economics research programme at NRI. Its purpose is to provide an easily accessible medium for current research findings. Whilst it is hoped that the series will be of interest to those concerned with development issues worldwide, it may be of particular relevance to people working in developing countries.
+The topics covered by the series are quite diverse, but principally relate to applied and adaptive research activity and findings. Some papers are largely descriptive, others concentrate on analytical issues, or relate to research methodologies
+The aim is to present material in as straight-forward a fashion as possible so that it can reach a wide audience.
+We are interested in the views and opinions of readers and welcome any feedback to this series.
+Alan Marter Socio-economics Research Programme
+<section>Acknowledgements</section>
+This research was funded by the Natural Resources and Environment Department of the Overseas Development Administration. However, the views and analysis do not necessarily represent those of either NRI or ODA. The author would like to thank Angus Hone and Clinton Green of NRI, and Nigel Sizer of Cambridge University, for their comments on an earlier version of this paper, and their general encouragement and advice, as well as David Cleary, also of Cambridge University, for his interest and information.
+NATURAL RESOURCES INSTITUTE Overseas Developmcnt Administration
+C) Crown copyright 1993
+The Natural Resources Institute (NRI) is an internationally recognized centre of expertise on the natural resources of developing countries. It forms an integral part of the British Government's overseas aid programme. Its principal aim is to alleviate poverty and hardship in developing countries by increasing the productivity of their renewable natural resources. NRI's main fields of expertise are resource assessment and farming systems, integrated pest management, food science and crop utilization.
+NRI carries out research and surveys; develops pilot-scale plant, machinery and processes; identifies, prepares, manages and executes projects; provides advice and training; and publishes scientific and development material.
+Short extracts of material from this publication may be reproduced in any non-advertising, non-profit-making context provided that the source is acknowledged as follows:
+Richards, E. M. (1993) Commercialization of Non-timber Forest Products in Amazonia, NRI Socio-economics Series 2. Chatham, UK: Natural Resources Institute.
+Permission for commercial reproduction should be sought from:
+The Head, Publishing and Publicity Services, Natural Resources Institute, Central Avenue, Chatham Maritime, Kent, ME4 4TB, United Kingdom.
+This publication is printed on chlorine-free paper.
+Price £5.00
+No charge is made for single copies of this publication sent to governmental and educational establishments, research institutions and non-profit-making organizations working in countries eligible for British Government Aid. Free copies cannot normally be addressed to individuals by name but only under their official titles. Please quote order no. SES2 when ordering.
+Natural Resources Institute
+ISBN: 0 85954 3382
+ISSN: 0967-0548
+<section>Abbreviations</section>
+CNS
+National Council of Rubber Tappers
+CPATU
+Eastern Amazonia Centre of Agroforestry Research
+CPR
+Common Property Resource
+EAP
+Economically Active Population
+EMBRAPA
+Brazilian Organization of Agricultural and Livestock Research
+FUNAI
+National Foundation for Indigenous Affairs
+IBAMA
+Brazilian Environmental Institute
+IBGE
+Brazilian Institute of Geography and Statistics
+INCRA
+National Institute of Colonization and Agrarian Reform
+INPA
+National Amazonian Research Institute
+NRI
+Natural Resources Institute
+NTFP
+Non-Timber Forest Product
+ODA
+Overseas Development Administration
+UIN
+Union of Indigenous Nations
+<section>Glossary</section>
+Aviamento
+Credit and marketing system where goods are supplied on credit and paid for in extractive products, mainly rubber and Brazil nuts
+Caboclos
+Indigenous river people
+Campesinos
+Small farmers
+Castanhais
+Brazil nut groves
+Castanhales
+Estates
+Castanheiros
+Brazil nut gatherers
+Colonos
+Colonizers
+Ejidos
+Land reform co-operatives (Mexico)
+Fob
+Free on board
+Fundo
+Farm
+Garimpeiros
+Gold prospectors
+Hylea
+Amazon Basin
+Nordestinos
+Northerners
+Patrao
+Merchant
+Patrones
+Merchants
+Ribereños
+River-dwellers (Bolivia)
+Ribeirinhos
+Indigenous river people
+Seringal
+Rubber estate
+Seringueros
+Rubber tappers
+Swidden
+Traditional forest farming practice including 'slash and burn'.
+Terra firme forest
+Forest not subject to flooding
+Varzea
+Seasonally flooded forest
+<section>Summary</section>
+This study examines the impacts of the development of the principal extractive products of the Amazon and identifies the main factors affecting sustainable welfare benefits for extractive groups. These include tenure instability, policies favouring alternative land uses, aviamento, commercialization systems, commercial pressures resulting in resource depletion where the extraction method is destructive, and the boom-bust nature of export markets that inevitably lead to substitution by a synthetic or planted product. The future of extractivism depends on better remuneration for extractors, whether through the market or not, tenure and institutional reforms (i.e. extractive reserves), and successful diversification through integrated natural forest management. The cultivation of formerly wild plants in agroforestry systems should also be given high priority. Extractivism on its own, and under present market conditions, has major limitations as a response to deforestation
+pressures, but there are important strategic and humanitarian reasons for its support while longer term solutions are being developed.
+<section>Introduction</section>
+Background
+Human and ecological background
+Historical overview
+Background
+Both Amazonian Governments and aid donors have regarded the market development of extractive non-timber forest products (NTFPs) as a means of forest conservation. By increasing the value of the standing forest as a productive asset superior to alternative uses, it has been hoped to encourage forest-based communities to manage the forest resource in a sustainable fashion.
+Many of these products lend themselves to nondestructive management practices. Some, like Peters et al. (1989) contend that the sustainable exploitation of non-timber forest resources represents the most immediate and profitable method for integrating the use and conservation of the Amazon forests, while Gradwohl and Greenberg (1988) maintain that extractive reserves offer a mode of forest use that is both immediately economically competitive and sustainable in the long run. There has therefore been considerable research and development emphasis on identifying and developing market possibilities, but with insufficient understanding of the consequences of this for welfare of the extractive groups and resource sustainability.
+This study analyses the impact of market integration of a number of case study NTFPs, on welfare, resource sustainability, and biodiversity conservation. This provides the basis for a discussion of the problems and potential of extractivism for sustainable forest management in Amazonia. The study focuses on tree products, and therefore excludes fauna, firewood and other NTFPs.
+Human and ecological background
+There are many terms for the various groups of extractors in the Amazon, such as seringueros (rubber tappers), castanheiros (Brazil nut gatherers), and ribeirinhos, or caboclos, (riverside dwellers) as well as the Indian groups. The caboclos, sometimes referred to as rural indigenous people, are mixed-blood descendants of Indians and Europeans or Africans. They are distinct from more recent colonos (colonizers) who have moved into the area since the 1960s. These are not mutually exclusive categories. For example, most rubber tappers also collect Brazil nuts and other extractive products, and engage in a wide range of livelihood activities.
+In general the Amazon is sparsely populated. The overall average population density in the Amazonian lowlands of nine countries was 2.1/km2 (Eden, 1990). Over half of the estimated 15 million in Brazil's Amazonia Legal are now urban, many of them former rubber tappers and failed colonos. Other groups include about three million colonos, two and a half million caboclos, half a million garimpeiros (gold prospectors), and 200 000 Amerindians (Sizer, 1991).
+The rubber tappers (mainly caboclos) are largely descendants of the half a million nordestinos who moved into the Amazon from the drought-prone northeast during the rubber boom (1870-1910). Estimates of their current number vary. Schwartzmann et al. (1987) calculated that half a million people depended on rubber and other latex products as their main source of income, in comparison with 340 000 rubber tappers according to the 1985 Census. Browder (1990) estimates that up to one and a half million derived a significant proportion of their income from extractive activities.
+According to data presented in Torres and Martine (1991), the numbers in extractivism are in decline: in the northern region of Brazil the proportion of the economically active population (EAP) in extractivism declined from 9.6 to 4.6% between 1970 and 1980, and also fell in absolute numbers, while total EAP increased by 76% and urban employment more than doubled. The 1980s saw a further absolute and relative fall in extractivism to less than 3% of EAP (Brazilian Institute of Geography and Statistics (IBGE) ).
+Some 90% of the hylea, or Amazon Basin, is covered by forest not subject to flooding (terra firme forest) (Eden, 1990). The seasonally flooded or varzea forest areas are the most fertile due to the constant process of soil fertility renewal through sedimentation. They were the first to be settled due to the obvious transport, soil fertility and fishing benefits. They are also the most often cited when economic calculations are presented to show the sustainable viability of extractivism (e.g. Peters et al. 1989). However, the varzea forests, where a few marketable
+species predominate (oligarchic forests), constitute only about 2% of the Amazon Basin (Browder, 1992).
+Historical overview
+The history of extractivism is overshadowed by one product - rubber. Padoch and de Jong (1990) comment that the rubber boom caused the complete transformation of society, and resulted in the break-up of many of the Peruvian Amerindian groups who were literally enslaved.
+Case study: The Santa Rosa community, peru (Padoch and de Jong, 1990)
+The population of Santa Rosa are ribereños, or river dwellers descended from various indigenous and mestizo (mixed blood) groups. They are thus the equivalent of the Brazilian caboclos. This was a prime rubber tapping area, and in 1907 several estates in the locality were flourishing, at a time when rubber composed 20% of Peru's exports, but by 1912 many of the rubber tappers had left the area for Iquitos or beyond.
+During the 1930s and 1940s most of the land on the large Monte Carmelo fundo (farm) was planted with barbasco (Lonchocarpus sp.), the roots of which were exported by the American owned Astoria company in Iquitos, since they contained rotenene, a natural insecticide. The surrounding forest was cleared to supply the market which peaked in about 1946. However the price began to fall with the development of DDT and other synthetic insecticides. This, together with family quarrels, caused the collapse of the fundo.
+The owners left the fundo and took 60 male labourers (members of the Ashaninka tribe) to the Putumayo River to promising extraction sites for leche caspi (Couma macrocarpa), a milky-white resin used in the manufacture of chewing gum, paints and varnish, and regarded as capable of saving the region from the marasmus resulting from the fall of rubber. The women and children were left behind for three years to carry on with subsistence farm production. This disruption of family and community life was evidently similar to the rubber boom.
+By the mid- 1950s the market for leche caspi had waned again, and so the owners of Monte Carmelo moved to Santa Rita near the Colombian border to start a rice production and processing centre, this time with the labourers' families. This was shortlived due to a dispute with a more powerful neighbour, but several of the men married into a Yagua Indian group employed on a nearby fundo, and stayed on to raise cattle. In 1955 some of the families moved to the Napo River (northwest of Iquitos) in order to exploit rosewood oil, which experienced a meteoric price rise in the 1950s. Accessible forests were quickly stripped of rosewood trees.
+After this, most of the group returned to Santa Rita, but some stayed on in the Napo area to be absorbed in the local Quichua culture. Eventually the remaining group returned to Monte Carmelo and founded Santa Rosa, which soon swelled with migrants from other areas.
+This brief history illustrates the processes of migration, deculturation and fragmentation of family and society over a fairly short period. It was the speed of cultural change which has been most dramatic, according to Padoch and de Jong (1990). For example the Ashaninkas apparently abandoned their language and customs in the process of the migrations described above.
+In the case of the Witoto of the Putumayo River, the atrocities and killings aroused international attention and protest.
+However, both before and after the rubber boom, many other products have followed the boom-bust cycle of extractivism. During the 18th and 19th centuries the Portuguese and Jesuits organized Amerindians in extractive expeditions to gather forest products, especially cocoa, andiroba seed, copaiba balsam, sarsaparilla, and oil from giant river turtles. As early as 1851, investigators found Amazonian collectors receiving only 0.5% of the eventual New York consumer price of Sarsaparilla (Padoch, 1988).
+During the present century there have been several important mini-booms. From 1910 to 1925, the seeds of tagua or vegetable ivory (Phytelephus macrocarpa) were harvested for buttons and game pieces until artificial materials took over. From 1925 to 1935 balata (Manilkara bidentata) and leche caspi (Couma macrocarpa) became important until substituted. Then barbasco (Lonchocarpus spp.) became important until it was overshadowed by DDT and other synthetic insecticides in the 1960s (Padoch, 1988). In the 1950s alligator skins were in demand, and were followed in the 1960s by jaguar and ocelot skins.
+The case study of the Santa Rosa community (see page 2), illustrates the social and cultural impacts of the constant migration of communities in response to these market forces. Padoch (1988), Colchester (1989), Gray (1990) and others have documented the social and cultural impacts on indigenous communities, including the consequences of dependency in its various forms, resulting from market integration.
+Up to the 1950s extractive activities were dominant in the rural economies of the Amazon, but in most parts, especially Brazil, livestock, agriculture and mining took over. The extractive economy stagnated and declined due to worsening terms of trade, while national emphasis shifted to the coffee boom in the southern highlands, and to industrialization. Since the advent of over two million people after the opening of the Belém-Brasilia highway (1965) and the Transmazon highway in the early 1970s, the area has been the scene of major social and economic upheavals.
+Table 1 presents the production figures for extractive and other NTFPs from Brazil and Table 2 presents recent export data from Brazil. Such statistics are often incomplete or found to be in conflict with one another.
+There is no good set of figures on Brazilian domestic consumption of these products. Further data are provided by Lescure and de Castro. An explanation of the products is presented in Appendix 1.
+<section>Rubber and extractive reserves</section>
+Aviamento
+Autonomous systems
+Changes in tenure and resource use in Acre
+Development of extractive reserves
+The future of natural rubber extraction
+Following the discovery of vulcanization in 1839, rubber became an important commodity and its extraction and export from Amazonia expanded rapidly, especially after 1870. This caused a high demand for labour and so poor labourers from the drought-prone northeast of Brazil were recruited to fill the gap. Most of these settled along the tributaries of the Amazon and collected latex in the adjacent varzea forests (although Hevea brasilierisis also grows in terra firme forest), causing the displacement of Amerindian groups to the terra firme (Schmink and Wood, 1986).
+The impact of the rubber boom on indigenous societies has already been mentioned. Murphy and Steward (1956) documented the effect of the rubber trade on the Mundurucu Indians of the Brazilian Upper Amazon. One of the main factors which weakened their society was that tapping was best done individually, and not collectively as had been the case with the cultivation and processing of cassava, which previously formed the basis of their economy. Colchester (1989) refers to this as the 'atomizing effects of individualist training'.
+The rubber boom was broken by the establishment of Hevea plantations in South East Asia by the British, where domestication was not hampered, as it was in Brazil, by leaf rust fungus (Microcyclus ulei). The development of synthetic substitutes further hastened this decline. Extraction in Brazil has only continued as a result of the Government policy of subsidizing national production to the extent that rubber prices in Brazil have been up to three times the international price (Fearnside, 1989). Allegretti (1990) attributes this to the lobbying power of vested interests in the marketing and industrialization of rubber, as well as to the acute shortage of foreign exchange.
+A viamento
+From the beginning these migrants were inserted into a highly regressive credit and marketing system called aviamento in which market goods were supplied on credit at inflated prices, to be paid for in extractive products, mainly rubber and Brazil nuts. As a result of the low extractive product prices offered by the petty rubber merchants or patraos (owners of the rubber trails), and the inflated food, clothing and medicine prices, rubber tappers were always in debt.
+The system was thus one of debt bondage in which rubber tappers were obliged to sell all their produce through the patrao, as well as often paying rent to him in exchange for rights to use his land (usufruct rights). The presence of independent small-scale merchants who offer an alternative when prices become too extreme, provided some limit to the system's inequity.
+Several studies document the inequity and welfare impacts of aviamento on rubber tappers. For example a survey of 170 rubber-tapper households in Caruari, Amazonas State, by Whitesell (reported in Browder, 1992) between 1986 and 1991 revealed that 76% had a patrao to whom they felt obliged to sell all they produced, 28% also paid rent to him and 79% were in debt.
+Sizer (1991) presents data from 51 families in the Jau National Park, Amazonas State, that show that patraos were supplying basic foodstuffs at over twice their market value in Manaus (the nearest urban centre), paying 30% below Manaus prices for extracted products, and charging real monthly interest rates of 40% on parts of the outstanding debts. According to Sizer's data, average monthly expenditure was greater than mean income recorded from extraction.
+A survey of 24 households by Romanoff (in press) in Riberalta, Bolivia, in 1981 found that all but one were in debt to patrones (merchants) to an average equivalent of a quarter of their annual household income. Food staple prices were 50% above those paid by urban residents. Periodic food shortages were reported by 71% of the households, 22% of the children were malnourished, and a further 32% were in danger of becoming so. As with the data of Oliveira and Whitesell (both in Browder, 1992) this survey reports high residential instability amongst extractors.
+The low return to producers is partly explained by the high cost and risk of transport, often in treacherous weather conditions, and the high risks of marketing extractive products in a hyper-inflationary economy (Padoch, 1989). The merchants and patraos themselves are usually also in debt to downstream merchants, as this indebtedness is transferred back up the marketing chain to the wholesalers and exporters who provide the seed money for aviamento.
+The aviamento system is still widespread and exists in many forms throughout the Amazon Basin. Although it maintains extractors in conditions of severe deprivation, there are two factors which may make it difficult to replace. Its primary function is its capacity to call forth
+supply from remote areas - a means of bridging the gap between the non-market subsistence economy and the market economy (Torres and Martine, 1991). For this reason aviamento tends to decline in importance as the road network expands, as happened in Acre from the 1960s.
+Secondly, the system is designed so that rubber tappers maximize time devoted to extractive activities: by manipulating the terms of trade, the merchants or patraos oblige the tappers to engage in extractivism (in order to pay off their debts) and provide the products which form the basis of the merchant's trading business. This leaves little time for subsistence agriculture. Thus aviamento may be environmentally more benign than the alternative autonomous system.
+Aviamento helps to explain Government policy towards rubber extraction, as it forms part of a commercial system in which many powerful interests are involved. Post-war policy has therefore always sought to protect the regional commercial system and avoid putting Amazonian rubber in a competitive position with Asian plantation rubber (Schwartzmann and Allegreti, 1987).
+Autonomous systems
+There has been a shift from aviamento to an autonomous system in more accessible areas. It is termed autonomous because it does not involve dependence on a trader or resource owner. In the autonomous areas there is a greater diversification of activities and products, and a more reasonable quality of life is achieved, according to Schwartzmann (1989) who undertook a survey in one such area in Acre where the National Institute of Colonization and Agrarian Reform (INCRA) had granted land rights to rubber-tapper families.
+The survey found that the average holding was 372 ha and an average family exploited 1100 rubber trees. From an annual family production of 750 kg of rubber and 4500 kg of Brazil nuts, annual incomes of almost $1000 were earned, with some earning over $1500 plus subsistence benefits. This gave them an income that put them above half the EAP of the region (Schwartzmann, 1989). However, there was a big variation in the economic condition of the households: even without aviamento 55% of the households were in debt to middlemen, while the remainder had an average cash surplus of $680.
+Schwartzmann (1989) reported that rubber tappers were keen to remain in the seringal (rubber estate), valued the forest, and had a more balanced diet than urban dwellers. However more recent evidence from Oliveira (in Browder, 1992), also in Acre, reports a 'progressive deterioration' in their diets.
+Changes in tenure and resource use in acre
+Between 1960 and 1980, major changes in land use and distribution occurred in western Brazil, especially in Acre where extraction declined both in area (by 65%) and number of holdings, and ranching and agriculture increased enormously. This was a result of the Government policy of frontier development through expansion of the road network, resource privatization, and subsidies.
+In the first half of the 1970s, up to 80% of State lands were sold and land prices rose by 1000-2000%, depending on access to roads (Schwartzmann, 1991). This was encouraged by subsidized credit available at negative real interest rates throughout the 1970s. This together with very low prices made land an extremely attractive investment for businessmen from southern Brazil. Operations of 'cleaning the land' or removing the rubber tappers and small farmers became common from 1973 as ranchers intimidated and bought out rubber tappers for low prices. The consequent outmigration more than doubled the urban population of Acre from 21% in 1960 to 44% in 1980 (Schwartzmann, in press). There are reports of whole towns of ex-rubber tappers, like Eirunepe in Amazonas, which grew from 8 000 to 30 000 in five years (Parfit, 1989). In addition between 10 000 and 50 000 moved over the border to Bolivia.
+Rapid deforestation soon followed these changes. By 1987 the area deforested in Acre had increased to 633 000 ha from 77 000 ha in 1975, according to official statistics. It is not coincidental that the level of assassinations also reached a peak of almost 200 a year in Brazilian Amazonia in the mid-1980s (Schwartzmann, in press). Fearnside (1989) comments that rubber-tapper leaders were continually threatened by gunslingers hired by ranchers. The assassination of Chico Mendes in 1988 brought this situation to world attention.
+Development of extractive reserves
+Out of these problems, the National Council of Rubber Tappers (CNS) was established in 1985 in a meeting that also called for the formation of extractive reserves. Extractive reserves provide a framework for the sustained use and protection of extractive products through the definition of property rights in favour of local communities, according to May (1990b). This may sound conventional, but the extractive reserves approach has a number of significant differences to top-down schemes.
+Its adherents claim that it represents a genuinely bottom-up approach in which grassroots organizations have developed with little or no Government support (Allegretti, 1990). The legal recognition of property rights proposed for extractive reserves follows traditional patterns of land use. Each landholding allows for a mix of activities, as in the autonomous rubber tapper system, with generally three rubber trails of 120 trees per trail in some 100-150 ha. Some of these trails may lie within another holding, but the rights to the rubber trees are recognized.
+The land is retained by the State and is leased to the rubber tappers for an initial minimum period of 30 years: this avoids the normal process of land concentration and deforestation which has followed privatization in the Amazon region. The extractive reserves are under the joint control of CNS and the Brazilian Environmental Institute (IBAMA), but at the local level are administered by locally elected groups.
+Due to continued conflicts over land rights progress has been slow. Schwartzmann (in press) reports that at the time of writing 14 reserves have been decreed and four are operational.
+The Government has showed support for the extractive reserves concept through increased social infrastructure, and support to co-operative processing initiatives (Sizer, 1991). Several important processing and marketing co-operatives have been started, most notably the Brazil nut plant at Xapuri in Acre State.
+The future of natural rubber extraction
+Natural rubber extraction faces a bleak future as a result of successful domestication in non-Amazonian Brazil. Large areas have been planted in Sao Paulo and Matto Grosso States, and Browder (1992) estimates that cultivated rubber now supplies 60% of Brazil's market. These plantations, which have the major economic advantage of being nearer the centres of demand, will soon be able to supply all Brazil's domestic rubber needs at a reduced cost, thereby removing the rationale for subsidizing wild rubber extraction. Liberalization policies in the Brazilian economy are also likely to increase pressures for reduction or removal of this subsidy.
+<section>Other extractive products</section>
+Brazil nuts
+The current crisis and future prospects
+Babaçu
+Changes in tenure and land use
+Impact of commercialization and processing changes
+Products from the varzea
+Açai juice
+Palm hearts
+Impact of market expansion for açai products
+Aguaje
+Camu camu
+Essential oils and flavouring products
+Rosewood oil
+Copaiba balsam
+Cumaru nuts
+Fatty oils
+Ucuuba
+Andiroba
+Exudates
+Brazil nuts
+Bertholletia excelsa is found in terra firme forests throughout the Amazon Basin, in 50 to 100 tree groves. Balee (1989) and others believe that indigenous groups are responsible for this distribution. Its importance in extractive economies in Brazil, Peru and Bolivia is partly due to the seasonal complementarily with rubber - it is harvested in the rainy season while rubber is extracted in the dry season. Women have an important role in the extraction activity, as they crack the fruits collected by the men, separate out the nuts, and prepare them for home consumption.
+Brazil nut extraction became important after the rubber price crash from 1910, when rubber tappers looked for alternative income sources. It developed at a slower pace than rubber, partly because it is a high-volume low-value product with a more elastic demand. O'Donnell Sills (1990) notes that the Brazil nut market share has
+declined to less than five per cent of the edible nut market, due mainly to the growth in consumption of almonds and hazel nuts.
+The quality and quantity of Brazil nut production varies widely between trees, regions and years, the latter partly the result of the unusual flowering to fruiting cycle (12-15 months) and fluctuations in world prices. There has been a shift from the states of Pará and Amazonas to Acre, causing significant increases in production and transport costs, due to lower tree densities and the greater distance to Belém (Torres and Martine, 1991). These changes have benefited Colombian and Peruvian producers.
+Case study: Brazil nut extraction in maraba (o'donnell sills, 1990)
+In the Maraba area of Para State, traditionally the main extraction area of Brazil, extraction quickly came under the control of the local political elite. These Brazil nut barons used land tenure legislation to ensure control of the castanhais (Brazil nut groves) to add to their control of the commercial process. Extractors who worked the castanhais were tied to the aviamento system; their only alternative was the publicly owned castanhais of the people, but these were privatized during the late 1970s.
+Roads, particularly the Belém-Brasilia highway and the Transamazonica, which reached Maraba in 1971, brought major changes to the area. The population of Maraba grew by 258% in the decade to 1980, by which time there were 800 sawmills (compared with I 00 in the mid- 1960s), and there was a large increase in forest clearance for agriculture and ranching. Between 1978 and 1984, cattle numbers increased by 350% while Brazil nut production fell by 68%.
+This was the result of both the reduced tree population and labour shortages, as most people sought alternative forms of employment to escape debt bondage. There were also pollination problems due to smoke from land clearance. Deforestation of castanhais also resulted from the land tenure laws, in which land rights were, until recently, secured by conversion to pasture or agriculture, and due to demand for charcoal from the massive Carajas iron ore project, as well as for the timber itself.
+During the 1980s the Brazil nut barons saw their economic and political power wane but made various attempts to prevent land reform. After a series of violent conflicts, in 1988 some 64 castanhales (estates) covering 240 000 ha were expropriated by the Government on payment of exaggerated compensation levels negotiated by the barons.
+There followed a period of increased invasion, violence and deforestation as a result of lack of definition of the tenure situation. The setting up of communally managed forest areas was discussed, but found little support from residents more interested in rice, cassava and maize. This was due partly to the low producer returns from the aviamento system, and the fear that sales would be boycotted. O'Donnell Sills ( 1990) makes the important observation that the local Unions and their members have a history of fighting for the right to cultivate the land in the castanhais, as opposed to preserving it, and have always sought individual tenure.
+These conditions appear to rule out the extractive reserves and/or processing co-operative options, unless direct links with importers could provide a guaranteed price basis. However, the grassroots institutions in Maraba do not appear to be strong or interested enough at present.
+Holt (1991) reports that 80% of the commercially traded nuts are now bought in Acre, including Bolivian and Peruvian nuts smuggled in to take advantage of exchange rate differences. The nuts are then transported 4000 km down river to Belém. Over 70% of Brazil's exports are handled by three major companies in Belém owned by the Mutran family, who thereby control the commercialization process both in Brazil and internationally.
+The current crisis and future prospects
+The current situation is one of great concern, according to J. Holt (pers. comm.), one of the main UK importers. In 1991 the Mutrans attempted to supply the market with sub-quality produce from the poor harvest, 45% down on 1990. As a result demand and prices fell, so much so that the Belém shippers decided not to supply seed money to finance the aviamento system in March 1992. Holt fears that this could set off a downward spiral which could further erode the position of Brazil nuts in a competitive market.
+The future of Brazil nut extraction may also be under threat due to a dwindling resource base. Nepstad et al. (in press) report a lack of regeneration and juvenile trees in Acre. Possible causes include the over-harvesting of fruits which are large and easy to find (leaving too few for seed); the reduced population of agoutis (the main dispersal agents), due to hunting; and low germination rates due to small felled-tree gaps in Acre's forest; seed vulnerability to fungus; and burning beneath adult trees to facilitate fruit collection. The trees are also increasingly felled (illegally) for their high-quality timber in western Amazonia (O'Donnell Sills, 1990).
+Domestication is a further threat to extraction. Torres and Martine (1991) report that several thousand hectares have been planted in Para and Amazonas States. The Humid Tropics Agricultural Research Centre (CPATU) is confident that rapid genetic improvements will make it possible to replace the extractive activity with a much
+smaller plantation area. However, there is still time for technical or disease problems to make commercial production impractical, as happened with earlier attempts to domesticate rubber and cocoa in Amazonia.
+Co-operative processing and marketing will be important if Brazil nut gatherers are to be sufficiently remunerated to continue. Following the successful establishment of the Xapuri plant (at the time of writing), Cultural Survival has been approached by five more groups in Brazil, and two each from Peru and Bolivia to set up similar or more decentralized shelling plants.
+Babaçu
+Babaçu (Orbignya phalerata), a palm used for its oil, charcoal food and shelter, grows in successional palm forests over large areas of Brazil and Bolivia, but especially in the transition zone between the semi-arid northeast and the humid tropics of northern Brazil. It has a particularly high potential because it is a pioneer species in cleared forest, growing in almost pure stands on degraded sites.
+Anderson et al. (1991) report a density of over 6000 seedlings and juvenile palms per hectare in central Maranhao: this reflects a capacity to escape predation, high shade tolerance and a growing point being just below ground, making it resistant to burning. It has a high leaf production rate, while its undersurface germination promotes soil mixing, soil structure and recycling of deep nutrients.
+Babaçu is traditionally favoured in swidden agricultural systems by both indigenous groups and settlers, because it represents a subsidy from nature (Anderson et al. 1991): this is due firstly to the release of nutrients accumulated during the fallow period through litter fall and biomass burning, and secondly, due to the wide range of subsistence and cash products it provides.
+Babaçu products are particularly important for the subsistence economy as they are obtained in the period between peak labour demands in annual crop production, and are produced primarily by women and children. One survey found 83% of the participants in babaçu activities were women (Anderson and Anderson, 1983). All parts of the tree are used: the leaves for shelter, the husks for charcoal, and the oil kernel, palm heart and starchy outer husks for human and animal food. The main cash products are oil (used for cooking, soap and chemical applications), feedcake and charcoal. May (1990a) estimates that some 450 000 Brazilian households depend on the palm for a significant proportion of their incomes.
+The babaçu oil industry was at one time the largest oilseed industry in the world based solely on the harvest of a wild plant: in 1984 it contributed an estimated $150 million value-added to the Brazilian economy (Balick, 1987). However, there was a dramatic decline in its export value from $4.26 million in 1985 to $109 000 in 1989, due to substitution by synthetic detergents and less fatty edible oils, but domestic usage in Brazil remains substantial.
+Changes in tenure and land use
+Initially land at the Amazon frontier in Maranhao was open access, but gradually usufruct rights over palms and other extractive resources were established informally by peasant groups. Households often retained exclusive property rights over dense stands in the vicinity of their homes - this being a strong settlement criterion (May, 1990a).
+Another form of tenure existed on the private estates in the babaçu zone, where peasants were granted usufruct rights on condition that sale of the kernels took place through the landowner. The regressiveness of land distribution in Maranhao is shown by the fact that in 1980, 85% of the population had less than one hectare, mainly in shifting cultivation, while 43% of the land was in estates of over 1000 ha. Access to additional land was gained by squatters or share-croppers.
+In the 1970s, expansion of the road network, subsidized credit and land concessions stimulated major land-use changes throughout the region. The big expansions of mechanized rice cultivation, pasture (by 72% between 1970 and 1980) and agro-industrial crops resulted in babaçu clearance, widespread eviction, and a reduced area for subsistence agriculture, further increasing peasant dependence on the depleted babaçu stands (May, 1990b). Ranchers were advised by extensionists, clear cut babau stands in order to increase pasture productivity so that by 1986 some 15% of babaçu stands had suffered this fate. Ironically, the combination of babaçu and pasture has been shown to be a silvopastoral system of proven mutual benefit to ranchers and extractors (May et al., 1985). It has now been made illegal to fell babaçu, but this law has proved ineffective.
+Impact of commercialization and processing changes
+The commercialization process has passed through three main stages: the first between 1920 and 1935 when unprocessed kernels were mainly exported; the second from 1940 to 1960 when the kernels were transported for processing in southern Brazil; and since the 1970s with the development of the regional oil industry. In the 1970s and early 1980s extraction was too low to satisfy demand, fuelled by fast economic growth and population expansion, causing increases in (deflated) prices by an average of 20% a year from 1973 to 1984 (May, 1990a).
+A survey in Maranhao revealed very little production response. This was firstly because merchants and landowners did not pass on the price increases, resulting in a fall in the extractors' real terms of trade by 39% from 1973 to 1983, and secondly because babaçu proved to have an inelastic supply (May, 1990a). May found that the rice harvest took priority and extraction only increased in February when labour was freed from weeding rice. The time devoted to extractivism was found to be inversely correlated to rainfall - in higher rainfall years more time was spent on agricultural activities.
+Because of these factors, the babaçu processing plants found it increasingly difficult and expensive to obtain the kernels. They therefore looked for ways to reduce costs. Innovations led to the production of charcoal, ethanol and tar as well as the traditional oil and feedcake. This led to a shift from manual kernel extraction to whole fruit marketing and centralized processing.
+Whole-fruit processing is less labour intensive than manual extraction. Babaçu fruits need to be gathered in large volumes and transported to a central processing unit rather than broken up at home and sold when convenient. This led to men replacing women as the main income recipients. The sale of charcoal for industrial fuel also had the effect of almost eliminating the most important source of domestic fuel in the region (May, 1990b). Therefore subsistence and income benefits to resident extractors were considerably reduced on the estates of 'progressive' landlords who went over to whole-fruit marketing.
+The fallow period has also decreased. Between 1970 and 1980 the average fallow period in the forest zone declined from 4.2 to 3.2 years, leaving insufficient time for restoration of babaçu leaf biomass. May (1990b) concludes that the combination of land use and processing changes caused drastic alterations in rural employment and income distribution, and resulted in large-scale outmigration.
+The main need, according to Anderson et al. (1991), is to alter the prevailing institutional mechanisms through which development benefits are distributed by establishing babaçu industries as community enterprises in extractive reserves. So far one extractive reserve of just over 8000 ha has been designated for about 300 families in northeast Maranhao. In conjunction with this, Anderson et al. (1991) report on successful trials with appropriate village level technology. May (1990b) also calls for the (politically complicated) formalization and protection of usufruct rights of extractors on private land.
+Products from the varzea
+Açai juice
+The main source of açai juice and palm hearts is Euterpe oleracea, which occurs in extensive natural stands on the varzeas of the Lower Amazon in Brazil, as well as in the Guyanas and Venezuela. Although açai juice making is an old tradition, the commercial importance of the palm is more recent as Table 1 (see page 3) shows. In 1966 açai output was not even recorded in official statistics, but by 1987 it had become easily the most important, extractive product, by value, in the Brazilian economy.
+Strudwick and Sobel (1988) note that every part of the palm is used in some way for a range of subsistence benefits. For example, the seeds are used as livestock food or manure, the leaves are often used for basketry, and the trunks for flooring or fencing. It is also processed for sale as ice-cream.
+The main marketing constraint is the high perishability of açai fruits, which must reach the market place within 24 hours. This limits it, as a cash crop, to areas near market centres. However the short distances, ease of processing and absence of complex wholesale and export market structures result in a high proportion of the sale value accruing to the producers. Most of the produce is brought by the producers themselves to the processing plants.
+Açai palms have the advantage that they can be easily managed for both the juice and palm hearts on a sustainable basis, due to their multi-stemmed self-regenerative habit. They are being increasingly planted, and respond well to low intensive management. Anderson and Jardim (1989) show an almost 50% increase in returns from selective thinning and pruning over unmanaged stands.
+Açai juice is regarded in Pará as a staple food forming a major and basic part of the diet with a daily consumption of up to two litres per person (Strudwick and Sobel, 1988). (1992) reports that some 50 000 litres of unprocessed fruit were normally sold daily in Belém alone, until the cholera epidemic. It is therefore not an ephemeral boom-bust extractive product.
+Clay also observes that the juice is equally popular at all socio-economic levels which means that it does not suffer the normal demand problem associated with staples - a negative income elasticity of demand. Another advantage is that due to regionally different seasons of maturity, an all-year-round supply can be maintained.
+Palm hearts
+Having depleted natural stands of Euterpe edulis in southern Brazil during the 1960s, the palm heart canning industry has now moved to Para and Amapa States. Production has declined since the mid-1980s, when açai stands were exploited at a rate of over 90 000 tonnes a year (Arkcoll and Clement, 1989) due to the destructive harvesting methods used, with gangs of contracted labourers cutting the tops off entire Euterpe olearaca stands, and lower export prices.
+The palm hearts are processed and canned in factories on the banks of the Amazon before being taken to Belém, from where they are distributed to the large domestic market, or exported if the fibre level is sufficiently low principally to France and the US (Strudwick and Sobel, 1988). Arkcoll and Clement (1989) report that poor quality control by numerous small firms in the canning business has led to the rejection of much of the export material, and that the product is variable due to the subjective decision of which outer fibrous leaves to eliminate.
+Palm hearts could be harvested on a sustainable basis by leaving some of the stems and cutting from the base, but labourers are paid on a piece rate basis and have no incentive to practice slower sustainable methods. Schwartzmann (1990) argues that this is a clear case where land reform would result in sustainable management practices: the combination of extractive reserves and cooperative marketing in Amapa was under investigation in 1990.
+In the absence of rationalized harvesting techniques, future demand could be met from plantations of Bactris gasipaes, which can produce palm hearts at six times the rate of E. oleraca in experimental plantations, according to Arkcoll and Clement (1989).
+Impact of market expansion for açai products
+Nugent (1991) looked at the impact of rapid market expansion on extractive groups on Combu Island in the Amazon estuary near Belém. Many extractors were sharecropping tenants to the major, absentee, landlord of the island, whose main interest was the profitability of açai extraction. Thus access to land became more dependent on willingness to specialize in this increasingly profitable activity.
+This was resisted by many share-croppers who preferred a broader livelihood basis. The result was increased social conflict, and those denied access to land were marginalized (Nugent, 1991). The recent collapse of the açai juice market due to cholera (D. Cleary, pers. comm.) will have vindicated the actions of the more conservative extractors.
+Aguaje
+Aguaje (Mauritia flexuosa) is another common varzea palm with a large regional market in the area of Iquitos, Peru. Padoch (1988) estimated the daily urban consumption to be about 15 tonnes during most of the year. It has a wide variety of market and household uses: Padoch remarks that 'no other fruit is sold in so many forms'. However the main demand for the raw fruit or maduro, soaked in water, or as a drink, will have suffered from the cholera epidemic.
+Like açai it has suffered from destructive harvesting practices. Most harvesting is done on a commercial contract basis. Following an official permit to harvest an area, wholesalers use contractors who hire individuals to cut the palms. This has led to a sharp fall in the aguaje population in the swamps near Iquitos, and a consequent increase in prices (Padoch, 1988). Vasquez and Gentry (1989) also report that Aguaje, as well as Mauritellia peruviana and Jessenia bataua, have been rapidly depleted in Peru due to market pressures. Padoch (1988) flags the development of more sustainable harvesting methods as a priority if the commercial importance of aguaje is to be maintained.
+Camu camu
+Camu camu (Myrciara dubia) is a lake-margin plant found throughout Amazonia in nutrient - poor black water forests, and is of particular commercial importance in Peru (Prance, 1989). The fruit matures as river levels rise, making it easy to harvest by canoe. The fruit, which has the highest known vitamin C content of any fruit, some 30 times that of citrus, is sold in Iquitos markets for processing into fruit drinks and ice cream. Prance (1989) quotes a study in Peru which calculated a sustainable annual gross income of $6000 per hectare, presumably within easy reach of the Iquitos market. However, Clay (1992) comments that the local market is limited.
+Essential oils and flavouring products (excluding babaçu)
+Rosewood oil
+The essential oil of rosewood (pau rosa) is the highest unit value NTFP of the Amazon region, priced at US$ 27/kg (fob) in 1992. Production is export orientated for the perfumery industry. Global consumption declined from approximately 500 tonnes in the late 1940s to 150 tonnes in 1990 as a result of dwindling supplies, upward price movements, and substitution by synthetic linalool in the cheaper range of fragrance products.
+Production is based on the destructive felling of Aniba rosaeodora and A. ducke which were formally extensively distributed throughout the central and northern Amazon region. Although legally categorized as extractivism, production in Brazil has been a highly organized industry since the 1920s (Guenther, 1950; France, 1989; Schwartzmann, 1990). Producer firms tow distilleries, mounted on rafts up-river to the closest natural stand. Teams of labourers are then despatched to fell and manually carry the trunk wood to the distillery for processing. The industry has been centred on Manaus (Amazonas State) and Belém (Pare State), from which the oil was exported to the international market.
+Apart from some areas specially designated in recent years by IBAMA, exploitation of the wild resource has been unrestricted. Any natural regeneration has been dependent upon the slow growth of self-sown seedlings. Over-exploitation has led to a progressive reduction of the industry from over 100 distilleries in the 1960s to 20 in the mid-1980s. The decline in the last decade was swift and saw the demise of production in the State of Para.
+Field surveys conducted under a Brazil-UK technical co-operation project in 1991-92 revealed the virtual extinction of the two species in areas where they had been abundant just a few years previously (Green, 1992; pers. comm.). Trees of one metre girth, the basis of the former industry, no longer exist in economically accessible areas and there are few exceeding 30 cm girth within 20 km of river banks. The six remaining processing firms, based in Manaus and operating in northwest Amazonas, now harvest all trees greater than 15 cm girth for a distance of up to 30 km from the river, including Aniba species which were previously left untouched since the yield and quality of the oil is poor. The quality of exported Brazilian rosewood oil has deteriorated also by the practice of adulteration with synthetic linalool.
+Although substantial natural stands of Aniba rosaeodora and A. ducke remain, they are in inaccessible parts of the Amazon. The life-time of the industry as presently based is expected to be short. Revitalization in the longer term will be dependent upon the success of formal cultivation in an agroforestry context and this is the subject of the current Brazilian-UK project investigations. The work includes an assessment of the potential for production of oil through non-destructive leaf harvesting.
+Copaiba balsam
+Copaiba balsam from Copaifera spp. is used after further processing to an essential oil as a medicine throughout Brazil, in perfumes and in varnish. Oil production is in oscillation rather than decline. Prices have increased steadily on the export market, and demand appeared to be increasing in 1989 (Schwartzmann, 1990). Sizer (1991) reports increased collection of copaiba balsam in Amazonas in response to higher prices.
+Cumaru nuts
+Cumaru nuts (Dipteryx odorata) are the source of coumarin, which is used in cigarettes and perfumes. Cumaru nuts declined in export volume and price in the 1940s as a result of the development of synthetic coumarin, and again after 1985, but this may also be partly due to increased manufacture in Brazil for export of coumarin itself. In 1985 the export price was $8.36/kg, but in 1989 fell back to $3.84/kg (data in Schwartzmann, 1990).
+Fatty oils
+Ucuuba
+Seeds of ucuuba (Virola spp.) are exploited for their fat content and supplies have dwindled. Its demise stems from a combination of timber harvesting, low prices, rural to urban migration and alternative income-generating possibilities in the rural areas, which have reduced labour availability and thus supply consistency. From 142 tonnes of seed used in soap and candle manufacture in 1983, it fell to 10 tonnes in 1985 (Schwartzmann, 1990). It also has an important regional medicinal market.
+Andiroba
+Andiroba is a fatty oil extracted from the nuts of Carapa guianensis, and is used for soap production and as an illuminator. In the 1920s up to 350 tonnes of andiroba oil were exported. In 1985, 363 tonnes were still produced, but Schwartzmann (1990) reports that the nuts have virtually disappeared from the commercial market, due to low prices and logging, although there is still a significant regional market for medicinal purposes.
+Exudates
+Sorva latex from Couma utilis and Couma rigida is used mainly in chewing gum production, and although it has suffered from competition from synthetics, remains an important extractive product, both as an export (see Appendix 2) and because of its complementary role in extractive economies. Sizer (1991) notes that it was the main extractive activity in the Jau Valley of Amazonas State when conditions were bad for rubber collection.
+Arkcoll and Clement (1989) reported that Couma spp. were in the process of being eliminated from accessible areas due to destructive tapping methods, but Sizer (1991) reports a recent change towards sustainable extraction methods as a result of the availability of climbing irons. However, domestication may be imminent: Arckoll and Clement (1989) report good growth rates on experimental plantations. It is also an ideal agroforestry tree according to Prance (1989).
+Balata (Mimusops bidentada), known in the trade as gutta percha, is used in golf-ball cores and electrical insulators, but its demand has declined due to synthetic substitution. Macaranduba (Manilkara huberi) is also in decline because the tree is increasingly logged for its timber.
+<section>Impact of commercialization</section>
+Impact on welfare
+Socio-political factors
+The commercialization system
+The stage of the product's boom-bust cycle
+Impact on extractive resources
+Impact on biodiversity conservation
+Impact on welfare
+Socio-political factors
+The main case studies show the impacts of road development and ill-defined tenure situations on the welfare of extractors/forest dwellers. For example, the problems in Acre were mainly brought about by the federal policy of frontier expansion, fuelled by a combination of new roads and subsidized credit for ranching and agriculture. Privatization resulted in rapid land speculation and concentration, followed by outmigration and deforestation.
+Clay (1992) observes that the babaçu situation is typical of areas where supplies of products were established prior to any resolution of land rights problems. The harmful impact of babaçu development on people's welfare was due to a combination of the lack of formalization of usufruct rights of the resident extractors on large landholdings, and the land privatization and processing changes. Peasants only obtained access to babaçu if they supplied labour on a regular basis and sold the produce back to the landlords. This precarious access was lost when roads, subsidies and credit encouraged other land uses, and is further evidence that commercialization increases economic and social differentiation when land distribution is skewed.
+In these examples it is clear that Government policy had a crucial role to play in determining the negative effects on welfare disbenefits and resource depletion. Foreign aid initiatives must also take a major share of the blame. Many of these errors have now been recognized and acted upon: ranching subsidies have been eliminated; road building stopped (due to a change in donor policy); and extractive reserves endorsed. However, violence over land rights continues almost unabated according to recent reports (Schwartzmann, in press).
+The commercialization system
+The basis of the production and marketing system in most of Amazonia has been aviamento. Rural union leaders hold that it is the continual shifting of the terms of trade against extractors, ameliorated by short-lived price booms, that is the main cause of rural to urban migration. The case study of the decline of Brazil nut extraction in Para State shows how extractors lost interest in the resource and are now more interested in clearing the forest for agriculture (O'Donnell Sills, 1991).
+Escape from this system depends on distance and access to market (hence the importance of the road system), alternative employment opportunities and the definition of tenure and property rights, any of which reduce the control of the merchants or patraos.
+Low producer returns also result from oligopolistic wholesale and export market structures, as exemplified by the Mutran family domination of the Brazil nut trade. However, as Padoch (1989) points out, it is too simplistic to blame the middleman. The costs and risks of transportation and marketing are often high, especially in high inflation economies like Brazil, Peru and, until recently, Bolivia.
+Welfare is undoubtedly better for those few groups fortunate to be on the receiving end of alternative marketing arrangements as those set up by such as Cultural Survival and the Body Shop. In the latter case, the price to extractors has tripled. However, there are serious doubts about the dependency effects and sustainability of these artificial marketing arrangements.
+The stage of the product's boom-bust cycle
+Torres and Martine (1991) point out that when an extractive product gains acceptability in the market, there is an irresistible commercial pressure to substitute it with synthetic substitutes or by its domestication in the form of plantations, since extractivism is unable to satisfy the rapid increase in demand. In fact the success of a product tends to hasten its own demise: a product which experiences a slower growth in demand is more likely to survive this process.
+Homma (1989) presents a series of recent examples to show that extractive products are not compatible with the market's need for standardization and continual expansion. Inconsistency and inelasticity of supply of most extractive products is often the catalyst for substitution, as in the case of babaçu. Another factor which stimulates the substitution process is that as demand expands, extraction tends to more remote areas, thereby increasing per unit costs (Schmink and Wood, 1986). The clearest example of this is Brazil nuts.
+The bust phase is made worse when extractor groups narrow their livelihood base in favour of particular products. The boom part of the cycle may tempt extractors away from broad-based production systems to inherently unstable markets, although some extractor groups have been careful to maintain livelihood diversity (Nugent, 1991). In particular the maintenance by caboclo groups of sustainable swidden management systems has been a key factor in their survival (Parker, 1989).
+The impact of boom-bust extractivism has been particularly severe on indigenous communities. Padoch and de Jong (1990) conclude that the wholesale movement of people from one location to another in search of profits from forest products (including timber and fauna) has played a major role in the loss of traditional culture of native peoples in the Peruvian Amazon (see case study, page 2).
+Impact on extractive resources
+Browder (1992) contends that resource depletion occurs in both the boom stage of the market cycle 'as rational extractors seek quick profits' in a situation they know to be ephemeral, and also in the bust stage as extractors are forced to 'harvest the resource above sustainable thresholds to maintain their living standards'.
+The causes of resource depletion vary with the nature of the products. In cases where destructive harvesting can be practiced and a rapid demand increase has occurred, then Browder's analysis seems correct, as in the cases of rosewood oil, palm hearts and aguaje. In the case of the latter two, sustainable management is possible, but is conditional on tenure security. Copaiba and sorva have also suffered from over-exploitation, but recent appropriate technology innovations have led to the introduction of more sustainable harvesting methods which are preferred by extractors (Sizer, 1991).
+It is fortunate that many of the extractive products of the Amazon depend on non-destructive harvesting methods and can survive these pressures, although even these may not be immune: the increasing subdivision of holdings in Acre has led to super-exploitation of rubber trails according to Oliveira (in Browder, 1992), while over-harvesting of Brazil nuts may be contributing to lack of regeneration in Acre (Nepstad et al., in press).
+In most cases resource depletion has been caused by the socio-political and economic factors which have led to changes in land use. This is clear in the Brazil nut and babaçu case studies. It should also be pointed out that some of the depletion has been caused by commercial logging pressures, notably in the cases of Brazil nuts, andiroba, ucuuba and maracanduba.
+In the case of babaçu, the introduction of more efficient processing technology shows that increasing the value of the resource without accompanying tenure and institutional changes is insufficient to ensure resource conservation and lends more weight to the proponents of extractive reserves.
+Impact on biodiversity conservation
+Schwartzmann (1989) proposed that the production system in the pre-extractive reserve area he studied was 'indefinitely sustainable' at prevailing subsidized rubber prices. He pointed out that many of the families had been on the same holding for 40 to 50 years and had retained 98% of the holding in natural forest.
+Browder (1992) affirms that extractors also clear forest for pasture and agriculture, pan for gold, hunt game and cut timber. As Thiele (1990) has pointed out with respect to small farmers or campesinos in the Amazon Basin, their management practices are likely to be guided by short-term resource depleting profit maximization goals, when given the opportunity.
+Sizer and MacMillan (in press) points out that it has been their very shortage of capital and lack of direct access to markets that has limited the impact of extractors on forest resources. Therefore escape from aviamento and the greater freedom of extractors, even in the context of extractive reserves, may be a threat to big-diversity conservation. Browder (1992) and Sizer and MacMillan (in press) point out that the objective of extractive reserves is to maximize human welfare, not necessarily to conserve biodiversity.
+Anderson (1992) reports that 'more than 15% of the (San Luis de Remanso extractive) reserve had been degraded by the resident population for shifting cultivation and pasture conversion'. Recent evidence from Nepstad (in press) and Oliveira (in Browder, 1992) in Acre State shows an increase in clearance for subsistence agriculture and pasture: livestock and pasture development are regarded as the logical and most beneficial use of surplus funds in a high inflation economy. At the same time Brown (in press) points out that while extractive reserves cover only one percent of Brazil's rainforest, their location has impeded clearance in the highest pressure areas, as in eastern Acre.
+<section>The future of extractivism</section>
+Limitations
+The case for extractivism
+Subsidies
+Integrated forest management
+Avoiding the middleman
+The potential of green consumerism
+Limitations
+The recent literature reveals a consensus that extractivism per se is limited as a response to the conservation issue, and that expectations are unrealistic (Cleary, 1992; Browder, 1992; Anderson, 1992; Homma, 1989; Torres and Martine, 1991; Sizer, in press, and others). The apparent main reasons are as follows:
+(a) The nature of the markets, with the inherent tendency to substitute extractive products with synthetic substitutes and cultivated trees (domestication).
+(b) The inelastic supply of most extractive products, and the factors in the extractive economies that cause inconsistency of supply problems.
+(c) Limited income-earning potential of extractive products in comparison with alternative unsustainable land uses, including gold mining, cocaine production, agriculture and small-scale ranching. The products themselves are often not sufficiently high value (per unit weight) to justify post-harvest technology research.
+(d) The export markets for many extractive forest products are small and volatile, while some of the larger and more secure domestic markets, as for açai juice, palm hearts and aguaje, are for perishable varzea products which can only be grown in 2% of the Amazon.
+(e) Even when market development leads to an increase in value of the resource (as in the case of babaçu) the impacts are likely to be negative unless underlying political and land rights issues are tackled.
+(f) The extractors themselves do not see extractivism as a raison d'être but as a means of survival. Sizer (1991), Romanoff (in press) and O'Donnell Sills (1991) all report extractive groups expressing preferences for agriculture and other land uses, unsurprising when one recalls that extractivism is often a poorly remunerated, lonely and isolated existence.
+(g) Extractivism cannot be viewed as a solution to the problem of new colonization: it is not accessible to new settlers, both on the grounds of the amount of technical knowledge and land required at the forest margin. Fearnside (1989) estimates that a typical rubber-tapping household needs between 300 and 500 hectares of forest. Also, as Green and Hone (1991) point out, colonist farmers tend to have a myopic vision which focuses on annual cropping, due to the frequency of their migrationary movements and tenure insecurity.
+The case for extractivism
+In spite of the above arguments, there are several important reasons to support extractivism and in particular extractive reserves.
+(a) Up to one and a half million people in Brazilian Amazonia still derive a significant proportion of their income from extractive products, according to Browder (1990). Therefore there is a strong humanitarian and strategic case for supporting extractivism, giving time for underlying legal and institutional reforms, and for research to develop more viable and integrated forest management systems. The immediate alternatives either involve forest clearance by the extractors themselves, or urban migration, which usually results in clearance by other groups. Migration has unacceptably high social and economic costs and is viewed by extractors as the last resort (Parfit, 1989; Schwartzmann, 1991).
+(b) The harvesting methods of most extractive products are non-destructive. With adequate prices, extractivism could be indefinitely sustainable.
+(c) For caboclo, indigenous and other groups with a historical tradition of extractivism and swidden farming, their indigenous technical knowledge provides a firm basis for sustainable forest management, incorporating 'poly-extractivism' and traditional swidden management techniques. The single biggest danger to the Amazon is the loss of those with the knowledge of how to sustainably manage it.
+(d) The institutional and tenurial arrangements of extractive reserves provide a socio-economic framework in which more sustainable forms of resource management can occur. Even if they are not successful, the urban drift, and associated costs, are likely to be more gradual and manageable than with the privatization of forest resources.
+Subsidies
+Sustainable forest management as practiced by most extractor groups provides a series of economic and environmental benefits which are either undervalued, due to market imperfections, or not valued at all, because they are external (Pearce et al., 1991). This study has shown that there is an apparent welfare-conservation trade-off for forest management under prevailing market forces. If left to market forces extractivism will gradually decline, and alternative land uses will take over.
+Natural rubber extraction in Brazil is only possible due to the Brazilian domestic rubber subsidy. Schwartzmann (1989) points out that the rubber subsidy in Brazil is relatively small, averaging about $25 million/year, less than half of the import tax actually levied in 1985 on imported natural rubber, and a fraction of the subsidies given until recently to ranching (averaging about $300 million/year according to official statistics).
+The rubber subsidy seems a small price to pay to avoid the negative external effects of alternative land uses: a case can surely be made for subsidizing the ecologically sustainble management of other inadequately remunerated extractive products. The political and practical problems of who should pay for it and how it should be used will obviously be great, but the setting up of international transfer payment mechanisms seems to be an inevitable necessity if the North wishes to continue to receive the benefits of extractivism. Another vital area is the payment of royalties for the intellectual property rights of extractive species.
+The first priority for any such flows would be to bolster the activities of the CNS, which according to Brown (in press), is often unable to pay its small staff and bills in spite of being the principal proponent of extractive reserves.
+Integrated forest management
+Most analysts, especially Browder (1992) and Anderson (1992), see sustainable agriculture, agroforestry (especially based on indigenous swidden management techniques), and timber extraction as playing a major future role in both the context of extractive reserves and frontier production systems.
+There are strong arguments for combining extractivism with community participation in the sustained yield management of timber. An example of this is provided by the forest ejidos of Yucatan, Mexico, in which timber extraction in the dry season is successfully combined with chicle extraction from Manilkara zapota in the wet season (Richards, 1991).
+Timber faces few of the market problems of extractive products. Even if there was a boycott of tropical hardwoods by the North, there is still a huge internal market to satisfy: the Amazon presently supplies 54% of Brazil's roundwood according to Browder (1992), who also argues for a much greater emphasis on secondary forest management (i.e. on regenerating forest).
+Avoiding the middleman
+Fearnside (1989) points out that 'when the value of products accrues to intermediaries, extractivists remain poor, regardless of the amount of wealth they generate'. Most analysts agree on the need to develop co-operative producer, marketing and processing structures to increase producer margins at the expense of the middlemen. Certainly in many situations they are able to maintain their margins through control of capital and market information, especially in remote areas. At the same time their economic importance is traditionally underestimated (Padoch, 1989; Holt, 1991).
+The Xapuri Brazil nut plant, and the Kayapo Indian project which produces Brazil nut oil for Body Shop hair conditioner, rely on alternative marketing structures in which existing oligopolistic marketing structures are bypassed completely. May (1991) contends that such a mechanism is a widely replicable model of international cooperation. Others argue that they run the risk of temporarily raising returns and expectations with unsustainable structures and markets, especially when the products are consumed in limited speciality markets tied to current fashions (Browder, 1992). These alternative marketing arrangements are a way of buying time while Amazonian Governments and the international community develop more durable approaches to the problems.
+The potential of green consumerism
+A less risky approach is to cash in on increased international awareness of the role of extractivism in forest conservation. Holt (1991) points out that there has been no attempt to link Brazil nut consumption with rainforest conservation. He points out the need for consumer education and identification of sources in brand names, e.g. Kayapo Brazil nuts, as a means of increasing demand and prices.
+<section>Research and development priorities</section>
+In view of the discussion above it can be argued that much more attention should be given to agroforestry approaches based on swidden management systems, to secondary forest management, to sustained yield management for timber, and in particular to the integration of these and extractivism in the development of multiple product forest management systems.
+In order to do this in any location, it is essential to conduct socio-economic research on existing activities to see how new approaches can be integrated into existing livelihood systems. There is also an urgent need for data on the relative returns to labour and, on land requirements, and market viability of the new approaches.
+Cleary (1992) argues that this type of work can best be achieved by supporting regional research capacity, especially that found in local universities. The PESACRE project, in which a network of social and natural scientists from a mixture of state, university and non-government organizations (NGOs) are working to a common research and policy agenda, provides an interesting basis for this kind of research and could be replicable in other areas (Schmink, 1991). The network approach increases the complementarily of research efforts and avoids duplication.
+Other research and development priorities are listed below.
+1. Strengthening the institutional basis of extractive reserves. This will involve institution building and increased resources for both state and NGOs involved in the development of extractive reserves.
+2. Development of co-operative processing and marketing structures on extractive reserves. This should include micro-economic research on marketing chains and margins for the main extractive products, in order to plan appropriate levels of vertical integration and interventions in the marketing process.
+3. Research on the economic and social impacts of alternative marketing arrangements (Cultural Survival, Body Shop, etc.) on direct beneficiaries, other extractive groups, supply continuity and overall market dynamics.
+4. The development of market information systems to increase market transparency, increase competition, inform producer groups of market possibilities, and establish more direct links with northern entrepreneurs.
+5. Development of a consumer education campaign to increase the green demand for sustainably harvested
+extractive products, and encourage importers to use brand names to identify sources.
+6. Research to normalize the often chaotic land tenure situation of extractive populations. In particular May (1990b) calls for research to help define and protect usufruct or access rights based on tenurial arrangements.
+7. Research to develop sustainable harvesting techniques, especially for the palms, and diffusion of recently introduced technologies for sustainably harvesting sorva latex and copaiba oil.
+8. Research into processing potential for domestic markets. For example Clay (1992) believes there is a large untapped potential for essential oil processing in Para State.
+9. Research into the demand and supply problems of Brazil nut extraction in order to consider whether and how current problems can best be confronted.
+10. Finally any research and development of NTFPs should be based on the following criteria to maximize conservation and welfare impacts:
+(a) terra firme trees or plants with both subsistence and cash uses, that benefit a large number of people;
+(b) products with an established domestic market;
+(c) products least likely to be substituted;
+(d) trees or shrubs which can be incorporated in agroforestry and swidden management systems;
+(e) research into alternative sources of high value low volume extractive products where traditional sources are experiencing depletion, e.g. rosewood oil.
+Babaçu would appear to have a high priority according to most of these criteria, although its main product can easily be substituted.
+<section>Conclusions</section>
+In general, market development has not resulted in improved welfare for extractors because of both the sociopolitical factors and the aviamento-based production and marketing systems. Nor has an increase in the value of the standing forest, even when based on less risky domestic markets, necessarily resulted in safeguarding the resource, as the babaçu case study shows.
+Essentially this is because market development has taken place in a socio-economic and policy context (of frontier expansion, and resource privatization) inimical to the welfare of extractors and resource conservation, a situation not helped by hyper-inflation which erodes earnings from forest products, encourages extractors to invest in livestock, and results in falling real interest rates for competing land uses. On the positive side should be noted the recent Brazilian policy changes on roadbuilding and cattle ranching incentives.
+Most analysts (Anderson, Browder, Homma, Torres and Martine, and Cleary) seem to agree that extractive products are likely to remain marginal in the search for sustainable natural resource management systems in the Amazon region. Rubber and Brazil nuts in particular are undergoing a gradual, probably terminal, decline in their role as the basis of extractive economies in many areas. Other important products like babaçu oil (undergoing substitution), açai juice (affected in the market by cholera), and rosewood oil (suffering depletion) have also recently diminished in importance in extractive economies.
+Homma (1989) sees substitution as inevitable due to the inability of extractivism to respond to the need of the market for a constant, uniform product with an elastic supply. Rubber and Brazil nuts therefore fit into the historical boom and bust cycle that has characterized internationally traded extractive products over the centuries. Products for local and national market are far less prone to these consequences.
+There are therefore major fears for the economic viability of extractive reserves if based solely or even mainly on extractivism. Unless extractor groups can successfully diversify into other sustainable uses of the forest, the outcome is likely to be increased clearance for subsistence agriculture and cash cropping, followed by migration when the soils lose their fertility. The loss of extractivists means loss of the knowledge base for sustainable forest use.
+There are strong arguments to focus future efforts on the development of multiple product forest management in extractive reserves, which provide the tenure and institutional basis in which such resource use changes can equitably take place. Anderson (1992) argues for a research and policy agenda aimed at transforming extractive reserves into viable enterprises. There seems to be a high potential both for sustainable yield timber management and NTFP production in the context of agroforestry systems based on indigenous swidden farming practices.
+The danger of market-induced extractivism is that it can lead forest peoples into narrowing their livelihood base. This is likely to cause adverse welfare and resource impacts in the longer term. Thus the market development of extractive products should take place within an integrated approach in which the diversity and interdependence of livelihood activities is centrally important (Cleary, 1992).
+Finally, if the North wants relatively environmentally benign extractivism to continue, and therefore satisfy its priority of biodiversity conservation (a priority only partially shared by extractor populations and Amazonian governments) it may have to find a way of adequately remunerating the users.
+Although there is a consensus that expectations have been overstated, support for extractivism is still the necessary short-term palliative while the longer term approach of diversification of forest management is developed, since there are no immediately accessible sustainable forest management alternatives for extractive populations.
+<section>References</section>
+ALLEGRETTI, M.H. (1990). Extractive reserves: an alternative for reconciling development and environmental conservation in Amazonia. In: Anderson, A.B. (ed.) Alternatives to Deforestation: Steps Towards Sustainable Use of the Amazon Rain Forest. New York: Colombia University Press.
+ANDERSON, A.B. (1992). Land-use strategies for successful extractive economies. In: The Rainforest Harvest: Sustainable Strategies for Saving the Tropical Forests?London: Friends of the Earth.
+ANDERSON, A.B. and ANDERSON, E. (1983). People and the Palm Forest: Biology and Utilization of Babaçu Palms in Maranahao, Brazil. USMAB Project Report. Gainesville: Department of Botany, University of Florida.
+ANDERSON, A.B. and JARDIM, M. (1989). Costs and benefits of floodplain forest management by rural inhabitants in the Amazon estuary: a case study of Açai palm production. In: Browder, J. O., Fragile Lands in Latin America: The Search for Sustainable Uses. Boulder, Colorado: Westview Press.
+ANDERSON, A.B., MAY, P. and BALOCK, M. (1991). The Subsidy from Nature. New York: Columbia University Press.
+ARKCOLL, D.B. and CLEMENT, C. 1989. Potential New Crops from the Amazon. In: Wickens, G.E., Haq, N. & Day, P. (eds.) New Crops for Food and Industry. London: Chapman and Hall.
+BALEE, W. 1989. The culture of Amazonian forests. Advances in Economic Botany 7: 1-21
+BALICK, M.J.1987. The economic utilization of the Babaçu palm: a conservation strategy for sustaining tropical forest resources. Journal of the Washington Academy of Sciences 77 (4): 215-223
+BROWDER, J.O. (1990). Social and Economic Constraints on the Development of Market-orientated Extractive Systems in Amazon Rain Forests. Mimeo. Virginia Polytechnic and State University.
+BROWDER, J.O. (1992). The Limits of Extractivism: Tropical Forest Strategies beyond Extractive Reserves. BioScience 42 (3): 174-182
+BROWN, I.F., NAPSTED, D., PIRES, I., LUZ. I., and ALECHANDRA, A. (in Press). Carbon storage and land use in extractive reserves, Acre, Brazil. Environmental Conservation.
+CLAY, J. (1992). Report on Funding and Investment Opportunities for Income Generating Activities that could Complement Strategies to halt Environmental Degradation in the Greater Amazon Basin. Report for Biodiversity Support Program. USA: Cambridge.
+CLEARY, D. (1992). Overcoming socio-economic and political constraints to "wise forest management": lessons from the Amazon. In: Wise Management of Tropical Forests. Proceedings of the Oxford Conference on Tropical Forests 1992. Oxford: Oxford Forestry Institute.
+COLCHESTER, M. (1989). Indian development in Amazonia: risks and strategies. The Ecologist 19 (6): 249-256
+EDEN, M.J. (1990). Ecology and Land Management in Amazonia. London: Belhaven Press.
+FEARNSIDE, P.M. (1989). Extractive Reserves in Brazilian Amazonia: an opportunity to maintain tropical forest under sustainable use. Bioscience 39:387-393
+GRADWOHL, J. and GREENBERG R. (1988). Saving the Tropical Forests. London: Earthscan.
+GREEN, C.L. & HONE, G.A. (1991). Essential Oil Production in Developing Countries. Paper presented at the Third International Meeting on Aromatic and Medicinal Plants in December in Nyons, France. Chatham, UK: Natural Resources Institute.
+GUENTHER, E. (1950). The Essential Oils, 4. New York: D van Nostraad Inc.
+GRAY, A. (1990). Indigenous Peoples and the Marketing of the Rainforest. The Ecologist 20 (6): 223-227
+HECHT, S., ANDERSON, A. and MAY, P. (1988). The Subsidy from Nature: Shifting Cultivation, Successional Palm Forests and Rural Development. Human Organization 47(1): 25-35
+MOLT, J. (1991). Brazil Nuts. Amazonia Trading Company Ltd., Liverpool.
+MOMMA, A.K.O. (1989). Reservas extravistas: uma opçao de desenvolvimiento viável pare a Amazonia? Para Desenvolvimiento 25: 38-48
+LESCURE, J.P. and CASTRO, A. (1990). L'extractivsm en Amazonie Centrale Apercu des Aspects Economiques et Botaniques. UNESCO/IUFRO Workshop, Cayenne, May 1990.
+MAY, P.H. (1990a). Local product markets for babaçu and agro-industrial change in Maranhao, Brazil. Advances in Economic Botany 8: 92-102
+MAY, P.H. (1990b). A tragedy of the non-commons: recent developments in the Babaçu palm based industries in Maranhao, Brazil. Forests, Trees and Peoples Newsletter 11: 23-27
+MAY, P.H. (1991). Building Institutions and Markets for Non-Wood Forest Products from the Brazilian Amazon. Unasylva 165: 9-16
+MAY, P.H., ANDERSON, A., FRAZAO, M., and BALICK, M. (1985). Babaçu palm in the agroforestry systems in Brazil's mid-North Region. Agro-Forestry Systems 3: 275-295
+MORAN, E. (1981). Developing the Amazon. Bloomington, USA: Indiana University Press.
+MURPHY, R. and STEWARD, J. (1956). Tappers and trappers: parallel processes in acculturation. Economic Development and Culture Change 4: 335-353
+NEPSTAD, D.C. et al. (In Press). Biotic impoverishment of Amazonian forests by NTFP extractors, loggers and cattle ranchers. Advances in Economic Botany.
+NUGENT, S. (1991). The limitations of environmental "management'': forest utilization in the lower Amazon. In: GOODMAN, D. and REDCLIFT, M. (eds) Environment and Development in Latin America: The Politics of Sustainability. Manchester, UK: Manchester University Press.
+O'DONNELL SILLS, E. (1990). Extractive Reserves in the Brazilian Amazon. BA Thesis. United States: Woodrow Wilson School of Public and International Affairs, Princetown University.
+PADOCH, C. (1988). Aguaje (Mauritia flexuesa) in the economy of Iquitos, Peru. In: Balick M. (ed) The Palm - Tree of Life: Biology, Utilization and Conservation. Advances in Economic Botany 6: 214-224
+PADOCH, C. (1989). Marketing of Non-timber Forest Products in Western Amazonia. General Observations and Research Priorities. Symposium on Extractive Economics in Tropical Forests: a Course for Action. National Wildlife Federation, Nov. 30 - Dec. 1. Washington DC.
+PADOCH, C. and DE JONG, W. (1990). Santa Rosa: The Impact of the Forest Products Trade on an Amazonian Place and Population. Advances in Economic Botany 8: 151-158
+PARFIT, M. (1989). Facing up to reality in the Amazon: whose hands will shape the future of the Amazon's green mansions? Smithsonian 20 (8): 58-77
+PARKER, E.P. (1989). A Neglected Human Resource in Amazonia. The Amazon Caboclo. Advances in Economic Botany 7: 249-259
+PAUL, V. (1991). Importance of Non-Wood Forest Products for Regional Trade in the Brazilian Amazon. Proceedings of World Forestry Congress 15.4: 119-124. Paris.
+PEARCE, D., BARBIER, E., MARKANDYA, A., BARRETT, S., TURNER, R.K., SWANSON, T. (1991). Blueprint 2: Greening the World Economy. Earthscan. London.
+PETERS, C.M., GENTRY, A. and MENDELSOHN, R. 1989. Valuation of an Amazonian Rain Forest. Nature 339: 655-6
+PRANCE, G.T. (1989). Economic Prospects for Tropical Rainforest Ethnobotany. In: Browder J. Fragile Lands in Latin America: the Search for Sustainable Uses. Westview Press, Boulder, Colorado.
+RICHARDS, E.M. (1991). The Forest Ejidos of South-East Mexico: A case study of community based sustained yield management. Commonwealth Forestry Review 70(4): 290-311.
+ROMANOFF, S. (in press). Food and debt among rubber tappers in the Bolivian Amazon. Human Organization.
+SCHMINK, M. 1991. Building institutions for sustainable development in Acre. Mimeo. University of Florida, Gainesville. Centre of Tropical Conservation and Development.
+SCHMINK, M. and WOOD, C.H. (1986). The Political Ecology of Amazonia. Mimeo. University of Florida, Gainseville: Centre for Latin American Studies.
+SCHWARTZMANN, S. (1989). Extractive Reserves: the Rubber Tappers strategy for sustainable land use of the Amazon rain forest. In: Browder, J. (1989) Fragile lands in Latin America: the Search for Sustainable Uses. Boulder, Colorado: Westview Press.
+SCHWARTZMANN, S. (1990). Marketing of Extractive Products in the Brazilian Amazon. Mimeo. New York: Environmental Defence Fund.
+SCHWARTZMANN, S. (1991). Deforestation and Popular Resistance in Acre: from Local Social Movement to Global Network. The Centennial Review 35(2) 397-422
+SCHWARTZMANN, S. (In Press). Land Distribution and the Social Costs of Frontier Development in Brazil: Social and Historical Context of Extractive Reserves. Advances in Economic Botany.
+SCHWARTZMANN, S. and ALLEGRETTI, M. (1987). Extractive Production in the Amazon and the Rubber Tappers' Movement. New York: Environmental Defence Fund.
+SIZER, N.C. (1991). Cattle Ranching and Rubber Tapping: Ecological, Social and Policy Impacts of Land Use in the Brazilian Amazon. Dissertation submitted in application for Research Fellowship, King's College, Cambridge.
+SIZER, N. C. and MACMILLAN, G . (In Press). Revolution in the Rain Forest: Good News for Conservation? The Ecologist.
+STRUDWICK, J. and SOBEL, G.L. (1988). Uses of Euterpe oleracea in the Amazon Estuary, Brazil. Advances in Economic Botany 6: 225-253
+THIELE, G. (1990). Are Peasant Farming Systems in the Amazon Sustainable? Discussion Paper 282. University of Sussex, UK: Institute of Development Studies.
+TORRES, H. and MARTINE, G. (1991). Amazonian Extractivism: Prospects and Pitfalls. Documento de Trabalho No.5. Brasilia, Brazil: Instituto Sociedade, Populalaçao o Natureza.
+VASQUEZ, R. and GENTRY, A.H. (1989). Use and misuse of forest-harvested fruits in the Iquitos area. Conservation Biology 3: 350-362
+<section>Appendix 1</section>
+Description of the most important commercial NTFPs in Amazonia
+Lescure and De Castro (1992)
+ACAl PALM
+Euterpe Olerala Mart. The fruit makes a highly prized drink and the hearts, under the name Palmito, are the basis of a canning industry producing Palm Hearts.
+ANDIROBA
+Carapa spp. Meliaceae. The seeds are collected for medicinal oil and made into soap suitable for skin care.
+BABACU
+Orbinia martiana Barb Rodr. Arecaceae.
+The seeds are collected for processing into an edible oil.
+BALATA
+Manilkara Bidentata A. DC. Chev
+Sapotaceae. The solid latex become an inelastic gum similar to gutta percha.
+BORRACHA
+Solid latex of various species of Hevea
+(Euphorbiaceae)
+CASTANHA
+The seed of Bertholletia excelsa H.B.K.
+Lecthidaceae internationally known as the Para nut or Brazil nut.
+CAUCHO
+Castilloa ulei Warb. Moraceae. The latex solidifies to form an elastic gum similar to that obtained from Hevea.
+COPAlBA
+Copaifera spp. Caesalpiniacea. The oleo resin has anti-bacteria properties and is used in skin care soaps.
+CUMARU
+Dipteryx odorata (Aubl) Willd,
+Papilionaceae. The seeds are harvested to prepare the essential oil, coumarin.
+LICURI
+Syagrus coronata (Mart.) Beccari
+Arecaceae. This produces a vegetable wax.
+MACARANDUBA Manilkara buberi (Ducke) Chev.
+Sapotaceae. This forms a solid latex which is an inelastic gum similar to balata.
+PIACAVA
+A fibre derived from Leopoldica piassaba(Wallace), in Amazonia or from Attalea funifera in northeast Brazil.
+SORVA
+Couma spp. (Apocynaceae). An edible gum.
+TIMBO
+Plants toxic to fish of the genera
+Tephrosia, Derris and Lonchocarpus
+(Caesalpiniaceae), which are harvested for their roots to extract rotenoid derivatives.
+TUCUMU
+A fibre derived from various Astrocaryum
+(Arecaceae).
+UCUUBA
+(Virola spp. Myristicaceae). The oil containing seeds are harvested for oil used in soap manufacture.
+PAU ROSA
+Rosewood oil is derived from the species
+Aniba Rosueodora and Aniba ducke. Koster(Lauraceae).
+<section>Appendix 2</section>
+Production and export of NTFPs in Brazilian Amazonia
+The tables below are taken from Lescure and de Castro's classic study Extractivism in Central Amazonia: Overview of Economic and Botanical Aspects (a paper given at the UNESCO/UFRO/FAU conference workshop on the Management and Conservation of Humid Tropical Forest Ecosystem, Cayenne 10-19 March 1992).
+The figures presented may differ from those given in the text tables. This is due to the different sources but the authors feel it worthwhile to reproduce both sets of data.

@@ -1,0 +1,1044 @@
+FAO DOCUMENT TECHNIQUE DU CPCA 16
+
+Cover
+
+Rapport du stage de perfectionnement sur les techniques et méthodologies de vulgarisation piscicole
+
+SOMMAIRE
+
+
+Bouaké, Côte d'Ivoire, 18 novembre - 14 décembre 1985
+par
+André G. Coche
+Fonctionnaire principal
+Ressources halieutiques (Aquaculture)
+et
+François Demoulin
+Consultant de la FAO
+Service des ressources des eaux intérieures
+et de l'aquaculture
+Division des ressources halieutiques
+et de l'environnement
+
+Les appellations employées dans cette publication et la présentation des données qui y figurent n'impliquent de la part de l'Organisation des Nations Unies pour l'alimentation et l'agriculture aucune prise de position quant au statut juridique des pays, territoires, villes ou zones, ou de leurs autorités, ni quant au tracé de leurs frontières ou limites.
+
+M-44
+ISBN 92-5-202407-7
+
+Tous droits réservés. Aucune partie de cette publication ne peut être reproduite, mise en mémoire dans un système de recherche bibliographique ni transmise sous quelque forme ou par quelque procédé que ce soit: électronique, mécanique, par photocopie ou autre, sans autorisation préalable. Adresser une demande motivée au Directeur de la Division des publications. Organisation des Nations Unies pour l'alimentation et l'agriculture. Via delle Terme di Caracalla, 00100 Rome (Italie), en indiquant les passages ou illustrations en cause.
+
+PREPARATION DU PRESENT DOCUMENT
+
+Le présent document est le rapport du stage de perfectionnement organisé dans le cadre du Programme FAO de Réhabilitation pour l'Afrique par le Service des ressources des eaux intérieures et de l'aquaculture du Département des pêches.
+
+Distribution La référence bibliographique de ce document doit être donnée ainsi:
+FAO Département des pêches 
+Bureau régional de l'Afrique, pêches
+CPCA
+Représentants de la FAO, pays africains Coche, A.G. et F. Demoulin, 1986 Rapport du stage de perfectionnement sur les techniques et méthodologies de vulgarisation piscicole. Bouaké, Cote-d'Ivoire, 18 novembre - 14 décembre 1985. Doc.Tech.CPCA, (16):28 p.
+
+RESUME
+
+Dans le cadre du Programme FAO de Réhabilitation pour l'Afrique, 18 participants représentant 14 pays africains francophones ont pris part au Stage de perfectionnement sur les techniques et méthodologies de vulgarisation piscicole, organisé par le Service des ressources des eaux intérieures et de l'aquaculture du Département des pêches. Le stage, d'une durée de quatre semaines, s'est tenu à Bouaké, en Côte-d'Ivoire, du 18 novembre au 14 décembre 1985. Il était organisé autour de quatre thèmes principaux : l'échange d'expériences entre les participants, les techniques piscicoles, la communication/vulgarisation, et la planification/évaluation de projets de développement. Ces thèmes ont été présentés et discutés au cours de conférences, projections, discussions de groupe, démonstrations pratiques et visites de terrain.
+
+L'évaluation finale du stage a révélé la satisfaction générale des participants concernant les connaissances acquises, quelques réserves étant émises au sujet des conditions matérielles d'hébergement.
+
+En conclusion, de légères modifications de programme sont suggérées pour les stages futurs. L'organisation de stages similaires à intervalle régulier pourrait positivement influencer le développement de la pisciculture rurale en Afrique.
+
+ORGANISATION DES NATIONS UNIES POUR L'ALIMENTATION ET L'AGRICULTURE
+Rome, © FAO 1986
+
+
+Les liens hypertextes vers d'autres sites de l'Internet ne signifient nullement que l'Organisation approuve officiellement les opinions, idées, données ou produits qui y sont présentés, qu'elle en assume la responsabilité ou qu'elle garantit la validité des informations qui s'y trouvent. Leur seul objectif est d'indiquer où trouver un complément d'informations sur des thèmes apparentés.
+
+Cette version numérique du document a été scannérisé en utilisant des logiciels de reconnaissance optique de texte (OCR). La FAO décline toute responsabilité pour les éventuelles différences pouvant apparaître dans ce document par rapport à la version imprimée originale.
+
+SOMMAIRE
+
+1. Origine du stage
+
+2. Objectifs du stage
+
+3. Organisation du stage
+
+4. Contenu du stage
+
+4.1 Echange d'expériences et rapports nationaux
+
+4.2 Aspects techniques de la pisciculture
+
+4.3 Communication et vulgarisation
+
+4.4 Planification et évaluation de projets de développement
+
+5. Evaluation du stage
+
+5.1 Orientation du stage
+
+5.2 Environnement de la formation
+
+5.3 Objectifs du stage
+
+5.4 Organisation et conduite du programme
+
+5.5 Excursions et visites techniques
+
+5.6 Contenu du stage
+
+5.7 Satisfaction générale des participants
+
+6. Conclusions générales
+
+Tableaux: 1 Récapitulatif sur les méthodes de vulgarisation
+
+2 Questionnaire d'évaluation
+
+3 Evaluation du stage de perfectionnement
+
+Annexes: I Liste des participants
+
+II Programme du stage
+
+III Intervenants et secrétariat
+
+IV Le stage en quelques images
+
+Photo I
+
+Photo I Les participants et quelques intervenants du stage
+
+Rangée arrière, de g. à dr.: P. Tauzes (Bénin), K. Amegavie (Togo), E. Ntamasambiro (Burundi),
+L. Mughusu (Zaire), M. Badji (Sénégal), Gogbo (Chauffeur groupe),
+N. Hishamunda (Rwanda), J.-P. Marquet (FAO)
+Rangée centrale, de g. à dr.: D. Morin (IAB), G. Amoikon (int. RCI), E. Kali-Tchikati (Congo),
+B. Koffi (RCI), V. Dapou (RCI), G.-J. Bourobou Bourobou (Gabon),
+P.-C. Abakar (RCA), F. Demoulin (FAO), O. Camara (Mali),
+C. Nugent (FAO)
+Rangée avant, de g. à dr.: L. Bagui (RCI), L. Kourdina (Tchad), L. Ouedraogo (Burkina Faso),
+I. Kouame Bi (RCI), Z. Anza (Niger)
+Absente: J. Coffi (RCI)
+Table des matières Page suivante
+
+
+1. ORIGINE DU STAGE
+
+Il est généralement reconnu aujourd'hui qu'il faut, en Afrique, donner priorité au développement de l'aquaculture en milieu rural aux niveaux familial et artisanal, afin d'améliorer simultanément la nutrition et la situation financière de la fraction de la population non seulement la plus nombreuse, mais aussi bien souvent la plus déshéritée.
+
+Afin de mener à bien cette politique de développement rural, les administrations nationales doivent disposer de personnel spécialisé en vulgarisation piscicole.
+
+Au début de 1985, la FAO se proposa dans le cadre de son Programme de Réhabilitation pour l'Afrique, d'organiser un stage de perfectionnement sur les techniques et méthodologies de vulgarisation piscicole, destiné aux responsables nationaux des pays africains francophones spécialement intéressés par le développement de la pisciculture en milieu rural.
+
+En mars 1985, les fonds nécessaires furent attribués au Service des ressources des eaux intérieures et de l'aquaculture (FIRI), de la Division des ressources halieutiques et de l'environnement du Département des Pêches.
+
+
+Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+2. OBJECTIFS DU STAGE
+
+L'objectif principal du stage de perfectionnement était d'améliorer les capacités de vulgarisation du personnel technique responsable, dans les différents pays, de la vulgarisation piscicole. L'accent devait être mis plus spécialement sur:
+* l'amélioration des connaissances par l'échange d'expériences entre les participants;
+* les techniques et méthodes de communication en général et de vulgarisation en particulier;
+* certaines techniques piscicoles déjà appliquées dans des programmes de vulgarisation en Afrique, et jugées susceptibles d'adaptation et d'application dans les autres pays;
+* la planification et l'évaluation de projets de développement piscicole.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+3. ORGANISATION DU STAGE
+
+Le stage fut organisé en Côte-d'Ivoire conjointement par l'Institut Agricole de Bouaké, la Direction des Pêches du Ministère du Développement rural et son projet PNUD/FAO pour le Développement de la pisciculture en milieu rural, ainsi que les services techniques de FAO/FIRI.
+
+Il se déroula à l'Institut Agricole de Bouaké (IAB), à Bouaké, du 18 novembre au 13 décembre 1985, se terminant à Jacqueville, près d'Abidjan, le 14 décembre 1985.
+
+L'IAB fut chargé d'assurer l'hébergement des participants ainsi que de fournir le support administratif nécessaire à la bonne tenue du stage.
+
+L'ouverture du stage eut lieu le 18 novembre 1985 dans les locaux de l'IAB. M. F. Rossin, Directeur IAB par intérim, et M. M. Diarra, Directeur du projet de Développement de la pisciculture en milieu rural, tour à tour souhaitèrent la bienvenue aux participants. Ensuite M. Djedje Bagno, sous-directeur de l'aquaculture et représentant le Ministre du Développement rural, souligna l'importance de la pisciculture dans la lutte contre le déficit protéinique en Afrique. Il rappela l'historique du développement de la pisciculture rurale en Côte-d'Ivoire, l'un des pays africains les plus avancés dans ce domaine. Le stage fut alors déclaré ouvert par le Secrétaire Général de la Préfecture, représentant le Préfet de la ville de Bouaké.
+
+Le stage de perfectionnement fut suivi par 18 participants (Photo I et Annexe I) représentant 14 pays francophones d'Afrique: Bénin (1), Burkina Faso (1), Burundi (1), Congo (1), Côte-d'Ivoire (5), Gabon (1), Mali (1), Niger (1), République Centrafricaine (1), Rwanda (1), Sénégal (1), Tchad (1), Togo (1) et Zaïre (1). Bien qu'invités officiellement à participer, le Cameroun et la Guinée ne furent pas représentés.
+
+Le Gouvernement de Côte-d'Ivoire nomma M. M. Diarra, Directeur de Stage et Mme A. Ziehi, Chargée de liaison. M. F. Demoulin, consultant FAO/FIRI, fut sur place le coordonnateur du stage.
+
+Le programme de formation (Annexe II) consistant en conférences, discussions, exposés nationaux et visites de terrain, fut organisé autour de quatre thèmes principaux:
+* l'échange d'expériences entre participants;
+* les techniques piscicoles vulgarisables;
+* la communication et la vulgarisation;
+* la planification et l'évaluation de projets de développement.
+
+Vingt-huit intervenants (Annexe III), dont 15 Ivoiriens, participèrent aux exposés et aux discussions. Une série de visites de réalisations piscicoles eurent lieu dans les environs de Bouaké, en prélude aux exposés de technique piscicole. Des visites furent également organisées au Centre de Recherche piscicole de l'Institut des Savanes (IDESSA, Bouaké) ainsi qu'au Centre de Formation Piscicole (CFP, Bouaké). Deux excursions sur le terrain totalisant cinq jours eurent lieu dans le Centre-Ouest et le Nord du pays, donnant lieu chacun à une exploitation didactique au retour. Après la cérémonie officielle de clôture, les participants rejoignèrent Abidjan pour visiter l'un des centres responsables du développement de l'aquaculture lagunaire, établi à Jacqueville sur la lagune Ebrié.
+
+Le stage se termina officiellement le 13 décembre 1985 à Bouaké, au cours d'une cérémonie de clôture présidée par Monsieur le Secrétaire Général de la Préfecture de Bouaké, avec la participation de M. A. Diawara, représentant le Programme des Nations Unïes pour le Développement en Côte-d'Ivoire, M. M. Koffi, Directeur Régional au Ministère du Développement rural, M. F. Rossin, Directeur a.i. de l'IAB, et Dr. A. G. Coche, représentant la FAO.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+4. CONTENU DU STAGE
+
+4.1 Echange d'expériences et rapports nationaux
+
+Avant le stage, il avait été demandé à chaque participant de préparer une brève contribution écrite décrivant l'état actuel de la pisciculture dans leur pays respectif, et les problèmes qu'y rencontre son développement.
+
+Ces rapports nationaux servirent de base aux exposés faits, au cours de quatre séances, par les participants, à l'exception des Ivoiriens. Après avoir évoqué l'historique du développement piscicole, son organisation actuelle, les projets en cours et les obstacles rencontrés, une discussion générale s'ensuivit.
+
+Les animateurs s'attachèrent au cours de ces discussions à mettre l'accent sur la vulgarisation et les problèmes qu'elle rencontre (organisation, technique, finances, personnel, formation ...), tout en insistant sur la similitude des problèmes dans les différents pays.
+
+4.2 Aspects techniques de la pisciculture
+
+Cinq matinées furent consacrées à différents aspects techniques de la pisciculture du tilapia telle qu'elle est pratiquée en Côte-d'Ivoire. Les principales technologies discutées eurent pour sujets: les méthodes d'élevage appliquées en milieu rural, la production d'alevins d'empoissonnement, les élevages piscicoles associés au petit élevage, le programme UNICEF des étangs scolaires, et les élevages de poissons en cages flottantes.
+
+Chaque séance débuta par une brève visite d'installations piscicoles illustrant le thème technique du jour.
+
+Deux excursions dans le Centre-Ouest et le Nord du pays permirent aux stagiaires de voir des réalisations piscicoles variées: ferme piscicole pilote de Natio-Kobadara (Korhogo), Groupement à Vocation Coopérative (GVC) de Nambekaha, petites et moyennes entreprises privées, centre d'alevinage, élevage en cage lacustre et recyclage des déchets d'abattoir par la pisciculture.
+
+Ces visites furent complétées au niveau de la recherche et de la formation par celles des installations de recherche piscicole de l'IDESSA, du Centre de Formation Piscicole de Bouaké, et des installations du Projet d'aquaculture lagunaire à Jacqueville.
+
+4.3 Communication et vulgarisation
+
+4.3.1 Notions de base et méthodes
+
+La vulgarisation étant un processus éducatif, l'on s'y trouve toujours en situation de communication. Il était donc important au départ de discuter les notions de base de la communication et de décrire un certain nombre de techniques/méthodes qu'elle utilise.
+
+La communication pédagogique est un processus par lequel il y a transfert d'information entre deux ou plusieurs "organismes" et par lequel il y a une rétention de l'information (mémorisation).
+
+Quelques importantes caractéristiques de la communication furent soulignées :
+a. La communication a trois composantes: l'émetteur, le récepteur et le message. A chaque information transmise, il faut un feed-back du récepteur pour que l'émetteur puisse estimer l'impact de son message et le réajuster si nécessaire.
+b. Le message doit être formulé selon un code qui doit être parfaitement compréhensible par le récepteur. En vulgarisation rurale, il ne faut pas seulement parler la même langue mais, d'une manière générale, il faut utiliser un langage de signes compréhensible du paysan.
+c. Le rapport récepteur/émetteur permet de distinguer divers types de communication: individuelle, de groupe, de masse.
+d. Pour faciliter la commumication et augmenter son efficacité, surtout quand le nombre de récepteurs augmente, on utilise divers moyens ou supports, soit audio-visuels, soit scripto-visuels. L'ouïe et la vue sont en effet, dans ce domaine, les deux sens fondamentaux les plus importants.
+
+Les stagiaires s'efforcèrent ensuite de mieux cerner ce qu'était la vulgarisation agricole, quels pouvaient être ses objectifs et le rôle des vulgarisateurs. Ils apprirent à faire la distinction entre une action d'encadrement où l'on dicte aux gens ce qu'ils doivent faire et une action de vulgarisation où, par l'éducation, l'on amène les gens à faire quelque chose de nouveau ou de mieux pour résoudre un problème. En cours de vulgarisation, les bénéficiaires doivent être considérés non comme des subalternes, mais comme des partenaires que le vulgarisateur commence par écouter, avant d'élaborer et de transmettre un message basé sur ses connaissances techniques.
+
+De nombreux exemples ont ensuite permis d'illustrer les multiples problèmes de communication qui peuvent se poser en vulgarisation rurale, comme par exemple: le problème de langue et la déformation du message qui en résulte, la traduction du vocabulaire technique, le choix du lieu de vulgarisation, l'importance des traditions locales, l'identité du récepteur, et le manque de polyvalence des vulgarisateurs.
+
+Les stagiaires se familiarisèrent alors avec les principaux moyens/supports audio-visuels et scripto-visuels servant à la communication et à la vulgarisation, tant au niveau individuel qu'au niveau de groupe. Leur utilisation ainsi que leurs avantages et inconvénients respectifs, des points de vue pédagogique et financier, furent présentés.
+
+Les réalisations faites dans ces domaines par l'IAB et par le projet piscicole PNUD/FAO telles que livrets, T-shirts, films fixes, flanellographe, et disques Viewmaster permirent de bien illustrer les débats. La portée que pouvaient avoir les affiches, en tant qu'outil de vulgarisation, et leurs schémas de construction furent également décrits.
+
+Dans l'intervention consacrée à la dynamique de groupe, l'on se limita à traiter de la formation mutuelle, c'est-à-dire des techniques utilisées pour faire en sorte que la discussion d'un groupe progresse d'elle-même, l'animateur ne venant en appoint qu'une fois que les ressources du groupe sont épuisées. Par exemple, pour faire adopter une nouvelle technique agricole l'on dynamise un groupe restreint de paysans en vue de l'identification des problèmes, de l'encadrement, et de la prise de responsabilité. Le schéma directeur consiste alors successivement en une approche sociologique plus ou moins détaillée du groupe; un inventaire des techniques et méthodes utilisées; la constitution d'un ou plusieurs groupes, avec les problèmes de composition des groupes (acceptation, homogénéité, richesse), les problèmes techniques, et ceux liés à la définition des objectifs et sous-objectifs (processus par étapes); le suivi et l'assistance de groupes.
+
+L'intervention et les discussions consacrées à la conduite de réunions permirent d'examiner les types de réunion en fonction de leurs objectifs, les phases de déroulement d'une réunion, les conditions de bon déroulement d'une réunion, et le rôle qu'y joue l'animateur. Le succès d'une réunion, quelqu'en soit le type (information, discussion, créativité, formation), réside principalement dans une bonne préparation par l'animateur: précision des objectifs, choix des participants, préparation d'un plan de réunion, et préparation matérielle de la réunion.
+
+Cette préparation de la réunion en assure le bon déroulement à condition que l'animateur respecte les deux rôles qui lui sont dévolus, à savoir :
+a. faire progresser la réunion en l'introduisant, en dirigeant les débats, en posant des questions, en reformulant ce qui est dit, et en faisant les synthèses partielles et finales;
+b. régulariser les relations entre les participants, en gardant une stricte neutralité.
+
+4.3.2 Exercices de communication
+
+En guise d'exercice pratique, les stagiaires organisèrent une mini-réunion où ils se partagèrent les différents rôles d'animateur, d'observateur et de participants, pour discuter des résultats d'un sondage d'opinion. Ceci permit de rappeler certains principes énoncés auparavant, en insistant sur les problèmes rencontrés au cours de cette session pratique.
+
+Les stagiaires eurent également l'occasion au cours de deux longues séances de s'exercer, en groupe, à l'usage du flanellographe et au montage sonorisé de diapositives (diaporama), avec l'aide du matériel du projet PNUD/FAO.
+
+4.3.3 Exemples de vulgarisation rurale
+
+Au cours de quatre exposés, les stagiaires se firent une idée de la manière dont on pouvait organiser un programme de vulgarisation, qu'il s'agisse de développement agricole (cas de la Compagnie Ivoirienne de Développement des Textiles - CIDT et du Projet Agricole Centre-Ouest - PACO) ou de développement piscicole (projets de vulgarisation de la pisciculture en Côte-d'Ivoire et en République Centrafricaine).
+
+La localisation du stage à Bouaké permit aux participants de mieux comprendre le fonctionnement d'un projet de vulgarisation piscicole. De multiples contacts avec le personnel technique du projet piscicole, avec les agents responsables de vulgarisation sur le terrain, ainsi qu'avec les pisciculteurs ruraux purent être facilement organisés.
+
+Les stagiaires purent également voir comment travaillent les agents piscicoles de vulgarisation en assistant à une séance d'animation dans un village.
+
+4.3.4 La communication par les médias
+
+La communication par les médias fut étudiée au travers de trois exposés concernant les presses écrites et radio-télévisées qui, en Côte-d'Ivoire, sont fréquemment utilisées pour la vulgarisation.
+
+Les objectifs complémentaires de sensibilisation, d'information, de démonstration et d'animation de la Radio-Télévision Ivoirienne dans ce domaine furent présentés.
+
+Il est important d'avoir une relation suivie entre le producteur, le technicien et l'auditeur. Grâce au feed-back, ceci permet de corriger et d'adapter l'information pour qu'elle puisse mieux passer. Il faut aussi avoir une caméra descriptive qui délivre un message simple et clair, plûtôt qu'une caméra artistique qui empêche le message d'être bien perçu. Un exemple concret fut donné avec la présentation de "Télé pour tous", une émission thématique de sensibilisation à des problèmes spécifiques, qui peuvent être indifféremment agricoles, piscicoles ou éducatifs.
+
+La présentation de "Terre et Progrès", journal trimestriel de vulgarisation publié en Côte-d'Ivoire, permit aux stagiaires de mieux comprendre les processus de conception et de fabrication d'un journal destiné au milieu rural. L'objectif de ce journal est l'amélioration qualitative et quantitative des productions agricoles afin de relever le niveau de vie des paysans. Ce type de journal, qui arrive directement en support d'une campagne d'alphabétisation, constitue le premier matériel de lecture pour la masse rurale et permet de soutenir les connaissances acquises.
+
+Afin d'assurer son rôle de vulgarisation, ce journal contient une grande partie (50%) de conseils pratiques pour les productions agricoles, l'hygiène et la cuisine, le reste étant constitué d'informations régionales et nationales. Il met aussi l'accent sur le dialogue entre les dirigeants et la masse rurale. Il est conçu de manière simple, avec illustrations, gros titres et mots accessibles. Il gagne encore en efficacité par la lecture de certains articles à la radio.
+
+4.3.5 Table ronde sur la vulgarisation
+
+Après trois semaines de stage, une table ronde a rassemblé autour des stagiaires un certain nombre de conférenciers qui étaient déjà intervenus à l'un ou l'autre titre, dans le cadre du stage. son objectif était de faire le point sur ce qui avait été dit et vu. Tout particulièrement, il fallait d'une part cerner les rôles et qualités d'un bon vulgarisateur et, d'autre part, récapituler les différentes méthodes utilisées, leurs caractéristiques, leurs avantages et inconvénients.
+
+Les discussions portèrent longuement sur l'importante distinction à faire entre l'encadreur qui réfléchit à la place des paysans pour leur faire atteindre un objectif et le vulgarisateur qui fait réfléchir les paysans en vue d'adopter la technique qui permet d'atteindre l'objectif.
+
+Pour résumer ce qui avait été dit les semaines précédentes, les participants à la table ronde s'attachèrent alors à réunir en un tableau synthétique (Tableau 1) les différentes méthodes de vulgarisation. Ceci leur permit d'en discuter leurs cibles, leurs objectifs, leurs supports audio-visuels et scripto-visuels, ainsi que les avantages et inconvénients de chacune.
+
+4.4 Planification et évaluation de projets de développement
+
+Il est nécessaire qu'au niveau national, le Gouvernement ait la volonté politique d'intégrer la pisciculture au développement. Dans cette optique, une politique axée sur l'autosuffisance alimentaire est généralement profitable au développement de la pisciculture.
+
+Au niveau sectoriel, on a souligné l'absence quasi complète de planification piscicole à long-terme et, d'une manière générale, l'absence d'étude des grands facteurs environnementaux qui entrent en ligne de compte comme par exemple le milieu physique et institutionnel, l'espace terre/eau, la technologie, la production, et la commercialisation.
+
+Généralement l'on se contente d'études à court terme ou à moyen terme. Celles-ci permettent à la fois une utilisation rationnelle des moyens nécessaires à la réalisation d'objectifs précis et une évaluation aisée des progrès réalisés. Dans ce cadre, on utilise le système de projets qui sont des activités planifiées et entreprises pour un laps de temps déterminé, souvent court, et avec des objectifs bien précis.
+
+Les contraintes sont bien souvent celles des bailleurs de fonds et des gouvernements qui limitent la durée des projets pour des raisons financières, tout en imposant aux techniciens des objectifs trop ambitieux, pour des raisons de prestige.
+
+On souligna également la nécessité d'inclure dans la planification d'un projet, son évaluation et de définir pour ce faire des critères mesurables.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+5. EVALUATION DU STAGE
+
+Ce stage de perfectionnement destiné aux responsables de la vulgarisation piscicole était le premier du genre organisé en Afrique. Il était donc particulièrement intéressant d'en faire une évaluation pour le futur.
+
+Le questionnaire d'évaluation (Tableau 2), formulé par le Service de la Formation Continue de l'IAB, fut rempli par les participants le dernier jour du stage. Sur cette base, l'évaluation chiffrée de chaque aspect du stage fut faite selon l'une des trois échelles suivantes :
+* nombre de réponses oui ou non, exprimé en pourcentage;
+* pour l'évaluation de l'environnement, des objectifs et de l'utilité des activités, échelle de 1 à 5, avec 1 comme la plus mauvaise note et 5 la meilleure;
+* pour l'allocation du temps aux activités, échelle de 1 à 5 avec 3 comme meilleure note et une diminution de part et d'autre.
+
+Les résultats de cette évaluation chiffrée (Tableau 3) sont discutés dans les sections suivantes.
+
+5.1 Orientation du stage
+
+Il apparaît que, pour 75% des participants, les objectifs généraux du stage étaient clairs, avant leur arrivée; 93.8% d'entre eux estiment ce stage approprié à leurs responsabilités professionnelles; les aménagements financiers, par contre, n'apparaissent clairement qu'à 25% d'entre eux. Ceci est probablement dû à la diffusion tardive, pour raisons administratives, de l'information ad hoc.
+
+5.2 Environnement de la formation (Tableau 3)
+
+5.2.1 Hébergement
+
+La qualité de l'hébergement a été très sévèrement jugée par les participants (x = 1.56). Ceci concerne particulièrement les conditions de logement à l'IAB (confort, propreté et équipement jugés insuffisants) et, dans une moindre mesure, la qualité des repas (monotonie) fournis par l'IAB.
+
+L'hébergement à l'hôtel (logement et repas) a été reconnu comme bon lors des excursions sur le terrain. Cet environnement favorable a été considéré comme l'un des facteurs de succès de ces visites.
+
+5.2.2 Equipement pour les séances de formation
+
+Malgré quelques problèmes techniques, les participants sont dans l'ensemble assez satisfaits (x = 3.93) des équipements utilisés pour les séances de formation.
+
+5.2.3 Supports administratifs et pédagogiques
+
+Les supports administratifs et pédagogiques sont plus critiqués (x = 3.6), en raison notamment de problèmes concernant la propreté des salles de réunion et la distribution tardive de certains documents. C'est surtout le support administratif qui a été considéré comme assez désorganisé et peu efficace.
+
+5.3 Objectifs du stage (Tableau 3)
+
+5.3.1 Echange d'expériences
+
+D'une manière générale, cet objectif est considéré par les participants comme atteint (x = 3.93). Les échanges d'expérience, particulièrement lors des exposés des rapports nationaux, ont été très appréciés. Les possibilités de contacts et de discussions avec les responsables lors des visites de terrain ont été également jugées très positives et enrichissantes. Quelques réserves ont été émises vis-à-vis de certains intervenants dont les exposés trop magistraux n'ont guère laissé de place aux échanges de vues.
+
+5.3.2 Connaissances techniques nouvelles
+
+Cet objectif est également jugé atteint de manière satisfaisante (x = 3.87) par les participants. La plupart d'entre eux estiment avoir très utilement complété leurs connaissances dans ce domaine.
+
+5.3.3 Communication et vulgarisation
+
+Malgré quelques répétitions dans les exposés et des problèmes de présentation pour quelques intervenants, ces objectifs sont considérés comme vraiment bien atteints (x = 4.20). Il semble qu'il y avait chez les participants un réel besoin d'information concernant à la fois la théorie et les techniques de communication/vulgarisation.
+
+5.3.4 Planification et évaluation d'un projet de développement
+
+Cet objectif n'a été que partiellement atteint (x = 2.47), essentiellement, selon les stagiaires, parce que l'intervenant n'a pas réussi à maîtriser son sujet, intéressant en lui-même et dont nombre d'entre eux attendaient beaucoup.
+
+5.4 Organisation et conduite du programme (Tableau 3)
+
+5.4.1 Utilité des différentes activités
+
+D'une mainère générale, les différentes activités ont été jugées utiles. Les exposés sont jugés le plus sévèrement, à cause de quelques recouvrements entre eux, de quelques longueurs dans les présentations, et du ton parfois trop magistral de certains intervenants. Cela se ressent également dans l'appréciation des contacts avec eux (x = 3.63). Les discussions en grand groupe ont été jugées un peu trop bavardes (x = 4.06), au contraire des discussions en petits groupes (x = 4.38). Les participants ont beaucoup apprécié le partage des expériences nationales (x = 4.06) et surtout les visites sur le terrain (x = 4.38). Celles-ci ont été considérées extrêmement instructives pour illustrer les problèmes rencontrés en vulgarisation et les solutions proposées.
+
+5.4.2 Allocation du temps aux activités (Tableau 3)
+
+Les exposés ont été jugés trop envahissants (x = 3.94), en partie par leur nombre, mais surtout parce que plusieurs d'entre eux auraient gagné en concision.
+
+Le temps alloué aux autres activités a été estimé légèrement insuffisant, particulièrement pour les discussions en petits groupes (x = 2.31) et le partage des expériences nationales (x = 2.26).
+
+5.4.3 Durée quotidienne des activités
+
+Une majorité des participants (92.3%) a estimé que l'emploi du temps quotidien (env. 7 h/j) était trop chargé, et qu'il n'y avait pas assez de temps libre.
+
+5.4.4 Durée totale du stage
+
+Elle a été estimée adéquate par 42.9% des participants. Un pourcentage identique l'a estimée trop longue, arguant à la fois d'une perte de concentration due à la fatigue et de certaines répétitions.
+
+5.4.5 Niveau des présentations
+
+Le niveau des présentations a été estimé adéquat, ni trop simple, ni trop complexe, par la grande majorité (78.6%) des participants.
+
+5.4.6 Ordre des sujets et des visites
+
+Une plus grande majorité encore (86.7%) s'est déclarée satisfaite du programme tel que proposé.
+
+5.4.7 Partage d'idées et d'expérience avec le groupe
+
+La presque totalité des participants (93.8%) est satisfaite du degré de partage d'idées et d'expérience avec les autres participants.
+
+5.5 Excursions et visites techniques
+
+5.5.1 Facteurs positifs
+
+Les conditions matérielles ont été parmi les plus importants facteurs de succès des visites : bon transport et bonne qualité de l'hébergement et de la restauration.
+
+La disponibilité des responsables visités ainsi que la qualité et la chaleur de l'accueil reçu ont été énormément appréciées.
+
+Les possibilités de discussion ont été jugées très positives. Les participants ont également apprécié la sélection des réalisations visitées, la bonne organisation générale des visites et leur exploitation en groupe au retour.
+
+5.5.2 Facteurs négatifs
+
+Comme facteurs négatifs, sont principalement cités une certaine surcharge du temps, des problèmes d'organisation et des défauts de ponctualité.
+
+5.5.3 Suggestions des stagiaires
+
+Sur l'ensemble, près de 50% des participants ne trouvent rien à redire à l'organisation matérielle et pédagogique des visites. Quelques suggestions ont été faites en fonction des facteurs négatifs énumérés ci-dessus, à savoir de meilleures programmation et organisation, un programme allégé, et une ponctualité plus soignée.
+
+5.6 Contenu du stage
+
+5.6.1 Sujets à développer ou à supprimer
+
+Parmi les sujets à développer, cinq ont été considérés comme particulièrement importants :
+* la vulgarisation (31% des participants);
+* la communication en général (25%);
+* la technique de conduite de réunion (25%);
+* la planification de projets et leur évaluation (19%);
+* les exposés des participants eux-mêmes (12.5%).
+
+Les sujets à ajouter concernent surtout les techniques piscicoles comme par exemple l'élevage de poisson en enclos, mais ils sont suggérés isolément.
+
+Les sujets à écourter ou à omettre sont essentiellement les exposés sur les médias et les questions de planification/évaluation. Il semble que ce soit là une réaction de rejet plus des intervenants que des sujets eux-mêmes, la qualité des interventions ayant été mise en cause par ailleurs.
+
+5.6.2 Liens avec le travail
+
+La grande majorité des participants estime que les sujets et les problèmes traités ont beaucoup de liens avec leur propre travail (x = 4.33).
+
+5.7 Satisfaction générale des participants
+
+L'indice de satisfaction générale est relativement élevé (x = 3.81), les réserves émises concernant les conditions matérielles à l'IAB et certaines longueurs dans le stage. Les participants ont positivement souligné les connaissances acquises, particulièrement dans le domaine de la communication, ainsi que l'intérêt des échanges de vue avec leurs collègues.
+
+En conclusion, 93.8% des participants estiment qu'un tel stage est à recommander pour des techniciens qui ont le même genre de formation qu'eux. Plusieurs participants sont d'avis que ce genre de stage, très enrichissant, devrait être organisé régulièrement, tous les 1 ou 2 ans par exemple.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+6. CONCLUSIONS GENERALES
+
+Les participants qui, avant le début du stage, estimaient que celui-ci était approprié à leurs responsabilités professionnelles, se sont trouvés confortés dans leur opinion, les problèmes traités ayant recontré leurs préoccupations professionnelles de manière très positive. Ils ont particulièrement apprécié d'avoir pu échanger leurs expériences et ils ont souhaité pouvoir faire de même dans l'avenir.
+
+Les problèmes de communication et de vulgarisation qui constituaient l'axe principal du programme ont rencontré une adhésion générale. Dans cette optique, le programme d'un futur stage devrait être légèrement modifié :
+* en diminuant le temps consacré aux exposés;
+* en consacrant plus de temps aux travaux pratiques et aux discussions concernant la communication et la vulgarisation.
+
+De tels stages semblent particulièrement bien adaptés à des techniciens responsables du développement piscicole à l'échelle nationale. L'organisation de stages similaires à intervalle régulier pourrait positivement influencer le développement de la pisciculture rurale en Afrique.
+
+Tableau 1
+
+Récapitulatif sur les méthodes de vulgarisation
+
+Famille de méthodes Exemples de méthodes Cible Objectifs Supports et moyens scripto- et audio-visuels Avantages Inconvénients
+Individuelles Contact direct
+Entretien
+Visite-démonstration
+Interview L'individu o Informer o Viewmaster o Formation intense et rapide o Coûteux
+- le paysan artisan. o Sensibiliser o Contact direct (parole-dessin)
+industr. o Former
+- le fonctionnaire o Suivre o Démonstration o Création des relais
+- le commerçant o Evaluer o Fiches techniques
+o Documents divers etc. o Exemple pilote
+De groupe Réunions
+Visites guidées
+et commentées
+Participation
+au travail Un groupe o Identifier les besoins o Conférences o Démultiplication de l'action de vulgarisation o Risques de blocage si anim. trop directive
+- un groupe de paysans o Echanges d'exp.
+o Créer une complicité paysans/ o Diapositives
+- les écoles o Tableau o Dynamique de groupe
+- un groupe informel animateurs o Flanellographe o Risques de transfert des problèmes du village au projet
+- une coopérative o Informer o Films o Plus économique en temps, hommes et moyens
+- un groupe traditionnel o Sensibiliser o Réalisations d'un travail
+o Former
+o Suivre
+o Evaluer
+De masse Symposium
+Meeting
+Expositions/foires
+Emissions radio/TV
+Affiches
+Conférences La masse - le pays o Informer o Presse journaux o Stockage de l'information o Coût de départ élevé
+- un groupe régional o Former revues
+- un grand groupe de spécialistes o Sensibiliser o Télévision o Touche beaucoup de gens o Communication souvent sans retour
+o Evaluer o Radio
+- tout le monde o Mass média o Permet d'identifier les plus intéressés
+- des groupes informels o Affiches o Risques de mauvaise interprétation du message
+
+Tableau 2
+
+Questionnaire d'évaluation
+
+Entourez votre réponse
+
+A. Orientation du séminaire
+
+Avant votre arrivée au lieu du séminaire :
+
+1. Les objectifs généraux du cours étaient-ils clairs ? oui non
+2. Les aménagements financiers étaient-ils clairs ? oui non
+3. Ce séminaire était-il approprié pour vos responsabilités professionnelles ? oui non
+Commentaires 
+
+B. Environnement de la formation
+
+Indiquez votre satisfaction avec les aménagements suivants :
+
+Pas du tout
+satisfait modérément
+satisfait très
+satisfait
+hébergement 1 2 3 4 5
+équipement pour les séances de formation 1 2 3 4 5
+supports administratifs et pédagogiques 1 2 3 4 5
+Commentaires
+
+C. Objectifs du séminaire
+
+Indiquez votre atteinte pour chacun des objectifs suivants :
+
+pas
+atteint partiellement
+atteint pleinement
+atteint
+Objectif 1
+Echange d'expériences 1 2 3 4 5
+Objectif 2
+Apport de connaissances
+nouvelles (fiches techniques) 1 2 3 4 5
+Objectif 3
+Communication vulgarisation 1 2 3 4 5
+Objectif 4
+Planification d'action de vulgarisation
+Evaluation d'un projet de vulgarisation 1 2 3 4 5
+
+Commentaires sur l'atteinte des objectifs du séminaire
+
+D. Organisation et conduite du programme
+
+1. Les activités suivantes étaient-elles utiles à faciliter votre apprentissage?
+
+pas du tout
+utile modérément
+utile très
+utile
+Exposé 1 2 3 4 5
+Discussion en grand groupe 1 2 3 4 5
+Discussion en petit groupe 1 2 3 4 5
+Partage d'expériences nationales
+(exposés des participants) 1 2 3 4 5
+Visites sur le terrain 1 2 3 4 5
+Contacts avec les intervenants 1 2 3 4 5
+Commentaires
+
+2. Le temps alloué à chacune des activités était:
+
+trop peu juste beaucoup trop
+Exposé 1 2 3 4 5
+Discussion en grand groupe 1 2 3 4 5
+Discussion en petit groupe 1 2 3 4 5
+Partage d'expériences nationales 
+(exposés des participants) 1 2 3 4 5
+Visites sur le terrain 1 2 3 4 5
+Contacts avec les intervenants 1 2 3 4 5
+Commentaires 
+
+3. L'emploi du temps quotidien était: trop court - juste - trop long
+4. La durée totale du séminaire était: trop courte - juste - trop longue
+5. Le niveau des présentations était: trop court - juste - trop complexe
+6. Etiez-vous satisfait de l'ordre des sujets et des visites ? oui - non
+- sinon, que changeriez-vous ? 
+7. Etiez-vous satisfait du degré de partage d'idées et d'expérience avec le groupe ? oui - non
+
+E. Sorties - visites
+1. Quels sont les facteurs qui ont contribué aux succès des visites ?
+2. Quels sont les facteurs qui ont terni le succès des visites ?
+3. Suggestions pour améliorer l'efficacité des rencontres sur les terrain.
+
+F. Contenu du séminaire
+
+1. Pour ce séminaire, quels sujets aimeriez-vous:
+* développer
+* ajouter
+* écourter
+* omettre
+
+pas de
+liens assez peu
+de liens beaucoup
+de liens
+2. Les sujets et les problèmes discutés avaient-ils un lien direct avec votre travail? 1 2 3 4 5
+Commentaires
+
+G. Satisfaction générale
+
+pas du tout
+satisfait modérément
+satisfait très
+satisfait
+1. Veuillez indiquer votre satisfaction générale pour le séminaire: 1 2 3 4 5
+Commentaires
+
+2. Recommanderiez-vous un tel séminaire à quelqu'un qui a la même formation que vous ?
+
+oui - non
+
+Avez-vous d'autres commentaires ?
+
+H. Informations personnelles
+
+Ces informations doivent nous permettre d'adapter les présentations du séminaire de façon à les harmoniser avec les expériences et les formations des participants. Nous apprécierions toutes informations que vous voudriez bien nous donner.
+1. Quels est votre domaine de formation ?
+2. Combien d'années d'expérience avez-vous ?
+3. Veuillez cocher le niveau académique le plus élevé que vous avez atteint (ou son équivalent):
+
+Diplôme secondaire APVA Ingénieur des techniques
+Ingénieur agronome ou forestier Docteur ingénieur
+4. Indiquez votre pays d'origine: 
+5. Sexe: masculin féminin
+
+Tableau 3
+
+Evaluation du Stage de perfectionnement
+
+Environnement de la formation Moyenne^1
+- Hébergement 1.56
+- Equipement pour les séances de formation 3.93
+- Supports administratifs et pédagogiques 3.60
+
+
+Objectifs du stage Moyenne^1
+- Echange d'expériences 3.93
+- Connaissances techniques 3.87
+- Communication/Vulgarisation 4.20
+- Planification/Evaluation 2.47
+
+
+Utilité des activités Moyenne^1
+- Exposés 3.47
+- Discussion en grand groupe 4.06
+- Discussion en petit groupe 4.38
+- Partage expériences nationales 4.00
+- Visites sur le terrain 4.00
+- Contacts avec intervenants 3.63
+
+
+Allocation du temps aux activités Moyenne^2
+- Exposés 3.94
+- Disucssions en grand groupe 2.69
+- Discussions en petit groupe 2.31
+- Partage expériences nationales 2.26
+- Visites sur le terrain 2.75
+- Contacts avec intervenants 2.60
+
+
+^1 Echelle 1-5; meilleure note 5
+
+^2 Echelle 1-5; meilleure note 3
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières
+
+
+ANNEXE I
+Liste des participants
+
+Bénin
+
+Pascal Tauzes
+Projet Développement de la Pisciculture
+B.P. 03-1041
+Cotonou
+
+Burkina Faso
+
+Lassane Ouedraogo
+Direction Provinciale de l'Environnement et du Tourisme du Sourou-Tougan
+Ministère de l'Environnement et du Tourisme
+Ouagadougou
+
+Burundi
+
+Elie Ntamasambiro
+Département des Eaux et Forêts
+B.P. 631
+Bujumbura
+
+Congo
+
+Edouard Kali-Tchikati
+Projet PNUD/FAO PRC/79/007
+Service de Vulgarisation Piscicole
+B.P. 1650
+Brazzaville
+
+Côte-d'Ivoire
+
+Lambert Bagui
+Projet PNUD/FAO IVC/84/001
+Développement de la Pisciculture Rurale
+Secteur Piscicole de Daloa
+B.P. 76
+Daloa
+
+Jeannette Coffi (Mlle)
+Direction des Pêches
+Ministère du Développement Rural
+08 B.P. 2488
+Abidjan 08
+
+Venance Dapou
+Projet de Développement Aquaculture Lagunaire
+B.P. 35
+Bingerville
+
+Brognan Koffi
+Ministère du Développement Rural
+Secteur Piscicole Sud
+13 B.P. 982
+Abidjan 13
+
+Irie Kouame Bi
+Project PNUD/FAO IVC/84/001
+Développement de la Pisciculture Rurale
+Secteur Piscicole de Katiola
+B.P. 494
+Bouaké
+
+Gabon
+
+Guy-Jeannot Bourobou Bourobou
+Direction de la Pêche
+Continentale et de la Pisciculture
+B.P. 1128
+Libreville
+
+Mali
+
+Odile Camara (Mlle)
+Direction Nationale des Eaux et Forêts
+B.P. 275
+Bamako
+
+Niger
+
+Zakara Anza
+Direction des Pêches et de la Pisciculture
+B.P. 721
+Niamey
+
+République Centrafricaine
+
+Paul C. Abakar
+Direction du Centre Piscicole National
+B.P. 2071
+Bangui
+
+Rwanda
+
+Nathanael Hishamunda
+Projet Pisciculture Nationale
+B.P. 132
+Butare
+
+Sénégal
+
+Mamadou Badji
+Station Piscicole de Bakel
+Direction des Eaux et Forêts
+B.P. 1831
+Dakar-Hahn
+
+Tchad
+
+Lassou Kourdina
+Direction des Eaux et Forêts
+B.P. 447
+Ndjamena
+
+Togo
+
+Kobla Amegavie
+Direction des Productions Animales
+Ministère du Développement Rural
+B.P. 4041
+Lomé
+
+Zaire
+
+Longangi Mughusu
+Direction Projet Pisciculture Familiale
+B.P. 1573
+Kinshasa
+
+ANNEXE II
+Programme du stage
+
+Samedi 16 novembre 1985 
+Arrivée des stagiaires 
+Dimanche 17 novembre 1985 
+Arrivée des stagiaires 
+Première semaine 
+Lundi 18 novembre 1985 
+Accueil des stagiaires 
+Ouverture du stage 
+Présentation du stage, de ses objectifs et de son déroulement D. Morin/B. Eddy/ F. Demoulin
+Mardi 19 novembre 1985 
+Les éléments clefs du processus de communication P. de Vareilles
+Définition et objectifs de la vulgarisation agricole D. Morin
+Exposés des stagiaires (rapports nationaux I) 
+Mercredi 20 novembre 1985 
+Visite de terrain (Bouaké) M. Holl
+Les méthodes d'élevage (fiches techniques) M. Holl
+Moyens et supports de communication utilisés en formation et vulgarisation F. Rossin
+Exposition commentée de certains supports scripto- et audio-visuels G. Lagou/E. Koffi
+Jeudi 21 novembre 1985 
+Expérience de vulgarisation piscicole en Côte-d'Ivoire M. Diarra/ C. Nugent/E. Koffi
+Les problèmes de communication spécifique posés par la diffusion de l'information auprès des paysans L Sarazin/B. Toure
+Vendredi 22 novembre 1985 
+Visite de terrain (Bouaké) G. Mievis
+Les élevages associés G. Mievis
+Atelier diaporama/Atelier flanellographe G. Lagou/E. Koffi
+Samedi 23 novembre 1985 
+Les affiches A.-M. Rossin
+Atelier diaporama/Atelier flanellographe G. Lagou/E. Koffi
+Deuxième semaine 
+Lundi 25 novembre 1985 
+Visite de terrain 
+(Bouaké - Station d'alevinage de La Loka) J. Nugent
+Fiches techniques sur la production d'alevins M. Holl
+Exposés des stagiaires (II) 
+Mardi 26 novembre 1985 
+La vulgarisation au Projet Agricole du Centre-Ouest (PACO) R. Diaba
+Exposés des stagiaires (III) 
+Mercredi 27 novembre 1985 
+Visite de terrain (étangs scolaires) F. Gueu
+Le programme UNICEF des étangs scolaires F. Gueu
+Méthodes d'élevage appliquées aux étangs scolaires M. Holl
+Exposés des stagaires (IV) 
+Jeudi 28 novembre 1985 
+Voyage à Daloa par route 
+Visite de réalisations piscicoles aux environs de Daloa 
+Vendredi 29 novembre 1985 
+Transfert Daloa-Gagnoa 
+Visite de réalisations piscicoles aux environs de Gagnoa 
+Samedi 30 novembre 1985 
+Transfert Gagnoa-Yamoussoukro via Zahakro 
+Visite d'un élevage en cage à Zahakro 
+Visite de Yamoussoukro et retour à Bouaké 
+Troisième semaine 
+Lundi 2 décembre 1985. 
+Exploitation de la sortie dans le Centre-Ouest D. Morin/B. Eddy
+Les méthodes de vulgarisation de groupe. Cas de la CIDT A. Affro
+Conduite de réunion/Dynamique de groupe R. Kattar/M. Kouyate
+Mardi 3 décembre 1985 
+Dynamique de groupe/Conduite de réunion M. Kouyate/R. Kattar
+Exploitation de la sortie dans le Centre-Ouest D. Morin/B. Eddy
+Projection de films (illustration de dynamique de groupe) M. Kouyate
+Mercredi 4 décembre 1985 
+Présentation de la Radio Télévision Ivoirienne et de son action de vulgarisation M. Diallo
+Présentation de l'émission "Télé pour tous" G. Koffi
+Jeudi 5 décembre 1985 
+Aspects de la pisciculture en République Centrafricaine J.-P. Marquet
+Présentation du journal "Terre et Progrès" C. Nda
+Exploitation de la sortie dans le Centre-Ouest D. Morin/B. Eddy
+Vendredi 6 décembre 1985 
+Table ronde sur la vulgarisation - D. Morin/B. Eddy/
+Essai de synthèse A. Ziehi/F. Demoulin/
+J.-P. Marquet/F. Kamara/
+C. Nda/J. et A. Depelchin
+Samedi 7 décembre 1985 
+Fête Nationale en Côte-d'Ivoire 
+Quatrième semaine 
+Dimanche 8 décembre 1985 
+Départ pour Korhogo 
+Lundi 9 décembre 1985 
+Visite de la ferme piscicole de la SODEPRA-Nord à Korhogo 
+Visite du GVC de Nambekaha 
+Visite du village de Waraniéné 
+(Coopérative de tisserands) 
+Mardi 10 décembre 1985 
+Visite de la ferme-pilote de Natio-Kobadara 
+Visite de l'élevage piscicole du Centre d'Embouche de Ferkéssédougou 
+Retour à Bouaké 
+Mercredi 11 décembre 1985 
+Exploitation de la sortie dans le nord D. Morin/B. Eddy
+L'élevage de poisson en cage G. Amoikon
+Planification de la pisciculture C. Nugent
+Jeudi 12 décembre 1985 
+Visites: centre de recherche piscicole de l'IDESSA; Centre de Formation Piscicole (CFP) de Bouaké; Atelier de production d'aliments piscicoles du Projet PNUD/FAO - IVC/84/001 
+Planification de la pisciculture (suite) C. Nugent
+Vendredi 13 décembre 1985 
+Evaluation finale du stage 
+Cérémonie de clôture du stage 
+Transfert à Abidjan par la route 
+Samedi 14 décembre 1985 
+Visite du Projet de Développement de l'Aquaculture Lagunaire à Jacqueville 
+Fin du stage et départ des participants 
+
+ANNEXE III
+Intervenants et Secrétariat
+
+A. Intervenants
+
+A. Affro
+Directeur de la Formation
+Compagnie Ivoirienne de Développement des Textiles
+(CIDT)
+
+G. Amoikon
+Chef de l'Inspection Zone Savanes
+Projet PNUD/FAO IVC/84/001
+Bouaké
+
+F. Demoulin
+Consultant FAO - FIRI
+Rome, Italie
+
+J. et A. Depelchin
+Responsables du Programme de Vulgarisation Piscicole
+SODEPRA-Nord
+Korhogo
+
+P. de Vareilles (Mme)
+Formatrice (communication)
+Institut Agricole de Bouaké (IAB)
+Bouaké
+
+R. Diaba
+Formateur
+Projet Agricole du Centre-Ouest (PACO)
+Daloa
+
+M. Diallo
+Directeur régional de la Radio Télévision Ivoirienne
+Bouaké
+
+M. Diarra
+Directeur
+Projet PNUD/FAO IVC/84/001
+Bouaké
+
+B. Eddy
+Formateur
+Institut Agricole de Bouaké
+Bouaké
+
+F. Gueu
+Responsable Programme des Etangs Scolaires et Formation
+Projet PNUD/FAO IVC/84/001
+Bouaké
+
+M. Holl
+Expert en pisciculture
+Projet PNUD/FAO IVC/84/001
+Bouaké
+
+F. Kamara
+Responsable Formation à la SODEFEL
+
+R. Kattar (Mme)
+Psychopédagogue
+Centre de Formation Continue ENSTP
+Yamoussoukro
+
+E. Koffi
+Responsable de la Vulgarisation
+Projet PNUD/FAO IVC/84/001
+Bouaké
+
+G. Koffi
+Réalisateur d'émissions extrascolaires
+Ministère de l'Education Nationale et de la Recherche Scientifique
+
+M. Kouyate
+Directeur
+Centre National de Formation Permanente des personnels de l'éducation (CNFP)
+Bouaké
+
+G. Lagou
+Formateur (audio-visuel)
+Institut Agricole de Bouaké
+Bouaké
+
+J.-P. Marquet
+Expert en vulgarisation piscicole
+Projet PNUD/FAO CAF/80/002
+Bangui, République
+Centrafricaine
+
+G. Mievis
+Expert en gestion et vulgarisation piscicole
+Projet PNUD/FAO IVC/84/001
+Bouaké
+
+D. Morin
+Formateur
+Institut Agricole de Bouaké
+Bouaké
+
+C. Nda
+Responsable
+Direction de la Coupe Nationale du Progrès
+Abidjan
+
+C. Nugent
+Conseiller Technique Principal
+Projet PNUD/FAO IVC/84/001
+Bouaké
+
+J. Nugent (Mme)
+Responsable du Programme Clarias
+Projet PNUD/FAO IVC/84/001
+Bouaké
+
+A.-M. Rossin (Md.)
+Formatrice (scripto-visuel)
+Institut Agricole de Bouaké
+Bouaké
+
+F. Rossin
+Conseiller pédagogique
+Institut Agricole de Bouaké
+Bouaké
+
+L. Sarazin
+Formateur
+Compagnie Ivoirienne de Développement des Textiles
+(CIDT)
+
+B. Toure
+Formateur
+Compagnie Ivoirienne de Développement des Textiles (CIDT)
+
+B. Secrétariat
+
+M. Diarra (Directeur de Stage)
+Directeur
+Projet PNUD/FAO IVC/84/001
+Bouaké, Côte-d'Ivoire
+
+A. Ziehi (Mme) (Chargée de liaison)
+Directeur-adjoint
+Projet PNUD/FAO IVC/84/001
+Bouaké, Côte-d'Ivoire
+
+F. Demoulin
+(Coordination du Stage - Rome/Bouaké)
+Consultant FAO/FIRI
+Rome, Italie
+
+Dr. A.G. Coche
+(Responsable du Stage)
+Fonctionnaire principal (Aquaculture)
+FAO/FIRI
+Rome, Italie
+
+1. Trois stagiaires étudient leurs notes personnelles.
+
+2. Visite guidée d'un groupement piscicole à vocation coopérative, aux environs de Daloa.
+
+3. Entretiens avec des pisciculteurs privés (Daloa).
+
+4. Observations sur la pisciculture en cages flottantes, lac artificiel de Zahakro (Toumodi).
+
+5. Visite guidée de la Ferme piscicole pilote de Natio-Kobadara (Korhogo).
+
+6. Examen des structures piscicoles d'étangs de production. Dans le fond, le bus utilisé au cours du stage pour le transport des stagiaires.
+Back Cover
+
+
+Page précédente Début de page

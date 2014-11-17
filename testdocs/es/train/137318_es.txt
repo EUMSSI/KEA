@@ -1,0 +1,1823 @@
+FAO, Informes de Pesca, No. 192 FID/R192(Es)
+
+Cover
+
+LUCHA CONTRA LA PROPAGACION DE LAS PRINCIPALES ENFERMEDADES TRANSMISIBLES DE LOS PECES
+
+Contenido
+
+
+Informe de la Consulta Gubernamental FAO/OIE sobre una Convención Internacional para Combatir la Propagación de las Principales Enfermedades Transmisibles de los Peces
+
+Sede de la OIE, París (Francia), 25-28 enero 1977
+
+Las denominaciones empleadas en esta publicación y la forma en que aparecen presentados los datos que contiene no implican de parte de la Organización de las Naciones Unidas para la Agricultura y la Alimentación, juicio alguno sobre la condición jurídica de países, territorios, ciudades o zonas, o de sus autoridades, ni respecto de la delimitación de sus fronteras o límites.
+
+M-43
+ISBN 92-5-300275-1
+
+Este libro es propiedad de la Organización de las Naciones Unidas para la Agricultura y la Alimentación, y no podrá ser reproducido, ni en su totalidad ni en parte, por cualquier método o procedimiento, sin una autorización por escrito del titular de los derechos de autor. Las peticiones para tal autorización especificando la extensión de lo que se desea reproducir y el propósito que con ello se persigue, deberán enviarse al Director de Publicaciones, Organización de las Naciones Unidas para la Agricultura y la Alimentación, Via delle Terme di Caracalla, 00100 Roma, Italia.
+
+PREPARACION DE ESTE INFORME
+
+El presente es el texto definitivo del informe aprobado por la Consulta Gubernamental sobre una Convención Internacional para Combatir la Propagación de las Principales Enfermedades Transmisibles de los Peces.
+
+Cita bibliográfica:
+
+Consulta Gubernamental FAO/OIE sobre una Convención Internacional para Combatir la Propagación de las Principales Enfermedades Transmisibles de los Peces, Sede de la OIE, París (Francia), 25-28 enero 1977 (1977)
+
+Inf.Pesca FAO, (192):45 p. Lucha contra la propagación de las principales enfermedades transmisibles de los peces. Informe de la....
+Distribución: 
+Estados Miembros interesados
+Participantes
+Departamento de Pesca de la FAO
+Oficinas Regionales de Pesca de la FAO Conferences-Paris(France). Reports. Diseases. Disease control. International agreements.
+
+ORGANIZACION DE LAS NACIONES UNIDAS PARA LA AGRICULTURA Y LA ALIMENTACION
+Roma, 1977 © FAO
+
+
+Los hiperenlances que remiten a sitios Internet distintos de los de la FAO no implican, de parte de la Organización, ratificación oficial o responsabilidad respecto a opiniones, ideas, datos o productos presentados en dichos sitios, o una garantía de validez acerca de las informaciones que contienen. El único propósito de los enlaces a sitios distintos de los de la FAO es proporcionar otras informaciones disponibles sobre asuntos conexos.
+
+La presente versión electrónica de este documento ha sido preparada utilizando programas de reconocimiento óptico de texto (OCR). La FAO declina cualquier responsabilidad por las eventuales diferencias que puedan existir entre esta versión y la versión original impresa.
+
+
+Contenido
+
+Informe
+
+Introducción
+
+Convocación de la Consulta
+
+Apertura de la Consulta
+
+Aprobación del Programa
+
+Elección de la Mesa
+
+Proyecto de Convención Internacional para Combatir la Propagación de las Principales Enfermedades Transmisibles de los Peces
+
+Texto Revisado del Proyecto de Convención
+
+ARTICULO 1 - Definiciones
+
+2 - Obligaciones Fundamentales
+
+3 - Comercio Internacional de Peces y Huevos de Peces
+
+4 - Certificados Ictiosanitarios Internacionales
+
+5 - Autoridades Certificadoras
+
+6 - Secretaría
+
+7 - Reuniones de las Partes Contratantes
+
+8 - Comité Científico Asesor
+
+9 - Disposiciones Financieras
+
+10 - Informes de las Partes Contratantes
+
+11 - Cooperación Internacional para Combatir las Enfermedades de los Peces
+
+12 - [Solución de Controversias]
+
+13 - Firma, Ratificación, Aceptación, Aprobación y Adhesión
+
+14 - Entrada en Vigor
+
+15 - Enmiendas de la Convención y de los Anexos
+
+16 - Denuncia
+
+17 - Responsabilidades del Depositario
+
+Aspectos Institucionales
+
+Aspectos Técnicos
+
+Aspectos Técnicos Modificados
+
+Anexo I Lista de las especies incluidas en la Convención
+
+Anexo II Certificado 1
+Certificado 2
+Certificado 3
+Certificado 4
+
+Anexo III Instrucciones Generales
+
+Sección 1. Introducción
+
+2. Clasificación de los establecimientos de piscicultura - Cuadros 1 y 2
+
+3. Instrucciones para la extensión de los certificados sanitarios
+
+4. Procedimientos de certificación para salmónidos y huevos de salmónidos
+
+5. Procedimientos de certificación para ciprínidos y huevos de ciprínidos
+
+6. Notas sobre las inspecciones - Cuadro 3
+
+7. Muestreo
+
+8. Histología
+
+9. Procedimientos para el aislamiento e identificación de organismos patógenos
+
+10. Identificación serológica de virus
+
+11. Procedimientos para la detección de la mixosomiasis
+
+12. Procedimientos para la identificación de la furunculosis
+
+13. Procedimiento para la desinfección de huevos embrionados de peces cultivados de la familia Salmonidae
+
+14. Procedimientos para la desinfección de los tanques y otros recipientes utilizados para transportar peces vivos
+
+15. Procedimientos para la desinfección de los tanques y otros recipientes utilizados para transportar huevos de peces
+
+16. Procedimientos recomendados para la desinfección de los establecimientos de piscicultura
+
+Anexo IV Lista de las enfermedades de los peces incluidas en la Convención
+
+Código Zoosanitario Internacional
+
+Acción Futura - Recomendaciones Específicas
+
+Clausura de la Consulta
+
+APENDICES - A - Lista de delegados y observadores
+
+B - Programa
+
+C - Lista de Documentos
+Indice Página siguiente
+
+
+INTRODUCCION
+
+1. De acuerdo con la recomendación hecha por el Simposio sobre las Principales Enfermedades Transmisibles de los Peces en Europa y la Lucha contra las Mismas, celebrado en abril de 1972 en concomitancia con la Séptima Reunión de la Comisión Asesora Europea sobre Pesca Continental (CAEPC), en abril y mayo de 1974 se celebró en Aviemore, Escocia, una primera consulta Gubernamental sobre una Convención Internacional para Combatir la Propagación de las Principales Enfermedades Transmisibles de los Peces, en la que se examinó un anteproyecto preparado por la Secretaría de la FAO.
+
+2. La primera Consulta se mostró favorable a la idea de una Convención y recomendó que se preparara un texto revisado teniendo en cuenta los pareceres expresados en la Consulta. En agosto de 1975 se envió a los gobiernos interesados un nuevo proyecto de texto.
+
+3. En las respuestas de los gobiernos, favorables en general al proyecto propuesto de Convención, se indicaba que quedaban aún por resolver algunos problemas y que sería necesario organizar una nueva Consulta Gubernamental. Se indicaba también que las organizaciones que se ocupaban de las enfermedades de los peces, en especial la Oficina Internacional de Epizootias (OIE) y la FAO, debían colaborar para promover a nivel internacional la lucha contra las enfermedades de los peces.
+
+4. En consecuencia, se organizaron algunas reuniones entre las Secretarías de la OIE y de la FAO y se convino en organizar conjuntamente una segunda Consulta Gubernamental para examinar de nuevo el proyecto de texto propuesto para la Convención.
+
+
+Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CONVOCACION DE LA CONSULTA
+
+5. La Segunda Consulta Gubernamental sobre una Convención Internacional para Combatir la Propagación de las Principales Enfermedades Transmisibles de los Peces fue convocada conjuntamente por la FAO y la OIE para los días 25-28 de enero de 1977 en la sede de la OIE (París, Francia), por invitación del Director General de la FAO y del Director General de la OIE. Asistieron a la Consulta representantes de los 25 países siguientes: Alemania (República Federal de), Austria, Bélgica, Canadá, Colombia, Checoslovaquia, Dinamarca, España, Finlandia, Francia, Grecia, Hungría, Irlanda, Islandia, Italia, Japón, Noruega, Países Bajos, Polonia, Portugal, Reino Unido, Suecia, Suiza, Venezuela y Yugoslavia, y de la Comunidad Económica Europea, así como observadores de la Federación Europea de Salmonicultores y del Consejo Internacional para la Exploración del Mar (CIEM). La lista de participantes puede verse en el Apéndice A de este Informe.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+APERTURA DE LA CONSULTA
+
+6. Declaró abierta la Consulta Gubernamental el Dr. A. Laaberki, Vicepresidente de la OIE, quien recordó que la OIE, que contaba ya más de cincuenta años, ponía a disposición de la Consulta, para que sus trabajos se vieran coronados por el éxito, sus vastos conocimientos científicos y técnicos, y rememoró el Acuerdo FAO/OIE, que vincula a ambas organizaciones desde el 12 de noviembre de 1952. El Director General de la OIE, Dr. R. Vittoz dio la bienvenida a los participantes y recordó la tradicional función de la OIE en la lucha contra la propagación de las enfermedades en los animales y el papel que la Comisión Permanente para el Estudio de las Enfermedades de los Peces, creada en 1961, había desempeñado desde entonces en el estudio de las enfermedades de los peces y la lucha contra ellas.
+
+7. En representación del Director General de la FAO, el Sr. E. Carroz, Oficial Jurídico Principal (Pesca Internacional), dio la bienvenida a los participantes, y recordó los diversos pasos que habían llevado a la presente Consulta y la colaboración que se había establecido entre la FAO y la OIE. A propósito de la cuestión de que la FAO se encargara de las funciones de secretaría previstas en la Convención propuesta, que se estipularía fuera del marco de la FAO, señaló las dificultades de carácter jurídico y constitucional que podrían plantearse y subrayó sobre todo que, a la luz de la reciente reorientación de los programas y prioridades de la FAO propuesta por el Director General y aprobada por el Consejo, el papel de la FAO había de consistir ante todo en ocuparse de trabajos de promoción y preparatorios y no debía extenderse a las funciones de la secretaría. Si los gobiernos interesados desearan establecer una secretaría independiente, la FAO estaría dispuesta a
+colaborar íntimamente con ella para contribuir al logro de los objetivos del proyecto de Convención.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+APROBACION DEL PROGRAMA
+
+8. El programa de la Consulta fue aprobado por unanimidad. El programa puede verse en el Apéndice B de este Informe, y la lista de documentos en el Apéndice C.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ELECCION DE LA MESA
+
+9. La Consulta eligió por unanimidad dos Co-presidentes y dos Co-vicepresidentes en representación de los Estados Miembros de las dos organizaciones patrocinadoras, la FAO y la OIE. Los Co-presidentes elegidos fueron el Prof. K. Tiews (República Federal de Alemania), Presidente de la CAEPC, y el Prof. P. Ghittino (Italia), Presidente de la Comisión Permanente de la OIE para el Estudio de las Enfermedades de los Peces. Se eligieron Co-vicepresidentes a los Profesores T. Backiel (Polonia) y L. Fijan (Yugoslavia).
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+PROYECTO DE CONVENCION INTERNACIONAL PARA COMBATIR LA PROPAGACION DE LAS PRINCIPALES ENFERMEDADES TRANSMISIBLES DE LOS PECES
+
+TEXTO DEL PROYECTO DE CONVENCION
+
+10. En primer lugar, la Consulta examinó en general las observaciones de los gobiernos y organizaciones interesadas sobre el proyecto de Convención. A este propósito, el delegado de Noruega indicó que también su Gobierno había enviado observaciones sobre el proyecto de Convención. La Consulta pasó luego a estudiar el documento FID:CFD/77/3 - Proyecto revisado de la Convención para combatir la propagación de las principales enfermedades transmisibles de los peces, con inclusión del texto original, notas explicativas y el nuevo texto - preparado por la Secretaría de la FAO previa consulta con la OIE. Se examinó el nuevo texto artículo por artículo. Finalmente el texto revisado fue aprobado por la Consulta, salvas las observaciones, reservas y posibles alternativas incluidas en las notas a algunos de los artículos revisados.
+
+11. Al comienzo de los debates sobre el texto de la Convención, la delegación del Reino Unido interviniendo en su calidad de Estado Miembro de la Comunidad Económica Europea (CEE), declaró que la Comunidad Económica Europea estaba examinando la adopción de directrices comunitarias para combatir las enfermedades de los peces. La CEE se reserva, pues, la posibilidad de adoptar una posición respecto a la Convención propuesta y de presentar posteriormente sus pareceres y observaciones. Así pues, los pareceres y observaciones de los Estados Miembros de la CEE a propósito del proyecto de Convención y de los Anexos habrán de considerarse teniendo en cuenta este trasfondo general.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+TEXTO REVISADO DEL PROYECTO DE CONVENCION PARA COMBATIR LAS ENFERMEDADES TRANSMISIBLES DE LOS PECES
+
+LAS PARTES CONTRATANTES
+
+CONSCIENTES de los daños económicos y ecológicos causados por la difusión de las principales enfermedades transmisibles de los peces y de la necesidad de tomar medidas de común acuerdo para combatir y en último término erradicar dichas enfermedades;
+
+CONSCIENTS de que, a este respecto, el aumento de los intercambios internacionales de peces y huevos de peces sin las cautelas adecuadas constituye un grave peligro y enentraña, en especial, la introducción de algunas enfermedades en países hasta entonces exentos de ellas;
+
+CONVENCIDAS, sin embargo, de que cierto grado de intercambio internacional de peces y huevos de peces es necesario para el desarrollo de la acuicultura y para la mejora de los recursos pesqueros y del medio ambiente acuático;
+
+RECONOCIENDO que es necesario adoptar medidas comunes para facilitar los intercambios internacionales de peces y huevos de peces, asegurando al mismo tiempo que se tomen las precauciones necesarias para evitar la difusión de enfermedades transmisibles de los peces;
+
+CONSCIENTES de que entre dichas medidas debe figurar la cooperación internacional para estudiar, prevenir, combatir y en último término erradicar las principales enfermedades transmisibles de los peces, y de que las medidas internacionales deben basarse en una mejora de los programas e instituciones nacionales destinados a prevenir, combatir y erradicar las enfermedades transmisibles de los peces, tanto en los países exportadores como en los importadores;
+
+TENIENDO EN CUENTA las recomendaciones de la Comisión Asesora Europea sobre Pesca Continental (CAEPC) y de otras organizaciones internacionales competentes a propósito de la lucha contra la difusión de las principales enfermedades transmisibles de los peces;
+
+CONVIENEN CUANTO SIGUE:
+
+ARTICULO 1 - Definiciones
+
+A efectos de la presente Convención se entenderá por:
+
+"Certificado sanitario": el Certificado Ictiosanitario Internacional mencionado en el Artículo 4
+
+"Peces o huevos de peces": peces vivos o huevos vivos de peces de las especies enumeradas en el Anexo I de la presente Convención
+
+"Autoridad Certificadora": toda autoridad certificadora designada o establecida de acuerdo con el Artículo 5
+
+"Funcionario Certificador": un funcionario designado por una autoridad certificadora.
+
+ARTICULO 2 - Obligaciones Fundamentales
+
+Las Partes Contratantes deberán tomar todas las medidas necesarias, de acuerdo con lo dispuesto en esta Convención, incluidas medidas de carácter legislativo, para prevenir y combatir la difusión de las enfermedades transmisibles de los peces como consecuencia del comercio internacional de peces y huevos de peces.
+
+ARTICULO 3 - Comercio Internacional de Peces y Huevos de Peces
+
+Nota: Algunas delegaciones se declararon favorables a retener en el texto, como párrafo (1), la cláusula siguiente:
+
+"No deberán exportarse peces ni huevos de peces del territorio de una Parte Contratante al territorio de otra Parte Contratante a menos que tales peces o huevos de peces vayan acompañados de un certificado sanitario válido extendido por un Funcionario Certificador de acuerdo con lo dispuesto en el Artículo 4 de esta Convención."
+
+La mayoría de las delegaciones, en cambio, estimaron que esos controles adicionales eran innecesarios y, en algunos casos, crearían dificultades administrativas y jurídicas.
+1. No deberán importarse peces ni huevos de peces en el territorio de una Parte Contratante a menos que vayan acompañados de un certificado sanitario válido extendido por un Funcionario Certificador en nombre de la Autoridad Certificadora de la Parte Contratante que los exporta. Si se trata de peces o huevos de peces procedentes del territorio de un estado que no es Parte Contratante, deberán ir acompañados de un certificado u otro documento que dé por lo menos garantías iguales sobre el estado sanitario de los peces o huevos de peces.
+
+Alternativa A
+2. No deberán exportarse peces o huevos de peces procedentes de explotaciones piscícolas alimentadas por un mismo sistema de aguas cuando los peces o huevos de peces de una de esas explotaciones hayan sido declarados oficialmente afectados por una enfermedad contagiosa (un elemento patógeno) no enumerado en el Anexo IV, hasta que la Autoridad Certificadora haya declarado oficialmente que la explotación en cuestión está exenta de esa enfermedad o que la enfermedad no constituye una amenaza importante.
+
+Alternativa B
+2. Cuando se notifique a la Autoridad Certificadora de una Parte Contratante la presencia de una enfermedad no identificada de los peces o los huevos de los peces en cualquier establecimiento piscícola situado dentro de su jurisdicción, la Autoridad Certificadora suspenderá la extensión de certificados sanitarios para la exportación a otras Partes Contratantes de peces o huevos de peces de esos establecimientos piscícolas y de cualquier otro establecimiento de piscicultura que se encuentre aguas abajo de ellos, en tanto que la Autoridad Certificadora no certifique que el establecimiento en cuestión está exento de esa enfermedad o que la enfermedad no representa una amenaza importante.
+
+Alternativa C
+2. No se extenderán certificados a peces o huevos de peces procedentes de explotaciones piscícolas alimentadas por un sistema de aguas cuando en una explotación piscícola situada aguas arriba en el mismo sistema se haya observado una elevada mortandad (de peces o huevos de peces) de presunto carácter contagioso, hasta que se haya declarado oficialmente que la enfermedad en cuestión no figura entre las codificadas o no representa una amenaza importante.
+3. Si el certificado que acompaña a los peces o huevos de peces no está de acuerdo con lo dispuesto en esta Convención, la Parte Contratante destinataria se negará a dar entrada a la partida y notificará al exportador o a su agente que disponga de la misma dentro de un plazo razonable. Si no se dispone de la partida dentro de dicho plazo, la Parte Contratante destinataria podrá proceder a destruirla, sin compensación alguna.
+4. Las disposiciones del párrafo 1 de este Artículo no se aplicarán a los peces o huevos de peces en tránsito por el territorio de una Parte Contratante, a condición de que los peces o huevos de peces no se saquen de los recipientes en que viajen ni se retire de dichos recipientes agua o parte del material que los compone, a no ser de acuerdo con las normas especificadas por dicha Parte Contratante, y con la salvedad, además, de que toda Parte Contratante podrá exigir que esos peces o huevos de peces vayan acompañados del correspondiente certificado sanitario.
+5. No obstante lo dispuesto en el párrafo 1 anterior, la Autoridad Certificadora de cualquier Parte Contratante podrá autorizar la importación de ejemplares de peces o huevos de peces para investigaciones científicas bona fide, incluidas investigaciones sobre las enfermedades de los peces, a condición de que se tomen medidas necesarias para evitar toda difusión de enfermedades transmisibles de los peces y que el Instituto de Investigación haya sido autorizado por la Autoridad Certificadora competente.
+6. Las disposiciones de los párrafos (1) y (2) de este Artículo en vigor hasta después de transcurridos dos años desde el momento en que entre en vigor la Convención.
+
+Alternativa A
+7. Nada de cuanto establece esta Convención derogará el derecho de las Partes Contratantes de aplicar a los peces o huevos de peces que se importen en sus territorios otras medidas de control, incluso exigir otros certificados e imponer medidas de inspección, diagnóstico y cuarentena, cuando dichas medidas se consideren necesarias. Si en el territorio de una Parte Contratante se presenta una nueva enfermedad transmisible de los peces, o si en dicho territorio una enfermedad transmisible de los peces ya existente se difunde rápidamente, las demás Partes Contratantes podrán prohibir o limitar temporalmente la importación de peces o huevos de peces del territorio de dicha Parte Contratante, o permitir tales importaciones sólo con requisitos adicionales de certificación. Toda Parte Contratante, deberá notificar a la Secretaría cualquier otra medida de control que imponga de acuerdo con lo dispuesto en este párrafo, incluidas eventuales prohibiciones o limitaciones temporales de
+las importaciones, declarando en dicha notificación las razones por las que se adoptan esas medidas y las enfermedades a que se refieren. La Secretaría habrá de comunicar inmediatamente esas notificaciones a las demás Partes Contratantes.
+
+Alternativa B
+7. Nada de cuanto establece esta Convención derogará el derecho de las Partes Contratantes de aplicar otras medidas de control, incluida la prohibición total de las importaciones. Cada Parte Contratante habrá de notificar a la Secretaría cualquier otra medida de control que imponga en virtud de lo dispuesto en este párrafo, incluida la eventual prohibición o limitación de las importaciones, declarando en dicha notificación las razones por las que se adoptan esas medidas y las enfermedades a qué se refieren. La Secretaría habrá de comunicar inmediatamente esas notificaciones a las demás Partes Contratantes.
+
+Notas: (1) Una delegación estimó que el párrafo 7 debía suprimirse en su totalidad. La mayoría de las delegaciones, en cambio, estimaron que las Partes Contratantes debían tener derecho a imponer medidas de control más estrictas que las previstas en la Convención.
+
+(2) Una delegación reservó su posición sobre la aceptabilidad de una de las versiones alternativas del párrafo 2, por razón de las dificultades internas - jurídicas y administrativas - que podría plantear.
+
+ARTICULO 4 - Certificados Ictiosanitarios Internacionales
+
+1. Los certificados sanitarios deberán indicar el estado sanitario de los peces o huevos de peces respecto a aquéllas de las enfermedades enumeradas en el Anexo IV que sean pertinentes para la especie de que se trate;
+2. Los certificados sanitarios habrán de ser extendidos por un Funcionario Certificador autorizado y se basarán en inspecciones, que comprenderán visitas al lugar de producción, muestreo y diagnóstico en laboratorio, de acuerdo con los procedimientos uniformes.
+
+Alternativa A
+
+Expuestos en el Anexo III de esta Convención.
+
+Alternativa B
+
+Aprobados por las Partes Contratantes.
+3. Los certificados sanitarios podrán ser extendidos solamente por una Autoridad Certificadora de la Parte Contratante exportadora o en su nombre.
+4. Los certificados sanitarios se extenderán en los formularios descritos en el Anexo II correspondientes a la especie de que se trate, o incluirán las cláusulas en ellas contenidas. Los certificados sanitarios se clasificarán según las garantías que ofrezca la metodología que se ha utilizado para certificar la ausencia de enfermedades en la fuente de aguas, el establecimiento y/o la zona de origen, e incluirán consideraciones sobre toda exposición conocida a las enfermedades.
+5. Cada Parte Contratante notificará a la Secretaría los tipos de certificado y el nivel de certificación que está dispuesta a aceptar para las importaciones a su territorio de peces o huevos de peces. La Secretaría comunicará inmediatamente a las demás Partes Contratantes tales notificaciones, que entrarán en vigor a los treinta días de dicha comunicación.
+6. Salvo lo dispuesto en el párrafo 5, toda Parte Contratante habrá de asegurar el rápido despacho en aduanas de las importaciones de peces y huevos de peces que vayan acompañadas de un certificado válido que cumpla con los requisitos notificados en virtud del párrafo precedente.
+
+ARTICULO 5 - Autoridades Certificadoras
+
+1. Cada una de las Partes Contratantes deberá designar o establecer una o varias Autoridades Certificadoras que se encarguen de las inspecciones y de la extensión de certificados de acuerdo con lo dispuesto en esta Convención.
+2. Cada autoridad certificadora deberá tener acceso a laboratorios adecuados y personal calificado, para poder realizar inspecciones y diagnósticos de acuerdo con lo dispuesto en el Anexo III.
+3. Cada Parte Contratante deberá comunicar a la Secretaría la identidad de su Autoridad o Autoridades Certificadoras y la Secretaría deberá transmitir esa información a las demás Partes Contratantes.
+
+ARTICULO 6 - Secretaría
+
+1. De las funciones de Secretaría que sean necesarias en virtud de esta Convención se encargará la Oficina Internacional de Epizootias (OIE), dentro del ámbito de sus facultades y de acuerdo con las normas en que se basa el trabajo de dicha Oficina.
+2. Entre las funciones de la Secretaría figurarán:
+a. la convocación de reuniones periódicas de las Partes Contratantes una vez cada dos años, o con cualquier otra periodicidad que las Partes Contratantes decidan, y de reuniones especiales de las Partes Contratantes en cualquier momento, cuando lo soliciten por escrito al menos dos tercios de las Partes Contratantes;
+b. la convocación de reuniones del Comité Científico Asesor, de acuerdo con lo dispuesto en el Artículo 8;
+c. la preparación del proyecto de presupuesto para que sea examinado en la reunión de las Partes Contratantes;
+d. la transmisión a las Partes Contratantes interesadas de todas las notificaciones e informes recibidos por la Secretaría, de acuerdo con los Artículos 4, 5 y 10;
+e. todas las funciones que sean necesarias para asegurar que se aplique plenamente lo dispuesto en el Artículo 11;
+f. todas las demás funciones que le sean conferidas por esta Convención o por cualquier reunión de las Partes Contratantes.
+3. En el desempeño de las funciones de Secretaría, la OIE deberá colaborar íntimamente con la Organización de las Naciones Unidas para la Agricultura y la Alimentación y con otros organismos internacionales competentes.
+
+Alternativa B
+1. Las Partes Contratantes designarán una Secretaría, compuesta por un Secretario Ejecutivo, en las condiciones que ellas determinen, para desempeñar las funciones que se le confíen en virtud de esta Convención.
+2. El Secretario Ejecutivo podrá, para desempeñar las funciones que se le confien en virtud de esta Convención, designar al personal necesario, de acuerdo con las normas y condiciones que determinen las Partes Contratantes.
+3. Las funciones del Secretario Ejecutivo serán:
+a. la convocación de reuniones periódicas de las Partes Contratantes una vez cada dos años, o con cualquier otra periodicidad que las Partes Contratantes decidan, y de reuniones especiales de las Partes Contratantes en cualquier momento, cuando lo soliciten por escrito al menos dos tercios de las Partes Contratantes;
+b. la convocación de reuniones del Comité Científico Asesor, de acuerdo con lo dispuesto en el Artículo 8;
+c. la preparación del proyecto de presupuesto para que sea examinado en la reunión de las Partes Contratantes;
+d. la transmisión a las Partes Contratantes interesadas de todas las notificaciones e informes recibidos por la Secretaría, de acuerdo con los Artículos 4, 5 y 10;
+e. todas las funciones que sean necesarias para asegurar que se aplique plenamente lo dispuesto en el Artículo 11;
+f. todas las demás funciones que le sean conferidas por esta Convención o por cualquier reunión de las Partes Contratantes.
+4. En el desempeño de sus funciones, el Secretario Ejecutivo deberá colaborar íntimamente con la Oficina Internacional de Epizootias, la Organización de las Naciones Unidas para la Agricultura y la Alimentación y otros organismos internacionales competentes.
+
+Nota: Aunque la gran mayoría de los delegados se mostraron favorables a la alternativa A, se estimó que debía conservarse en el texto una alternativa B, que prevea el establecimiento de una Secretaría independiente, de manera que la cuestión pueda ser zanjada definitivamente por una Conferencia de Plenipotenciarios. Si se adoptara la alternativa B, sería necesario introducir en otras partes del texto algunas enmiendas y adiciones.
+
+ARTICULO 7 - Reuniones de las Partes Contratantes
+
+1. En las reuniones de las Partes Contratantes convocadas de acuerdo con el párrafo 2(a) del Artículo 6 se examinará la aplicación de esta Convención y en ellas se podrá, entre otras cosas:
+a. recibir y examinar informes de las Partes Contratantes, de acuerdo con el Artículo 10;
+b. recibir y examinar recomendaciones del Comité Científico Asesor, de acuerdo con el Artículo 8;
+c. examinar y adoptar el presupuesto administrativo;
+d. examinar y adoptar enmiendas a esta Convención y a sus Anexos, de acuerdo con el Artículo 15;
+e. examinar y tomar medidas que sean necesarias para el logro de los objetivos de la Convención.
+2. En las reuniones de las Partes Contratantes, el quorum será de la mitad de las Partes Contratantes.
+3. Alternativa A
+Salvo disposición en contrario de esta Convención, las reuniones de las Partes Contratantes tomarán sus decisiones por mayoría de las Partes Contratantes presentes y votantes. Las decisiones en las cuestiones previstas en el párrafo 1(c) se tomarán por mayoría de dos tercios de las Partes Contratantes presentes y votantes.
+Alternativa B
+Las reuniones de las Partes Contratantes tomarán sus decisiones por mayoría de dos tercios de las Partes Contratantes presentes y votantes.
+4. Las reuniones de las Partes Contratantes se regularán por las normas de procedimiento adoptadas en la primera reunión.
+
+ARTICULO 8 - Comité Científico Asesor
+
+1. Al entrar en vigor esta Convención, las Partes Contratantes deberán crear un Comité Científico Asesor sobre enfermedades de los peces y lucha contra las mismas.
+2. (a) Cada Parte Contratante podrá proponer al Director General de la OIE nombres de expertos en materia de enfermedades de los peces y lucha contra las mismas que puedan ser miembros del Comité Científico Asesor. El Comité estará compuesto de diez de tales expertos, seleccionados por el Director General de la OIE teniendo en cuenta las propuestas de las Partes Contratantes. Cada experto participará en el Comité por cuatro años.
+
+Nota: Algunas delegaciones estimaron que, a la hora de seleccionar los expertos para el Comité Científico Asesor, un factor que debía tenerse en cuenta era la representación regional y que la selección de los expertos por parte del Director General de la OIE debía estar sujeta a la aprobación definitiva de las Partes Contratantes.
+
+(b) Los preparativos, el programa de trabajo y los informes de las reuniones del Comité Científico Asesor se comunicarán a las Partes Contratantes.
+
+(c) En las reuniones del Comité Científico Asesor podrá participar un observador de cada Parte Contratante; los observadores podrán intervenir en los debates, pero no tendrán derecho a voto.
+
+(d) Para tratar cuestiones especiales, el Comité Científico Asesor, podrá cooptar temporalmente a algunos asesores.
+3. Las funciones del Comité Científico Asesor consistirán en asesorar a las Partes Contratantes y la Secretaría sobre cualquier cuestión importante atinente a la Convención, en especial:
+a. proponer enmiendas a los Anexos de esta Convención, de conformidad con el Artículo 15;
+b. recomendar a las reuniones de las Partes Contratantes programas de investigación cooperativa, de acuerdo con lo dispuesto en el Artículo 11.
+4. Las reuniones del Comité Científico Asesor serán convocadas por la Secretaría en consulta con las Partes Contratantes cuándo y dónde sea necesario para el logro de los objetivos de esta Convención.
+
+ARTICULO 9 - Disposiciones Financieras
+
+1. Cada Parte Contratante se compromete a contribuir anualmente al presupuesto administrativo, con la proporción que le corresponda, de acuerdo con una escala de cuotas que habrá de ser aprobada por mayoría de dos tercios de las Partes Contratantes presentes y votantes en una reunión de las Partes Contratantes. La escala de cuotas se fijará:
+
+Alternativa A
+
+Sobre la base de contribuciones iguales para todas las Partes Contratantes.
+
+Alternativa B
+
+Con arreglo a la escala utilizada para la fijación de la cuotas al presupuesto de las Naciones Unidas.
+2. Los gastos en que incurran los delegados y sus sustitutos, los expertos y los asesores para asistir a las reuniones de las Partes Contratantes, de acuerdo con el Artículo 7, o a las reuniones del Comité Científico Asesor, de acuerdo con el Artículo 8, deberán ser costeados por sus respectivos Gobiernos.
+
+Nota: La Consulta observó que los nuevos métodos para la designación del Comité Científico Asesor previstos en el texto revisado del Artículo 8 podrían hacer necesario introducir algunas enmiendas en el párrafo 2 del Artículo 9 en lo relativo a los gastos de los expertos derivados de su asistencia a las reuniones del Comité Científico Asesor. Se decidió remitir este problema a la futura Conferencia de Plenipotenciarios.
+
+ARTICULO 10 - Informes de las Partes Contratantes
+
+1. Cada una de las Partes Contratantes se compromete a enviar a la Secretaría, por medio de su Autoridad Certificadora:
+a. notificación, por el método más expedito posible y en la forma acordada por las Partes Contratantes [a la mayor brevedad y, si es posible] dentro de las 24 horas siguientes a la confirmación, de toda nueva enfermedad reconocida (o identificada) en el país. Dicha notificación habrá de incluir, si procede, información sobre las medidas de control que se hayan adoptado para impedir la difusión de dicho brote de la enfermedad;
+b. informes trimestrales, en la forma descrita por las Partes Contratantes por recomendación de la Secretaría, que den datos sobre la incidencia y evolución de todas las enfermedades de los peces enumeradas en el Apéndice IV de esta Convención y, en caso oportuno, sobre las medidas de control que se hayan adoptado para impedir la difusión de brotes de las enfermedades;
+c. un informe anual especial sobre la situación de las enfermedades de los peces en sus territorios, las medidas adoptadas para combatir dichas enfermedades, los métodos utilizados para la inspección, diagnosis y certificación y cualquier otra información que sea solicitada por las reuniones de las Partes Contratantes.
+2. La Secretaría comunicará en forma adecuada a las Partes Contratantes la información que reciba en cumplimiento de los párrafos precedentes.
+3. Cada Autoridad Certificadora llevará un registro al día de los establecimientos de piscicultura reconocidos exentos de las enfermedades a que se refiere esta Convención.
+
+Nota: (1) Algunas delegaciones reservaron su posición sobre el párrafo 3, dados los posibles problemas que podrían derivarse de la aceptación de esa obligación en sus países.
+
+(2) Algunas delegaciones insistieron en que se suprimieran las palabras que aparecen entre corchetes en el párrafo 1(a).
+
+(3) Una delegación expresó sus reservas sobre la aceptabilidad de la última frase del párrafo 1(a), dadas las dificultades administrativas que se encuentran para dar detalles sobre las medidas de control adoptadas en la primera notificación, con carácter urgente, del brote de una nueva enfermedad.
+
+ARTICULO 11 - Cooperación Internacional para Combatir las Enfermedades de los Peces
+
+Las Partes Contratantes se declaran dispuestas a colaborar, en la medida de lo posible, en el campo de las investigaciones ictiopatológicas y a promover programas de investigación en cooperación e intercambios de experiencias científicas, técnicas, jurídicas y administrativas en el campo de la lucha contra las enfermedades de los peces, así como a fomentar las investigaciones nacionales en esos campos.
+
+ARTICULO 12 - [Solución de Controversias
+
+1. Las controversias que eventualmente surjan entre dos o más Partes Contratantes a propósito de la interpretación o aplicación de esta Convención deberán resolverse, en la medida de lo posible, mediante negociación entre ellas. Las controversias que no puedan resolverse por negociación o por otro procedimiento convenido, se remitirán, a petición de cualquier de las partes en litigio, al arbitraje de tres árbitros.
+2. Cada una de las dos partes en litigio designará un árbitro, y juntas designarán un tercero, que actuará como presidente. Si a los dos meses de haberse recibido la notificación de que la controversia se someterá a arbitraje, una de las partes no hubiera designado árbitro, o si, transcurrido un mes desde la designación de los dos árbitros, no se hubiera designado un tercero, cualquiera de las partes podrá pedir al Presidente de la Corte Internacional de Justicia que designe un árbitro.
+3. El procedimiento de arbitraje será determinado por los árbitros mismos, pero el presidente tendrá plenos poderes para resolver cualquier cuestión de procedimiento en caso de desacuerdo.
+4. El voto por mayoría de los árbitros se considerará decisivo y su decisión será definitiva y vinculante para las partes en litigio.]
+
+Nota: La mayoría de los delegados se declararon favorables a suprimir este Artículo por entero.
+
+ARTICULO 13 - Firma, ratificación, aceptación, aprobación y adhesión
+
+1. Podrá firmar la presente Convención el Gobierno de todo Estado que sea miembro de las Naciones Unidas, de un Organismos Especializado de las Naciones Unidas o del Organismo Internacional de Energía Atómica, o sea parte del Estatuto del Tribunal Internacional de Justicia.
+2. La firma de esta Convención estará a ratificación, aceptación o aprobación.
+3. Una vez entrada en vigor, podrán adherir a la Convención todos los Estados que pertenezcan a las categorías mencionadas en el párrafo 1 de este Artículo o cualquier otro Estado invitado por las Partes Contratantes a ser parte de la Convención.
+4. Los instrumentos de ratificación, aceptación, aprobación o adhesión y los instrumentos de aceptación de enmiendas a la Convención, según lo dispuesto en el Artículo 15, deberán depositarse ante el Director General de la Organización de las Naciones Unidas para la Agricultura y la Alimentación, denominado en adelante el "Depositario".
+
+ARTICULO 14 - Entrada en vigor
+
+Salvo lo dispuesto en el párrafo 6 del Artículo 3, la presente Convención entrará en vigor a los sesenta días de haberse depositado el décimo instrumento de ratificación, aceptación o aprobación, y posteriormente, para cada Estado que ratifique, acepte o apruebe esta Convención o se adhiera a la misma, a los sesenta días del depósito, por parte de dicho Estado, de su instrumento de ratificación, aceptación, aprobación o adhesión.
+
+ARTICULO 15 - Enmiendas de la Convención y de los Anexos
+
+1. Cualquiera de las Partes Contratantes podrá proponer enmiendas a los Artículos de esta Convención. Dichas propuestas habrán de examinarse en una reunión de las Partes Contratantes y, en caso de que sean aprobadas por mayoría de dos tercios de las Partes Contratantes presentes y votantes, se comunicarán a las Partes Contratantes. Toda enmienda entrará en vigor, para cada Parte Contratante que la acepte, sesenta días después de que dos tercios de las Partes Contratantes hayan depositado sus instrumentos de aceptación de la enmienda, y posteriormente, para cada Parte Contratante que la acepte, a los sesenta días del depósito de su instrumento de aceptación de la enmienda.
+2. (a) Podrán proponer enmienda a los Anexos de esta Convención las Partes Contratantes o el Comité Científico Asesor establecido en virtud del Artículo 8. Las propuestas de enmienda hechas por una Parte Contratante deberán remitirse los antes posible al Comité Científico Asesor para que haga las observaciones que estime oportunas. Toda enmienda propuesta, junta con las observaciones del Comité Científico Asesor al respecto, deberá ser examinada por las Partes Contratantes y, si es aprobada por mayoría de dos tercios de las mismas o, si se examina en una reunión de las Partes Contratantes, por mayoría de dos tercios de las Partes Contratantes presentes y votantes, se comunicará a las Partes Contratantes.
+(b) Dichas enmiendas entrarán en vigor transcurridos seis meses desde la fecha en que hayan sido comunicadas a las Partes Contratantes o transcurrido cualquier otro período que se establezca de común acuerdo en una reunión de las Partes Contratantes, para todas las Partes Contratantes que no hayan comunicado una objeción ni hayan notificado que en su país no existen aún las condiciones necesarias para la aplicación de la enmienda propuesta, a menos que dentro de ese plazo un tercio de las Partes Contratantes, como mínimo, comuniquen una objeción al Depositario.
+(c) Toda Parte Contratante que haya presentado una objeción o notificación de acuerdo con lo dispuesto en el apartado (b) anterior, podrá retirar su objeción o notificar al depositario que acepta la enmienda propuesta, en cuyo caso la enmienda entrará en vigor para dicha Parte Contratante transcurrido el período mencionado en el apartado (b) anterior o en la fecha en que retire su objeción o notifique su aceptación de la enmienda propuesta, si esta última fecha es posterior.
+
+ARTICULO 16 - Denuncia
+
+Transcurridos dos años desde la fecha en que la Convención haya entrado en vigor para una Parte Contratante, dicha Parte Contratante podrá denunciar en cualquier momento la Convención mediante notificación escrita a tal fin. La notificación escrita de denuncia tendrá efecto a los doce meses de su recepción por el Depositario.
+
+ARTICULO 17 - Responsabilidades del Depositario
+
+1. El Depositario deberá notificar a los Gobiernos de los Estados mencionados en el párrafo 1 del Artículo 13:
+a. las firmas de esta Convención y el depósito de instrumentos de ratificación, aceptación, aprobación o adhesión, de acuerdo con el Artículo 3;
+b. la fecha en que la Convención entrará en vigor, de acuerdo con el Artículo 14;
+c. toda notificación de denuncia recibida de acuerdo con el Artículo 16.
+2. El Depositario deberá notificar a las Partes Contratantes:
+a. la fecha de entrada en vigor de los párrafos 1 y 2 del Artículo 3;
+b. las propuestas de enmienda del texto de la Convención [o de los Anexos de la Convención], las notificaciones relativas a dichas enmiendas y la entrada en vigor de dichas enmiendas, de acuerdo con el Artículo 15.
+3. El original de esta Convención se depositará ante el Depositario, quién enviará copias certificadas de la misma a los Gobiernos de todos los Estados que reúnan las condiciones necesarias para ser Partes de esta Convención, de acuerdo con el Artículo 13.
+
+Hecha en , el día de de en un único ejemplar en los idiomas alemán, español, francés, inglés y ruso, siendo cada texto igualmente auténtico.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ASPECTOS INSTITUCIONALES
+
+12. La Consulta examinó las consecuencias de la declaración hecha por el representante del Director General de la FAO a propósito de las funciones de secretaría previstas en la Convención propuesta (véase el párrafo 7 anterior). Se examinaron varias alternativas, entre ellas la creación de una secretaría independiente y la designación de otra organización internacional para encargarse de las funciones de secretaría. La Consulta puso de relieve la necesidad de evitar toda duplicación de funciones y de mantener los gastos al mínimo. La gran mayoría de las delegaciones se inclinaron por que se confiaran a la OIE las funciones de secretaría previstas en la Convención. Algunas delegaciones, sin embargo, declararon preferir que se creara una secretaría independiente. El Director General de la OIE confirmó que su Organización podría ofrecer, en la sede de la misma, las instalaciones necesarias para la secretaría (oficinas, equipo, gastos de correo, impresión, celebración de
+reuniones). Los gastos de personal y viaje habrían de costearse con una contribución especial de las Partes Contratantes. La Consulta estimó que debía pedirse a la FAO que se encargara de las funciones de depositario de la Convención propuesta, como se había previsto en proyectos anteriores. Se hizo notar, sin embargo, que tal vez fueran necesarias algunas enmiendas o acuerdos para asegurar que el Depositario pudiera desempeñar plenamente las funciones que de él se esperaban en la Convención.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ANEXOS TECNICOS
+
+13. Los anexos técnicos de la Convención se examinaron en una reunión de expertos celebrada los días 22, 24 y 25 de enero de 1977 y en sesión plenaria de la Consulta en la mañana del 27 de enero. La Consulta aprobó los principios en que se basan esos anexos y acordó que se distribuyeran a los participantes y a sus gobiernos, para que los estudiaran, junto con el informe dela Consulta y el texto revisado del proyecto de Convención. Las eventuales observaciones sobre los anexos técnicos habrán de enviarse a la Secretaría conjunta de la Consulta. Se hizo notar que dichas observaciones podrían examinarse en ocasión de la Comisión Permanente de la OIE para el Estudio de las Enfermedades de los Peces que se celebrará en Paris en mayo de 1977.
+
+ANEXOS TECNICOS
+Modificados
+
+ANEXO I
+LISTA DE LAS ESPECIES INCLUIDAS EN LA CONVENCION
+
+1. Especies de Salmonidae
+2. Especies no ornamentales de Cyprinidae
+
+ANEXO II
+
+CONVENCION INTERNACIONAL PARA COMBATIR LAS ENFERMEDADES TRANSMISIBLES DE LOS PECES
+
+CERTIFICADO ICTIOSANITARIO INTERNACIONAL PARA HUEVOS EMBRIONADOS O PECES VIVOS DE LA FAMILIA SALMONIDAE Y HUEVOS EMBRIONADOS O PECES VIVOS DE ESPECIES NO ORNAMENTALES DE LA FAMILIA CYPRINIDAE
+
+CERTIFICADO 1
+
+[a rellenar por el Funcionario Certificador]
+
+PARTE I El que suscribe CERTIFICA que:
+
+1. El establecimiento de origen de esta partida se ha inspeccionado de conformidad con lo dispuesto en el Anexo III de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19.., y ha sido clasificado como establecimiento EXENTO de los organismos patógenos codificados (CPF), es decir, EXENTO de los patógenos enumerados en el Cuadro 1 del Anexo III^1.
+
+2. El establecimiento de origen de esta partida reúne los requisitos mínimos de certificación notificados por el país de destino.
+
+Nombre y sello de la Autoridad Certificadora
+
+Firma y título del Funcionario Certificador
+
+Nombre del Funcionario Certificador (en MAYUSCULAS)
+Lugar de emisión Fecha de emisión
+
+EXCLUSIVAMENTE CON CARACTER INFORMATIVO:
+
+No hay síntomas de las enfermedades siguientes:
+
+(a) Mixosomiasis 
+(b) Furunculosis 
+(c) Eritrodermatitis
+
+ESTE CERTIFICADO SOLO TENDRA VALIDEZ SI SE HA EXTENDIDO EN LOS .... DIAS PRECEDENTES A LA FECHA EN QUE HA COMENZADO LA EXPEDICION Y SI AMBAS PARTES DEL MISMO ESTAN DEBIDAMENTE CUMPLIMENTADAS Y FIRMADAS
+
+^1 Los patógenos enumerados en el Cuadro 1 de la Sección 2 del Anexo III de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19..., son:
+para Salmonidae: Virus de NPI, NHI, SHV
+para Cyprinidae: Virus de viraemia primaveril
+
+PARTE II
+
+DECLARACION
+
+[a rellenar por el exportador o su agente]
+
+1. Especies a que pertenecen los peces
+
+2. País de origen o de exportación
+
+3. País de destino
+
+4. Nombre y dirección del exportador
+
+
+5. Naturaleza^1 y dirección del establecimiento de origen
+
+
+
+6. Nombre y dirección del importador
+
+
+7. Naturaleza^1 y dirección del establecimiento de destino
+
+
+
+8. Número total de huevos^2 /peces^2 de la partida
+
+9. Talla de los peces de la partida
+
+El que suscribe DECLARA que:
+
+[sólo para las partidas de HUEVOS]
+
+1. La presente partida de huevos ha sido desinfectada inmediatamente antes de expedirla, de acuerdo con los procedimientos especificados en el Anexo III de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19..
+
+[para TODAS las partidas]
+
+2. Todos los tanques o recipientes utilizados en esta partida, excepto los no reutilizables, se han desinfectado inmediatamente antes de usarlos, de acuerdo con los procedimientos especificados en el Anexo III (en el caso de los peces vivos) de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19..
+
+3. Ninguno de los tanques o recipientes no reutilizables empleados en esta partida se han utilizado anteriormente.
+
+Por la presente DECLARO que los datos que preceden son exactos y verdaderos.
+
+Firma del exportador o su agente
+
+Fecha
+
+^1 Por ejemplo: Piscifactoría o establecimiento de piscicultura estatal, institucional o privado
+
+^2 Táchese lo que no se aplique
+
+CERTIFICADO ICTIOSANITARIO INTERNACIONAL PARA HUEVOS EMBRIONADOS O PECES VIVOS DE LA FAMILIA SALMONIDAE Y HUEVOS EMBRIONADOS O PECES VIVOS DE LA FAMILIA CYPRINIDAE
+
+CERTIFICADO 2
+
+[a rellenar por el Funcionario Certificador]
+
+PARTE I El que suscribe CERTIFICA que:
+
+1. El establecimiento de origen de esta partida se ha inspeccionado de acuerdo con lo dispuesto en el Anexo III de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19.., y se ha clasificado como establecimiento EXENTO de las enfermedades codificadas (CDF), es decir, EXENTO de las enfermedades enumeradas en el Cuadro 1 del Anexo III^1.
+
+2. El establecimiento de origen de esta partida reúne los requisitos mínimos de certificación notificados por el país de destino.
+
+Nombre y sello de la Autoridad Certificadora
+
+Firma y título del Funcionario Certificador
+
+Nombre del Funcionario Certificador (en MAYUSCULAS)
+Lugar de emisión Fecha de emisión
+
+EXCLUSIVAMENTE CON CARACTER INFORMATIVO:
+
+No hay síntomas de las enfermedades siguientes:
+
+(a) Mixosomiasis 
+(b) Furunculosis 
+(c) Eritrodermatitis
+
+ESTE CERTIFICADO SOLO TENDRA VALIDEZ SI SE HA EXTENDIDO EN LOS .... DIAS PRECEDENTES A LA FECHA EN QUE HA COMENZADO LA EXPEDICION Y SI AMBAS PARTES DEL MISMO ESTAN DEBIDAMENTE CUMPLIMENTADAS Y FIRMADAS
+
+^1 Las enfermedades enumeradas en el Cuadro 1 del Anexo III de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19.., son:
+para Salmonidae: NPI, NHI, SHV
+para Cyprinidae: Viraemia primaveril
+
+PARTE II
+
+DECLARACION
+
+1. Especies a que pertenecen los peces
+
+2. País de origen o de exportación
+
+3. País de destino
+
+4. Nombre y dirección del exportador
+
+
+5. Naturaleza^1 y dirección del establecimiento de origen
+
+
+6. Nombre y dirección del importador
+
+
+7. Naturaleza^1 y dirección del establecimiento de destino
+
+
+8. Número total de huevos^2 /peces^2 de esta partida
+
+9. Talla de los peces de esta partida
+
+El que suscribe DECLARA que:
+
+[sólo para las partidas de HUEVOS]
+
+1. Esta partida de huevos se ha desinfectado inmediatamente antes de expedirla, de acuerdo con los procedimientos especificados en el Anexo III de la Convención Internacional para Combatir las Enferemedades Transmisibles de los Peces, de 19..
+
+[para TODAS las partidas]
+
+2. Todos los tanques o recipientes utilizados en esta partida, excepto los no reutilizables, se han desinfectado inmediatamente antes de usarlos, de acuerdo con los procedimientos especificados en el Anexo III (en el caso de los peces vivos) de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19..
+
+3. Ninguno de los tanques o recipientes no reutilizables empleados en esta partida se han utilizado anteriormente.
+
+Por la presente DECLARO que los datos que preceden son exactos y verdaderos.
+
+Firma del exportador o su agente
+
+Fecha
+
+^1 Por ejemplo: Piscifactoría o establecimiento de piscicultura estatal, institucional o privado
+
+^2 Táchese lo que no se aplique
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ANEXOS TECNICOS (continuación)
+
+ANEXO II (continuación)
+
+CERTIFICADO ICTIOSANITARIO INTERNACIONAL PARA HUEVOS EMBRIONADOS O PECES VIVOS DE LA FAMILIA SALMONIDAE
+
+CERTIFICADO 3
+
+[a rellenar por el Funcionario Certificador]
+
+PARTE I El que suscribe CERTIFICA que:
+
+1. El establecimiento de origen de esta partida se ha inspeccionado de acuerdo con lo dispuesto en el Anexo III de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19.., y ha sido clasificado como establecimiento EXENTO de las enfermedades especificadas (SDF). En la inspección ha resultado que no están presentes las siguientes enfermedades:
+
+para SALMONIDAE 1. SHV
+2. NHI
+3. NPI
+
+2. El establecimiento de origen de esta partida reúne los requisitos mínimos de certificación notificados por el país de destino.
+
+Nombre y sello de la Autoridad Certificadora
+
+Firma y título del Funcionario Certificador
+
+Nombre del Funcionario Certificador (en MAYUSCULAS)
+Lugar de emisión Fecha de emisión
+
+EXCLUSIVAMENTE CON CARACTER INFORMATIVO:
+
+No hay síntomas de las enfermedades siguientes:
+
+(a) Mixosomiasis
+(b) Furunculosis
+
+ESTE CERTIFICADO SOLO TENDRA VALIDEZ SI SE HA EXTENDIDO EN LOS .... DIAS PRECEDENTES A LA FECHA EN QUE HA COMENZADO LA EXPEDICION Y SI AMBAS PARTES DEL MISMO ESTAN DEBIDAMENTE CUMPLIMENTADAS Y FIRMADAS
+
+PARTE II
+
+DECLARACION
+
+[a rellenar por el exportador o su agente]
+
+1. Especies a que pertenecen los peces
+
+2. País de origen o de exportación
+
+3. País de destino
+
+4. Nombre y dirección del exportador
+
+5. Naturaleza^1 y dirección del establecimiento de origen
+
+6. Nombre y dirección del importador
+
+7. Naturaleza^1 y dirección del establecimiento de destino
+
+
+8. Número total de huevos^2 /peces^2 de esta partida
+
+9. Talla de los peces de esta partida
+
+El que suscribe DECLARA que:
+
+[sólo para las partidas de HUEVOS]
+
+1. Esta partida de huevos se ha desinfectado inmediatamente antes de expedirla, de acuerdo con los procedimientos especificados en el Anexo III de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19 ..
+
+[para TODAS las partidas]
+
+2. Todos los tanques o recipientes utilizados en esta partida, excepto los no reutilizables, se han desinfectado inmediatamente antes de usarlos, de acuerdo con los procedimientos especificados en el Anexo III (en el caso de los peces vivos) de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19 ..
+
+3. Ninguno de los tanques o recipientes no reutilizables empleados en esta partida se han utilizado anteriormente.
+
+Por la presente DECLARO que los datos que preceden son exactos y verdaderos.
+
+Firma del exportador o de su agente
+
+Fecha
+
+^1 Por ejemplo: Piscifactoría o establecimiento de piscicultura estatal, institucional o privado
+
+^2 Táchese lo que no se aplique
+
+CERTIFICADO ICTIOSANITARIO INTERNACIONAL PARA HUEVOS EMBRIONADOS O PECES VIVOS DE LA FAMILIA SALMONIDAE Y HUEVOS EMBRIONADOS O PECES VIVOS DE LA FAMILIA CYPRINIDAE
+
+CERTIFICADO 4
+
+[a rellenar por el Funcionario Certificador]
+
+PARTE I El que suscribe CERTIFICA que:
+
+^11. El establecimiento de origen de esta partida se ha inspeccionado de acuerdo con lo dispuesto en el Anexo III de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19.., y ha sido clasificado como establecimiento con un mínimo de enfermedades (MD). En la inspección ha resultado que no están presentes las siguientes enfermedades:
+
+^12. Los peces o huevos de esta partida proceden de aguas inspeccionadas de acuerdo con la sección 4.4. (iii) del Anexo III y no presentan señales clínicas de las enfermedades indicadas:
+
+para SALMONIDAE 1. SHV para CYPRINIDAE 4. VP
+2. NHI
+3. NPI
+
+3. El establecimiento de origen de esta partida reúne los requisitos mínimos de certificación notificados por el país de destino.
+
+Nombre y sello de la Autoridad Certificadora
+
+Firma y título del Funcionario Certificador
+
+Nombre del Funcionario Certificador (en MAYUSCULAS)
+Lugar de emisión Fecha de emisión
+
+EXCLUSIVAMENTE CON CARACTER INFORMATIVO:
+
+No hay síntomas de las enfermedades siguientes:
+
+(a) Mixosomiasis 
+(b) Furunculosis 
+(c) Eritrodermatitis
+
+ESTE CERTIFICADO SOLO TENDRA VALIDEZ SI SE HA EXTENDIDO EN LOS .... DIAS PRECEDENTES A LA FECHA EN QUE HA COMENZADO LA EXPEDICION Y SI AMBAS PARTES DEL MISMO ESTAN DEBIDAMENTE CUMPLIMENTADAS Y FIRMADAS
+
+^1 Táchese lo que no se aplique
+
+PARTE II
+
+DECLARACION
+
+[a rellenar por el exportador o su agente]
+
+1. Especies a que pertenecen los peces
+
+2. País de origen o de exportación
+
+3. País de destino
+
+4. Nombre y dirección del exportador
+
+5. Naturaleza^1 y dirección del establecimiento de origen
+
+6. Nombre y dirección del importador
+
+7. Naturaleza^1 y dirección del establecimiento de destino
+
+8. Nombre del lugar de procedencia de los peces silvestres o los huevos
+
+9. Nombre del río principal el el que descargan las aguas del lugar de procedencia
+
+10. Número total de huevos^2/peces^2 de esta partida
+
+11. Talla de los peces de esta partida
+
+El que suscribe DECLARA que:
+
+[sólo para las partidas de HUEVOS]
+
+1. Esta partida de huevos se ha desinfectado inmediatamente antes de expedirla, de acuerdo con los procedimientos especificados en el Anexo III de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19 ..
+
+[para TODAS las partidas]
+
+2. Todos los tanques o recipientes utilizados en esta partida, excepto los no reutilizables, se han desinfectado inmediatamente antes de usarlos, de acuerdo con los procedimientos especificados en el Anexo III (en el caso de los peces vivos) de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19..
+
+3. Ninguno de los tanques o recipientes no reutilizables empleados en esta partida se han utilizado anteriormente.
+
+Por la presente DECLARO que los datos que preceden son exactos y verdaderos.
+
+Firma del exportador o de su agente
+
+Fecha
+
+^1 Por ejemplo: Piscifactoría o establecimiento de piscicultura estatal, institucional o privado
+
+^2 Táchese lo que no se aplique
+
+ANEXO III
+INSTRUCCIONES GENERALES MODIFICADAS
+
+1. INTRODUCCION
+
+Antes de extender un certificado es necesario clasificar el establecimiento y realizar los exámenes clínicos y/o ensayos de laboratorio necesarios.
+
+Los inspectores deben examinar la situación geográfica y el estado sanitario de las instalaciones así como las medidas de higiene y las técnicas de cría aplicadas, y basar su estimación de la situación del establecimiento en esos factores y en consideraciones clínicas generales. Estas precauciones revisten especial importancia cuando se trata de extender certificados a establecimientos CPF (exentos de los agentes patógenos codificados), CDF (exentos de las enfermedades codificadas) y SDF (exentos de las enfermedades especificadas).
+
+Los ensayos correspondientes de laboratorio han de realizarse según lo dispuesto en la Sección 14 de este Anexo, y el muestreo, en la forma que se especifica en la Sección 10 del mismo.
+
+2. CLASIFICACION DE LOS ESTABLECIMIENTOS DE PISCICULTURA
+
+2.1 Establecimientos CPF (véanse los Cuadros 1 y 2)
+
+Estos establecimientos han de estar exentos de todos los organismos patógenos enumerados en el Cuadro 1 de este Anexo y su situación geográfica y ecológica ha de ser tal que sea muy improbable que reciban contaminación de cualquier origen. La explotación ha de alimentarse de un manantial, un pozo u otra fuente análoga incontaminada, que habrá de estar estrictamente bajo el control del exportador o de su agente, y no deberá estar expuesta a contaminación debida a repoblación o a introducción de portadores de virus.
+
+Sólo se podrá repoblar con huevos o animales procedentes de otros establecimientos CPF.
+
+2.2 Establecimientos CDF (véanse los Cuadros 1 y 2)
+
+Han de estar exentos de todas las enfermedades enumeradas en el Cuadro 1 de este Anexo, pero su situación geográfica y ecológica no está sometida a controles tan estrictos como en el caso de los establecimientos CPF (2.1 anterior). Los establecimientos CDF pueden aprovisionarse de agua en torrentes o ríos. Aguas arriba del punto de toma de aguas no deberá haber ningún establecimiento de cultivo de peces que no esté clasificado como CPF o CDF, y la repoblación del establecimiento y de todos los que se encuentren aguas arriba ha de hacerse bajo control.
+
+2.3 Establecimientos SDF
+
+Los requisitos para extender un certificado a estos establecimientos son menos rígidos que para los establecimientos CDF y CPF. Los establecimientos SDF pueden estar infectados por una o más de las enfermedades codificadas. Aguas arriba no deberá haber ningún establecimiento de categoría inferior y la repoblación del establecimiento y de cualquier otro que se encuentre aguas arriba habrá de hacerse bajo control.
+
+2.4 Establecimientos MD (con un mínimo de enfermedades) (véanse los Cuadros 1 y 2)
+
+Estos establecimientos podrán abastecerse de aguas libres, y deberán estar exentos de signos patentes de enfermedad.
+
+3. INSTRUCCIONES PARA LA EXTENSION DE LOS CERTIFICADOS SANITARIOS
+
+3.1 Certificado 1
+
+Sólo podrá extenderse este certificado a establecimientos CPF, y el Funcionario Certificador habrá de asegurarse personalmente de que el establecimiento en cuestión cumpla con los requisitos establecidos para esa categoría.
+
+A. Para Salmonidae o huevos de salmónidos (véase también la Sección 4 de este Anexo). El establecimiento de origen:
+i. deberá de haber sido inspeccionado clínicamente al menos dos veces al año durante los dos primeros años, tomando en cada ocasión muestras adecuadas, como se indica en la Sección 7 de este Anexo, y realizando los ensayos correspondientes de laboratorio, según lo especificado en las Secciones 9 y 10; en cada una de las inspecciones, el resultado del examen clínico y de las pruebas correspondientes de laboratorio deberá haber sido que el establecimiento está exento de los agentes patógenos codificados en el Cuadro 1 de este Anexo.
+ii. posteriormente, deberá someterse a inspección clínica y a los correspondientes ensayos de laboratorio, especificados en 3.1 A(i), dos veces al año, en el momento oportuno.
+iii. cuando se sospeche la presencia de alguna enfermedad, deberán realizarse los oportunos ensayos de laboratorio, según se especifica en las Secciones 9 y 10 de este Anexo.
+
+B. Para Cyprinidae (véase también la Sección 5 de este Anexo). El establecimiento:
+i. deberá haber sido inspeccionado clínicamente al menos una vez al año, en una época en que la temperatura del agua oscile entre 13°C y 18°C. Las muestras habrán de tomarse según se especifica en la Sección 7 de este Anexo y someterse a ensayos de laboratorio en la forma indicada en las Secciones 9 y 10 del mismo.
+ii. posteriormente, habrá de someterse a inspección clínica al menos una vez al año, en el momento oportuno, procediendo a la toma de muestras igual que en el apartado 1 anterior si se sospecha la presencia de alguna enfermedad.
+
+3.2 Certificado 2
+i. Puede extenderse este certificado a los establecimientos CDF EXENTOS de todas las enfermedades codificadas en el Cuadro 1 de este Anexo.
+ii. Los criterios serán los mismos que los establecidos para las explotaciones CPF, salvo que los establecimientos CDF podrán abastecerse de ríos y otras fuentes naturales de agua en las que no haya signos de ninguna de las enfermedades causadas por los agentes patógenos codificados.
+iii. El muestreo, el examen clínico y las pruebas de laboratorio habrán de realizarse según lo previsto para las instalaciones CPF en 3.1 A y, si se trata de ciprínidos, en 3.1 B de este Anexo.
+iv. Si aguas arriba del establecimiento que se está examinando se encuentra otro establecimiento, es necesario determinar las enfermedades presente en éste y aplicar al establecimiento en examen la misma categoría que al situado aguas arriba.
+
+3.3 Certificado 3
+
+Podrá extenderse este certificado a los salmónidos y huevos de salmónidos procedentes de establecimientos SDF en los que estén presentes algunas de las enfermedades codificadas (véase el Cuadro 1). No es válido para los ciprínidos.
+
+Es necesario ajustarse a los criterios establecidos, pero conviene observar que en esas instalaciones pueden estar presentes una o más de las enfermedades enumeradas. Es importante poner una señal en la casilla correspondiente cuando la enfermedad en cuestión NO ESTA PRESENTE. No se indica la presencia de una enfermedad, sino sólo su ausencia.
+
+Si otro establecimiento SDF se encuentra aguas arriba del que está en examen, es necesario determinar las enfermedades de aquél. Si en el establecimiento o establecimientos situados aguas arriba está presente alguna enfermedad codificada (véase el Cuadro 1), no puede marcarse como ausente en el establecimiento que se está examinando.
+
+Sólo podrán extenderse certificados después de haber hecho las inspecciones previstas para los dos primeros años, y posteriormente no podrán seguir extendiéndose a menos que en cada uno de los años siguientes se haya procedido a dos inspecciones y no se sospeche, por razones clínicas o por otras razones, la presencia de alguna de las enfermedades codificadas. Las pruebas de laboratorio deberán hacerse en cada inspección y en cualquier otro momento en que se sospeche la presencia de alguna de las enfermedades codificadas.
+
+3.4 Certificado 4
+i. Este certificado podrá extenderse a establecimientos MD o a peces o huevos de peces procedentes de aguas libres.
+ii. Los establecimientos MD difieren de los demás por su situación ecológica y por su exposición a la infección. En la explotación no debe habe signos clínicos de enfermedad. Podrá extenderse el certificado sin más requisito que la inspección clínica previa, pero, si se sospecha la presencia de una enfermedad, es necesario realizar las oportunas pruebas de laboratorio, tal como se indica en las Secciones 9 y 10 de este Anexo, y rellenar en consecuencia el Certificado.
+iii. Cuando se inspeccionen peces o huevos de peces procedentes de aguas libres para extender el Certificado 4, es esencial que en los dos años anteriores, o al menos en cuatro ocasiones, se hayan tomado muestras (de acuerdo con la Sección 7 de este Anexo) de peces libres de la misma especie y de las mismas aguas y se hayan sometido a examen clínico y pruebas de laboratorio, en la forma indicada en las Secciones 9 y 10 de este Anexo, encontrándolos exentos de las enfermedades codificadas cuya ausencia se indica en el Certificado.
+
+4. PROCEDIMIENTOS DE CERTIFICACION PARA SALMONIDOS Y HUEVOS DE SALMONIDOS
+
+4.1 Para establecimientos CPF
+i. El Certificado inicial sólo podrá extenderse si, tras dos años sucesivos de inspección, según lo indicado en 3.1 A(i), no se han encontrado signos de la presencia de organismos patógenos codificados.
+ii. Posteriormente podrán extenderse certificados todos los años, cuando la inspección, realizada según lo indicado en 3.1 A(ii), haya mostrado la ausencia de organismos patógenos codificados.
+iii. Si el examen clínico hace sospechar la presencia de alguna de las enfermedades codificadas, es necesario suspender inmediatamente la extensión de certificados, y, si las pruebas de laboratorio confirman esa sospecha, anular inmediatamente el Certificado. El establecimiento no podrá volver a exportar hasta que se haya puesto remedio a la situación.
+iv. Para poder extender de nuevo un certificado, es necesario proceder previamente a desinfectar el establecimiento (véanse las recomendaciones en la Sección 16 de este Anexo) y repoblarlo luego con peces procedentes de otro establecimiento CPF. Durante el primer año después de la repoblación habrán de hacerse dos inspecciones, según lo indicado en 3.1 A(i), y si esas inspecciones y todas las pruebas resultan negativas, puede extenderse un nuevo Certificado. En los años siguientes, las inspecciones habrán de realizarse de acuerdo con lo indicado en 3.1 A(ii).
+v. Si la presencia de una enfermedad cuya presencia se sospechaba por razones clínicas no resulta confirmada por las pruebas de laboratorio, es necesario hacer lo antes posible una segunda serie de pruebas de laboratorio: no podrá extenderse de nuevo el Certificado hasta que los resultados de la segunda prueba de laboratorio hayan resultado negativos por lo que se refiere a la presencia de esa enfermedad.
+
+4.2 Establecimientos CDF
+i. En los establecimientos CDF han de aplicarse todos los procedimientos especificados para las granjas piscícolas CPF. Si en una explotación CDF se detecta una infección, puede deberse a la presencia de la enfermedad en el río o en alguna otra fuente incontrolable, en cuyo caso es preciso examinar con el piscicultor si la desinfección es económicamente viable. Si se estima que no vale la pena, es necesario reducir la categoría del Certificado al nivel adecuado.
+
+4.3 Establecimientos SDF
+
+Los procedimientos de inspección son los mismos que para los establecimientos CDF.
+
+4.4 Reclasificación
+
+Si en un establecimiento de cualquiera de las categorías indicadas se producen circunstancias que determinan una alteración del abastecimiento de aguas a dicho establecimiento o si su situación ecológica o geográfica resulta modificada por cualquier otra razón (por ejemplo, como consecuencia de actividades mineras o forestales), el Funcionario Certificador habrá de proceder a un nuevo examen de la situación.
+
+5. PROCEDIMIENTOS DE CERTIFICACION PARA CIPRINIDOS Y HUEVOS DE CIPRINIDOS
+
+i. Es necesario controlar todos los casos de mortandad, especialmente en primavera, con el agua a temperaturas entre 10° y 20°C. Si se sospecha de la presencia de virus VP, es obligatorio proceder al examen virológico.
+ii. Si no hay casos de mortandad, o si no resultan causados por virus VP, deberá tomarse el número oportuno de peces, como se especifica en la Sección 7 de este Anexo, en primavera, preferiblemente con el agua a temperaturas entre 13° y 18°C, y someterlos a examen clínico y pruebas de laboratorio, como se especifica en las Secciones 9 y 10 de este Anexo. Antes de extender un certificado es necesario proceder a un muestreo al año al menos durante dos años consecutivos.
+iii. Para extender el Certificado 1, el inspector ha de tener pruebas de que los peces se han criado en un ambiente no contaminado por el virus de viremia de primavera.
+iv. Si no se cumplen los requisitos necesarios para extender de nuevo el Certificado 1, ha de aumentarse el número de peces de la muestra, como se especifica en este Anexo (Sección 7). Una vez realizados el examen clínico y las pruebas de laboratorio indicados en la Sección 9 y 10 de este Anexo, puede extenderse un Certificado 2 ó 4.
+v. Cuando se observen signos clínicos de una enfermedad, habrá de suspenderse inmediatamente la extensión de certificados: si las pruebas de laboratorio confirman la sospecha, habrá de anularse inmediatamente el Certificado y la explotación no podrá exportar hasta que se haya puesto remedio a la situación.
+vi. Si se confirma la presencia de VP, los establecimientos CPF podrán desinfectarse según las instrucciones contenidas en este Anexo (Sección 16), pero, si se trata de establecimientos de otras categorías y la desinfección no es posible, sólo podrán extenderse en adelante certificados de categoría 4.
+vii. Si se confirma la presencia de VP y se aplican los procedimientos de desinfección especificados en este Anexo (Sección 16), podrán extenderse certificados si las pruebas dan resultado negativo en dos primaveras sucesivas.
+
+6. NOTAS SOBRE LAS INSPECCIONES
+
+Inicialmente es preciso realizar inspecciones durante dos años, para todos los certificados, y posteriormente cada seis meses o más a menudo (o según se determine de vez en cuando mediante Acuerdo Internacional).
+
+Conviene observar que lo que se determina es el estado sanitario de la explotación (es decir, como se indica en el certificado, del "Establecimiento de Origen") y no de cada una de las partidas de peces. La validez del procedimiento de certificación, por tanto, depende no sólo del diagnóstico clínico o de las pruebas de laboratorio, sino también de la situación geográfica y ecológica de la explotación y de su política de repoblación.
+
+Como se ha señalado anteriormente, las granjas piscícolas sólo deberán repoblarse con peces que vengan acompañados de un certificado de la misma categoría o de categoría superior que la de la explotación en cuestión. Si una explotación acepta peces o huevos de otra de eategoría inferior, sólo podrán extendérsele en el futuro certificados de esa categoría inferior, hasta que se hayan realizado, durante un período mínimo de dos años, las inspecciones y pruebas necesarias para reestablecerla en su categoría anterior. En el Cuadro 3 de este Anexo pueden verse algunos aspectos del estado sanitario de los establecimientos.
+
+Cuadro 1
+ORGANISMOS PATOGENOS Y ENFERMEDADES CODIFICADOS
+
+Los organismos patógenos codificados son:
+1. Virus de NPI
+2. Virus de NHI
+3. Virus de SHV
+4. Virus de VP (para ciprínidos)
+
+Las enfermedades codificadas son:
+1. NPI
+2. NHI
+3. SHV
+4. VP (para ciprínidos)
+
+Cuadro 2
+CATEGORIAS DE ESTABLECIMIENTOS
+
+Categoría Descripción Certificado
+CPF Establecimiento exento de los organismos patógenos codificados 1
+CDF Establecimiento exento de las enfermedades codificadas 2
+SDF Establecimiento exento de las enfermedades codificadas que se indican en el certificado 3
+MD Establecimientos que a la inspección clínica y, si se sospecha la presencia de enfermedades, en las pruebas de laboratorio, aparecen exentos de las enfermedades codificadas y en los que no hay indicios de la presencia de aquelllas enfermedades codificadas que se indican como ausentes en el certificado 4
+
+Cuadro 3
+ESTADO SANITARIO DE LAS EXPLOTACIONES
+
+Categoría del Establecimiento Presencia de Enfermedad Clínica Organismo Patógeno Anticuerpo Ambiente Infectado Producción Destinada a
+CPF - - - - Comercio internacional, reproducción, producción de huevos
+CDF - - - ± idem
+SDF - - ± ± Reproducción, repoblación de aguas libres, consumo o elaboración
+MD - ± ± ± or + Consumo inmediato y zonas infectadas
+
+7. MUESTREO
+
+7.1 Para las muestras se tomarán peces gravemente enfermos, moribundos y débiles; sólo se utilizarán peces aparentemente sanos para completar la muestra en caso necesario.
+
+7.2 Establecimientos de salmonicultura CPF y CDF
+
+El volumen mínimo de la muestra, por cada uno de los sistemas de abastecimiento de agua de la explotación, será el siguiente: durante el primero y el segundo año de inspección, se tomarán dos veces al año muestras de 40 peces; en los años consecutivos, la muestra se reducirá a 20 peces, con la misma frecuencia de muestreo. En la primera inspección de cada año se tomarán peces de 4-7 cm (...g) y para la segunda inspección (3-6 meses más tarde) se usarán peces del mismo año, de 10-15 cm (...g). Si en el momento de la inspección se encuentran peces de las dos tallas, la muestra deberá comprender peces de ambas.
+
+7.3 Establecimientos de ciprinicultura CPF y CDF
+
+En primavera, con el agua a temperaturas entre 10° y 20°C, puede atraerse a las carpas débiles del estanque hacia la entrada de agua dejándola fluir lentamente. Todos los peces capturados han de examinarse clínicamente. Para el examen virológico han de tomarse en total 80 peces, que sean representativos de todos los estanques. En cada inspección anual se repite el mismo procedimiento.
+
+7.4 Establecimientos de truticultura SDF
+
+A los establecimientos de esta categoría, el Certificado los declara exentos de una o más de las enfermedades especificadas.
+
+Independientemente de la enfermedad cuya ausencia se certifica, han de realizarse durante dos años exámenes clínicos y virológicos de acuerdo con lo indicado para los establecimientos de truticultura CPF y CDF.
+
+En los años siguientes, el tipo de examen necesario es diverso según las enfermedades:
+i. NPI: Igual que en los establecimientos de truticultura CPF y CDF después del período inicial de dos años
+ii. SHV: Examen clínico al menos dos veces al año. Examen virológico siempre que se observen síntomas análogos a los de la enfermedad.
+iii. NHI: Igual que para SHV.
+
+7.5 Establecimientos MD
+
+Esta es la categoría más baja de granjas piscícolas.
+
+El certificado, extendido sobre la base del examen clínico, las declara exentas de una o más de las siguientes enfermedades: SHV, NHI, VP.
+
+La inspección clínica se hace dos veces al año, a intervalos de seis meses aproximadamente. Sólo es necesario proceder al muestreo para examen virológico si se sospecha la presencia de una de las enfermedades especificadas. Pueden comenzarse a extender certificados después de dos inspecciones.
+
+8. HISTOLOGIA
+
+i. Aunque los exámenes histopatológicos pueden facilitar información utilísima para el diagnóstico, no deben utilizarse como procedimientos determinantes, sino como indicaciones presuntivas.
+ii. La única excepción es la mixosomiasis, en la que los trofozoítos sólo pueden deteotarse por métodos histológicos. Los cambios histopatológicos asociados con esta enfermedad están en relación con la fase de infestación.
+
+Durante los 70 primeros días, hay una ligera erosión del cartílago de la cabeza, sin indicios de proliferación tisular. En esta fase sólo se encuentran los trofozoítos de Myxosoma cerebralis.
+
+A los tres o cuatro meses de la infección, se encuentra en el cartílago de la cabeza una cavidad, como una lesión, debida a erosión de los tejidos, que contiene restos celulares, pero no hay inflamación o proliferación tisular. En esta fase se encuentran esporas de Myxosoma cerebralis.
+
+A los 8 ó 12 meses de la infección, se encuentra una proliferación de tejido epitelioide de granulación en torno a la masa de esporas de Myxosoma cerebralis. Este tejido epitelioide sustituye al tejido normal y origina un "quiste" semejante a un granuloma: el proceso afecta a la osteogénesis normal.
+
+9. PROCEDIMIENTOS PARA EL AISLAMIENTO E INDIVIDUACION DE ORGANISMOS PATOGENOS
+
+9.1 Transporte al laboratorio de diagnóstico
+
+Lo ideal es transportar los peces vivos moribundos en tanques aireados u oxigenados o en bolsas de plástico con oxígeno. Si no es posible transportar material vivo, deben transportarse los ejemplares en hielo. No deben congelarse ni almacenarse en glicerol.
+
+Los peces deben transportarse enteros, y sólo en casos excepcionales habrán de eviscerarse y juntar muestras de riñón, bazo, hígado y otros órganos en partidas, en número no superior a cinco y adecuadamente envasadas.
+
+Si se trata de reproductores, se recoge el fluido ovárico o seminal en el momento del desove en tubos estériles u otros recipientes adecuados.
+
+Heces: se recogen de 0,5 a 1,0 ml de heces recientes en 5,0 ml de solución salina fisiológica.
+
+Ni las heces ni los líquidos reproductores pueden congelarse: han de almacenarse en hielo o a 4°C durante no más de 24 horas.
+
+En las pruebas para determinar la presencia de mixosomiasis no deben utilizarse peces de menos de cuatro meses, ya que es poco probable que haya formación de esporas. Hay que descabezar peces de mayor edad y enviar las cabezas junto con las otras muestras.
+
+En el caso de furunculosis, se toman unas vetas de material y se colocan en caldo TSA o directamente en agar TSA y se envían junto con las otras muestras. Inmediatamente después de la llegada de las muestras al laboratorio, hay que colorear con Gram.
+
+9.2 Procedimientos de laboratorio
+
+Cuando las muestras llegan al laboratorio, separar el material para el diagnóstico de la mixosomiasis y la furunculosis. Homogeneizar los demas ejemplares con un volumen igual de una solución salina reguladora (pH 7,6-7,8) isotónica (solución de Earle o Hanks). Dejar sin diluir el fluido ovárico o diluir en relación 1:2 si está turbio. Centrifugar las muestras de tejido homogeneizado o fluido ovárico a 1 000-2 000 g durante 10-15 minutos. Eliminar las bacterias y hongos del líquido supernatante por filtración o con tratamiento antibiótico.
+
+Si se desea, puede centrifugarse el material en tubo estrecho a 5 000 g durante .... minutos, y tomar la capa superior del líquido supernatante, descartando los niveles inferiores y el gránulo.
+
+En caso necesario, no ajustar el pH a 7,6-7.8 e inocular el filtrado o el fluido tratado con antibióticos o centrifugado en dos botellas o tubos que contengan células adecuadas.
+
+En los ensayos de rutina para todos los virus, excepto VP, deben utilizarse células RTG-2, incubando a 15°C. Pero las células RTG-2 no son especialmente susceptibles al virus NHI y, si se sospecha la presencia de esta enfermedad o se desea específicamente aislar virus de NHI, deben utilizarse células de FHM. Para aislar virus de VP, es esencial utilizar células FHM, ya que este virus se desarrolla mal en células RTG-2.
+
+En todos los casos, las células FHM deben incubarse a 20°C.
+
+Conviene observar que algunos tipos de células RTG-2 y FHM no siempre son susceptibles a la variedad de virus inoculada. Es necesario, por tanto, utilizar siempre testigos positivos.
+
+Después de la inoculación en las células apropiadas, dejar transcurrir un período de absorción de 1 h a temperatura ambiente y añadir luego el volumen normal de medio de mantenimiento.
+
+Para los ensayos de virus, es importante utilizar solamente cultivos de células jóvenes y en crecimiento activo sembrados de uno a cuatro días antes y con una confluencia de 75-95 por ciento.
+
+La incubación debe continuar durante diez días, procediendo a exámenes regulares para ver si hay indicios de ECP.
+
+Con los cultivos de células inoculadas en que no aparezcan indicios de ECP al cabo de diez días de incubación se prepara un subcultivo (pasaje ciego), que se incuba como descrito supra durante otros diez días, procediendo a examenes regulares para determinar la presencia de ECP.
+
+La ausencia de ECP en el cultivo de células inoculadas y/en el subcultivo siguiente ha de interpretarse, a efectos de extensión del certificado, como resultado negativo.
+
+Si en las primeras 24 horas de incubación se encuentra un fuerte ECP, ello denota de ordinario que el extracto íctico inoculado es tóxico para las células. En esos casos, es necesario cosechar las células agitando el tubo o la botella enérgicamente. El material obtenido se somete a ultrasonidos durante diez segundos, se diluye en relación 1:5 en un medio de mantenimiento y se inocula de nuevo en cultivos frescos de células.
+
+Si se produce contaminación bacteriana o micótica de cultivo de células, es preciso cosechar el cultivo de células, someter el material obtenido a ultrasonidos durante 20-30 segundos, centrifugarlo a 1 000 g durante 15 minutos, filtrar el líquido supernatante a través de membrana de 0,5µ e inocularlo de nuevo en cultivos frescos.
+
+10. IDENTIFICACION SEROLOGICA DE VIRUS
+
+10.1 Es importante confirmar inequívocamente, en el menor tiempo posible, la identidad de los virus que eventualmente se haya aislado en el cultivo tisular. Los métodos que se describen a continuación son los más utilizados en la actualidad.
+
+En todo ensayo serológico es necesario utilizar antisueros uniformes^1, de especificidad conocida para los distintos virus de peces. Dada la diversidad serológica del grupo de virus NPI, la confirmación serológica de un aislamiento de virus de NPI ha de basarse en una reacción positiva con un suero polivalente para los principales serotipos del virus. Para ello pueden usarse tubos o placas de microtitulación.
+
+Los cultivos de células que muestren un ECP viral deben cosecharse, someterse a ultrasonidos durante 10 segundos y diluirse en proporción 1:1 000 en un medio de mantenimiento. Mezclar una parte alícuota del material diluido con un volumen igual del antisuero específico, en una dilución apropiada (según su título específico, pero de ordinario 10^-2 ó 10^-3, y otra parte alícuota con un volumen igual de medio de mantenimiento. Incubar durante 1 h a 20°C. Inocular, con un volumen normal de medio de mantenimiento, en cultivos frescos de células e incubar a la temperatura adecuada. Examinar los cultivos al cabo de 1, 2 y 3 días para ver si hay indicios de ECP.
+
+Si aparece ECP en los cultivos en los que se ha inoculado material cosechado mezclado con antisuero, ello indica que la identidad del virus no es la que se sospechaba o que la concentración de virus en dilución 10^-3 era demasiado elevada para ser neutralizada por el antisuero específico a 10^-2. Esto no ocurrirá de ordinario con NPI, ya que el antisuero de título elevado es fácil de preparar, pero puede ser un problema en los ensayos de neutralización de los tres Rhabdovirus (SHV, NHI y VP), para lo que es difícil preparar antisueros de título elevado. En estos casos se recomienda el método de reducción de placas. Para la identificación de los virus pueden utilizarse técnicas de inmunofluorescencia.
+
+10.2 Ensayo de reducción de placas - Si se prefiere, puede utilizarse este ensayo para todos los virus.
+
+Diluir el fluido de cultivo de los cultivos de células que muestren un ECP típico hasta que contenga aproximadamente 10^3 PFU/ml. Mezclar esa dilución con un volumen igual del antisuero adecuado, cuya dilución habrá de depender del título del antisuero utilizado, pero el título de neutralización no deberá ser inferior a 100. Mezclar otra parte del fluido diluido de cultivo con igual volumen de medio de mantenimiento. Para disponer de testigos positivos, mezclar cantidades iguales de antisuero y testigo negativo, respectivamente, con una variedad de virus de referencia.
+
+Conservar a temperatura ambiente durante una hora las mezclas preparadas como se describe más arriba. Añadir una parte alícuota de cada una de las mezclas a dos cultivos de células de sensibilidad conocida, en cápsulas de Petri, en el volumen adecuado. Después de media hora de adsorción, cubrir los cultivos de células con un medio que contenga 0,5 por ciento de agarosa. Como controles negativos, utilizar dos cultivos de células no inoculados, en cápsulas.
+
+Incubar las cápsulas de Petri con los cultivos de células durante 48-72 horas a 15°C o 20°C, según convenga, colorear las capas de células con rojo neutro (0,2 mgm/ml) y contar el número de placas. Una reducción del 40 por ciento o más en el número de placas en las cápsulas de Petri inoculadas con la mezcla virus-antisuero se considera prueba de la presencia del virus correspondiente en el material examinado.
+
+^1 Los requisitos mínimos para los antisueros habrán de ser determinados a intervalos por el Comité Científico Asesor
+
+11. PROCEDIMIENTOS PARA LA DETECCION DE LA MIXOSOMIASIS
+
+En las referencias que se citan a continuación pueden encontrarse procedimientos recomendados para la detección de esporas de Myxosoma cerebralis:
+
+11.1 Técnicas de digestión
+a. Markiw y Wolf (1974), J.Fish.Res.Bd Can., 31, pp. 15-20
+b. Markiw y Wolf (1974), J.Fish.Res.Bd Can., 31, pp. 1597-1600
+c. Rydlo, M. (1971), Österreichs Fisch., 24, pp. 97-9
+
+11.2 Método de centrifugación de plancton
+a. O'Grodnick, J.J. (1975), J.Wildl.Dis., 11, pp. 54-7
+
+12. PROCEDIMIENTOS PARA LA IDENTIFICACION DE LA FURUNCULOSIS
+
+12.1 Identificación bacteriológica ordinaria
+
+El diagnóstico presuntivo de furunculosis basado en los signos clínicos y en los resultados del examen histopatológico debe confirmarse en laboratorio aislando Aeromonas salmonicida, agente causante de la enfermedad. Para la detección de la bacteria son aceptables los siguientes procedimientos.
+
+Examinar material procedente de lesiones y tejidos de peces enfermos en preparaciones en húmedo y en frotis coloreados con Gram. Colocar además material de las lesiones y los tejidos en placas de furunculosis agar o TSA, en las que A. salmonicida produce, al cabo de 48 horas de incubación a 20-25°C, un pigmento típico de color pardo, soluble en agua. La presencia de bastoncillos no movibles, asporógenos, Gram-negativos en el material tomado de las lesiones y tejidos de peces enfermos, y el aislamiento de colonias que produzcan un pigmento difusible de color pardo en furunculosis agar o TSA, constituyen un buen indicio para suponer la existencia de A. salmonicida en las muestras examinadas. Es importante observar, sin embargo, que se sabe que existen variedades acromogénicas de A. salmonicida.
+
+La identificación de todas las colonias que se sospeche sean de A. salmonicida debe hacerse por los procedimientos siguientes:
+
+Ensayo de citrocromo-oxidasa, en cultivos de 24-48 horas (A. salmonicida es positiva a la citrocromo-oxidasa).
+
+12.2 Identificación serológica
+
+Ensayo de aglutinación en portaobjetos: emulsionar una colonia de 24 horas de edad en solución salina fisiológica. Colocar dos gotas de la suspensión resultante, por separado, en un portaobjetos. Examinar ambas gotas con una lupa para ver si hay autoaglutinación. Si no se produce autoaglutinación, anadir una gota de antisuero A. salmonicida a una de las gotas de suspensión, y añadir a la segunda una gota de solución salina normal. Si se produce aglutinación en la gota de suspensión a la que se ha añadido antisuero, y no se produce en el testigo (suspensión-solución salina), la bacteria aislada es A. salmonicida. Si se produce autoaglutinación, el ensayo no es válido.
+
+El antisuero A. salmonicida no existe en comercio, pero puede prepararse en laboratorio. Según su título, puede ser necesario diluirlo. Recuérdese que ha de añadirse el antisuero a la gota, no la gota al antisuero.
+
+En los documentos que se citan a continuación pueden encontrarse dos métodos recomendados para la detección de A. salmonicida:
+i. McCarthy y Rawle (1975), J.Gen.Microbiol., 86, pp. 185-7
+ii. McCarthy (1975), J.Gen.Microbiol., 88, pp. 384-6
+
+El primero es un ensayo de hemoaglutinación pasiva y en el segundo se utiliza látex revestido de anticuerpos.
+
+NOTAS:
+1. El diagnóstico de la furunculosis en peces portadores asintomáticos, sobre la base de intentos de aislar A. salmonicida, es un procedimiento poco fiable, especialmente cuando la bacteria está presente en pequeno número. Hay que tener, pues, cuidado a la hora de certificar que salmónidos aparentemente sanos están libres de furunculosis.
+2. En todos los casos, la identificación de Aeromonas salmonicida debe confirmarse con los ensayos bioquímicos clásicos.
+
+13. PROCEDIMIENTO PARA LA DESINFECCION DE HUEVOS EMBRIONADOS DE PECES CULTIVADOS DE LA FAMILIA SALMONIDAE
+
+De acuerdo con los requisitos para la extensión de certificados especificados en el Anexo II de la Convención Internacional para Combatir las Enfermedades Transmisibles de los Peces, de 19 .., cada partida de huevos embrionados de peces cultivados de la familia Salmonidae habrá de desinfectarse inmediatamente antes de la expedición. El desinfectante utilizado habrá de ser un compuesto orgánico aprobado de yodo^1, de eficacia comprobada en la destrucción de los virus (NPI, NHI, SHV) y de algunos agentes patógenos bacterianos de los peces (por ejemplo aeromonas, vibriones, mixobacterias) que pueden encontrarse en la superficie de los huevos embrionados.
+
+El compuesto orgánico aprobado de yodo se diluye en agua inmediatamente antes de utilizarlo, para obtener una concentración final eficaz de 75-100 ppm de yodo disponible (en forma de I[2] libre)^2. Los huevos embrionados se exponen a esta solución desinfectante recién preparada durante cinco minutos. Para asegurar un máximo de actividad destructiva de virus, ajustar el pH del agua en la que se diluye el desinfectante a un nivel aproximadamente neutro (pH 7,0). Durante el tiempo en que los huevos están inmersos en la solución desinfectante, el agua no debe contener materia orgánica, o sólo un mínimo.
+
+Al desinfectar los huevos debe utilizarse un volumen suficiente de solución desinfectante. A la hora de preparar la solución, es importante que la relación entre la cantidad de la dilución final del compuesto aprobado y el volumen de los huevos sea de 50 1 (15 galones) de solución por 100 000 huevos (o sea, 10 volúmenes de desinfectante por un volumen de huevos).
+
+NOTAS:
+1. Varias casas comerciales producen un compuesto orgánico aprobado de yodo, pero el "compuesto aprobado de yodo" es el polivinilpirrolinoa-yodo (PVP-I), que contiene 1 por ciento de yodo disponible.
+2. Las soluciones acuosas recién preparadas del compuesto aprobado de yodo son de color ámbar. Cuando el color se atenúa, por inactivación o eliminación del yodo disponible, se considera que la solución ha perdido su eficacia como desinfectante y no debe utilizarse de nuevo.
+
+^1 o una sustancia equivalente
+
+^2 o a 50 ppm durante 15 minutos
+
+14. PROCEDIMIENTOS PARA LA DESINFECCION DE LOS TANQUES Y OTROS RECIPIENTES UTILIZADOS PARA TRANSPORTAR PECES VIVOS
+
+Los tanques y otros recipientes utilizados para transportar peces vivos deben limpiarse a fondo y desinfectarse antes de cada expedición, con un método eficaz de desinfección. El procedimiento siguiente se considera aceptable:
+1. Limpieza mecánica a fondo con una lavadora a presión, utilizando una solución de hidróxido de sodio al 0,2 por ciento;
+O
+frotando a mano con un cepillo, con una solución de hidróxido de sodio al 0,2 por ciento;
+O
+con otros métodos de eficacia equivalente.
+2. Después de la limpieza, desinfectar a fondo el tanque o recipiente rociándolo con formalina (calidad comercial) diluida en agua en relación 1:50.
+
+15. PROCEDIMIENTOS PARA LA DESINFECCION DE LOS TANQUES Y OTROS RECIPIENTES UTILIZADOS PARA TRANSPORTAR HUEVOS DE PECES
+
+Los recipientes utilizados para transportar huevos de peces deben ser del tipo no reutilizable, y deben destruirse siempre por incineración inmediatamente después de su empleo. Es esencial que los recipientes no reutilizables sean siempre nuevos y no se hayan utilizado nunca anteriormente.
+
+16. PROCEDIMIENTOS RECOMENDADOS PARA LA DESINFECCION DE LOS ESTABLECIMIENTOS DE PISCICULTURA
+
+1. Dejar salir el agua o extraerla por bombeo, y eliminar todo el cieno y demás detritus.
+2. Cubrir abundantemente los estanques, embalses y demás depósitos con cal viva, utilizando al menos ½ kg/m^2.
+3. Limpiar cuidadosamente los embalses, presas, filtros y todo el equipo de la piscifactoría, así como el interior de la misma, los locales donde se preparan los piensos y otros locales utilizados para el equipo, con una solución al 2 por ciento de NaOH (20 g NaOH/10 litros de agua) cepillando o, preferiblemente, utilisando una manguera a presión, con el agua como mínimo a 60°C.
+4. Secar todo el equipo y maquinaria utilizados en 1, 2 y 3 y rociarlo con una solución de formalina al 2 por ciento (200 ml de formalina de calidad comercial por 10 litros de agua) o con una solución de yodo que contenga 50-100 ppm de yodo libre.
+5. En los casos en que no es posible dejar escurrir adecuadamente el agua de los embalses, secarlos por bombeo al menos en dos ocasiones durante el período de limpieza y recubrirlos en cada ocasión con la cantidad de cal viva indicada en el apartado 2 anterior.
+6. Limpiar el equipo para el transporte de los peces antes de usarlo, según las instrucciones que se dan en el Anexo III (Sección 14).
+7. Cuando los peces se transportan en vehículos y es necesario cambiar el agua durante el viaje, el agua de los recipientes deberá descargarse sólo en lugares aprobados, que sea posible desinfectar posteriormente.
+
+ANEXO IV
+LISTA DE LAS ENFERMEDADES DE LOS PECES INCLUIDAS EN LA CONVENCION
+
+A. Enfermedades de los peces incluidas a efectos de extensión de certificados
+a. Familia Salmonidae
+i. Necrosis pancreática infectiva (NPI)
+ii. Necrosis hematopoyética infectiva (NHI)
+iii. Septicemia hemorrágica viral (SHV)
+b. Familia Cyprinidae
+iv. Viremia primaveril (VP)
+
+B. Enfermedades de los peces y estados patógenos incluidos sólo con carácter informativo
+a. Familia Salmonidae
+i. Mixosomiasis
+ii. Furunculosis
+iii. Eritrodermatitis
+
+(fin de los anexos técnicos modificados)
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CODIGO ZOOSANITARIO INTERNACIONAL
+
+14. Se pidió al Dr. H. Gasse, Presidente de la Comisión Permanente de la OIE para el Código Zoosanitario Internacional, que explicara el funcionamiento del Código. Tras explicar el origen, la evolución y los principios del Código, el Dr. Gasse indicó que su aplicación no es en absoluto incompatible con la existencia de convenciones internacionales sobre la misma cuestión.
+
+Declaró que las principales disposiciones de los anexos técnicos examinados durante la Consulta podrían sin dificultad y en un plazo razonable introducirse en el Código Zoosanitario de la OIE, con lo que pasarían a ser Recomendaciones para los diversos países interesados, que le permitirían iniciar programas para combatir las enfermedades de los peces y les animarían a aplicar esas disposiciones inmediatamente con carácter voluntario.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ACCION FUTURA
+
+15. La Consulta pasó luego a examinar lo que habría de hacerse en el futuro con el proyecto de Convención y los anexos técnicos. Durante el examen de esta cuestión, se puso en duda el valor potencial de la Convención, dada la intención de varios países de adoptar o seguir aplicando requisitos de importación más estrictos que los previstos en el proyecto de Convención. Se hizo notar, sin embargo, que la Convención se basaba en el concepto de una transición gradual de normas más fácilmente aceptables a normas cada vez más estrictas. La Consulta opinó que no sería necesario ni oportuno convocar una nueva Consulta sobre el proyecto de Convención, aunque, como se ha hecho notar antes en este mismo informe, quizá fuera necesario elaborar ulteriormente los anexos técnicos. El objetivo último, pues, ha de ser la adopción de la Convención en una Conferencia de Plenipotenciarios. Se estimó, sin embargo, que no debía perderse el impulso del trabajo ya realizado en la preparación de
+la Convención. La Consulta pidió, por tanto, que se distribuyera lo antes posible un informe de sus deliberaciones a los Gobiernos, no sólo a aquéllos representados en la Consulta, sino también a otros Gobiernos que pudieran estar interesados en los trabajos de la misma. La Consulta adoptó la siguiente resolución:
+
+Consciente de que:
+1. el desarrollo de escala mundial de la acuicultura en aguas dulces y marinas determina un movimiento cada vez mayor de peces vivos y huevos de peces, que probablemente se traducirá en una mayor difusión de las enfermedades transmisibles de los peces, si no se aplican, para combatir esas enfermedades, los métodos científicos ya conocidos;
+2. la Consulta de la FAO celebrada en 1974 en Aviemore, Escocia, y la presente Consulta han mostrado claramente las ventajas de la cooperación internacional, determinando una mayor conciencia de los problemas ictiosanitarios, una mejor comprensión de los diversos modos de combatir y prevenir las enfermedades de los peces y un mayor empeño por prevenir esas enfermedades.
+
+Recomienda que:
+1. las delegaciones consulten a sus Gobiernos en orden a conseguir que uno de ellos convoque y hospede lo antes posible una Conferencia de Plenipotenciarios;
+2. se invite a la FAO y la OIE, como organizaciones patrocinadoras, a contribuir a los trabajos preparatorios de esa Conferencia y en especial a la preparación de los documentos de la misma.
+
+Teniendo en cuenta los retrasos que es de prever se produzcan en la convocación de una Conferencia de Plenipotenciarios, la Consulta pasó a ocuparse de la posibilidad de aplicar provisionalmente algunas medidas y a tal propósito adoptó la siguiente recomendación:
+
+Recomendación 2
+
+La Consulta:
+
+consciente de la urgencia de adoptar medidas para prevenir la propagación de las enfermedades transmisibles de los peces,
+
+consciente de que es posible que se produzcan retrasos en la convocación de una Conferencia de Plenipotenciarios y la adopción de una Convención,
+
+teniendo en cuenta el trabajo realizado hasta la fecha por los países interesados, la FAO/CAEPC y la OIE,
+
+Recomienda:
+a. que el contenido de la Convención, y en especial los certificados sanitarios y los procedimientos uniformes de certificación preparados por la Consulta y enmendados por los Grupos de Trabajo (previstos por la Consulta) que se reunirán posteriormente, se adopten lo antes posible como parte pertinente del Código Zoosanitario de la OIE;
+b. y que los países representados en esta Consulta procedan con la mayor rapidez a aplicar el Código Zoosanitario así enmendado al control de los movimientos internacionales de peces vivos y huevos de peces.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CLAUSURA DE LA CONSULTA
+
+16. El Co-Presidente de la Consulta expresó su agradecimiento a las dos organizaciones patrocinadoras, la OIE y la FAO, y a los funcionarios de las mismas, por haberse encargado de organizar la consulta. El Vicepresidente de la OIE, Dr. Laaberki, expresó la gratitud de la Comisión de la OIE a las dos Secretarías por su fructuosa cooperación y declaró clausurada la Consulta.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+APENDICE A
+LISTA DE DELEGADOS Y OBSERVADORES
+
+Alemania (República Federal de)
+
+VOETZ, Dr. N.
+Regierungsdirektor
+Bundesministerium für Ernährung, Landwirtschaft und Forsten
+Rochusstrasse 1
+D-5300 Bonn
+
+BÖRGER, Dr. K.
+Regierungsdirektor
+Bundesministerium für Ernährung, Landwirtschaft und Forsten
+Rochusstrasse 1
+D-5300 Bonn
+
+TIEWS, Prof.Dr. K.
+Direktor
+Institut für Küsten- und Binnenfischerei der Bundesforschungsanstalt für Fischerei
+Palmaille 9
+D-2000 Hamburg 50
+
+KOOPS, H.
+Biologist
+Institut für Küsten- und Binnenfischerei der Bundesforschungsanstalt für Fischerei
+Palmaille 9
+D-2000 Hamburg 50
+
+REICHENBACK-KLINKE, Prof.Dr. H.H.
+Institut für Zoologie & Hydrobiologie der Universität München
+Kaulbachstrasse 37
+D-8000 München 22
+
+SCHULTZ, Frau Dr. Dorothea
+Fish Pathologist, Fachtieranst für Fische
+Bundesgesundheitsamt, Institut für Veterinärmedizin (Robert von Ostertag Institut)
+Unter den Eichen 82-84
+D-1000 Berlin 33
+
+DANGSCHAT, Dr. H.
+Tiergesundheitsdient Bayern e.V.
+Senator-Gerauer-Strasse 23 - Post Poing
+D-8011 Grub bei München
+
+SCHLOTFELDT, Dr. H.J.
+Institut für Virologie der Tierärztlichen Hochschule Hannover
+Büntweg 17
+3000 Hannover-Kirchrode
+
+v. LUKOWICZ, Dr. M.
+Direktor
+Bayerische Landesanstalt für Fischerei
+Weilheimer Strasse 8a
+D-8130 Starnberg
+
+WEHRMANN, Dr. L.
+Fishery Biologist
+Institut für Hydrobiologie und Fischereiwissenschaft
+Olbersweg 24
+Hamburg 50
+
+Canadá
+
+PRITCHARD, Dr. I.
+Associate Director
+Fisheries Research Branch
+Aquaculture and Cooperative Reserach
+Resource Services Directorate
+Department of Fisheries and Environment
+Ottawa, Ontario
+
+Checoslovaquia
+
+MARJANKOVA, Miss Karla
+Veterinary doctor
+State Veterinary Institute
+Timiru 79
+37139 Ceske Budejovice
+
+Colombia
+
+DEL REAL, E.
+Biólogo Pesquero
+Jefe División Pesca Continental
+INDERENA-Instituto Nacional de Recursos Naturales Renovables
+Apartado Aéreo 17798
+Bogotá
+
+Dinamarca
+
+LAURITSEN, T.
+Assistant Secretary/Head of Division
+Ministry of Fisheries
+Borgergade 16
+1300 Copenhague K.
+
+CHRISTENSEN, Prof. N.O.
+Royal Veterinary and Agricultural University
+Buelowsvej 13
+1870 Copenhague V.
+
+GOTTLIEB, M.
+Federation of European Trout Producers
+7330 Brande
+
+KEHLET, N.P.
+Veterinary Officer
+Veterinary Services
+7361 Ejstrupholm
+
+KOFOED, T.
+Principal
+Ministry of Agriculture
+Slotsholmsgade 10
+1216 Copenhague K.
+
+VESTERGARD JØRGENSEN, Dr. P.E.
+Senior Research Officer
+Government Veterinary Serum Laboratory
+Hangoevej 2
+8200 Aarhus N.
+
+España
+
+ZARZUELO, E.
+Doctor Veterinario
+Laboratorio Regional de Sanidad Animal
+Ministerio de Agricultura
+Av. Iranzo N^o 6
+Zaragoza
+
+DIAZ YUBERO, M.A.
+Doctor Veterinario
+Jefe de la Sección de Epizootología y Zoonosis
+Instituto Nacional para la Conservación de la Naturaleza
+ICONA
+Gran Vía San Francisco 35
+Madrid
+
+Finlandia
+
+VALTONEN, Dr. M.
+State Veterinary Medicine Institute
+Box 368
+00101 Helsinki 10
+
+Finlandia
+
+BERGER, Dr. R.
+Veterinary Department
+Ministry of Agriculture and Forestry
+Halliserkaku 3
+Helsinki 17
+
+Francia
+
+LAGOIN, Y.P.C.
+Chef du Bureau d'Inspection des Produits de la Pêche et des Maladies des Poissons
+Service Vétérinaire de l'Inspection des denrées d'origine animale
+Direction de la Qualité
+5, rue Ernest Renan
+92130 Issy les Moulineaux
+
+TIXERANT, G.
+Directeur
+Laboratoire National de Pathologie des Animaux Aquatiques
+Centre océanologique de Bretagne (C.O.B.)
+Boîte postal 337
+29273 Brest Cedex
+
+TUFFERY, G.
+Chef du Service de Pathologie des élevages d'animaux sauvages et de la faune continentale
+Laboratoire central de recherches vétérinaires
+22, rue Pierre Curie
+94700 Maisons-Alfort
+
+Grecia
+
+PNEYMATICATOS, G.
+Directeur
+Service d'Inspection des Produits des Pêches et Ichtyopathologie
+Ministère de l'Agriculture
+Alcameynus 66 TT.110
+Athènes
+
+Hungría
+
+THURANSZKY, Dr. Z.
+Adviser, Fisheries Research Institute
+Szarvas
+Belgrad rkp. 25
+Budapest V
+
+KOLTAI, Dr. L.
+Senior Officer
+Ministry of Agriculture and Food
+Ervin V8
+Budapest II
+
+Irlanda
+
+O'BRIEN, Dr. D.J.
+Veterinarian
+Veterinary Research Laboratory
+Abbotstown
+Castleknock
+Co. Dublin
+
+DOYLE, Miss J.
+Assistant Inspector of Fisheries
+Fisheries Division
+Department of Agriculture and Fisheries
+3 Cathal Brugha Street
+Dublin 1
+
+Islandia
+
+GUDJONSSON, T.
+Director
+Institute of Freshwater Fisheries
+Bustadaveg 9
+P.O. Box 754
+Reykjavik
+
+Japón
+
+TANABE, R.
+First Secretary
+Embassy of Japan
+Via Quintino Sella 60
+Roma, Italia
+
+HARA, T.
+Technical Officer
+Research Division
+Fishery Agency
+1-2-1 Kasumigaseki, Chiyoda-ku
+Tokyo
+
+SAITO, M.
+Premier Secrétaire
+Ambassade du Japon
+34, rue du Docteur-Blanche
+75016 París, Francia
+
+EGUSA, S.
+Professor, Department of Fisheries
+University of Tokyo
+1-1-1 Yayoi, Bunkyo
+113 Tokyo
+
+Noruega
+
+HÅSTEIN, T.
+Veterinary Inspector in Fish Diseases
+National Veterinary Institute
+P.O. Box 8156 Dep.
+Oslo 1
+
+Países Bajos
+
+JANSSEN, J.
+Veterinary Inspector
+Ministry of Agriculture and Fisheries
+The Hague
+
+VERSOL, K.J.
+Legal Adviser
+Ministry of Agriculture and Fisheries
+The Hague
+
+BOOTSMA, R.
+Fish Pathologist
+Department of Special Animal Pathology
+University of Utrecht
+Utrecht
+
+van der EIJK, Mrs. M.
+Fisheries Consultant
+Ministry of Agriculture and Fisheries
+The Hague
+
+Polonia
+
+BACKIEL, Prof.Dr. T.
+Inland Fisheries Institute
+Piaseczno
+05-50 Zabieniec
+
+Portugal
+
+MENEZES, Dr. J.
+Docteur vétérinaire
+Direcção Geral de Investigação das Pescas
+Alges-Praia
+Lisboa 3
+
+Reino Unido
+
+STRAY, P.B.C.
+Principal
+Fisheries Division
+Ministry of Agriculture, Fisheries and Food
+Great Westminster House
+Horseferry Road
+London SW1
+
+WARD, B.G.S.
+Principal
+Department of Agriculture and Fisheries for Scotland
+Chesser House
+500 Gorgie Road
+Edinburgh EH11 3AW
+
+Reino Unido
+
+HILL, Dr. B.J.
+Principal Scientific Officer
+Ministry of Agriculture, Fisheries and Food
+Fish Diseases Laboratory
+The Nothe
+Weymouth, Dorset DT4 8UB
+
+MUNRO, Dr. A.L.S.
+Team Leader of Research Diagnostics
+Department of Agriculture and Fisheries for Scotland
+Marine Laboratory
+Victoria Road, Torry
+Aberdeen
+
+LOWES, E.
+Assistant Chief Veterinary Officer
+Ministry of Agriculture, Fisheries and Food
+Hook Rise South, Toworth
+Surbiton, Surrey KT6 7NF
+
+STEVENSON, Dr. J.P.
+FAO Consultant
+Director
+Fish Diseases Laboratory
+The Nothe
+Weymouth, Dorset DT4 8UB
+
+Suecia
+
+LJUNGBERG, O.
+Veterinarian
+Statens Veterinärmedicinska Anstalt
+S-10405
+Estocolmo 50
+
+Suiza
+
+KLINGER, Dr. K.
+Chef, Laboratoire fédéral de recherche sur les maladies des poissons
+Institut de bactériologie vétérinaire de l'Université de Berne
+Case postale 2735 Tierspital
+3001 Berne
+
+MEIER, Dr. W.
+Laboratoire fédéral de recherche sur les maladies des poissons
+Institut de bactériologie vétérinaire de l'Université de Berne
+Case postale 2735 Tierspital
+3001 Berne
+
+Venezuela
+
+CONROY, Dr. David A.
+Asistant to FAO Consultant
+Profesor
+Departamento de Ictiopatología
+Facultad de Ciencias Veterinarias
+Universidad Central de Venezuela
+Apartado de Correos N^o 4563
+Macaray 2 KO
+Edo. Aragua
+
+Yugoslavia
+
+FIJAN, Prof.Dr. N.
+Veterinary Faculty
+P.O. Box 190
+41001 Zagreb
+
+OBSERVADORES
+
+Comunidad Económica Europea
+
+BENDIXEN, H.
+Chef de Division
+Direction Générale de l'Agriculture
+200, rue de la Loî
+Bruxelles
+
+CONTARDO, F.
+Administrateur Principal
+Commission des Communautés Economiques Européennes
+200, rue de la Loî
+Bruxelles
+
+Consejo Internacional para la Exploración del mar
+
+TIEWS, Prof.Dr. K.
+Director
+Institut für Küsten- und Binnenfischerei der Bundesforschungsanstalt für Fischerei
+Palmaille 9
+D-2000 Hamburg-50
+
+KÖLBL, Dr. O.
+Veterinarian
+Bundesanstalt für Virüssendienbekampfung
+Emil Behringweg 3
+A-1231 Wien
+
+OBSERVADORES
+
+CHAUVEHEID, A.
+Délégué technique du Syndicat des Pisciculteurs belges
+67, rue de l'Infanta
+Waterloo
+
+EVRARD, Dr. G.
+Inspecteur Vétérinaire
+Inspection Vétérinaire
+Administration de l'Elevage et du Service Vétérinaire
+Ministère de l'Agriculture
+18 Bld de Berlaimont
+1000-Bruxelles
+
+BARTMANN, K.
+Deutscher Fischerei-Verband
+German Inland Fishery Association
+Nüremberg
+
+GRAF CASTELL, W.D.
+Chairman
+German Inland Fishery Association
+Hugo Gunkerstrasse 6
+8022 München Grünwald
+
+HOFER, P.
+German Inland Fishery Association
+B.P. 16
+D7238 Oberndorf 4
+
+KEITZ, Dr. Günter
+Bay. Staatsministerium für Ernährung, Landwirtschaft und Forsten
+Postfach 2182450
+D8 München 22
+
+KUHLMANN, H.
+Scientific Cooperator
+Bundesforschungsanstalt für Fischerei
+Palmaille 9
+2 Hamburg-50
+
+PFEIL, Frau Dr. Cornelia
+Veterinarian
+Tiergesundheitsdient Bayern e.V.
+Senator-Gerauer-Strasse 23 - Post Poing
+8011 Grub bei München
+
+GIORGETTI, G.
+Chef
+Istituto Zooprofilattico
+Laboratorio Ittiopatologia
+Via Petrarca 76
+Udine
+
+EGIDIUS, Dr. Emmy
+Fish Pathologist
+Directorate of Fisheries
+Institute of Marine Research
+5011 Bergen-Nordnes
+
+Fédération Européenne de la Salmoniculture
+
+TESSIER, A.
+Secrétaire
+11, rue Milton
+75009 Paris
+
+GOTTLIEB, M.
+Président Section Danoise
+Federation of European Trout Producers
+7330 Brande
+
+SECRETARIA CONJUNTA
+
+Oficina Internacional de Epizootias
+
+Laaberki, Dr. A.
+Vice Président de l'OIE
+Délégué permanent du Maroc auprès de l'OIE
+Directeur de l'Institut de Biologie Animale
+El Harhoura par Temara
+Marruecos
+
+VITTOZ, Dr. R.
+Directeur Général de l'OIE
+12, rue de Prony
+75017 París
+
+GASSE, Dr. H.
+Président de la Commission Permanente du Code Zoo-Sanitaire International
+7, Sentier des Jardies
+92190 Meudon, Francia
+
+Secretaría OIE
+
+GHITTINO, Prof. P.
+Président de la Commission Permanente pour l'Etude des Maladies des Poissons
+Via Bologna 148
+Torino, Italia
+
+FIJAN, Prof. N.
+Vice Président
+Faculté Vétérinaire
+P.O. Box 190
+41001 Zagreb, Yugoslavia
+
+de KINKELIN, Dr. P.
+Secrétaire Général
+Directeur du Laboratoire d'Ichtyopathologie
+Institut National de la Recherche Agronomique
+78850 Thiverval-Grignon
+Francia
+
+Organización de las Naciones Unidas para la Agricultura y la Alimentación
+
+CARROZ, J.E.
+Oficial Superior Jurídico
+(Pesca Internacional)
+FAO
+Roma
+
+MOORE, G.K.F.
+Oficial Jurídico
+Oficina Jurídica
+FAO
+Roma
+
+GAUDET, J.L.
+Oficial de Enlace de Pesca
+Servicio de Políticas y Planificación
+Departamento de Pesca
+FAO
+Roma
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+APENDICE B
+PROGRAMA
+
+1. Reunión preparatoria de técnicos
+2. Apertura de la Consulta
+3. Aprobación del programa y organización de la Consulta
+4. Elección de la mesa
+5. Proyecto de convención internacional para combatir la propagación de las principales enfermedades transmisibles de los peces, y anexos técnicos
+6. Otros asuntos
+7. Aprobación del informe
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice
+
+
+APENDICE C
+LISTA DE DOCUMENTOS
+
+Documentos de Trabajo
+FID:CFD/76/1 Programa provisional
+FID:CFD/76/2 Calendario provisional
+FID:CFD/76/3 Proyecto Revisado de la Convención Internacional para combatir la propagación de las principales enfermedades transmisibles de los peces, con inclusión del texto original, notas explicativas y el nuevo texto
+FID:CFD/76/3 Sup.1 Anexos técnicos del proyecto revisado de la Convención
+FID:CFD/76/4 Análisis de las observaciones de los gobiernos y de las organizaciones interesadas a propósito del proyecto de Convención
+Documentos Informativos
+FID:CFD/76/Inf.1 Lista de documentos
+FID:CFD/76/Inf.2 Informe de la Consulta Gubernamental sobre una Convención Internacional para combatir la propagación de las principales enfermedades transmisibles de los peces (Aviemore, Escocia, 30 abril-1 mayo 1974)
+FID:CFD/76/Inf.3
+(solamente en inglés y francés) Report of the Symposium on the major communicable fish diseases in Europe and their control/Rapport du Symposium sur les principales maladies transmissibles des poissons en Europe et la lutte contre celles-ci
+FID:CFD/76/Inf.4
+(solamente en inglés y francés) The major communicable fish diseases of Europe and North America - A review of national and international measures for their control/Les principales maladies transmissibles des poissons en Europe et en Amérique du Nord - Examen des mesures nationales et internationales sur la lutte contre ces maladies
+FID:CFD/76/Inf.5 Información para los participantes
+FID:CFD/76/Inf.6 Lista de delegados y observadores
+
+Back Cover
+
+
+Página precedente Inicìo de página

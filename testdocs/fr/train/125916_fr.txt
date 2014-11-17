@@ -1,0 +1,1245 @@
+Manuel de formation pour les vulgarisateurs et les paysans - Des alternatives au bromure de méthyle pour la fumigation du sol
+
+
+
+préparé par
+R. Braga
+R. Lambrada
+L. Fornasari
+N. Fratini
+
+UNITÉ ÉNGERIE ET ACTION DE L'OZONE
+PROGRAMME DES NATIONS UNIES POUR L'ENVIRONNEMENT
+ORGANISATION DES NATIONS UNIES POUR L'ALIMENTATION ET L'AGRICULTURE
+Rome, 2003
+
+Table des matières
+
+
+Les opinions exprimées dans la présente publication sont celles du/des auteur(s) et ne reflètent pas nécessairement celles de l'Organisation des Nations Unies pour l'alimentation et l'agriculture ni du Programme des Nations Unies pour l'environnement, et la mention de marques et de sociétés commerciales n'implique aucun appui de la part de ces organisations.
+
+Les appellations employées dans cette publication et la présentation des données qui y figurent n'impliquent de la part de l'Organisation des Nations Unies pour l'alimentation et l'agriculture ni du Programme des Nations Unies pour l'environnement aucune prise de position quant au statut juridique des pays, territoires, villes ou zones ou de leurs autorités, ni quant au tracé de leurs frontières ou limites.
+
+ISBN 92-5-204632-1
+
+Tous droits réservés. Les informations ci-après peuvent être reproduites ou diffusées à des fins éducatives et non commerciales sans autorisation préalable du détenteur des droits d'auteur à condition que la source des informations soit clairement indiquée. La FAO et le PNUE souhaiteraient recevoir un exemplaire de toute publication utilisant la présente publication comme source. Le matériel contenu dans ce produit d'information ne peut toutefois pas être reproduit pour la revente ou d'autres fins commerciales sans l'autorisation préalable écrite des détenteurs des droits d'auteur. Les demandes d'autorisation devront être adressées au Chef du Service de la gestion des publications, Division de l'information, FAO, Viale delle Terme di Caracalla, 00100 Rome, Italie ou, par courrier électronique, à copyright@fao.org
+
+© FAO et PNUE 2003
+
+Contacts:
+
+Ricardo Labrada
+Fonctionnaire technique de malherbologie
+Service de la protection des plantes
+Organisation des Nations Unies
+pour l'alimentation et l'agriculture
+Viale delle Terme di Caracalla
+00100 Rome, Italie
+Tél.: (+39) 06 57054079
+Télécopie: (+39) 06 57056347
+Mél.: ricardo.labrada@fao.org
+Sites Web: www.fao.org/WAICENT/FAOINFO/AGRICULT/AGP/AGPP/IPM/WEEDS/Default.html
+www.fao.org/WAICENT/FAOINFO/AGRICULT/AGP/AGPP/IPM/Web_Brom/Default.htm
+
+Rajendra Shende
+Chef de l'Unité Energie et Action Ozone
+Division de la technologie, de l'industrie et de l'économie
+Programme des Nations Unies pour l'environnement
+Tour Mirabeau
+39-43, quai André Citroën
+75739 Paris Cedex 15, France
+Tél.: (+33) 1 44 37 14 50
+Télécopie: (+33) 1 44 37 14 74
+Mél.: ozonaction@unep.fr
+Site Web: www.uneptie.org/ozonaction.html
+Le présent document est disponible sur le site Web de la FAO:
+www.fao.org/WAICENT/FAOINFO/AGRICULT/AGP/agpp/IPM/Web_Brom/Default.htm
+et sur le site Web de OzonAction du PNUE:
+http://www.uneptie.org/hp_oa.htm
+
+
+Table des matières
+
+
+PREFACE
+
+LISTE DES ACRONYMES
+
+I. INTRODUCTION
+
+II. LA FORMATION DES FORMATEURS
+
+1. Atelier préparatoire
+2. Formation des formateurs
+
+2.1 Les expériences de base en champ
+2.2 Les activités d'apprentissage de concept spécifique
+2.3 Analyse de l'agro-écosystème
+
+3. Formation d'équipes et dynamiques de groupes
+4. Evaluation
+
+III. CHAMPS ECOLES PAYSANS (CEP)
+
+1. Planification
+2. Réalisation
+3. Evaluation
+
+IV. EXEMPLES D'EXERCICES POUR LES FDF ET LES CEP
+
+1. Compréhension du système du sol
+2. Estimation du sol infesté d'arthropodes (un exercice pour CEPs)
+3. Estimation des mauvaises herbes (un exercice pour CEP)
+
+V. DEVELOPPEMENT D'UN PROGRAMME PARTICIPATIF
+
+1. Généralités
+2. Directives
+3. Sujets
+
+VI. DESCRIPTION DES PRINCIPALES ALTERNATIVES
+
+1. Alternatives non chimiques
+
+1.1 Pratiques culturales
+1.2 Contrôle physique
+
+2. Alternatives chimiques
+
+BIBLIOGRAPHIE UTILE
+
+SITES WEB USUELS
+
+APPENDICES
+
+COUVERTURE ARRIERE
+Table des matières Page suivante
+
+
+PREFACE
+
+La destruction de la couche protectrice de la planète, l'ozone dans la stratosphère, due à l'utilisation des produits chimiques industriels tels que les chloro-fluro de carbone (CFCs) et les "halns" a entraîné une situation grave concernant la santé de la planète. Pour limiter les problèmes causés à l'homme et à l'environnement, par les substances qui détruisent la couche d'ozone, une clause a été signée dans les traités internationaux, la Convention de Vienne en 1985 et le Protocole de Montréal en 1987. A ce jour les niveaux de l'ozone ont diminué de manière dramatique, et sans l'apport de ces traités, la situation serait pire. Des efforts doivent être poursuivis et renforcés dans cette direction en vue de protéger la couche d'ozone.
+
+Le besoin pressant de trouver des alternatives au bromure de méthyle, qui est l'un de ces produits chimiques, dont le constituant principal est le brome qui a une action destructrice sur l'ozone, a accru les efforts et les recherches en vue d'atteindre cet objectif. La recherche d'autres moyens qui pourraient remplacer son usage en agriculture a conduit actuellement à mettre en évidence l'existence d'alternatives efficaces pour la lutte contre les parasites du sol.
+
+L'approche de gestion intégrée des déprédateurs (GID) est capitale pour le développement d'un programme de formation compréhensible pour les fermiers à propos des alternatives. La base de cette approche est la formation des vulgarisateurs et autres agents qui travaillent étroitement avec les fermiers. L'objectif serait de sensibiliser les fermiers afin qu'ils cessent d'utiliser le bromure de méthyle, et de les éduquer pour l'application des nouvelles alternatives développées.
+
+L'expérience a montré que la majorité des fermiers ne sont pas persuadés d'appliquer les nouvelles techniques innovatrices à partir de simples démonstrations au champ. Cette approche s'est avérée une perte de temps et d'argent dans beaucoup de milieux où elle a été expérimentée. Ainsi donc, la seconde étape de la démarche dans la gestion intégrée des déprédateurs (GID) devrait être la formation des fermiers par l'installation de "Champs Ecoles Paysans" (CEP) où les fermiers apprendront à appliquer, adapter et améliorer les nouvelles technologies de lutte.
+
+Ce manuel vise aussi bien à servir de guide aux vulgarisateurs dans les domaines liés à la conception et à la conduite des cours de formation des formateurs (FDF), que pour les champs écoles paysans à propos des technologies alternatives pour remplacer l'usage du bromure de méthyle, comme fumigant du sol. Il fournit un cadre d'information pertinent et des outils de bases pour ces activités suivant les besoins spécifiques.
+
+Il est important de noter que, malgré une vaste expérience de la FAO dans des projets de gestion intégrée des déprédateurs dans beaucoup de pays en voie de développement du monde (y compris l'installation des champs écoles paysans), il n'existe pas encore une expérience spécifiquement liée au bromure de méthyle. Avec le temps, ce manuel devra sans doute être révisé et enrichi avec de nouveaux éléments et expériences des pays où des champs écoles paysans ont été développés pour supprimer l'utilisation du bromure de méthyle comme fumigant du sol.
+
+Ce manuel a été préparé par un groupe de spécialistes familiers à la formation des formateurs et aux champs écoles paysans. Il est destiné aux vulgarisateurs et aux agents de développement, responsables de l'encadrement des fermiers qui, à ce jour, utilisent le bromure de méthyle comme fumigant du sol. Ce manuel, avec le rapport global en préparation par la FAO^[1] (financé par le PNUE)(2), peut être une bonne référence pour la formation en nouvelles alternatives dans différents pays.
+
+Nous remercions l'INIAP (Instituto National Autonomo de Investigaciones Agropercuarias-Ecuador) et le CIP (Centro International de la Papa-Perù) pour nous avoir autorisés à utiliser les images reproduites (réadaptées) dans cette publication.
+
+Cette publication a été préparée par l'Organisation des Nations Unies pour l'Agriculture et l'Alimentation (FAO) et financée par le Programme des Nations Unies pour l'Environnement, Division de Technologie, Industrie et Economies (UNEP-DTIE)^[2] comme une partie de son Programme d'Ozone-Action sous le parrainage de fonds multilatéraux du Protocole de Montréal.
+
+Raimundo Braga
+
+EMBRAPA, Fortaleza (BRA)
+
+Ricardo Labrada
+
+FAO, Rome (I)
+
+Lucas Fornasari
+
+Montpellier (F)
+
+Nora Fratini
+
+Rome (I)
+
+
+^[1] Labrada, R. and Fornasari, (Eds). 2001. Global Report on Valitated Alternatives to the use of Methyl Bromide for Soil Fumigation. FAO Plant Production and Protection Paper 166.
+^[2] Project Title: Farmer Training and Education Programmes for Methyl Bromide Alternatives in Latin America and Africa; Project Number IM/2110-99- 18(EP/INT/903/UEP).
+
+
+Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+LISTE DES ACRONYMES
+
+AES
+
+Analyse Agro-Ecosystème
+
+CFCs
+
+Chlorofluorocarbones
+
+CIP
+
+Centre International de la Papa (Pérou)
+
+DTIE
+
+Division de Technologie, Industrie et Economie du PNUE
+
+ETL
+
+Niveau de seuil économique (NSE)
+
+ICM
+
+Gestion Intégrée des Cultures
+
+FAO
+
+Organisation des Nations Unies pour l'Agriculture et l'Alimentation
+
+CEP
+
+Champ Ecole Paysan
+
+IGR
+
+Réponse à la croissance ajoutée
+
+INIAP
+
+Instituto Nacional Autonomo de Investigationes Agropecurias (Ecuador)
+
+GID
+
+Gestion Intégrée des Déprédateurs
+
+MeBr
+
+Bromure de méthyle
+
+MITC
+
+Isothiocyanate de méthyle
+
+ODP
+
+Potentiel de destruction de l'Ozone
+
+TOT
+
+Formation des Formateurs (FDF)
+
+PNUD
+
+Programme des Nations Unies pour le Développement
+
+PNUE
+
+Programme des Nations Unies pour l'Environnement
+
+ONUDI
+
+Organisation des Nations Unies pour le Développement Industriel
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+I. INTRODUCTION
+
+Le bromure de méthyle ou bromométhane est un fumigant à large spectre, très efficace pour contrôler les parasites des sols cultivés infestés dans le monde. Lorsqu'il est utilisé comme fumigant du sol, le gaz de bromure de méthyle est appliqué avant le semis dans le sol, et celui-ci est recouvert de bâches. Ce traitement tue effectivement les micro-organismes du sol mais une fois les bâches enlevées, une partie du gaz pénètre éventuellement dans l'atmosphère.L'un de ses principaux usages pour le sol est la fumigation des lits de semis de tomates, de piments, d'aubergines, du tabac, de fraise, des plantes ornementales et autres cultures. Selon les estimations, plus de 80% des utilisations de bromure de méthyle est destiné à la fumigation du sol.
+
+Le bromométhane (MeBr) a été scientifiquement défini comme un produit chimique qui détruit la couche d'ozone. Le Potentiel de destruction de l'ozone (ODP) est estimé à 0,4, i.e. plus élevé que le seuil admissible de 0,2. Le brome libéré par le bromure de méthyle à l'usage est estimé à 40 fois plus destructeur que le chlore dans l'ozone par atome.
+
+Toute cette information a conduit à un processus de suppression progressive planifiée des substances qui détruisent la couche d'ozone dans les pays développés et les pays en développement sous le Protocole de Montréal. La suppression totale du bromométhane dans les pays développés est prévue pour 2005, tandis que dans les pays en développement elle devrait avoir lieu au cours des années 2000 avec la fin du processus en fin 2015.
+
+La suppression progressive suppose que les pays devraient développer des alternatives viables pouvant remplacer l'usage de bromométhane. Ces alternatives doivent être efficaces dans la lutte contre les parasites des sols, sans dommage pour l'environnement, faciles à utiliser et économiques pour le paysan. Dans la plupart des cas, il est peu probable qu'une seule alternative soit capable de remplacer le bromométhane. Il serait probablement nécessaire de combiner au moins 2 (deux) mesures de lutte afin d'atteindre les mêmes résultats que ceux du bromométhane.
+
+L'adoption de la gestion intégrée des déprédateurs (GID) est aussi l'une des solutions. Aucune option magique ne sera disponible pour lutter contre les parasites du sol; une estimation régulière des organismes nuisibles du sol sera requise pour prendre des décisions adéquates de lutte antiparasitaire.
+
+GID est un processus de prise de décision qui considère toutes les mesures possibles de lutte, aussi bien culturale, mécanique, biologique que chimique, en vue de sélectionner une méthode de lutte convenable à chaque situation prise individuellement. Là où la lutte chimique est indiquée, des populations de parasites spécifiques sont ciblées pour le traitement au moment où elles sont plus vulnérables, au lieu d'une simple application de pesticide total. Par l'usage de méthodes de lutte appropriées, la GID peut entraîner une réduction dans l'usage de pesticides y compris le fumigant bromométhane.
+
+Ainsi le processus GID commence avec le paysan (qui prend des décisions dans son champ) et non avec les parasites. Avant de prendre des décisions efficaces, les paysans ont besoin de comprendre l'agro-écosystème, l'interaction des différents composants qui interviennent dans le champ et voir comment leurs décisions affectent l'équilibre général. Les chercheurs ont besoin de comprendre les besoins locaux et de donner aux paysans une vaste gamme d'options qu'ils peuvent adapter et appliquer dans leur situation individuelle. Les services de vulgarisation et/ou les services de protection des végétaux devraient aider à faciliter ce processus pour que les chercheurs comprennent les besoins des paysans et que ceux-ci soient eux-mêmes capables d'adapter les technologies disponibles.
+
+La formation des formateurs (FDF) et les champs écoles paysans (CEP) sont des activités centrales dans la formation en GID et le processus de vulgarisation. Le dernier cas est une voie efficace pour actualiser les nouvelles alternatives développées du MeBr et sur la GID en général. La connaissance acquise leur permettra d'organiser les champs écoles paysans dans leur localité.
+
+Les champs écoles paysans sont basés sur des principes écologiques, la formation participative, et les méthodes d'éducation non formelles. Ce modèle met l'accent sur l'apprentissage par l'expérience et l'exercice avec des problèmes réels du champ. La formation selon tels principes implique le processus d'apprentissage plus que l'instruction. En plus, les champs écoles paysans donnent aux paysans l'occasion d'expérimenter, d'affiner leur observation et leur aptitude de recherche et de prendre des initiatives en adoptant les alternatives aux conditions locales. En effet, l'une des plus importantes leçons apprises dans le passé par les services de vulgarisation a été que les recommandations généralisées à l'endroit des paysans par recherche et la vulgarisation aient besoin d'être attentivement examinées, testées et adaptées par les paysans eux-mêmes compte tenu des conditions spécifiques à leur localité. Les champs écoles paysans réalisent ce processus par l'amélioration de la
+connaissance existante et les talents que les paysans ont acquis au cours de plusieurs années d'expérience.
+
+L'expérience de la FAO sur la gestion des déprédateurs dans différents pays en Asie du Sud-Est, en Afrique, et en Amérique latine a démontré que le processus de formation est vital pour l'adoption des méthodes de contrôle des parasites par les paysans. Cette formation ne sera pas une démonstration au champ ou l'organisation de journées au champ isolées. Habituellement, les paysans sont pressés d'opter les technologies de contrôle de parasites qu'eux-mêmes ont testées et améliorées.
+
+Ce manuel expose les étapes requises pour conduire une formation compréhensible sur les nouvelles alternatives pour remplacer le MeBr. C'est la première édition et nous sommes sûrs que les éléments développés ici seront enrichis et améliorés par les prochaines expériences au champ pour la suppression du Bromure de méthyle dans différents pays.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+II. LA FORMATION DES FORMATEURS
+
+La formation des formateurs (FDF) est un préalable pour une conduite efficace des solutions techniques requises au champ et une étape importante pour leur dissémination. La FDF qui est développée suivant un programme spécifique est une base fondamentale des compétences de gestion des cultures et des principes d'éducation informelle aussi bien dans les pratiques au champ que dans l'analyse de l'agro-écosystème (AES) et l'essai de nouvelles alternatives au champ.
+
+Formation des formateurs dans une salle de classe
+
+
+FAO/18351/P. Cenini
+
+1. Atelier préparatoire
+
+Le point de départ du processus de formation est l'identification des usages/applications de MeBr et des alternatives disponibles dans les pays ou régions en question. Cette information est essentielle dans la préparation du contenu du cours de formation. Il est important de souligner que les formateurs se rendront chez les paysans avec des propositions concrètes d'alternatives que ces derniers adapteront plus tard aux conditions locales.
+
+L'atelier qui dure normalement un à deux jours devra alors identifier les éléments principaux de GID qui doivent être utilisés pendant la formation. Ceux-ci pourraient-être des méthodes d'estimations régulières d'organismes nuisibles et autres procédés pertinents.
+
+Les participants à l'atelier devraient être des techniciens agricoles aussi bien des institutions agricoles de l'Etat que des Organisations Non Gouvernementales (ONG), vulgarisateurs et associations d'entreprises agricoles.
+
+Les principaux objectifs de l'atelier sont:
+* éveiller la conscience sur les conséquences de l'utilisation du MeBr;
+* informer les parties intéressées et les institutions locales du processus de formation générale sur les alternatives au MeBr;
+* identifier les problèmes majeurs liés à des sols infestés de parasites et couramment traités avec le MeBr, et les éléments de GID à utiliser;
+* identifier les alternatives disponibles et discuter de leur faisabilité;
+* sur la base des informations ci-dessus, préparer le contenu du cours de FDF; et
+* identifier les participants, i.e. les techniciens agricoles et les vulgarisateurs, pour la FDF.
+
+2. Formation des formateurs
+
+Une fois que les alternatives et les éléments de GID ont été identifiés et le contenu préparé, les FDF suivront.
+
+Les principaux participants de la formation sont les vulgarisateurs agricoles, les agents de protection des végétaux (PV) et autres techniciens agricoles. Dans certains cas ils peuvent n'avoir que très peu de connaissances de GID et des alternatives au MeBr.
+
+Pendant la formation, les participants seront habitués aux alternatives nouvelles, aux méthodes d'estimation de l'infestation des sols par les parasites, aux aspects liés à la production agricole et à l'agro-écosystème avec un accent particulier sur GID. Le centre d'intérêt sera le développement des compétences par des activités au champ et la facilitation basée sur l'éducation informelle de l'adulte.
+
+Dans ces conditions précises, le principal facilitateur est un spécialiste en altenatives de MeBr et de GID. Les formateurs devraient avoir la connaissance et l'expérience dans l'organisation et la conduite des champs écoles paysans (CEP).
+
+La FDF se fait normalement pendant la saison des cultures afin de suivre et d'observer les résultats de l'expérimentation. Néanmoins, dans certaines circonstances, cette formation pourrait être raccourcie si les vulgarisateurs ont déjà suffisamment de connaissances et d'expériences en GID. Une possibilité serait d'organiser une courte formation de formateurs initiale avec plus tard, des journées au champ complémentaires. De cette manière les techniciens auront le temps d'assimiler les nouveaux éléments liés à GID et les alternatives au MeBr. La formation des formateurs peut être conduite parallèlement avec les CEP.
+
+Les principaux objectifs sont:
+* fournir l'information et éveiller les consciences sur les problèmes environnementaux posés par le MeBr et son effet sur le consommateur;
+* diffuser les alternatives au MeBr et les éléments de GID;
+* assister les formateurs en améliorant leurs compétences à sélectionner et à adapter les alternatives les plus adaptées aux conditions locales;
+* améliorer les performances de la formation et apprendre comment conduire les champs écoles paysans pour faciliter une prise de décision par les paysans améliorée.
+
+Les activités de FDF sont variées et dépendront de la durée de la formation et des problèmes à résoudre. En utilisant l'approche participative au développement du processus (comme suggéré dans le "Tool kit" sponsorisé par le Global IPM Facility de la FAO, voir les directives modifiées au chapitre V), ceux-ci peuvent être:
+* Les expériences en champ
+* Les activités d'apprentissage de concepts spécifiques
+* Analyse d'agro-écosystème.
+
+2.1 Les expériences de base en champ
+
+2.1 Les expériences de base en champ tiendront lieu de parcelles de démonstration qui étaient largement utilisées dans le passé. Les expériences en champ placent plus de contrôle sur le processus d'apprentissage aux mains des paysans. Les expériences relancent l'approche scientifique de la solution au problème y compris les analyses et la conclusion. Les parcelles de démonstration peuvent avoir un rôle à jouer dans certaines situations, mais sont en général moins participatives et n'inculquent pas le même niveau d'approche scientifique aux paysans.
+
+Ces expériences peuvent être:
+* Pratique de la gestion de culture
+* Estimation de la croissance de la plante
+* Estimation de l'infestation du sol par les parasites et autres éléments de l'agro-écosystème.
+
+Les études de cas et les visites en champ peuvent aussi être une partie de la FDF. Pendant la formation, les participants peuvent avoir besoin de visiter les champs des paysans ou les stations de recherche, observer des études de cas, apprendre des techniques qui sont en progrès ou acquérir de nouvelles connaissances sur d'autres expériences afin de résoudre les problèmes causés par de nouveaux parasites ou agents pathogènes, ou sur l'établissement des lits de semis, etc.
+
+Les études de cas permettent aux participants d'apprendre à propos des problèmes existants ou des problèmes qui ont été résolus avec succès.
+
+2.2 Les activités d'apprentissage de concept spécifique
+
+2.2 Les activités d'apprentissage de concept spécifique sont des activités d'apprentissage d'une durée d'une ou de deux heures qui enseignent un concept spécifique qui complète le chapitre de la formation. Par exemple, "la structure et la profondeur de la racine" - l'explication sur l'écologie et la physiologie des plantes, pourraient être une activité liée à la gestion de l'eau, au "contrôle biologique" pourraient faire la lumière sur les relations entre parasites et ennemis naturels, pourraient être une activité de gestion de déprédateurs. Les activités sont toujours des échanges pour un meilleur apprentissage et une meilleure compréhension. En déterrant la racine et en analysant sa structure, ou bien encore l'inoculation de Trichoderma pour le contrôle de parasites seraient de bons exemples aux méthodes ci-dessus. Les activités de concept spécifique suivent les concepts d'apprentissage des adultes et le cycle d'apprentissage.
+
+2.3 Analyse de l'agro-écosystème
+
+2.3 Analyse de l'agro-écosystème est une activité de deux heures qui comprend les observations, les expériences de participants et la prise de décision dans une activité. Le processus de l'analyse de l'agro-écosystème permet de regrouper l'expérience et la connaissance des participants avec de nouveaux concepts écologiques. Au cours de cette activité, les paysans ont l'occasion d'expliquer et de défendre leurs décisions. Ce processus augmente aussi bien la confiance et la compétence des paysans que la cohésion dans la formation de groupe. (Voir chapitre V)
+
+3. Formation d'équipes et dynamiques de groupes
+
+Les activités de formation d'équipes et de dynamiques de groupes sont des étapes importantes dans le processus de formation. Des exercices spécifiques encouragent les interactions qui aident à développer des leaders et améliorent la coopération et les bonnes relations. A travers des activités de formation d'équipes et de dynamiques de groupes les compétences de prise de décision et de réorientation de valeur sont rehaussées et inculquées aux participants.
+
+4. Evaluation
+
+L'évaluation est une partie du processus d'apprentissage (voir Chapitre V). Les tests avant et après formation peuvent être utilisés comme outils d'évaluation. Les tests peuvent être des questions tendant à déterminer aussi bien le niveau de connaissance des apprenants en relation avec la suppression de MeBr, sur les technologies alternatives pour son remplacement, les principes de GID que sur l'approche et le modèle de CEP. Se basant sur les résultats des tests de préformation, le facilitateur de FDF peut établir une stratégie efficace pour les activités de FDF. Les questions posées avant pourraient être aussi posées à la fin afin d'évaluer les connaissances acquises pendant la formation. Les questions de base/sujets pourraient se présenter comme suit:
+
+1. Problèmes posés par MeBr et la quantité moyenne de MeBr utilisée par les paysans dans la localité.
+
+2. Les principaux organismes nuisibles du sol (arthropodes, maladies, nématodes et mauvaises herbes) dans les cultures couramment traitées avec le MeBr et les produits de substitution.
+
+3. Eléments et principes de GID
+
+4. Approche de FDF et éducation informelle de l'adulte
+
+5. Théorie
+
+6. Description de divers produits de substitution réalisables.
+
+Dans le contexte de formation des formateurs il se pourrait que certaines activités aient besoin d'être organisées seulement une fois que la formation est terminée. Ces activités doivent être réalisées afin de rafraîchir la connaissance acquise par les formateurs ou les actualiser avec de nouveaux éléments. Lorsque des FDF de longue durée ne sont pas à conseiller dans le cas des produits de substitution au MeBr, il y a d'autres activités utiles qui peuvent se faire une fois que les exercices de formation principale sont finis. L'une de ces activités est l'analyse de l'agro-écosystème (AES) champs écoles paysans (CEP)
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+III. CHAMPS ECOLES PAYSANS (CEP)
+
+La prochaine étape dans le processus de formation est l'organisation d'un Champ Ecole Paysans (CEP) visant la formation des formateurs sur les nouvelles alternatives et sur GID.
+
+L'approche conventionnelle de formation de paysans a été jusqu'à récemment l'organisation des journées de visites au champ pendant lesquelles les paysans sont mis en contact avec les démonstrations de nouvelles technologies. Le problème avec ce type de formation est que les paysans sont des participants passifs. Ils écoutent les conseils donnés par les agents de vulgarisation et les agents des usines de produits chimiques, mais ne participent pas au processus d'adaptation de la technologie. Le résultat est que, les paysans continuent d'utiliser les méthodes traditionnelles, et ne sont pas encouragés à essayer les nouvelles technologies.
+
+Le CEP fournit aux paysans l'opportunité de tester les alternatives et de les améliorer par l'introduction de nouveaux éléments. Un lopin de terre divisé entre plusieurs paysans est utilisé pour tester les alternatives. Le résultat principal de la formation est que les paysans adoptent volontairement les nouvelles alternatives et les réalisent sur leurs parcelles au champ.
+
+Le formateur qui guide et facilite les CEP devrait être un vulgarisateur, un agent de protection des végétaux ou autres techniciens préalablement formés à des séances de FDF, tandis que les participants sont des producteurs appartenant à des groupes organisés existants ou sélectionnés par le formateur en consultation discrète avec le leader de la communauté.
+
+Fermiers installant une pépinière dans un champ école paysan
+
+
+FAO/19881
+
+Le CEP est habituellement un exercice à moyen terme qui peut durer tout le cycle de la culture. Lorsque le MeBr est appliqué au sol pour la production de jeunes plants pour repiquage, la durée du CEP devrait être celle de la pépinière. Un CEP comporte trois phases principales: planification, réalisation et évaluation.
+
+1. Planification
+
+La planification d'un CEP implique la préparation de la formation, et celle-ci devrait prendre en compte les différents aspects de la communauté agricole à former. Ces éléments peuvent être:
+
+Estimation de l'usage et de la consommation du MeBr qui servirait de point de départ pour l'analyse. Les données principales à collecter seraient:
+
+(a) nombre de fermiers utilisant couramment le MeBr comme un fumigant du sol pour les cultures et les doses d'application. Le tableau ci-dessous illustre les données initiales requises.
+
+(b) Méthodes d'application de MeBr: Il est important de savoir si seulement les paysans utilisent le fumigant, ou s'ils payent les services d'une compagnie de fumigation.
+
+Cultures traitées au MeBr
+
+Paysans
+
+Surface cultivée (ha)
+
+Consommation de Bromure de méthane (kg)
+
+Piment vert
+
+30
+
+0,2
+
+160
+
+Melon
+
+100
+
+0,5
+
+400
+
+Tomates
+
+200
+
+1,0
+
+800
+
+Statut socio-économique des paysans: le niveau d'éducation des paysans et leur statut économique
+
+· Connaissance et conscience des paysans:
+
+(a) Conscience à propos des problèmes environnementaux posés par l'usage, par la résistance du consommateur au MeBr et le besoin de le remplacer.
+
+(b) La connaissance et la conscience à propos du développement des nouvelles alternatives et leur efficacité etc.
+
+Il y a d'autres étapes dans la préparation du CEP telles que l'identification de leader(s) de la communauté, l'identification des paysans à former et les alternatives à enseigner.
+* L'identification du leader de la communauté est vitale pour faciliter le rôle, l'intérêt et la participation des producteurs. L'interaction avec le leader aide à identifier et à organiser les producteurs et à établir et à diriger le CEP, et à réaliser le suivi des actions.
+* L'identification des paysans à former a lieu à la réunion initiée par le facilitateur avec le leader et les producteurs. A cette réunion, le processus du CEP est expliqué avec détails aux futurs participants.
+* Alternatives à enseigner
+Le formateur ou le faciliateur qui connaît la culture traitée et les principaux parasites devrait être capable de sélectionner les alternatives les plus prometteuses à tester par les paysans pendant le CEP. Le formateur devrait évidemment avoir une connaissance préalable des alternatives déjà étudiées et validées dans les pays.
+* Une autre première étape dans l'organisation des CEP est l'installation d'un groupe de paysans. Habituellement le groupe se compose de 25 à 30 producteurs ayant des intérêts communs par exemple cultivant le même produit et rencontrant les mêmes problèmes de parasites. La taille du groupe dépend du nombre de paysans qui peuvent confortablement travailler ensemble avec un facilitateur. Les participants sont divisés en groupes de 5 ou 6 personnes pour que tous les membres de la communauté agricole puissent mieux participer aux observations en champ, aux analyses, aux discussions et aux présentations.
+* La durée des CEP devrait en général être celle du cycle de la culture. Un CEP peut s'étendre au delà d'une saison s'il est nécessaire, mais peut rarement être efficace si elle est plus courte que le cycle de la culture. Ceci dépend de la culture et des problèmes qui sont traités dans le CEP.
+* Le rééchelonnement de la formation est basé sur la phénologie de la culture; par exemple les problèmes de semis sont traités dans le CEP. Les leçons ou les exercices sont habituellement d'une durée de 4 ou 5 heures et ont lieu hebdomadairement.
+* Les activités de CEP ont principalement lieu sur des lopins cultivés. Toutefois, il est important d'avoir une aire ombragée proche de la parcelle cultivée pour organiser les discussions et autres activités.
+
+2. Réalisation
+
+Pour la réalisation du CEP, les paysans auront à:
+
+1. Sélectionner un site commun, qui est normalement situé dans la communauté où les producteurs vivent. Sa taille dépendra de la culture et de son stade phénologique. Les pépinières peuvent avoir une aire plus petite que celle des cultures en champ. Certains villages ont des terrains communaux qui peuvent être gratuitement utilisés. D'autres ont besoin de contribution ou de compensation au cas où les rendements des expérimentations sont bas, etc... Il est important de noter que le terrain doit être entretenu par le groupe de paysans.
+
+2. Sélectionner les cultures sur lesquelles les exercices seront faits. Les cultures traitées avec le MeBr seraient évidemment sélectionnées.
+
+3. Réaliser l'alternative. Les technologies à tester par les paysans devraient être sélectionnées par le formateur et discuter avec les paysans. Une fois que les alternatives sont choisies, les paysans seront responsables du démarrage des activités aux champs en examinant et en prenant des décisions sur comment appliquer la technique proposée.
+
+Une comparaison sera faite entre les traitements d'alternatives ayant été testées et le traitement conventionnel avec le MeBr. Le formateur devrait avertir le paysan que dans certains cas, le traitement au MeBr peut être techniquement plus efficace mais depuis que sa suppression et imminente, il est nécessaire de trouver des alternatives efficaces.
+
+L'acceptation des alternatives dépendra du succès de leur réalisation et adaptation aux besoins locaux. Ainsi, l'évaluation positive des résultats des alternatives proposées est l'élément clef pour la prise de décisions.
+
+Les autres activités et exercices nécessaires pour résoudre les problèmes de la GID peuvent requérir des périodes plus longues que celles de l'apprentissage à la réalisation de nouvelles alternatives.
+
+A travers ces activités, les paysans seraient capables de contrôler les parasites et les ennemis naturels, et connaître leur cycle de vie. Si les exercices proposés sont adaptés aux conditions locales, ils peuvent offrir d'expérience pratique sur les interactions existant entre les composants d'un agro-écoystème spécifique.
+
+Des essais et des exercices offriraient une bonne compréhension des principes de base d'une GID afin de les appliquer aux aires cultivées. Les principes essentiels de GID qui devraient toujours être observés sont: (1) une culture saine et le besoin d'un environnement sain; (2) la protection des ennemis naturels et la compréhension d'écosystème; et (3) faire régulièrement des observations au champ et le suivi des organismes nuisibles.
+
+3. Evaluation
+
+Le CEP comme la FDF inclurait l'évaluation des participants au début et à la fin du cours. A ce propos, un test sera fait pour évaluer le niveau de connaissance des participants sur la suppression progressive de MeBr et des techniques alternatives disponibles.
+
+Le premier test contiendra plus d'éléments pour la préparation du programme de CEP tandis que le test final montrera le niveau de compréhension atteint par les paysans pendant la formation.
+
+Paysans formés en champ école paysan évaluant un essai
+
+
+FAO/18359/P. Cenini
+
+Les tests comporteraient quelques questions de base telles que:
+* identification des arthropodes et nématodes du sol, les symptômes des maladies, et ceux qui sont liés à la présence des mauvaises herbes
+* types de pesticides couramment utilisés pour le contrôle des sols infestés et connaissance des problèmes de MeBr
+* les nouvelles méthodes de contrôle possibles ou réelles de sols parasités
+* autres techniques de GID.
+
+L'évaluation finale est une occasion pour les paysans formés de prôner l'information sur les alternatives, adaptations et autres détails. Un moment peut-être réservé pour cet exercice durant un jour particulier, et les paysans devraient être capables de décrire:
+* l'efficacité de nouvelles alternatives;
+* comment les utiliser;
+* la différence entre les alternatives nouvelles et le traitement au MeBr en mettant l'accent sur les avantages techniques et économiques possibles;
+* les caractéristiques des parasites principaux et les pertes causées par eux sur les cultures;
+* les principes de GID.
+
+Après le CEP, les vulgarisateurs, sous la supervision du formateur de la formation des formateurs suivra l'application des alternatives dans les champs des paysans, afin de s'assurer de leur adoption et de leur utilisation continuelle.
+
+Pour s'assurer d'une application réussie, le suivi consisterait à la visite mensuelle des champs afin de s'assurer de la bonne application des nouvelles alternatives et rectifier les insuffisances possibles.
+
+Les formateurs aussi bénéficieront de telles visites. Les expériences des paysans offriraient d'utiles feed back pour les recherches ultérieures et les activités de formation en alternatives au MeBr dans le pays.
+
+Les bons résultats obtenus avec les nouvelles alternatives pourraient être étendus à d'autres paysans qui utilisent encore le MeBr. Dans la plupart des cas, les paysans expérimentés peuvent servir de facilitateurs pour les nouveaux CEP.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+IV. EXEMPLES D'EXERCICES POUR LES FDF ET LES CEP
+
+1. Compréhension du système du sol
+
+Depuis que nous traitons de la fumigation du sol et/ou du traitement du sol pour le contrôle des parasites, la compréhension du sol doit être un chapitre à inclure dans la FDF et le CEP en relation avec les alternatives au MeBr.
+
+C'est un élément difficile à traiter par les formateurs et les paysans parce que ce qui se trouve dans le sous-sol n'est pas facilement visible. Comme une conséquence de ces difficultés dans l'observation des interactions dans le sol, un grand intérêt doit être accordé à des exercices pouvant aider à comprendre les relations de cause à effet.
+
+Cette simple activité de groupe est la première clé dans la compréhension des parasites du sol. Pour commencer, il est demandé aux participants de lister les éléments majeurs associés au système du sol. Il font alors un exercice d'exploration dans lequel ils identifient les principaux éléments associés au système du sol; ensuite il leur est demandé de dresser un diagramme simple contenant cinq (5) à six (6) des plus importants facteurs et leur interaction.
+
+Le facilitateur utilise un des diagrammes ou fait la synthèse de tous ces diagrammes et tire des conclusions clés.
+
+Dans le cas des CEP, le formateur donnerait des leçons d'exploration du système du sol et du sol infesté de parasites, lequel peut demander plus de temps que dans le cas de FDF.
+
+Le but principal est que les formateurs ou paysans soient capable de lister les facteurs principaux, les organismes vivants et les caractéristiques associées au système du sol. L'exercice peut durer deux à trois heures et des fournitures de bureau tels que papiers, bics, bande adhésive, etc... sont requis.
+
+La procédure détaillée est la suivante:
+
+1. Demander aux apprenants de lister les éléments principaux associés au système du sol. Ceci inclurait les caractéristiques du sol (texture, structure, PH, humidité et autres) et des organismes existants (arthropodes, graines, racines, microorganismes). Le formateur devrait toujours les aider à organiser la liste.
+
+2. Les apprenants sont demandés de se constituer en petits groupes et chaque groupe dresse une liste en deux colonnes indiquant les organismes trouvés et les caractéristiques du sol. Une fois que les groupes auront fini ce travail, il leur sera demandé de présenter leurs résultats sur un diagramme sommaire. La présentation des résultats permettra aux participants de discuter du problème en détail.
+
+
+3. Suivant la discussion, le formateur devrait tirer des conclusions importantes et souligner quelques difficultés dans l'estimation de l'infestation du sol des champs infestés de parasites. Quelques concepts théoriques seraient aussi donnés par le formateur.
+
+
+Les questions principales à souligner dans l'exercice seraient:
+* Suivi d'arthropodes et de nématodes du sol
+* Viabilité et germination de la semence
+* Les facteurs du sol pouvant être manipulés par le producteur
+* Le facteur ayant une grande incidence et une interaction avec les autres.
+
+2. Estimation du sol infesté d'arthropodes (un exercice pour CEPs)
+
+Cet exercice vise le listage et la description des caractéristiques des arthropodes principales dans le sol, particulièrement les insectes trouvés dans les échantillons de sol prélevés (a) avant la préparation du lit de semis pour l'application de nouvelles alternatives (b) 30 jours après l'application.
+
+Le principal but de cet exercice est de lister et de reconnaître les principales caractéristiques des insectes présents dans le sol. Normalement cette activité couvre près de 4 heures (x2) et demande seulement du matériel de bureau, des lentilles manuelles (loupes), des fioles et de l'alcool. Des schémas des insectes utiles et des insectes parasites peuvent être nécessaires pour décrire et identifier les organismes.
+
+La procédure est la suivante:
+
+(a) D'autant plus que le sujet sera probablement nouveau aux producteurs, on le commence par une discussion et des questions posées par le facilitateur. Les principaux éléments à dégager sont:
+* Types d'arthropodes vivant dans le sol
+* Méthodes pour estimer leur population
+* Méthodes pour leur collecte
+* Dégâts causés sur les cultures
+* Méthodes pour leur contrôle
+
+(b) Avant l'application de la nouvelle alternative, chaque petit groupe de producteurs utilisera un cadre (30cm x 30cm) disposé à différents endroits de la parcelle pour la collecte des échantillons du sol à une profondeur de 30 cm. Les échantillons sont prélevés dans des sachets plastique et placés à l'ombre pour analyse.
+
+
+(c) Le sol est alors passé au tamis pour séparer les organismes de la terre, et sont mis dans des fioles pour être identifiés et schématisés.
+
+
+(d) Les producteurs schématiseront tous les organismes trouvés dans les échantillons de sol.
+
+(e) La discussion serait engagée afin de définir les types d'insectes trouvés qu'ils soient utiles ou parasites et les voies de contrôle de ces derniers.
+
+
+(f) Trente jours après l'application de l'alternative, les producteurs et les facilitateurs répéteront la même procédure et compareront les insectes collectés avant et après l'application de l'alternative. La discussion au sujet de l'efficacité de l'alternative dans le contrôle des arthropodes du sol serait le suivant.
+
+
+La question principale et les points à souligner dans cet exercice sont:
+* L'explication générale sur les alternatives utilisées pour le contrôle des sols infestés d'organismes nuisibles.
+* La méthode de prélèvement d'échantillon des insectes du sol,
+* L'efficacité de l'alternative dans le contrôle des insectes dans le sol et les moyens pour l'améliorer.
+
+3. Estimation des mauvaises herbes (un exercice pour CEP)
+
+L'idée de cet exercice est de former les paysans aux méthodes qui leur permettent d'estimer la population des mauvaises herbes dans le champ et de décrire les caractéristiques des principales espèces trouvées. Une telle estimation sera aussi utile pour déterminer l'efficacité de l'alternative dans le contrôle des mauvaises herbes.
+
+Cet exercice qui peut durer quatre heures, requera un cadre de bois, des sachets plastiques et du matériel de bureau. Dans ce cas aussi, des schémas des mauvaises herbes devraient être utilisés pour les décrire et les identifier.
+
+L'exercice débute avec une brève introduction par le formateur sur les pertes causées par les mauvaises herbes et l'importance de leur contrôle. Immédiatement après ceci, le formateur posera différentes questions telles que:
+* Types de mauvaises herbes communes dans les champs
+* Méthodes pour estimer la zone de peuplement des mauvaises herbes
+* Dégâts causés aux cultures
+* Moyens pratiques pour le contrôle des mauvaises herbes
+
+Le meilleur moyen pour évaluer le contrôle des mauvaises herbes est de faire la comparaison entre la densité des mauvaises herbes dans l'aire traitée avec les nouvelles alternatives et leur densité dans une aire non traitée (témoin)
+
+
+Un mois après l'application de la nouvelle alternative les groupes de paysans placeront un cadre (50cm × 50cm) diagonalement en trois ou quatre différents endroits du champ. Les paysans identifieront les espèces de mauvaises herbes présentes et compteront les individus de chaque espèce à l'intérieur du cadre. Toute la biomasse de mauvaises herbes contenue dans le cadre sera collectée dans les sachets plastiques pour la pesée à un endroit ombragé.
+
+Une fois que le nombre de chaque espèce et l'ensemble de la biomasse ont été enregistrés, le formateur posera des questions aux paysans à propos des résultats obtenus sur les surfaces traitées et non traitées afin d'évaluer l'efficacité du traitement.
+
+
+Après cette première tâche, le formateur peut demander aux paysans de décrire quelques unes des caractéristiques des principales mauvaises herbes trouvées dans le champ. Le formateur serait capable d'identifier les espèces trouvées et expliquer les différences entre les espèces annuelles et les espèces pérennes, leur moyen de reproduction etc.
+
+Les paysans discuteraient alors des espèces qui ne sont pas bien contrôlées par la nouvelle alternative et suggèreraient des méthodes complémentaires pour les contrôler. Les paysans schématiseraient les espèces principales de mauvaises herbes et donneraient une brève description des plantes, y compris leur mode de reproduction.
+
+Les principales questions à souligner pendant la discussion seraient:
+* Caractéristiques des mauvaises herbes, leurs moyens de reproduction et les pertes causées
+* Méthodes de mesure de la densité de peuplement des mauvaises herbes
+* Information sur l'efficacité des alternatives utilisées pour le contrôle des mauvaises herbes
+* Méthodes couramment utilisées pour le contrôle des mauvaises herbes.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+V. DEVELOPPEMENT D'UN PROGRAMME PARTICIPATIF
+
+1. Généralités
+
+Une approche participative est recommandée pour la conception du programme de formation afin d'utiliser des modèles réussis basés sur les idées, les résultats et les "Meilleures Pratiques" des participants eux-mêmes. A ce propos, les directives suivantes (modifiées du "Toul Kit" sponsorisé par la Global IPM Faciliter de la FAO) sont fournies. Elles incluent les activités d'apprentissage mentionnées dans le Chapitre II:
+* Expériences au champ (essais aux champs)
+* Activités de concept spécifique d'apprentissage
+* Analyses d'agro-écosystème
+
+2. Directives
+
+C'est un processus très simple. Il s'agit juste de suivre les étapes et instructions rapportées ci-dessous.
+
+Méthodes de facilitation
+
+
+
+
+
+Section 1: Pratique et théorie de l'éducation des adultes (2 jours)
+
+
+
+
+
+
+Section 2: Essais en champ (1-3 jours)
+
+
+
+
+Note: Un groupe d'étude communautaire peut habituellement maintenir seulement 2 ou 3 essais en une saison.
+
+
+
+Section 3: Les activités d'apprentissage du concept spécifique (2-3 jours)
+
+
+
+
+
+Section 4: Analyse agro-écosystème (2-3 jours)
+
+
+
+
+3. Sujets
+
+- Section 1: Théorie et pratique de l'éducation de l'adulte
+
+1. Le processus de l'apprentissage de l'adulte
+
+Le processus de l'apprentissage de l'adulte diffère de celui de l'enfant puisqu'il est influencé par les expériences antérieures (pour être efficace) et il a besoin d'être appuyé par des résultats pratiques. L'apprentissage dépend essentiellement de l'apprenant et le formateur peut seulement le stimuler, lui faciliter la découverte et la compréhension des faits et des situations. Une discussion entre formateurs à propos de l'enseignement informel aidera les formateurs à mieux comprendre le processus de formation et la nature des activités.
+
+Exercice: Discuter avec les participants de la voie ou du moyen par lequel les adultes apprennent. Identifier les conditions importantes pour l'apprentissage de l'adulte. Demander aux participants d'écrire leurs idées avant la discussion. Demander aux participants d'écrire la chose la plus importante qu'ils aient appris dans leur vie quotidienne (pas à l'école) et qui affecte leur vie quotidienne; et leur demander de décrire les circonstances dans lesquelles ils l'on apprise (pourquoi ils l'ont apprise, comment, qui/quoi les a aidés à l'apprendre?)
+
+2. Champs Ecoles Paysans (CEP): Un processus d'extension de groupe basé sur les méthodes d'éducation informelle de l'adulte.
+
+Comme mentionné antérieurement, cette approche permet aux paysans de jouer un rôle actif dans le processus d'apprentissage. Ce type d'apprentissage admet que les apprenants possèdent déjà une connaissance du champ et une riche expérience, et peuvent avoir des idées erronées (appréhensions) à propos des pratiques agricoles. Le facilitateur doit donc les guider par ce processus. Habituellement les groupes comprennent 25 participants.
+
+3. Aptitude de la facilitation
+
+L'objectif est d'impliquer activement les participants dans les discussions, par la reconnaissance de l'importance des participants individuellement, en leur donnant la chance de parler, de poser des questions et leur répondre de manière qu'ils soient satisfaits. Tout ceci fait partie de la facilitation.
+
+4. Qu'est-ce que c'est?
+
+Une bonne méthode d'enseignement est de poser des questions aux participants pour stimuler leur compréhension. Il y a différentes façon de répondre à la question "Qu'est-ce que c'est?" Au lieu de dire le nom de l'organisme, une meilleure façon de répondre est de poser une autre question telle que: "où l'avez-vous trouvé?" ou bien "étaient-ils nombreux?" afin de stimuler le processus d'apprentissage. Après cet exercice, vous devriez être capable de donner plusieurs réponses à la question "Qu'est-ce que c'est?" et de l'une d'elles se dégagera le nom de l'organisme.
+
+Exercice: Aller dans un champ de culture et stimuler les participants à poser des questions sur cet écosystème spécifique (par exemple: Organisme nuisible, type de sol, organisme utile, l'eau etc...), en posant la question "Qu'est-ce que c'est?". Ecrire les réponses à cette question. Le formateur fournirait seulement l'information technique, répondant à quelque chose comme: "c'est une bonne question - où l'avez-vous trouvé?" "Que faisait-il?" "L'avez-vous observé dans le passé?" "Que pensez-vous?" - continuez de poser des questions. Essayez de ne pas donner la réponse directe (!) - par exemple en disant: "c'est un pathogène attaquant la plante. Habituellement il ne cause pas de dégâts sérieux à la plante, à moins que les conditions climatiques ne soient..." (durée: une heure).
+
+5. Grille d'auto évaluation des facilitateurs
+
+Aptitude de Facilitation
+
+Mauvais
+
+Bon
+
+Meilleures Pratiques
+
+1. Préparation
+
+Pauvre
+
+Bon
+
+Bonne préparation de tous les sujets
+
+2. Site d'étude/champ
+
+Chaud /inconfortable
+
+Confortable
+
+Excellente préparation (signes, etc.)
+
+3. Objectif
+
+Indéfini
+
+Bien défini
+
+Clairement identifié et illustré avec différents outils / exemple
+
+4. Temps imparti
+
+Indéfini
+
+Bien défini
+
+Discuté avec les participants
+
+5. Introduction
+
+Néant
+
+Donner le contexte
+
+Riche en informations et concise
+
+6. Etapes/ procédures
+
+Peu claires
+
+Claires et complètes
+
+Répète / fournit des détails pour les tâches complexes
+
+7. Aller d'un groupe à un autre
+
+Non
+
+Oui Si nécessaire
+
+Discussion générale
+
+8. Répondre aux questions
+
+Direct
+
+Question /Explique le contexte, etc...
+
+Variées, et implique le groupe ("qui peut répondre?")
+
+9. Gestion du Temps
+
+Mauvaise
+
+Sur la voie, bonne
+
+Vérifie ajuste et stimule etc...
+
+10. Poser des questions
+
+Non
+
+Oui
+
+Stimule la participation des participants, analyse
+
+11. Discussion
+
+Non
+
+Oui
+
+Vérifie ajuste et stimule etc...
+
+12. Résumé
+
+Non
+
+Oui
+
+Vérifie le style avec la participation des participants
+
+13. Qui parle?
+
+Facilitateur
+
+Facilitateur et paysans
+
+Principalement des participants
+
+14. Evaluation à mi parcourt
+
+Non
+
+Oui
+
+Varie le style-Question Diagramme, répète
+
+15. Evaluation générale
+
+Non
+
+Oui
+
+Variée: Informelle, tableau et chiffres etc...
+
+16. Organisation de la réunion prochaine
+
+Non
+
+Annoncée
+
+Contact, pour le suivi avant la réunion prochaine
+
+17. Enthousiasme/motivation
+
+Limité
+
+Oui
+
+Stimule le processus
+
+18. Bonté
+
+Rare
+
+Oui
+
+Favorise la communication et le processus d'apprentissage
+
+- Section 2: Expériences de champs
+
+6. Organiser les expériences de champ comme décrites pour le CEP (chapitre III et IV)
+
+- Section 3: Activité d'apprentissage de concept spécifique
+
+7. Conduire les activités comme suggérées dans le Chapitre II
+
+- Section 4: Analyse Agro-Ecosystème
+
+8. Introduction de concept d'Ecosystème
+
+Il est important que les participants soient conscients du rôle et des relations existants entre les organismes et de la fragilité de tout le système. Il y a différents niveaux de fonction dans les écosystèmes. Le premier niveau est représenté par les plantes (producteurs), le second par les herbivores (consommateurs de premier ordre), le troisième par les animaux qui se nourrissent du second niveau (consommateur de 2e ordre) et le quatrième par les décomposeurs (exemples: bactéries et champignons). Une culture donnée peut représenter un agro-écosystème. Cette activité qui couvrira 1 heure 30 mn à 2 heures peut-être conduite pendant l'exercice du CEP. Les participants conduiront les observations au champ en petits groupes prenant notes, pour 10 mn puis se rassembleront encore pour discuter de leurs découvertes. Chaque groupe expliquera ses observations à tous les participants. Une discussion générale suivra sous la direction des facilitateurs.
+
+Questions éventuelles pour conduire la discussion:
+* Quelles/combien d'inter-relations avez-vous trouvé?
+* Qu'est-ce qui arriverait au système si nous éliminions un composant (exemple: arbres, eau, lumière solaire, oiseau, insectes phytophages, araignée, champignon, pathogènes des plantes, etc...)?
+* Quels éléments altérerions-nous fréquemment dans nos champs?
+* Quels seraient les composants environnementaux qui seraient affectés par de tels changements?
+* Que pensons-nous souvent - ou pensons-nous en général de ces relations quand nous décidons de poser des actes dans le champ - par exemple pour des pratiques de protection des cultures?
+
+9. Analyse d'Agro-Ecosystème: Prise de décision pour la gestion d'une culture
+
+Choisir une culture principale dans l'aire considérée comme exemple d'écosystème. Les composants de cet écosystème seront étudiés, en effectuant des observations hebdomadaires à travers l'activité du CEP. Les participants étudieront la morphologie de la plante, ses propriétés agronomiques, les organismes qui lui sont nuisibles et les ennemis naturels. L'analyse de l'agro-écosystème (AES) est un moyen pour placer les facteurs considérés en groupes et dans un contexte qui permette la prise de décision, en considérant différents aspects. L'ancienne approche de GID était basée sur le Niveau du Seuil Economique (NSE) pour justifier les décisions de gestion d'organismes nuisibles, mais la raison d'être de cette approche était limitée, puisqu'elle ne considérait pas les autres facteurs de l'agro-écosystème dans la production agricole.
+
+La formation peut être devéloppée à travers les étapes suivantes:
+
+(a) Si les participants sont habitués à l'AES, demander leur pourquoi ils le font?
+
+(b) Si les participants ne sont pas habitués à l'AES, demander leur quel type d'information ils ont besoin pour prendre des décisions concernant la production agricole.
+
+(c) Discuter des plantes à prendre en compte et de la manière de les choisir.
+
+(d) Arthropodes - Discuter de la manière de les examiner sur la culture, leurs dégâts, mode de reproduction sur l'hôte, les parties affectées, etc. Comment recueillir cette information? Collecter des échantillons pour schématiser ces organismes.
+
+(e) Maladies - Discuter de la manière d'examiner les maladies sur la culture, leurs symptômes, etc. Comment recueillir cette information? Comment la schématiser?
+
+(f) Morphologie et stade végétatifs de la plante. Il est important de mentionner le stade végétatif de la plante (par exemple sa hauteur, le nombre de feuilles, etc...)? Comment montrer ceci par schéma?
+
+(g) Observations générales - Quoi d'autre est utile à mentionner (champignons, eau, engrais, conditions climatiques, etc...)? Est-elle habituellement une culture saine ou non? Comment montrer tout ceci en illustrations?
+
+(h) Aller au champ pour effectuer des observations et collecter les données pendant une période de 30 minutes.
+
+Les paysans illustrant ce qu'ils ont observé au champ pendant le Champ Ecole Paysan
+
+
+FAO/19702/G. Bizzarri
+
+(i) Se rassembler encore (dans une salle de classe ou à l'ombre) et faire un schéma de la plante avec le nombre moyen de feuilles. Ecrire le nombre de feuilles, la hauteur
+
+(j) moyenne des plants, et toutes les autres informations collectées dans le champ (préalablement notées sur papier), en utilisant de préférence des crayons de couleurs.
+
+(k) Faire le schéma des organismes nuisibles trouvés, en les plaçant en l'occurrence sur un côté de la plante, avec une flèche qui indique où ils ont été trouvés. Ecrire le nombre des individus de chaque espèce trouvée et calculer le nombre total des individus. Ecrire le nom local des espèces trouvées si elles sont connues.
+
+(l) De la même manière, ajouter au schéma les organismes utiles trouvés.
+
+(m) Noter les conditions climatiques (par exemple: temps ensoleillé, nuageux, pluvieux, orageux, etc....)
+
+(n) Noter les pratiques culturales exécutées la semaine précédente (engrais, pulvérisations, apport d'eau, etc.)
+
+(o) D'importantes observations et recommandations peuvent être écrites au bas du poster.
+
+(p) Chaque sous-groupe présente son poster au groupe entier. L'information partagée permettrait au groupe de juger des décisions prises pour la GID, les confirmer ou les modifier dans l'avenir. Les posters devraient être gardés pour comparaison durant l'AES de la semaine suivante. Une personne chargée de prendre les décisions de GID serait identifiée.
+
+Le formateur stimulera la discussion avec des questions appropriées au cours de l'exercice compte tenu de la culture, la situation, les conditions locales, etc.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+VI. DESCRIPTION DES PRINCIPALES ALTERNATIVES
+
+Les matériels et les méthodes d'alternatives présentés sont seulement une référence pour les vulgarisateurs travaillant sur la suppression de l'usage du MeBr.
+
+Toute nouvelle alternative peut exiger une conception et une adaptation supplémentaires pour devenir un outil efficace de contrôle d'organismes nuisibles. Certains problèmes de contrôle de ravageurs peuvent se manifester une fois seulement que l'alternative est localement testée, et ils devraient être identifiés et corrigés pour l'amélioration future de l'alternative.
+
+Le tableau 1 donne la liste des plus communes technologies d'alternatives pour l'utilisation du bromure de méthyle comme fumigant du sol.
+
+1. Alternatives non chimiques
+
+1.1 Pratiques culturales
+
+Rotation culturale
+
+Dans l'esprit de contrôler les organismes nuisibles du sol, la rotation des cultures consiste à planter des cultures qui ne sont pas des hôtes ou sont des hôtes moins convenables l'une après l'autre ou des cultures pièges pour les sols infestés d'organismes nuisibles. Plusieurs rotations y compris la jachère qui consiste à garder le terrain temporairement sans culture afin de réduire le pathogène du sol et autre population d'organismes nuisibles par l'absence des hôtes ou substrats pour leur développement en les exposant aux conditions environnementales défavorables. La rotation des cultures a été pratiquée depuis les temps anciens et elle est encore utilisée comme partie d'un système agricole durable pour le contrôle de plusieurs organismes nuisibles du sol ayant des effets néfastes sur les cultures dans le monde. L'absence d'un hôte convenable conduit à la réduction du nombre d'organismes nuisibles et réduit l'inoculum du pathogène. Mais, cette pratique élimine rarement
+les organismes nuisibles ou les problèmes de maladies.
+
+Amendements du sol
+
+L'apport de matériaux aux sols réduit ou supprime quelques pathogènes des sols infestés par une stimulation de l'antagonisme des micro-organismes, la résistance accrue des plantes hôtes; ils fournissent des éléments nutritifs supplémentaires altèrent le PH ou par différents autres effets environnementaux.
+
+Des amendements organiques et inorganiques tels que le composte de différents types (sous-produits agricoles, de la foresterie et des industries etc...), le fumier, les amendements inorganiques et les résidus de récoltes peuvent tous avoir d'effets de contrôle sur des pathogènes portés par le sol dans les cultures et peuvent être facilement appliqués dans les secteurs horticole et ornemental.
+
+Tableau 1. Principales alternatives au bromure de méthyle comme fumigant du sol disponibles à l'emploi
+
+1. ALTERNATIVES NON-CHIMIQUES
+
+1.1 Pratiques Culturales
+
+Rotation des cultures
+Amendements du sol et biofumigation
+Travail minimum du sol
+Variétés résistances
+Greffege
+
+1.2 Contrôle physique
+
+Solarisation du sol
+Vapeur
+Eau chaude
+Inondation
+
+2. ALTERNATIVES CHIMIQUES
+
+Isothiocyanate de Méthyl (ITCM)
+Générateurs de ITCM
+1-3 dichloropropane
+Chloropicrine
+
+Des résultats antérieurs de recherche ont montré une grande efficacité de l'échauffement solaire (solarisation) combiné avec quelques amendements efficaces tels que les résidus biodégradables, le fumier, etc. Lorsqu'ils sont ajoutés au sol, ces amendements sont exposés à une dégradation microbienne résultant de la production de composés bio toxiques volatiles et des alcools, des aldéhydes et autres composés volatiles qui peuvent stimuler la germination de mycéliums des champignons et accroître l'activité antagoniste microbienne dans le sol. L'activité microbienne contre les pathogènes dans le sol peut affaiblir les myceliums durant la solarisation ou supprimer leur réinstallation dans le sol après le traitement. Ceci s'est avéré efficace pour plusieurs sols infestés de champignons (Verticillium spp., Rhizoctonia solani, Pythium spp. Etc.), nématodes et beaucoup de mauvaises herbes. Le contrôle de Pythium ultimum et Sclerotium rolfsii dans le sol exposé à la vapeur a été
+aussi démontré avec succès en Italie.
+
+Biofumigation
+
+La biofumigation est définie comme l'action des substances volatiles produites par la biodégration de la matière organique pour le contrôle des sols infestés d'organismes nuisibles. Cette technique accroît son efficacité dans le temps quand elle fait partie d'un système de gestion intégrée de cultures. Il a été trouvé que, généralement, presque n'importe quelle matière organique pourrait agir comme bio fumigant, et leur efficacité dans le temps quand elle fait partie d'un système de gestion intégré de cultures. Il a été trouvé que, généralement, presque n'importe qu'elle matière organique pourrait agir comme bio fumigant, et son efficacité dépend principalement de la dose et de la méthode d'application.
+
+Afin d'obtenir la fermentation de la matière organique au-dessous de la surface du sol, ce dernier est irrigué à la capacité au champ et couvert des bâches en plastique. Cette fermentation génère des composés volatiles qui sont létals pour beaucoup de micro-organismes y compris plusieurs némathodes, mauvaises herbes et champignons. La technique peut entraîner la sélection d'une microflore spécifique utile. L'activité de suppression dépende de l'inactivation thermale qui libère des composés biotoxiques volatiles tels que l'ammoniaque, l'isothiocyanate de méthyle et autres composés sulfureux aussi bien que des composés qui stimulent les antagonistes saprophytiques du sol (aldéhyds, alcools, etc...) ou des toxines allélopathiques.
+
+Variétés résistantes
+
+Ce sont des variétés qui sont résistantes ou tolérantes à un ou quelques pathogènes spécifiques (et races) et sont déjà disponibles pour beaucoup de cultures. Des hybrides résistants à plusieurs pathogènes existent et sont couramment utilisés dans la production végétale. Dans la plupart des cas, de nouvelles variétés sont développées à travers les techniques d'amélioration des plantes pour faire face au problème d'organismes nuisibles, mais la modification génétique systématique du germoplasme par l'usage de nouvelles biotechnologies devient plus fréquente.
+
+Greffage
+
+Le greffage consiste à utiliser les souches résistantes des cultures annuelles (exemple: tomate, aubergine) et pérennes (exemples fruitiers citrons, grappes) pour contrôler les pathogènes des sols infestés. Le greffage des cultures sur des souches résistantes est maintenant possible pour plusieurs cultures spécifiques: tomates (hybrides résistants au Verticillium et Fusarium wilt) et Pyrenochaeta lycopersici), concombre (Cucurbita vicifolia comme souche résistante au Fusarium wilt). Le greffage sur souches résistantes est extrêmement populaire (répandu) dans l'Extrème Orient.
+
+Cultiver sans le sol
+
+Cultiver sans le sol, s'est rapidement répandu, bien qu'à un faible niveau en comparaison avec l'Europe du Nord, non pas seulement dans le but de jouer sur les périodes inhabituelles et les circonstances de production, mais aussi comme une réponse au besoin de réduire l'usage de fumigant du sol. La culture sans le sol représente une intéressante alternative aux systèmes agricoles traditionnels pour les cultures de grandes valeurs comme la rose, l'ouillet, le basilic, le gerbara, la laitue, etc. Le choix le plus convenable d'un système de cultiver sans le sol pour un environnement donné dépend des facteurs techniques, économiques et phytopathologiques. La pratique de cultiver sans le sol est considérablement adopté dans le cas de cultures ornementales (roses, gerbera) et dans certains cas pour la fraise. En Italie, la culture sans le sol couvre approximativement un total de 100 ha.
+
+Système de bacs flottants ("flotter")
+
+Un exemple de cette technique dudit "système flottant" utilisé au Brésil, consiste à cultiver les jeunes plants dans les bacs de polystyrène placés dans l'eau d'une piscine sous un tunnel plastique. Le système flottant utilise des milieux commercialement préparés, désinfectés. La préparation de milieu la plus communément utilisée contient des écorces de deux pins fermentés, la vermiculite et la perlite répandue. Dans l'état de Rio Grande do Sul, au sud du Brésil, 60% de plants de tabac sont couramment produits avec le système flottant. Ce système est aussi plus commun au Santa Catarina, le deuxième plus grand état producteur de tabac. Un avantage important de ce système est le fait que la production de jeunes plants de tabac demande 50 à 60 jours jusqu'à ce qu'ils atteignent une hauteur de 15 à 20 cm. Dans le système conventionnel, trois mois sont nécessaires pour que les jeunes plants complètent leur développement. Ce système flottant de production fournit de jeunes plants
+de tabac à transplanter qui sont de grande uniformité, avec un système racinaire important et des coûts de main-d'&#156;uvre réduits. Ce système est aussi bien applicable pour la production de jeunes plants de beaucoup de cultures légumières.
+
+1.2 Contrôle physique
+
+Vapeur
+
+La vaporisation est l'introduction de la vapeur d'eau dans le sol, sous les bâches en plastique pour augmenter la température à un niveau létal pour les organismes nuisibles du sol. La température du sol et la durée du traitement détermine si l'élimination est complète (stérilisation: quelques minutes à 90-100°C), ou si c'est seulement la réduction partielle de la micro-flore du sol (pasteurisation: Mélange d'air et de vapeur pendant 20 à 30 minutes à 70-80°C) qui se présente. La vaporisation à pression négative est prometteuse d'énergie efficace et d'alternative plus rapide.
+
+Solarisation du sol
+
+La solarisation est un processus hydrothermal, qui utilise la radiation solaire capturée sous film plastique pour chauffer le sol jusqu'à 50-55°C à 5 cm de profondeur et 40-42°C à 20-25 cm de profondeur et le désinfecte. La solarisation est un mode complexe d'activité qui contrôle un large spectre de sol comportant des pathogènes, des mauvaises herbes, des insectes et des nématodes, et qui peut être combinée avec autres mesures de contrôle avec succès.
+
+La solarisation conduit à une réduction drastique de la densité de l'inoculum par inactivation thermale et induit la suppression (changement quantitatif et qualitatif de la micro-flore, l'établissement d'un nouvel équilibre biologique); elle induit aussi la phérormone de croissance qui affecte le développement de la plante.
+
+Traitement à l'eau chaude
+
+Le centre National de Recherche de Tsukuba (Japon) a développé cette méthode. L'eau bouillie à 95°C est versée sur le champ. Le traitement tue plusieurs organisme y compris les organismes nuisibles, les pathogènes et les mauvaises herbes et son efficacité dure jusqu'à trois ans sur les surfaces cultivables protégées. Il est nécessaire d'améliorer le matériel de production d'eau chaude par la réduction de sa taille et de son coût, afin de la rendre disponible pour la bourse du fermier. Ce type de traitement n'est pas approprié pour les grandes superficies.
+
+Inondation
+
+C'est l'une des méthodes les plus largement utilisées au Japon dans les aires où les aubergines, les tomates, les fraises et concombres sont cultivés. Les maladies et nématodes du sol sont contrôlés. Cette méthode paraît être l'une des voies les plus prometteuses pour contrôler les pathogènes du sol dans l'avenir.
+
+2. Alternatives chimiques
+
+Les produits chimiques pour la désinfection du sol peuvent avoir un large spectre d'activités (fumigants) sur les organismes nuisibles particuliers (fongicides et nématicides).
+
+Les fumigants sont des substances toxiques qui sont appliqués au sol sous forme de gaz, poussière, mouillages ou granules pour lutter contre plusieurs nuisibles du sol, champignons, bactéries, nématodes, insectes et mauvaises herbes. Les fumigants solides ou liquides une fois incorporés au sol se volatilisent afin de circuler à travers le sol.
+
+Ces produits chimiques sont sélectionnés suivant différentes caractéristiques telles que le spectre d'activité, la capacité de pénétration, la période d'attente entre le traitement et la mise en culture, la disponibilité et la facilité d'usage, l'efficacité, la convenance aux différentes conditions environnementales, le coût et l'impact environnemental
+
+Fongicides et nématicides chimiques sont généralement utilisés pour lutter contre un pathogène spécifique. Le Benomyl, tolclofos-méthyl, le prochlora et l'ipiodione sont quelques uns des fongicides communément utilisés dans les cultures végétales et ornementales. Fenamiphos est couramment utilisé comme un nématicide.
+
+Pendant ces dernières années, le nombre de pesticides enregistrés pour la désinfection du sol a considérablement baissé compte tenu de la sévère restriction imposée à leur usage. Les gouvernements sont devenus de plus en plus conscients du recul devant ces produits chimiques du point de vue de leur impact sur la santé publique et sur l'environnement.
+
+Il est à noter qu'aucun produit chimique ne fournit à lui seul une alternative du point de vue consistance et efficacité dans les utilisations du MeBr en pépinière contre les organismes nuisibles ciblés.
+
+Isothiocyanate de méthyle (ITCM) et ses dérivés
+
+Le Métame de sodium est un produit chimique liquide du sol qui produit l'isothiocyanate de méthyle. Il est utilisé comme un fumigant de la pré-plantation et est efficace dans la lutte contre les arthropodes, certaines mauvaises herbes et agents pathogènes du sol, principalement les champignons et un nombre limité d'espèces de nématodes. Il est directement appliqué au sol ou à travers les systèmes d'irrigation sous le mulch transparent de polyéthylène. Le métame de sodium doit être appliqué quand les températures du sol sont entre 15 et 30 °C. Le taux d'application est de 100ml/m^2 (avec la formulation de 32,7% de matière active). A une concentration élevée d'inoculum, des températures du sol légères ou des sols lourds, il est nécessaire d'augmenter la dose jusqu'à 800 ml/m^2.
+
+Le Dazomet est un produit chimique granulaire du sol pour la pré-plantation et a été rapporté comme étant apte à lutter contre les mauvaises herbes, les nématodes et les champignons. Il demande une distribution mécanique dans le sol pour une bonne répartition et une bonne efficacité. Pendant le traitement le sol devrait être couvert par des films de plastique. Le taux d'application est de 80-100g/m^2 avec des formulations de 90% de matière active.
+
+1.3 Dichloropropène (1.3-D)
+
+1-3 Dichloropropène est un fumigant liquide de pré-plantation qui s'évapore rapidement et se diffuse comme un gaz à travers le sol. Il est appliqué au sol par injection et fournit une lutte efficace contre les nématodes, les insectes, quelques champignons pathogènes. Pendant le traitement, le sol reste couvert de films en plastique.
+
+1.3-D est habituellement utilisé en combinaison avec d'autres produits chimiques tels que le chlorapicrine, le métame de sodium, etc... La dose d'application est de 12-20 ml/m^2 (avec des formulations à 97% de matière active); les doses les plus élevées sont appliquées au sol lourd. Il est appliqué à l'aide d'un lourd mécanisme d'injection à travers des buses d'injection montées à deux niveaux. Des pompes péristatiques garantissent une bonne distribution. Le flux du produit chimique dépend de la vitesse du tracteur. Puisque le 1-3 dichloropropane est hautement volatile, le plastique de couverture doit être immédiatement placé après l'application.
+
+L'application uniforme du produit chimique par l'ajustement de la vitesse du tracteur et le calibrage des buses d'injection de la machine est hautement recommandée.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+BIBLIOGRAPHIE UTILE
+
+Anonymous, 1997. The Methyl Bromide Issue. Edité par C. H. Bell, N. Price, B. Chakrabarti, John Wiley et Sons Public, 412 pp.
+
+Braun, L.A. et Supkoff, D.M. 1994. Options to Methyl Bromide for the Control of Soil-Borne Diseases and Pests in California with Reference to the Netherlands. Pest Management Analysis and Planning Program. This Publication can be found in the Webpage: http://www.cdpr.ca.gov/docs/dprdocs/methbrom/alt-anal/soil.htm
+
+CSIC. 1997. Alternatives to Methyl Bromide for the Southern European Countries. [A. Bello, J.A. González, M. Arias and R. Rodríguez-Kabana, Eds.] 403 pp.
+
+De Vay J.E., J.E. Stapleton and Elmore, C.L. (Eds). 1991. Soil Solarization, FAO Plant Production and Protection Paper 109, 396 pp.
+
+Labrada, R. and Fornasari, L. Eds. 2001. Global Report on Validated Alternatives to the Use of Metil Bromide for Soil Fumigation. FAO Plant Production and Protection Paper No. 166, Rome, 98 pp.
+
+MBTOC. 1997. Report Technology and Economic Assessment Panel, UNEP, Nairobi 221.pp.
+
+MBTOC. 1999. Assessment of Alternatives to Methyl Bromide. UNEP, Nairobi, 275pp.
+
+Rodríguez-Kabana, R and Calvet, C. 1994. Capacidad del suelo para controlar enfermedades de origen edáfico. Phytoparasítica 20, 211-224.
+
+RUMBA (Regular Update on Methyl Bromide Alternatives) Newsletter regularly prepared and edited by UNEP.
+
+Stapleton J.J., J.E. De Vay and Elmore, C.L. (Eds). 1998. Soil Solarization and Integrated Management of Soil-borne Pests. FAO Plant Production and Protection Paper 147, 657 pp.
+
+UNEP. 1999. Methyl Bromide: Getting Ready for the Phase out. Mass Market Paperback - 31 pp.
+
+UNEP. 2000. Methyl Bromide Alternatives for North African and Southern European Countries.
+
+UNIDO. 2000. Three Alternatives to the Use of Methyl Bromide in Tobacco: Non soil Cultivation, Solarization and Low Dose Chemicals. Demonstration project/UNIDO. Final Report 1998-2000 EMBRAPA-EPAGRI, Brazil, 54pp.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+SITES WEB USUELS
+
+* ARS methyl bromide - USDA-ARS
+http://www.ars.usda.gov/is/mb/mbr web.htm
+* Environmental Working Group
+http: www.ewg.org/pub/home/Reports/Reports.html
+* Food and Agriculture Organization of the United Nations
+http://www.fao.org/ag/AGp/agpp/IPM/Web_Brom/Default.htm
+* Ozone Action
+http://www.ozone.org
+* Pesticide Action Network
+http://www.igc.org/panna/
+* Technology and Economic Assessment Panel
+http://www.teap.org/
+* United Nations Environment Programme-Nairobi, Kenya
+http://www.unep.org/ozone/home.htm
+* U.S. EPA methyl bromide phase out web site
+http://www.epa.gov/spdpublc/mbr/
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+APPENDICES
+
+APPENDICE 1
+
+A propos de la FAO - Division de la Production et de la Protection Végétale (AGP)
+
+&
+
+Service de la Protection végétale (AGPP)
+
+L'organisation des Nations-Unies pour l'Agriculture et l'Alimentation est fondée en 1945 avec pour mandat de relever les niveaux de nutrition et de vie, afin d'augmenter la productivité agricole et améliorer la condition de vie des populations rurales.
+
+Aujourd'hui, la FAO est l'une des plus grandes agences spécialisées dans le système des Nations-Unies et la première agence pour l'agriculture, la foresterie, les pêches et le développement rural. Organisation intergouvernementale, la FAO compte 180 pays membres et une organisation membre, la Communauté Européenne.
+
+Depuis sa naissance, la FAO a travaillé pour réduire la pauvreté et la faim par la promotion du développement agricole, amélioré la nutrition et la sécurité alimentaire définie comme l'accès de tous les peuples en tout temps à la nourriture dont ils ont besoin pour une vie saine et active.
+
+Depuis que la FAO a été fondée en 1945, la production agricole a augmenté à un rythme sans précédent, dépassant le double de la population mondiale au cours de la même période. Depuis les débuts des années 60, la proportion de la population affamée dans les pays en développement a été réduite de plus de 50% à moins de 20%. Malgré ce succès plus de 790 millions de personnes dans les pays en développement (représentant plus que la population de l'Amérique du Nord et l'Europe de l'Ouest combinée) demeurent dans la faim.
+
+Une priorité spécifique de l'organisation est d'encourager une agriculture durable et un développement agricole, une stratégie à long terme pour augmenter la production et la sécurité alimentaire, tout en conservant et gérant les ressources naturelles. L'objectif est de satisfaire les générations présentes et futures par la promotion d'un développement qui ne dégrade pas l'environnement et qui est techniquement adapté, économiquement et socialement viables.
+
+La FAO est composée de 8 départements: Administration et Finance, Agriculture, Economies et Affaires sociales, Pêches, Foresterie, Affaires Diverses et Information, Développement durable et Coopération technique.
+
+Division de la Production et de la Protection Végétale
+
+La Division de la Production et de la Protection Végétale (AGP), l'une des six Divisions du département de l'Agriculture recommande le développement de systèmes agricoles durables pour améliorer la récolte et la productivité des prairies afin de créer des conditions pour relancer la sécurité alimentaire, le développement économique général, et conserver l'environnement à travers le développement des ressources biologiques de l'agriculture.
+
+Les activités de AGP comprennent l'organisation de forums mondiaux et régionaux pour une action commune entre les pays et les programmes sur la conservation des ressources phytogénétiques pour l'alimentation et l'agriculture (RPGAA), l'amélioration de la plante et le développement de la production des semences, et une gestion environnementale saine des organismes nuisibles y compris la gestion intégrée des déprédateurs (GID).
+
+Des résultats majeurs sont obtenus à travers la sécurité semencière, le Plan d'Action mondial pour la conservation et l'utilisation durable des RPGAA, la biodiversité en relation avec l'expansion des organismes nuisibles dont les mauvaises herbes, les mesures phytosanitaires standard internationales, la réduction des risques d'utilisation de pesticides pour la santé humaine et pour l'environnement, et des approches écologiques pour atteindre l'intensification durable des cultures, la production des prairies et la diversification des opportunités.
+
+La Division de AGP comprend:
+
+1. Le bureau du Directeur (AGPD)
+
+2. Le Service des Plantes cultivées et des Prairies (AGPC), qui fournit un conseil technique aux membres de la FAO pour accroître une production durable des cultures et des prairies par l'amélioration de la plante, l'application des techniques de biotechnologie de la plante, le développement de systèmes intégrés de la production végétale, la gestion rationnelle de la prairie.
+
+3. Le Service de la Protection des Végétaux (AGPP), qui encourage la protection effective de la plante, sans risque pour la santé humaine et pour l'environnement, pour éviter ou réduire ainsi les pertes de cultures causées par les organismes nuisibles, pendant la croissance, le transport et le stockage. Il vise à réduire les situations urgentes causées par la traversée des frontières par les organismes nuisibles; et
+
+4. Le Service Semencier et des Ressources Phytogénétiques (AGPS), qui fournit des conseils techniques aux membres de la FAO sur les programmes et les politiques des semences, y compris l'amélioration des semences et du matériel de plantation, la production et la transformation, le stockage, le test de contrôle de qualité et la certification, et la sécurité semencière. Il assiste et conseille pour une conservation efficace et l'utilisation durable des ressources phytogénétiques pour l'alimentation et l(RPGAA) et encourage la mise en &#156;uvre du Plan d'Action Mondial sur les RPGAA par tous.
+
+Service de Protection des Végétaux
+
+Le service de la Protection de la Plante (AGPP) de la FAO s'occupe des aspects internationaux de protection des végétaux et coopère étroitement avec les organisations et les programmes régionaux et nationaux de protection des végétaux. Le programme s'occupe de la quarantaine de la plante au Secrétariat de la Convention Internationale de Protection de la Plante en fixant les niveaux et en échangeant l'information et favorisant la coopération. Concernant la gestion des pesticides, le programme encourage la l'implantation du Code International de Conduite sur la Distribution et l'Utilisation des Pesticides; il exécute avec le PNUE la procédure de PIC sur l'interdiction et la restriction sévère des pesticides. Avec l'OMS, il fait des recommandations sur les niveaux maxima de résidus chimiques admis dans les produits alimentaires.
+
+Sur la gestion des organismes nuisibles, ce service supporte financièrement et techniquement l'implantation de Programmes de Gestion Intégrée des organismes nuisibles y compris l'application de la lutte biologique et la Gestion des mauvaises herbes.
+
+Le programme de Protection de la Plante actualise régulièrement la situation du criquet du désert par le Service d'Information du Criquet du Désert. Un forum des pays pour discuter et prendre des actions sur la gestion des criquets a été organisé par le Comité de Lutte contre le Criquet du Désert et plusieurs autres sous-commissions. Le programme supporte aussi techniquement et coordonne les opérations de lutte contre les organismes nuisibles migrateurs partout où le besoin se fait sentir.
+
+A travers le programme de EMPRES, le service appui l'avertissement rapide, la réaction rapide et la recherche sur la nature des organismes nuisibles qui traversent les frontières. L'accent initial est mis sur les organismes migrateurs nuisibles en particulier, le renforcement et le support du système de Gestion du Criquet du Désert. Un programme de coopération a été développé dans la sous région de l'Afrique du Centre et a été étendu à l'Afrique Occidentale.
+
+Les Experts de la Protection des Végétaux donnent des dimensions régionale, sous-régionale et nationale à ce Programme.
+
+Des stations de Protection de la Plante existent dans les bureaux régionaux en Afrique (Ghana), Asie et le Pacifique (Thaïlande), Amérique Latine (Chili), et au Proche Orient (Caire), et dans le bureau sous régional en Tunisie, Barbade et au Samoa Occidental. Un Expert pour la lutte contre le criquet est en poste en Algérie.
+
+Le Programme de Gestion Intégrée des déprédateurs (GID) identifie les problèmes et exécute les stratégies rationnelles de protection de la plante qui sont économiquement viables et prennent en compte la santé humaine et l'environnement. Ce programme traite de l'exécution des projets GID au niveau institutionnel, au niveau de paysan.
+
+L'expérience de la FAO a montré que:
+* La GID concerne les populations: pour réussir, elle doit être un processus exécuté par les paysans.
+* La GID accroît la durabilité des systèmes agricoles. Elle augmente la durabilité du système écologique; de cette manière elle comporte sur un processus environnemental bénin y compris l'utilisation des variétés résistantes aux organismes nuisibles, l'effet des ennemis naturels et les pratiques culturales. Elle améliore la stabilité parce qu'elle est institutionnalisée au niveau de la communauté agricole et du gouvernement local. Enfin, les programmes GID sont économiquement durables puisqu'ils réduisent la dépendance du paysan vis-à-vis des obtentions (pesticides)
+* La GID va plus loin que la simple gestion d'organismes nuisibles. Elle offre un point d'entrée pour améliorer le système agricole en général.
+* Le concept champ école paysans peut être utilisé pour aborder d'autres situations agricoles et des problèmes de vulgarisation.
+
+Les substances destructives de l'ozone et le Bromure de Méthyle
+
+La FAO n'est pas une agence d'exécution du Protocole de Montréal, mais depuis 1998, elle a commencé quelques travaux sur la suppression du bromure de méthyle, conduisant aux activités conjointes avec le PNUE, sur les alternatives pour l'usage du bromure de Méthyle en agriculture.
+
+L'objectif majeur du travail que la FAO fait avec le PNUE est de conduire une formation compréhensible sur les alternatives au bromure de méthyle qui cadre aussi avec l'utilisation des principes de GID.
+
+Cette formation comprend en général trois étapes principales:
+* Un atelier préparatoire pour identifier les alternatives au bromure déjà validées et les principaux organismes nuisibles du sol.
+* La formation des vulgarisateurs et autre personnel technique sur la GID et les alternatives au MeBr.
+* Les Champs Ecoles Paysans
+
+Les activités de la FAO et du PNUE comprennent aussi la préparation de manuels et de rapports sur les alternatives au bromure de méthyle.
+
+Pour plus d'information sur le Service de Protection de la Plante veuillez contacter:
+
+Sr. N.A. Van der Graaff
+Chef, Plant Protection Service
+Plant Production and Protection Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Email: Niek.VanDerGraaff@fao.org
+Tel. +39-0657053441
+Fax +39-0657056347
+Internet: www.fao.org
+
+
+APPENDICE 2
+
+Division de la Technologie, de l'Industrie et de l'Economie du PNUE
+
+Le mandat de la Division de la Technologie, de l'Industrie et de l'Economie de PNUE est d'aider les décideurs des gouvernements, les autorités locales et l'industrie à développer et adopter les politiques et pratiques qui:
+* sont plus propres et plus saines,
+* font un usage efficace des ressources naturelles,
+* incorporent les coûts environnementaux,
+* réduisent la pollution et les risques pour les humains et l'environnement.
+
+La Division de la Technologie, de l'Industrie et de l'Economie (PNUE/DTIE), avec son siège à Paris est composé d'un centre et de quatre unités:
+* Le Centre International de Technologie Environnementale (Osaka) qui encourage l'adoption et l'utilisation des technologies environnementalement saines, avec comme centre d'intérêt la gestion environnementale des villes et des bassins d'eau de sources dans les pays en développement et les pays à revenu intermédiaire.
+* La Production et la Consommation (Paris) stimule les plus propres et les plus sains modèles de production et de consommation qui conduisent à augmenter l'efficacité dans l'utilisation des ressources naturelles et les réductions de la pollution.
+* Les Produits Chimiques (Genève) qui encourage le développement durable par la catalysation des actions globales et le renforcement des capacités nationales pour la gestion saine des produits chimiques, l'amélioration de la sécurité mondiale par rapport aux produits chimiques, avec une priorité sur les Polluants Organiques Persistants (POP) et le Précédent Accord: Prior Informed Consent (PIC, conjointement avec la FAO)
+* Energie et Action de l'Ozone (Paris), qui supporte la suppression des substances destructives d'ozone dans les pays en développement et pays à revenus intermédiaire et encourage les bonnes pratiques de gestion et d'utilisation d'énergie, en insistant sur les impacts atmosphériques. Le Centre de Collaboration en Energie et en Environnement du PNUE/RISY, supporte le travail de cette Unité.
+* Economies et Commerce (Genève) qui encourage l'utilisation, l'évaluation et l'application des mesures incitatives pour la politique de l'environnement, et aide à la compréhension des liens existant entre le commerce et l'environnement, et le rôle des institutions financières dans la promotion d'un développement durable.
+
+Les activités de UNEP/DTIE sont centrées sur l'éveil de conscience, l'amélioration de transfert d'information, la coopération en technologie forestière, le partenariat et les transferts de technologie, l'amélioration de la compréhension des impacts environnementaux, des problèmes commerciaux, l'accroissement de l'intégration des considérations environnementales dans les politiques économiques, et agissant sur la sécurité globale des produits chimiques.
+
+Programme de l'Action de l'ozone du PNUE/DTIE
+
+Plusieurs nations de par le monde ont entrepris des actions concrètes pour réduire et éliminer la production et la consommation des CFC, halons, tétrachlorure de carbone, chlorure de méthyle, bromure de méthyle et des HCFC. Quand elles sont libérées dans l'atmosphère, ces substances endommagent la couche stratosphérique de l'ozone, le bouclier qui protège la vie sur la terre contre les effets dangereux de la radiation ultraviolette du soleil. Très tôt chaque pays dans le monde (actuellement 172 pays) s'est engagé dans le Protocole de Montréal pour supprimer la production et l'utilisation des SDO (substances destructrices de l'ozone). Reconnaissant que les pays en développement ont besoin d'assistances techniques et financières spéciales afin de réaliser les engagements signés dans le Protocole de Montréal, les parties ont créé le Fonds multilatéral et ont demandé au PNUE, de concert avec le PNUD, l'ONUDI et la Banque Mondiale, à leur fournir le soutien nécessaire. De plus,
+le PNUE soutient les activités de protection de l'ozone dans les pays à revenus intermédiaires comme une agence d'exécution.
+
+Depuis 1991, le Programme de l'action de l'ozone du PNUE/DTIE a renforcé la capacité des gouvernements (particulièrement les Unités Nationales d'ozone) et des industries dans les pays en développement, à prendre des décisions judicieuses sur le choix de technologie et à développer les politiques requises pour exécuter le Protocole de Montréal. En offrant les services suivants, adaptés aux besoins individuels des pays en développement, le Programme de l'action de l'ozone a aidé à promouvoir la rentabilité des activités abandonnées aux niveaux national et régional.
+
+Echange d'information
+
+Il fournit des services et des outils d'information afin d'encourager et permettre aux décideurs de prendre des décisions judicieuses sur les politiques et les investissements requis pour supprimer les SDO. Depuis 1991, le programme a développé et disséminé aux Unités Nationales d'ozone (UNO) plus de 100 publications individuelles, vidéos, et des bases de données qui comprennent les matériels d'éveil public, un bulletin trimestriel, un site-web, un secteur spécifique de publications techniques pour identification et sélection de technologies d'alternatives et des directives pour aider les gouvernements à établir des politiques et des régulations.
+
+Formation
+
+Elle façonne la capacité des politiques, des douaniers et de l'industrie locale à exécuter les activités nationales de suppression des SDO. Le programme encourage l'implication des experts locaux d'industrie et d'académie en atelier de formation, et rassemble les partenaires, les experts des enjeux avec les communautés de protection globale de l'ozone. Le PNUE conduit la formation au niveau régional et soutient les activités nationales de formation (y compris la fourniture de manuels de formation et autres matériels).
+
+Réseau
+
+Il organise un forum régulier pour les fonctionnaires des UNOs afin d'échanger des expériences, développer les talents et partager les connaissances et les idées entre homologues des pays en développement et pays développés. Le réseau permet d'assurer que les UNOs, ont l'information, les compétences et les contacts requis pour gérer les activités nationales de suppression des SDO avec succès. Le PNUE opère couramment dans 8 réseaux régionaux et sous-régionaux impliquant 109 pays en développement et 8 pays développés; ceci a donné comme résultat les premiers pas pour l'exécution du Protocole de Montréal dans les pays membres.
+
+Projets de Gestion de Réfrigérants (RMPS)
+
+Il fournit aux pays une stratégie intégrée et rentable pour la suppression des SDO dans la réfrigération et les secteurs de conditionnement d'air. Les plans de Gestion de Réfrigérant doivent assister le développement des pays en développement (spécialement ceux qui consomment peu de SDO) à surmonter les nombreux obstacles à la suppression des SDO dans le secteur critique de réfrigération. Le PNUE/DTIE fournit couramment une expertise spécifique, l'information et le guide afin de soutenir le développement de RMPS dans 60 pays.
+
+Programmes Nationaux et Renforcement des capacités institutionnelles
+
+Ils soutiennent le développement et l'exécution des stratégies nationales sur la suppression des SDO, spécialement pour les pays consommant peu des SDO. Le programme assiste couramment 90 pays à développer leurs programmes nationaux et 76 pays à exécuter les projets de renforcement des capacités institutionnelles.
+
+Pour plus d'information sur les services, contacter:
+
+Sr. Rajendra Shende, Chief, Energy and Ozon Action Unit
+UNEP Division of Technology, Industry and Economics
+Ozon Action Programme
+3943, quai André Citroën
+75739 París Cedex 15 France
+Email: ozonzction@unep.fr
+Tel: +33 1 44 37 14 50
+Fax: + 33 1 44 37 14 74
+www.uneptie.org/ozonaction.html
+
+
+UNEP
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières
+
+
+COUVERTURE ARRIERE
+
+Le bromure de méthyle est largement utilisé comme fumigant du sol dans plusieurs pays et doit être urgemment et graduellement retiré. Toutefois, des alternatives doivent être développées et transférées aux producteurs. Ce processus est possible seulement dans la mesure où une formation compréhensible des vulgarisateurs et des paysans dans la gestion intégrée des nuisibles (GID) est menée. Ce manuel offre un modèle de formation sur la GID dans le cas du bromure de méthyle comme fumigant du sol. Il décrit brièvement les éléments et les étapes de ce processus de formation et définit le cadre de sa réalisation. Il comprend une bibliographie et indique les pages Web concernant les alternatives au bromure de méthyle. Préparé et publié grâce au financement FAO/PNUE dans le cadre du projet EP/INT/903/UEP, le document est destiné aux chercheurs, vulgarisateurs et agents de développement chargés de la formation des paysans concernant les nouvelles alternatives au bromure de méthyle
+comme fumigant du sol.
+
+
+Page précédente Début de page

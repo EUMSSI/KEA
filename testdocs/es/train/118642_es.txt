@@ -1,0 +1,1230 @@
+Manual para la Capacitación de Trabajadores de Extensión y Agricultores - Alternativas al Bromuro de Metilo para la Fumigación de los Suelos
+
+
+R. Braga
+R. Labrada
+L. Fornasari
+N. Fratini
+
+UNIDAD DE ACCIÓN PARA EL OZONO Y LA ENERGÍA
+PROGRAMA DE LAS NACIONES UNIDAS PARA EL MEDIO AMBIENTE
+ORGANIZACIÓN DE LAS NACIONES UNIDAS PARA LA AGRICULTURA Y LA ALIMENTACIÓN
+Roma, 2003
+
+Indice
+
+
+Foto de la cubierta: Capacitación de capacitadores: calientamiento del suelo y biofumigación
+
+Las opiniones expresadas en esta publicación no representan necesariamente las decisiones o la política manifiesta de la Organización de las Naciones Unidas para la Agricultura y la Alimentación o del Programa de las Naciones Unidas para el Medio Ambiente, y la mención de nombres o procedimientos comerciales no implica su aprobación.
+
+Las denominaciones empleadas en esta publicación y la forma en que aparecen presentados los datos que contiene no implican, de parte de la Organización de las Naciones Unidas para la Agricultura y la Alimentación o del Programa de las Naciones Unidas para el Medio Ambiente, juicio alguno sobre la condición jurídica de países, territorios, ciudades o zonas, o de sus autoridades, ni respecto de la delimitación de sus fronteras o límites.
+
+ISBN 92-5-304632-5
+
+Todos los derechos reservados. Se autoriza la reproducción y difusión de material contenido en este producto informativo para fines educativos u otros fines no comerciales sin previa autorización escrita de los titulares de los derechos de autor, siempre que se especifique claramente la fuente. La FAO y el PNUMA agradecerán recibir un ejemplar de toda publicación en que se utilice como fuente la presente publicación. Se prohibe la reproducción del material contenido en este producto informativo para reventa u otros fines comerciales sin previa autorización escrita de los titulares de los derechos de autor. Las peticiones para obtener tal autorización deberán dirigirse al Jefe del Servicio de Gestión de las Publicaciones de la Dirección de Información de la FAO, Víale delle Terme di Caracalla, 00100 Roma, Italia, o por correo electrónico a copyright@fao.org
+
+© FAO y PNUMA 2003
+
+Contactos:
+
+Contactos:
+Ricardo Labrada, Oficial agrónomo
+(gestión de malezas)
+Servicio de Protección Vegetal
+Organización de las Naciones Unidas
+para la Agricultura y la Alimentación
+Viale delle Terme di Caracalla
+00100 Roma, Italia
+Tel.: (+39) 06 5705 4079
+Fax: (+39) 06 5705 6347
+Correo electrónico:
+ricardo.labrada@fao.org
+Sitios Web: www.fao.org/WAICENT/
+FAOINFO/AGRICULT/AGP/AGPP/
+IPM/WEEDS/Default.html www.fao.org/WAICENT/FAOINFO/
+AGRICULT/AGP/AGPP/IPM/
+Web_Brom/Default.htm
+
+Rajendra Shende, Jefe
+Unidad de Acción para el Ozono
+y la Energía
+División de Tecnología, Industria y
+Economía
+Programa de las Naciones Unidas para el
+Medio Ambiente
+Tour Mirabeau
+39-43, quai André-Citroën
+75739 París Cedex 15, Francia
+Tel.: (+33) 1 44 37 14 50
+Fax: (+33) 1 44 37 14 74
+Correo electrónico: ozonaction@unep.fr
+Sitio Web: www.uneptie.org/ozonaction.html
+
+Esta publicación se puede consultar el sitio Web de la FAO: www.fao.org/WAICENT/FAOINFO/AGRICULT/AGP/agpp/IPM/Web_Brom/Default.htm y en el sitio Web de la Unidad de Acción para el Ozono y la Energía del PNUMA: http://www.uneptie.org/hp_oa.htm
+
+
+Indice
+
+
+PREFACIO
+
+LISTA DE ABREVIATURAS
+
+CAPÍTULO I. INTRODUCCIÓN
+
+CAPÍTULO II. CAPACITACIÓN DE CAPACITADORES
+
+1. Taller preparatorio
+2. Capacitación de capacitadores
+
+2.1. Experimentos básicos de campo
+2.2. Actividades de aprendizaje de conceptos específicos
+2.3. Análisis de agroecosistemas
+
+3. Formación de equipos de trabajo y dinámicas de grupo
+4. Evaluación
+
+CAPÍTULO III. ESCUELAS DE CAMPO DE AGRICULTORES
+
+1. Planeamiento
+2. Implementación
+3. Evaluación
+
+CAPÍTULO IV. EJEMPLOS DE EJERCICIOS PARA CDCs y ECAs.
+
+1. Comprensión del sistema del suelo
+2. Evaluación de artrópodos del suelo. (un ejercicio para las ECAs)
+3. Evaluación de la infestación de las malezas (un ejercicio para las ECAs)
+
+CAPÍTULO V. DESARROLLO DEL CURRÍCULO PARTICIPATIVO
+
+1. General
+2. Guías
+3. Tópicos
+
+CAPÍTULO VI. DESCRIPCIÓN DE LAS PRINCIPALES ALTERNATIVAS
+
+1. Alternativas no químicas
+
+1.1. Prácticas culturales
+1.2. Control físico
+
+2. Alternativas químicas
+
+BIBLIOGRAFÍA ÚTIL
+
+PORTALES ÚTILES DE INTERNET
+
+APÉNDICES
+
+Apéndice 1. Acerca de FAO - División de Producción y Protección Vegetal (AGP) y Servicio de Protección Vegetal (AGPP)
+Apéndice 2. Acerca de la División de Tecnología, Industria y Economía del PNUMA
+
+CUBIERTA POSTERIOR
+Indice Página siguiente
+
+
+PREFACIO
+
+La destrucción en la estratosfera de la capa de ozono protectora del planeta, debido al uso de compuestos químicos industriales, tales como los clorofluorocarbonos (CFC) y halógenos, ha dado lugar a una situación muy seria para la salud del planeta. Para limitar los problemas causados al ambiente y al hombre por sustancias que destruyen la capa de ozono, se han tomado acciones a través de tratados internacionales, la convención de Viena de 1985 y el Protocolo de Montreal de 1987. Hasta la fecha los niveles de ozono han decrecido drásticamente y, sin estos acuerdos, la situación del mundo sería mucho peor. Los esfuerzos en esta dirección deben por tanto continuar y fortalecerse, para proteger la capa de ozono.
+
+La necesidad urgente de encontrar alternativas al bromuro de metilo, compuesto que posee una fuerte acción destructora del ozono, ha determinado un aumento de los esfuerzos e investigaciones para reducir su uso. La búsqueda de otras medidas que pudieran reemplazar su uso en la agricultura, ha permitido en la actualidad poner en evidencia la existencia de nuevas alternativas para el control de las plagas del suelo.
+
+El enfoque de Manejo Integrado de Plagas (MIP), es la clave para desarrollar un programa completo de capacitación para los agricultores sobre nuevas alternativas. La base de este enfoque es la capacitación de los trabajadores de extensión y de otros agentes técnicos que trabajan estrechamente con los agricultores. El MIP ayuda a alertar a los agricultores de la necesidad de descontinuar el uso del bromuro de metilo y a educarlos en la aplicación de las nuevas alternativas.
+
+La experiencia ha demostrado, que la mayoría de los agricultores no están persuadidos de aplicar innovaciones técnicas mediante la implementación de demostraciones simples de campo. Este enfoque, en la mayoría de las áreas donde se ha practicado, ha demostrado ser una pérdida de tiempo y dinero. Además, el segundo paso en el enfoque de MIP debe ser la capacitación de agricultores mediante la implementación de las llamadas Escuelas de Campo para Agricultores, donde los agricultores aprenden a aplicar, adaptar y mejorar las nuevas estrategias de control.
+
+Este manual tiene el objetivo de brindar una guía a los trabajadores de extensión en materias relacionadas con el establecimiento y conducción de los cursos de Capacitación de Capacitadores, así como de las Escuelas de Campo para Agricultores en las tecnologías alternativas al uso del bromuro de metilo como fumigante del suelo. Este material presenta el marco, las informaciones y herramientas relevantes para iniciar estas actividades de acuerdo a las necesidades específicas.
+
+Es importante recalcar que aunque FAO tiene una vasta experiencia en proyectos de MIP en muchas regiones del mundo (incluyendo el establecimiento de las Escuelas de Campo para Agricultores), no se posee aún una experiencia específicamente relacionada con el bromuro de metilo. En su momento, sin dudas, este manual deberá ser revisado y enriquecido con nuevos elementos y experiencias de los países donde hayan sido desarrolladas Escuelas de Campo para Agricultores en la eliminación del bromuro de metilo como fumigante del suelo.
+
+Este manual fue preparado por un grupo de especialistas familiarizados con la Capacitación de Capacitadores y las Escuelas de Campo de Agricultores, y va dirigido a los trabajadores de extensión y agentes de desarrollo responsables de asistir a los agricultores que en el presente utilizan bromuro de metilo como fumigante de suelo. Este material, junto con el Informe Global de alternativas validadas al uso del bromuro de metilo para fumigación del suelo preparado por FAO (2001)^[1] y financiado por el PNUMA)^[2], puede ser una buena referencia para el entrenamiento en nuevas alternativas en diferentes países.
+
+Agradecemos al INIAP (Instituto Nacional Autónomo de Investigaciones Agropecuarias - Ecuador) y el CIP (Centro Internacional de la Papa-Perú) por su cortesía en permitir el uso de los dibujos reproducidos (modificados) en esta publicación.
+
+Esta publicación fue preparada por la Organización de las Naciones Unidas para la Agricultura y la Alimentación de las Naciones Unidas (FAO) con fondos del Programa de las Naciones Unidas para el Medio Ambiente - División de Tecnología, Industria y Economía. (PNUMA-DTIE)(2), como parte de su Programa "OzonAction" dentro del marco del fondo multilateral del Protocolo de Montreal.
+
+Raimundo Braga
+
+EMBRAPA, Fortaleza (BRA)
+
+Ricardo Labrada
+
+FAO, Roma (I)
+
+Luca Fornasari
+
+Montpellier (F)
+
+Nora Fratini
+
+FAO, Roma (I)
+
+
+^[1] Labrada, R. and Fornasari, L. (Eds.) 2001. Global Report on Validated Alternatives to the Use of Methyl Bromide for Soil Fumigation. FAO Plant Production and Protection Paper, 166.
+^[2] Project Title: Farmer training and Education Programmes for Methyl Bromide Alternatives in Latin America and Africa; Project Number IM/ 2110-99-18 (EP/INT/903/UEP).
+
+
+Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+LISTA DE ABREVIATURAS
+
+AAES
+
+Análisis de agroecosistemas.
+
+CDC
+
+Capacitación de capacitadores.
+
+CFCs
+
+Clorofluorocarbonos.
+
+CIP
+
+Centro Internacional de la Papa (Perú).
+
+DTIE
+
+División de Tecnología, Industria y Economía del PNUMA.
+
+NUE
+
+Nivel de Umbral Económico.
+
+MIC
+
+Manejo Integrado de Cultivos
+
+FAO
+
+Organización de las Naciones Unidas para la Agricultura y la Alimentación
+
+ECA
+
+Escuelas de Campo para Agricultores
+
+RCI
+
+Respuesta Incrementada de Crecimiento
+
+INIAP
+
+Instituto Nacional Autónomo de Investigaciones Agropecuarias (Ecuador)
+
+MIP
+
+Manejo Integrado de Plagas.
+
+MeBr
+
+Bromuro de Metilo.
+
+MITC
+
+Isotiocianato de metilo.
+
+ONUDI
+
+Organización de las Naciones Unidas para el Desarrollo Industrial.
+
+PDO
+
+Potencial de Destrucción del Ozono.
+
+PNUD
+
+Programa de las Naciones Unidas para el Desarrollo
+
+PNUMA
+
+Programa de las Naciones Unidas para el Medio Ambiente.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPÍTULO I. INTRODUCCIÓN
+
+El bromuro de metilo o bromometano (MeBr), es un fumigante altamente efectivo de amplio espectro, usado para el control de plagas del suelo de diferentes cultivos en el mundo. Cuando se usa como fumigante del suelo, el gas bromuro de metilo es usualmente aplicado al mismo antes de que el cultivo sea plantado y el suelo es entonces cubierto con carpas plásticas. El tratamiento efectivamente elimina varios organismos del suelo, pero una vez que las carpas son quitadas, parte del gas puede eventualmente entrar a la atmósfera. Uno de sus principales usos es para la fumigación de semilleros de tomates, pimientos, berenjenas, tabaco, fresas, ornamentales y otros cultivos. Se estima, que más del 80 % del consumo global de MeBr es utilizado en la fumigación del suelo.
+
+El MeBr ha sido identificado científicamente como un compuesto químico que destruye la capa de ozono de la tierra. Su potencial de degradación del ozono (PDO) es 0.4, o sea, mayor que el umbral admisible de 0.2. El bromuro liberado por la aplicación de bromuro de metilo, sobre la base de cada átomo, se considerado que es 40 veces más eficiente en la ruptura del ozono, que el cloro.
+
+Toda esta información ha dado pie en los países desarrollados y en desarrollo, a un proceso planificado de eliminación dentro del marco del Protocolo de Montreal sobre las sustancias degradantes de la capa de ozono. El proceso completo de la eliminación del MeBr en los países desarrollados está previsto para el 2005, mientras que en los países en desarrollo, la eliminación debe tener lugar durante los años posteriores al 2000 con el proceso terminado en el 2015.
+
+La eliminación implica que los países deben desarrollar alternativas viables para reemplazar el presente uso de MeBr. Estas alternativas deben ser técnicamente efectivas en el control de las plagas del suelo, ser ambientalmente seguras, fáciles de usar y económicamente viables para los agricultores. En muchos casos, es poco probable que haya una sola alternativa disponible para reemplazar el MeBr. Será probablemente necesario combinar dos o más medidas de control para lograr resultados tan efectivos como los logrados con el MeBr.
+
+La adopción del Manejo Integrado de Plagas (MIP), es también parte de la solución. No habrán nuevas pociones mágicas para el control de plagas del suelo y se requerirán evaluaciones sistemáticas de los organismos plagas para tomar decisiones adecuadas de control.
+
+El MIP es un proceso de toma de decisiones que considera todas las medidas posibles de control, tales como el control cultural, mecánico, biológico y químico, seleccionando el método de control que se adapta a cada situación. Cuando el control químico es lo aconsejable, lejos de realizar una aplicación simple del plaguicida, este tratamiento se llevará a cabo en las fases más vulnerables de las plagas objeto de control. A través del uso de métodos apropiados de control y su adecuada aplicación, el MIP puede brindar una solución en la reducción del uso de pesticidas incluyendo el fumigante MeBr.
+
+De esta forma, el proceso de MIP comienza con el agricultor (quien toma las decisiones en el campo) y no con la plaga. Para tomar decisiones efectivas, los agricultores tienen que entender el agroecosistema, como interactúan sus diferentes componentes en el campo y como sus decisiones afectan el balance. Los investigadores agrícolas, tienen que entender las necesidades locales y proveer a los agricultores con un amplio rango de opciones que ellos puedan adaptar y aplicar a sus propias situaciones individuales. Los servicios de extensión y/o de protección de plantas deben ayudar en este proceso, de forma que los investigadores entiendan las necesidades de los agricultores y éstos por sí mismo sean capaces de adaptar las tecnologías disponibles.
+
+La Capacitación de Capacitadores (CDC) y las Escuelas de Campo de Agricultores (ECA) son dos actividades medulares en el entrenamiento de MIP y proceso de extensión. La primera es una vía efectiva para brindar una actualización sobre las nuevas alternativas al MeBr y sobre MIP en general a los trabajadores de extensión. El conocimiento que ellos alcancen les permitirá organizar las Escuelas de Campo de Agricultores en su área.
+
+Las Escuelas de Campo de Agricultores se basan en principios ecológicos, entrenamiento participativo y en métodos educacionales no formales. Este modelo enfatiza el aprendizaje a través de la experiencia y la gestión práctica con los problemas reales de campo. El entrenamiento de acuerdo a estos principios implica más que instrucción, la facilitación del proceso de aprendizaje. En adición, las ECAs dan a los campesinos la oportunidad de experimentar, mejorar sus habilidades de observación e investigación, y la toma de iniciativas, adaptando las alternativas a las condiciones locales. En efecto, una de las lecciones más importantes aprendidas por los servicios de extensión en el pasado ha sido, que las recomendaciones de la extensión e investigación generalizadas a los agricultores necesitan ser cuidadosamente examinadas, probadas y adaptadas por los agricultores mismos, de acuerdo a las condiciones locales en sus áreas. Las ECAs ayudan a este proceso mejorando el
+conocimiento que poseen los agricultores y las habilidades que han ganado durante años de experiencia.
+
+La experiencia de FAO en el manejo de plagas en diferentes países en el sudeste de Asia, Africa y América Latina, ha demostrado que el proceso de capacitación es vital para la adopción de nuevos métodos de control por los agricultores. Esta capacitación no debe ser meramente una demostración de campo o de la organización de días de campo. Los agricultores se animan más a adoptar las alternativas de control cuando son ellos mismos los que las ensayan y mejoran.
+
+Este manual establece los pasos requeridos para la conducción de una capacitación integral de las nuevas alternativas para reemplazar el MeBr. Esta es la primera edición y estamos seguros que los elementos brindados aquí serán enriquecidos y mejorados por la experiencia de campo futura en la eliminación del MeBr en diferentes países.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPÍTULO II. CAPACITACIÓN DE CAPACITADORES
+
+La Capacitación de Capacitadores (CDC) es el prerrequisito para una efectiva implementación de las soluciones técnicas en el campo y un paso importante para su diseminación. La CDC, que se desarrolla siguiendo un currículo específico, consiste en experiencias de manejo básico del cultivo y principios educacionales no formales, así como en prácticas de campo tales como el análisis de agro ecosistemas y el ensayo de nuevas alternativas en el campo.
+
+Capacitación de capacitadores en un aula
+
+
+1. Taller preparatorio
+
+El punto de partida para el proceso de capacitación es la identificación de los usos/aplicaciones del MeBr y las alternativas existentes en el país o región en cuestión. Esta información es esencial cuando se prepara el contenido de la capacitación. Es importante tener en cuenta, que los capacitadores deben ir a los agricultores con propuestas concretas o alternativas que estos últimos después adaptarán a sus condiciones locales.
+
+El taller, que usualmente dura uno o dos días, debe también identificar los principales elementos de MIP que se aplicarán durante el entrenamiento. Estos pueden ser métodos para la evaluación regular de organismos plagas y otros procedimientos pertinentes.
+
+Los participantes en el taller deben ser técnicos agrícolas de instituciones nacionales así como de Organizaciones No Gubernamentales, trabajadores de extensión, asociaciones agrícolas y empresas.
+
+El objetivo principal del taller es:
+* crear conciencia sobre el problema del MeBr;
+* informar a las partes interesadas e instituciones locales del proceso de capacitación sobre las alternativas al MeBr;
+* identificar los principales plagas del suelo en los cultivos actualmente tratados con MeBr y los elementos de MIP a ser usados;
+* identificar las alternativas existentes y discutir su factibilidad;
+* basado en las informaciones anteriores, preparar el currículo de la CDC; e
+* identificar los participantes, por ejemplo, técnicos agrícolas y trabajadores de extensión para la CDC.
+
+2. Capacitación de capacitadores
+
+Una vez que las alternativas y elementos del MIP han sido identificadas y el currículo preparado, se procederán a realizar la CDC.
+
+Los principales participantes en la capacitación son los trabajadores de extensión agrícolas, agentes de protección vegetal y otros técnicos agrícolas. En algunos casos, éstos pueden tener un modesto conocimiento sobre MIP y alternativas al MeBr.
+
+Durante la capacitación, los participantes son actualizados sobre las nuevas alternativas, los métodos para evaluar las plagas del suelo, y aspectos relacionados con la producción agrícola y los agroecosistemas, con énfasis en el MIP. El enfoque estará dirigido hacia las actividades manuales en el campo y en el desarrollo de habilidades basado en los procedimientos de la educación informal de adultos.
+
+Por lo general, el principal organizador de la capacitación es un especialista en alternativas al MeBr y MIP. Los capacitadores deben tener conocimiento y experiencia de la organización y ejecución de las Escuelas de Campo de Agricultores (ECA).
+
+La CDC se desarrolla normalmente durante la etapa del cultivo, lo que posibilita seguir y observar los resultados de los experimentos. Sin embargo, en algunas circunstancias esta capacitación puede ser reducida en su duración si los trabajadores de extensión poseen ya suficiente experiencia y conocimiento sobre MIP. Una posibilidad es organizar una CDC corta con días de campo complementarios posteriormente. De esta forma, los técnicos tendrán tiempo de asimilar todos los nuevos elementos relacionados a MIP y las alternativas al MeBr. La CDC puede ser entonces conducida paralelamente con la ECA.
+
+Los principales objetivos son:
+* proveer información y elevar la conciencia sobre los problemas ambientales que causa el MeBr y la resistencia del consumidor al MeBr;
+* impartir nuevas alternativas al MeBr y elementos de MIP;
+* ayudar a los agricultores a mejorar sus habilidades para seleccionar y adaptar las alternativas más adecuadas a las condiciones locales; y
+* mejorar las habilidades de capacitación y aprender como establecer Escuelas de Campo de Agricultores para mejorar la toma de decisiones por los agricultores.
+
+Las actividades de CDC son variadas y dependerán de la duración de la capacitación y de los problemas a resolver. Al usar el enfoque participativo para el desarrollo del currículo (como se sugiere en el Equipo de Herramientas preparado por la Coordinadora Global de MIP en FAO; ver también las guías modificadas en el capítulo V), estos pueden ser:
+* Experimentos de campo
+* Actividades de aprendizaje de conceptos específicos
+* Análisis de agroecosistemas.
+
+2.1. Experimentos básicos de campo
+
+Experimentos básicos de campo reemplazan las parcelas de demostración que fueron ampliamente utilizadas en el pasado. Los experimentos de campo exigen más control en el proceso de aprendizaje por parte de los agricultores. Los experimentos promueven un enfoque científico para la solución de los problemas, incluyendo el análisis y la conclusión. Las parcelas de demostración pueden ser importantes en algunas situaciones, pero en general son menos participativas y no promueven el mismo nivel de enfoque científico en los agricultores.
+
+Estos experimentos pueden ser:
+* prácticas de manejo del cultivo
+* evaluaciones del crecimiento del cultivo
+* evaluación de las plagas del suelo y otros elementos del agroecosistema.
+
+Los casos de estudio y visitas al campo pueden también ser parte de las capacitaciones de campo de la CDC. Durante la capacitación, los participantes pueden necesitar visitar los campos de agricultores que están en proceso, o ganar conocimiento de otras experiencias con el propósito de resolver problemas tales como el control de una nueva plaga o patógeno, establecimiento de semilleros, etc.
+
+Los casos de estudio permiten a los participantes informarse acerca de los problemas existentes, o de los problemas que se han resuelto exitosamente.
+
+2.2. Actividades de aprendizaje de conceptos específicos
+
+Actividades de aprendizaje de conceptos específicos son actividades de una o dos horas de duración para enseñar conceptos específicos que complementan los tópicos de entrenamiento. Por ejemplo, "la estructura y profundidad de las raíces"- haciendo explicaciones de la ecología y fisiología de las plantas- puede ser una actividad relacionada al manejo del agua; "control biológico"- explicando las relaciones plagas/enemigos naturales- puede ser una actividad de manejo de plagas. Las actividades son siempre con las manos para un mejor entendimiento y comprensión. Buenos ejemplos de los métodos anteriores podrían ser cavar y analizar la estructura de las raíces o inocular Trichoderma para el control de plagas. Las actividades de aprendizaje de conceptos específicos siguen los conceptos de aprendizaje de adultos y del ciclo de aprendizaje.
+
+2.3. Análisis de agroecosistemas
+
+Análisis de Agroecosistemas es una actividad de una a dos horas que integra en una sola actividad, las observaciones, experiencias de los participantes y la toma de decisiones. El proceso de Análisis de Agroecosistemas permite unir la experiencia y conocimiento de los participantes con los nuevos conceptos agroecológicos. Durante esta actividad, los agricultores tienen la oportunidad de explicar y defender sus decisiones. El proceso aumenta la confianza y las habilidades de los agricultores, así como aumenta la cohesión del grupo. (Ver capítulo V).
+
+3. Formación de equipos de trabajo y dinámicas de grupo
+
+Las actividades de formación de equipos y las actividades de dinámicas de grupo son ingredientes importantes del proceso de aprendizaje. Los ejercicios específicos que estimulan la interacción, ayudan al desarrollo de los líderes, promueven la cooperación y las buenas relaciones. A través de la formación de equipos y las actividades de dinámicas de grupo, se mejoran y se promueven las habilidades en la toma de decisiones y la reorientación de valores en los participantes.
+
+4. Evaluación
+
+La evaluación es parte del proceso de aprendizaje (ver Capítulo V). Exámenes de pre y pos-capacitación pueden usarse como medios de evaluación. Los exámenes pueden consistir en preguntas dirigidas a demostrar el nivel de conocimiento de los capacitadores en relación a la eliminación del MeBr, así como también sobre las tecnologías alternativas para su reemplazo, principios de MIP y el enfoque y modelo de las ECA. Basado en los resultados de los exámenes de pre-entrenamiento, el capacitador de la CDC puede establecer una estrategia segura para las actividades de CDC. Las preguntas realizadas al inicio deben también ser realizadas al final con el propósito de evaluar el conocimiento adquirido durante el entrenamiento. Las preguntas/tópicos básicos podrían ser los siguientes:
+
+1. Problemas que causa el uso de MeBr y la cantidad promedio de MeBr utilizado por los agricultores en la región o área;
+
+2. Principales organismos de suelo (artrópodos, enfermedades, nemátodos y malezas) en los cultivos tratados en la actualidad con MeBr y sus alternativas.
+
+3. Principios y elementos de MIP;
+
+4. El enfoque de ECA y la educación no formal de adultos
+
+5. Teoría;
+
+6. Descripción de varias alternativas factibles.
+
+En el contexto de la Capacitación de Capacitadores, podría haber algunas actividades que necesitarían ser organizadas una vez que el entrenamiento principal ha concluido. Esas actividades deben ser realizadas con el propósito de refrescar el entrenamiento adquirido por los entrenadores, o para mantenerlos actualizados con nuevos elementos. Dado que en el caso de las alternativas al MeBr, las CDC de larga duración no son recomendables, hay otras actividades útiles que pueden ser llevadas a cabo una vez que el ejercicio de capacitación principal haya finalizado. Una de esas actividades es el análisis del agroecosistema (AAES).
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPÍTULO III. ESCUELAS DE CAMPO DE AGRICULTORES
+
+El paso siguiente en el proceso de capacitación es la organización de las Escuelas de Campo de Agricultores (ECA) sobre nuevas alternativas de MIP.
+
+Hasta hace muy poco, el enfoque convencional para la capacitación de agricultores ha sido la organización de días de campo donde a los agricultores se les muestra demostraciones de nuevas tecnologías. El problema con este tipo de capacitación es que los agricultores son participantes pasivos; ellos escuchan las recomendaciones dadas por los trabajadores de extensión o agentes de compañías de agroquímicos, pero no participan en el proceso de adaptación de la tecnología. El resultado es que los agricultores continúan usando los métodos tradicionales y no se sienten motivados a probar las nuevas tecnologías.
+
+Las ECA brindan a los agricultores la oportunidad de ensayar las alternativas y mejorarlas introduciendo nuevos elementos. Para ensayar las alternativas se utiliza una parcela de campo compartida por varios agricultores. El resultado principal de este entrenamiento es que los agricultores adoptan las nuevas alternativas voluntariamente y las implementan en sus parcelas de campo.
+
+El entrenador que guía y facilita las ECA debe ser un trabajador de extensión, agente de protección vegetal, o cualquier otro técnico previamente adiestrado a través de la CDC, mientras que los participantes son agricultores organizados en los grupos existentes, o seleccionados por el entrenador en consulta regular con el líder de la comunidad.
+
+FigureAgricultores estableciendo un semillero en una escuela de campo de agricultores
+
+
+Las ECA son usualmente ejercicios a mediano plazo, que pueden durar todo el ciclo del cultivo. Cuando el MeBr es aplicado al suelo para la producción de plántulas para transplante, la duración de la ECA debe ser igual al ciclo de producción de las plántulas.
+
+Una ECA comprende normalmente tres fases: planeamiento, implementación y evaluación.
+
+1. Planeamiento
+
+El planeamiento de una ECA conlleva la preparación de la capacitación, la que debe tomar en cuenta los diferentes aspectos de la comunidad de agricultores que será capacitada. Estos elementos pueden ser:
+
+Evaluación del uso y consumo de MeBr, que debe servir como punto de partida para el análisis. Los principales datos a recoger deben ser:
+
+a. El número de agricultores que usan en la actualidad MeBr como fumigante del suelo, cultivos y dosis de aplicación. El cuadro abajo ilustra el dato inicial requerido.
+
+b. Métodos de aplicación de MeBr: es importante conocer si el agricultor aplica el fumigante de por si mismo o si paga los servicios de una compañía de fumigación.
+
+Cultivos tretados con MeBr
+
+Agricultores
+
+Área de Semillero (ha)
+
+Consumo de Bromuro de Metilo (kg)
+
+Pimientos verdes
+
+30
+
+0.2
+
+160
+
+Melons
+
+100
+
+0.5
+
+400
+
+Tomatoes
+
+200
+
+1.0
+
+800
+
+Estado socio-económico de los agricultores: El nivel educacional de los agricultores y su situación económica.
+* Conocimiento y conciencia de los agricultores:
+
+a. Conciencia sobre los problemas ambientales que causa el MeBr, la resistencia de los consumidores a continuar su uso y la necesidad de reemplazarlo.
+b. Conciencia y conocimiento acerca del desarrollo de nuevas alternativas, su eficacia, etc.
+
+Hay otras etapas en la preparación de las ECAs, tales como la identificación de líder(es) de la comunidad, identificación de los agricultores a capacitar y las nuevas alternativas a impartir.
+* La identificación del líder(es) de la comunidad es vital para facilitar la integración, interés y participación de los agricultores. La interacción con el líder ayuda a identificar y organizar a los agricultores para establecer y conducir la ECA y poder realizar las acciones de seguimiento.
+* La identificación de agricultores a capacitar se realiza en una reunión dirigida por el capacitador con el líder y los agricultores. En esta reunión se explica también a los posibles participantes el proceso en detalle de las ECAs.
+* Alternativas a impartir
+El capacitador, quien debe estar familiarizado con los cultivos a beneficiar y sus principales plagas, debe seleccionar las alternativas más prometedoras a fin que los agricultores las ensayen durante las ECAs. El capacitador debe obviamente tener un conocimiento a priori de las alternativas ya estudiadas y validadas en el país.
+* Otro paso inicial en la organización de las ECAs es el establecimiento de los grupos de agricultores. Usualmente el grupo consiste de 20 - 30 agricultores con intereses comunes, por ejemplo: que desarrollen el mismo cultivo y controlen las mismas plagas. El tamaño del grupo depende del número de agricultores que puedan adecuadamente trabajar juntos con el capacitador. Los participantes se dividen en grupos de cinco o seis personas de forma que todos los miembros de la comunidad de agricultores puedan mejor participar en las observaciones de campo, los análisis, discusiones y presentaciones.
+* La duración de las ECAs debe en general ser a lo largo del ciclo del cultivo. Una ECA puede extenderse más allá de una estación de cultivo si es necesario, pero es raramente efectiva si es más corta que el ciclo del cultivo. Esto depende del cultivo y de los problemas que tienen que tratarse en la ECA.
+* El cronograma de entrenamiento está basado en la fenología, por ejemplo: los aspectos relacionados con las plántulas para transplante deben ser tratados durante el estado de crecimiento de las mismas. Las lecciones o ejercicios son usualmente de cuatro a cinco horas de duración y se efectúan semanalmente.
+* Las actividades de las ECA se realizan principalmente en la parcelas de campo. Sin embargo, es importante tener un área sombreada cercana al campo para mantener discusiones y otras actividades.
+
+2. Implementación
+
+Para la implementación de las ECAs, los agricultores realizaran las siguientes actividades:
+
+1. Seleccionaran un sitio común, el cual normalmente estará situado en la comunidad donde los agricultores viven. Su tamaño dependerá del cultivo y su fase de desarrollo. Los semilleros requerirán un área más pequeña que los cultivos plantados.
+
+Algunos poblados tienen tierras comunales que pueden ser usados libremente sin cargos, otros pueden requerir inversiones o compensaciones en caso de que se produzcan bajos rendimientos en los experimentos, etc. Es importante recordar que estas áreas deben ser mantenidas por el grupo de agricultores.
+
+2. Seleccionar el cultivo sobre el cual se realizará el ejercicio. Se deben seleccionar obviamente los cultivos sobre los que se aplica MeBr.
+
+3. Implementar la alternativa. Las tecnologías que van a ser probadas por los agricultores deben ser seleccionadas previamente por el capacitador y discutidas con los agricultores. Una vez que las alternativas han sido escogidas, los agricultores serán responsables de establecer las actividades en el campo, examinando y tomando decisiones de cómo aplicar la técnica propuesta.
+
+Una comparación entre los tratamientos alternativos que están siendo probados y el tratamiento convencional con MeBr debe ser realizada. El capacitador debe notificar a los agricultores que el tratamiento con MeBr puede ser en algunos casos técnicamente más efectivo, pero que como la eliminación del uso de MeBr es inminente, se necesita identificar tratamientos alternativos efectivos.
+
+La aceptación de las alternativas dependerá del éxito de su implementación y adaptación a las necesidades locales, por lo que la evaluación de resultados positivos de las alternativas es un elemento clave para la toma de decisiones.
+
+Otras actividades de campo y ejercicios necesarios para abordar otros aspectos del MIP pueden requerir períodos más largos de los habituales para aprender las nuevas alternativas.
+
+A través de estas actividades los agricultores deben ser capacitados para monitorear las plagas y organismos beneficiosos y conocer su ciclo de vida. Si los ejercicios propuestos son adaptados a las condiciones locales, éstos pueden proveer experiencia práctica sobre las interrelaciones existentes entre los componentes de un agroecosistema específico.
+
+Los ensayos y ejercicios deben también proveer una buena comprensión de los principios básicos del MIP para aplicarlos en las áreas de cultivo. Los principios más importantes de MIP que deben observarse siempre son: (1) desarrollar un cultivo sano y la necesidad de un suelo sano; (2) conservación de los enemigos naturales y conocimiento del ecosistema; (3) realizar observaciones de campo y monitoreo de plagas.
+
+3. Evaluación
+
+Las ECAs así como las CDCs, deben contemplar la evaluación de los participantes tanto antes como al final del curso. Para este propósito, se debe establecer un examen para conocer el nivel de conocimiento de los agricultores sobre la eliminación del MeBr y de las alternativas posibles existentes.
+
+El primer examen contendrá más elementos para la preparación del programa de la ECA mientras que el programa final deberá demostrar el nivel de conocimiento adquirido por los agricultores durante el entrenamiento.
+
+Los exámenes deben consistir en preguntas básicas, tales como:
+* identificación de artrópodos de suelo, nemátodos, síntomas de enfermedades y malezas comunes.
+* tipos de plaguicidas usados regularmente para el control de plagas del suelo y conocimiento de los problemas del MeBr
+* nuevos métodos posibles o reales para el control de plagas del suelo
+* otras técnicas de MIP
+
+Agricultores en una sesión práctica de entrenamiento en una parcela de campo de una escuela de campo de agricultores
+
+
+La evaluación final es una oportunidad para que los agricultores capacitados trasmitan informaciones acerca de las alternativas, adaptaciones y otros detalles. Algún tiempo debe dedicarse a este ejercicio durante un día en particular y los agricultores deben ser capaces de describir:
+* la eficacia de las nuevas alternativas
+* cómo usarlas
+* las diferencias entre las nuevas alternativas y el tratamiento con MeBr, enfatizando las posibles ventajas técnicas y económicas
+* las características de las principales plagas y las pérdidas que causan
+* los principios de MIP
+
+Después de la ECA, los trabajadores de extensión, bajo la supervisión del capacitador de la CDC, deben dar seguimiento a la aplicación de las alternativas en los campos de los agricultores para asegurarse de su adopción y de su uso regular.
+
+Para garantizar una aplicación exitosa, los seguimientos deben consistir en visitas a las granjas mensualmente para garantizar una aplicación correcta de las nuevas alternativas y rectificar posibles deficiencias.
+
+Los entrenadores se beneficiarán también de tales visitas. Las experiencias de los agricultores podrán brindar retroalimentación para actividades futuras de investigación y entrenamientos sobre alternativas al MeBr en el país.
+
+Las alternativas satisfactorias deben ser extendidas a otras áreas de agricultores que siguen aún utilizando MeBr. En muchos casos los agricultores experimentados pueden servir de capacitadores en nuevas ECAs.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPÍTULO IV. EJEMPLOS DE EJERCICIOS PARA CDCs y ECAs.
+
+1. Comprensión del sistema del suelo
+
+Como estamos tratando acerca de la fumigación del suelo y el tratamiento del suelo para el control de plagas, la comprensión del sistema del suelo es un buen objetivo a incluir en las CDCs y ECAs en relacionadas a las alternativas al MeBr.
+
+Este es un elemento difícil de manejar por los entrenadores y agricultores, debido a que mucho de lo que ocurre bajo el suelo no es fácilmente visible. Como consecuencia de estas dificultades para observar las interacciones en el suelo, debe hacerse énfasis en el desarrollo de ejercicios que ayuden a entender las relaciones de efecto y causa.
+
+Esta actividad sencilla de grupo es clave para entender las plagas del suelo. Para comenzar, se les pide a los participantes enunciar los principales elementos asociados con el sistema del suelo. Ellos pueden entonces realizar un ejercicio exploratorio en el cual identifican los principales elementos asociados con el sistema del suelo, para a continuación dibujar un diagrama simple conteniendo cinco o seis de los factores más importantes y sus interrelaciones.
+
+El capacitador usa uno de los diagramas, o realiza una síntesis de todos y dibuja las conclusiones claves.
+
+En el caso de las ECAs, el capacitador debe dar una lección explicativa acerca del sistema del suelo y las plagas del suelo, que puede llevar más tiempo que en el desarrollo de los CDCs.
+
+El objetivo principal es que el capacitador o los campesinos sean capaces de enumerar los principales factores, organismos vivientes y características asociadas a un sistema de suelo. El ejercicio puede durar dos o tres horas y se requieren materiales de oficina, tales como papel, plumas, cinta adhesiva, etc.
+
+El procedimiento detallado es como sigue:
+
+1. Se le pide a los participantes que den la lista de los principales elementos asociados con el sistema del suelo. Esto debe incluir las características del suelo (textura, estructura, pH, humedad, y otros) y los organismos existentes (artrópodos, semillas, raíces, microorganismos). El capacitador debe siempre ayudar a organizar la lista.
+
+2. Solicitar a los participantes que se dividan en pequeños grupos y que cada grupo elabore una lista conteniendo dos columnas que muestren los organismos hallados y las características del suelo. Una vez que los grupos han finalizado su trabajo, se les solicitará presentar sus resultados en un diagrama resumen. La presentación de los diagramas permitirá a los participantes discutir el asunto con más detalle.
+
+3. Después de la discusión, el capacitador debe puntualizar las principales conclusiones y enfatizar algunas dificultades en la evaluación de las plagas del suelo en el campo. El capacitador también brindará algunos conceptos teóricos adicionales.
+
+
+Las cuestiones principales a enfatizar en este ejercicio deben ser:
+* Supervivencia de artrópodos y nemátodos en el suelo
+* La viabilidad de la semilla y la germinación
+* Los factores del suelo que pueden ser manipulados por los agricultores
+* El factor que tiene la mayor incidencia y relaciones con los otros.
+
+2. Evaluación de artrópodos del suelo. (un ejercicio para las ECAs)
+
+
+Este ejercicio sirve para dar la lista y describir las características de los principales artrópodos del suelo particularmente insectos, encontrados en muestras tomadas: (a) antes de la preparación del semillero para la aplicación de la nueva alternativa y (b) 30 días después de la aplicación.
+
+El principal objetivo de este ejercicio es reconocer las principales características de los insectos existentes en el suelo. Normalmente esta actividad toma alrededor de dos horas (x 2) y requiere solamente materiales de oficina, lupas o lentes manuales, viales y alcohol. Los dibujos de agentes benéficos y plagas de insectos pueden ser útiles para describir e identificar los organismos.
+
+El procedimiento sigue de la forma siguiente:
+
+a. Como el objetivo probablemente será nuevo para los agricultores, el mismo comenzará con una discusión de las cuestiones preguntadas por el capacitador. Los principales elementos a puntualizar son:
+* Tipos de artrópodos (insectos) que viven en el suelo
+* Métodos para evaluar su población
+* Métodos para su colección
+* Daño que causa a los cultivos
+* Métodos para su control
+
+b. Antes de la aplicación de la nueva alternativa, cada pequeño grupo de agricultores usará un marco de (30cm x 30cm), el cual se coloca sobre el suelo en varias áreas en la parcela para la colección de las muestras de suelo a una profundidad de 30 cm.
+
+
+Las muestras son colocadas en bolsas plásticas y llevadas a un área con sombra para su posterior examen.
+
+c. El suelo es entonces cernido con tamices para separar las fracciones del suelo y colectar cualquier organismo presente, los que son colocados en viales para su identificación y dibujo.
+
+
+d. Los agricultores realizarán dibujos de todos los organismos encontrados en las muestras de suelo.
+
+
+e. Se realizará una discusión con el propósito de definir los tipos de insectos encontrados, los beneficiosos o plagas y las vías de controlar a los últimos.
+
+
+f. Treinta días después de la aplicación de la alternativa, los agricultores y el capacitador repetirán el mismo procedimiento y compararán los insectos colectados antes y después de la aplicación de la alternativa. Una discusión de la eficiencia de la alternativa en el control de los artrópodos debe desarrollarse a continuación.
+
+Las principales cuestiones a enfatizar en este ejercicio son:
+* Una explicación general de las alternativas usadas para controlar las plagas del suelo.
+* Los métodos para el muestreo de insectos del suelo.
+* La eficiencia de la alternativa en el control de insectos del suelo y las vías para mejorarlas
+
+3. Evaluación de la infestación de las malezas (un ejercicio para las ECAs)
+
+La idea de este ejercicio es adiestrar a los agricultores en los métodos para evaluar las poblaciones de malezas en el campo y para describir las características de las principales especies encontradas. Tales evaluaciones serán también útiles para determinar la efectividad de las alternativas sobre el control de malezas.
+
+Este ejercicio que puede durar hasta cuatro horas, requerirá un marco de madera, bolsas plásticas y materiales de oficina. También en este caso, las ilustraciones de malezas pueden ser útiles para describirlas e identificarlas.
+
+El ejercicio comienza con una breve introducción por el capacitador acerca de las pérdidas causadas por las malezas y la importancia de su control. Inmediatamente después de esto, el capacitador realizará varias preguntas tales como:
+* Tipos de malezas comunes en los campos
+* Métodos de evaluación de la población de malezas
+* Daños causados al cultivo
+* Vías posibles de control
+
+La mejor manera de evaluar el control de malezas es realizando una comparación entre las densidades de malezas en el área tratada con la nueva alternativa y la no tratada.
+
+Un mes después de la aplicación de la nueva alternativa, los grupos de agricultores colocarán un marco (50cm x 50cm) diagonalmente en tres o cuatro diferentes puntos en el campo. Los agricultores identificarán las especies de malezas presentes y contarán los individuos de cada especie dentro del marco. La totalidad de la masa de malezas presente dentro del marco debe ser colectada y colocada en bolsas plásticas para pesarlas en un área sombreada.
+
+
+Una vez que han sido registrado el número de cada especie y la biomasa total, el capacitador debe preguntar a los agricultores acerca de los resultados obtenidos en las áreas tratadas y no tratadas para evaluar la eficacia del tratamiento.
+
+Después de esta primera tarea, el entrenador debe pedir a los agricultores que describan algunas características de las principales malezas encontradas en el campo. El entrenador deberá ser capaz de identificar las especies encontradas y de explicar las diferencias entre las especies anuales y perennes, procesos reproductivos, etc.
+
+Los agricultores deben también discutir las especies que no son bien controladas por la nueva alternativa y sugerir métodos complementarios para su manejo. Los agricultores deben dibujar las principales especies y dar una breve descripción de las plantas, incluyendo su modo de reproducción.
+
+
+Los aspectos principales a enfatizar durante las discusiones deben ser:
+* Características de las malezas, procesos reproductivos y pérdidas causadas
+* Métodos de evaluación de las densidades de población de las malezas
+* Información acerca de la efectividad de los métodos alternativos utilizados para el control de malezas
+* Métodos usados actualmente para el control de malezas.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPÍTULO V. DESARROLLO DEL CURRÍCULO PARTICIPATIVO
+
+1. General
+
+Se recomienda utilizar un enfoque participativo para el desarrollo del plan de capacitación con el propósito de usar buenos modelos basados en los resultados de las propias ideas de los participantes y en las "Mejores Prácticas". Para este fin, se brindan las guías a continuación (modificadas del "Equipo de Herramientas" patrocinado por la Coordinadora Global de MIP en FAO). Estas incluyen las actividades de aprendizaje mencionadas en el Capítulo II:
+* Experimentos de campo
+* Actividades de aprendizaje de conceptos específicos
+* Análisis de agroecosistemas.
+
+2. Guías
+
+Es un proceso muy simple. Consiste solamente en seguir los pasos y las instrucciones informados abajo.
+
+Métodos de facilitación
+
+
+
+
+
+Sección 1: Teoría y Práctica de la Educación de Adultos (2 días)
+
+
+
+
+
+
+Sección 2: Experimentos de Campo (1-3 días)
+
+
+
+
+
+
+Sección 3: Actividades de Aprendizaje de Conceptos Específicos (2-3 días)
+
+
+
+
+
+Sección 4: Sistema de Análisis del Agroecosistema (2-3 días)
+
+
+
+
+3. Tópicos
+
+
+1. El Proceso de Aprendizaje en Adultos
+
+El proceso de aprendizaje en adultos difiere del proceso de aprendizaje de los niños, ya que éste está influido por la experiencia previa y - para ser efectivo- necesita que sea apoyado por la evidencia de los resultados prácticos. El aprendizaje depende esencialmente de la persona a capacitar. El capacitador puede solamente estimularlo y facilitarle el descubrimiento y la comprensión de hechos y situaciones. La discusión con capacitadores acerca del aprendizaje informal ayudará a comprender mejor el proceso de capacitación y la naturaleza de las actividades.
+
+Ejercicio: Discuta con los participantes acerca de la forma en que los adultos aprenden, Identifique condiciones importantes para el aprendizaje de adultos. Pida a los participantes que escriban sus ideas antes de la discusión. Pida que escriban las cosas más importantes que aprenden cada día en su vida cotidiana (no en la escuela) y que afectan su vida diaria y pida que describan bajo qué circunstancias ellos las aprendieron (por qué las aprendieron, cómo, quién / qué ayudó a aprenderlas).
+
+2. Escuelas de Campo de Agricultores
+
+Como se describió previamente, este enfoque permite a los agricultores jugar un papel activo en el proceso de aprendizaje. Este tipo de aprendizaje asume que los entrenados ya poseen conocimiento y una rica experiencia y también, que ellos pueden tener ideas equivocadas sobre la vía para resolver los problemas agrícolas. Además el capacitador debe guiarlos durante este proceso. Usualmente los grupos tienen alrededor de 25 participantes.
+
+3. La promoción de habilidades
+
+El objetivo es tener a los participantes involucrados activamente en las discusiones, lo cual se logra a través de la identificación de la importancia de la participación individual, dando a cada uno la oportunidad de hablar, hacer preguntas y contestándole en una forma que se sientan satisfechos. Todo esto es parte de la promoción.
+
+4. ¿Qué es esto?
+
+Un buen método de enseñanza es hacer preguntas a los participantes que estimulen sus propios análisis y comprensión. Hay muchas formas de contestar la pregunta "¿Qué es esto?". En vez de decir el nombre del organismo, una forma mejor de contestar es hacer otra pregunta, tal como "¿Donde lo encontró?, o "¿Eran muchos?" con el propósito de estimular el proceso de aprendizaje. Después de este ejercicio, Ud. debe poder dar distintas respuestas a la pregunta "¿Qué es esto?", y ninguna de ellas debe ser su nombre.
+
+Ejercicio: Vaya a un campo de cultivo y estimule a los participantes a realizar preguntas acerca del ecosistema específico (por ejemplo: plagas, tipo de suelo, organismos benéficos, agua, etc.), tales como: "¿Qué es esto?". Escriba las respuestas a esta pregunta. El entrenador debe brindar solamente información técnica respondiendo algo como: "Es una buena pregunta- ¿Dónde Ud. lo encontró? ¿Qué estaba haciendo? ¿Lo había observado en el pasado?"¿Qué Ud. piensa? continúe haciendo otras preguntas. ¡Trate de no dar una respuesta directa! - por ejemplo, diciendo "Este es un patógeno que ataca a las plantas, que por lo general no causa un serio daño a la planta, a menos que las condiciones climáticas sean...". (Duración: una hora).
+
+5 Matriz de autoevaluación para los capacitadores
+
+Habilidades de facilitación
+
+Malas
+
+Buenas
+
+Mejores Prácticas
+
+1. Preparación
+
+Pobre
+
+Buena
+
+Preparación Cuidadosa de Todos los Tópicos
+
+2. Lugar de estudio/Campo
+
+Caluroso /Inconfortable
+
+Confortable
+
+Excelente Preparación (Signos, Etc.)
+
+3. Objetivo
+
+No Definido
+
+Bien Definido
+
+Claramente Identificado e Ilustrado con Varias Herramientas / Ejemplos
+
+4. Marco de tiempo
+
+No Definido
+
+Bien Definido
+
+Discutido con los participantes
+
+5. Introducción
+
+No
+
+Brinda Antecedentes
+
+Rico en Información pero no muy Largo
+
+6. Pasos/ Procedimientos
+
+No claros
+
+Claros y Completos
+
+Repetir / Brindar Detalles para las Tareas Complejas
+
+7. Ir de un grupo a otro
+
+No
+
+Sí - Según se Necesite
+
+Discusiones Generales
+
+8. Responder a Preguntas
+
+Directo
+
+Preguntas /Explicaciones del Contexto
+
+Variado e Involucra el Grupo (¿Quién puede contestar?)
+
+9. Manejo del tiempo
+
+Pobre
+
+Mantener el control
+
+Verificar, Ajustar, Estimular, etc.
+
+10. Hacer preguntas
+
+No
+
+Sí
+
+Estimular los Aportes de los Participantes, Análisis
+
+11. Discusión
+
+No
+
+Sí
+
+Estimular los Aportes de los Participantes, Análisis
+
+12. Resumen
+
+No
+
+Sí
+
+Estilo Variado con Contribuciones de los Participantes
+
+13. ¿Quién habla?
+
+Capacitador
+
+Capacitador y Agricultores
+
+Principalmente Participantes
+
+14. Evaluaciones Continuas
+
+No
+
+Sí
+
+Estilo variado - Preguntas, Diagramas, Repeticiones
+
+15. Evaluación general
+
+No
+
+Sí
+
+Variado: Informal, Tablas y Figuras, etc.
+
+16. Organización de la siguiente reunión
+
+No
+
+Anunciada
+
+Contacto para Seguimiento antes de la Siguiente Reunión
+
+17. Entusiasmo /Motivación
+
+Escaso
+
+Sí
+
+Estimular el Proceso de Aprendizaje
+
+18. Amabilidad
+
+Escasa
+
+Sí
+
+Favorece la Comunicación y el Proceso de Aprendizaje
+
+
+6. Organice experimentos de campo como se describe para las ECA (Capítulos III y IV)
+
+
+7. Organice las actividades como se sugiere en Capítulo II
+
+
+8. Introducción del Concepto de Ecosistema.
+
+Es importante que los participantes estén informados del papel y de las interrelaciones existentes entre organismos y la fragilidad del sistema en su totalidad. Hay diferentes niveles funcionales en todos los ecosistemas. El primer nivel es representado por las plantas (productores), el segundo por los herbívoros (consumidores), el tercero por animales que se alimentan en el segundo nivel, y el cuarto por los elementos de descomposición (bacterias y hongos). Un cultivo dado puede representar un agroecosistema. Esta actividad que requiere de 1.5 -2 horas puede ser conducida durante el ejercicio de la ECA. Los participantes conducirán observaciones de campo en grupos, tomando notas por diez minutos y entonces se reunirán de nuevo para discutir sus hallazgos. Cada grupo explicará sus observaciones a todos los participantes. Seguirá una discusión general, guiada por los capacitadores.
+
+Posibles discusiones para propiciar la discusión:
+* ¿Cuál / cuántas interrelaciones encontramos?
+* ¿Qué podría pasar al sistema, si pudiéramos eliminar un componente (ejemplo, árboles, agua, la luz del sol, pájaros, insectos fitófagos, arañas, malezas, patógenos de las plantas, etc.)?
+* ¿Cuáles elementos alteramos frecuentemente en nuestros campos?
+* ¿Cuáles serían los componentes del ambiente que podrían ser afectados por tales cambios?
+* ¿Cuán frecuentemente pensamos - o si pensamos en absoluto- acerca de estas relaciones, cuando decidimos tomar acciones en el campo - por ejemplo las prácticas de protección de plantas?
+
+9. Análisis de Agroecosistemas: Tomando una Decisión de Manejo del Cultivo
+
+Seleccione un cultivo de interés en el área considerada como ejemplo de ecosistema. Los componentes de ese ecosistema serán estudiados conduciendo observaciones semanales a través de la actividad de las ECAs. Los participantes estudiarán la morfología de la planta, su agronomía, plagas y los enemigos naturales de esas plagas. El análisis del agroecosistema (AAES) es una vía para colocar los factores considerados en grupos y en un contexto que permita tomar decisiones, considerando varios aspectos. El enfoque antiguo de MIP estuvo basado en la consideración del Nivel de Umbral Económico (NUE) para justificar decisiones de manejo de plagas, pero la racionalidad del mismo era limitada, ya que no consideraba los otros factores del agroecosistema en la producción agrícola.
+
+La capacitación debe ser desarrollada a través de los siguientes pasos:
+
+a. Si los participantes están familiarizados con los AAES, pregúnteles por que hacen el AAES.
+
+b. Si los participantes no están familiarizados con los AAES, pregúnteles que clase de información ellos necesitan para tomar decisiones sobre la producción agrícola.
+
+c. Discutir cuáles plantas considerar y cómo seleccionarlas.
+
+d. Artrópodos - Discuta la forma de examinar los artrópodos en el cultivo, su daño, modo de reproducción en el hospedante, partes afectadas, etc. ¿Cómo registrar la información? ¿Cómo representarlo en dibujos?
+
+e. Enfermedades - Discuta la forma de examinar las enfermedades en el cultivo, sus síntomas, etc. ¿Cómo registrar la información? ¿Cómo representarlas en dibujos?
+
+f. Morfología de la planta y estadio de la planta - ¿Es útil mencionar el estado de la planta (ejemplo, su altura, número de hojas, etc.)?¿Como mostrar esto en un dibujo?
+
+g. Observaciones generales - ¿Qué otra cosa es útil de mencionar (ejemplo, malezas, agua, fertilizantes, condiciones del tiempo, etc.)? ¿Es usualmente un cultivo sano, o no? ¿Cómo mostrar ésto en el dibujo?
+
+h. Vaya al campo a realizar observaciones y colectar datos durante un período de 30 min.
+
+i. Reunirse de nuevo (en el aula o bajo la sombra) y hacer un dibujo de la planta con el número promedio de hojas. Escriba el número de hojas, altura promedio y toda la información colectada en el campo (anotada en el papel), preferiblemente usando lápices de colores.
+
+l. Haga un dibujo de los organismos plagas encontrados, por ejemplo, colocándolos en un lado de la planta, con una flecha demostrando donde fueron encontrados. Escriba el número por individual de cada especie que haya sido encontrada y calcule el número total. Escriba el nombre local de la especie encontrada, si es conocida.
+
+m. De la misma forma, añada en el dibujo el organismo benéfico encontrado.
+
+n. Anote las condiciones climáticas (ejemplo, soleado, nublado, lluvioso, con viento, etc.)
+
+o. Anote las prácticas culturales conducidas durante la semana previa (fertilizantes, aspersiones, riegos, etc.)
+
+p. Las observaciones y recomendaciones importantes pueden ser escritas al final del cartel.
+
+q. Cada subgrupo presenta su cartel al grupo completo. La información compartida debe permitir al grupo juzgar las decisiones tomadas para MIP y confirmarla o modificarla en el futuro. Los carteles deben ser mantenidos para comparación durante el AAES de la semana siguiente. Una persona responsable de tomar decisiones de MIP debe ser identificada.
+
+Agricultores dibujando lo encontrado en el campo durante una sesión de la Escuela de Campo de Agricultores
+
+
+El capacitador debe estimular la discusión con preguntas apropiadas a través de ejercicios, dependiendo del cultivo, situación local, condiciones, etc.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPÍTULO VI. DESCRIPCIÓN DE LAS PRINCIPALES ALTERNATIVAS
+
+Los materiales y métodos alternativos presentados son solamente una referencia para los trabajadores de extensión que usualmente laboran en la eliminación del MeBr.
+
+Cualquier alternativa nueva puede requerir un desarrollo adicional y adaptaciones para convertirse en un instrumento efectivo de control. Una vez que la alternativa es probada localmente, pueden surgir algunos problemas de control de plagas, o de aplicación y deben ser identificados y corregidos para un perfeccionamiento adicional de la alternativa.
+
+El Cuadro 1 brinda una lista de las tecnologías más comunes como alternativas del bromuro de metilo como fumigante de suelo.
+
+1. Alternativas no químicas
+
+1.1. Prácticas culturales
+
+Rotación de cultivos
+
+Para el propósito del control de plagas del suelo, la rotación de cultivos consiste en la plantación de cultivos sucesivos que son no-hospedantes, hospedantes menos apropiados o cultivos trampas, para las plagas del suelo objetivo. Muchas rotaciones incluyen barbecho, el cual consiste en dejar la tierra temporalmente sin producción para reducir los patógenos del suelo y otras plagas eliminando hospedantes o sustratos para su desarrollo, y exponiéndolos a condiciones ambientales adversas. La rotación de cultivos ha sido practicada desde tiempo ancestrales y es aún practicada como parte de un sistema agrícola sostenible para el control de muchas plagas del suelo en cultivos en todo el mundo. La ausencia de un hospedante apropiado permite la reducción del número de plagas y reduce el inóculo de los patógenos, pero raramente elimina la plaga o el problema de enfermedad.
+
+Cuadro 1. Principales alternativas existentes al Bromuro de Metilo como fumigante del suelo
+
+1. Alternativas no químicas
+
+1.1. Prácticas culturales.
+
+Rotación de cultivos
+Enmiendas de suelo y biofumigación
+Sistemas de cultivo sin suelo
+Variedades resistentes
+Injertos
+
+1.2. Control físico
+
+Solarización del suelo
+Vapor
+Agua caliente
+Inundación
+
+2. Alternativas químicas
+
+Isotiocianato de metilo (MITC)
+Generadores de MITC
+1-3 dicloropropeno
+Cloropicrina
+
+Enmiendas de suelo
+
+La adición de materiales al suelo reduce o suprime algunos de los patógenos del suelo mediante la estimulación de los microorganismos antagonistas, incremento de la resistencia de las plantas hospedantes, brindando nutrientes extras, alterando el pH, u otros varios efectos ambientales.
+
+Las enmiendas orgánicas tales como el compost de diferentes tipos (subproductos de la agricultura, del área forestal e industrias de alimentos, etc.) estiércol, enmiendas orgánicas y residuos de cultivos, todos pueden tener el efecto de controlar los patógenos del suelo y pueden ser fácilmente aplicados en los sectores de plantas ornamentales y hortalizas.
+
+La investigación previa ha probado la alta eficacia del calentamiento solar (solarización), combinada con algunas enmiendas efectivas, tales como los residuos de crucíferas, estiércol, etc., Cuando estas enmiendas se añaden al suelo, éstas quedan expuestas a la degradación microbiana, lo que resulta en la producción de compuestos volátiles biotóxicos, tales como el alcohol, aldehídos, y otros compuestos volátiles que puede estimular la germinación de propágulos fúngicos e incrementar el antagonismo microbiano en el suelo. La actividad microbiana contra los patógenos del suelo puede debilitar los propágulos durante la solarización, o suprimir su re-establecimiento después del tratamiento del suelo. Esto ha probado ser efectivo para diferentes hongos del suelo (Verticillium spp. Rhizoctonia solani, Phytium spp., etc.), nemátodos y muchas malezas. El control de Phytium ultimum y Sclerotium rolfsii en el suelo expuesto a los vapores han sido demostrados exitosamente en Italia.
+
+Biofumigación
+
+La biofumigación es definida como la acción de sustancias volátiles producidas por la degradación de la materia orgánica para el control de las plagas del suelo. Esta técnica incrementa su eficacia cuando forma parte de un sistema de manejo integrado de cultivos. Se ha visto que generalmente cualquier materia orgánica puede actuar como biofumigante, dependiendo su actividad principalmente de la dosis y del método de aplicación.
+
+Con el propósito de lograr la fermentación de la materia orgánica debajo de la superficie del suelo, ésta es irrigada a capacidad de campo y cubierta con láminas plásticas. Esta fermentación genera compuestos volátiles que son letales para muchos microorganismos, incluyendo diferentes nemátodos, malezas y hongos. La técnica puede resultar en la selección de una microflora beneficiosa. La actividad inhibitoria depende de la desactivación térmica, la liberación de compuestos volátiles biotóxicos tales como amonio, metilisotiocianatos y otros compuestos de azufre, así como compuestos que estimulan los antagonistas saprofíticos del suelo, tales como los aldehídos, los alcoholes, y/o toxinas alelopáticas.
+
+Variedades resistentes
+
+Hay ya disponibles variedades de muchos cultivos que son resistentes o tolerantes a uno o a algunos patógenos específicos (y razas). Existen híbridos resistentes con resistencia múltiple a diferentes patógenos que son actualmente usados en la producción de hortalizas. En la mayoría de los casos, han sido desarrolladas variedades nuevas para solucionar problemas específicos de plagas a través de técnicas de hibridación de plantas, pero es cada vez más frecuente la modificación genética sistemática del germoplasma mediante el uso de nuevos procedimientos de biotecnologías.
+
+Injerto
+
+El injerto consiste en usar patrones resistentes para cultivos anuales (ejemplo, tomate, berenjenas) y perennes (ejemplo, árboles frutales, cítricos, uvas) susceptibles para el control de patógenos del suelo. El injerto de cultivos susceptibles en patrones resistentes es ahora posible para diferentes especies de cultivos: tomate (híbridos resistentes a la marchitez provocada por Verticillium y Fusarium y Pyrenochaeta lycopersici), pepino (Cucurbita vicifolia como patrón resistente a la marchitez por Fusarium) y melón (Benincasa cerifera resistente a la marchitez por Fusarium). El injerto sobre patrones es muy popular en el lejano oriente.
+
+Cultivo sin suelo
+
+El cultivo sin suelo se está expandiendo rápido aunque a un nivel bajo en comparación con el Norte de Europa, no sólo para establecer puentes entre períodos de producción y circunstancias inusuales, sino también como una respuesta a la necesidad de reducir el uso de los fumigantes de suelo. El cultivo sin suelo representa una interesante alternativa a los sistemas agrícolas tradicionales de alto valor como rosas, claveles, gerberas, lechugas, albahacas, etc. La selección del sistema de cultivo sin suelo más apropiado para un ambiente dado descansa en factores técnicos, económicos y fitopatológicos. El cultivo sin suelo es crecientemente adoptado en el caso de cultivos ornamentales (rosas, gerberas) y en algunos casos para fresas en Italia. Actualmente en Italia se cultivan sin suelo un total de aproximadamente 100 ha.
+
+Sistema de bandejas flotantes
+
+Un ejemplo de esta técnica es el llamado "sistema flotante" usado en Brasil, consistente en cultivar plántulas en bandejas de Styrofoam colocadas en una piscina con agua bajo un túnel plástico. El sistema de flotación usa medios preparados y saneados comercialmente. El medio más comúnmente utilizado contiene corteza de pino fermentada, vermiculita expandida y perlita. Actualmente, en el estado de Rio Grande do Sul, al Sur de Brasil, el 60% de las plántulas de tabaco para transplante son producidos con el sistema flotante. Este sistema es también el más común en Santa Catarina, el segundo estado más grande productor de tabaco. Una ventaja importante del mismo es el hecho que la producción de plántulas de tabaco requiere de 50 - 60 días en el semillero convencional hasta que alcanzan una altura de 15 - 20 cm. En el semillero convencional, se necesitan tres meses para que las plantas completen su desarrollo. En el sistema flotante de producción de plántulas para transplante se
+producen plantas de mayor uniformidad, con un sistema de raíces más fuerte y a un costo de mano de obra más reducido. Este sistema es también aplicable para la producción de muchas posturas de vegetales.
+
+1.2. Control físico
+
+Vapor
+
+La vaporización es la introducción de vapor de agua dentro del suelo, bajo cubiertas plásticas para aumentar la temperatura del suelo a niveles letales a las plagas del mismo. La temperatura del suelo y la duración del tratamiento térmico determina si la eliminación de la flora del suelo es total (esterilización: pocos minutos a 90-100°C), o si ocurre solamente parcialmente (pasteurización: mezcla de vapor y aire a 70-80°C). La vaporización a presión negativa es una alternativa prometedora más rápida y eficiente desde el punto de vista energético.
+
+Solarización
+
+La aplicación de vapor es un proceso hidrotérmico, que utiliza la radiación solar capturada bajo una cobertura de una lámina plástica para calentar el suelo (hasta una temperatura de 50-55°C a 5 cm. de profundidad y de 40-42°C a 20-25cm. de profundidad) y desinfectarlo. La solarización tiene un complejo modo de actividad, que puede controlar un amplio espectro de patógenos del suelo, malezas, insectos y nemátodos, y que puede ser exitosamente combinada con otras medidas de control.
+
+La solarización permite una drástica reducción de la intensidad de inóculo por inactivación térmica e induce la reducción (cambio cuantitativo y cualitativo en la población de la microflora, estableciendo un nuevo equilibrio biológico); también induce el fenómeno de respuesta de crecimiento aumentado (RCA) afectando el crecimiento de la planta.
+
+Tratamiento de agua caliente
+
+El Centro Nacional de Investigación de Tsukuba (Japón), desarrolló este método. Para esto se aplica en el campo agua hervida a 95 °C. El tratamiento elimina algunas plagas, incluyendo patógenos y malezas, y su efectividad dura hasta tres años en áreas cultivadas protegidas. Es necesario mejorar el equipo de producción de agua caliente, reduciendo su tamaño y disminuyendo sus costos para hacerlo accesible a los agricultores. Este tratamiento no es apropiado para grandes áreas.
+
+Inundación
+
+Este es uno de los métodos más ampliamente utilizado en Japón en áreas cultivadas de berenjenas, tomates, fresas, y pepinos. Las enfermedades del suelo y los nemátodos son controlados. Este método parece ser una de las vías más prometedoras para el control de plagas del suelo en el futuro.
+
+2. Alternativas químicas
+
+Los productos químicos para la desinfección de suelo pueden ser de un amplio espectro de actividad (fumigantes), o de un espectro de actividad específico sobre una plaga en particular (fungicidas y nematocidas).
+
+Los fumigantes son sustancias tóxicas que se aplican al suelo en forma de gas, polvo, agentes mojantes o gránulos, para el control de diferentes hongos del suelo, bacterias, nemátodos, insectos y malezas. Los fumigantes sólidos, una vez incorporados al suelo, se tornan volátiles de forma que penetran (fumigan) completamente el suelo.
+
+Estos compuestos químicos son seleccionados de acuerdo a varias características, tales como el espectro de actividad; capacidad de penetración; período de espera entre tratamiento y plantación; disponibilidad y facilidad de uso; fiabilidad; idoneidad para diferentes condiciones ambientales; costo e impacto ambiental.
+
+Los fungicidas químicos y nematocidas son generalmente usados para un control más específico de patógenos. Benomyl, Tolclofos metil, Prochloraz e Iprodione son algunos de los fungicidas comúnmente usados en hortalizas y ornamentales. El fenamifos es actualmente utilizado como nematocida.
+
+En los últimos años, el número de plaguicidas registrados para la desinfección del suelo ha decrecido drásticamente debido a severas restricciones impuestas sobre su uso. Los gobiernos han sido informados sobre los aspectos negativos de estos productos químicos en términos de impacto a la salud pública y el ambiente.
+
+Se debe recalcar que ningún producto químico es de por si una alternativa, en términos de consistencia y eficacia contra las plagas a controlar, para reemplazar el uso de pre-plantación del MeBr.
+
+Isotiocianato de metilo MITC) y sus generadores
+
+Metam sodio es un producto químico líquido para el suelo que produce isotiocianato de metilo. Se usa como fumigante de pre-plantación y es efectivo en el control de artrópodos, algunas malezas y patógenos del suelo, principalmente hongos y un número limitado de nemátodos. Se aplica al suelo directamente o a través del sistema de irrigación, bajo una cubierta de polietileno transparente. Metam sodio tiene que ser aplicado cuando las temperaturas del suelo están entre 15 y 30 °C. La dosis de aplicación es de 100 ml / m^2 (con formulados al 32.7 % de i.a.). A altas concentraciones de inóculo, bajas temperaturas, o para suelos pesados es necesario elevar la dosis hasta 800 ml / m^2.
+
+Dazomet es un químico granulado para el tratamiento de suelo de preplantación y se ha informado que controla malezas, nemátodos y hongos. Requiere una distribución mecánica en el suelo para una buena distribución y eficacia. Durante el tratamiento, el suelo debe ser cubierto con láminas plásticas. La dosis de aplicación es de 80-100 g / m^2 (con formulaciones al 99% de i.a.).
+
+1-3dicloropropeno (1,3-D).
+
+1,3 dicloropropeno es un líquido fumigante de pre-plantación que se evapora y difunde rápidamente como gas en el suelo. Se aplica al suelo por inyección y brinda un control efectivo de nemátodos, insectos, algunas malezas y algunos patógenos fungosos. Durante el tratamiento el suelo debe permanecer cubierto con láminas plásticas.
+
+1,3-D es usualmente aplicado en combinación con otros químicos tales como cloropicrina, metam sodio, etc. La dosis de aplicación es de 12 - 20 ml /m^2 (con formulaciones al 97% de i.a.); en suelos pesados se aplican dosis mayores. Se aplica con un inyector de boquillas montadas en dos niveles. Una bomba peristáltica garantiza la distribución. El flujo del químico depende de la velocidad del tractor. Como 1,3 dicloropropano es altamente volátil, la cubierta plástica debe ser puesta sobre el suelo inmediatamente después de la aplicación. Es muy recomendado ajustar la velocidad del tractor y la calibración de las boquillas de la máquina a la hora de su aplicación.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+BIBLIOGRAFÍA ÚTIL
+
+Anonymous, 1997. The Methyl Bromide Issue. Edited by C. H. Bell, N. Price, B. Chakrabarti, John Wiley and Sons Public, 412 pp.
+
+Braun, L.A. and Supkoff, D.M. 1994. Options to Methyl Bromide for the Control of Soil-Borne Diseases and Pests in California with Reference to the Netherlands. Pest Management Analysis and Planning Program. This Publication can be found in the Webpage: http://www.cdpr.ca.gov/docs/dprdocs/methbrom/alt-anal/soil.htm
+
+CSIC. 1997. Alternatives to Methyl Bromide for the Southern European Countries. [A. Bello, J.A. González, M. Arias and R. Rodríguez-Kabana, Eds.] 403 pp.
+
+De Vay J.E., J.E. Stapleton and Elmore, C.L. (Eds). 1991. Soil Solarization, FAO Plant Production and Protection Paper 109, 396 pp.
+
+Labrada, R. and Fornasari, L. Eds. 2001. Global Report on Validated Alternatives to the Use of Metil Bromide for Soil Fumigation. FAO Plant Production and Protection Paper No. 166, Rome, 98 pp.
+
+MBTOC. 1997. Report Technology and Economic Assessment Panel, UNEP, Nairobi 221.pp
+
+MBTOC. 1999. Assessment of Alternatives to Methyl Bromide. UNEP, Nairobi, 275pp.
+
+Rodríguez-Kabana, R and Calvet, C. 1994. Capacidad del suelo para controlar enfermedades de origen edáfico. Phytoparasítica 20, 211- 224.
+
+RUMBA (Regular Update on Methyl Bromide Alternatives) Newsletter regularly prepared and edited by UNEP.
+
+Stapleton J.J., J.E. De Vay and Elmore, C.L. (Eds). 1998. Soil Solarization and Integrated Management of Soil-borne Pests. FAO Plant Production and Protection Paper 147, 657 pp.
+
+UNEP.1999. Methyl Bromide: Getting Ready for the Phase out. Mass Market Paperback - 31 pp.
+
+UNEP. 2000. Methyl Bromide Alternatives for North African and Southern European Countries.
+
+UNIDO. 2000. Three Alternatives to the Use of Methyl Bromide in Tobacco: Non soil Cultivation, Solarization and Low Dose Chemicals. Demonstration project/UNIDO. Final Report 1998-2000 EMBRAPA-EPAGRI, Brazil, 54pp.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+PORTALES ÚTILES DE INTERNET
+
+* ARS methyl bromide - USDA - ARS
+http://www.ars.usda.gov/is/mb/mebrweb.htm
+* Environmental Working Group
+http://www.ewg.org/pub/home/Reports/Reports.html
+* Food and Agricultural Organization of the United Nations
+http://www.fao.org/WAICENT/FAOINFO/AGRICU/LT/AGP/agpp/IPM/Web_Brom/Default.htm
+* Ozone Action
+http://www.ozone.org
+* Pesticide Action Network
+http://www.panna.org/panna/campaigns/mb.html
+* Technology and Economic Assessment Panel
+http://www.teap.org/
+* United Nations Environmental Programme- Nairobi, Kenya
+http://www.unep.org/ozone/home.htm
+* U.S. EPA methyl bromide phase out web site
+http://www.epa.gpv/docs/ozone/mbr/mbrqa.html
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+APÉNDICES
+
+Apéndice 1. Acerca de FAO - División de Producción y Protección Vegetal (AGP) y Servicio de Protección Vegetal (AGPP)
+
+La Organización de las Naciones Unidas para la Agricultura y la Alimentación fue fundada en 1945 con un mandato para elevar los niveles de nutrición y estándares de vida, mejorar la productividad agrícola y las condiciones de las poblaciones rurales.
+
+Hoy, FAO es una de las mayores agencias especializadas del sistema de las Naciones Unidas y la agencia líder para la agricultura, forestal, pesca y desarrollo rural. Como organización intergubernamental, FAO cuenta con 180 países miembros más una organización miembro, la Comunidad Europea.
+
+Desde su fundación, FAO ha trabajado para aliviar la pobreza y el hambre, promoviendo el desarrollo agrícola, mejorando la nutrición y la búsqueda de la seguridad alimentaria - definida como el acceso de toda la población en todo momento al alimento que necesita para una vida sana.
+
+La producción de alimentos se ha elevado a un nivel sin precedentes desde que la FAO fue fundada en 1945, la cual sobrepasa la de la población mundial que se ha duplicado en igual período. Desde los primeros años de los 60 la proporción de la población hambrienta en el mundo en desarrollo se ha reducido de más del 50% a menos del 20%. Independientemente de estos logros, sin embargo, más de 790 millones de personas en el mundo en desarrollo - superior a la suma de la población de América del Norte y Europa- permanecen hambrientas.
+
+Una prioridad específica de la Organización es estimular la agricultura sostenible y el desarrollo rural, una estrategia a largo plazo para elevar la producción de alimentos y la seguridad alimentaria, conservando y manejando al mismo tiempo los recursos naturales. El objetivo es responsabilizarse con las necesidades tanto de las generaciones presentes como la de las futuras promoviendo un desarrollo que no degrade el medio ambiente y que sea técnicamente apropiado, económicamente viable y socialmente aceptable.
+
+La FAO está compuesta de ocho departamentos: Administración y Finanzas, Agricultura, Económico y Social, Pesca, Forestal, Asuntos Generales e Información, Desarrollo Sostenible y Cooperación.
+
+División de Producción y Protección de Plantas
+
+La División de Producción y Protección de Plantas (AGP), una de las seis divisiones del Departamento de Agricultura, dirige el desarrollo de sistemas agrícolas sostenibles para mejorar la productividad de cultivos y pastoreos, para crear condiciones para mejorar la seguridad alimentaria y el desarrollo económico y para conservar el ambiente a través del desarrollo de recursos biológicos.
+
+Las actividades de AGP incluyen la provisión de un foro regional y global para una acción común entre países y programas sobre la conservación de los recursos genéticos para alimentos y agricultores (PGRFA), el mejoramiento de los cultivos y el desarrollo de la producción de semillas y un manejo de plagas fundamentado incluyendo el Manejo Integrado de Plagas (MIP).
+
+Los principales resultados cubren la seguridad de semillas, un arrollador Plan de Acción Global para la conservación y sustentablidad del PGRFA, la bioseguridad en relación a la dispersión de plagas de las plantas y malezas, incluyendo Normativas Internacionales de Medidas Fitosanitarias, la reducción del riesgo del uso de pesticidas para la salud humana y enfoques ambientales y ecológicos para obtener una intensificación sostenible de la producción de los cultivos y pastoreos y de las oportunidades de diversificación.
+
+La División AGP incluye:
+
+1. La Oficina del Director (AGPD);
+
+2. El Servicio de Cultivos y Pastos (AGPC), que brinda asesoría técnica a los Miembros de FAO sobre una creciente producción de cultivos y pastos sostenible a través de la mejora, la aplicación de las técnicas biotecnológicas, el desarrollo de sistemas de producción integrados y un manejo de pastizales racional.
+
+3. El Servicio de Protección de Plantas (AGPP), el que promueve una protección de plantas efectiva, segura a la salud humana y al ambiente, para evitar o reducir las pérdidas de cosecha causadas por las plagas de las plantas, durante el crecimiento, el tránsito y almacenamiento. También está empeñado en la reducción de las situaciones de emergencia causadas por las plagas transfronterizas; y
+
+4. El Servicio de Semillas y Recursos Genéticos de Plantas. (AGPS), el cual brinda asesoría técnica a los miembros de FAO sobre programas de semillas y políticas, incluyendo el mejoramiento de semillas y material de plantación, la producción y procesamiento, el almacenaje, análisis, control de calidad y certificaciones y seguridad de las semillas. Asiste y asesora sobre la conservación efectiva y sostenible de la utilización de los recursos genéticos para la alimentación y agricultura (PGRFA) y promueve la implementación de un Programa Global de Acción sobre PGRFA por todos los depositarios.
+
+Servicio de Protección de Plantas
+
+El Servicio de Protección de Plantas (AGPP), se ocupa de problemas internacionales de la protección de plantas y coopera estrechamente con organizaciones de protección de plantas regionales y nacionales y programas. El programa dirige la cuarentena de plantas en el Secretariado de la Convención Internacional de Protección de Plantas, estableciendo estándares, intercambiando información y impulsando la cooperación. En relación al manejo de pesticidas, promueve el Código de Conducta sobre la Distribución y Uso de Pesticidas; implementa con el UNEP los procedimientos PIC de pesticidas prohibidos y severamente restringidos y con la OMS, hace recomendaciones para los niveles máximos de residuos.
+
+Sobre Manejo de Plagas, el Servicio apoya el establecimiento de Programas de Manejo Integrado, incluyendo la aplicación del Control Biológico y manejo de malezas.
+
+El Programa de Protección de Plantas brinda servicio de actualización regular sobre la situación de las locústidos del desierto a través del Servicio de Información de Locústidos del Desierto. Un forum de países para discutir y tomar acción sobre el manejo de locústidos, es brindado a través del Comité de Control de locústidos y diferentes Comisiones Sub-regionales. El programa, también apoya y coordina las operaciones de control de las migraciones, cuando es requerido.
+
+El Servicio asiste en el aviso temprano, la acción temprana y la investigación sobre las plagas de naturaleza transfronteriza, a través del programa EMPRES. El énfasis inicial es sobre plagas migratorias, en particular, el fortalecimiento y soporte del Sistema de Manejo de los locústidos del Desierto. Un programa cooperativo en la Región Central ha sido desarrollado y extendido a Africa Occidental.
+
+Los Oficiales de Protección de Plantas en las regiones, brindan al Programa dimensiones regionales, sub-regionales y nacionales.
+
+Existen puestos de Protección de Plantas en las Oficinas regionales de Africa (Ghana), Asia y el Pacífico (Tailandia), Latinoamérica (Chile), el Cercano Oriente (Cairo) y en las oficinas sub-regionales de Túnez, Barbados y Samoa occidental. En Argelia hay un puesto de Oficial de locústidos.
+
+El programa de Manejo Integrado de Plagas (MIP) identifica problemas y desarrolla estrategias de protección de plantas que son económicamente viables y toman en consideración la salud humana y el ambiente. Este programa tiene que ver con la realización de proyectos de MIP desde el nivel institucional al de los agricultores.
+
+La experiencia de FAO ha demostrado que:
+* El MIP se hace con las personas: para ser exitoso tiene que ser un proceso manejado por los agricultores;
+* El MIP eleva la sustentabilidad de los sistemas agrícolas. Mejora la sustentabilidad ecológica porque descansa fundamentalmente en procesos ambientalmente benignos, que incluye el uso de variedades resistentes a plagas, la acción de enemigos naturales y el control cultural. Promueve la estabilidad social debido a que se institucionaliza a nivel de la comunidad de agricultores y de los gobiernos locales. Finalmente, los programas de MIP son económicamente sostenibles al reducir la dependencia de los agricultores del suministro de recursos.
+* El MIP se ocupa de muchas cosa más que del puro manejo de plagas. Brinda un punto de entrada para mejorar el sistema agrícola en su conjunto.
+* El concepto de las escuelas de campo de agricultores puede ser usado para manejar otras situaciones agrícolas y problemas de extensión.
+
+Sustancias que degradan el Ozono y el Bromuro de Metilo
+
+FAO no es una agencia implementadora del Protocolo de Montreal, pero desde 1998, comenzó algunos trabajos para la eliminación del bromuro de metilo, conduciendo actividades con el PNUMA sobre las alternativas para el uso del Bromuro de Metilo en la agricultura.
+
+El principal objetivo del trabajo que la FAO lleva a cabo con el PNUMA, es conducir una capacitación integrada sobre las alternativas del bromuro de metilo, con un enfoque del uso de los principios del MIP.
+
+La capacitación está generalmente basada en tres pasos principales:
+* Un taller preparatorio para identificar alternativas ya validadas al bromuro de metilo (MeBr) y las principales plagas del suelo.
+* El entrenamiento de los trabajadores de extensión y de personal técnico en MIP y alternativas al MeBr.
+* Las Escuelas de Campo de Agricultores
+
+Las actividades de FAO/UNEP también incluye la preparación de manuales e informes sobre las alternativas al bromuro de metilo.
+
+Para más información sobre el servicio de Protección de Plantas por favor contactar:
+
+Sr. N.A. Van der Graaff
+Jefe del Servicio de Protección de Plantas
+División de Producción y Protección de Plantas
+FAO
+Viale delle Terme di Caracalla
+00100 Roma, Italia
+Email: Niek.VanDerGraaff@fao.org
+Tel. +39-0657053441
+Fax +39-0657056347
+Internet: www.fao.org
+
+
+Apéndice 2. Acerca de la División de Tecnología, Industria y Economía del PNUMA
+
+La misión de la División de Tecnología, Industria y Economía del PNUMA es ayudar a los ejecutivos gobiernos, autoridades locales y la industria, encargados de la toma de decisiones, en el desarrollo y adopción de políticas y prácticas que:
+* sean más limpias y seguras
+* hagan un uso eficiente de los recursos naturales
+* aseguren un manejo adecuado de los químicos
+* incorporen los costos ambientales
+* reduzcan la polución y riesgos para los humanos y el ambiente
+
+La División de Tecnología, Industria y Economía del PNUMA (PNUMA DTIE), cuya oficina cabecera está en París, está compuesta de un centro y cuatro unidades:
+* El Centro Internacional de Tecnología (Osaka), el cual promueve la adopción y uso de tecnologías ambientalmente acertadas dirigidas al manejo ambiental en ciudades y cuencas de agua fresca, en países en desarrollo y países en transición.
+* Producción y Consumo (París), que impulsa el desarrollo de patrones de producción y consumo más limpios y seguros, que brinden una eficiencia elevada en el uso de los recursos naturales y la reducción de la polución.
+* Químicos (Ginebra), que promueve el desarrollo sostenible, catalizando las acciones globales y construyendo capacidades nacionales para el manejo acertado de los químicos y el mejoramiento de la seguridad química en todo el mundo, con una prioridad sobre los Contaminantes Orgánicos Persistentes (COPs) y la Información de Consentimiento Previo (PIC conjuntamente con FAO).
+* Energía y OzonAction (París), que da apoyo a la eliminación de las sustancias que destruyen el ozono en los países desarrollados y en los países con economías en transición, promueve buenas prácticas de manejo y uso de la energía, dirigidas a los impactos atmosféricos. El Centro de Colaboración sobre Energía y Ambiente PNUMA / RISy apoya al trabajo de la unidad.
+* Economía y Comercio (Ginebra), que promueve el uso de instrumentos de evaluación e incentiva las políticas ambientales y ayuda a fomentar una comprensión de los vínculos entre comercio y ambiente, y el papel de las instituciones financieras para promover el desarrollo sostenible.
+
+Las actividades de PNUMA DTIE se dirigen a elevar el nivel de información, mejorando la transferencia de información, fomentando capacidades, impulsando la cooperación tecnológica, asociaciones y transferencias, mejorando el entendimiento del impacto ambiental de las actividades del comercio, promoviendo la integración de las consideraciones ambientales dentro de las políticas económicas y la seguridad química global.
+
+Programa OzonAction de PNUMA DTIE
+
+Las naciones alrededor del mundo están tomando acciones concretas para reducir y eliminar la producción y consumo de CFCs, halogenuros, tetracloruro de carbono, metil cloroformo, bromuro de metilo y HCFCs. Estas sustancias, cuando son liberadas a la atmósfera, dañan la capa estratosférica del ozono - una lámina que protege la vida en la Tierra de los efectos dañinos de la radiación ultravioleta de la luz solar. Casi cada país en el mundo- actualmente 172 países- se ha comprometido, dentro del protocolo de Montreal, a eliminar el uso y producción de SDO. Al reconocer que los países en desarrollo necesitan asistencia técnica y financiera especial para cumplir sus compromisos con el Protocolo de Montreal, las Partes establecieron el Fondo Multilateral y solicitaron a PNUMA junto al PNUD, ONUDI y al Banco Mundial, que brindaran el apoyo necesario. Además, PNUMA patrocina actividades para la protección del ozono en Países con Economía de Transición (CEITs), como una agencia
+implementadora de la Coordinadora Global Ambiental (GEF).
+
+Desde 1991, el programa OzonAction del PNUMA DTIE, ha fortalecido la capacidad de los gobiernos (particularmente las Unidades Nacionales Ozono o "UNOs" y la industria en los países en desarrollo para la toma de decisiones informadas sobre las alternativas tecnológicas y desarrollar las políticas requeridas para la implementación del protocolo de Montreal. El Programa OzoneAction ha ayudado a promover actividades de eliminación a niveles nacionales y regionales mediante servicios, que se describen a continuación, dados a los países en desarrollo y ajustados a las necesidades individuales:
+
+Intercambio de información
+
+Brinda instrumentos de información y servicios que estimulan y permiten a los ejecutivos la toma de decisiones informadas en políticas e inversiones requeridas para eliminar las SDOs. Desde 1991, el Programa ha desarrollado y diseminado en las UNOs más de 100 publicaciones individuales, videos y bases de datos, incluidos materiales de información pública, una carta informativa cuatrimestral, un portal de Internet, publicaciones específicas al sector para identificar y seleccionar tecnologías alternativas y lineamientos para ayudar a los gobiernos a establecer políticas y regulaciones.
+
+Capacitación
+
+Fomenta la capacidad de los ejecutivos encargados de las políticas, oficiales de aduana y la industria local para desarrollar actividades nacionales de eliminación de los SDOs. El Programa promueve la participación de los expertos locales de la industria y academias en talleres de capacitación y reúne a los productores locales con expertos de la comunidad global de protección al ozono. PNUMA conduce cursos de capacitación a nivel regional y también patrocina actividades nacionales de capacitación (incluye los manuales de capacitación y otros materiales).
+
+Redes de cooperación
+
+Brindan un forum regular para los oficiales de las UNOs, con el objetivo de intercambiar experiencias, desarrollar habilidades y compartir conocimientos e ideas con las contrapartes de países tanto desarrollados como en desarrollo. Las redes ayudan a asegurar que las UNOs tengan las informaciones, conocimientos y contactos requeridos para manejar las actividades de eliminación de los SDOs exitosamente. El PNUMA opera regularmentee 8 Redes regionales / sub-regionales, que incluyen 109 países en desarrollo y 8 desarrollados, lo que ha permitido a los países miembros dar rapidamente los pasos en la implementación del Protocolo de Montreal.
+
+Planes de Manejo de Refrigerantes (RMPs).
+
+Proporciona a los países una estrategia integrada y efectiva económicamente para la eliminación de las SDOs en los sectores de la refrigeración y acondicionadores de aire. Los RMPs tienen que asistir a los países miembros (especialmente aquellos que consumen bajos volúmenes de SDOs), para vencer los numerosos obstáculos para la eliminación de los SDOs en el sector crítico de la refrigeración. PNUMA DTIE, está actualmente brindando técnicas específicas, información y orientación para apoyar el desarrollo de (RMPs) en 60 países.
+
+Programas de Países y Fortalecimiento Institucional.
+
+Apoya el desarrollo e implementación de las estrategias de eliminación nacionales de SDOs, especialmente en países consumidores de bajos volúmenes de SDO. El programa está actualmente asistiendo a 90 países en el desarrollo de sus Programas Nacionales y a 76 países en la implementación de sus proyectos de Fortalecimiento Institucional.
+
+Para más información acerca de estos servicios, contactar por favor a:
+
+Sr. Rajendra Shende, Jefe de la Unidad de Energía y Acción Ozono
+División de Tecnología, Industria y Economía del PNUMA
+Programa de Acción Ozono
+3943 París Cedex 15 Francia
+
+Email: ozonzction@unep.fr
+Tel: +33 1 44 37 14 50
+Fax: + 33 1 44 37 14 74
+www.uneptie.org/ozonaction.html
+
+
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice
+
+
+CUBIERTA POSTERIOR
+
+El bromuro de metilo (MeBr), sustancia ampliamente utilizada hasta ahora como fumigante del suelo en diferentes países, debe ser eliminado urgentemente. Es necesario encontrar alternativas al uso del MeBr, y los agricultores han de ser informados de dichas alternativas. Este proceso solo es posible mediante la capacitación de extensionistas y agricultores en manejo integrado de plagas. Este manual ofrece instrucción sobre el manejo integrado de plagas como procedimiento sustitutivo del uso del MeBr. Se describen brevemente los elementos, las etapas y el marco para llevar a la práctica la capacitación. Se incluye una bibliografía útil y se indican las páginas Web relacionadas con el MeBr y las alternativas a su uso. El manual ha sido preparado y publicado con fondos del proyecto FAO/PNUMA EP/INT/903/UEP, y está dirigido a investigadores, extensionistas y asesores técnicos responsables de la capacitación de agricultores en las nuevas alternativas disponibles para reemplazar el
+MeBr como fumigante de suelos.
+
+
+Página precedente Inicìo de página

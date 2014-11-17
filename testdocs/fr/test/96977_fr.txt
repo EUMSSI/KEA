@@ -1,0 +1,1397 @@
+Document Technique du CPCA No.3 CPCA/T3
+
+Cover
+
+L'ÉCOLOGIE DES PÊCHES DANS LES PLAINES INONDABLES AFRICAINES
+
+TABLE DES MATIERES
+
+
+par
+
+R.L. Welcomme
+Spécialiste des ressources halieutiques
+Service de la prospection et de l'évaluation
+des ressources aquatiques
+Division des ressources halieutiques et de l'environnement
+
+COMITÉ DES PÊCHES CONTINENTALES POUR L'AFRIQUE (CPCA)
+
+Les documents du CPCA sont publiés dans trois séries:
+
+Rapports du CPCA
+
+Rapport de chaque session, publié en anglais et en français.
+
+Documents techniques du CPCA
+
+Des documents scientifiques et techniques choisis, comprenant certains documents de travail présentés aux sessions du Comité et rapports des sous-comités, groupes de travail, groupes d'études et réseaux de correspondants. Publiés en anglais et en français.
+
+Documents occasionnels du CPCA
+
+Documents d'intérêt général pour le Comité. Publiés dans la langue d'origine, soit en français, soit en anglais.
+
+Des exemplaires de ces documents peuvent être obtenus en s'adressant au:
+
+Secrétaire
+Comité des pêches continentales pour l'Afrique
+Département des pêches
+FAO
+Via delle Terme di Caracalla
+00100 Rome, Italie
+
+PREPARATION DE CE DOCUMENT
+
+Lors de sa première session, le Comité des pêches continentales pour l'Afrique (N'Djamena, Tchad, 1972) avait recommandé: "Recommandation CIFA 72/9) - qu'un groupe travaillant par correspondance soit créé pour la collection des données disponibles sur les pêches dans les plaines inondables et pour l'émulation de la recherche sur ces régions, et qu'il se réunisse ensuite pour préparer un document technique sur cette question" (CPCA, 1973). La présente note technique se propose de remplir partiellement la première fraction de cette recommandation. Etabli sur la base de publications et d'observations personnelles, ainsi que de renseignements non publiés fournis par divers spécialistes des pêches africaines, ce document résume nos connaissances en matière d'écologie halieutique des systèmes de plaines inondables sur le continent africain. Certaines observations sont nécessairement d'ordre conjectural ou le résultat de présomptions; on souhaite cependant qu'elles stimulent la
+discussion et concourent aux études futures dans ce domaine.
+
+Distribution: Références bibliographiques:
+Département des pêches de la FAO
+Fonctionnaires régionaux des pêches de la FAO
+Liste de distribution du CPCA
+CARPAS, CPCA, CECPI, CGPM, CIPP, AIEA, Unesco, OMS, OMM Welcomme, R.L. (1975)
+Doc.Tech.CPCA, (3):51 p.
+L'écologie des pêches dans les plaines inondables africaines
+The fisheries ecology of African floodplains
+PNUD
+Contribuants
+Selecteur SI
+Division de la mise en valeur des terres et des eaux, FAO Plaines inondables; distribution geographique; cycle hydrobiologique; facteurs environmentaux; oxyène dissous; pH; conductivité; courents d'eau; plancton; plantes aquatiques; invertebrates; poissons; migrations; cycle de vie; nutrition; croissance, mortalité; biomasse; variations annuelles; methodes de pêches, modeles par ordinateurs; émanagement des pêcheries. Afrique.
+
+ORGANISATION DES NATIONS UNIES POUR L'ALIMENTATION ET L'AGRICULTURE
+Rome, 1975
+
+
+Les liens hypertextes vers d'autres sites de l'Internet ne signifient nullement que l'Organisation approuve officiellement les opinions, idées, données ou produits qui y sont présentés, qu'elle en assume la responsabilité ou qu'elle garantit la validité des informations qui s'y trouvent. Leur seul objectif est d'indiquer où trouver un complément d'informations sur des thèmes apparentés.
+
+Cette version numérique du document a été scannérisé en utilisant des logiciels de reconnaissance optique de texte (OCR). La FAO décline toute responsabilité pour les éventuelles différences pouvant apparaître dans ce document par rapport à la version imprimée originale.
+
+
+TABLE DES MATIERES
+
+1. INTRODUCTION
+
+2. MORPHOLOGIE DES PLAINES INONDABLES
+
+2.1 Morphologie générale
+2.2 Classification des plaines inondables
+2.3 Distribution et superficie
+
+3. UTILISATIONS DE LA PLAINE EN SAISON SECHE
+
+4. FACTEURS LIMNOLOGIQUES
+
+4.1 Régime des crues
+4.2 Facteurs physico-chimiques
+4.3 Phytoplancton et autres organismes
+4.4 Résumé
+
+5. BIOLOGIE DES POISSONS
+
+5.1 Distribution de poisson dans le système
+5.2 Migration
+5.3 Reproduction
+5.4 Alimentation
+5.5 Croissance
+5.6 Mortalité
+5.7 Résumé
+
+6. METHODES DE PECHE
+
+6.1 Pêches saisonnières
+6.2 Pêche par barrage des eaux
+6.3 Pêche du poisson migrant
+
+7. CAPTURE ET PRODUCTIVITE
+
+7.1 Productivité
+7.2 Ichtyomasse
+7.3 Captures
+7.4 Fluctuations des captures d'une année à l'autre
+7.5 Résumé
+
+8. MODELES DE PECHERIES DANS LES PLAINES INONDABLES
+
+8.1 Modèle simple, pour calculs à l'ordinateur, d'une plaine inondable et de ses populations ichtyologiques
+
+9. EXPLOITATION DES PLAINES INONDABLES
+
+9.1 Effets sur les pêcheries d'autres utilisations de la plaine inondable
+9.2 Exploitation intégrée des systèmes de plaines inondables
+9.3 Exploitation de la pêche
+9.4 Manipulation du régime hydrologique
+
+REFERENCES
+
+REMERCIEMENTS
+
+Je tiens à remercier les nombreux spécialistes des pêches en Afrique, qui ont rendu cette enquête possible en fournissant des données sur la morphologie des plaines inondables de leur pays, ainsi que sur la pêche qui s'y pratique - en particulier les membres du groupe de la CPCA travaillant par correspondance sur les pêches des plaines inondables, MM. A. Catchy-Ngakoudou, J.R. Durand, R.E. Hastings, J.M. Kapetsky, A. Konare, A. Mabaye, J. Okedi, C. Reizer, V.O. Sagua.
+
+J'adresse aussi tout spécialement des remerciements à M.D. Hagborg qui a préparé le programme pour l'ordinateur à partir des données présentées dans la section 8.1, à M.J. Kapetsky pour m'avoir fait bénéficier de bien des idées et discussions et permis de puiser dans sa documentation non publiée d'une valeur inestimable, ainsi qu'à tous mes autres collègues, au siège ou sur le terrain, qui ont participé aux échanges de vues mentionnés dans cet exposé.
+
+RESUME
+
+On désigne par plaines inondables les terrains situés en contrebas et en bordure des cours d'eau, que les débordements de leur lit principal inondent périodiquement.
+
+Pendant la saison sèche, les éléments fertilisants s'y accumulent sous forme de déjections animales et de végétaux qui se décomposent, ainsi que de cendres laissées par les feux qui ravagent la brousse à la fin de la saison sèche. Dès le début de la crue, ces éléments se dissolvent aussitôt, pour se combiner avec les limons du fleuve et favoriser la croissance rapide des plantes, des insectes et des organismes aquatiques de toute nature.
+
+Cette explosion biologique fournit les conditions essentielles à la reproduction, à l'alimentation et à la croissance de nombreuses espèces de poissons qui, avec la montée des eaux, émigrent du lit du cours d'eau dans la plaine inondée. Le cycle des crues est vital pour assurer la survie de ces espèces: toute altération de l'intensité ou de la durée des crues risque, dans les années suivantes, de modifier la population ichthyologique.
+
+Par suite des grosses concentrations de poissons que provoquent les migrations dans les plaines inondables ou hors de celles-ci, ainsi que dans les mares qui y persistent pendant la saison sèche, certaines de ces plaines africaines comptent parmi les terrains de pêche les plus importants du continent.
+
+Cependant, les cours d'eau et leurs plaines inondables sont l'objet de toutes sortes d'utilisations autres que la pêche, dont beaucoup sont parfois nuisibles au maintien des populations de poissons. Les barrages, comme les systèmes d'irrigation et de drainage sont susceptibles de modifier, ou même de supprimer, le cycle des crues au détriment des stocks ichthyologiques. Par la décharge de résidus toxiques ou l'emploi d'insecticides, l'industrie et l'agriculture risquent de polluer le milieu à un degré tel que beaucoup d'espèces ne sont plus capables d'accomplir leur cycle biologique. Très fréquents en Europe et en Amérique du nord, ces effets n'ont pas encore fait leur apparition en Afrique, du moins comme problème majeur, mais n'en demeurent pas moins une menace possible.
+
+Les cours d'eau et leurs plaines inondables, en raison de la multiplicité de leurs fonctions concurrentes, doivent être traités comme une ressource polyvalente; ce qui implique une exploitation telle que la somme des rendements des diverses utilisations soit maximale. Optimiser ainsi les rendements implique que l'on connaisse bien la façon dont se comporte la ressource selon les différents modes d'exploitation.
+
+Malheureusement, la biologie et l'écologie des pêches dans les cours d'eau et les plaines inondables d'Afrique ont été très peu étudiées et l'on manque des données de base que nécessiteraient le genre de décisions requises par leur exploitation. A cause de ce manque d'informations, la composante-pêche de l'exploitation des cours d'eau et des plaines inondables a été en grande partie négligée: dans beaucoup de régions, des projets destinés à mettre en valeur un autre aspect de cette ressource représentent une menace pour ce précieux réservoir de protéines animales.
+
+C'est pourquoi il est recommandé d'intensifier de telles études, nécessaires à la fois sur le plan théorique de la productivité de la pêche dans les plaines inondables, comme du point de vue pratique pour savoir comment intégrer ces pêches dans le développement général des régions considérées.
+Table des matières Page suivante
+
+
+1. INTRODUCTION
+
+Malgré les travaux considérables effectués ces dernières années sur la pêche dans les eaux continentales africaines, il est curieux de constater que l'on en a consacré très peu à la biologie des poissons de rivière. Or, ces derniers contribuent peut-être pour près de la moitié du total du poisson d'eau douce pris sur le continent, et quelques unes des pêcheries les plus importantes d'Afrique sont installées sur les cours d'eau. La méconnaissance des mécanismes écologiques qui règlent la population ichtyologique des systèmes fluviaux pourrait avoir de graves conséquences pour l'avenir de ces pêcheries. Les plans d'eau douce, les fleuves et les rivières en particulier, sont nécessaires à toute une gamme d'usages domestiques, industriels et agricoles, qui, faute d'être convenablement réglementés, peuvent être contradictoires avec la permanence de stocks ichtyologiques viables. La mise en valeur intégrée d'un système fluvial, dans le cadre d'utilisations polyvalentes, suppose
+donc avant tout que l'on en ait une connaissance suffisante pour pouvoir évaluer l'incidence sur les poissons de toute modification de l'écosystème.
+
+On sait depuis longtemps que les pêcheries fluviales les plus importantes sont situées soit sur les larges biefs inférieurs des cours d'eau, soit sur les plaines inondables intérieures qui se forment dans certains systèmes. Il existe une corrélation étroite, en fait, entre la largeur de la plaine inondable et la pêche dans le bief correspondant du cours d'eau (Welcomme, sous presse). La présence de ressources halieutiques importantes a donné lieu à l'étude, tout au moins, de certaines plaines inondables. Le mieux documenté de ces systèmes est peut-être celui du Kafué, en Zambie, où un certain nombre de spécialistes travaillent depuis déjà un certain temps sur les pêcheries et sujets connexes. Plus récemment, les plaines inondables du fleuve Sénégal et de l'Ouémé ont fait l'objet de recherches, et, actuallement, on s'intéresse à la biologie de zones similaires sur le Shiré et le Pongolo. Sans doute est-il symptomatique qu'à peu près ces études aient été entreprises, soit pour
+prévoir l'incidence de la construction ou de l'exploitation d'un barrage édifié à toute autre fin, soit pour expliquer la dégradation d'une pêcherie et essayer de l'améliorer.
+
+Le présent document doit être considéré comme un "abrégé sur l'habitat" des plaines africaines inondables, accompagné de vues sur leurs pêcheries qui combleront certaines lacunes dans la connaissance générale du sujet et serviront de base aux travaux futurs.
+
+
+Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+2. MORPHOLOGIE DES PLAINES INONDABLES
+
+2.1 Morphologie générale
+
+Une plaine inondable est une surface de terrain, relativement en contre-bas, saisonnièrement noyée par les débordements d'un cours d'eau, d'un lac ou d'un marais adjacent (Fig. 1). Les plaines inondables de bordure représentent un caractère normal de l'évolution longitudinale d'un cours d'eau; habituellement longues et étroites, elles sont directement accolées au lit principal du fleuve. Toutefois, en n'importe quelle section de son cours, il peut arriver qu'un accident du relief provoque la formation de plaines inondées. D'une superficie souvent considérable et aux contours imprécis, elles constituent, soit ce que l'on appelle le "delta central" du Niger et les Kafué Flats (Fig. 3), soit de véritables deltas d'embouchure comme pour l'Ouémé et le fleuve Sénégal.
+
+Une plaine inondable-type, selon Leopold, Wolman et Miller (1964), comprend les caractéristiques suivantes:
+a. le lit du cours d'eau
+b. des bras-morts, partie du méandre recoupé
+c. des bancs de pointe - atterrissement d'alluvions sur la partie convexe du méandre
+d. des ondulations de laisses - séries de crêtes et de dépressions sur le sol, dans la partie convexe du méandre, résultat des divagations latérales du fleuve en aval
+e. des laissées - eaux mortes qui se forment à la fois dans les dépressions des ondulations reliques, ainsi que le long des parois du thalweg, affouillées par la crue quand elle se déplace en aval
+f. des bourrelets de berge - talus ou banquettes naturels, surélevés au dessus de la surface de la plaine inondable mitoyenne du fleuve, qui contiennent habituellement des matériaux grossiers déposés par la crue quand elle déborde par dessus les berges. C'est dans la partie concave de celles-ci qu'on les trouve le plus souvent. Quand les matériaux de transport sont surtout constitués d'alluvions à grain fin, les bourrelets naturels peuvent être absents ou presque imperceptibles
+g. des laisses de marais - alluvions plus fines, que la crue, en passant par dessus la berge, dépose dans les mares d'eau stagnante, entre les bourrelets de berge et la paroi du thalweg ou sur les banquettes en terrasse du fleuve
+h. des sables d'ébrasement - sédiments de crue généralement constitués de particules de sable grossier, sous forme de matériaux détritiques épars ou résiduels.
+
+Au vu de ces auteurs, les plaines inondables sont des formations alluvionnaires caractéristiques de la vallée d'un fleuve, qui y emmagasine temporairement ses sédiments. Un équilibre moyen se réalise sur un certain nombre d'années, où les apports balancent les décharges, bien qu'il puisse se produire des modifications locales dans la morphologie de la plaine inondable, par suite du colmatage de vieux lits secondaires et de la percée de nouveaux chenaux.
+
+On peut observer la plupart des structures précédentes dans tous les grands cours d'eau, alors qu'elles seront parfois plus difficiles à distinguer dans les plus petits qui se modifient très rapidement.
+
+Figure 1
+
+Figure 1. Vue en coupe de trois systèmes de fleuve/plaine inondable (l'échelle verticale est exagérée)
+
+A = le Kafué (PNUD/FAO, 1968) Lit principal du fleuve
+B = le Niger à Onitsha (NEDECO, 1959) Marais permanents
+C = l'Ouémé à Ziniré Bras ou lit secondaire Lagune
+
+Figure 2
+
+Figure 2. Bief du Niger en Nigeria. On voit la plaine inondable, en bordure du fleuve, avec ses marigots, marais et lagunes
+
+Figure 3
+
+Figure 3. Vue d'une partie des Kafué Flats, avec leurs marigots, bras, marais et lagunes
+
+Les structures de la plaine inondable les plus importantes pour les poissons, du point de vue écologique, sont les suivantes:
+
+Le lit principal, qui, en général, retient l'eau à toutes les époques de l'année et peut être simple ou anastamosé. Dans ce dernier cas (Fig. 4), il s'agit de bras anastamosés, qui sinuent au milieu de bancs de sable et d'îlôts recouverts de végétation, découverts aux basses eaux et submergés au moment de la crue. Ces bras sont typiques de certains biefs du Zambèze, du Niger et du Congo et, là où on les trouve, la plaine inondable latérale est souvent très réduite en largeur. Il semble prouvé (Svensson, 1933; Gosse, 1963) que, écologiquement parlant, ces îles sont analogues à la plaine inondable latérale et remplissent un rôle équivalent dans la biologie du poisson.
+
+Figure 4
+
+Figure 4. Lit du Niger, composé de bras anastamosés
+
+En noir: plan d'eau permanent
+En traits discontinus: les bancs
+Hachuré: le plateau
+
+La plaine inondable, submergée pendant la crue et découverte aux basses eaux. La majorité des plaines inondables sont associées aux fleuves de type "soudanais", c'est-àdire à végétation herbacée et à sauvanes, bien que quelques uns du type "guinéen" aient des plaines inondables recouvertes de forêts, qui donnent à beaucoup de cours d'eau du Zaïre cette allure caractéristique de forêt inondée.
+
+Les marais et mares (lagunes), situés dans les dépressions de la plaine inondable qui peuvent être soit permanents, persistant d'une crue à l'autre, soit temporaires, s'asséchant progressivement avec la baisse des eaux (Fig. 2, 3 et 7). La distinction entre marais et mares dépend surtout de la végétation, qui peut être plus ou moins abondante au cours de l'année. Les mares permanentes ont tendance à se transformer en marais quand le niveau d'eau y baisse. A leur développement maximum, ces accidents topographiques s'étendent sur une surface considérable de la plaine inondable: des systèmes comme ceux de la Luapula et de la Pongola consistent en chaînes de vastes lacs, permanents comme l'immense marais de l'Eléphant dans la plaine inondable du Shiré. Des mares peuvent se former dans de simples dépressions de la plaine, qui se remplissent au fur et à mesure de l'extension de la crue et qui retiennent l'eau quand l'inondation se retire. Ces mares isolées perdent leur eau par
+évaporation, à moins que leur niveau ne soit au dessous de celui de la nappe. On trouve aussi dans les plaines inondables des types de mares plus complexes, rattachées au lit principal du fleuve par des chenaux et marigots. Elles peuvent aussi constituer des systèmes discontinus, sauf à l'époque des hautes eaux (Fig. 7).
+
+Les chenaux et marigots, qui relient les unes aux autres les dépressions de la plaine inondable, formant avec le fleuve un réseau qui recouvre celle-ci. Certains d'entre eux arrivent à percer le bourrelet et servent de cheminement principal aux mouvements des eaux, dans les débuts de leur montée ou vers la fin de la décrue (Fig. 2 et 3).
+
+Les bourrelets de berge ou les remblais naturels, en bordure du lit principal, qui peuvent prendre de l'importance dans la mesure où ils orientent ou dévient le flot, retardant ainsi tant la submersion de la plaine que son assèchement lors de l'évacuation des eaux.
+
+Les populations autochtones qui habitent sur ces systèmes fluviaux reconnaissent fréquemment l'importance de ces accidents du terrain, qu'elles savent désigner d'un nom particulier dans leurs langues et dialectes (Holden, 1963; Hurault, 1965; CTFT, 1972; Rzoska, 1974). Par exemple, au Sénégal, le bourrelet de berge se nomme fondé; les dépressions de la plaine, ou oualo, alimentées par des tiangol (marigots), retiennent dans leur partie la plus basse une mare permanente, le vindou.
+
+2.2 Classification des plaines inondables
+
+Indépendamment de la classification de base (2.1) en plaines inondables de bordure ou deltaîque, basée sur leur géomorphologie, d'autres catégories ont été proposées.
+
+Svensson (1933) distingue trois types de plaine marécageuse, d'après leur mode d'inondation. Dans le type 1, les marais sont le résultat des précipitations ou du ruissellement local, uniquement, et se relient au fleuve ou à d'autres marais situés en contrebas par un seul chenal ou marigot. De telles formations ne sont jamais influencées par les variations du niveau des eaux dans le fleuve, mais les poissons peuvent y émigrer en remontant le chenal de liaison. Dans le type 2, la plaine inondable est immédiatement adjacente au fleuve, qui la submerge directement. Les marais du type 3, intermédiaires entre les deux premiers, se recontrent dans les faibles dépressions de la plaine inondable, séparées du fleuve par les bourrelets de berge, la communication se faisant par le chenal. Leur inondation se produit en premier lieu à la suite des pluies locales et du drainage de ruissellement, plus tard par la hausse du niveau de l'eau dans le fleuve.
+
+On peut aussi distinguer entre les plaines inondables d'après les dimensions et la permanence du plan d'eau auquel elles sont associées. Il est vraisemblable, en effet, que la dynamique de la faune ichtyologique des systèmes fleuve/plaine inondable, en communication avec de grands lacs (tels que les Yaérés du Chari et du Logone (Durand 1970), ou les plaines inondables des rivières du Kenya qui se déversent dans le lac Victoria), diffère profondément de celle des poissons que l'on trouve dans les cours d'eau qui se résolvent à la saison sèche en une série de mares isolées, ne serait-ce que par leur capacité de charge disponible pendant les basses eaux (Van Someren, 1961).
+
+Mais ce sont aussi les cours d'eau dont la nature diffère en Afrique selon la région. Daget et Iltis (1965) classent ceux d'Afrique occidentale selon les types guinéen et soudanais:
+i. les cours d'eau guinéens sont ceux qui drainent les zones forestières de l'Ouest africain. Circulant à travers des galeries-forêts, ils ont des plaines inondables dont l'aire de submersion peut recouvrir de très vastes étendues forestières. Ils sont réputés pour être moins productifs que les suivants;
+ii. les cours d'eau soudanais drainent les régions de savane, avec peu ou pas degaleries-forêts. La plaine inondable est habituellement très étendue et couverte de végétation herbacée.
+
+Il est toutefois difficile d'établir une classification absolue des plaines inondables basée sur leur morphologie, car les variantes revêtent trop de formes intermédiaires. Il sera néanmoins utile d'avoir ces différences présentes à l'esprit quand on interprétera le comportement des diverses régions.
+
+2.3 Distribution et superficie
+
+On peut considérer les plaines inondables riveraines comme des accidents normaux de l'évolution des cours d'eau, plus ou moins répandus dans la plupart des bassins africains. Les grandes plaines inondables provoquées par des anomalies locales du relief sont plus rares et restent limitées à quelques systèmes fluviaux. Le Tableau 1 indique les superficies submergées et découvertes de quelques plaines inondables représentatives.
+
+TABLEAU 1
+
+Caractéristiques de quelques plaines inondables d'Afrique
+
+Plaine inondable A[1
+]Superficie à la crue maximum
+(ha) A[2
+]Superficie à l'étiage
+(ha)
+Auteur de référence
+
+Barotsé (Zambèze)
+
+512 000 32 915 6 MacDonald ^1
+
+Bénoué * (Nigeria)
+
+310 000 129 000 42 FAO/ONU 1970
+
+Kafué Flats
+
+434 000 145 560 34 Kapetsky ^1
+
+Massilli *
+
+1 500 200 13 Barry ^1
+
+Niger (Delta central)
+
+2 000 000 400 000 20 Konare; Raimondo
+
+Niger * (Niger)
+
+90 704 27 000 30 FAO/ONU 1971
+
+Niger * (Dahomey)
+
+27 440 3 200 12 FAO/ONU 1971
+
+Niger * (Nigeria)
+
+480 000 180 000 38 FAO/ONU 1970
+
+Okavango
+
+1 600 000 312 000 20 Cross ^1
+
+Ogun *
+
+4 250 2 500 59 Dada ^1
+
+Oshun *
+
+3 740 2 000 53 Dada ^1
+
+Ouémé
+
+100 000 5 170 5 Observ.pers.
+
+Pongolo *
+
+10 416 2 927 28 Coke ^1
+
+Sénégal *
+
+1 295 000 78 700 6 Lessent, Fall, Sere ^1
+
+Marais de l'Eléphant et de Ndindé (Shiré)^2
+
+67 300 46 049 68 Hastings ^1
+
+Sudd (Nil)
+
+9 200 000 1 000 000 11 Rzóka, 1974
+
+Volta * (Volta Blanche)^2
+
+85 324 10 221 12 Vanderpuye ^1
+
+Yaérés (Logone)^2
+
+700 000 Ali Garam ^1
+
+* Plaines inondables riveraines de bordure
+^1 Réponses au questionnaire du groupe de travail du CPCA
+^2 Partie d'un plus grand système
+
+Il y a moins de données disponibles sur la composition des éléments du système à l'étiage (Tableau II), bien que les chiffres ci-dessous indiquent une contribution relativement faible du lit principal à la superficie totale d'inondation.
+
+TABLEAU II
+
+Composition en saison sèche des systèmes de plaines inondables
+
+Plaine inondable Cours d'eau plus marigots Marais Lagunes/lacs Total Superficie asséchée
+(ha)
+Kafué 5 380 ( 4) 138 000 (89) 10 180 ( 7) 145 560 288 440
+Shiré 724 ( 2) 15 500 (84) 6 000 (14) 46 049 21 251
+Pongolo 427 (15) - 2 500 (85) 2 927 7 489
+Sénégal 28 100 (36) - 50 600 (64) 78 700 1 216 300
+Ouémé 1 402 (27) - 3 768 (73) 5 170 94 830
+
+- Superficie négligeable. Entre parenthèses: pourcentage du total
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+3. UTILISATIONS DE LA PLAINE EN SAISON SECHE
+
+Indépendamment de l'utilisation du cours d'eau permanent et des mares de la plaine inondable pour la pêche, la plaine elle-même remplit un certain nombre de fonctions qui peuvent influencer la productivité de la phase aquatique. A l'état naturel, la plaine est peuplée de graminées, qui nourrissent des troupeaux d'animaux sauvages, notamment les hippopotames; actuellement, cette faune est protégée dans certaines plaines transformées en parcs ou réserves. Les fumées que laissent ces animaux sur place y demeurent comme un dépôt de matière organique. Dans beaucoup de régions, l'herbe brûle à la fin de la saison sèche soit spontanément, soit par la main de l'homme. Ces feux de brousse transforment les composantes organiques des herbages désséchés en cendres minérales, ce qui les rend probablement plus assimilables lors des crues et réduit aussi la désoxygénation qui résulterait de l'immersion de graminées pourrissantes. L'élevage est largement pratiqué sur ces plaines, siège du
+cycle nomade traditionnel, notamment dans le Delta central du Niger et les Sudds du Nil. Le fumier du bétail y joue le même rôle que les fumées des animaux sauvages. On y pratique couramment l'agriculture sous diverses formes, mais certainement pas d'une manière aussi extensive que le permettrait le terrain, en raison des conditions de vie difficiles dans ces zones. Sur quelques cours d'eau seulement, comme l'Ouémé, on trouve des villages sur pilotis qui sont adaptés à l'existence en période d'inondation. Le mais, le manioc, le mil et divers légumes y sont cultivés; dans certaines zones, on a même entrepris de petits projets d'agriculture irriguée. La riziculture est de pratique relativement courante, mais la récolte et la majeure partie du développement de cette céréale ont lieu au moment des hautes eaux. L'agriculture est capable de nuire à l'écologie de la plaine par l'emploi d'insecticides, de même que les systèmes d'irrigation peuvent modifier le régime des crues. Le
+rôle des engrais reste encore mal défini, bien qu'ils soient de nature à augmenter la productivité en saison sèche comme en saison des pluies.
+
+Sur le Tableau III figurent les divers emplois en saison sèche indiqués par les réponses au questionnaire du CPCA.
+
+TABLEAU III
+
+Utilisation des plaines inondables en saison sèche
+
+Plaine Inondable Riziculture Agriculture Maraîchage Utilisation générale Pâturage Réserves de faune sauvage ou forestières
+Kafué x x (58%)
+(250 000 têtes de bétail) x (2%)
+(93 000 têtes de Lechwe
+Massili x x
+Shiré x x x (148 000 têtes) x
+Gambie x (50%) x x x (300 000 têtes)
+Delta central du Niger x (1%) x
+Okavango x x x
+Ouémé x x x
+Ogun x x x
+Oshun x x
+Sénégal x x x x x
+Yaérés (Logone) x x
+
+Entre parenthèses: pourcentage approximatif du mode d'emploi correspondant
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+4. FACTEURS LIMNOLOGIQUES
+
+4.1 Régime des crues
+
+La plaine inondable se distingue essentiellement des autres systèmes aquatiques par l'alternance des phases de crue et de sécheresse. L'inondation peut être provoquée par deux agents principaux: i) les précipitations locales, ii) les débordements du fleuve.
+
+Les chutes de pluies locales et les eaux de drainage par ruissellement peuvent inonder les dépressions de la plaine, indépendamment de toute élévation du niveau du fleuve. Ce type d'inondation, signalé par Svensson (1933) pour la Gambie et par Carey (1971) pour le Kafué, est probablement commun à tous les systèmes, à un degré variable. De très grandes superficies peuvent être submergées de cette façon: l'inondation du Chari supérieur (Bar Salamat et Bar Asoum) semble être presque entièrement de ce type (Durand, observ. pers.).
+
+Les débordements du fleuve se produisent lorsqu'une onde lente de crue se propage vers l'aval, passant par dessus les berges et les bourrelets, et submerge la plaine en contrebas (Fig. 5).
+
+Figure 5
+
+Figure 5. Régimes hydrologiques représentatifs de trois plaines inondables d'Afrique:
+A. Le Kafué à (a) Namwala et (b) Kasaka
+B. Le Sénégal à (a) Bakel et (b) Dagana
+C. Le Niger à (a) Koulikoro, (b) Mopti et (c) Diré
+
+Les deux types d'inondation sont tout à fait distincts: l'un résultant du flux de la plaine au fleuve, l'autre du fleuve à la plaine. Dans beaucoup de régions, l'inondation peut se produire à différentes époques de l'année. Dans les grands fleuves, par exemple, l'arrivée de l'onde de crue peut être retardée jusqu'à la saison sèche. Un tel retard est typique du Niger, où, à la hauteur de Malanville (Dahomey), deux crues se produisent, l'une en août-novembre, provoquée par les pluies et les affluents locaux, une seconde en décembremars, due à l'arrivée de la crue d'amont.
+
+Dans les grands fleuves, les crues provenant des divers tributaires ont tendance à s'y répercuter à différentes époques de l'année: d'où un régime complexe de la crue, qui peut même aller jusqu'à la suppression radicale de variations du niveau du fleuve.
+
+Figure 6
+
+Figure 6. Régimes des crues sur quelques grandes plaines inondables d'Afrique
+
+Les régimes typiques des crues affectant quelques unes des grandes plaines inondables, que montre la Fig. 6, indiquent que la phase de hautes eaux du cycle annuel dure environ six mois (la fourchette se situe entre 4,5 et 8 mois). Il est toutefois difficile de donner des chiffres absolus pour la durée de l'inondation sur n'importe quelle plaine inondable, en raison du temps que met l'onde de crue pour couvrir la zone dans toute sa longueur. La Fig. 5 montre le régime hydrologique de trois plaines inondables, où l'onde de crue met un mois pour se propager en aval d'un bout à l'autre de la plaine. Le même phénomène rend difficile l'évaluation absolue des superficies inondées, car le niveau d'eau peut baisser dans une partie su système et s'élever ailleurs: dans des cas extrêmes, comme pour l'Okavango, une partie de la plaine reste sèche, pendant que l'autre est inondée.
+
+La Fig. 7 montre un cycle de submersion typique d'une mare de plaine inondable.
+
+Figure 7
+
+Figure 7. Cycle annuel de submersion d'une mare de plaine inondable typique du fleuve Sénégal (d'après Reizer, 1974). Les légendes sont les mêmes que pour la Fig. 3
+
+Figure 8
+
+Figure 8. Calcul des trois indicateurs hydrologiques (d'après Kapetsky, 1974)
+
+Indicateur 1: C'est l'aire située au dessous de la courbe du niveau à partir duquel la plaine commence à être inondée, jusqu'au moment où elle s'assèche définitivement. Cette aire mesure l'extension et la durée annuelles de l'inondation de la plaine
+
+Indicateur 2: C'est l'aire située au dessus de la courbe de niveau correspondant au moment où la plaine commence à s'assécher jusqu'à celui où elle est de nouveau inondée. Cet indicateur mesure l'extension du milieu aquatique pendant l'assèchement de la plaine et comprend aussi la durée de la phase de sécheresse.
+
+Indicateur 3: C'est l'aire située au dessus de la courbe du niveau de l'eau, seulement à partir du moment où celle-ci atteint son minimum annuel (indiquée par la ligne verticale sur la Fig. 8). Cette aire mesure l'extension et la durée de réduction de milieu aquatique, après l'assèchement total
+
+Indices hydrologiques. En dehors du jaugeage du niveau de l'eau, on utilise plusieurs autres mesures d'intensité de la crue pour évaluer les effets de l'inondation sur la dynamique des poissons dans le système. Chapman et al. (Université de l'Idaho, 1971) et Dudley (1972) ont utilisé un indice de crue (FI) en mesurant l'aire située au dessous de la courbe des niveaux de l'eau pendant la phase de crue du cycle hydrologique. Kapetsky (1974) modifie cet indice pour obtenir trois indicateurs hydrologiques (HI) (Fig. 8).
+
+L'indicateur 3 est identique au facteur de décrue (+) DDF, utilisé par Lagler et al. (Université du Michigan, 1971), lequel est la somme des valeurs du volume d'emmagasinage de la crue des Kafué Flats, de septembre à décembre.
+
+Ces indicateurs sont, toutefois, insensibles aux différences de régime provoquées par des variations de la durée et de la hauteur des crues: autrement dit, une crue de faible hauteur, mais de longue durée, peut donner le même indicateur qu'une autre très puissante, mais brève.
+
+(+) Dans ce document, nous utiliserons le terme "décrue" dans le sens de contraction de la surface et du volume de l'eau, depuis la pointe de la crue jusqu'à l'étiage, que ce retrait s'effectue naturellement ou artificiellement. Cela n'implique pas nécessairement de contrôle du régime par un endiguement artificiel.
+
+4.2 Facteurs physico-chimiques
+
+Du petit nombre de données existantes sur les différents systèmes africains, il semble ressortir que leur comportement hydrologique présente de grandes analogies. En fait, il est en général exact que les variations de l'hydrologie le long de n'importe quel système fluvial sont plus grandes qu'entre des biefs équivalents de différents systèmes. Le Tableau IV donne les valeurs brutes de la conductivité et du pH de plusieurs grands bassins fluviaux d'Afrique.
+
+Oxygène dissous: Les teneurs en oxygène dissous sont généralement plus basses en saison sèche, dans les cours d'eau comme dans les plaines inondables, que pendant la crue (notamment Egborge, 1971; Carey, 1971), bien qu'il y ait des variations locales provoquées par l'action du vent ou par la photosynthèse des plantes aquatiques (Holden et Green, 1960). Des teneurs réduites de l'oxygène dissous dans le fleuve, au début des crues, peuvent être le résultat de l'arrivée d'eaux stagnantes en provenance des marais (Holden et Green, 1960; Tait, 1967; Université de l'Idaho et al., 1971; Scully, 1972). Les plus petites mares des plaines inondables peuvent se désoxygéner complètement pendant la saison sèche (Welcomme, 1971) et Tait (1967a) a décrit des mortalités de poissons imputables, après déstratification par le vent, au mélange des eaux désoxygénées des lagunes.
+
+pH: Le pH est le facteur qui varie le plus entre les différents bassins fluviaux. En général, il est plus bas dans le fleuve en saison de crue et remonte à l'étiage (Tait, 1967; Egborge, 1971). Les modifications dans les mares de la plaine inondable en saison sèche semblent dépendre du sol: ainsi, dans les marais marécageux du type 1 du bassin de la Gambie, l'eau est plus acide que le fleuve (Johnels, 1954); dans le Sénégal, une petite différence a été notée entre les mares et le fleuve (Centre technique forestier tropical, 1972a); dans le Sokoto, l'eau des lagunes tendait à devenir alcaline en raison de la concentration de sels de calcium par évaporation (Holden et Green, 1960). D'assez grandes différences semblent exister entre les fleuves du type guinéen, qui tendent à l'acidité et, dans les cas extrêmes, peuvent avoir un pH qui descend à 4,5 (Berg, 1961), tandis que ceux du type soudanais ont un pH neutre ou alcalin.
+
+TABLEAU IV
+
+Conductivité et pH de quelques bassins fluviaux africains
+(le fleuve principal est souligné)
+
+Système fluvial Conductivité (K20 <-> mhos) pH
+Fleuve et affluents Mares de la plaine inondée (saison sèche)
+Bandama 145 6,7-7,6
+Chari 42-73 6,9-7,7
+Congo/Zaïre 44-108 5,5-6,5
+
+Oubangi
+
+19,4-56 6,2-6,7
+
+Luapula
+
+150-180 
+
+Lualaba
+
+145-255 145-255 
+
+Ruzizi
+
+828 
+Lt Scarcies 35-55 7,1-7,4
+Moa 36 6,6
+Niger 31-70 82 6,7-7,2
+
+Mayo Kebbi
+
+89 
+
+Sokoto
+
+6,9-8,1
+Nil 150-500 116 
+
+Kagera
+
+93-99 
+
+Sobat
+
+112 7,2
+
+Bugurgu
+
+245-395 230-350 7,1-7,8
+
+Bahr-el-Ghazal
+
+550 7,8
+
+Semliki
+
+400-910 
+Orange 159 7,7
+Ouémé 60 150-160 
+Prah 140 
+Rokel 40 6,9-7,3
+Ruaha 108-136 6,9-7,9
+Sénégal 40-130 73-385 6,8-7,1
+Volta 41-124 6,5-7,3
+
+Volta Noire
+
+62 6,4
+
+Volta Rouge
+
+62 6,5
+
+Volta Blanche
+
+119 7,2
+Zambèze 50-96 57-102 7,4
+
+Shiré
+
+220-225 7,5-8,8
+
+Kafué
+
+130-320 70-280 
+
+Les modifications physiques et chimiques suivent étroitement le cycle des crues
+
+Conductivité: Une tendance générale à une conductivité supérieure en saison sèche a été notée par le Centre technique forestier tropical (1972a) pour le fleuve Sénégal, par Duerre (FAO, 1969) pour la plaine du Barotsé, par Egborge (1971) pour l'Oshun et par Carey (1971) pour le Kafué. Cela ne signifie pas nécessairement que la quantité totale de sels dissous est moindre pendant les crues: Holden et Green (1960) pensent plutôt que le total demeure invariable, mais qu'il est davantage dilué en raison du plus grand volume d'eau dans le système. Des anomalies dans la productivité du lac Tchad (Lamoalle, sous presse), liées au manque de crue dans les Yaérés, pourraient suggérer qu'il y a eu augmentation des ions descendant du Chari, qui, normalement, seraient restés dans la plaine inondable sous forme latente (Daget, observ. pers.). Le rôle des éléments fertilisants dans le système plaine inondable/fleuve reste néanmoins en grande partie à explorer, particulièrement en liaison
+avec les variations de productivité primaire (voir 4.3). Cependant, Welcomme (sous presse) a trouvé que les facteurs édaphiques, représentés par la conductivité, comptent pour environ 61 pour cent des variations entre les captures théoriques escomptées et les réelles, dans les bassins africains. La conductivité moyenne du système peut donc influencer la productivité par rapport à d'autres.
+
+Courant: Il est d'opinion généralement admise que les eaux d'une plaine inondable sont en grande partie statiques. Cela ne semble cependant pas être le cas, car des courants d'intensité variable circulent à travers les plaines pendant toute la période d'inondation. Ces courants sont probablement caractéristiques des plaines et sont réglés par l'ouverture du bourrelet de berge. Dans certains cours d'eau, par exemple les Yaérés, l'eau qui déborde du Logone est évacuée par un second chenal, l'El Beid. Dans d'autres fleuves, l'eau qui entre en amont dans la plaine inondable émerge de nouveau plusieurs kilomètres en aval. D'évidence, ces différents mécanismes du flux conditionneront le comportement des poissons qui peuplent le système.
+
+4.3 Phytoplancton et autres organismes
+
+Phytoplancton: Blache (1964), à propos du système des Yaérés du Logone, a écrit que la dissolution immédiate des éléments fertilisants d'origines organique et minérale (excréments, végétaux secs, candres, etc.) déposés sur le sol produit une croissance explosive des phyto/zooplanctons. Les spécialistes qui ont travaillé ultérieurement dans d'autres parties de l'Afrique ne partagent pas ce point de vue; ils sont en général d'accord pour estimer que la production maximale de phytoplancton a lieu pendant la saison sèche et que sa concentration est au contraire faible à l'époque des crues (Centre technique forestier tropical, 1972a; Holden et Green, 1960; Talling et Rzóka, 1966). En fait, Egborge (1974) a trouvé que la production de phytoplancton est étroitement liée à la conductivité et à la transparence des eaux, et inversement proportionnelle au niveau et à la rapidité du courant. Il semble que ce soit dans les lagunes, après leur séparation du fleuve, que se situe la
+production principale de phytoplancton dans un système fleuve plaine inondable (centre technique forestier tropical, 1966, 1972; Holden et Green, 1960). Egborge (1974) a trouvé que toutes les formes de phytoplancton, sauf les diatomées, dominent dans les eaux de laisses de l'Oshun à la saison sèche. Des floraisons occasionnelles de phytoplancton ont été enregistrées dans les cours d'eau pendant la saison séche (Carey, 1971). Il semble donc que la production maximale de phytoplancton survienne dans les lagunes et mares de la plaine inondable en saison séche. Holden et Green ont néanmoins avancé l'hypothèse (1960) que la quantité totale de phytoplancton dans le système change peu et qu'il y a simplement une dilution plus ou moins grande qui en modifie la densité par unité de volume.
+
+Zooplancton: On a peu de renseignements sur la production de zooplancton, bien qu'on ait noté une nette corrélation entre celle-ci et la conductivité (FAO/ONU, 1969). On a remarqué que la production d'organismes de zooplancton était élevée au moment des basses eaux dans les plus grands lacs des plaines inondables, tandis qu'elle demeure faible dans les fleuves (FAO/ONU, 1970). Le zooplancton suivrait donc, dans ces conditions, les mêmes mécanismes que le phytoplancton.
+
+Autres invertébrés: Les insectes et autres populations d'invertébrés des plaines inondables demeurent relativement mal étudiés. D'après Carey (1967), les plus grosses concentrations de macro-invertébrés ont été trouvées dans les herbes aquatiques des lagunes, quoique en général bien distribuées et abondantes dans les zones inondées. Des observations personnelles nous ont permis de constater qu'une multiplication considérable des macroinvertébrés peut se produire pendant la phase d'inondation: lors de trois crues successives de l'Ouémé, des gastéropodes pulmonés sont apparus en grandes quantités le deuxième mois de l'inondation, qui ont persisté jusqu'à la fin des crues, alors que ces organismes sont en général absents de l'environnement pendant la saison sèche.
+
+Végétation supérieure: La croissance rapide de la végétation phanérogamique au moment de la montée des eaux constitue le trait le plus saillant des plaines inondables. Souvent complètement incendiée pendant la saison séche, cette végétation repeuple immédiatement le terrain dès qu'il est inondé, avec des taux de croissance qui vont de 75 à 100 cm en deux semaines tels que Van Rensburg (FAO/ONU, 1968) les a enregistrés. Les estimations de la production herbacée indiquent un poids moyen de 16 000 kg/ha après cinq mois de submersion. A cette prolifération des graminées est lié le périphyton, notamment des algues filamenteuses, qui apparaît sur la surface de la plupart des végétaux (Carey, 1971: observations personnelles); il semble probable que, pendant les périodes de hautes eaux où il trouve des supports adéquats, le périphyton (ou "Aufwuchs") remplace le phytoplancton - du moins dans une certaine mesure.
+
+La végétation supérieure des Kafué Flats a été étudiée en détail par Van Rensburg (FAO/ONU, 1968), celle de plusieurs autres vallées de l'Est-africain décrite par Vesey-Fitzgerald (1970). Ces deux auteurs expliquent la composition de la flore par le drainage et le pH des sols. Le cycle des crues commande étroitement la prédominance des espèces et leur croissance. Les principales graminées des plaines inondables sont Oryza barthii, Echinochloa pyramidalis, Leersia sp., avec Cynodon dactylum et Chloris gayana dans les zones les mieux drainées. Sur le bord des plans d'eau permanents poussent Vossia cuspidata, Echinochloa stagnina et Cyperus papyrus. Les bancs de limon portent des peuplements denses de Phragmites sp. et, en terrain alcalin, Scirpus spp. Sur les eaux permanentes des lagunes flottent des masses de Pissia stratiotes; les Nymphae et Trappa sont également communes.
+
+4.4 Résumé
+
+Il semble que, durant la phase de submersion du cycle, les modifications chimiques de l'eau aussi bien que la production planctonique nous renseignent fort peu sur la richesse traditionnelle de la plaine inondable. A vrai dire, ces deux facteurs sembleraient indiquer une plus grande productivité à l'époque des basses eaux. Celle des hautes eaux, toutefois, est le siège d'un intense développement de la végétation supérieure et il est possible que l'utilisation des sels par la croissance végétative soit si rapide que peu d'ions libres pénètrent dans la composante aqueuse du système. La croissance des poissons, comme celle des macro-invertébrés, est aussi rapide; bien que peu d'espèces soient planctonophages, des éléments semblent être localisés dans les détritus organiques et, peut-être, dans la végétation épiphyte. D'une manière générale, on sait peu de choses sur les chaînes alimentaires, ainsi que sur les interrelations énergétiques des organismes vivant dans les plaines
+inondables. Le sujet devra faire l'objet d'études plus approfondies.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+5. BIOLOGIE DES POISSONS
+
+5.1 Distribution de poisson dans le système
+
+D'une manière générale, les poissons sont concentrés en saison sèche dans les plans d'eau permanents et disséminés pendant la crue sur la plaine inondable. Cependant, dans certains bassins, quelques espèces semblent demeurer toute leur vie dans le cours d'eau principal. Dans celui du Niger, par exemple (Daget, 1954), on recontre un certain nombre de paires d'espèces homologues de différents genres: l'une qui se reproduit dans la plaine inondable, l'autre dans le lit du fleuve.
+
+En raison des différences considérables de concentration de l'oxygène dissous dans le système, aux basses eaux comme pendant les craes (voir 4.2), ce facteur paraît jouer un rôle essentiel dans la détermination de la distribution des espéces. En général, plus celles-ci sont actives, plus elles ont tendance à éviter les sones désoxygénées; mais beaucoup d'espèces qu'on rencontre communément en plaine inondable savent s'adapter aux eaux peu oxygénées. Citons notamment: la formation de cocons chez Protopterus sp. et les oeufs dormants de diverses espèces de Notobranchius et d'Aphyosemion, grâce à quoi, chez les premiers comme chez les autres, l'espèces parvient à survivre aux périodes de sécheresse. On trouve des filaments de branchies externes chez les jeunes d'Heterotis et de Gymnarchus, des branchies externes complètes chez protopterus et Polypterus. Les espèces de Clarias, Hetero-branchus, Ctenopoma, Paraphiocephalus et Protopterus ont toutes des organes respiratoires
+accessoires qui leur permettent la respiration aérienne. Ces espèces forment un groupe bien adapté à la vie dans les marais ou petites mares, où elles ont tendance à se concentrer dans les eaux les plus désoxygénées de la plaine en période d'étiage, alors que les espèces plus actives se rencontrent dans le fleuve ou dans les grandes lagunes. On trouvera dans le Tableau V, pour trois groupes de mares de superficie diverse de la plaine inondable de l'Ouémé, un exemple de ces associations (données d'après des observations personnelles non publiées).
+
+5.2 Migration
+
+La migration des poissons dans les systèmes fluviaux tropicaux constitue un phénomène parfaitement établi, qui a été longuement décrit pour toutes les régions d'Afrique. Daget (1960) définit deux composantes de ces mouvements migratoires:
+i. par migrations longitudinales à l'intérieur du lit du cours d'eau;
+ii. par migrations latérales vers et hors les plaines inondables.
+
+Chacun de ces mouvements requiert un comportement distinct et, probablement, différents jeux de stimuli physiologiques. Tous deux doivent être considérés comme des migrations "actives". Le mouvement des poissons vers l'amont à contre-courant est bien connu (White-head, 1959; Matagne, 1950; Welcomme, 1969), mais les poissons qui pénètrent dans la plaine inondée doivent fréquemment aussi nager contre un fort courant (Johnels, 1954).
+
+Différents auteurs (Blache, 1964; FAO/ONU, 1970; Williams, 1971) classent ces mouvements selon quatre phases principales, liées au régime des crues:
+i. en période de crue ascendante - lex eaux restant confinées à l'intérieur des berges; à cette époque, les poissons peuvent entreprendre une migration longitudinale dans le lit du fleuve, soit en provenance de parties du cours d'eau dépourvues de plaine inondable, soit en provenance de lacs adjacents;
+ii. en période de crue ascendante - les eaux submergeant la plaine: les poissons se dispersent alors par migrations latérales dans la plaine inondée;
+iii. en période de baisse des eaux, les eaux se retirant de la plaine; au fur et à mesure que diminue la superficie inondée, les poissons se déplacent vers le fleuve et autres plans d'eau permanents;
+iv. en période de baisse des eaux - lorsque le poisson, arrivé dans le fleuve, se disperse vers ses habitats de saison sèche.
+
+Après la dispersion, il y a apparamment une période stable, avec peu de mouvements.
+
+La phase de migration longitudinale dans le fleuve peut être particulièrement spectaculaire: on a signalé des migrations intenses d'espèces potamotoques, particulièrement du genre Labeo, dans la Nsoia et le Yala, au Kenya (Cadwalladr, 1965), et dans la Luapula (Matagne, 1950), où les poissons remontent les cours d'eau depuis les lacs. Dans ces cas-là, il s'ajoute une composante lacustre à la migration.
+
+TABLEAU V
+
+Différences de composition des espèces capturées selon la superficie des mares permanentes de la plaine inondée
+
+Espèces Pourcentage de la représentation en poids
+Petites Jusqu'à 500 m^2 mares Mares moyennes De 500 à 5 000 m^2 Grandes mares au dessus de 5 000 m^2
+Habitat marécageux 
+
+Clarias ebriensis
+
+72,2 20,0 1,3
+
+Clarias lazera
+
+5.0 13,6 3,4
+
+Ctenopoma kingsleyae
+
+0.9 7.2 P
+
+Gymnarchus niloticus
+
+- P 2,1
+
+Heterotis niloticus
+
+- 26,0 2,6
+
+Parophiocephalus obscurus
+
+23,8 27,2 1,6
+
+Polypterus senegalus
+
+P 0,3 0,7
+
+Protopterus annectens
+
+P 0,8 0,7
+
+Xenomystus nigri
+
+P 0,2 P
+Distribution générale 
+
+Citharinus latus
+
+- 0,1 1,2
+
+Distichodus rostratus
+
+- 0,7 8,1
+
+Hepsetus odoe
+
+- 2,3 2,6
+
+Hemichromis (2 espèces)
+
+P P P
+
+Hyperopisus bebe
+
+- P 5,4
+
+Lates niloticus
+
+- - 10,1
+
+Labeo senegalensis
+
+- - P
+
+Mormyrops deliciosus
+
+- - 18,4
+
+mormyrides
+
+- - 18,4
+
+Pelmatochromis güntheri
+
+P P P
+
+Schilbe mystus
+
+- - 6,0
+
+Synodontis (2 espèces)
+
+- - 15,2
+
+Tilapia (4 espèces)
+
+- 1,6 2,2
+
+P = Espèces présentes à moins de 0,1 pour cent
+
+Que ce mouvement de migration dans les cours d'eau puisse être important, Williams l'a démontré (1971) en étiquetant des poissons dans le Kafué dont certains individus ont remonté le cours sur 120 kilomètres. Les poissons du Delta central du Niger aussi voyagent sur de grandes distances (jusqu'à 400 km - Daget, 1957), certains ayant atteint les environs de Bamako avant que la construction du barrage de Markala interrompe leur passage (Daget, 1960a). Des migrations à longue distance ont aussi été notées pour le bassin du Chari/lac Tchad (Durand, 1970) et pour celui du Nzoia/lac Victoria (Cadwalladr, 1965).
+
+Il est certain que les migrations vers et hors les plaines inondables ne se font pas au hasard: les différentes espèces paraissent arriver à des époques bien définies et en groupes distincts. Ainsi, Williams (1971) et l'Université de l'Idaho (1971) remarquent que Clarias spp., Schilbe mystus, Barbus spp. et Tilapia spp.^1 commencent à émigrer plus tôt que d'autres espèces dans le Kafué et que certaines femelles Tilapia ont tendance à se déplacer avant les mâles. Les migrations hors des plaines inondées sont souvent plus spécifiquement distinctes. Tout d'abord, ce sont les adultes qui déserteraient la plaine les premiers, dès que la diminution du niveau d'eau devient perceptible (FAO/ONU, 1970). Ensuite, les jeunes quittent les lieux dans un ordre précis. Les poissons sensibles à la désoxygénation du milieu, comme les Alestes, quittent la plaine les premiers, après quoi partent les genres plus résistants comme Clarias ou Polypterus (Daget, 1957). Différentes espèces d'un même
+genre peuvent également échelonner dans le temps leur migration: Welcomme (1969) a montré que deux espèces de Barbus se comportent tout à fait différemment à cet égard. Durand (1971) a aussi observé que les poissons qui quittent la plaine inondée des Yaérés par l'El Beid le font en groupes, chacun à une éopque donnée.
+
+^1 y compris Sarotherodon sp. (Trewavas, 1973)
+
+5.3 Reproduction
+
+Le cycle biologique des espèces africaines de rivière est étroitement lié aux saisons - la reproduction s'effectuant presque toujours juste avant, ou pendant les crues (Blache, 1964; Daget, 1954; Svensson, 1933; Carey et Bell-Cross, 1967; FAO, 1968; Durant, 1970). Les poissons se reproduisent normalement dans les marais herbeux, au ras de l'avancée de la crue (Daget, 1957), bien qu'un certain nombre d'espèces, parmi lesquelles Heterotis niloticus, Gymnarchus niloticus et Hepsetus odoe, édifient des nids flottants qui permettent la ponte en eau plus profonde. Quelques espèces, pourtant, peuvent pondre dans le lit du fleuve avant que les eaux débordent dans la plaine inondable. On l'a noté en particulier pour Clarias et Tilapia dans le Niger (Daget, 1957). Les cichlidés du Kafué peuvent se reproduire avant la crue, puis porter leurs oeufs et alevins jusqu'à la plaine inondable (Williams, 1971; Université de l'Idaho, 1971; Dudley, 1972); des observations personnelles nous ont
+montré que cela est également vrai d'Hemichromis et de Tilapia dans l'Ouémé, au Dahomey.
+
+L'activité reproductrice se continue pendant plusieurs semaines et, pour certaines espèces, durant toute la saison des crues, bien qu'elle connaisse nettement une pointe dans les premières phases pour cesser ensuite complètement (Daget, 1957). Les crues apparaissent comme essentielles à l'accomplissement, pour la plupart des espèces, de leur cycle de reproduction: l'absence de crues due à la sécheresse au Sahel a provoqué un fléchissement de la reproduction des poissons dans le Delta central du Niger, le fleuve Sénégal et le lac Tchad (Stauch, communic. person.).
+
+Certaines indications montrent que l'intensité des crues agit en faveur de la reproduction, car on a observé que les classes d'âge des années correspondant à des crues particulièrement intenses dans le Kafué étaient plus nombreuses (Dudley, 1972).
+
+5.4 Alimentation
+
+On a abondamment décrit les habitudes alimentaires d'un grand nombre d'espèces de poissons de rivière (Daget, 1954; Svensson, 1933; Blache, 1964; Carey, 1971; FAO/ONU, 1970). Les poissons adultes couvrent un éventail complet de types trophiques, depuis les prédateurs piscivores jusqu'aux planctonophages, bien que les espèces qui se nourrissent exclusivement de plancton soient généralement rares dans les rivières. Les juvéniles se nourrissent principalement, semble-t-il, de périphyton, de détritus, de zooplancton et de petits insectes. L'intensité de l'alimentation varie considérablement selon la saison en fonction du régime de crues. Pendant les hautes eaux, la mise en circulation d'éléments nutritifs, la croissance rapide de la végétation et les disponibilités accrues d'autres sources alimentaires telles que les semences, les jeunes pousses, les feuilles, les insectes et les mollusques servent de base à une activité alimentaire particulièrement intense (Blache, 1964). La
+plupart des poissons se trouvent pendant cette saison au maximum de leur condition, ce qui se manifeste notamment par des dépôts de graisse abondants dans la cavité du corps (FAO/ONU, 1970). Aux basses eaux, l'intensité alimentaire est réduite (Johnels, 1954; Daget, 1957, 1960) et peut même complètement cesser dans certaines sones. Ce phénomène est, du moins partiellement, responsable de la formation d'anneaux clairs sur les écailles de beaucoup d'espèces de rivière.
+
+Selon certains auteurs (Johnels, 1954; Kapetsky, 1974), les prédateurs piscivores sont l'exception qui confirme la règle précédente. Leur alimentation diminue en effet pendant les premiers stades de la crue, alors que les poissons se dispersent sur la plaine inondable et sont protégés par l'épaisse végétation, et augmente à l'étiage quand les individus se trouvent rassemblés dans un volume d'eau de plus en plus réduit.
+
+5.5 Croissance
+
+FAO/ONU (1970) et Kapetsky (1974) donnent les taux moyens de croissance de plusieurs espèces de poissons de rivière. Mais ces taux sont très variables selon la saison et aussi d'une annés à l'autre.
+
+Variations saisonnières: Le taux de croissance peut varier en cours d'année, selon l'expansion ou la réduction du milieu aquatique, les modifications saisonnières de la température, comme de l'abondance de la nourriture en fonction de la crue et des pluies (Kapetsky, 1974). Les taux de croissance sont habituellement plus lents pendant la saison sèche (Daget, 1957; Johnels, 1954). Dudley (1972) a en outre trouvé qu'environ 75 pour cent de la croissance prévue la première année, pour les juvéniles de Sarotherodon andersoni et S. macrochir, s'effectue dans les six mois qui suivent l'éclosion (qui a lieu six semaines environ après la pointe de la crue, dans le Kafué). Kapetsky (1974) a également trouvé peu de croissance en longueur durant la saison sèche, particulièrement pendant la période de décrue maximale. Ces différences dans le taux de croissance coincident avec ce que nous savons de l'abondance de nourriture et de l'activité alimentaire, de même qu'elles sont liées à
+l'apparition d'anneaux sur les écailles de la majorité des espèces de rivière.
+
+Variations annuelles: Les variations de l'intensité et de la durée des crues produisent des différences de croissance d'une année à l'autre. L'Université de l'Idaho (1971), Dudley (1972 et 1974) et Kapetsky (1974) ont tous trouvé, dans le système du Kafué, une corrélation étroite entre les divers indicateurs représentatifs de l'intensité de la crue (FI et indicateur 1 - voir 4.1), l'importance de la décrue (indicateurs 2 et 3) et la température, pour les augmentations de longueur de différents Cichlidés dans leur première et seconde années de croissance (Tableau VI). D'une manière générale, celle-ci est liée positivement à l'intensité de la crue et une décrue accentuée provoque une croissance médiocre.
+
+5.6 Mortalité
+
+On ne dispose que de très peu de renseignements sur les taux de mortalité des espèces africaines de rivière, notamment en fonction de la saison.
+
+Annuelle: Daget et al. (1973) ont trouvé pour Z (coefficient de mortalité) des valeurs de 2 691 et 2 656 dans deux sections de la Bandama; mais on ne peut tirer de ces chiffres que peu de conclusions définitives sur le taux de mortalité des poissons, car ils représentent la perte totale dans la zone considérée, y compris les pertes par migrations. En fait, dans une troisième section du fleuve, Z a une valeur négative, qui indique une migration considérable dans cette zone. Kapetsky mentionne (1974) les chiffres intéressant plusieurs espèces de Cichlidés, qui varient entre 99 pour cent (Z = 4,6090) pour T. rendalli à sa troisième année et 48 pour cent (Z = 0,6486) peur S. andersoni à sa quatrième année mais on estime que des taux de mortalité aussi élevés que 91 à 99 pour cent sont légèrement surestimés. Quoiqu'il en soit, ces chiffres, de même que ceux de Daget, indiquent qu'il faut s'attendre à des taux élevés de mortalité ches les espèces de rivière.
+
+TABLEAU VI
+
+Estimations des paramètres pour les régressions linéaires simples et multiples de la croissance, pendant la première et la seconde années, de diverses espèces de Cichlidés selon les indicateurs thermiques et hydrologiques
+
+Espèces Année de croissance Sexe Modèle R
+S. andersoni 1 M Croissance (cm) = 0,02 FI + 12,87* 0,92
+1 M TL (mm) = 146,51 - 0,11 (HI 2)** 0,94
+1 F Croissance (cm) = 0,014 FI + 13,4* 
+2 M TL (mm) = -29,47 + 1,98 (TI)** 0,90
+2 F TL (mm) = 38,24 - 0,30 (HI 3)+0,83 (TI)** 0,93
+S. macrochir 1 M Croissance (cm) = 0,2 FI + 11,02* 0,90
+1 M TL (mm) = 130,39 - 0,13 (HI 2)** 0,92
+1 M TL (mm) = 130,13 - 0,32 (HI 2)** 0,85
+2 M TL (mm) = 74,72 - 0,10 (HI 3)** 0,58
+2 F TL (mm) = 14,69 - 0,18 (HI 3)** 0,95
+T. melanopleura 1 M Croissance (cm) = 0,029 FI + 12,8* 0,80
+
+TL = Longueur Totale
+FI = Intensité de la crue
+* Dudley, 1972
+HI = Indicateur hydrologique (2 ou 3)
+TI = Indicateur thermique
+** Kapetsky, 1974
+
+Variations saisonnières: Les conditions biologiques devenant beaucoup plus défavorables quand les eaux baissent et que les populations de poissons se concentrent davantage, on doit s'attendre en saison sèche à ce que les taux de mortalité soient plus élevés que pendant la pleine eau. Pendant cette période, la faune ichtyologique est plus vulnérable à la fois du fait des prédateurs et de la tension dans le milieu, comme de la mortalité accidentelle due aux plus grandes facilités de capture. Les observations effectuées par l'Université de l'Idaho (1972) dans le système du Kafué montrent des pertes élevées dans les lagunes de la plaine inondée (entre 75 et 85 pour cent sur 3 mois); ces mêmes chercheurs ont estimé à 40 pour cent la diminution de la biomasse en trois mois (juillet-septembre 1970). Les chiffres du Kafué sont très voisins de ceux de Daget et al. (1973) qui indiquent des pertes en saison sèche d'environ 15 pour cent par mois.
+
+Kapetsky (1974) a établi un modéle de croissance et de mortalité pour les systèmes de plaines inondables, en faisant pivoter de 90^o et en inversant les modèles exponentiels classiques. Cette opération donne des taux de mortalité bas pour le début de l'année (saison des crues) qui vont ensuite en augmentant (saison sèche). Si ce modèle donne une utile approximation pour calculer la production, il est probable que les courbes de mortalité sont constituées de deux ou trois composantes, qui correspondent aux différentes phases du cycle de crue.
+
+Variation d'une année à l'autre: Sur ce point on n'a, pour l'instant, pas d'information intéressant le taux de mortalité. On sait cependant que les périodes de crues plus intenses, qui favorisent le recrutement et la croissance, améliorent aussi la survie (Université de l'Idaho, 1972). Il semble probable que les différences du volume d'eau demeurant dans le système pendant la saison sèche, ainsi que sa plus ou moins longue durée, influencent la survie d'une année sur l'autre. La survie dépend aussi de l'intensité de la crue précédente, car, une ponte bien réussie après une forte crue, mais qui sera suivie d'une sécheresse prolongée, peut avoir une mortalité supérieure à celle qu'aurait eue une ponte médiocre pendant la même période de sécheresse.
+
+D'une manière générale, on sait peu de choses sur les variations saisonnières et annuelles des taux de mortalité. Il faudra procéder à des observations prolongées sur plusieurs systèmes pour clarifier la question.
+
+5.7 Résumé
+
+Bien des fonctions de la biologie des poissons habitant les systèmes de plaines inondables varient selon le cycle hydrologique. Au cours d'une année quelconque, une période de recrutement et de croissance élevée, d'alimentation intense et de basse mortalité pendant la crue alterne avec une période de haute mortalité, de croissance médiocre, d'alimentation et de reproduction négligeables. Les variations de l'intensité et de la durée des crues, l'accentuation de la décrue aux basses eaux produisent des fluctuations correspondantes de beaucoup de paramètres biologiques. C'est ainsi que les classes d'âge numériquement plus importantes, dans les années de forte inondation et de légère décrue, ont une croissance et une survie plus grandes que les groupes nés dans les années de mauvaises conditions de crue.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+6. METHODES DE PECHE
+
+Toute une gamme de méthodes de pêche sont utilisées dans les plaines inondables et les cours d'eau africains (Stauch, 1966; FAO, 1969, Welcomme, 1970; Centre technique forestier tropical, 1972; Ratcliffe, 1972). La plupart, cependant, sont d'usage commun à tout le continent. Dans ce chapitre, on se propose d'examiner les procédés qui utilisent une particularité morphologique du système fleuve/plaine inondable, ou bien les modalités de comportement des poissons. D'une manière générale, on peut les classer en deux catégories: (i) les procédés visant à enclore le poisson dans un espace limité au moment des basses eaux; (ii) ceux qui exploitent les migrations du poisson pour le capturer.
+
+6.1 Pêches saisonnières
+
+En saison sèche: C'est une période de pêche intense, car le poisson se trouve alors seulement dans les lagunes permanentes, les marais et le lit des cours d'eau. Les "battues" collectives des villages sont très répandues dans les mares de la plaine, qui ont été décrites pour beaucoup de régions du continent. L'empoisonnement des mares est aussi bien connu: ces endroits sont habituellement vidés complètement de leur poissons à une certaine période de la saison. Quant à la pêche dans le lit principal du fleuve, elle se pratique avec toutes sortes de filets, de nasses et de palangres. Le rendement de la pêche en saison sèche est inversement proportionnel au volume d'eau demeurant dans le système: en période de forte décrue, le poisson est plus concentré et d'autant plus facile à capturer. De la sorte, la mortalité du poisson, qu'elle soit naturelle ou le fait de la pêche, augmente proportionnellement à HI 2.
+
+En période de crue ascendante: Au début, la pêche est intensive et s'efforce surtout de capturer le poisson migrant dans le lit du fleuve. Au fur et à mesure que le flot monte, la pêche devient techniquement plus difficile en raison des courants violents et de la dispersion du poisson sur une vaste superficie de la plaine inondée: aussi le rendement est-il médiocre et, presque partout en Afrique, la pêche connaît-elle alors un minimum d'activité. Son efficacité dépend essentiellement de l'intensité des premiers stades de la crue. Si celle-ci est rapide et forte, le poisson se disperse plus vite et les courants empêchent le bon fonctionnement de certains types d'engins de pêche. Les captures ont donc tendance à avoir une corrélation négative avec HI 1 (Muncy, 1973).
+
+En période de crue descendante: Au fur et à mesure que le plan d'eau se rétrécit, le poisson se concentre davantage dans les dépressions de la plaine inondable et dans les principaux marigots d'écoulement des eaux. La pêche est à cette époque de nouveau très active pour capturer le poisson migrant, particulièrement les juvéniles, et les villages s'efforcent de le retenir dans la plaine au moyen de barrages et dans des étangs.
+
+6.2 Pêche par barrage des eaux
+
+La pêche par barrage des marigots a été décrite pour la Gambie (Svensson, 1933; Johnels, 1954), où l'on bloque les exutoires des marais par des barrages de terre. L'eau est alors contrainte de s'évacuer par un trou percé dans le barrage, muni d'une nasse pour capturer les poissons au passage. Ces clayonnages empêchent l'eau de s'évacuer à vitesse normale, ce qui prolonge l'opération. Reed (FAO, 1969) décrit une méthode expérimentale analogue utilisée dans la plaine inondable du Niger, où les marigots-déversoirs des marais sont bloqués par des barrages de terre, qui retiennent ainsi l'eau plus longtemps que d'habitude (Fig. 9). Les barrages sont laissés en place pendant plusieurs semaines ce qui donne au poisson le temps de grandir. A la saison sèche, on pratique une brèche dans le barrage, pourvue d'une nasse. Avec cette méthode, on est arrivé à doubler le rendement normal des marais.
+
+Figure 9
+
+Figure 9. Calque sur photos aériennes des barrages de retenue dans la plaine inondable du Niger, montrant le plan d'eau d'origine et la superficie inondée après fermeture
+
+La Figure 10 montre les différences de niveau de l'eau sur 12 mois, dans une lagune de la plaine inondable du fleuve Sénégal, en utilisant le même système de barrages.
+
+On pratique couramment la pêche dans les lagunes et étangs permanents de la plaine inondée, où, dans le delta de l'Ouémé, le nombre de ces accidents naturels du terrain a été considérablement multiplié par des sortes de fossés, ou trous à poisson nommés "Houédo" (ou "whedo"), creusés à une profondeur d'environ un mètre et qui sillonnent d'un véritable réseau toute la plaine (Welcomme, 1971). En moyenne, ces tranchées couvrent environ trois pour cent de la surface découverte de la plaine, atteignant en quelques endroits une concentration très dense (Fig. 11). Après avoir faucardé la végétation superficielle, on pêche à l'aide de claies que l'on fait progresser de manière à enfermer le poisson dans un espace réduit, d'où on le retire. On trouvera dans le chapitre 7 des commentaires sur le rendement de cette pêche.
+
+6.3 Pêche du poisson migrant
+
+Les modes de capture du poisson qui émigre dans les marigots drainant la plaine inondée ont déjà été décrits pour plusieurs régions d'Afrique. La pêche se fait principalement au moyen de barrières ou de claies qui ont été signalées par Whitehead (1958), dont deux types sont suffisamment represéntatifs: (i) le système de pêche "maalelo" de la plaine inondée du Barotsé, qui consiste en barrages de terre et d'herbe, longs et bas, où l'on dispose des nasses coniques à goulet, a été décrit par la FAO (1968), la FAO/ONU (1969, 1970a) et Bell-Cross (1971). Ce système pêche surtout les juvéniles au moment de leur migration vers le fleuve; (ii) les pièges installés en travers de l'El Beid sont décrits par Durand (1970). Lá, ce sont des barrages faits de branches et de troncs d'arbre entrelacés qui bloquent complètement le lit principal du fleuve, déviant le courant vers la plaine bordurière peu profonde où l'on a édifié des enclos en forme de V. Les claies sont munies d'une sorte de
+haveneau qui ferme l'espace entre les enclos: la densité des claies est telle qu'elle barre presque complètement le passage des migrations, de la plaine inondée des Yaérés au lac Tchad. Les poissons capturés sont en majorité des juvéniles d'une an.
+
+Figure 10
+
+Figure 10. Modifications de la profondeur et de la superficie d'une mare de plaine inondée, avant et après édification de barrage en travers du lit principal d'accès. Les lettres entourées de cercles se réfèrent aux illustrations de la Figure 7 (d'après Reitzer, 1974)
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+7. CAPTURE ET PRODUCTIVITE
+
+7.1 Productivité
+
+Kapetsky (1974) calcule la productivité de cinq espèces de poissons du Kafué en utilisant un modèle de plaine inondable pour la mortalité et la croissance, comme il a été expliqué dans la section 5.6. Le total pour les poissons de deux ans d'âge et au dessus varie de 56 à 76 kg/ha/an pour S. andersoni et S. macrochir, deux espèces herbivores d'assez grande longévité, et de 12 à 6 kg/ha/an pour Hepsetus odoe et Serranochromis augusticeps, deux prédateurs de vie brève. Un très grand pourcentage de la production (85 à 99 pourcent) des poissons au dessus de deux ans est âgé de trois ans. En règle générale, une partie importante de la production est composée d'individus d'un et deux ans. C'est pourquoi, la production des cinq espèces étudiées par Kapetsky est, si l'on considère la durée totale de leur vie, probablement de beaucoup supérieure aux 199 kg/an estimés pour les poissons de deux ans et au dessus.
+
+Figure 11
+
+Figure 11
+
+Figure 11. Partie de la plaine inondée de l'Ouémé, montrant la répartition des trous à poisson "whedo" (ou "Houédo").
+A. Photographie aérienne (I.G.N. Paris)
+B. Interprétation: les segments noirs sont les trous à poisson déjà pêchés. Les lignes parallèlles blanches indiquent que la végétation recouvre des "Houédo" non encore pêchés.
+
+7.2 Ichtyomasse
+
+Les estimations des stocks disponibles ont été effectuées en nombre limité, en empoisonnant ou en pêchant à fond plusieurs sections de cours d'eau et de plaines inondées.
+
+Dans le lit principal du cours d'eau: On a supposé qu'à l'époque des hautes eaux, l'ichtyomasse moyenne dans une section du lit principal du Kafué est la même que dans la lagune d'eau libre de la plaine inondée (Université du Michigan, 1971), soit 337 kg/ha. Pendant les basses eaux, Kapetsky (1974) a trouvé 106, 386 et 576 kg/ha pour trois biefs du Kafué et, pour la totalité du cours d'eau, une valeur moyenne de 348 kg/ha, avec un écart de ± 59,5 kg.
+
+Au début de la saison sèche, Daget et al. (1973) ont trouvé dans trois biefs de la Bandama des estimations de 341, 227 et 141 individus à l'hectare. L'ichtyomasse équivalente pour une partie du fleuve en janvier était de 125 kg/ha et, en mai, de 50, 177 et 305 kg.
+
+Loubens (1969) a estimé entre 370 et 5 620 kg/ha (moyenne 2 435) les stocks disponibles à différentes époques d'échantillonnage dans le même bras mort du Chari. Dans d'autres biefs du fleuve, il a obtenu des chiffres de 870 et 2 170 kg/ha. Ces estimations sont relativement élevées comparées à celles de l'ichtyomasse dans la Bandama et le Kafué, tandis que celles des bras morts sont du même ordre que les chiffres trouvés pour les lagunes du systéme du Kafué.
+
+Dans les lagunes et la plaine inondée: L'Université du Michigan (1971) signale, en période de crue, une ichtyomasse de 2 682 kg/ha dans la partie de la lagune plantée de végétation aquatique, de 337 kg/ha en eau libre et de 64 kg/ha dans le marais herbeux.
+
+En saison sèche, au moment de l'étiage et alors que les lagunes sont coupées du lit principal, les estimations dans deux lagunes différentes ont été de 3 306 et 2 693 kg/ha. Au bout de trois mois, ces chiffres sont tombés à 684 et 501 kg/ha respectivement. Dans la lagune, Kapetsky (1971) a trouvé les plus grosses concentrations de poissons (879 ± 122,8 kg/ha) dans les zones à végétation aquatique et les plus basses (575 ± 122,8 kg/ha) dans les eaux libres.
+
+Holden (1963) a trouvé que les stocks disponibles dans les mares de la plaine inondée de la rivière Sokoto varient beaucoup selon la nature du fond. Les fonds intermédiaires (de sable et boue mélangés) donnaient 1 029 ± 536 kg/ha; les fonds sableux 475 ± 148 kg/ha et les fonds de boue 144 ± 83 kg/ha. Pour tous les types de fond, l'ichtyomasse moyenne était de 415 kg/ha, ce qui, réparti sur toute la superficie de la plaine inondée (où les mares ne comptent que pour 3 pour cent), donne de 12 à 17 kg/ha. On a également trouvé (Centre technique forestier tropical, 1972a) que l'ichtyomasse dans le fleuve Sénégal était influencée par la forme des mares. Ici, les mares du type allongé donnaient des rendements élevés (275-200 kg/ha), tandis que ceux des mares circulaires étaient trés réduits, de 1,50 à 20 kg/ha. Dans cette zone, le rendement moyen était médiocre (37,5 kg/ha) et, sur les 6 000 hectares de mares de la plaine inondée, le tonnage total a été estimé à 200 tonnes.
+
+Loubens (1969) a estimé à 700 kg/ha l'ichtyomasse dans une mare d'eau libre de la plaine inondée des Yaérés.
+
+C'est dans les "houédo" artificiels du delta de l'Ouémé que l'on a le mieux étudié les mares de plaine inondée. Nous présentons ci-dessous les observations faites par plusieurs chercheurs et résumées par la FAO (Tableau VII - Fig. 12), que l'on pourra comparer avec les résultats d'autres régions. L'ichtyomasse est en général élevée, bien que du même ordre que celle qui a été trouvée dans les mares de la Sokoto et dans quelques lagunes du Kafué.
+
+TABLEAU VII
+
+Ichtyomasse dans quelques mares "houédo" de la plaine inondée de l'Ouémé (Dahomey)
+
+Année Nombre d'échantillons Rendement (kg/ha)
+1955 17 2 060 ± 1 140
+1956 14 2 140 ± 1 390
+1958 3 2 130
+1968 2 1 590
+1970 32 1 570 ± 410
+
+L'ichtyomasse totale des mares de la plaine inondée, dans le système de l'Ouémé, est estimée entre 2 255 et 1 719 tonnes pour les 1 095 hectares de "houédo".
+
+Figure 12
+
+Figure 12. Dispersion de la relation entre la superficie et le rendement des mares "houédo" de la plaine inondée de delta de l'Ouémé
+
+Comme Holden l'a mentionné (1963), le rendement élevé de la pêche dans la plaine inondée et les mares, et particulièrement dans les "houédo", est le résultat de l'espèce d'"éclusage" artificiel qui y concentre la faune ichtyologique de l'ensemble de la zone inondée. Rapportée à la superficie totale de celle-ci, l'ichtyomasse se situe entre 61,8 et 47,1 kg/ha.
+
+Dans l'ensemble du système: D'après ce qui précède, il semble raisonnable d'attendre un stock disponible d'environ 300 à 500 kg/ha dans la composante fluviale du système et de plus de 1 000 kg/ha dans les lagunes et mares de la plaine inondée.
+
+Dans le Tableau VIII, on a conjugué les estimations de l'Université du Michigan (1971) pour obtenir la somme de l'ichtyomasse du système du Kafué en saison sèche et en saison des pluies.
+
+TABLEAU VIII
+
+Estimations de l'ichtyomasse dans le système des Kafué Flats en saisons de hautes et basses eaux
+(d'après l'Université du Michigan - 1971)
+
+1970 Ichtyomasse (tonnes)
+Lagune Plaine inondée Fleuve Total
+Hautes eaux
+Juin-Juillet 85 374 8 704 1 786 95 864
+Basses eaux
+Septembre-Octobre 56 426 - 979 57 405
+
+7.3 Captures
+
+La relation théorique qui donne la capture par longueur kilométrique
+
+km[1] = 0,0064 (distance kilométrique de la source)^0,954
+
+a été calculée par Welcomme (sous presse). Elle indique que les captures par kilomètre de fleuve augmentent avec la distance depuis la source. Cette augmentation est probablement due surtout à l'accroissement de la superficie de la plaine inondable, qui fait partie de l'évolution normale du lit du fleuve lorsqu'on se rapproche de l'embouchure. Que ces captures, en n'importe quel bief du cours d'eau, dépendent de la superficie de la plaine inondable de ce bief, on le voit sur la Fig. 13, où l'on a reporté en abscisses les surfaces inondables et en ordonnées les captures annuelles par kilomètre de bief, sur le Niger et la Bénoué. La relation: Capture = 2,65 (Surface de la plaine inondable) - 0,98 correspond bien aux données (r = 0,91; S[y·x] = 2,5).
+
+Figure 13
+
+Figure 13. Captures par kilomètre de bief de fleuve, en fonction de la superficie de la plaine inondable (en km^2 du bief)
+
+Sur le Tableau IX figurent les captures enregistrées sur 12 plaines inondées.
+
+TABLEAU IX
+
+Pêche commerciale dans 12 plaines inondables africaines
+
+Nom de la plaine inondable Superficie à le pointe de la crue (ha) Captures (t) Rendement (kg/ha) Années
+Barotsé 512 000 2 395 4,68 1967
+Kafué Flats 434 000 5 984 13,79 1961-1972
+Shiré (Total) 140 000 8 972 64,08 1969-1973
+Niger (Delta central) 2 000 000 134 000 67,00 1971
+Massili 1 500 475 31,00 1972
+Okavango 1 600 000 800 0,50 est.générale
+Ouémé 100 000 6 484 64,84 1969-1970
+Sénégal 600 000 36 000 60,00 1972
+Niger (Niger) 90 704 4 700 51,82 1970
+
+(Dahomey)
+
+27 440 1 200 43,73 1970
+
+(Nigeria)
+
+480 000 14 350 29,90 1969
+Bénoué 310 000 9 570 30,87 1969
+Yaérés 700 000 17 500 25,00 1955
+
+Les captures moyennes sur toutes les plaines inondées ont été de 37,48 ± 23,06 kg/ha/an. On a néanmoins des raisons de penser que les plaines inondées des Yaérés, de la Barotse et de l'Okavango sont extrêmement sous-pêchées. De même, Motwani (FAO/ONU, 1970) mentionne que les niveaux actuels de rendement sont modérés par rapport aux possibilités existantes, en Nigeria, dans le Niger et la Bénoué. Quant aux autres plaines inondées mentionnées dans le Tableau, toutes semblent faire l'objet d'une pêche très poussée. Si l'on ne tient compte que de celles-ci, l'estimation moyenne des captures est de 49,53 kg/ha/an, avec un écart de ± 18,98. Il semble donc raisonnable de s'attendre à des pêches de cet ordre dans presque toutes les zones de plaine inondée (c'est-à-dire une pêche potentielle de 834 000 tonnes pour les plaines inondées énumérées sur le Tableau I).
+
+7.4 Fluctuations des captures d'une année à l'autre
+
+On dispose de trois séries de données qui permettent d'évaluer l'effet des variations du régime hydrologique sur la pêche. Il n'entre dans aucune de ces séries une mesure fiable de l'effort de pêche, lequel peut lui-même être sujet à des variations d'une année ou même d'une saison à l'autre. Des corrélations excellentes entre les indicateurs hydrologiques et les captures peuvent être obtenues, en dépit des réserves formulées par Williams et Muncy (sous presse) sur la valeur de cette méthode.
+
+Les niveaux du fleuve et les captures ont été enregistrés dans les pêcheries du Kafué depuis 1954. Mais, on estime que la pêche n'a pas atteint son expansion maximale avant 1958 (Muncy, sous presse) et le régime des crues s'est modifié depuis la construction d'un barrage d'aval en 1972. En conséquence, les calculs ont été en grande partie basés sur les années 1958 à 1971, bien qu'ils aient été effectués sur une plus longue période mais d'une façon moins décisive. L'Université du Michigan et al. (1971) ont trouvé une corrélation (r = 0,77) pour les captures en fonction du volume d'eau retenu dans le système représenté par un facteur de décrue (DDF) de la saison précédente, selon la relation suivante: Y'[n] = - 6 630 + 1 830 log[e] DDF[N-1]. L'Université de l'Idaho (1971) a trouvé des corrélations du même ordre en utilisant l'indicateur de crue (FI) pour représenter l'intensité de l'inondation. Celles-ci étant T = 0,72 pour l'année précédente et 0,71 deux années auparavant.
+Muncy (1973, sous presse) présente une analyse complète de ces facteurs. En résumé, il a trouvé une corrélation négative très faible (r = - 0,171) entre le volume d'eau (calculé d'après les niveaux de septembre à décembre) et les captures de la même année. On attribue ce résultat à une efficacité moindre de la pêche pendant les mois de crue intense. De bonnes corrélations positives existaient entre les captures et l'intensité des crues des années précédentes (y-1 et y-2).
+
+On dispose aussi de séries de données pour le niveau d'eau et les captures dans le Shiré (1969-1973) et le Delta central du Niger (1966-1974)^1 qui n'avaient pas été analysées auparavant. L'analyse ci-dessous des données sur les trois systèmes utilise le HI 1 de Kapetsky (voir 4.1) pour calculer l'effet du régime de crue dans chacun d'eux.
+
+^1 D'après les débarquements de poissons à Mopti seulement
+
+Du Tableau IX, il ressort des corrélations très significatives entre les captures et le régime de crue des années précédentes (y-1) pour les trois systèmes. Dans certains cas, on obtient de meilleures corrélations en se servant des échelles semi-logarithmiques ou entièrement logarithmiques, quoique l'amélioration ne soit pas considérable: aussi, a-t-on dans toutes les autres analyses employé seulement les relations linéaires. Les corrélations avec l'indicateur hydrologique HI de la même année ne sont pas significatives dans deux systèmes et le sont moins, pour le Niger, que HI[y-1] et HI[y-2]. Le régime de crue de y-2 est significatif seulement pour le Niger.
+
+TABLEAU X
+
+Coefficients de corrélation pour les régression linéaires, semilogarithmiques et logarithmiques en fonction de HI 1 la même année (y), d'avant (y-1) et deux ans auparavent (y-2), dans trois systèmes africains de plaines inondables
+
+Système Année de
+HI r
+Linéaire Semi-log Logarithmique
+Shiré y 0,07 0,31 *
+y-1 0,90 (99%) 0,76 (95%) 0,19
+y-2 0,07 0,11 0,06
+Miger
+(Mopti) y 0,74 (98%) 0,83 (99%) 0,81 (99%)
+y-1 0,90 (99,9%) 0,94 (99,9%) 0,91 (99,9%)
+y-2 0,86 (99,9%) 0,90 (99,9%) 0,13
+Kafué
+(Namwala) y 0,26 * *
+y-1 0,70 (99%) 0,68 (99%) 0,12
+y-2 0,48 0,44
+
+( ) Rapport
+* Pas calculé
+
+Du point de vue biologique, et d'après les données statistiques du Tableau X, on pour-rait s'attendre que le régime de crue des deux années précédentes (y-1 + y-2) ait une incidence sur les captures de l'année y. Il n'y a pas d'autocorrélation significative entre les captures et le FI d'une année quelconque et des années précédentes. Aussi a-t-on procédé à une série de régressions en pondérant les indicateurs hydrologiques d'après la formule (aHI[y-1] + [1 - a] HI[y-2]).
+
+Sur le Tableau XI figurent les coefficients de corrélation correspondants et les erreurs-types d'estimation.
+
+TABLEAU XI
+
+Coefficients de corrélation et erreurs-types d'estimation pour diverses pondérations de HI[y-1] et HI[y-2] appliquées à trois systèmes africains de plaines inondables
+
+Rapport
+HI[y-1] + HI[y-2] Système
+Shiré Niger Kafué
+r S[y·x] r S[y·x] r S[y·x]
+1 - 0,9018 1 206 0,8983 5 514 0,7002 1 453
+0,9 0,1 0,9076 1 171 0,9210 4 839 0,7274 1 397
+0,8 0,2 0,9010 1 210 0,9393 4 307 0,7445 1 359
+0,7 0,3 0,8600 1 370 0,9535 3 732 0,7529 1 340
+0,6 0,4 0,8124 1 627 0,9610 3 473 0,7485 1 350
+0,5 0,5 0,9615 3 450 0,7290 1 394
+0,4 0,6 0,9547 3 735 0,6945 1 465
+0,3 0,7 0,9405 4 264 
+
+L'augmentation du coefficient de corrélation et la diminution de l'erreur-type de l'estimation, dans les trois cas, indiquent que les variations de captures pour l'année y s'expliquent mieux par l'incidence des crues conjuguées des deux années précédentes que par l'effet de chacune prise individuellement.
+
+Les meilleures corrélations linéaires, portées sur la Fig. 14, sont les suivantes:
+
+Kafué: C[y] = 2 962 + 70,5442 (0,7 HI[y-1] + 0,3 HI[y-2]),
+
+correspondant à 57 pour cent de la variation des captures.
+
+Shiré: C[y] = 5 857 + 38,1135 (0,9 HI[y-1] + 0,1 HI[y-2]),
+
+correspondant à 82 pour cent de la variation des captures.
+
+Niger: C[y] = 3 239 + 32,1039 (0,5 HI[y-1] + 0,5 HI[y-2]),
+
+correspondant à 92 pour cent de la variation des captures.
+
+Figure 14A
+
+Figure 14B
+
+Figure 14c
+
+Figure 14. Meilleures corrélations entre les captures et le régime des crues pour:
+A. La pêche C[y] dans les Kafué Flats = 2962+70,5442(0,7HI[y-1]+0,3HI[y-2])
+B. La pêche V[y] dans le Shiré = 5857+38,1135 (0,9HI[y-1]+0,1HI[y-2])
+C. La pêche C[y] dans le Delta central du Niger =
+3239+32,1039(0,5HI[y-1]+0,5HI[y-2])
+
+Quoiqu'encore relativement imprécis, les résultats précédents indiquent cependant clairement qu'il existe une relation entre le régime hydrologique et les captures, même si pour définir plus exactement ces relations, de nouvelles données devront être calculées sur d'autres systèmes et pour des périodes de temps plus longues. Il est surtout intéressant ici de déterminer si le facteur responsable des fluctuations est bien l'intensité de la crue ou celle de la décrue (ou bien un complexe des deux). L'analogie de la corrélation obtenue dans le Kafué n'a pas de quoi surprendre, car l'intensité de la crue (HI 1) est inversement liée à la sévérité de la décrue (HI 2) (r =-0,78). La corrélation entre ces deux facteurs dans le Shiré est bien inférieure (r =-0,45), ce qui peut rendre compte de la diminution de la corrélation de capture avec HI 2 (log capture y = 4,3 + 0,21 log HI 2[y-1]: r = -0,54 ou capture y = 100,37 - 4,47 HI 2[y-1]: r = -0,43). Un autre facteur d'influence peut
+être l'étendue d'eau restant dans le système, par rapport à celle existant à la pointe de la crue. Dans le Kafué, la proportion est d'environ 34 pour cent, contre 68 pour cent dans les marécages de l'Eléphant et de Ndinde. On peut supposer que, plus la décrue est sévère, ce qui se traduit par un moindre pourcentage du volume d'eau dans le système pendant la saison sèche, plus ce facteur influe sur les fluctuations de la pêche.
+
+On s'est efforcé à diverses reprises de prévoir les captures futures, à partir des renseignements existants sur le régime des crues, en utilisant des formules de régression semblables à celles décrites précédemment. Pour vérifier la méthode, on a procédé à une série d'analyses sur chaque série de données, en calculant les régressions successives et en les utilisant pour prévoir les captures de l'année suivante. On estime que, si l'on peut valablement prévoir les captures dans l'année à venir y + 1 à partir des données de la crue actuelle (HI[y] et HI[y-1]), les prévisions seront d'autant plus précises que l'on aura ajouté un plus grand nombre de données à la régression. D'autre part, pour que ces estimations servent vraiment leur propos (que ce soit en vue de réglementer le nombre de pêcheurs, de prévoir les livraisons de poissons aux marchés, etc.), leur erreur devra ne pas excéder 10 pour cent, en plus ou en moins, des captures réelles. En fait, les résultats qui figurent
+au Tableau XII indiquent que l'addition de données supplémentaires n'améliore pas les estimations et que celles-ci ont une approximation qui dépasse rarement 25 pour cent. En outre, l'augmentation de la série de données provoque une légère tendance à surestimer les captures. D'où l'on peut conclure que, dans l'état actuel de nos connaissances, et à partir des analyses de régression des résultats antérieurs, il n'est pas possible de prévoir les captures futures dans les bassins fluviaux avec le degré de précision voulu. Les prévisions peuvent toutefois être suffisamment approchées pour évaluer les effets des barrages, des projets d'irrigation, etc., où l'on peut se contenter d'une approximation à 30 pour cent près.
+
+7.5 Résumé
+
+Comme on peut s'y attendre d'après la biologie du poisson (Chapitre 5), les modes de productivité et de rendement des pêches dans une plaine inondable varient considérablement à la fois dans l'année et entre plusieurs années consécutives. La faune ichtyologique se multiplie pendant la saison des crues et atteint son maximum à leur pointe. Les populations déclinent ensuite à la fois en nombre et en poids, pendant la saison sèche, pour atteindre leur minimum juste avant la crue suivante. Les variations dans les captures (et probablement dans les populations) peuvent être liées aux différences d'intensité des crues dans les années antérieures: celle qui a le plus d'influence étant la crue de l'année précédente. De même, le degré de décrue, qui affecte le volume d'eau restant dans le système, semble avoir un effet. Ainsi, les années de pêche optimale suivent une ou plusieurs années de bonnes crues, alors que le volume d'eau demeurant dans le système pendant la saison sèche est
+relativement abondant.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+8. MODELES DE PECHERIES DANS LES PLAINES INONDABLES
+
+La Fig. 15 résume les modifications auxquelles est soumise une plaine inondable pendant un cycle complet.
+
+L'Université du Michigan (Fig. 16) a établi l'interdépendance entre les facteurs qui affectent seulement la phase aquatique du cycle. Ce schéma est particulièrement intéressant parce qu'il indique où devront se situer les lignes futures de la recherche. Pour bien connaître la situation écologique d'une plaine inondable, il sera nécessaire d'évaluer quantitativement un grand nombre des interactions indiquées.
+
+8.1 Modèle simple, pour calculs à l'ordinateur, d'une plaine inondable et de ses populations ichtyologiques
+
+Comme il y a actuellement peu de recherches en cours sur les pêcheries dans les plaines tropicales inondables, on a construit un modèle simple de celles-ci et de leur population ichtyologique. Son but est double: d'abord, pouvoir donner des réponses qualitatives aux questions sur le comportement probable des poissons d'une plaine inondable, selon différents régimes de crue et d'exploitation; ensuite, déterminer les zones dont l'étude sera nécessaire pour mieux comprendre l'écologie halieutique de ces systèmes.
+
+Le modèle a été construit d'après ce que l'on connaît des populations de poissons habitant les plaines inondables, tel que résumé dans ce document. Chaque fois que c'était possible, on s'est servi de valeurs réelles pour la mortalité, la croissance, la densité des populations, etc., mais, inévitablement, il a fallu parfois recourir à des hypothèses. Le modèle est programmé de telle sorte que tous les paramètres peuvent être modifiés selon la convenance.
+
+Détermination de l'ensemble aquatique: Celui-ci se compose de deux éléments, le système d'étiage et la plaine inondée elle-même. Le système d'étiage comporte deux phases, dont la première, de profondeur 0 à 0,69 m, est définie par la formule: Superficie (ha) = 28 571 x niveau de l'eau (m), qui représente un lit de rivière en V, dont l'étendue d'eau (et le volume) sont d'autant plus réduits que le niveau s'abaisse davantage. La seconde phase, dont la profondeur va de 0,70 m à 1 m, a une superficie constante de 20 000 ha, mais un volume différent selon le niveau.
+
+Au niveau d'eau de 1 m correspond le lit du cours d'eau à plein bord.
+
+A partir de 1 m et au dessus, la plaine inondée est définie par la formule: Superficie (ha) = 20 000 + 167 672 log[e] niveau d'eau (m).
+
+Les niveaux d'eau, qui sont déterminés 52 fois à intervalles hebdomadaires, permettent de décrire un certain nombre de régimes d'inondation, y compris différents rapports entre l'inondation et l'eau résiduelle. Les régimes de crue sont déterminés de façon que le niveau ascendant atteigne 1 m la première semaine.
+
+On calcule un indicateur F à partir de la somme des valeurs hebdomadaires, depuis la semaine 1 jusqu'au niveau maximum.
+
+Le volume de l'eau dans le système est déduit, pour chaque semaine x, de la formule [x]V = [x]A ([x]WL) × 104, où V est le volume de l'eau, A la superficie, WL le niveau de l'eau.
+
+Figure 15
+
+Figure 15. Résumé des phases principales d'une plaine inondable au cours du cycle annuel
+
+Figure 16
+
+Figure 16. Interdépendance de certains facteurs qui affectent la production ichtyologique dans les plaines inondables (d'après l'Université du Michigan, 1971)
+
+TABLEAU XII
+
+Analyse de la précision des prévisions des captures futures à partir des équations de régression dérivées de l'historique des pêcheries
+
+Année HI Estimation de la capture (C[est)] Capture réelle
+(C) Régression Précision de la prévision
+[C[est/C] × 100]
+a b r S[y-x]
+KAFUE 1959 49,1 5 401
+1960 28,6 2 983 -390 117,9 1,0 - -
+1961 22,7 2 287 4 781 2 781 48,0 0,53 1 506 48
+1962 41,1 4 755 4 650 2 804 46,6 0,54 1 066 102
+1963 69,4 6 040 8 554 1 175 97,2 0,88 1 136 71
+1964 83,6 9 298 9 706 997 102,2 0,94 992 96
+1965 57,7 6 892 8 036 1 011 105,1 0,93 1 003 86
+1966 35,2 4 712 7 396 1 911 93,5 0,84 1 349 64
+1967 23,7 4 127 3 514 1 672 97,2 0,87 1 265 117
+1968 25,3 4 132 5 928 2 214 88,9 0,83 1 315 70
+1969 21,0 4 081 5 957 2 747 80,2 0,79 1 362 69
+1970 64,1 7 888 6 747 2 861 75,4 0,78 1 333 117
+1971 61,5 7 497 5 988 125
+SHIRE 1969 53,5 6 944
+1970 25,9 8 267 9 508 -47,9 -1,0
+1971 104,0 4 523 9 039 7 241 13,8 0,51 1 284 50
+1972 171,5 9 603 13 062 6 036 37,1 0,9 1 404 74
+1973 53,8 8 032 7 551 106
+NIGER 1966 1 407 47 467
+1967 1 211 41 985 8 114 28,0 1,0
+1968 1 322 45 040 44 625 8 233 27,8 1,0 378 101
+1969 1 291 44 072 45 173 9 732 26,8 ,97 719 98
+1970 1 248 43 210 46 015 17 998 20,9 ,76 1 476 94
+1971 1 128 41 550 36 338 -2 949 36,7 ,88 2 099 114
+1972 706 22 972 32 356 15 694 22,2 ,92 2 409 71
+1973 562 28 152 21 172 8 339 28,0 ,96 2 872 133
+1974 500 22 372 14 816 151
+
+Voici quelques échantillons de superficie et de volume à différents niveaux d'eau:
+
+Niveau
+(m) Superficie
+(ha) Volume
+(m^3)
+0,25 7 143 1,79 × 10^7
+0,50 14 286 7,14 × 10^7
+0,75 20 000 1,50 × 10^8
+1,00 20 000 2,00 × 10^8
+1,5 87 985 1,32 × 10^9
+2,0 136 221 2,72 × 10^9
+2,5 173 636 4,34 × 10^9
+3,0 204 207 6,13 × 10^9
+
+La population ichtyologique: Elle consiste en un stock d'une seule espèce, d'une durée de vie de cinq ans. Le stock peut aussi représenter un groupe d'espèces ayant les mêmes caractéristiques de recrutement, croissance et mortalité. Le nombre, la longueur et le poids des poissons dans chaque classe d'âge sont déterminés comme suit par le recrutement, la croissance et la mortalité.
+
+Recrutement: Le nombre total de recrues venant s'ajouter au stock est déterminé par le nombre (n) de poissons des groupes d'âge II, III, IV et V à la semaine 52 de l'année précédente. Les recrues entrent dans le stock avec une longueur de 2 cm; les chiffres du recrutement comprennent les mortalités survenues depuis l'éclosion jusqu'à cette taille et ne sont donc pas équivalents aux chiffres connus de la fécondité.
+
+On admet, pour chaque poisson, un nombre de base (r) de recrues, mais que l'on ajuste à l'intensité de la crue (F) au moyen d'un facteur a, tel que log[10] a = 0,58 log[10] F-0,79. Voici quelques valeurs d'échantillons de recrutement selon differents indicateurs de crue:
+
+Groupe d'âge F
+3 13 23 33 43
+II 3,07 7,18 10,00 12,32 14,37
+III 6,13 14,36 20,00 24,65 28,74
+IV 10,73 25,13 35,00 43,13 50,29
+V 18,40 43,08 60,00 73,94 86,21
+
+Les recrues s'insèrent dans le stock au fur et à mesure que le nouveau groupe d'âge I et tous les autres montent d'un échelon, les effectifs disparaissant au fur et à mesure avec le groupe d'âge V (vieillesse);
+
+Semaine I II III IV V
+52 
+0 
+
+Bien que cette opération de transfert soit effectuée à la semaine O, c'est-à-dire avant l'incidence de toute autre opération de l'année en cours, les recrues ([O]n[1]) s'insèrent en 9 semaines conformément aux pourcentages suivants: 50; 20; 10; 8; 5; 3; 2; 1; 1.
+
+Croissance: La croissance s'effectue selon la formule générale:
+
+Longueur l à la semaine x pour le group d'âge y [[x]l[y]] = K[y]log[e]Wk[x] + 52^ly-1,
+
+où K[y] est un coefficient de croissance caractéristique de chaque groupe d'âge, 52^ly-1 est la longueur finale du groupe d'âge précédent à la fin de l'année précédente. Pour les poissons du groupe d'âge I, 52^1y-1 = 2 cm. Le coefficient de croissance K est déduit d'un coefficient fondamental de croissance (g), caractéristique de chaque groupe d'âge: g (I) = 3,29; g (II) = 2,53; g(III) = 1,27; g (IV) = 0,76; g (V) = 0,51. Ce coefficient K est ajusté selon l'intensité de l'inondation F comformément à la formule suivante: K[y] = g[y] (0,01 F + 0,8). Les courbes de croissance des différents groupes d'âge pour chaque année, telles qu'on les obtient par ce moyen, approchent des conditions naturelles connues là où la croissance s'effectue, à raison de 75 pour cent, vers le milieu de la crue. La croissance générale d'une classe d'âge au cours des cinq années de vie approche la courbe classique de von Bertanlanffy. Voici quelques valeurs d'échantillons de longueurs finales pour
+chaque groupe d'âge:
+
+Indicateur de crue (F) Longueurs (en cm) pour les différents groupes d'âge
+I II III IV V
+3 11,84 20,14 24,31 26,80 28,47
+13 14,09 23,39 28,05 30,85 32,72
+23 15,39 25,69 30,85 33,95 36,02
+33 16,69 27,99 33,66 37,05 39,33
+43 17,99 30,29 36,46 40,15 42,63
+
+Les longueurs (l) sont converties en poids (grammes) par la formule générale: W[g] = 0,0251 l^3, qui donne les valeurs d'échantillons suivantes:
+
+10 cm = 25,10 g; 15 cm = 84,77 g; 20 cm = 200,95 g; 25 cm = 39,48 g;
+30 cm = 678,20 g; 35 cm = 1 076,97 g.
+
+Après calcul de la croissance hebdomadaire, on exprime l'ichtyomasse en poids de poisson par unité de volume (B), pour calculer les coefficients de mortalité.
+
+Mortalité: Le coefficient de mortalité Z s'obtient d'après un coefficient fondamental de mortalité z, caractéristique de chaque groupe d'âge, affecté d'un facteur b. Les coefficients hebdomadaires fondamentaux de mortalité sont: z (I) = 0,0453; z (II) = 0,0274; z (III) = 0,0136; z (IV) = 0,0100; z (V) = 0,0124. Quant à b, il se calcule d'après la formule log[e] b = 1,0238 log[e x]B - 3,7132, qui dépend de la densité ichtyologique dans le système à la semaine x. On peut faire varier cette expression de manière à simuler des systèmes ayant différentes productivités fondamentales. Dans ce modèle, b a pour valeur l'unité quand la densité ichtyologique est de 37,6 g/m^2, ce qui équivaut à un stock disponibile de 376 g/ha à une profondeur de 1 mètre.
+
+Une fois effectuées les opérations précédentes, on dispose de l'ichtyomasse hebdomadaire totale et de l'ichtyomasse par unité de surface pour les imprimer en mémoire avec le niveau d'eau et la longueur, le poids et le nombre de chaque groupe d'âge.
+
+La pêcherie: On peut estimer de plusieurs façons les effets de la pêche. Par suppression directe d'un certain pourcentage de l'ichtyomasse, ou bien en enlevant les effectifs de poissons de telle longueur ou d'un groupe d'âge pré-sélectionné, ou encore en vidant une zone déterminée de tous ses poissons. Ces modes de prélèvement peuvent être programmés pour chaque semaine et les différents types de pêche ou d'engins être simulés.
+
+La Figure 17 montre un exemple d'imprimante du modèle, avec les variations du niveau de l'eau et de l'ichthyomasse totale en fonction du temps. D'autres études sur les effets des modifications des régimes hydrologique et halieutique seront publiées ultérieurement, en même temps qu'une évaluation de modèle. Le modèle actuel a ses limites: par exemple, les indicateurs ne permettent pas encore de distinguer entre un type d'inondation brève et intense et une inondation prolongée, mais faible (dont les indices peuvent avoir l'une et l'autre la même valeur). Si bien qu'il est impossible d'évaluer les effets de la durée et de l'intensité de la crue, comme composantes de son régime. Mais, outre les valeurs absolues de la hauteur de la crue et de la retenue d'eau, la soudaineté de la modification peut aussi influencer certains facteurs. C'est ainsi qu'une lente montée des eaux au début de la crue serait, pense-t-on, plus favorable à la réussite de la reproduction (R) qu'une crue
+subite. De même, une décrue rapide, qui ne laisse pas aux poissons suffisamment de temps pour quitter la plaine inondée, serait cause d'une plus grande mortalité naturelle. Mais, malheureusement, les renseignements dont on dispose sont insuffisants pour pouvoir évaluer l'importance relative du taux de modification dans le système. Hastings, par exemple, considère (communic.pers.) le degré de rapidité de hausse et de baisse des eaux comme l'un des facteurs majeurs qui règlent l'abondance du poisson dans le système du Shiré. Cette vue est, à un certain point, partagée par Lelek et El Zarka (1973), qui attribuent la modification des espèces dans la faune ictyo-logique en aval du barrage de Kainji à l'incidence des variations brutales du niveau sur la reproduction.
+
+Figure 17
+
+Figure 17. Imprimante fournie par l'ordinateur, montrant le niveau d'eau et l'ichtyologique sur un cycle d'un an, des populations théoriques de poisson dans une plaine inondée
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+9. EXPLOITATION DES PLAINES INONDABLES
+
+9.1 Effets sur les pêcheries d'autres utilisations de la plaine
+
+A l'instar de bien d'autres systèmes d'eau douce, les plaines inondables remplissent toute une gamme de fonctions autres que d'habitat ichtyologique et, par conséquent, de pêche. En majorité, ces fonctions sont liées à la phase de sécheresse (voir chapitre 3) et n'ont pas d'incidence majeure sur la productivité des pêcheries dans la phase d'inondation. En réalité, certaines activités peuvent même être bénéfiques, comme l'élevage, par exemple, en raison du fumier déposé par les animaux.
+
+Les principales sources de conflits avec les pêcheries sont le fait des programmes d'aménagement, responsables de la modification du cycle hydrologique ou de la contamination du milieu.
+
+Barrages installés en amont de la plaine inondable: Aujourd'hui, ce sont les barrages élevés en amont des plaines inondables qui sont la cause principale des dommages que subissent leurs pêcheries. La plaine inondable de la Volta inférieure a complètement disparu à la suite de la construction du barrage d'Akosombo (Hall et Pople, 1968). Des surfaces considérables de plaines inondables sur le Niger ont été perdues au dessous du barrage de Kainji, où le régime des crues a été altéré en aval jusqu'au confluent de la Bénoué, les captures de poisson ayant diminué d'entre 39 et 75 pour cent par rapport aux prises antérieures (FAO, 1972). La fermeture du barrage J.F. Strijdom a provoqué l'assèchement total d'un grand nombre de mares de la plaine inondable de la Pongola (Phelines, Coke et Nicol, 1973), en débit du remplissage des mares par la décharge contrôlée des eaux de crue, malgré la reproduction induite des poissons pratiquée depuis 1969 et de nouveaux plans préparés pour
+maintenir les pêcheries par ces moyens.
+
+Outre la perte générale de production, des changements dans la composition de la faune ichtyologique se sont produits en aval du barrage de Kainji (Lelek et El Zarka, 1971 et 1973). On y a noté une diminution de l'habitat de marais et des poissons herbivores, en même temps qu'un accroissement des prédateurs. Cette disproportion ne saurait évidemment persister indéfiniment et se traduira finalement par une diminution de l'ensemble du stock.
+
+Les effets de deux projets de barrages au Sénégal et en Zambie ont également été evalués. Au Sénégal, la fermeture du cours supérieur du fleuve provoquerait la perte de 7 000 tonnes de poisson des plaines inondables, bien que les barrages pourraient offrir un gain de près de deux fois ce tonnage. La création du barrage d'Itezhi-Tezhi sur le Kafué pourrait avoir un effet bénéfique sur les stocks de poisson, grâce à la régularisation du niveau du fleuve qui améliorerait le régime des crues et prolongerait la durée de la retenue dans le barrage d'aval des gorges du Kafué (Muncy, 1973). A long terme, les barrages d'amont ont probablement un effet sur la productivité totale du système, en ralentissant ou en empêchant le dépôt de limon sur la plaine.
+
+Les barrages édifiés en amont de la plaine ne perturbent pas obligatoirement le régime hydrologique, mais ils peuvent avoir une action sur le mode normal de migration du poisson, en gênant leur dispersion sur tout le cours du fleuve. C'est ce qui s'est passé avec le barrage de Markala sur le Niger (Daget, 1960a), qui a interdit le passage de nombreuses espèces de poissons, depuis le Delta central jusqu'aux biefs en amont du barrage. De l'expérience limitée dont on dispose à ce jour, il semblerait que l'installation d'échelles à poisson pour contourner ces barrages soit impracticable en Afrique, vu le nombre de poissons en circulation dans le fleuve et les différences de comportement des espèces.
+
+Barrages édifiés en aval des plaines inondables: Ils aboutissent en général à supprimer la plaine inondable en la submergeant complètement. La transformation de la zone en lac permanent peut en général donner des rendements équivalents ou même supérieurs, mais ce sera au détriment des formes de production en saison sèche. Les barrages destinés à prolonger la retenue des eaux sur la plaine inondable amélioreront théoriquement les rendements, puisque la période d'inondation durera plus longtemps (Université de l'Idaho, 1971; Université du Michigan, 1971), bien que, pour le moment, on n'ait aucune certitude que ce soit le cas pour le barrage des gorges du Kafué (Muncy, 1973). En fait, Dudley (1974) estime que la prolongation de l'inondation peut provoquer une diminution de l'effort de pêche, en rendant le poisson moins facile à capturer avec des engins très efficaces comme les sennes de plage.
+
+Irrigation: L'effet des projets d'irrigation sur les pêcheries dans les plaines inondées est très mal connu: on peut seulement prévoir que l'abrègement du cycle de la crue, dû à un meilleur drainage, risquera de nuire à la population de poissons. Il est, d'autre part, certain que la canalisation des eaux réduira considérablement à la fois l'ichtyologique et la diversité des espèces (Congdon, 1973). En revanche, l'élargissement de la surface des plans d'eau en saison sèche, grâce aux canaux d'irrigation et aux bassins de retenue, pourrait améliorer la survie et la production du poisson au moment de l'étiage. Beaucoup des "houédo" de la plaine inondable de l'Ouémé étaient à l'origine des canaux de drainage.
+
+Pollution: On n'a pas de preuve, pour l'instant, que la pollution représente un problème sérieux pour l'Afrique, bien que l'on puisse concevoir que l'emploi des engrais et insecticides lié à l'agriculture, intensive risque de devenir une source de problèmes. Il est probable que des difficultés pourront survenir si les poissons migrants ne peuvent plus passer par les biefs pollués. Des éléments nutritifs en excès pourraient aussi être cause d'une prolifération excessive de la végétation de marais qui, en pourrissant et désoxygénant l'eau, provoquerait une grande mortalité dans les lagunes et mares des plaines inondées.
+
+9.2 Exploitation intégrée des systémes de plaines inondables
+
+La Figure 18 résume les modifications qui surviennent dans l'ensemble de la plaine inondable au cours d'un cycle annuel. On y voit figuré le cycle du flux éléments fertilisants/énergie dans le système. Il est notoire que, dans les plaines inondables stables, la teneur des dépôts alluvionnaires est égale aux pertes par érosion sur un certain nombre d'années (Léopold, Wolman et Miller, 1964). On peut supposer que, dans la nature à l'état sauvage, un équilibre dynamique analogue se produit en ce qui concerne les éléments nutritifs et la biomasse. Si un tel équilibre existe, la productivité de l'une des composantes peut alors être affectée par une mauvaise ou une excessive exploitation de l'une des autres composantes, ainsi que par d'autres interventions qui modifient les caractéristiques essentielles du système. Un exemple de cette interdépendance est mentionné par Kapetsky (1974) dans son étude sur la diminution, qu'il a mise en évidence, de la population ichtyologique dans
+les Kafué Flats, qui résulte elle-même de la réduction des effectifs des utilisateurs primaires de la végétation de la plaine inondable: à savoir les hippopotames et les Lechwe (antilopes cobs).
+
+En règle générale, les plaines inondables devraient être exploitées pour réaliser toutes les possibilités de récolte en saisons sèche et des pluies, dont la pêche n'est qu'une composante. Ainsi, les éléments A, B, C et D de la Fig. 18 devraient être utilisés de manière à maximiser leur somme. Cette opération en soi variera selon les objectifs du pays intéressé, car cette somme peut être appréciée de plusieurs manières: par exemple, la production en poids, le bénéfice financier, la valeur nutritionnelle ou bien l'utilisation de l'énergie. Chaque fois, l'équation changera selon la pondération des facteurs. Dans certains cas, la maximisation d'une composante particulière ne pourra être réalisée qu'au détriment d'une autre. Pour la production maximale de riz, il sera nécessaire d'employer des insecticides contre les cérambix foreurs de tige, des herbicides pour nettoyer les canaux d'irrigation, des digues pour protéger le riz contre les ravages des poissons rizophages. De même,
+la maximisation des cultures de saison sèche réclamera un drainage rapide de la plaine inondée pour augmenter la durée de la phase sèche. L'une et l'autre de ces opérations produiront une diminution qualitative et quantitative de la population de poissons, qui se traduira par une chute des captures. On estime fréquemment qu'un facteur de l'économie de la plaine inondable a une telle importance que l'on prescrit toutes autres utilisations de la plaine et que le milieu est irréversiblement modifié en sa faveur. Malheureusement, les facteurs qui ont justifié ces décisions sont susceptibles de se modifier en l'espace de peu de temps et renverser la valeur relative des composantes d'origine, sans qu'il y ait aucune possibilité de récupérer celles-ci.
+
+L'une des plaines inondables utilisées le plus à fond et à un niveau technologique relativement modeste est la vallée de l'Ouémé (Fig. 19), où, durant la saison sèche, les champs de maîs alternent avec des étangs artificiels à poisson dont les rives sont mises en culture maraîchère. Le bétail pâture les bourrelets de berge, où sont édifiés aussi les villages sur pilotis, qui groupent au total 70 000 habitants (soit une densité de 70 au km^2). Pendant l'inondation, l'activité s'est jusqu'ici limitée à la pêche, quoique la culture du riz par submersion se développe actuellement. Une utilisation aussi intensive repose sur une adaptation sociologique totale au milieu et ne saurait être recommandée ailleurs. L'exemple de cette vallée montre néanmoins comment plusieurs utilisations de la plaine inondable peuvent se développer harmonieusement.
+
+9.3 Exploitation de la pêche
+
+Dans les eaux sauvages: Comme on l'a expliqué en détail au chapitre 6, la pêche se concentre habituellement en trois moments du cycle annuel: toute politique d'exploitation rationnelle du stock ichtyologique dans les systèmes de plaines inondables doit donc chercher à les déterminer et les maîtriser. A l'heure actuelle, les renseignements précis ne sont guère nombreux sur l'effet des modes de pêche dans les plaines inondables, mais on a pu recueillir les observations suivantes:
+
+Figure 18
+
+Figure 18. Schéma des cycles d'éléments nutritifs et énergétiques dans la plaine inondable
+i. Migration au début de l'inondation: les pêcheries qui exploitent le poisson en migration avant qu'il se reproduise semblent être en général nuisibles au stock. Une pression supplémentaire s'exerce sur la population de poissons au moment où elle est le plus vulnérable, ce qui peut réduire sérieusement le nombre des reproducteurs. Deux au moins des pêcheries les plus importantes, celle de Labeo victorianus sur la Nzoia (Cadwalladr, 1965) et une autre de Labeo altivel dans la Luapula (Soulsby, 1959), ont disparu à cause d'une surexploitation à cette période de l'année. Il serait donc à recommander de décourager cette pratique dans les circonstances normales.
+ii. Migration en retour des juvéniles: les pêcheries qui visent à capturer le poisson migrant lorsqu'il quitte la plaine inondée sont très répandues et les opinions varient beaucoup sur les dommages que peut provoquer cette pratique. Il a été largement admis que la plupart des juvéniles qui retournent au fleuve sont destinés à mourir, en raison de la réduction de l'environnement dont ils disposeront à la saison sèche. Cela peut être vrai pour le Niger, comme pour la plaine inondée du Barotsé, où ni Reed (FAO, 1969) ni Bell-Cross (1971) ne considèrent cette pratique comme particulièrement nuisible.
+iii. Pêcheries de saison sèche dans les plans d'eau permanents: il est de pratique générale de vider complètement la plupart des mares de la plaine en saison sèche. Comme beaucoup d'entre elles se dessèchent vers la fin de cette saison et que les autres se désoxygènent, de toutes façons une grande partie de la population n'y pourrait survivre jusqu'à la crue suivante. Les mares sè réempoissonnent généralement par immigration en provenance du fleuve, et par "éclusage" pendant les crues: cette méthode de pêche ne semble donc pas être nuisible.
+
+La pêche intensive dans le lit principal du fleuve peut, toutefois, amener une diminution générale du stock de reproducteurs. Là où cette pratique est courante, un grand nombre des plus grosses espèces ont disparu de la population ichtyologique et on observe des signes manifestes de pêche excessive (par exemple, dans l'Ouémé et le fleuve Sénégal, lors de la récente sécheresse sahélienne). Pour éviter ces inconvénients, on devrait envisager de créer des zones protégées, soit dans le lit mineur du cours d'eau, soit dans les grands lacs ou lagunes permanents où l'on pourrait maintenir des stocks de reproducteurs. Un témoignage à l'appui de l'efficacité de telles "réserves" a été fourni par la réapparition rapide de gros poissons dans le Delta central du Niger après la fin de la sécheresse au Sahel. Pendant deux ans, il n'avait été pêché que des quantités de plus en plus réduites de poissons de petite taille, tandis que les lacs de grande surface qui étaient inaccessible
+n'avaient pratiquement pas été pêchés: il est possible qu'ils aient servi de refuge aux individus les plus gros de certaines espèces.
+
+Il est certain qu'il reste beaucoup à faire pour étudier la dynamique des stocks naturels et exploités des plaines inondables, avant qu'on puisse porter aucun jugement sur telle ou telle mesure visant la gestion de la pêche.
+
+Eaux artificielles: Si l'aquiculture intensive est probablement impensable dans l'état actuel d'exploitation des plaines inondables, un certain nombre de pratiques extensives permettraient cependant de développer valablement la production, ou tout au moins d'entretenir celle-ci dans les zones aménagées pour d'autres buts.
+
+La technique de forage de trous à poisson est déjà parfaitement établie dans la vallée de l'Ouémé (chapitre 6); des bassins isolés de ce type semblent bien adaptés aux zones marécageuses permanentes où le niveau piézométrique est voisin de la surface ou situé juste au dessous. En creusant des "houédo" en fossés à travers les bassins, la terre de déblai rejetée sur les bords devient suffisamment sèche pour y faire pousser des légumes, tandis que les bassins retiennent l'eau toute l'année. On a adapté différemment la méthode du "houédo" pour régulariser et développer naturellement la superficie des plans d'eau permanents de la plaine inondable.
+
+Actuellement, dans plusieurs régions d'Afrique, on cherche aussi à retenir l'eau dans les mares de la plaine inondable par des barrages. Les Fig. 7, 9 et 10 illustrent deux de ces expériences. S'il faudra attendre encore pour en connaître les résultats, il semblerait que cette méthode, utile pour développer la production de poisson dans les systèmes qui conservent leur cycle naturel, sera particulièrement intéressante pour maintenir la production dans les zones où les crues sont écourtées, ou modifiées par des barrages régulateurs situés en amont.
+
+On peut aussi prévoir la création d'étangs dans les projets d'irrigation, en élargissant les canaux à intervalles réguliers pour y pratiquer la pisciculture ou y installer des parcs d'élevage. De même, cet élevage en enclos pourrait se faire dans le lit principal du cours d'eau, où l'on emploie actuellement une variété de parcs nommés "akadja". Des installations de ce genre sont couramment utilisées dans plusieurs cours d'eau d'Afrique occidentale, que l'on peut voir figurées sur la Fig. 19 en pointillé dans le lit principal.
+
+La capture et l'élevage du poisson dans les rizières est largement pratiqué dans de nom-breuses parties du monde (Coche, 1967), notamment en Afrique. Les méthodes de capture reposent sur l'introduction naturelle du poisson dans les champs de riz, tandis que l'élevage (la rizipisciculture) implique un choix délibéré de certaines espèces pour l'empoissonnement. En général, on augmente les rendements de poisson et de riz par leur culture conjuguée. Cependant, certaines espèces de poissons sont connues pour leurs habitudes rizophages, que les pêcheries d'élevage s'efforcent d'éliminer. Dans les plaines inondables où l'on pratique la riziculture, on a abordé de deux façons ce problème de l'attaque des jeunes pousses de riz. La première méthode consiste à entourer les champs de digues, pour contrôler le régime hydrologique et interdire l'entrée de la rizière aux poissons. Là, naturellement, l'empoissonnement prévu au moyen d'espèces sélectionnées y donnera une double récolte, bien
+qu'il faille de nombreux essais avant d'arriver à déterminer les espèces adéquates, les taux d'empoissonnement, etc. Plusieurs auteurs, dont Vincke (manuscrit non publié) ent montré que ce système est à la fois pratique et économique pour l'Afrique. Une seconde solution, adoptée en particulier pour la riziculture par submersion dans le Delta central du Niger, consiste à édifier des digues basses qui suffisent à retarder les crues, jusqu'à ce que les peusses de riz soient suffisamment robustes pour résister à l'attaque des poissons. Ici, pour la récolte de poissons, la méthode consiste à capturer les sujets immigrants. D'après l'expérience actuelle, il est manifeste que la culture du riz et l'exploitation piscicole continue de la plaine inondable sont loin de s'exclure mutuellement. En fait, il est largement prouvé que, moyennant de bonnes techniques, les deux activités peuvent être pratiquées de pair au bénéfice de chacune.
+
+9.4 Manipulation du régime hydrologique
+
+L'étroite corrélation des captures de poisson avec le régime des crues montre qu'un barrage régulateur en aval d'un fleuve doit nécessairement affecter la pêche. La décharge contrôlée de l'eau peut simuler des conditions normales de crue et assurer le maintien du stock ichtyologique. Il est toutefois certain que la façon dont cette décharge se produit, à la fois quantitativement et selon la structure de la courbe artificielle de la crue, influencera la productivité du système. La décharge contrôlée semble devoir être plus facile dans les systèmes à grands lacs et mares permanents que dans ceux à vastes plaines sèches. Dans les premiers, la forme de la courbe de crue et le régime de l'inondation n'ont probablement guère d'importance relative, une fois les mares remplies. On a démontré que le poisson peut être poussé à migrer dans ses territoires de reproduction et à se développer de manière satisfaisante avec des crues comparativement limitées (Phelines, Coke et Nicol, 1973).
+Dans les systèmes qui conservent peu d'eau résiduelle, la durée et l'intensité de la crue, ainsi que la rapidité de son évolution, apparaîtront comme les seuls facteurs contrôlant la reproduction, la croissance et la survie du poisson. C'est pour cette raison, parmi d'autres, que l'on considère la création de retenues artificielles sur les plaines comme le moyen d'y préserver la production halieutique en contrôlant le débit de la crue.
+
+Figure 19
+
+Figure 19
+
+Figure 19. Partie de la plaine inondable de l'Ouémé montrant la répartition des diverses activités
+A. Photographie aérienne (I.G.N. Paris)
+B. Interprétation (voir le texte pour l'explication)
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières
+
+
+REFERENCES
+
+Bell-Cross, G., 1971 Weir fishing on the Barotse floodplain. Fish.Res.Bull.Zambia, Vol. 5:331-40
+
+Berg, A., 1961 Role écologique des eaux de la cuvette congolaise sur la croissance de la jacinthe d'eau (Eichhornia crassipes (Mart.) Solms). Mem.Acad.R.Belg.(Cl.Sci.8^o), 12:3
+
+Blache, J., 1964 Les poissons du bassin du Tchad et du bassin adjacent du Mayo Kebbi. Mem. ORSTOM, 4:483 p.
+
+CIFA, 1973 FAO Committee for Inland Fisheries of Africa, Fort Lamy (Chad), 29 November-5 December 1972, First session. CIFA Rep., (1):33 p.
+
+Cadwalladr, D.A., 1965 Notes on the breeding biology and ecology of Labeo victorianus Boulenger (pisces: cyprinidae) of Lake Victoria. Rev.Zool.Bot.Afr., 72:109-34
+
+Carey, T.G., 1967 Some observations on distribution and abundance of the invertebrate fauna. Fish.Res.Bull.Zambia, 3:22-4
+
+Carey, T.G., 1971 Hydrological survey of the Kafue floodplain. Fish.Res.Bull.Zambia, Vol. 5: 245-95
+
+Carey, T.G. and B. Bell-Cross, 1967 Breeding seasons and quantitative data on gonads and ova for certain fish species. Fish.Res.Bull.Zambia, 3(1964-1965): 12-22
+
+Centre Technique Forestier Tropical, 1966 Etude en vue du développement de la pêche dans les lacs de la région de Maevatanana-Ambato-Boéni. Nogent-sur-Marne, CTFT, 157 p.
+
+Centre Technique Forestier Tropical, 1972 Incidences sur la pêche de l'aménagement hydro-agricole du bassin du Sénégal. 1. Organisation de la pêche sur le fleuve Sénégal. Nogent-sur-Marne, CTFT, 89 p.
+
+Centre Technique Forestier Tropical, 1972a Incidences sur la pêche de l'aménagement hydro-agricole du bassin du Sénégal. 2. Influence des travaux d'aménagement sur les ressources piscicoles. Nogent-sur-Marne, CTFT, 119 p.
+
+Coche, A.G., 1967 Fish culture in rice fields: a world wide synthesis. Hydrobiologia 30:1-44
+
+Congdon, J.C., 1973 Fish populations of channelized and unchannelized sections of the Chariton river, Missouri. Spec.Publ.N.C.Div.Amer.Fish.Soc., 2:52-62
+
+Daget, J., 1954 Les poissons du Niger supérieur. Mem.IFAN (Inst.Fr.Afr.Noire), (36):382 p.
+
+Daget, J., 1957 Données récentes sur la biologie des poissons dans le delta central du Niger. Hydrobiologia, 9:321-47
+
+Daget, J., 1960 Les migrations de poissons dans les eaux douces tropicales africaines. Proc. IPFC, 8(3):79-82
+
+Daget, J., 1960a Effets du barrage de Markala sur les migrations de poissons dans le moyen-Niger. In Proceedings of the Seventh Technical Meeting, held by IUCN/FAO, Athens, September 1958. Brussels, IUCN, Vol. 4:352-6
+
+Daget, J. et A. Iltis, 1965 Poissons de Côte d'Ivoire eaux douces et saumâtres. Mem.IFAN (Inst. Fr.Afr.Noire), (74):385 p.
+
+Daget, J., N. Planquette et P. Planquette, 1973 Premières données sur la dynamique des peuplements de poissons du Bandana (Côte d'Ivoire). Bull.Mus.Natl.Hist.Nat.,Paris, (15):121-42
+
+Dudley, R.G., 1972 Biology of Tilapia of the Kafue floodplain Zambia: predicted effects of the Kafue Gorge Dam. Ph.D. dissertation, University of Idaho, Moscow. 50 p.
+
+Dudley, R.G., 1974 Growth of Tilapia of the Kafue floodplain, Zambia: predicted effect of the Kafue Gorge Dam. Trans.Am.Fish.Soc., 103(2):281-91
+
+Durand, J.R., 1970 Les peuplements ichthyologiques de l'el Beid. 1ère Note Présentation du milieu et résultats généraux. Cah.ORSTOM (Hydrobiol.), 4:3-26
+
+Durand, J.R., 1971 Les peuplements ichthyologiques de l'el Beid. 2e Note Variations inter et intra-spécifiques. Cah.ORSTOM (Hydrobiol.), 5: 147-59
+
+Egborge, A.B.M., 1971 The chemical hydrology of the River Oshun, Western State, Nigeria. Freshwat.Biol., 4:177-91
+
+Egborge, A.B.M., 1974 The seasonal variation and distribution of phytoplankton in the River Oshun, Nigeria. Freshwat.Biol., 4:177-91
+
+FAO/UN 1968 Report to the Government of Zambia on fishery development in the Central Barotse Flood Plain. Based on the work of D.W. Kelley, FAO/TA Inland Fishery Biologist. Rep.FAO/UNDP(TA), (2554):83 p.
+
+FAO/UN 1969 Report to the Government of Nigeria on fishing technology relating to river and swamp fisheries in Northern Nigeria. Based on the work of William Reed, FAO/TA Fishery Technologist. Rep.FAO/UNDP(TA), (2711):90 p.
+
+FAO/UN, 1969 Report to the Government of Zambia on fishery development in the Central Barotse floodplain. Second phase based on the work of D. Duerre. Rep.FAO/UNDP(TA), (2638):80 p.
+
+FAO/UN, 1970 Report to the Government of Nigeria on fishery investigations on the Niger and the Benue Rivers in the Northern Region and development of a programme of riverine fishery management and training. Based on the work of M.P. Motwani. Rep.FAO/UNDP(TA), (2771):196 p.
+
+FAO/UN, 1970a Report to the Government of Zambia on fishery development in the Central Barotse floodplain. Based on the work of G.F. Weiss. Rep.FAO/UNDP(TA), (2816): 19 p.
+
+FAO/UN, 1971 Rapport au gouvernement du Niger sur le développement et la rationalisation de la pêche sur le fleuve Niger, établi sur la base des travaux de N. Bacalbasa-Dobrovici, technologiste des pêches. Rep.FAO/UNDP(TA), (2913):33 p.
+
+FAO/UN, 1972 Kainji Lake Research Project, Nigeria. Fish populations of Kainji Lake, trends in their development and utilization. Based on the work of A. Lelek. Rome, FAO, FI:SF/NIR 24, Technical Report No. 2:121 p.
+
+FAO/UNDP, 1968 Multipurpose survey of the Kafue river basin. Zambia. Final report. Rome, FAO, FAO/SF:35/ZAM
+
+Gosse, J.P., 1963 Le milieu aquatique et l'écologie des poissons dans la région de Yangambi. Ann.Mus.R.Afr.Cent.(Ser.8vo Sci.Zool.), 116:113-70
+
+Hall, J.B. and W. Pople, 1968 Recent vegetational changes in the lower Volta river. Ghana J. Science, 8:26-9
+
+Holden, M.J. and J. Green, 1960 The hydrology and plankton of the River Sokoto. J.Anim.Ecol., 29:65-84
+
+Holden, M.J. and J. Green, 1963 The populations of fish in dry season pools of the River Sokoto. Fish.Publ. Colon.Off.Lond., (19):58 p.
+
+Hurault, J., 1965 Les principaux types de peuplement du sud-est Dahomey et leur représentation cartographique. Etud.Photo Interpr.Inst.Geogr.Natl.,Paris, (2):79 p.
+
+Johnels, A.G., 1954 Notes on fishes from the Gambia River. Arkiv.Zool., 6:327-411
+
+Kapetsky, J.M., 1974 Growth, mortality and production of five fish species of the Kafue river floodplain, Zambia. Ph.D. dissertation, University of Michigan. 194 p.
+
+Lamoalle, J., L'activité photosynthétique du phytoplancton en relation avec le niveau des eaux du lac Tchad (Afrique). (in press)
+
+Lelek, A. and S. El-Zarka, 1971 Preliminary observations on the effect of Kainji Dam on the downstream fisheries. J.West Afr.Sci.Assoc., 16(2):171-8
+
+Lelek, A. and S. El-Zarka, 1973 Ecological comparison of the preimpoundment and postimpoundment fish fauna of the River Niger and Kainji Lake, Nigeria. In Man-made lakes: their problems and environmental effects. Geophys.Monogr.Ser., (17):655-60
+
+Leopold, L.B., M.G. Wolman and J.P. Miller, 1964 Fluvial processes in geomorphology. San Francisco, W.H. Freeman, 522 p.
+
+Loubens, G., 1969 Etude de certains peuplements ichtyologiques par des pêches au poison. (1re note). Cah.ORSTOM(Hydrobiol.), 3(2):45-73
+
+Matagne, F., 1950 Premières notes au sujet de la migration de Pumbu (Labeo sp.) Bief du Luapula-Moera. Bull.Agric.Congo Belge, (41):794-834
+
+Muncy, R.J., 1973 A survey of the major fisheries of the Republic of Zambia. Rome, FAO, FI:DP 9/10 ZAM 511/3:69 p.
+
+Muncy, R.J., Floodplain fishery of the Kafue river, Zambia, Africa. Afr.J.Trop.Hydrobiol. Fish. (in press)
+
+NEDECO, 1959 River studies and recommendations on improvement of Niger and Benue. Amsterdam, North-Holland Publ.Co., 1,000 p.
+
+Phelines, R.F., M. Coke and S.M. Nicol, 1973 Some biological consequences of the damming of the Pongola river. In Proc.11ème Congrès des Grands Barrages-Commission International des Grands Barrages, pp. 175-90
+
+Ratcliffe, C., 1972 The fishery of the lower Shire River area, Malawi, 1972. Fish.Bull.Fish.Dep., Zomba, Malawi, (3):79 p.
+
+Reizer, C., 1974 Définition d'une politique d'aménagement des ressources halieutiques d'un ecosystème aquatique complexe par l'étude de son environnement abiotique, biotique et anthropique. Le Fleuve Sénégal Moyen et Inférieur. Docteur en Sciences de l'Environnement. Dissertation. Arlon, Fondation Universitaire Luxembourgeoise, 4 vols:525 p.
+
+Rzóska, J., 1974 The Upper Nile swamps, a tropical wetland study. Freshwat.Biol., 4:1-30
+
+Scully, R.G., 1972 Physio-chemical parameters and gill-net catches at four floodplain habitats on the Kafue Flats, Zambia. M.S.Thesis, University of Idaho, 59 p.
+
+Soulsby, J.J., 1959 Status of the Lake Mweru fishery. Annu.Rep.Joint Fish.Res.Org., 8(1958): 30-8
+
+Stauch, A., 1966 Le bassin Camerounais de la Benoue et sa pêche. Mem.ORSTOM, Paris, (15):152 p.
+
+Svensson, G.S.O., 1933 Freshwater fishes from the Gambia River (British West Africa). Results of the Swedish expedition, 1931. K.Svenska Vetenskskapsakad.Handl., 12:13 p.
+
+Tait, C.C., 1967 Hydrological data. Fish.Res.Bull.Zambia, 3:26-8
+
+Tait, C.C., 1967a Mass fish mortalities. Fish.Res.Bull.Zambia, 3:28-30
+
+Talling, F.J. and J. Rzóska, 1967 The development of plankton in relation to hydrological regime in the Blue Nile. J.Ecol., 55:637-62
+
+Trewavas, E., 1973 I On the Cichlid fishes of the genus Pelmatochromis with proposal of a new genus for P. congicus; on the relationship between Pelmatochromis and Tilapia and the recognition of Sarotherodon as a distinct genus and II A new species of Cichlid fishes of rivers Quaza and Bengo, Angola, with a list of the known Cichlidae of these rivers and a note on Pseudocrenilabrus natalensis Fowler. Bull.Brit.Mus.(Nat.Hist.)Lond., (25):3-37
+
+University of Idaho, 1971 et al., Ecology of fishes in the Kafue River. Report prepared for FAO/UN acting as executing agency for UNDP. Moscow, Idaho, University of Idaho, FI:SF/ZAM 11:Tech.Rep.2:66 p.
+
+University of Michigan et al., 1971 The fisheries of the Kafue River Flats, Zambia, in relation to the Kafue Gorge Dam. Report prepared for FAO/UN acting as executing agency for UNDP. Ann Arbor, Michigan, University of Michigan, FI:SF/ZAM 11:Tech.Rep. 1:161 p.
+
+Van Someren, V.D., 1961 Seasonal flood fisheries in Kenya colony. Publ.Cons.Sci.Afr.Sud Sahara, (76):51-3
+
+Vesey-Fitzgerald, D.F., 1970 The origin and distribution of valley grass-lands in East Africa. J.Ecol., 58:51-75
+
+Welcomme, R.L., 1969 The biology and ecology of the fishes of a small tropical stream. J.Zool., Lond., 158:485-529
+
+Welcomme, R.L., 1970 Les moyens de pêche dans les eaux continentales du Dahomey. Etud.Dahomeen., (17):5-35
+
+Welcomme, R.L., 1971 A description of certain indigenous fishing methods from Southern Dahomey. Afr.J.Trop.Hydrobiol.Fish., 1:129-40
+
+Welcomme, R.L., 1974 A brief review of the floodplain fisheries of Africa. Afr.J.Trop.Hydrobiol. Fish., Special Issue 1:67-76
+
+Welcomme, R.L., Some general and theoretical considerations on the fish yield of African rivers. J.Fish.Biol. (in press)
+
+Whitehead, P.J.P., 1958 Indigenous river fishing methods in Kenya. E.Afr.Agric.J., 24:111-20
+
+Whitehead, P.J.P., 1959 The anadromous fishes of Lake Victoria. Rev.Zool.Bot.Afr., 59:329-63
+
+Williams, N.V., 1960 A review of the Kafue river fishery. Rhod.Agric.J., 57:86-92
+
+Williams, R., 1971 Fish ecology of the Kafue River and flood plain environment. Fish.Res.Bull. Zambia, Vol.5:305-30
+
+DOCUMENTS PUBLIÉS DANS LA PRÉSENTE SÉRIE
+
+CIFA/T1 Les eaux intérieures d'Afrique (1972)
+
+CPCA/T2 Rapport du Symposium sur l'évaluation des ressources des pêches dans le développement et l'aménagement des pêches continentales, Fort-Lamy, Tchad, 1972 (Rome, 1973)
+
+CPCA/T3 L'écologie des pêches dans les plaines inondables africaines (1975)
+Back Cover
+
+
+Page précédente Début de page

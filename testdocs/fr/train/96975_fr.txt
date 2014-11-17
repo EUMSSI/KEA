@@ -1,0 +1,1145 @@
+FAO DOCUMENT TECHNIQUE DU CPCA 22
+
+Cover
+
+Intensification de la gestion des petits plans d'eau en Afrique francophone
+
+TABLE DE REFERENCES
+
+
+par
+M.F. Vallet
+Le Mattes
+Grane, France
+
+Les appellations employées dans cette publication et la présentation des données qui y figurent n'impliquent de la part de l'Organisation des Nations Unies pour l'alimentation et l'agriculture aucune prise de position quant au statut juridique des pays, territoires, villes ou zones, ou de leurs autorités, ni quant au tracé de leurs frontières ou limites.
+
+M - 44
+ISBN 92 - 5 - 203362 - 9
+
+Tous droits réservés. Aucune partie de cette publication ne peut être reproduite, mise en mémoire dans un système de recherche bibliographique ni transmise sous quelque forme ou par quelque procédé que ce soit: électronique, mécanique, par photocopie ou autre, sans autorisation préalable. Adresser une demande motivée au Directeur de la Division des publications. Organisation des Nations Unies pour l'alimentation et l'agriculture, Viale delle Terme di Caracalla, 00100 Rome, Italie, en indiquant les passages ou illustrations en cause.
+
+Préparation du document
+
+Voilà la première des deux publications du CPCA qui seront consacrées à l'intensification de la gestion des petits plans d'eau en Afrique. La seconde publication intéresse principalement les pays anglophones d'Afrique. Ces deux documents s'inscrivent dans le cadre de l'effort consenti, au niveau mondial, par le Service des ressources des eaux intérieures et de l'aquaculture de la FAO pour intensifier l'aménagement des pêches. Le programme d'intensification de l'aménagement des pêches résume puis diffusè des techniques d'aménagement utilisables pour accroître les bénéfices de la pêche dans les petits plans d'eau, mais il ne se limite pas exclusivement à ceux-ci. Pour de plus amples informations concernant le programme d'intensification de l'aménagement des pêches, prière d'écrire au Chef des ressources des eaux intérieures et de l'aquaculture de la FAO, Via delle Terme di Caracalla, 00100 Rome, Italie.
+
+La photo de coverture a été prise par M. S.R. Madhu.
+
+Vallet, M.F.
+Intensification de la gestion des petits plans d'eau en Afrique francophone. CPCA Document technique. No. 22. Rome, FAO. 58p.
+
+Résumé
+
+Le présent rapport porte sur l'intensification de la gestion des petits plans d'eau pour la pêche; il se concentre tout particulièrement sur les pays francophones d'Afrique. Le rapport passe en revue différents types de petits plans d'eau et analyse les techniques de gestion correspondantes, d'un point de vue institutionnel. Des études de cas illustrent différentes possibilités de gestion. Le document suit un mode de présentation commun, pour faciliter les comparaisons. Finalement, il explique le niveau de gestion obtenu, en prenant comme critères le milieu physique, le stock halieutique, l'organisation des captures et l'utilisation du poisson. Les facteurs négatifs et positifs qui peuvent influencer un développement ultérieur sont pris en considération et des recommandations sont présentées pour l'amélioration de la gestion.
+
+Organisation des Nations Unies pour l'alimentation et l'agriculture
+
+Rome, © FAO 1993
+
+
+Les liens hypertextes vers d'autres sites de l'Internet ne signifient nullement que l'Organisation approuve officiellement les opinions, idées, données ou produits qui y sont présentés, qu'elle en assume la responsabilité ou qu'elle garantit la validité des informations qui s'y trouvent. Leur seul objectif est d'indiquer où trouver un complément d'informations sur des thèmes apparentés.
+
+Cette version numérique du document a été scannérisé en utilisant des logiciels de reconnaissance optique de texte (OCR). La FAO décline toute responsabilité pour les éventuelles différences pouvant apparaître dans ce document par rapport à la version imprimée originale.
+
+
+TABLE DE REFERENCES
+
+1. INTRODUCTION
+
+1.1 Généralités sur les "petits plans d'eau"
+1.2. Définition des "Petits Plans d'Eau" (PPE)
+1.3. Différents types de Petits Plans d'Eau
+
+1.3.1. PPE naturels:
+1.3.2. Les PPE artificiels:
+
+1.4. Institutions responsables des PPE.
+
+1.4.1. Juridiction traditionnelle et moderne.
+1.4.2. Compétence du personnel responsable de la gestion
+1.4.3. Financement du fonctionnement et du développement
+
+2. EXEMPLES DE GESTION DE PPE
+
+2.1. Ruisseaux et rivières du Burundi et du Rwanda
+
+2.1.1. Le milieu naturel et son écologie
+2.1.2. Les institutions
+2.1.3. Valeur technique
+2.1.4. Conclusion
+
+2.2. Forêt inondée: Cameroun, République centrafricaine, Gabon, Guinée equatoriale, Zaïre
+
+2.2.1. Le milieu naturel et son écologie
+2.2.2. Les institutions
+2.2.3. Valeur technique
+2.2.4. Facteurs limitatifs
+2.2.5. Gestion de la ressource
+2.2.6. Conclusion
+
+2.3. Mares de la région du Sourou, Burkina Faso
+
+2.3.1. Le milieu naturel et son écologie
+2.3.2. Les institutions
+2.3.3. Valeur technique
+2.3.4. Facteurs limitatifs
+2.3.5. Les éléments de gestion
+2.3.6. Conclusion
+
+2.4. Petits lacs du Rwanda et du Burundi
+
+2.4.1. Le milieu naturel et son écologie
+2.4.2. Les institutions
+2.4.3. Valeur technique
+2.4.4. Eléments de gestion pouvant être transférés ailleurs
+2.4.5. Conclusion
+
+2.5. Les deux barrages d'alimentation en eau potable de la ville de Bouaké, Côte d'Ivoire
+
+2.5.1. Le milieu naturel et son écologie
+2.5.2. Les institutions
+2.5.3. Valeur technique
+2.5.4. Facteurs limitatifs
+2.5.5. Eléments instructifs
+
+2.6. Réservoirs hydroélectriques de Bamendjing et de Mapé, l'ouest de Cameroun
+
+2.6.1. Le milieu naturel et son écologie
+2.6.2. Institutions responsables
+2.6.3. Valeur technique
+2.6.4. Facteurs limitatifs
+2.6.5. Principaux enseignements
+2.6.6. Conclusion
+
+2.7. Barrages agro-pastoraux des zones de savane au nord de la Côte d'Ivoire
+
+2.7.1. Le milieu naturel et son écologie
+2.7.2. Les institutions
+2.7.3. Valeur technique de ce mode de gestion
+2.7.4. Facteurs limitatifs
+2.7.5. Elément instructif
+2.7.6. Conclusion
+
+2.8. Barrages agro-pastoraux del'Adamaoua, Cameroun
+
+2.8.1. Le milieu naturel et son écologie
+2.8.2. Les institutions
+2.8.3. Valeur technique
+2.8.4. Facteurs limitatifs
+2.8.5. Eléments instructifs
+2.8.6. Conclusion
+
+2.9. Marigots de la zone forestière de l'ouest de la Côte d'Ivoire. Cas similaire en forêt camerounaise autour de Yaoundé
+
+2.9.1. L'ouest forestier de la Côte d'Ivoire
+2.9.2. Les institutions
+2.9.3. Valeur technique
+2.9.4. Facteurs limitatifs
+2.9.5. Eléments de gestion pouvant être transférés ailleurs
+2.9.6. Autre cas similaire
+2.9.7. Conclusion
+
+2.10. Marais du Rwanda et du Burundi
+
+2.10.1. Le milieu naturel et son écologie
+2.10.2. Les institutions
+2.10.3. Valeur technique
+2.10.4. Facteurs limitatifs
+2.10.5. Eléments de technique de gestion pouvant être transférés ailleurs
+2.10.6. Conclusion
+
+2.11. Petits plan d'eau aménagés de la zone forestière du Cameroun
+
+2.11.1. Le milieu naturel et son écologie
+2.11.2. Les institutions
+2.11.3. Valeur technique
+2.11.4. Facteurs limitatifs
+2.11.5. Eléments instructifs
+2.11.6. Conclusion
+
+3. SYNTHÈSE DES ENSEIGNEMENTS TIRÉS DE CES EXEMPLES
+
+3.2. Explication des exemples de niveau de gestion
+
+3.2.1. Le milieu physique
+3.2.2. Le stock halieutique
+3.2.3. Organisation des captures
+3.2.4. Utilisation du poisson
+
+3.3. Principaux facteurs limitatifs et contraintes
+
+3.3.1. Fragilité du milieu
+3.3.2. Incidence de maladies liées à l'eau
+
+3.4. Principaux facteurs positifs
+
+4. RECOMMANDATIONS
+
+5. BIBLIOGRAPHIE
+Table des matières Page suivante
+
+
+1. INTRODUCTION
+
+1.1 Généralités sur les "petits plans d'eau"
+
+Le poisson constitue en Afrique la principale source de protéines d'origine animale, notamment dans certaines régions où les grandes endémies limitent le développement de l'élevage. Alors que les pêches maritimes fournissent environ 3, 12 t, les pêches continentales africaines ont produit en 1989 (statistiques FAO) 1,87 t de poisson. Ces chiffres proviennent des données officielles et des évaluations de captures réalisées dans les grands lacs, les réservoirs hydroélectriques et les fleuves principaux alimentant les marchés importants de l'intérieur du continent.
+
+Il existe par ailleurs un grand nombre de plans d'eau et de rivières de moindre importance, dans lesquels les populations voisines pratiquent la pêche et dont les captures alimentent les riverains, le plus souvent sans passer par un circuit commercial. Peu ou pas de statistiques existent à ce sujet; pourtant, il y aurait en Afrique plus de 20 000 de ces petits plans d'eau (PPE) de moins de 10 km^2 (Anderson, 1987) et près de 13 millions de km de ruisseaux et rivières non répertoriés dans les statistiques de pêche continentale (Welcomme, 1989). De plus, leur production pourrait se situer entre 1 et 3 t (Bernacsek, 1984). Ces données expliquent l'intérêt porté depuis quelques années à des ressources importantes et le plus souvent sous-exploitées au moyen de méthodes traditionnelles, tandis que la plupart des grandes pêcheries présentent des signes de surexploitation par suite de la généralisation de l'usage de méthodes et d'équipement performants souvent associés au
+non-respect des règlements visant à protéger les stocks halieutiques. De plus, on assiste fréquemment à la désorganisation de ces grandes pêcheries sur un plan socio-économique par suite des sécheresses successives survenues dans la région (migrations de pêcheurs professionnels, reconversion d'agriculteurs/éleveurs vers la pêche de subsistance).
+
+Le but de ce travail est de passer en revue des différents types de PPE rencontrés en Afrique francophone et d'expliquer les diverses méthodes de gestion que l'on y trouve; ensuite, à la lumière de quelques exemples concrets tirés de la bibliographie, de communications informelles d'experts de terrain et de l'expérience personnelle de l'auteur, nous tenterons de dégager les éléments de gestion qui permettent d'obtenir de bons résultats dans leur exploitation. Enfin, nous décrirons les éléments qui pourraient être transférés dans d'autres régions et y apporter des améliorations au bénéfice des populations locales. L'auteur tient ici à remercier pour les diverses informations transmises, M. Vincke, le Professeur J.C. Micha et son équipe, J.P. Platteau, J. Lazard, C. Breuil, M. Maes, ainsi que les documentalistes de la bibliothèque de la Division des pêches de la FAO à Rome.
+
+Les pays plus particulièrement concernés par cette étude sont: le Bénin, le Burkina Faso, le Burundi, le Cameroun, la République centreafricaine, le Congo, la Côte d'Ivoire, le Gabon, la Guinée, la Guinée-Bissau, la Guinée équatoriale, Madagascar, le Mali, la Mauritanie, le Niger, le Ruanda, le Sénégal, le Togo, et le Zaïre.
+
+Ces pays présentent de grandes disparités dans leurs climat, relief et population; cependant, ils possèdent tous des ensembles aquatiques dont la gestion pourrait être améliorée.
+
+1.2. Définition des "Petits Plans d'Eau" (PPE)
+
+Dans cette étude, nous nous intéresserons principalement au niveau de gestion des PPE. Cependant, la dénomination "Petit Plan d'Eau" ("Small Water Body" en anglais: SWB) est suffisamment générale pour qu'il soit nécessaire de la définir avec plus de précision. Nous éliminerons dès à présent de notre sujet, les lagunes côtières qui sont habituellement traitées avec les pêches maritimes.
+
+Pour Anderson (1987), et d'après les discussions du CPCA (Lusaka, 1985), les PPE sont de petits réservoirs et lacs de moins de 10 km^2 (soit 1 000 hectares), ou encore de petits étangs, canaux, canaux d'irrigation, ainsi que de petites plaines d'inondation ou des marécages temporaires. Les PPE, d'après ces auteurs, comprennent également les petites rivières et ruisseaux de moins de 100 km de longueur.
+
+D'après Zhiwen Song (1980), les "Petits réservoirs" ("Small-scale reservoirs") sont des plans d'eau de moins de 10 ha (soit 1 km^2) et les "étangs" ("ponds") ont une capacité inférieure à 100 000 m^3; ces données ont été établies d'après des aménagements réalisés en République populaire de Chine, ce qui fait dire à Roger Palm (1987) que dans un contexte africain, un "petit plan d'eau communautaire" ("community SWB") a une superficie inférieure à 10 hectares.
+
+La diversité de ces définitions montre que la dimension est un critère insuffisant de distinction. Nous introduirons donc, outre la superficie qui est "petite" sans plus de précision, le mode d'exploitation. C'est ainsi que les grandes zones de pêche telles que le delta intérieur du fleuve Niger (Mali), le barrage/réservoir de Kossou (Côte d'Ivoire) ne sont pas considérés comme des PPE, même si certains marécages ou plaines d'inondation isolés, dépendant de ces ensembles, peuvent répondre à la définition de PPE par leur taille. Ces grandes pêcheries et leurs dépendances font généralement l'objet d'une gestion organisée avec relevés statistiques de la production, réseau de commercialisation des captures bien établi, services d'approvisionnement des pêcheurs en équipement.
+
+A l'opposé, nous éliminons des PPE, les étangs de pisciculture intensive car il s'agit d'aménagements agricoles exploités par des paysans et non pas gérés par des pêcheurs. Le cas des barrages construits exclusivement pour la pratique de la pisciculture extensive est plus difficile à déterminer. Nous n'en parlerons pas dans le cadre de cette étude car les problèmes de gestion des PPE communautaires destinés à la pisciculture a déjà été traité par Roger Palm (1987).
+
+La distinction entre pisciculture extensive et pêche peut parfois être délicate à établir; c'est ainsi que les plans d'eau dans lesquels on aménage des acadjas, technique de pisciculture extensive, sont exploités par des pêcheurs. Le vocabulaire peut d'ailleurs prêter à confusion; ainsi, les termes de "pisciculture extensive" peuvent s'appliquer à des méthodes de "gestion intensive".
+
+Les grands réservoirs hydroélectriques dans lesquels des alevins ont été déversés sont classés dans certains pays parmi les exploitations de pisciculture extensive alors qu'il s'agit d'introduction d'espèces nouvelles destinées à occuper des niches écologiques vides d'un nouveau plan d'eau et qui se fixent définitivement dans leur nouveau milieu; là encore, une fois les nouvelles populations halieutiques établies, leur exploitation relève uniquement de la pêche.
+
+Par contre, certains grands barrages récents présentent un type d'exploitation n'ayant pas encore atteint un seuil d'équilibre et s'apparentent par la gestion, à des PPE.
+
+Nous définirons donc les "petits plans d'eau" comme étant des milieux aquatiques de dimensions modérées, dont les ressources sont gérées suivant des méthodes intermédiaires entre celles qui prévalent dans les grands lacs et fleuves et celles utilisées dans les exploitations de pisciculture. De plus, les captures sont surtout consommées par les populations riveraines.
+
+1.3. Différents types de Petits Plans d'Eau
+
+Une distinction fondamentale doit être faite parmi les PPE, suivant qu'ils sont naturels ou artificiels. Cela a en effet des implications écologiques et humaines qui influent de façon fondamentale sur la gestion de leurs ressources.
+
+1.3.1. PPE naturels:
+
+Ces milieux aquatiques, permanents ou temporaires, se trouvent sous des climats très variés, depuis les climats équatoriaux jusqu'aux climats sahéliens. Il peut s'agir de ruisseaux plus ou moins ramifiés courant sous la forêt humide et s'étalant sur une plaine d'inondation plus ou moins vaste au cours de la saison des pluies. En zone de savane, ces PPE sont des cours d'eaux en général temporaires, bordés d'une forêt galerie plus ou moins dense et haute.
+
+Dans cette catégorie, nous placerons aussi les petits lacs et les marécages dont la périphérie est encombrée de végétation dense, limitant l'accès à l'eau, surtout en saison des pluies. Les zones les moins profondes sont généralement couvertes par un herbier aquatique ayant tendance à s'étendre de plus en plus. Les variations de niveau de ces PPE sont souvent importantes, principalement sous climat sahélien; en effet, l'alimentation en eau s'effectue pendant la saison des pluies (juillet à septembre). Ensuite, la plupart des cours d'eau s'assèchent. L'évaporation atteint de 1 à 2 cm par jour, ce qui représente 1,5 à 3 m au cours de la saison sèche; la plupart des PPE qui ne sont pas alimentés par un cours d'eau permanent ou par un affleurement de nappe phréatique disparaissent donc complètement pendant une partie de l'année et sont remplacés par une végétation herbacée ou de buissons.
+
+Les PPE naturels ont généralement à leur périphérie une population plus dense que dans le reste de la région concernée. En effet, ils constituent des pôles recherchés pour l'implantation de villages: leur eau va être utilisée par les habitants pour couvrir l'ensemble de leurs besoins, ainsi que ceux de leur bétail et éventuellement pour irriguer leurs cultures vivrières. En outre, ils vont fournir des poissons pour la consommation locale et des végétaux pour le bétail dans la zone de marnage.
+
+1.3.2. Les PPE artificiels:
+
+Il s'agit principalement de réservoirs créés pour stocker de l'eau dans les zones où la saison sèche est bien marquée, c'est-à-dire dans les régions de savane à climat soudano-sahélien. Les chutes de pluie, de l'ordre de 700 à 1 000 mm en 5 ou 6 mois, permettent la croissance d'une épaisse couverture herbacée; les points d'eau naturels, nombreux durant toute la saison des pluies et l'absence de mouches tsé-tsé vecteurs de la trypanosomiase, font que ces régions sont particulièrement favorables à l'élevage extensif. Cependant, la plupart des points d'eau tarissent pendant la saison sèche, ce qui limite notablement les parcours pastoraux et laissent inutilisées de grandes surfaces de pâturages sur lesquels l'herbe sèche se conserve jusqu'au retour des pluies qui provoque alors sa dégradation rapide et son remplacement par de nouvelles pousses.
+
+Afin de permettre l'utilisation de ces pâturages au cours de la saison sèche, de nombreuses retenues ont été aménagées dans la zone sahélienne d'Afrique de l'Ouest.
+
+Une importante végétation peut s'établir autour de ces réservoirs et recouvrir progressivement la plus grande partie de la zone découverte par la diminution du niveau de l'eau. Cependant le passage plus ou moins fréquent de troupeaux fait qu'en général, le sol est mis à nu sur le pourtour de la retenue par suite du piétinement des animaux; dans certains cas où l'entretien du barrage n'est pas assuré, le bétail peut circuler sur la digue elle-même, détruire la végétation de protection et provoquer l'érosion du barrage lors des prochaines pluies.
+
+Ces retenues agro-pastorales sont aménagées le long des parcours de bétail, très souvent dans des zones où la densité de population est très faible. De plus, les habitants éventuels sont des éleveurs ou parfois des paysans, mais n'ont de toutes façons aucune tradition de gestion d'un plan d'eau. Parmi les PPE artificiels, nous retiendrons ceux qui persistent après la réalisation d'un grand chantier; ainsi, la construction des routes provoque la création imprévue de réservoirs, soit qu'un remblai ferme une vallée, soit qu'une carrière désaffectée laisse en pleine nature un trou plus ou moins profond et étendu. Dans les deux cas, souvent à la suite d'initiatives privées ou des villages voisins, la construction d'équipements simples tels que vanne ou canal d'alimentation, permet d'obtenir à bon compte des plans d'eau dont l'aménagement et l'utilisation n'avaient pas été prévus à l'avance mais qui peuvent devenir par la suite un pôle de peuplement et de développement.
+
+1.4. Institutions responsables des PPE.
+
+1.4.1. Juridiction traditionnelle et moderne.
+
+Dans la plupart des pays d'Afrique, les administrations coloniales, puis les gouvernements établis après les indépendances, ont mis en place le principe de la domanialité publique de la plupart des ressources naturelles. Les ressources en eau font partie du domaine publique de l'Etat, le corollaire étant que le droit de pêche appartient aussi à l'Etat. Le principe qui a justifié l'intervention de l'Etat est que toute ressource soumise à un régime d'exploitation de libre accès, conduit inévitablement à la dilapidation de cette ressource. Toutefois, ces mesures n'ont pas empêché la survivance de droits d'usage traditionnels régis par des pratiques coutumières. Au niveau des villages, le chef traditionnel est souvent le seul à exercer une autorité sur la population; les fonctionnaires des diverses administrations et de la police passent par lui, tout au moins protocolairement, lorsqu'ils ont à traiter des affaires du village.
+
+Soulignons que pour les religions animistes, les lacs et les cours d'eau ont une grande importance, de même que certaines forêts. Ce n'est pas le cas avec les religions introduites, christianisme et islam. Cela explique en partie l'emprise des chefs traditionnels sur la gestion des PPE.
+
+Dans le cas le plus général, les PPE sont sous la juridiction des chefs traditionnels de la région où ils se trouvent. Ce système fonctionne de façon satisfaisante lorsque la communauté riveraine est homogène, par exemple en majorité paysanne: c'est souvent les cas pour les PPE naturels. Le PPE sert à la fourniture de l'eau domestique que les femmes vont puiser à un point aménagé à cet usage et transportent elles-mêmes. Si le campement ou le village est d'une certaine importance ou situé à quelque distance, un service de transport de l'eau peut être organisé. Un ou plusieurs autres points d'accès à l'eau sont aménagés pour le lavage du linge et pour le bain. Il existe aussi un point réservé pour abreuver le bétail élevé au village. Tout autour du PPE, des cultures vivrières sont établies sur des parcelles attribuées par le chef des terres. Ces cultures peuvent être arrosées au moyen de seaux remplis au marigot et transportés par les cultivateurs, le plus souvent des femmes.
+
+Si le PPE renferme du poisson, il peut être exploité par quelques villageois pratiquant la pêche comme activité secondaire, lorsque le travail agricole leur en laisse le temps. Le nombre de pêcheurs est fixé par les chefs du village qui parfois reçoivent des pêcheurs une gratification en nature. Les engins de capture utilisés sont en général simples: éperviers, nasses, hameçons, parfois filets maillants posés à partir d'une pirogue. Souvent, les enfants pratiquent la pêche récréative avec des lignes et des hameçons, ce qui leur permet de procurer du poisson pour la famille ou même de le vendre. Il arrive que des pêches collectives soient organisées par les femmes du village; cela se produit généralement au cours de la saison sèche lorsque le niveau de l'eau devient suffisamment bas pour que des flaques résiduelles maintiennent des poissons captifs. Après avoir abaissé le plus possible le niveau de l'eau par vidange au moyen de récipients, la capture s'effectue au moyen de
+paniers ou d'épuisettes sans manche. Dans d'autres cas, les femmes aménagent des diguettes dans les mares ou les ruisseaux pour orienter la circulation des poissons vers des nasses.
+
+Ce schéma se complique si par exemple des éleveurs, généralement d'une ethnie différente de celle des villageois, veulent un accès à l'eau pour leurs troupeaux. Les chefs du village doivent déterminer un lieu de passage du bétail, acceptable par les cultivateurs. Le problème devient plus délicat encore si le PPE renferme suffisamment de poisson pour permettre la présence de pêcheurs professionnels. Ceux-ci sont généralement des "étrangers"; les chefs du village doivent déterminer le nombre de pêcheurs acceptable pour gérer le PPE, leur concéder un lieu de campement, et négocier le montant de la "taxe d'utilisation" du PPE.
+
+De plus en plus, les administrations chargées de la pêche veulent participer à la gestion des PPE. Il s'agit en fait pour elles, de recenser les pêcheurs afin de faire payer des permis de pêche et des taxes sur les captures. Il est fréquent, dans ce cas, de voir les responsables locaux organiser des réunions où ils présentent aux fonctionnaires des pêches, les pêcheurs officiellement reconnus comme tels et devant donc payer un permis et la taxe sur le poisson.
+
+La réalité sur le terrain peut être tout à fait différente, le nombre de pêcheurs autorisés par les chefs locaux étant souvent bien supérieur au chiffre officiellement transmis aux autorités légales. Tout le monde y trouve son compte à court terme, sauf le stock halieutique qui se trouve rapidement surexploité.
+
+Dans le cas des PPE artificiels, les problèmes de gestion sont totalement différents, car il n'existe aucune tradition de gestion de l'eau. Les barrages agro-pastoraux étant généralement aménagés sur des parcours de bétail sur des territoires généralement réservés à l'élevage, la première difficulté peut provenir d'agriculteurs désireux de s'établir à proximité du réservoir afin de pratiquer des cultures irriguées. Ce genre de problème peut se régler entre les personnes concernées auprès des chefs traditionnels qui sont normalement d'une ethnie d'éleveurs; ou bien, la question est débattue entre les fonctionnaires des services de l'élevage et de l'agriculture. La solution à ces problèmes varie d'une région à l'autre, mais en général, l'administration responsable de l'aménagement du barrage impose ses vues. Souvent, les PPE artificiels sont alimentés par les eaux de ruissellement au moment des pluies et ne renferment donc pas de poissons issus du milieu naturel. Les
+utilisateurs habituels des réservoirs, les éleveurs, ne sont pas des pêcheurs ni des consommateurs de poisson frais. Il appartient aux responsables de l'aménagement du barrage d'informer les utilisateurs des possibilités d'introduction de poisson dans la retenue. Par la suite, lorsqu'une retenue artificielle aura été alevinée et que les poissons atteignent une taille satisfaisante, il faudra faire appel à des pêcheurs professionnels: cela pourra être organisé par les services administratifs compétents ou par les utilisateurs du barrage, ou mieux, par les deux ensemble.
+
+1.4.2. Compétence du personnel responsable de la gestion
+
+La gestion des PPE peut poser des problèmes difficiles à résoudre; le chef traditionnel est parfaitement qualifié pour traiter des petits problèmes de la vie courante touchant à son ethnie. Par contre lorsqu'il s'agit de problèmes techniques liés à des aménagements nouveaux, il doit être fait appel aux fonctionnaires des administrations spécialisées.
+
+Les Eaux et Forêts (et Chasses) sont généralement responsables des pêches continentales; ses fonctionnaires reçoivent en principe une formation pour la gestion des ressources halieutiques. Malheureusement, étant aussi chargés de la répression (braconnage, abattage illégal d'arbres), peu de villageois font appel à eux pour demander des conseils techniques. Cette situation négative, plus ou moins marquée d'un pays à l'autre, persistera tant que la vulgarisation et la répression ne seront pas confiées à des corps différents. La police et la gendarmerie devraient être responsables de la répression, laissant les actions techniques (techniques de pêche, protection du milieu, boisements) à la charge des agents des Eaux et Forêts. Les PPE constituent le principal point d'approvisionnement en eau des riverains. Plusieurs administrations, outre les Eaux et Forêts, peuvent prétendre agir à ce sujet: Développement rural en cas d'aménagement d'une station de pompage ou de pistes d'accès;
+le Ministère de la santé peut intervenir en cas de contamination de l'eau; ses fonctionnaires sont chargés d'informer la population sur les risques encourus ainsi que de coordonner les actions de lutte contre les maladies; il leur arrive parfois d'interdire l'accès à l'eau de la population.
+
+Les services de l'agriculture et ceux de l'élevage, qui dépendent souvent de ministères différents, sont également concernés par l'utilisation de l'eau du PPE. L'existence de tous ces services techniques devrait permettre aux riverains de bénéficier d'informations utiles et complémentaires. Or, on constate que ce n'est pas le cas; le manque de moyens logistiques et matériels retarde souvent l'action des techniciens. Les riverains qui font appel à eux doivent souvent se cotiser pour financer le déplacement des fonctionnaires. De plus, les interventions préconisées par les divers services peuvent être incompatibles entre elles: par exemple, épandage de pesticides préconisés par les responsables de l'agriculture et de la santé dangereux pour le bétail et les poissons; ou encore, installation d'une pompe destinée à l'irrigation alors que la quantité d'eau disponible est tout juste suffisante pour couvrir les besoins domestiques de la population.
+
+Le rôle du chef du village peut alors être déterminant pour coordonner les différentes actions proposées. Ce rôle peut être tenu par la coopérative lorsqu'elle existe. Le fait important qui ressort de ces exemples est que pour résoudre un problème de gestion intéressant une population, même restreinte, il faut tenir compte de tous les facteurs en présence et la décision finale doit venir de l'ensemble des intéressés ou tout au moins de leurs représentants. La prise de décision ainsi que son acceptation par tous est facilitée lorsqu'il existe un leader incontesté.
+
+1.4.3. Financement du fonctionnement et du développement
+
+Les PPE naturels, dans leur grande majorité, ne bénéficient que d'aménagements très sommaires permettant aux riverains et au bétail d'avoir accès à l'eau. Les utilisateurs eux-mêmes en sont les instigateurs et en assurent l'entretien, en particulier le défrichage lorsque le chemin est envahi par l'herbe et les ronces. Quand des charrettes et des véhicules doivent avoir accès à l'eau, les riverains se regroupent pour obtenir l'usage d'un engin de terrassement ("grader"). Ce genre de service s'obtient en général lorsqu'il y a un chantier à proximité.
+
+Compte tenu de ses ressources limitées, ce sont pratiquement les seules actions à la portée de la population sans aide extérieure. Il faut également se rendre compte que l'aménagement d'un PPE en lui-même n'incite pas les développeurs des ministères techniques à agir, car les retombées potentielles sont limitées. Par contre, l'aménagement d'un PPE est parfois possible lorsqu'il fait partie d'un projet de développement intégré, comprenant cultures vivrières, petits élevages, pêche, santé publique, etc. De nombreuses "Organisations non gouvernementales" (ONG) exécutent de tels projets, ce qui permet aux riverains de bénéficier de financements extérieurs et d'assistance technique.
+
+L'existence d'un projet présente en outre l'avantage de faciliter la coordination des interventions des diverses administrations concernées; le projet peut mettre en place une structure de gestion au niveau de la population concernée et former les membres les plus actifs de façon à favoriser l'émergence d'une autorité "technique", complémentaire et non pas concurrente des chefs traditionnels (qui doivent, dans la mesure du possible, être associés à la prise de décisions importantes). Cette autorité peut jouer un rôle important de coordination et de suivi des actions entreprises par les diverses administrations.
+
+Il devient alors possible de préparer un programme de gestion du PPE dans lequel on tient compte de toutes les actions possibles; ce programme sert d'orientation à toutes les actions entreprises. En ce qui concerne la pêche, l'existence d'un tel programme peut permettre de définir le nombre de pêcheurs autorisés à travailler, le type d'engins à utiliser, mais il est rare que les données disponibles permettent d'établir un plan de pêche véritable; la tradition a dans ce cas force de loi.
+
+D'une manière générale, les PPE naturels ne sont pas considérés comme des ensembles productifs par eux-mêmes mais constituent l'un des éléments essentiels du cadre de vie de la population riveraine. Leur aménagement ne peut se concevoir que dans un ensemble intégré comprenant tous les aspects essentiels des activités des habitants; la gestion de la pêche ne fait pas exception. Les décisions concernant l'utilisation du PPE doivent être prises en accord avec tous les utilisateurs. Etant donné la faible production halieutique de la majorité des PPE, des aménagements visant à l'améliorer ne pourront se réaliser que dans le cadre de projets intégrés prenant en considération toutes les utilisations possibles.
+
+Dans ces conditions, il est possible d'envisager l'obtention d'un financement extérieur. Cependant, l'échec de nombreux projets de développement basés sur l'introduction de coopératives, montre qu'il faut être très prudent lorsqu'on veut associer le système d'entraide traditionnelle à un système économique "moderne" (Bourdieu, 1980; Platteau, 1982).
+
+
+Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+2. EXEMPLES DE GESTION DE PPE
+
+L'étude de plusieurs exemples choisis dans divers pays nous montre une évolution du niveau de gestion des PPE.
+
+Celui-ci dépend essentiellement de quatre éléments:
+* Le milieu naturel qui peut être plus ou moins contrôlable par l'homme;
+* Le stock halieutique qui peut être modifié par diverses actions;
+* Les modes de capture exercés sur les stocks halieutiques;
+* Enfin, l'utilisation des captures
+
+2.1. Ruisseaux et rivières du Burundi et du Rwanda
+
+2.1.1. Le milieu naturel et son écologie
+
+Nous nous intéresserons aux plateaux du Centre et de l'est de ces deux pays, qui appartiennent au bassin fluvial du Nil. La région présente un relief de collines parfois très escarpées dont l'altitude est comprise entre 1 000 et 2 000 m d'altitude. Les températures moyennes varient de 15 à 20 °C tandis que la pluviométrie se situe entre 1 000 et 1 500 mm par an. Les précipitations se répartissent à peu près uniformément tout au long de l'année, avec cependant une période relativement sèche de juin à septembre. Une multitude de petits cours d'eau sillonne la région et alimente un réseau de marais encombrés de végétation dense et plusieurs petits lacs.
+
+La forêt recouvrait la plus grande partie des collines, mais très tôt, le déboisement a été entrepris pour libérer des pâturages nécessaires aux troupeaux des pasteurs Tutsis (environ 15 % de la population), aux cultures des paysans Hutus (85 % de la population). Les Batwas (Pygmées), largement minoritaires, sont restés en marge du reste de la société, vivant sur les derniers lambeaux de forêt.
+
+Compte tenu des traditions alimentaires locales, le poisson des cours d'eau a longtemps été négligé par les agriculteurs et par les éleveurs; aussi, les Batwas, peu nombreux étaient les seuls à exploiter cette ressource limitée et difficile à exploiter.
+
+La pêche était organisée au niveau d'un village avec la participation de l'ensemble de la population. Plusieurs journées étaient nécessaires pour préparer le poison à partir de plantes sauvages. En effet, l'utilisation de substances toxiques naturelles était la seule méthode de pêche pratiquée; lorsque les vieux du village avaient décidé l'organisation d'une journée de pêche, certaines personnes étaient chargées d'aller ramasser les plantes toxiques en forêt, puis préparaient le poison qui se présentait sous la forme d'une pâte végétale pliée dans de feuilles de bananiers. Cette substance pouvait se conserver quelques jours seulement. Le matin de la journée choisie pour la pêche, la population du village se répartissait tout le long de la section de rivière propice à cette action. En amont, le poison était déversé; les poissons, anesthésiés ou tués, étaient récoltés à la main ou à l'aide d'épuisettes, tandis qu'en aval, le cours d'eau était barré par un filet chargé de
+récupérer les poissons qui auraient échappé à la vigilance des pêcheurs.
+
+Ce genre d'action permettait de capturer tous les poissons d'une portion de rivière, même très difficile d'accès, où les autres techniques employées en Afrique (nasses, filets, hameçons) auraient été sans doute inefficaces. La densité de population étant faible, les pêches collectives n'étaient organisées qu'une fois par an sur la même section de rivière; dans ces conditions, le repeuplement des eaux pouvait s'effectuer dans des conditions satisfaisantes.
+
+A partir des années 50, la pression démographique a fait évoluer les traditions, en particulier celles se rapportant à l'alimentation et à la pêche. Les agriculteurs se sont mis à leur tour à pratiquer la pêche. Donc, les cours d'eau ont été empoisonnés de plus en plus fréquemment et les stocks halieutiques n'ont pas pu se renouveler et ont même pratiquement disparu par endroit.
+
+Les risques sanitaires liés à l'eau sont limités dans ces régions d'altitude au climat tempéré. En particulier, il n'y a ni malaria, ni bilharziose le long des ruisseaux.
+
+2.1.2. Les institutions
+
+Dans les deux pays concernés, les chefs traditionnels ont été remplacés par des fonctionnaires. Les services des pêches, étant donné la faiblesse de la ressource actuelle et potentielle que représente la pêche dans les ruisseaux et les rivières, ne s'en occupent pas. Il en est de même pour les divers organismes de coopération.
+
+2.1.3. Valeur technique
+
+La pêche traditionnelle au poison végétal pratiquée dans des régions difficiles d'accès par des populations riveraines peu nombreuses, présente un intérêt certain, grâce à sa simplicité de mise en oeuvre. Malheureusement, dès que la fréquence de cette pratique augmente et ne permet plus aux stocks halieutiques de se régénérer, elle transforme rapidement les cours d'eau en un désert biologique. Il faut donc la bannir absolument, d'autant plus que les traditions se perdant en partie, certains ne savent plus préparer les poisons traditionnels, et utilisent à leur place des pesticides agricoles dangereux.
+
+Cet exemple montre qu'une technique, valable dans un contexte humain bien particulier, peut devenir néfaste lorsque les conditions socio-économiques changent.
+
+2.1.4. Conclusion
+
+Nous avons ici un niveau de gestion très bas: un stock halieutique naturel est prélevé par un groupe de riverains lorsque le besoin s'en fait sentir. Rien n'est aménagé pour tenter d'obtenir une production régulièrement espacée dans le temps.
+
+La protection du stock ne provient que de la limitation des captures dans l'espace et dans le temps. Cela est valable dans des régions faiblement peuplées, mais conduit inévitablement à l'épuisement des stocks lorsque la pression démographique s'accroît.
+
+2.2. Forêt inondée: Cameroun, République centrafricaine, Gabon, Guinée equatoriale, Zaïre
+
+2.2.1. Le milieu naturel et son écologie
+
+Les régions d'Afrique centrale recevant des précipitations annuelles supérieures à 2 000 mm sont naturellement couvertes de forêt dense. Dans les plaines, la faiblesse des pentes et la végétation ralentissent l'écoulement de l'eau qui persiste longtemps sur place, créant des zones marécageuses parfois très étendues. Nous prendrons comme exemple précis, la région de Batouri, à l'est du Cameroun, près de la frontière avec la République centrafricaine. Le principal cours d'eau est la Kadéï, affluent du fleuve Zaïre. Le sous-sol formé de gneiss et de granite, donne par décomposition des sols acides, latéritiques, pauvres en sels minéraux. Les déchets végétaux de la forêt sont dégradés en humus; dans ces conditions, les eaux de ruissellement sont acides et chargées en tanins, donc peu productives au niveau du phytoplancton; la faible pénétration de la lumière solaire en forêt accentue ce phénomène. La faune ichtyologique riche et variée dépend principalement de la forêt pour
+couvrir ses besoins: insectes, végétaux, etc. (Matthes, 1991).
+
+La population de ces régions est faible et répartie en villages situés le long des quelques pistes en des points protégés des inondations. L'activité principale est l'agriculture: manioc, taro, bananes, café, cacao. Quelques chèvres, volailles et porcs sont élevés au village, mais l'essentiel des protéines animales consommées provient du gibier et du poisson. En effet, la plupart des paysans pratiquent la chasse ou la pêche lorsque les travaux des champs leur en laissent le temps. Les meilleures périodes de pêche correspondent aux hautes eaux (juillet à septembre et décembre à février), mais cette activité se pratique toute l'année en fonction des besoins. Les hommes vont seuls en forêt inondée; ils utilisent des nasses tressées avec des matériaux locaux, des palangres appâtées ou non et parfois des filets maillants, bien que ces engins soient peu pratiques et très vite dégradés dans ce milieu. Outre les poissons, ces pêcheurs capturent aussi des tortues, parfois des
+crocodiles et des serpents. Dans certains cas, des substances toxiques sont utilisées; il est important de souligner que les poisons végétaux traditionnels rapidement dégradés, sont remplacés par des pesticides agricoles dangereux. Les femmes peuvent pêcher pendant les basses eaux, dans les mares et les ruisseaux, jamais en forêt; elles utilisent surtout des épuisettes sans manches.
+
+L'équipement de pêche est acheté à la ville voisine chez un commerçant qui dispose parfois d'un ballot de filet et de quelques boîtes d'hameçons vendus au détail avec un fort bénéfice.
+
+Les riverains étant peu nombreux et tous de même origine, on ne mentionne pas de conflits sérieux. La répartition des biefs est faite par le chef du village. L'eau étant présente partout en toute saison, il n'existe pas de conflits pour son utilisation.
+
+Les risques sanitaires liés à l'eau, encourus par les pêcheurs occasionnels sont les mêmes que pour tous les habitants de la forêt: essentiellement la malaria; mais ils sont aggravés par l'isolement des populations, le manque de dispensaires et les difficultés de communication.
+
+2.2.2. Les institutions
+
+La caractéristique première des villages de forêt est leur isolement; le chef en est le seul responsable permanent. Les divers services administratifs se trouvent au chef-lieu, souvent inaccessible pour les riverains une partie de l'année.
+
+Le Ministère de l'élevage, de la pêche et des industries animales est l'administration de tutelle de la pêche; en dehors du chef-lieu où se trouve la délégation départementale, il existe deux ou trois postes de pêche placés sur les pistes empruntées par les vendeurs de poisson. Ces postes de pêche ont plusieurs fonctions; le recensement des pêcheurs et la vente des permis, la vulgarisation de techniques et d'équipements nouveaux, ainsi que, le contrôle sanitaire du poisson et la perception de la taxe de contrôle. Ces postes, peu nombreux, s'addressent surtout aux marchand(e)s de poisson et aux pêcheurs travaillant sur la rivière en pirogue et utilisant des filets maillants, qui n'entrent pas dans le cadre de cette étude.
+
+Nous remarquerons cependant que l'efficacité de ces postes est limitée: il est pratiquement impossible d'effectuer simultanément deux actions antagonistes telles que la vulgarisation et la perception de taxes.
+
+Les pêcheurs occasionnels de la forêt, qui travaillent seuls et sans embarcation, ne sont pas recensés et ne bénéficient d'aucun encadrement. De plus, lorsqu'une action est entreprise en faveur de la pêche par le gouvernement et/ou une agence de coopération bilatérale pour la fourniture d'équipement, ces pêcheurs n'en bénéficient pas.
+
+2.2.3. Valeur technique
+
+Il est bien évident que la pêche pratiquée sur de vastes surfaces par des hommes isolés, disposant d'un équipement limité à quelques nasses, des hameçons et une ou deux pièces de filet maillant, respecte l'environnement, exception faite de l'utilisation de pesticides qui doit être absolument bannie.
+
+La pêche en forêt prélève un stock halieutique mal connu, mais qui est probablement le dernier encore sous-exploité du continent; des inventaires d'espèces existent, mais par contre, les évaluations de production restent très vagues. La forêt inondée constitue le milieu de reproduction et de croissance de nombreuses espèces qui n'apparaissent dans les rivières qu'à certaines époques. A ce titre, il est fondamental de protéger la forêt pour maintenir actives les pêcheries des grands fleuves d'Afrique centrale. La difficulté d'accès aux zones de pêche constitue d'ailleurs la meilleure protection de ce milieu.
+
+Des évaluations précises des stocks halieutiques de forêt devraient être réalisées avant toute action de développement de la pêche. Pour l'instant, les pêcheurs travaillent essentiellement pour leur propre consommation. Mais, à mesure que des routes sont construites, que le déboisement s'intensifie, de nouvelles zones leur sont accessibles, des marchands plus nombreux viennent leur acheter leurs prises et les poussent à augmenter leur effort. Cela permet indéniablement d'améliorer le niveau de vie des populations de la forêt, mais jusqu'où peut-on aller?
+
+2.2.4. Facteurs limitatifs
+
+Ce genre de pêche à pied se pratique dans toutes les forêts inondées d'Afrique centrale. Les difficultés de communication et d'accès aux zones de pêche, le mode de vie extrêmement précaire des populations concernées, le manque de relations commerciales avec les villes, font que cette activité se limite à couvrir les besoins des riverains. Les techniques de capture n'ont pas évolué; ce sont pratiquement les mêmes partout: nasses traditionnelles, hameçons, filets maillants, parfois substances toxiques naturelles et de plus en plus malheureusement, pesticides agricoles. Bien qu'elles soient efficaces, le problème fondamental demeure le transport du poisson du lieu de capture jusqu'au village, et ensuite, en cas de surplus, le procédé de conservation non performant.
+
+2.2.5. Gestion de la ressource
+
+On ne peut pas parler ici de gestion de la ressource; les riverains vont à la pêche lorsque les activités agricoles leur en laissent le temps. La quantité de poisson capturée est en rapport avec les besoins de la famille et s'il y a un surplus, le pêcheur doit être capable de ramener les captures au village tout seul, ce qui limite forcément la quantité.
+
+La pêche en forêt constitue une activité complémentaire de l'agriculture, fondamentale pour la qualité de l'alimentation des populations concernées. Les stocks halieutiques sont ici probablement sous-exploités; un développement de ce genre de pêche ne sera possible que si les moyens de communication entre les zones de capture et les régions fortement peuplées sont améliorés. La connaissance de la productivité de ces ressources halieutiques est pour l'instant insuffisante pour que l'on fasse des prévisions d'augmentation de captures.
+
+2.2.6. Conclusion
+
+Dans l'exemple étudié, un stock halieutique complexe est exploité dans un milieu isolé. Le stock est ici doublement protégé: d'une part, les pêcheurs peuvent difficilement atteindre les zones de pêche; d'autre part, les mareyeurs éprouvent de grandes difficultés pour aller auprès des pêcheurs et ensuite transporter le poisson vers le consommateurs.
+
+2.3. Mares de la région du Sourou, Burkina Faso
+
+2.3.1. Le milieu naturel et son écologie
+
+Quoique peu élevé (quelques reliefs ayant une altitude de 500 à 1 000 m) et relativement peu arrosé (pluviométrie comprise entre 1 400 mm dans le sud-ouest et 500 mm dans le Nord), le Burkina Faso possède un réseau hydrographique assez important, surtout dans sa partie méridionale. Les cours d'eau se rattachent aux trois bassins principaux du Mouhoun (ex Volta noire), de la Comoé et du Niger (Deceuninck, 1989).
+
+Il existe plusieurs lacs naturels, dont le plus grand a une superficie de près de 1 000 ha (Lac de Bam) mais dont la majorité, les "mares", a une surface inférieure à 100 ha.
+
+Le pays étant très peu accidenté, le plaines d'inondation représentent pour l'ensemble du pays de 150 000 à 200 000 ha au cours de la saison des pluies (CILLS, 1977).
+
+Pour faire face à la longue saison sèche le gouvernement a mené une politique de gestion de l'eau très active. Ainsi, plus de 300 barrages dont la superficie varie de quelques hectares à plus de 10 000 ha, ont été construits (Deceuninck, 1989).
+
+L'évapotranspiration est un paramètre très important dans un pays où l'absence de relief est marqué, la profondeur des mares et des plaines d'inondation à leur niveau maximum se situe entre 3 mètres et quelques centimètres, et la saison sèche a une durée de 7 à 9 mois par an. Cette évapotranspiration varie de 1 500 mm dans le sud-ouest à 2 200 mm dans le Nord; cela indique une grande variabilité du niveau des plans d'eau, grands et petits, qui sont, dans leur majorité temporaires.
+
+Les paramètres que nous venons d'énoncer montrent qu'il existe dans le pays, surtout dans la partie sud-ouest, de nombreux petits plans d'eau. Par ailleurs, dans un pays où la production annuelle de poisson est de l'ordre de 7 000 t et les importations de 4000 t alors que les besoins dépasseraient 100 000 t/an, le gouvernement fait des efforts pour améliorer les captures nationales et développer la pisciculture. Dans ce but, la Direction de la Pêche et de la Pisciculture (Ministère de l'environnement et du tourisme) a demandé l'assistance technique et financière d'organismes internationaux et bilatéraux, ainsi que d'ONG, pour préparer et exécuter des projets de développement de la pêche.
+
+Nous prendrons comme exemple de gestion de PPE, la mare de Kou et la région de Bossora. Ce choix a été dicté par les facteurs humains, très différents d'un endroit à l'autre.
+
+La mare du Kou se trouve dans une dépression de la plaine du Kou, affluent du Mouhoun, à environ 30 km au Nord-ouest de Bobo-Dioulasso. Elle est alimentée par l'eau résiduelle d'un périmètre rizicole irrigué à partir de la rivière. Sa superficie, qui était de 200 à 250 ha suivant la saison, a été réduite à une centaine d'hectare par suite de l'ouverture d'un canal d'irrigation en 1985, qu'il est prévu de fermer (Corsi et Coenen, 1988).
+
+Un groupement de 21 pêcheurs professionnels bukinabés exploite ce plan d'eau; ils étaient 28 avant l'ouverture du canal. Tous ces pêcheurs résident dans le village situé à proximité de la mare. lls disposent d'un bon équipement composé de filets maillants, d'éperviers, d'hameçons et de nasses. Ils ont bénéficié d'un crédit pour acheter leur matériel et l'ont remboursé en totalité.
+
+Le village de Bossora se trouve dans une région relativement aride, à 84 km au nord-est de Bobo-Dioulasso, à proximité du fleuve Mouhoun. Durant la saison des pluies, de grandes zones de la vallée sont inondées, créant plusieurs mares dont certaines sont permanentes (Corsi et Coenen, 1988). Les habitants sont en majorité des agriculteurs. Parmi eux, une trentaine pratiquent la pêche pendant la saison des pluies.
+
+A 5 km du village se trouve un campement Bozo qui constitue un point de transit pour de nombreux pêcheurs nomades opérant le long du fleuve Mouhoun. Pendant l'hivernage, environ 45 pêcheurs professionnels exploitent les mares de la plaine d'inondation à partir de ce campement et migrent ailleurs lorsque le stock halieutique est épuisé. Seuls quelques Maliens restent toute l'année sur place et pratiquent l'agriculture.
+
+Les rapports entre les deux communautés sont conflictuels, principalement à cause de la répartition des points de pêche très réduits en saison sèche (Vincke, 1990).
+
+Dans les deux zones étudiées, les principales maladies liées à l'eau sont présentes et la situation des riverains à ce sujet est aggravée par leur isolement dû au mauvais état des pistes, surtout pendant l'hivernage (saison des pluies, de Juin à Septembre).
+
+2.3.2. Les institutions
+
+Par l'intermédiaire de divers projets de développement, le gouvernement poursuit son objectif de stimuler l'intérêt des pêcheurs burkinabés. Dans cette optique, les pêcheurs de la mare de Kou ont reçu un crédit pour acheter des équipements et ils l'ont rapidement remboursé. Les résultats positifs du groupement s'expliquent par plusieurs facteurs: un encadrement efficace est assuré par un agent des Eaux et Forêts. De plus, la structure sociale du groupement, relativement autonome, n'est pas entravée dans ses actions, par l'organisation traditionnelle du village. Au contraire, les membres du groupement sont ouverts aux techniques nouvelles.
+
+Dans ces conditions, les captures, qui étaient de 11 698 kg en 1987, sont passées à 22 434 kg en 1988, soit plus du double du potentiel estimé à 10 t pour 100 ha exploitables. Il semble donc que l'effort de pêche actuel est excessif, exercé par un trop grand nombre de pêcheurs (Vincke, 1990). Il faut cependant noter que la productivité de cette mare est probablement supérieure à la moyenne régionale car l'eau de la rivière traverse un périmètre agricole où elle s'enrichit en éléments nutritifs avant d'arriver ici.
+
+Un suivi rigoureux du stock halieutique est donc indispensable pour organiser la gestion de la mare et réduire éventuellement l'effort de pêche afin de parvenir à un équilibre à long terme de l'exploitation.
+
+C'est ainsi également que, parmi les occasionnels du village de Bossora, 14 d'entre eux ont été organisés en groupement en 1988 et ont reçu un crédit d'équipement d'un projet, ce qui ne simplifie pas les relations avec les Bozos. De plus, les remboursements du crédit ne s'effectuent pas au niveau et à la fréquence prévus. L'encadrement de ces pêcheurs très dispersés par un seul agent des Eaux et Forêts ne résidant pas sur place est insuffisant; de ce fait, on ne dispose pas de données fiables sur les captures et il n'y a pas d'estimation globale du potentiel de cette zone qui est très dépendant des conditions pluviométriques, et donc très variable d'une année à l'autre.
+
+Pourtant, si l'on veut parvenir à une gestion équilibrée de la ressource, il est indispensable d'améliorer les connaissances sur le stock halieutique et d'organiser son exploitation avec tous les riverains concernés. Les pêcheurs burkinabés occasionnels sont insuffisants pour gérer la zone à eux seuls; les Bozos, par contre, ont tendance à capturer la totalité du poisson présent dans un site avant d'aller ailleurs. Cette technique n'est acceptable que dans les PPE temporaires qui reçoivent de nouveaux poissons à chaque inondation. Une action de sensibilisation visant à améliorer la gestion du plan d'eau ne pourra donner des résultats positifs que si tous les riverains se sentent également concernés, et donc si le campement Bozo est intégré au programme de développement au même titre que les Burkinabés du village.
+
+2.3.3. Valeur technique
+
+La gestion des mares se fait au jour le jour sans prévision à long terme, par deux groupes de pêcheurs totalement opposés: d'une part, les professionnels Bukinabés (Kou) et Bozos (Bossora), et de l'autre, les occasionnels Burkinabés (Bossora).
+
+Les profesionnels bien équipés sont très efficaces et si aucune réglementation n'est appliquée, ils travaillent jusqu'à épuisement de la ressource.
+
+Les occasionnels pratiquent surtout une pêche de subsistance et s'ils sont seuls à travailler sur un PPE, ils sont incapables de porter les captures au niveau maximum soutenable et laissent le stock sous-exploité.
+
+Les deux difficultés majeures dans ce mode de gestion sont tout d'abord de faire vivre et travailler en bonne harmonie deux populations antagonistes et ensuite d'adapter les équipements aux réalités: il sont insuffisants chez les occasionnels et trop performants chez les professionnels.
+
+Par ailleurs, la commercialisation du poisson devrait être réalisée en priorité sur les marchés locaux; seuls d'éventuels excédents devraient pouvoir être vendus en ville.
+
+Un programme de sensibilisation organisé directement par le gouvernement ou par l'intermédiaire d'un projet ou d'une ONG doit expliquer la situation et préparer un plan de gestion acceptable par tous, c'est-à-dire qui permet la pratique de la pêche au bénéfice. Ensuite, lorsque tous les riverains concernés ont compris l'intérêt d'une telle action, la réglementation peut être appliquée.
+
+2.3.4. Facteurs limitatifs
+
+Ils se situent au niveau de la gestion. Les PPE considérés étant surexploités, le problème consiste à maintenir les captures au niveau maximum soutenable par l'application d'une réglementation ménageant les intérêts apparemment contradictoires de tous les riverains. La solution ne peut être trouvée que par la concertation entre les divers groupes concernés de telle sorte que la réglementation doit être élaborée par les pêcheurs eux-mêmes avec l'aide des techniciens.
+
+2.3.5. Les éléments de gestion qui permettent d'éviter la surexploitation sont connus: suivi statistique des captures, réglementation des mailles des filets, réduction du nombre d'engins de capture et des pêcheurs, permis de pêche payants, périodes de fermeture de la pêche, etc.
+
+L'application de ces mesures, par contre, est toujours problématique; il est généralement nécessaire d'atteindre l'épuisement quasi total des stocks halieutiques pour que les pêcheurs comprennent la nécessité de prendre des mesures restrictives.
+
+2.3.6. Conclusion
+
+Dans les "mares" du Sourou des stocks halieutiques naturels sont exploités par de bons pêcheurs professionnels avec des méthodes modernes. Il n'existe aucune véritable action en faveur de la conservation des stocks; le niveau des captures est supérieur à la productivité du milieu, ce qui conduit à une dégradation de la situation. Toute forme de gestion devrait nécessairement limiter l'activité des pêcheurs et viendrait à l'encontre des intérêts immédiats des riverains.
+
+2.4. Petits lacs du Rwanda et du Burundi
+
+2.4.1. Le milieu naturel et son écologie
+
+Les nombreux petits cours d'eau provenant des collines alimentent tout un réseau de bas-fonds marécageux encombrés par une épaisse végétation de papyrus. Par endroits les vallées se resserrent rendant possible la création de barrages naturels constitués au départ d'amas végétaux arrachés aux marais au cours des crues, et par la suite, colmatés par le sédiment transporté par l'eau.
+
+Certains de ces lacs sont relativement anciens et possèdent une ichtyofaune composée d'un nombre limité d'espèces de petite taille (une trentaine); c'est le cas des trois lacs dont nous allons étudier la gestion: le lac Ihema, 90 km^2, à l'est du Rwanda, tout près de la frontière tanzanienne, les lacs Cohoha, 60 km^2 et Rweru, 80 km^2, tous deux situés sur la frontière entre le Rwanda et le Burundi. Les barrages naturels successifs existant le long des rivières et la végétation des marais constituent d'excellents filtres pour la plus grande partie des sédiments provenant des montagnes environnantes; l'eau des lacs est donc très limpide et acide par suite de dépôts de débris de papyrus. Par ailleurs, les barrages naturels représentent des barrières infranchissables pour les poissons, ce qui explique la pauvreté relative de ces lacs comparée à la richesse faunistique du lac Victoria (plus de 200 espèces différentes dont beaucoup sont endémiques) alors que tous font partie du
+bassin fluvial du Nil.
+
+Les rivages des trois lacs sont en partie constitués par des marais couverts de papyrus, ce qui les rend très variables et difficiles d'accès. Le fond est en grande partie recouvert de déchets végétaux en décomposition; seules quelques zones présentent un rivage ferme et un fond sableux ou sablo-vaseux peu profond pouvant servir de frayère aux espèces nidicoles. Ces diverses caractéristiques déterminent différents biotopes occupés par des peuplements spécifiques. L'ichtyofaune naturelle du lac Ihema (Plisnier et al., 1988) comprend une majorité de Cichlidae du groupe Haplochromis qui ne sont pratiquement pas exploités. Elle comprend aussi Clarias gariepinus, qui est le seul prédateur de grande taille, ainsi que Schilbe sp., Synodontis sp. et Gnathonemus sp. Le manque relatif de poissons d'intérêt commercial et en particulier de planctonophages a conduit à l'introduction de divers tilapia au cours des années 50 (T. nilotica, T. macrochir et T. rendalli) qui se sont bien
+acclimatés et ont produit des hybrides. La situation est comparable dans les lacs Cohoha et Rweru (avec cependant quelques caractéristiques propres à chacun de ces milieux).
+
+Les populations riveraines sont très importantes autour des lacs Cohoha et Rweru, tous deux étant situés dans des régions agricoles où la surface moyenne des exploitations est inférieure à ½ hectare. Les cultures principales sont le tabac et le café qui procurent quelques revenus aux paysans, mais leur permet difficilement d'acheter des aliments de bonne qualité compte tenu de la pauvreté des marchés locaux. Dans ces conditions, de nombreux paysans consacrent une partie de leur temps à la pêche. Ainsi, les pêcheurs occasionnels opérant sur le lac Cohoha sont estimés à une centaine et ceux travaillant sur le Rweru à 250-300. Ces chiffres sont très approximatifs pour plusieurs raisons; tout d'abord les pêcheurs ne sont pas vraiment recensés par les administrations des pêches des deux pays concernés et ensuite, ils travaillent indifféremment de part et d'autre de la frontière quelque soit leur origine. Enfin, comme tous les occasionnels, ils pratiquent la pêche lorsque les
+travaux des champs leur en laissent le temps. Le poisson qui n'est pas vendu sur place est commercialisé dans le pays offrant les cours les plus élevés, généralement le Rwanda.
+
+La situation autour du lac Ihema est totalement différente car le lac se trouve en totalité dans un parc national où la circulation des personnes est strictement contrôlée. Un centre de pêche a été ouvert par l'administration de tutelle; compte tenu des résultats d'une étude scientifique préalable, quatre-vingt pêcheurs ont été installés sans leurs familles. Tous les débarquements de poisson se font au même endroit sous contrôle d'un fonctionnaire.
+
+L'engin de pêche le plus fréquent dans les trois lacs est le filet maillant (50 mm de maille officiellement) qui permet de capturer principalement des tilapia et des silures qui sont les poissons ayant la plus grande valeur marchande, mais laisse inexploité le stock d'haplochromis qui est peu estimé. Une exploitation rationnelle d'un peuplement ichtyologique varié nécessite l'emploi d'équipements adaptés à chaque espèce. Dans cette optique, plusieurs expériences ont été réalisées. Dans les années 60, un chalutier privé de 50 chevaux a travaillé dans le lac Rweru; les captures de tilapia vendues à Bujumbura ont été excellentes pendant les premières années mais après une dizaine d'années, le stock a été épuisé et l'armateur du bateau a cessé son activité. Dans le lac Ihema des essais récents de chalutage au moyen de deux pirogues motorisées ont permis d'obtenir de grosses prises d'haplochromis; la senne tournante et coulissante manoeuvrée à partir d'un seule pirogue donne des
+résultats semblables. Ces deux techniques en sont encore au stade expérimental sous contrôle scientifique.
+
+Dans les lacs Cohoha et Rweru il existe depuis 1987 au Burundi quatre coopératives (deux par lac) utilisant chacune une senne de plage. Ces engins, au début permettaient d'attraper un mélange d'espèces de tailles variées, mais leur utilisation a été arrêtée à cause de leur action destructrice.
+
+Ces exemples ont été choisis dans une région où il n'existait pas ou peu d'activité de pêche. Seule la pêche dite "coutumière" était pratiquée par quelques pêcheurs utilisant des pirogues monoxyles et exploitant le stock halieutique naturel peu important. L'introduction des tilapia a modifié la situation.
+
+Nous avons vu qu'un petit chalutier a été utilisé dans le lac Rweru jusqu'à épuisement du stock. L'armateur Européen a organisé une affaire commerciale relativement prospère au début avec l'accord des autorités. Les riverains n'ont que très peu bénéficié de l'entreprise car la production était vendue dans la capitale, et il faut souligner que durant les années 1960, le poisson était inconnu par la plupart des paysans des deux pays concernés. Ce n'est que progressivement que ces populations ont appris à consommer du poisson, surtout des petits pélagiques séchés provenant du lac Tanganyika, situé à 200 km du lac Rweru.
+
+Au cours de la même période, des filets maillants ont été mis en vente dans le commerce local, ce qui a permis à des agriculteurs de diversifier leurs activités au moment où la pression démographique devenait de plus en plus forte. La pêche s'est ainsi développée dans les lacs Cohoha et Rweru sans suivi statistique fiable de part et d'autre de la frontière. Les estimations de potentiel ont été réalisées en comparaison avec d'autres lacs "similaires", en tenant compte de la biomasse d'Haplochromis qui demeure inexploitée (et qui représenterait 80% du total au Cohoha et 35% au Rweru). De plus, les maillages sont généralement trop réduits (35 mm) pour permettre la préservation des stocks halieutiques.
+
+L'intensité de l'effort de pêche varie beaucoup en fonction des relations entre les deux pays riverains; de plus le commerce du poisson est orienté vers les marchés les plus rémunérateurs, ce qui est très changeant. La consommation de poisson demeure faible au niveau local sauf autour des lacs.
+
+Les pêcheurs accusent souvent leurs collègues de l'autre berge de venir voler leurs filets la nuit. Les informations précises manquent à ce sujet. Autre motif de discussion: les utilisateurs de filets maillants accusent les pêcheurs à la senne de leur prendre les meilleures zones et de détruire les frayères, ce qui est exact. Ce problème semble réglé par l'interdiction récente des engins traînants.
+
+L'évolution de la gestion du lac Ihema a été totalement différente. Le lac est inclus dans le parc national de l'Akagera et se trouve sous contrôle de l'Office Rwandais du Tourisme et des Parcs Nationaux (ORTPN). Mis à part le personnel du parc et de l'hôtel voisin, il n'y a pas de population riveraine. Jusqu'en 1980, les seules captures de poissons étaient le fait de braconniers tanzaniens traversant la frontière est, toute proche. En 1981, un projet de développement de la pêche a été organisé sur un site bien délimité, avec 80 pêcheurs autorisés à résider sur place sans leur famille, et uniquement pendant les campagnes de pêche. Cette organisation sévèrement contrôlée permet d'obtenir des données de production fiables et de gérer la pêcherie conformément aux recommandations des scientifiques. Mais, dans ce cas, il n'existe pas de population riveraine. On se rapproche des conditions de travail et de vie existant dans les campements de pêcheurs nomades du Sahel qui vont d'un
+marigot à l'autre en fonction du niveau d'eau et de la disponibilité en poisson.
+
+Les risques sanitaires encourus par les riverains des trois lacs situés à environ 1 350 m d'altitude sont relativement limités; cependant, la bilharziose existe et il faut signaler le danger que représentent les hippopotames et les crocodiles pour les pêcheurs et leurs filets.
+
+2.4.2. Les institutions
+
+Dans les deux pays concernés, les gouvernements ont mis en place des fonctionnaires chargés de l'administration auprès des populations riveraines des lacs Cohoha et Rweru. Cette situation est surtout effective au Rwanda qui a bénéficié d'un projet financé par la Banque mondiale. Mais, étant donné leur position excentrée, ces deux lacs ne bénéficient pas d'assistance technique directe de la part des deux services des pêches. Des techniciens viennent parfois en mission pour quelques jours. Il en est de même pour les quelques études scientifiques déjà réalisées; un spécialiste de l'Université de Bujumbura ou des consultants, font des prélèvements au cours d'un bref séjour sur place, mais il n'existe pas d'étude basée sur des observations régulières au cours d'un cycle d'au moins un an. En particulier, il n'existe pas d'étude des stocks halieutiques.
+
+Le seul contrôle approximatif de la production est effectué au niveau des transports routiers et vise à collecter une taxe. Il n'est donc pas possible d'utiliser ces données pour estimer, même grossièrement, les captures de chacun des deux lacs.
+
+Coté rwandais, la collecte des poissons et leur transport sur Kigali ont été organisés. Sur les rives burundaises, un projet de développement régional avec financement CEE a organisé les quatre coopératives de pêcheurs utilisant des sennes; ces engins ont été fournis à crédit en 1987. Il a existé jusqu'en 1989, au bord du lac Rweru, un campement de la pêche figurait parmi les activités de ce groupe. La majorité des pêcheurs/agriculteurs sont indépendants et achètent leurs filets dans le commerce local lorsqu'ils sont disponibles et lorsqu'ils ont de l'argent, c'est-à-dire au moment de la récolte du café et du tabac. Quelques artisans fabriquent des pirogues, en nombre insuffisant, en utilisant du bois local, cher et de mauvaise qualité.
+
+La situation est totalement différente sur le lac Ihema. Sa situation enclavée au sein du parc national de l'Akagera fait que l'encadrement des pêcheurs par l'administration est effectif. Tous les paramètres de la pêcherie sont connus: nombre de pêcheurs, équipement utilisé, nombre de sorties de pirogues, captures, commercialisation. Les scientifiques et l'administration du centre de pêche travaillent ensemble, avec l'appui de la coopération bilatérale belge, ce qui devrait permettre de gérer le lac de façon optimale. Cependant, des problèmes humains apparaissent car les pêcheurs sont séparés de leurs familles. Dans un pays où la pression démographique est intense, le gouvernement craint de voir un noyau de population incontrôlable apparaître au milieu du parc si les familles des pêcheurs sont autorisées à venir sur place.
+
+2.4.3. Valeur technique
+
+L'exploitation des ressources halieutiques des lacs Cohoha et Rweru obéit à une logique économique ultra libérale. Celui qui peut se procurer des filets et une pirogue peut pêcher, ou peut faire travailler un pêcheur. Tant que le volume des captures le permet, les pêcheurs vendent leur poisson à des commerçants qui vont les écouler sur les marchés les plus rémunérateurs. Aucune politique rigoureuse de gestion de la ressource, qui est mal connue, n'est appliquée par les administrations concernées, même s'il existe un plan directeur des pêches et de la pisciculture au Burundi depuis 1988. Cela conduit à une surexploitation, à la diminution des captures, à l'arrêt partiel de l'activité des pêcheurs, puis à sa reprise, etc.
+
+Une amélioration de cette situation ne pourrait provenir que d'une gestion en commun des deux lacs par les deux services des pêches concernés. On mesure ici l'importance que peuvent avoir depuis 1989, les recommandations du projet régional de planification des pêches continentales FAO RAF/87/099.
+
+Le lac Ihema, par contre, est géré dans des conditions théoriquement idéales: une équipe de fonctionnaires formée dans ce but, est chargée d'exploiter un milieu naturel neuf, parfaitement contrôle, sur lequel existent de nombreuses données scientifiques; de plus, des spécialistes sont disponibles pour compléter ces informations si cela s'avère nécessaire. Les techniques de capture utilisées sont directement issues des travaux de recherche et suivent l'évolution des connaissances sur les stocks halieutiques. La commercialisation des captures s'effectue sur les marchés des villes où les prix sont les plus élevés. La pêcherie d'Ihema a été aménagée de toutes pièces en 1980. Un financement bilatéral a été nécessaire au départ sous la forme d'un don. ll faut espérer que la gestion du projet sera suffisamment rigoureuse pour maintenir l'équilibre financier et permettre à la pêcherie de poursuivre ses activités après la fin des financements extérieurs. Un autre facteur important
+doit être souligné; il s'agit de la situation artificielle dans laquelle sont placés les travailleurs de la pêcherie, qui ne sont pas de la région et sont séparés de leur famille. De plus, l'économie de la pêcherie est coupée de la région: les revenus des employés sont surtout dépensés par leurs familles dans leur région d'origine; les fournitures en équipement et en biens de consommation utilisées au campement proviennent de la capitale; les captures sont vendues à Kigali. Les habitants de la région ont protesté contre cette situation afin qu'une partie au moins du poisson soit vendue à la périphérie du parc.
+
+2.4.4. Eléments de gestion pouvant être transférés ailleurs
+
+D'après les trois exemples que nous venons d'étudier, il apparaît que la gestion d'un PPE pour que l'exploitation en soit équilibrée à long terme, doit respecter les facteurs humain, scientifique, technique et économique.
+
+On peut considérer que dans les cas des lacs Cohoha et Rweru, il existe une mauvaise application des lois et des facteurs techniques, mais que les facteurs humains sont respectés. Dans le cas du lac Ihema, les facteurs scientifique, techniques et commercial sont traités dans de bonnes conditions; par contre, le facteur humain nést pas considéré à sa juste valeur.
+
+Pour qu'un mode de gestion efficace puisse exister au niveau d'un PPE, il faut qu'il y ait une structure administrative compétente jouant un rôle de coordination des divers services techniques concernés. Cela a d'ailleurs été demandé par les deux gouvernements pour les lacs Cohoha et Rweru lors de la seconde consultation technique dans le cadre du projet RAF/87/099 (Kigali, novembre 1991). De plus, les riverains doivent être informés du potentiel offert par le PPE ainsi que de ses limites, et avoir la possibilité de prendre des initiatives concernant l'organisation des captures et la commercialisation.
+
+2.4.5. Conclusion
+
+Les petits lacs que nous venons d'étudier n'étaient le siège d'aucune activité traditionnelle de pêche. Les principales raisons en sont probablement la faible pression démographique jusqu'au début du siècle, le peu d'intérêt pour le poisson de la part d'une population dominée par des éleveurs et le manque de technologie de pêche en milieu lacustre.
+
+L'introduction de diverses espèces de tilapia qui s'est avérée être un succès, a permis le développement de la pêche commerciale. L'investissement de base étant élevé, les riverains n'ont pas été concernés par ces opérations. De plus, le commerce du poisson a été orienté vers les villes.
+
+Peu à peu, les riverains ont appris à pêcher et ont eu accès à certains équipements tels que filets maillants, sennes, pirogues. Les populations locales ont pris l'habitude de consommer du poisson, même les espèces de petite taille qui ont été longtemps négligées (Haplochromis spp.). Ces petits lacs constituent des milieux où la pêche est facile à pratiquer et autour desquels la demande pour le poisson est forte à présent.
+
+Deux cas de gestion se présentent:
+
+Tout d'abord les captures et le commerce du poisson sont entièrement libres. On observe une rapide augmentation de l'effort de pêche conduisant à la surexploitation et à un épuisement quasi total du stock halieutique.
+
+Ensuite, l'administration peut dans certains cas décider du nombre de pêcheurs autorisés à travailler ainsi que du type et de la longueur des engins de pêche en fonction des recommandations des scientifiques. Les captures et leur commerce sont strictement contrôlés. Dans ces conditions, le stock halieutique est préservé.
+
+2.5. Les deux barrages d'alimentation en eau potable de la ville de Bouaké, Côte d'Ivoire
+
+2.5.1. Le milieu naturel et son écologie
+
+La ville de Bouaké, au centre de la Côte d'Ivoire, se trouve dans une région au relief très monotone avec une végétation de savane arborée et quelques lambeaux de forêt sèche. Les précipitations annuelles de l'ordre de 1 200 mm sont réparties de fin mars à novembre. Les quatre mois de saison sèche au cours de laquelle souffle l'harmattan venant du Sahel provoquant une évaporation intense, nécessitent l'aménagement de réservoirs destinés à couvrir les besoins en eau. Ainsi, deux barrages ont été construits pour l'alimentation d'une agglomération en croissance rapide, abritant plusieurs centaines de milliers d'habitants.
+
+Le plus ancien se trouve à la sortie sud de la ville, sur la rivière Kan; la digue a environ 150 m de longueur pour une hauteur maximale de 8 m, produisant un réservoir d'une cinquantaine d'hectares de superficie.
+
+Le second est situé à 25 km à l'ouest de Bouaké sur la rivière Loka; une digue d'environ 300 m pour une hauteur maximale de près de 10 mètres, crée une retenue de plus de 200 hectares.
+
+La saison sèche étant courte et les rivières permanentes, le marnage est faible dans les deux cas: deux mètres environ les années de pluviométrie moyenne.
+
+La végétation immergée est importante dans la retenue de Loka. De nombreux arbres morts dépassent de la surface de l'eau, vestiges de la forêt qui persiste au nord du lac. L'eau est très riche en plancton et la concentration en oxygène dissous est faible en profondeur. Les poissons les plus abondants sont des tilapia et des silures provenant de la rivière Loka, mais aussi de la station de pisciculture des Eaux et Forêts située en contre-bas de la digue. Cinq agriculteurs-pêcheurs résidant au village voisin travaillent sur le lac avec une pirogue et des filets mailants (maille 30 mm). Ils posent les engins tôt le matin et les relèvent avant midi; des femmes les aident à leur retour pour trier le poisson et le ramener au village. Les captures sont faibles, 2 à 5 kg par sortie et par pêcheur, et les poissons n'excèdent pas 200 g pièce; tout est consommé au village car Loka est situé près de la route allant de Bouaké au lac de Kossou, sur laquelle circulent les mareyeurs
+approvisionnant le marché de la ville en gros poissons à relativement bas prix. La petite taille des poissons pêchés laisse à penser que le niveau de surexploitation est dépassé. Aux cinq agriculteurs-pêcheurs, il convient d'ajouter les amateurs de pêche récréative à la ligne et les enfants; les prélèvements opérés par cette activité sont probablement assez faibles.
+
+La berge est de la retenue du Kan est située très près de certains quartiers de Bouaké, et ses eaux de ruissellement s'écoulent vers cette dernière. La rive ouest, par contre, est boisée. L'eau est riche en plancton près de la surface. Les poissons les plus courants sont les tilapia, les Clarias, ainsi que Heterotis niloticus, très fréquent le long des berges. Ces poissons proviennent de la population naturelle de la rivière Kan, mais aussi de la station de pisciculture voisine de l'IDESSA (ex-CTFT). L'Heterotis s'est très bien acclimaté; son nom local est "cameroun", en souvenir de son pays d'origine. Trois pêcheurs occasionnels travaillent sur le lac avec des pirogues et l'aide d'un rameur, principalement à l'épervier, engin efficace pour capturer l'Heterotis qui atteint un poids unitaire d'un kg. Ils utilisent parfois le filet maillant pour pêcher des tilapia et des Clarias d'environ 200 g pièce. De nombreux pêcheurs sportifs, enfants et adultes, viennent se distraire.
+Les captures faibles dans l'ensemble sont destinées à la consommation familiale.
+
+La pêche dans ces deux réservoirs est pratiquée par les riverains comme activité complémentaire ou même récréative. Les pêcheurs professionnels, étant donné la faiblesse des stocks halieutiques, ne sont pas intéressés par ces zones, d'autant plus que l'accès au réservoir de Kossou est facile (60 km de route asphaltée entre Bouaké et le point de débarquement principal). Aucun enjeu économique ne dépendant des deux PPE étudiés, il n'existe semble-t-il pas de conflit entre les divers pêcheurs occasionnels qui ont d'ailleurs toute liberté pour pratiquer cette activité, sans aucun contrôle des Eaux et Forêts.
+
+Tous les plans d'eau de la région de Bouaké renferment des vecteurs de la bilharziose, les deux réservoirs ne faisant pas exception. La malaria est aussi très répandue, principalement en saison des pluies. Les barrages du Kan et de Loka servent à l'alimentation en eau potable de la ville; pour cette raison l'urbanisation des abords immédiats est contrôlée. Par contre, les cultures le sont moins, encore faut-il préciser que l'usage d'engrais chimiques et de pesticides est heureusement très limité.
+
+2.5.2. Les institutions
+
+Les deux barrages étudiés appartiennent à la SODECI (Société Des Eaux de Côte d'lvoire) qui les gèrent en vue d'approvisionner la ville de Bouaké en eau potable tout au long de l'année. Le volume des réservoirs est largement suffisant pour couvrir les besoins des habitants; des contrôles de qualité sont effectués régulièrement par les agents de la SODECI. Par contre, aucun suivi des stocks halieutiques n'est effectué par les administrations concernées (Eaux et Forêts et IDESSA) et l'accès des pêcheurs aux deux lacs est libre. La pêche n'étant qu'une activité marginale, aucun programme de développement n'est prévu ici.
+
+2.5.3. Valeur technique
+
+Aucune statistique de pêche n'existe pour ces deux barrages. Cependant, compte tenu de la petite taille des captures, il est probable que les stocks halieutiques soient surexploités. Le potentiel n'est pas évalué, ce qui serait pourtant indispensable pour établir une réglementation de la pêche visant à optimiser la production.
+
+2.5.4. Facteurs limitatifs
+
+Le potentiel halieutique est probablement réduit car les eaux sont stratifiées, peu oxygénées et acides près du fond. La gestion de la pêche n'a pas été prévue par la SODECI. A l'exception de déversement initial d'alevins, rien n'a été fait pour améliorer la production halieutique. Les pêcheurs ont libre accès à l'eau; leur nombre est limité uniquement par la faiblesse des captures.
+
+2.5.5. Eléments instructifs
+
+L'absence de programme de gestion et le libre accès des pêcheurs à la ressource, ont dans un premier temps empêché l'établissement de stocks halieutiques importants. Ensuite, le nombre de pêcheurs et le maillage des filets maintiennent ces ressources limitées à un niveau de surexploitation. Cette situation démontre la nécessité d'organiser la gestion des stocks halieutiques, aussi réduits soient-ils.
+
+2.6. Réservoirs hydroélectriques de Bamendjing et de Mapé, l'ouest de Cameroun
+
+Ces deux barrages situés dans les montagnes de l'ouest du Cameroun ne sont pas exactement des PPE par leur superficie, 33 000 ha pour Bamendjing et 50 000 ha pour Mapé. Le mode de gestion de ces deux ensembles situés à une centaine de kilomètres l'un de l'autre seulement, construits tous deux sur des affluents du fleuve Sanaga, diffère totalement à cause de leurs conditions socio-économiques distinctes.
+
+2.6.1. Le milieu naturel et son écologie
+
+Les sites des deux retenues, 1 150 m et 724 m d'altitude respectivement, présentent des reliefs assez tourmentés de collines, ce qui fait que les deux lacs sont parsemés de nombreuses îles et ont un rivage très découpé. Lors de la mise en eau, la végétation d'origine a été inondée, en particulier plusieurs zones de forêt dont il persiste en plusieurs endroits les traces; de nombreux arbres morts dépassent de l'eau.
+
+La profondeur maximale au niveau des deux barrages est de 18 m et la profondeur moyenne est d'environ 5 m; le rôle premier de ces aménagements étant la régulation du débit du fleuve Sanaga au niveau de la centrale électrique d'Edéa en aval, on pratique des lâchers d'eau en saison sèche. De ce fait, le niveau d'eau des retenues varie beaucoup au cours de l'année, provoquant l'exondation de vastes surfaces généralement inondées. Pendant les périodes de basses eaux une épaisse couverture herbacée se développe, puis, lorsque le niveau remonte, ces énormes quantités de matières végétales se décomposent, maintenant près du fond une couche d'eau noire, humique, acide, probablement pauvre en oxygène dissous.
+
+En surface, on observe que la quantité de plancton est importante. ll y a de nombreuses espèces de poissons mais l'essentiel des captures consiste en tilapia et silures. ll manque dans les deux lacs un petit pélagique et un prédateur (Matthes, 1991).
+
+Les différences entre les deux lacs apparaissent au niveau des populations riveraines. Le lac de Bamendging est situé dans les provinces de l'ouest et du Nord-ouest; la population dense est constituée d'agriculteurs qui pratiquent la pêche de façon occasionnelle lorsque les travaux des champs leur en laissent le temps. Des pêcheurs professionnels du nord du Cameroun et du Nigéria voisin ont essayé de s'installer autour de ce lac au début de sa mise en eau; des conflits avec les autochtones sont apparus et finalement les pêcheurs ont été forcés de quitter la région. Seuls quelques uns ont pu s'installer dans des campements provisoires, sur des îles où ils ne restent qu'une partie de l'année.
+
+La plupart des pêcheurs occasionnels locaux utilisent un matériel sommaire constitué d'un canot léger construit en tiges de papyrus et d'un épervier. Quelquesuns pêchent du bord avec une canne et une ligne. Le poisson ainsi capturé est en partie autoconsommé, et en partie vendu frais sur les marchés des villages. Les pêcheurs étrangers sont plus efficaces; ils opèrent en pirogue à partir de leur île et utilisent des filets maillants. Les captures, surtout des tilapia et des silures, sont fumées au campement et vendues à des commerçants venant des villes. Le matériel provient le plus souvent du Nigéria où les prix sont inférieurs à ceux du Cameroun.
+
+Il y aurait environ un millier de pêcheurs occasionnels et professionnels confondus, à Bamendging. Le total des captures serait d'environ 500 t/an. Par suite du manque d'efficacité des autochtones le stock halieutique semble sous-exploité.
+
+La situation du barrage de Mapé est totalement différente. Le lac est situé à la limite entre les provinces du Nord-ouest et de l'Adamaoua dans une région où la densité de population est relativement faible; c'est une zone de transition entre l'agriculture et l'élevage extensif. Dans ces conditions, la pêche dans le lac n'intéresse que très peu d'autochtones, ce qui a permis à 1 300 pêcheurs, en majorité étrangers (80%: Nigérians, Maliens, Nigériens) de s'installer sur le site. On estime que 60% de ces étrangers sont saisonniers et retournent dans leur pays au moins trois mois par an ou vont pêcher dans le nord pendant la saison des pluies. Ces pêcheurs sont très efficaces; ils utilisent des filets maillants et des palangres malgré la difficulté de poser et retirer des engins dormants longs au milieu des arbres morts immergés. Les captures seraient d'environ 1 500 t/an, en baisse constante. Des signes de surexploitation apparaissent: mailles des filets de plus en plus
+réduites (20 mm en 1991), poissons de petite taille. Cela provoque le départ progressif des pêcheurs étrangers.
+
+Les pêcheurs sont organisés en groupements suivant leur origine et prennent en charge l'approvisionnement des campements en équipement de pêche et en produits d'usage courant ainsi que la commercialisation du poisson. Les responsables des groupements assurent les contacts avec l'administration et le règlement de problèmes qui pourraient surgir à propos de la répartition de zones de pêche et surtout du non-respect de la législation par certains.
+
+Etant donné l'isolement de nombreux campements, les conditions sanitaires des pêcheurs sont parfois difficiles. La malaria et la bilharziose sont les affections les plus courantes.
+
+2.6.2. Institutions responsables
+
+Sur chacun des deux réservoirs, il existe deux postes de contrôle des pêches dépendant du Ministère de l'élevage, de la pêche et des industries alimentaires. Le rôle du personnel de ces postes (un ou deux fonctionnaires) est de recenser les pêcheurs et vendre les permis, vulgariser les techniques nouvelles, et de contrôler la qualité du poisson, percevoir la taxe de contrôle sanitaire, faire respecter la législation des pêches. Ici encore, la tâche du fonctionnaire est délicate; la même personne est chargée de vulgarisation, de répression et de collecte de taxes.
+
+La compétence du personnel technique est difficile à évaluer dans ces conditions; par exemple, les pêcheurs occasionnels de Bamendjing n'adoptent pas d'équipement performant tel que le filet maillant prôné par le personnel du poste de pêche. Cela peut être dû, soit au manque de confiance vis-à-vis des collecteurs de taxes et agents de répression, soit au manque de moyens financiers; on peut aussi penser que le canot de papyrus et l'épervier sont des équipements bien adaptés à l'usage qu'en font des hommes qui sont avant tout des agriculteurs et ne vont à la pêche que lorsque les travaux des champs sont terminés et pour une durée limitée. L'utilisation du filet maillant ou de la palangre exige de la part du pêcheur, de longues heures de manipulations avant, pendant et après la pêche, ce qui est impossible pour des paysans.
+
+La personnalité du fonctionnaire influe beaucoup sur la gestion du lac dont il a la responsabilité. L'un d'entre eux, bon diplomate, parvient à faire vivre ensemble sans heurts des pêcheurs d'origine diverses, à les recenser et à évaluer les captures. Tel autre s'intéresse surtout à la collecte des taxes. Celui-là semble totalement démotivé...
+
+Il ne semble pas qu'il existe de coopération multi-institutionnelle autour de ces deux lacs. Les seuls fonctionnaires en poste sur place sont les responsables des postes de pêche. Il n'y a pas de suivi scientifique de ces milieux depuis la construction des barrages. Les seules initiatives concernent les groupements de pêcheurs dominés par quelques commerçants qui investissent dans la pêche en fournissant du matériel à des équipes de pêcheurs qui travaillent sous contrat pour eux. Il faut remarquer que ces commerçants dirigent toute la filière pêche, depuis la capture jusqu'à la vente en gros, en passant par l'équipement, les biens de consommation des pêcheurs dans les campements et le fumage du poisson; ils font preuve d'une redoutable efficacité.
+
+2.6.3. Valeur technique
+
+A Bamendjing, où la majorité des pêcheurs sont des occasionnels, une partie du stock halieutique demeure inexploitée. Par contre, à Mape où les pêcheurs sont tous des professionnels, ils y a surexploitation. Dans les deux cas, la gestion n'est pas adaptée à la situation et aussi, les connaissances scientifiques sur ces deux réservoirs sont insuffisantes.
+
+Dans le premier cas, les riverains ont imposé un mode de gestion qui n'est pas le meilleur du point de vue des captures, puisqu'une partie des ressources est inexploitée; cependant, cette méthode semble convenir aux riverains qui partagent leur activité entre l'agriculture et la pêche, tout en connaissant les techniques utilisées par les pêcheurs professionnels. Il s'agit donc d'un choix délibéré, qui a aussi conduit à l'éloginement des étrangers.
+
+Dans le second cas, les pêcheurs professionnels et leur équipement sont très performants; certains sont conscients des problèmes de surexploitation et désirent voir appliquer une législation destinée à préserver le stock halieutique. D'autres, au contraire, utilisent des méthodes interdites pour capturer du poisson jusqu'à épuisement du stock.
+
+2.6.4. Facteurs limitatifs
+
+Dans les deux exemples étudiés, l'amélioration de la gestion se heurte à un manque de connaissance scientifique des stocks halieutiques; les techniciens manquent d'arguments pour convaincre les pêcheurs d'adopter de nouveaux équipements ou bien de réduire leur effort.
+
+A Bamendjing, l'augmentation des captures jusqu'à un niveau optimal nécessite la professionnalisation de certains pêcheurs occasionnels locaux ou bien, l'acceptation par les riverains de voir quelques pêcheurs professionnels étrangers s'installer parmi eux.
+
+A Mape, la conservation des stocks halieutiques exige la mise en place d'une réglementation efficace: détermination des maillages des filets, limitation du nombre de pêcheurs et de filets. Quoiqu'il en soit, toute mesure de conservation doit être comprise et acceptée par les pêcheurs avant de pouvoir être appliquée.
+
+Bien que cela soit mal connu, certains facteurs biologiques limitent probablement la productivité des deux réservoirs. Le premier de ces facteurs est l'importance de la végétation herbacée qui se développe sur la zone exondée en saison sèche. Ces grandes quantités de matières végétales sont ensuite inondées, se décomposent et acidifient l'eau; de plus, ce phénomène rend impropre une grande partie du fond des retenues à la nidification des cichlidés. Il semble possible d'améliorer la situation en brûlant l'herbe des zones exondées lors du début de la remontée de l'eau. Ces feux de contrôle seraient sans danger si on les provoquait dans les îles. Les surfaces ainsi libérées de leur végétation pourraient constituer des frayères pour les tilapia, et devraient être interdites à la pêche.
+
+2.6.5. Principaux enseignements
+
+Ces deux exemples mettent en évidence le fait que la plupart des pêcheurs connaissent leur métier et utilisent des techniques et des équipements adaptés à leurs besoins. Les facteurs humains sont plus importants que les facteurs techniques; la gestion d'un plan d'eau ne peut être optimisée qu'avec l'accord de toutes les populations concernées. La présence d'un leader compétant et respecté à la tête d'un groupement socio-professionnel permet de faciliter les contacts avec l'administration et de faire accepter des mesures parfois restrictives dans l'immédiat, visant à améliorer une situation à long terme.
+
+2.6.6. Conclusion
+
+Mapé et Bamendjing constituent des milieux neufs dans lesquels les stocks halieutiques proviennent des poissons existant dans les rivières avant la fermeture des barrages.
+
+Comme souvent dans les cas d'aménagements créés à d'autres fins, les stocks halieutiques de ces deux retenues n'ont pas été étudiés, tant du point de vue qualitatif que quantitatif. De plus, aucune action n'a été entreprise pour introduire des maillons manquants de la chaîne alimentaire: un petit pélagique, un prédateur et éventuellement Heterotis sp.
+
+Deux catégories de pêcheurs se rencontrent autour de ces réservoirs artificiels; d'une part, des paysans-pêcheurs originaires de la région et peu efficaces dans cette nouvelle activité. D'autre part, des pêcheurs professionnels "allochtones" venant travailler pendant des campagnes de six mois, au cours desquelles ils surexploitent le milieu. Ils sont parfaitement organisés en groupement qui se chargent de toutes les activités des campements, depuis la fourniture de la nourriture et de l'équipement, jusqu'à la commercialisation du poisson, en passant par sa conservation par séchage et fumage.
+
+Le désir de gestion des stocks halieutiques de la part des administrations concernées se heurte aux intérêts immédiats des pêcheurs qui redoutent d'éventuelles mesures de restriction de leur activité de la part des pouvoirs publics. Tous savent pertinemment que le niveau actuel des captures ne peut être maintenu.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+2. EXEMPLES DE GESTION DE PPE (Continuer)
+
+2.7. Barrages agro-pastoraux des zones de savane au nord de la Côte d'Ivoire
+
+2.7.1. Le milieu naturel et son écologie
+
+Le nord de la Côte d'Ivoire est une région très peu vallonnée, au climat soudano-guinéen recevant moins de 1 000 mm de précipitations réparties de mai à octobre. La végétation naturelle la plus courante est constituée de savane arbustive avec parfois de la forêt sèche. Les principales cultures sont l'igname, les manguiers, le coton; l'élevage nomade et semi-nomade de bovins et d'ovins est largement pratiqué.
+
+La saison sèche très marquée pendant cinq à six mois a conduit les divers organismes de développement para-étatiques tels que la SODEPRA (Société de Développement de la Production Animale), SODERI (SODE Riziculture), SODESUCRE, SODECI (SODE Cultures Industrielles), à construire de nombreux barrages agropastoraux dont la surface de retenue varie de moins d'un hectare à plusieurs milliers d'hectares.
+
+L'eau de la plupart des barrages est gérée par les sociétés de développement qui les ont construits pour irriguer les cultures situées en aval. Le cas de barrages de la SODEPRA est quelque peu différent car ces ouvrages se trouvent le plus souvent loin des villages, le long des parcours de pâturage des troupeaux. Nous nous intéresserons plus particulièrement à ce type d'aménagements.
+
+Les barrages agro-pastoraux de la SODEPRA sont constitués par une digue en terre d'une hauteur maximale de 5 à 6 m et d'une longueur totale de 20 à 60 m. Un déversoir de crue latéral protège l'ensemble des risques d'érosion pendant la saison des pluies; parfois, un moine central permet la vidange complète. Le bassin versant peut avoir une superficie de 100 à 1 000 ha tandis que le réservoir lui-même s'étend sur moins d'un hectare à quelques dizaines d'hectares. Normalement, une clôture empêche le bétail de passer sur la digue afin de limiter les dégâts provoqués par le piétinement. Le financement de la construction provient du budget de la SODEPRA, c'est-à-dire, de l'Etat.
+
+Le rôle principal de ces ouvrages est de permettre aux troupeaux de s'abreuver pendant la saison sèche. Le passage fréquent des troupeaux sur son pourtour et sur toute la zone exondée font que le sol y reste à nu et qu'il est fortement imprégné de fumier. Au cours de la saison des pluies, l'érosion peut être intense et le ruissellement transporte la terre et le fumier dans la retenue dont l'eau est ainsi fertilisée; les blooms planctoniques sont fréquents.
+
+La plupart des barrages agro-pastoraux de la région s'assèchent en totalité en fin de saison sèche. Ceux qui sont permanents renferment une ichtyofaune naturelle réduite provenant de ruisseaux qui l'alimentent. En général, aucun aménagement n'a été prévu pour pratiquer la pisciculture.
+
+La responsabilité du barrage, une fois construit, incombe aux autorités du village le plus proche. Le plus souvent, aucun entretien n'est réalisé, ce qui fait que bon nombre d'ouvrages ont été endommagés par l'érosion. Etant donné que les barrages se trouvent le long des parcours pastoraux, il n'y a souvent aucune population riveraine. Dans certains cas où un campement existe au voisinage, des cultures sont pratiquées en aval afin d'utiliser les eaux d'infiltration.
+
+Au cours des années 70 et 80, de nombreux réservoirs ont été alevinés par les services responsables: CTFT (Centre Technique Forestier Tropical) puis IDESSA (Institut des Savanes), Eaux et Forêts et Projet de pisciculture en milieu rural (FAO/PNUD/E&F) à partir des stations de pisciculture de Bouaké et de Korhogo et de la ferme de Natio-Kobadara (près de Korhogo). Les espèces stockées sont Tilapia nilotica et Clarias sp. La croissance de ces poissons est relativement rapide dans un milieu bien fertilisé. Deux cas peuvent se présenter: tout d'abord, le réservoir est temporaire; l'assèchement a lieu entre février et avril. Si l'alevinage a eu lieu en début de saison des pluies (mai) les poissons peuvent avoir un poids unitaire de 200 à 300 gr. La récolte se fait avec un panier lorsqu'il ne reste plus que quelques centimètres d'eau. Les poissons sont vendus ou consommés par ceux qui les capturent: agent des Eaux et Forêts, chef du village voisin, gardien de troupeau de passage,
+etc. Au début de la prochaine saison des pluies, il sera nécessaire d'aleviner à nouveau le réservoir; les budgets de fonctionnement des organismes publics étant limités, seuls quelques barrages pourront recevoir de nouveau des poissons, mais encore faut-il que cette opération ait lieu à la bonne époque afin que la durée d'élevage soit suffisante et que la récolte soit valable.
+
+Le deuxième cas possible est celui des retenues permanentes. Les poissons stockés peuvent se reproduire, ce qui permet à une population halieutique de se développer dans ce nouveau milieu qu'il convient de gérer par des pêches régulières.
+
+Les habitants de la région sont soit des agriculteurs, soit des éleveurs nomades, mais aucun d'eux n'a une tradition de pêche, ni même d'utilisation de poisson frais. Le seul poisson que l'on rencontre sur les marchés est le poisson séché-fumé qui sert à préparer les sauces. Les autorités d'un village où se trouve un barrage agro-pastoral récent se trouvent confrontées à un problème imprévu: comment exploiter la ressource que représentent les poissons du réservoir.
+
+Les premières personnes consultées pour résoudre cela sont les agents des Eaux et Forêts qui eux même ne sont pas équipés pour pêcher dans de nombreux réservoirs répartis dans une vaste région. Tout au plus peuvent-ils effectuer des pêches de contrôle pour évaluer le stock halieutique. La méthode la plus aisée a été de faire venir des équipes de pêcheurs Bozos. En effet, ces Maliens parcourent la région d'un point de pêche à l'autre où ils établissent des campements pour la durée d'une campagne, en particulier le long du fleuve Bandama et du lac créé par le barrage de Kossou, au sud de la région qui nous intéresse. Les Bozos ont une organisation sociale très stricte; ils se déplacent avec leur équipement, sont des pêcheurs très efficaces, savent fumer le poisson lorsque cela est nécessaire, connaissent très bien les circuits commerciaux. Les pêcheurs installent un campement au bord du réservoir. Il faut environ un pêcheur pour 5 ha d'eau lorsqu'il s'agit d'une exploitation
+permanente, mais le nombre peut être bien supérieur dans le cas d'un petit réservoir dans lequel les captures ne durent qu'un temps limité et, après épuisement du stock, les pêcheurs migrent ailleurs. Les engins utilisés sont les filets maillants, les éperviers, les hameçons et, si l'assiette du réservoir n'est pas encombrée de souches d'arbres, la senne de rivage. Une ou plusieurs pirogues sont nécessaires pour mouiller tout ce matériel.
+
+Les autorités locales (chef du village et agent des Eaux et Forêts) négocient avec le chef Bozo la répartition des captures. Cependant, le manque de confiance réciproque ne facilite pas la discussion. Les villageois sont persuadés que les Bozos vendent une partie des captures en cachette, alors que ceux-ci pensent que la part exigée d'eux est trop élevée. Quoi qu'il en soit, ce mode d'exploitation est le plus logique dans une région où les autochtones ne savent pas pêcher, tandis que des pêcheurs nomades sont à la recherche de points de pêche. L'inconvénient majeur est que les Bozos épuisent la totalité du stock halieutique avant de se déplacer vers d'autres lieux; on ne peut pas vraiment parler de gestion.
+
+Confronté à ce problème et aussi à celui de l'émigration des populations rurales vers les villes, le gouvernement a tenté, à plusieurs reprises, d'intéresser les Ivoiriens à la pêche. Ainsi, les jeunes qui manifestaient le désir de devenir pêcheurs, ont eu la possibilité de recevoir une formation et un équipement (pirogue et filet). Certains agriculteurs ont pu s'installer pour exploiter un barrage de leur région. Malheureusement, très peu d'entre eux ont persévéré dans cette voie et ont plutôt préféré vendre leur équipement à des Bozos et retourner cultiver la terre.
+
+2.7.2. Les institutions
+
+Le personnel technique concerné par les barrages agropastoraux dépend de plusieurs organismes. Il y a tout d'abord les employés de la SODEPRA (Production Animale) qui sont chargés des implantations de barrages le long des parcours de pâturages et ensuite, de suivre l'utilisation de l'eau. Pendant quelques années, la SODEPRA s'est occupée de l'alevinage de certaines retenues et de pisciculture; une équipe spécialisée, animée par deux volontaires étrangers, était chargée de cette activité.
+
+Les Eaux et Forêts, qui étaient l'agence gouvernementale du projet FAO/PNUD de développement de la pisciculture en milieu rural, ont aussi participé à l'alevinage des barrages, mais le personnel de Korhogo et de Ferkessédougou, plutôt spécialisé en pisciculture rurale, n'a jamais reçu la formation, l'équipement de transport d'alevins et le matériel de pêche nécessaires à la gestion des petits barrages. Il faut aussi indiquer que le potentiel de production d'alevins des stations piscicoles du nord-ouest de Côte d'Ivoire est insuffisant pour permettre un stockage régulier de l'ensemble des retenues de la région. Ce travail de pêche et de pisciculture extensive ne représente qu'une partie des responsabilités de ces agents qui sont chargés du contrôle de la pêche sur le Bandama, de la chasse, des feux de brousse et de l'exploitation forestière.
+
+L'IDESSA (institut des Savanes, ex-CTFT) a aussi fourni des alevins pour certains barrages du nord-ouest à partir de sa station de Bouaké, mais son personnel effectue rarement du travail de terrain. Ce sont des chercheurs et non pas des vulgarisateurs.
+
+La plupart des techniciens sont aussi chargés des tâches administratives. C'est un avantage, car ils connaissent bien les problèmes du terrain, mais en contrepartie, ils passent beaucoup de temps au bureau.
+
+Les trois organismes concernés par les barrages appartiennent à des ministères différents, ce qui rend parfois les relations officielles délicates. Par exemple, les moyens de transport sont limités, mais il est difficile d'organiser des missions communes, dans la même véhicule, de fonctionnaires de services différents. Pourtant, les relations humaines sont excellentes.
+
+En 1991, un programme de recherche exécuté par l'IDESSA a débuté. Outre l'inventaire complet des barrages de la région et leur situation, le but de ce travail est d'étudier la productivité de tous ces PPE afin d'en évaluer le potentiel halieutique.
+
+Quelques éleveurs privés, sensibilisés par les techniciens des divers organismes déjà cités, ont entrepris d'exploiter les poissons produits dans leur barrage. Peu de données sont disponibles à ce sujet.
+
+2.7.3. Valeur technique de ce mode de gestion
+
+Les réservoirs temporaires nécessitent un alevinage régulier à chaque début de saison des pluies; le poisson est obligatoirement récolté quelque soit sa taille, en saison sèche, lorsque le niveau d'eau ne permet plus de poursuivre l'élevage. Il s'agit d'une forme de pisciculture extensive, utilisant une faible ressource en eau fertilisée par le bétail; sa pratique est limitée par le manque d'alevins et/ou le manque d'équipement de transport de poissons vivants. L'influence de cet élevage sur l'environnement est limitée, mais peut-être pas négligeable, car les poissons peuvent contrôler la prolifération des larves de moustiques dans le PPE et ainsi réduire les risques de malaria dans le voisinage.
+
+L'exploitation des réservoirs permanents met en oeuvre une méthode de gestion totalement différente. Tout d'abord, il faut introduire les espèces de poissons que l'on juge adaptées à ce milieu. Ensuite, il faut surveiller la croissance et la reproduction des poissons. Lorsque la population semble établie, il faut organiser son exploitation, c'est-à-dire qu'il faut déterminer le niveau de captures possible sans que cela ne réduise le stock. Cette théorie est très difficile à appliquer dans les PPE étudiés pour plusieurs raisons. Les captures sont effectuées le plus souvent par des pêcheurs étrangers dont l'intérêt immédiat réside dans le volume des captures et non pas dans la permanence de la ressource; lorsque le stock est épuisé, ils migrent ailleurs. Un contrôle strict des pêcheurs par un agent des Eaux et Forêts est impossible, étant donné l'isolement de la plupart de ces barrages. Les pêcheurs locaux devraient pouvoir respecter un plan d'exploitation avec réglementation
+des maillages des filets et périodes de fermeture de la pêche, mais nous avons vu qu'ils ne sont pas assez nombreux pour exploiter tous les barrages. Il reste la solution délicate d'intégrer les pêcheurs Bozos à la population locale afin qu'ils trouvent une raison matérielle à préserver l'environnement.
+
+Du reste, les connaissances biologiques sur ces PPE sont insuffisantes pour pouvoir préparer des plans de gestion. Les résultats de l'étude entreprise par l'IDESSA dans ce but sont indispensables.
+
+2.7.4. Facteurs limitatifs
+
+Parmi les nombreux barrages agro-pastoraux construits dans le nord-ouest du pays, un certain nombre sont devenus inutilisables par manque d'entretien et dégradation par l'érosion. Comme cela n'est pas leur finalité première, aucun de ces barrages n'a été prévu pour la reproduction de poisson avant sa construction, et lorsque cela fut fait par la suite, les résultats obtenus n'ont pas permis de justifier un budget supplémentaire pour améliorer la situation.
+
+Pour les réservoirs temporaires, la production de poisson exige le ré-alevinage annuel, ce qui est impossible compte tenu du manque d'alevins et de moyens de transport. C'est pour cela que la grande majorité de ces milieux ne renferme jamais de poisson.
+
+Le cas des réservoirs permanents est plus complexe. La gestion de leur production halieutique s'apparente à celle des grandes pêcheries, mais ici, les dimensions du réservoir étant réduites, on en arrive rapidement à des situations de surexploitation aggravées par le fait que les intérêts des pêcheurs et des riverains sont opposés. De plus, les connaissances sur la productivité de ces milieux est insuffisante pour prévoir le niveau maximum soutenable des captures. Ainsi, la plupart des barrages permanents ne renferment que quelques poissons atteints de nanisme qui n'intéressent que les enfants pendant les vacances scolaires. D'autres, par contre, ont un stock halieutique important mais inexploité car protégé par des cadres locaux puissants mais ne possédant pas les moyens de gérer cette ressource.
+
+La gestion de ces PPE dépend principalement de facteurs humains provoqués par les relations entre riverains et pêcheurs, et aussi par les moyens limités des services techniques concernés.
+
+2.7.5. Elément instructif
+
+Les conflits entre agriculteurs, éleveurs et pêcheurs nomades sont relativement fréquents car ces trois groupes ont des intérêts divergents sur la gestion de l'eau.
+
+La solution, si elle existe, réside dans la négociation basée sur une connaissance scientifique du milieu naturel et des méthodes d'exploitation (agriculture, élevage, pêche).
+
+La présence d'une personnalité compétente et reconnue par tous constitue un atout décisif pour parvenir à une solution. Cette personnalité peut être aussi bien un chef traditionnel, un politicien local ou régional, un fonctionnaire d'un service technique, un chef religieux.
+
+2.7.6. Conclusion
+
+Il semble à priori que des réservoirs de superficie limitée, récemment créés, surveillés par des fonctionnaires qualifiés, devraient constituer des exemples de gestion. Or, il n'en est rien.
+
+Le but principal de ces barrages étant l'amélioration de l'élevage extensif du bétail, la gestion du stock halieutique n'est pas considérée comme importante. De plus, les riverains ne sont pas compétents dans la matière. Pour tirer le meilleur parti de la ressource que représentent les poissons des barrages agro-pastoraux, il conviendrait d'organiser des unités spécialisées pour leur gestion, travaillant sous l'autorité d'une seule administration. Il faudrait faire porter les efforts sur les seules retenues présentant un réel potentiel halieutique, c'est-à-dire celles d'au moins cinq hectares de surface et permanentes.
+
+Enfin, le produit des captures devrait profiter aux riverains, au moins lorsque ceux-ci participent activement à l'entretien et à la gestion du barrage.
+
+2.8. Barrages agro-pastoraux del'Adamaoua, Cameroun
+
+2.8.1. Le milieu naturel et son écologie
+
+Cette région située au centre du Cameroun, est un plateau dont l'altitude est supérieure à 1 000 mètres. La pluviométrie est d'environ 1600 mm par an, avec une saison sèche de cinq mois. Le drainage est assuré par des affluents de la Djerem (bassin du Sanaga) et du Mbéré (Logone). La température varie de 12 à 33 °C au cours de l'année. La végétation naturelle est principalement constituée de savane arborée et de forêt galerie le long des cours d'eau.
+
+La densité de population est très faible (7 habitants/km^2), donc les cultures sont très clairsemées (mais, mil, manioc), principalement le long des quelques axes de circulation. L'activité dominante est l'élevage, qui trouve dans la région un climat exceptionnellement favorable. Il y a de nombreux petits cours d'eau permanents ou temporaires, mais la longueur de la saison sèche rend nécessaire l'aménagement de points d'eau le long des parcours pastoraux et à l'intérieur des ranches.
+
+C'est ainsi que de nombreux barrages ont été construits par les services de l'élevage et par les propriétaires de troupeaux. Les réservoirs ont une superficie d'un à dix hectares environ et sont pour la plupart permanents. L'intérêt de leur alevinage avec des tilapia et des silures commence à être compris par les personnes concernées car le poisson provenant du barrage de Mbakaou est consommé fréquemment à l'état séché/fumé, mais plus rarement à l'état frais car les communications ne sont pas aisées. Il faut de plus souligner que l'élevage et la pêche dépendent depuis quelques temps du même ministère (MINEPIA: Ministère de l'élevage, de la pêche et des industries alimentaires) et que cette administration dispose d'une magnifique station de pisciculture à Ngaoundéré.
+
+L'alevinage des barrages agro-pastoraux est donc une activité récente, menée par le service des pêches du MINEPIA avec des moyens très limités. La station de Ngaoundéré ainsi que les trois petits centres d'alevinage répartis dans l'Adamaoua ne disposent malheureusement pas de personnel motivé, ni des moyens suffisants pour fonctionner au maximum de leur capacité. Dans ces conditions, les pisciculteurs possédant des étangs intensifs, et les propriétaires de barrages doivent attendre longtemps les alevins commandés.
+
+Les fonctionnaires concernés sont conscients de ces difficultés et attendent une amélioration de la situation. Pour l'instant, les problèmes de gestion du stock halieutique des barrages ne se posent pas encore car on en est toujours à la phase de croissance des populations. Il est indispensable de prévoir dès maintenant comment le poisson des barrages pourra être exploité car la pêche ne fait pas partie des traditions parmi les populations de l'Adamaoua. Deux possibilités existent: des équipes de pêcheurs professionnels travaillant habituellement sur le lac de Mbakaou pourront se déplacer avec leur équipement d'un barrage à l'autre, ou encore, le service des pêches pourrait organiser une équipe mobile chargée de la pêche à la demande des propriétaires de barrages. La deuxième solution présenterait l'avantage d'assurer un encadrement strict des pêcheurs et d'éviter tout conflit entre populations.
+
+Pour l'instant, ce type de conflit est inconnu dans le région car il n'y a pas de pêcheurs parmi les résidents de l'Adamaoua; mais leur irruption est toujours à craindre lorsque de nouvelles personnes s'installent sans accord préalable dans une région pour exploiter une ressource que les autochtones ne savent pas gérer eux-mêmes mais désirent utiliser.
+
+Les risques sanitaires liés aux barrages agro-pastoraux sont limités dans cette région située à plus de 1 000 m d'altitude. La concentration de troupeaux autour des points d'eau peut favoriser les parasitoses transmises par le bétail lui-même ou par les diptères inféodés. L'alevinage des retenues constitue un moyen de lutte contre les vecteurs aquatiques de maladies telles que la malaria et la bilharziose.
+
+2.8.2. Les institutions
+
+L'administration responsable des barrages, aussi bien pour les problèmes touchant à l'élevage qu'à la pêche, dépend du MINEPIA. Les fonctionnaires ont une formation de haut niveau, mais plus orientée vers les problèmes vétérinaires que vers les poissons. De plus, les actions auprès des éleveurs dégagent des ressources non négligeables alors que les opérations d'alevinage des barrages nécessitent au contraire des moyens que les services concernés ont du mal à dégager; il s'ensuit que les alevins disponibles sont fournis aux propriétaires de ranches qui peuvent eux-mêmes en assurer le transport.
+
+La coopération multi-institutionnelle s'organise, notamment entre les services de l'agriculture et ceux de l'élevage pour améliorer la vulgarisation en milieu rural. La gestion des barrages est comprise dans ce programme de sensibilisation.
+
+Plusieurs projets de développement avec assistance extérieure existent dans l'Adamaoua, en particulier, un projet de pisciculture rurale exécuté par des volontaires du Peace Corps avec financement USAID, ainsi qu'un projet de développement intégré villageois exécuté par des Volontaires du Progrès Français. Ces deux projets entretiennent d'utiles relations avec les services de l'élevage et des pêches.
+
+2.8.3. Valeur technique
+
+Il est difficile d'évaluer la valeur technique d'une action qui débute et n'a pas encore atteint sa phase de production. L'alevinage de barrages artificiels est utile à l'environnement car la présence de poisson dans un milieu aquatique participe à son équilibre biologique.
+
+L'exploitation des stocks halieutiques des barrages agro-pastoraux permettra de créer quelques emplois en zone rurale et d'améliorer la qualité de l'alimentation des riverains en leur fournissant du poisson frais alors qu'il leur fait défaut.
+
+Les connaissances sur la productivité de ces plans d'eau sont trop limitées. On peut cependant faire des comparaisons avec les barrages de pisciculture extensive de la zone forestière qui sont en exploitation depuis une quarantaine d'années. C'est d'ailleurs en se basant sur ces comparaisons que la direction des pêches a invité ses fonctionnaires à sensibiliser les populations de l'Adamaoua sur l'intérêt de l'alevinage des barrages.
+
+2.8.4. Facteurs limitatifs
+
+Le principal frein au développement de la gestion piscicole des barrages agro-pastoraux est le manque de moyens de la direction de pêches qui ne peut pas produire et transporter les alevins nécessaires.
+
+2.8.5. Eléments instructifs
+
+Le fait d'aleviner les petits réservoirs est intéressant et devrait être généralisé dans toutes les régions où existent des parcours de troupeaux.
+
+En ce qui concerne la gestion des stock halieutiques, la région manque d'expérience et il serait utile de former quelques techniciens à cette activité.
+
+2.8.6. Conclusion
+
+Les barrages agro-pastoraux de l'Adamaoua sont en plein développement, tandis que leur alevinage n'en est qu'à ses débuts. La région dispose d'une bonne administration qui a la responsabilité de l'élevage ainsi que, depuis peu, de la pêche et de la pisciculture. Cette situation récente constitue un gage de succès pour ces activités; malheureusement, il existe une trop grande disparité de moyens mis en oeuvre au profit du bétail d'une part, et au détriment du poisson d'autre part. Un rééquilibrage des activités de l'administration responsable est souhaitable. Il serait en particulier important que la station d'alevinage de Ngaoundéré puisse fonctionner à plein rendement et qu'elle soit dotée d'un véhicule équipé pour le transport d'alevins.
+
+2.9. Marigots de la zone forestière de l'ouest de la Côte d'Ivoire. Cas similaire en forêt camerounaise autour de Yaoundé
+
+2.9.1. L'ouest forestier de la Côte d'Ivoire est une région d'une centaine de kilomètres d'est en ouest le long de la frontière avec le Libéria. Le relief est constitué de collines de 300 à 400 m d'altitude, s'élevant à plus de 1 000 m au nord de la ville de Man. Entre les collines, on trouve des bas-fonds marécageux, drainés par de petites rivières s'écoulant vers les fleuves Cavally et Sassandra. Les précipitations sont comprises entre 1 500 et 2 000 mm par an, réparties d'avril à octobre.
+
+La végétation est constituée de forêt plus ou moins dégradée suivant les régions, avec de grands arbres jusqu'au sommet des reliefs et une majorité de palmiers raphia dans les marécages.
+
+La densité de population est très variable au sein de cette région, ce qui apparaît nettement dans la végétation: les zones de forêt peu dégradée sont très faiblement peuplées; ailleurs, diverses plantations (café robusta, cacao, bananeraies, etc.) couvrent de grandes surfaces et témoignent d'une population beaucoup plus dense. Beaucoup de bas-fonds marécageux sont aménagés en rizières, le riz étant l'un des aliments de base de la région avec les bananes. Les protéines d'origine animale proviennent surtout de viande de chasse et de poisson; parmi les poissons, les plus estimés sont les silures.
+
+L'agriculture constitue l'activité principale des populations Yacouba; l'élevage est une activité secondaire car le climat, la végétation et les parasites ne sont pas favorables aux troupeaux. Dans les villages, on élève quelques vaches, porcs, moutons, chèvres et volailles. Le poisson consommé provient en grande partie d'ailleurs: barrage de Buyo sur le Sassandra, poisson congelé de l'océan, poisson séché du Mali. Il n'y a pas de grandes pêcheries alimentant les marchés des villes dans la région. Il existe cependant de nombreux PPE qui ont ici la configuration de marécages trop profonds (plus de 1 m) pour avoir été aménagés en rizières et dont la couverture forestière d'origine a été brûlée pour établir des cultures. De nombreux troncs à moitié calcinés témoignent de la disparition récente de la forêt.
+
+Ces bas-fonds constituent un milieu de forte humification d'une grande quantité de déchets végétaux et cela se traduit par l'aspect noirâtre de l'eau et son acidité en saison sèche. En saison des pluies, étant donné le déboisement de grandes surfaces, le niveau de l'eau varie rapidement en fonction des précipitations et le transport de sédiments arrachés par l'érosion est intense.
+
+L'habitat est groupé en villages de 1 000 à 2 000 habitants; lorsque les cultures sont éloignées de plusieurs kilomètres du village, des campements sont établis au milieu des plantations et sont utilisés lors des gros travaux. Le marécages dans les bas-fonds ne présentent que des surfaces réduites d'eau libre parmi la végétation, mais la surface totale inondée de façon presque permanente est relativement importante, surtout en saison des pluies. Lorsque le niveau d'eau est élevé, quelques hommes pratiquent la pêche comme activité secondaire, lorsque les travaux agricoles leur en laissent le temps. Les poissons les plus couramment capturés sont des silures (Clarias spp. et Heterobranchus spp.) pouvant dépasser plusieurs kg chacun. Les engins utilisés pour la pêche sont les nasses et les hameçons. En saison sèche, lorsque le niveau d'eau diminue, les femmes organisent des pêches collectives dans les flaques résiduelles. Souvent, elles aménagent des diguettes de boue afin
+d'orienter les poissons vers des endroits où leur capture est aisée. Dans certains cas, le niveau d'eau de la mare est abaissé par vidange au moyen de récipients. L'engin de capture le plus communément utilisé par les femmes est l'épuisette sans manche, d'un diamètre légèrement inférieur à un mètre et à mailles d'un à deux centimètres. Les espèces les plus fréquemment capturées sont toujours des silures, mais cette fois, leur taille est plus petite: de 20 à 500 g. Les nasses sont toujours utilisées en saison sèche. Il est très difficile d'évaluer la proportion du stock halieutique capturé tout au long de l'année tant le milieu est encombré de végétation et la pratique de la pêche irrégulière. La grande disparité des tailles des poissons capturés complique les estimations. Il faut aussi tenir compte de la capacité des silures à s'enfouir dans la vase pour échapper à leurs prédateurs et à supporter les périodes de sécheresse.
+
+Les silures capturés en début de saison sèche sont achetés par certaines femmes spécialisées dans leur commerce, spécialement dans la région de la ville de Danané. Les poissons sont stockés vivants près du village dans des trous pleins d'eau. Les jours de marché dans les principaux villages et à la ville, les femmes préparent une ou deux bassines d'une capacité de 20 l, remplies de silures vivants et d'un peu d'eau.
+
+Les bassines sont recouvertes d'une toile plastique maintenue par des lanières et transportées par la marchande en "taxi-brousse" jusqu'au marché du jour. La distance parcourue peut atteindre 50 km et une durée de plus de deux heures; les vendeuses se regroupent dans la même zone du marché. Les silures sont vendus à la pièce, à des prix plus élevés que les autres poissons frais: 1000 FCFA pour un silure de 1 kg et environ 25 FCFA pour un de 25 g (1 $ = 300 FCFA, sept. 1991). Malgré les divers mauvais traitements subis (capture, stockage, transport, manipulations diverses, grande concentration de poisson dans très peu d'eau à une température supérieure à 30 °C), la plupart des petits silures sont toujours vivants lors de la vente; ils vont alors servir à la préparation du repas suivant.
+
+Il existe dans cette région un développement rapide de la pisciculture intensive de tilapia associée aux silures; de plus, les stations d'alevinage sont incapables de couvrir les besoins en alevins de silures. Le projet de développement de la pisciculture en milieu rural s'efforce d'organiser le marché des silures vivants dans la région de Danané afin de l'orienter vers la fourniture d'alevins aux pisciculteurs.
+
+La filière: capture de silures - stockage au village - commercialisation par les femmes fonctionne et fait vivre de nombreuses familles. Cependant, les femmes ont besoin de beaucoup de temps et d'argent pour vendre chacune de petites quantités de poisson. Elles cherchent donc à améliorer leur système en se regroupant, mais jusqu'à maintenant, elles ne sont pas parvenues à s'organiser efficacement. Le projet de pisciculture leur propose un modèle: constructions de petits étangs communautaires de stockage au niveau des villages où l'on capture des silures, construction d'un étang de stockage et d'un stand de vente à Danané. Une assistance matérielle pourra leur être procurée si elles entreprennent les travaux, mais le début des travaux se heurte semble-t-il au manque de mise de fonds initiale car l'épargne féminine, bien qu'existante, est très limitée.
+
+2.9.2. Les institutions
+
+Les chefs traditionnels cohabitent avec l'administration moderne. Dans les villages qui sont généralement établis depuis peu de temps le long des routes, des concessions bornées ont été attribuées par les chefs à chaque famille. La plupart des champs situés à proximité des villages appartiennent à la même famille depuis plusieurs générations. En ce qui concerne le bas-fonds, l'intérêt que l'on y porte dépend principalement de la possibilité de les aménager en rizières ou parfois, en étangs de pisciculture intensive. La pêche n'est pas prise en compte car elle est très limitée. Les bas-fonds sont attribués par les chefs aux agriculteurs qui en font la demande.
+
+L'attribution de nouveaux terrains peut être difficile dans les zones fortement peuplées; de longues discussions entre les chefs, les personnes concernées et leurs voisins sont nécessaires et suscitent parfois la jalousie de certains. L'échange de cadeaux est souvent nécessaire pour parvenir à un accord. En dehors des responsables administratifs locaux, divers services gouvernementaux sont chargés d'apporter leur soutien aux populations dans des domaines techniques: santé, éducation, agriculture, eaux et forêts, élevage. Excepté les enseignants qui sont logés près de l'école, les fonctionnaires résident normalement au chef-lieu de département et rendent visite aux villageois lorsque ceux-ci en font la demande. Le manque de moyens fait que ces visites sont de plus en plus rares, à moins que les personnes concernées ne prennent en charge le transport des techniciens.
+
+La situation pourrait être meilleure dans certains secteurs si une organisation para-étatique (pour le café et le cacao) ou un projet avec financement extérieur (pisciculture) apportaient des ressources supplémentaires en faveur de certaines activités. L'intérêt de ces actions, outre leur apport technique et matériel, est de permettre aux agriculteurs de rencontrer des spécialistes de diverses branches qui puissent leur apporter des innovations et aussi les aider à régler divers problèmes administratifs. D'une manière générale, les divers services techniques n'ont que peu de relations entre eux. L'existence d'un "projet de développement intégré" peut donner l'opportunité aux divers techniciens d'une même zone de travailler ensemble. C'est le cas du "Projet d'Aménagement Péri-Urbain de la Commune de Daloa" qui rassemble des spécialistes d'agriculture, de petits élevages et de pisciculture afin de vulgariser ces techniques en milieu rural proche de la ville.
+
+Le personnel des Eaux et Forêts s'occupe surtout de la gestion forestière: attribution de concessions à des exploitants, contrôle des abattages d'arbres et du transport de grumes. Parmi ces fonctionnaires, certains ont reçu une formation complémentaire en pisciculture et travaillent dans le cadre d'un projet FAO/PNUD "Développement de la pisciculture en milieu rural". La pêche n'est pas considérée dans la région comme étant une activité économique, hormis dans le réservoir de Buyo. Les pêcheurs occasionnels travaillant dans les bas-fonds ne sont donc pas recensés pour ce genre d'activité et n'ont pas de permis.
+
+2.9.3. Valeur technique
+
+Le système d'exploitation traditionnelle des marécages de bas-fonds, et sourtout le procédé original de commercialisation de silures vivants, permettent à de nombreuses familles de participer à l'économie monétaire. Le manque de données concernant le potentiel halieutique des bas-fonds ainsi que les quantités de poissons capturés et commercialisés rendent aléatoires toutes les estimations sur un développement futur de ces activités, notamment sur les possibilités d'accroître ce commerce à destination des pisciculteurs. Une étude scientifique devrait précéder toute action de développement du secteur.
+
+2.9.4. Facteurs limitatifs
+
+Jusqu'à présent, le mode d'exploitation des ressources halieutiques des basfonds par des pêcheurs locaux occasionnels apporte une ressource régulière quoique faible aux familles riveraines. Un développement de cette activité se heurte à la disponibilité des hommes et des femmes qui ne peuvent pratiquer la pêche qu'à certaines époques de ralentissement des travaux agricoles.
+
+Le mode de commercialisation des poissons vivants est peu efficace car la vendeuse se déplace en même temps que sa marchandise, ce qui augmente considérablement les frais de transport et le temps passé à la vente. De plus, il n'existe aucune structure de stockage au niveau du marché de détail, ce qui oblige les commerçantes à écouler leurs invendus, s'il y en a, à bas prix en fin de journée.
+
+2.9.5. Eléments de gestion pouvant être transférés ailleurs
+
+La commercialisation de petits silures vivants capturés dans les marigots doit être rapprochée des tentatives de développement de la pisciculture rurale. L'un des facteurs limitant le développement de la pisciculture est justement le manque d'alevins de silures. L'utilisation d'alevins "sauvages" en pisciculture devrait pouvoir permettre d'atteindre l'aménagement d'écloseries privées fonctionnelles à condition, d'une part, que le stock halieutique naturel et les captures puissent couvrir les besoins des pisciculteurs et que, d'autre part, les espèces fournies présentent des caractéristiques de croissance convenables.
+
+2.9.6. Autre cas similaire
+
+Nous venons d'étudier un exemple choisi dans l'ouest de la Côte d'Ivoire; il existe un cas similaire au Cameroun, dans la région de Yaoundé. La pluviométrie supérieure à 2 000 mm/an et la topographie font que l'on retrouve ici une végétation dense avec des bas-fonds inondés de façon presque permanente. Les riverains sont des pêcheurs occasionnels qui consomment le poisson qu'ils capturent et vendent le surplus. C'est ainsi que l'on peut trouver des silures vivants sur certains marchés de Yaoundé. De nombreux paysans ont depuis quarante ans, aménagé des étangs de pisciculture, mais sont restés entièrement dépendants des stations piscicoles gouvernementales pour leur approvisionnement en alevins. Devant les difficultés pour obtenir leurs commandes, la plupart des pisciculteurs ont abandonné leurs étangs. Il semblerait logique d'orienter le commerce des petits silures vivants vers les pisciculteurs qui sont disposés à les acheter à un bon prix afin de pouvoir reprendre leurs
+élevages qu'ils considèrent comme étant financièrement très intéressants.
+
+2.9.7. Conclusion
+
+On observe ici le rapprochement entre une activité traditionnelle, la pêche de subsistance dans un PPE, et une activité nouvelle, la pisciculture intensive. Cela permet de trouver un débouché commercial à un de produit ayant jusque-là une valeur assez fluctuante. Les riverains sont décidés à développer encore les captures de silures. Cependant, le problème de la méconnaissance, du potentiel naturel exploitable et des besoins réels des pisciculteurs en alevins de silures, se pose.
+
+2.10. Marais du Rwanda et du Burundi
+
+2.10.1. Le milieu naturel et son écologie
+
+Le terme "marais" désigne dans ces pays les bas-fonds inondés une partie de l'année, occupés par une importante végétation de papyrus. Ces PPE constituent la liaison entre les petits cours d'eau provenant des collines et les petits lacs que nous avons étudiés précédemment. Leur importance écologique est capitale dans des régions au relief très accidenté sur lesquelles tombent des précipitations violentes, où la forêt a pratiquement disparu au profit de cultures laissant le sol à nu une partie de l'année. Les quantités importantes de sédiments arrachés aux collines sont en grande partie retenues par les papyrus et se déposent sur le fond du marais où elles se mélangent aux débris végétaux. Les surfaces d'eau libre dans le marais sont limitées à un ruisseau qui court parmi les papyrus et dont le niveau varie en fonction des précipitations. L'eau arrivant dans les petits lacs est donc très peu chargée en sédiments. De plus, le marais joue le rôle de régulateur de débit dans une
+région qui est le château d'eau d'une grande partie de l'Afrique.
+
+Le marais renferme peu de poissons et de crustacés économiquement intéressants, ce qui fait que les riverains ne pratiquent pas d'activité de pêche dans ce biotope.
+
+La délimitation des parcelles agricoles sur les flancs des collines voisines est très précise, et constitue l'objet de fréquents conflits entre voisins; par contre, le marais demeure la propriété de l'Etat. La pression démographique étant de plus en plus forte, les gouvernements ont été conduits à autoriser la mise en exploitation de certains marais. Les principales cultures possibles dans cette zone sont le riz, sur sol plané, ainsi que le taro, les haricots et les patates douces sur billons. Les gros travaux sont effectués en communauté (défrichage des papyrus, construction des diguettes), mais ensuite, chaque famille reçoit de l'administrateur communal, une parcelle ou un billon individuel.
+
+Dans le marais mis en culture, le lit du ruisseau est rectifié, ce qui a pour effet d'accélérer la circulation de l'eau qui n'est plus freinée par la végétation et donc transporte sa charge de sédiment jusqu'au lac suivant. De plus, lors des crues, les cultures sont inondées, parfois arrachées, et l'érosion devient intense. Devant ces problèmes, on a cherché le moyen de préserver le rôle écologique du marais tout en le rendant productif pour les riverains. Cette réflexion, grâce à la coopération entre des paysans, les services techniques du Gouvernement rwandais, des scientifiques nationaux et belges, des ONG, la FAO et la CEE, a conduit à la mise au point d'un système de production dans lequel les cultures, les petits élevages et la pisciculture sont intégrés (Micha, 1988). Le rôle de filtre et de régulateur de l'écoulement d'eau du marais à papyrus est tenu dans ce système par un réseau de canaux servant d'étangs de pisciculture. Les digues délimitant les canaux ont une
+surface équivalant à celle de l'eau, et sont utilisées pour les cultures vivrières. Les déchets végétaux provenant des cultures servent à nourrir des poules, des canards et éventuellement des lapins qui à leur tour, grâce à leurs déjections, servent à fertiliser les étangs de pisciculture. La présence de canards et la pratique de cultures vivrières sur les digues des étangs présentent en outre l'avantage d'éliminer les mollusques vecteurs de bilharziose originaires du marais; les risques de propagation de cette maladie sont donc réduits.
+
+2.10.2 Les institutions
+
+Dans cet exemple, la gestion du PPE est indissociable des cultures et des élevages. A cet égard, la réalisation et la gestion de ce système de production nécessite la collaboration de plusieurs compétences: génie civil pour l'aménagement du marais, agronomie, élevage et pisciculture pour la gestion courante. Compte tenu du mode d'attribution des parcelles et de leur superficie inférieure à un are, plusieurs familles vont devoir se regrouper pour pouvoir organiser un ensemble cohérent pouvant réunir les différentes activités indispensables au fonctionnement du tout.
+
+Ce mode de gestion nécessite, pour donner des résultats satisfaisants, la coordination de divers services techniques et l'association de plusieurs familles. Dans un premier temps, la mise en route du système et la formation des paysans demanderont un effort soutenu de vulgarisation de la part des services techniques et/ou d'une ONG ainsi qu'un surcroît de travail manuel pour les familles concernées, et éventuellement un financement pour le terrassement qui dépasse leurs capacités.
+
+2.10.3. Valeur technique
+
+Dans l'état actuel de développement d'un tel mode de gestion, son utilisation par un groupe de paysans est une opération quelque peu risquée car il existe peu d'exemples fonctionnels et l'assistance technique n'est pas disponible partout. Un système nouveau peut très bien fonctionner au niveau expérimental avec une équipe technique de haut niveau, mais échouer lorsqu'on tente de le vulgariser en milieu rural.
+
+2.10.4. Facteurs limitatifs
+
+Cette méthode de gestion d'un PPE est séduisante par le peu d'intrants nécessaires et sa haute productivité. Cependant, elle requiert un niveau technique très élevé, une coordination efficace des principaux services techniques gouvernementaux, et la mise en commun des concessions et du travail de plusieurs familles. Il existe peu de sociétés rurales pouvant bénéficier de toutes ces caractéristiques.
+
+2.10.5. Eléments de technique de gestion pouvant être transférés ailleurs
+
+Le modèle technique de production intégrant cultures vivrières, petits élevages et pisciculture est applicable à d'autres pays où il existe de bas-fonds à aménager. Pour réussir, il est cependant souhaitable que le même exploitant dispose d'une surface d'au moins d'un 1/2 hectare de telle sorte que les aménagements soient sous la responsabilité d'une seule personne.
+
+2.10.6. Conclusion
+
+Nous avons ici un système séduisant pour plusieurs raisons. Tout d'abord, l'aménagement ne nécessite aucun intrant extérieur à la région et maintient le rôle écologique du marais: filtre et régulateur de débit. Ensuite, il rend productif un milieu jusque-là inutilisé directement par les riverains. Cependant, il se heurte à des problèmes humains: parcelles de terrain trop petites, gestion très technique difficile à assimiler par des agriculteurs en majorité illettrés et sans tradition piscicole, surcroît de travail parmi une population déjà très occupée par les travaux agricoles et domestiques.
+
+Ce modèle de gestion aurait probablement plus de chances de succès dans des pays moins fortement peuplés, où l'attribution de nouvelles parcelles agricoles ne rencontre pas d'obstacles, et aussi où des étudiants seraient intéressés par ce genre d'activité pour effectuer un "retour à la terre".
+
+2.11. Petits plan d'eau aménagés de la zone forestière du Cameroun
+
+2.11.1. Le milieu naturel et son écologie
+
+Cette vaste région est constituée par les bassins des fleuves Sanaga et Nyong, de la Haute Kadey (extrême est) et du Ntem (sud). Le relief est généralement constitué de séries de petites collines séparées par des vallées où coulent des ruisseaux. L'altitude est comprise entre 500 et 800 m, la température varie au cours de l'année entre 18 et 30 °C tandis que la pluviométrie se situe entre 1 500 et 2 000 mm par an.
+
+La plus grande partie de cette région est couverte de forêt généralement dense. La population est établie le long des axes de transport et des fleuves. De vastes zones inondables et de nombreux cours d'eau abritent un important stock halieutique. Cependant, l'effort de pêche est saisonnier de telle sorte que le poisson, qui est très apprécié, n'est disponible qu'à certaines époques. Afin d'assurer un approvisionnement régulier tout au long de l'année, un effort important a été entrepris pour développer la pisciculture de type extensif dans des barrages dont la surface de retenue varie entre 0,5 et 10 ha.
+
+La sensibilisation de la population à la pisciculture a un effet induit intéressant: l'investissement nécessaire pour construire un barrage étant relativement élevé et risqué, certains riverains de PPE naturels ou artificiels les ont aménagés dans le but d'améliorer la production de poisson. Le résultat obtenu se situe à mi-chemin entre une zone de pêche réservée et la pisciculture extensive. Les exemples les plus significatifs s'observent le long des chantiers de routes: une carrière de latérite abandonnée peut constituer un PPE de plusieurs hectares de surface et de un à deux mètres de profondeur; ou bien, une portion de route en remblai traversant un bas-fond peut constituer un barrage. Des riverains ingénieux parviennent, à force de négociations avec les responsables du chantier, à obtenir l'usage d'un bulldozer pour quelques minutes, ce qui leur permet de faire renforcer une digue, de creuser un canal, ou encore de détourner un ruisseau vers la carrière, etc. Certains
+construisent un moine à l'entrée d'un drain traversant la route afin de transformer le remblai en retenue. Ces aménagements réalisés de façon presque clandestine et sans l'avis préalable d'un technicien en pisciculture, vont pouvoir servir à produire du poisson, l'importance de la récolte étant fonction de la technique employée par le "propriétaire".
+
+Une fois que le plan d'eau est établi, le premier soin du responsable est de se procurer des alevins. Comme la production des centres d'alevinage est insuffisante pour couvrir la demande, de longs délais sont nécessaires pour obtenir sa commande. Aussi, certains préfèrent stocker le PPE avec des poissons sauvages capturés dans un cours d'eau avec des nasses. En général, aucun aménagement n'est effectué sur les berges et à l'intérieur du plan d'eau. En conséquence, la végétation d'origine subsiste et si le niveau a augmenté notablement, une partie va mourir et se décomposer sur place provoquant l'acidification du milieu. De plus, la faune naturelle persiste et les nouveaux poissons s'ajoutent à ceux qui se trouvent déjà dans le réservoir. Tout contrôle du stock halieutique est donc impossible. Les captures s'effectuent en général de façon continue, avec des hameçons ou des filets maillants si toutefois la végétation le permet. Dans certains cas, il est possible de vidanger
+partiellement le plan d'eau, ce qui facilite les captures.
+
+Le terme de "gestion" ne s'applique pas vraiment à ce genre d'exploitation; il serait préférable de parler de "zone de pêche améliorée".
+
+Dans ces régions peu peuplées, l'usage de la terre ne pose pas de problèmes particuliers. Celui qui en a besoin peut se faire attribuer un lot par le chef du village, ce qui limite les risques de conflit.
+
+2.11.2. Les institutions
+
+Ces aménagements sont réalisés le plus souvent sans l'avis de techniciens, de façon semi-clandestine. En effet, la procédure administrative préalable à la construction d'un barrage ou d'un aménagement piscicole est si compliquée que la plupart des personnes concernées l'évitent. Le fonctionnaire du service des pêches (qui dépend du Ministère de l'élevage, de la pêche et des industries alimentaires) est parfois consulté dans le but d'obtenir des alevins. C'est à partir de ce moment que le "propriétaire" peut recevoir des conseils pour améliorer son exploitation qui peut alors passer d'une situation de zone de pêche privée à celle de pisciculture extensive.
+
+2.11.3. Valeur technique
+
+Ce mode d'exploitation constitue un aménagement sommaire d'une zone naturelle ou artificielle en vue de la pêche. La production d'un tel plan d'eau est comparable à celle obtenue en pleine nature. L'avantage principal est d'avoir le plan d'eau à proximité de la maison ou de la plantation et de ne pas être obligé d'effectuer une longue marche en forêt pour aller sur des lieux de pêche.
+
+Un premier stade d'amélioration de ce système consiste à éliminer la végétation immergée afin de rendre possible le contrôle du PPE. Si cela est possible, il faut ensuite aménager un système de drainage de façon à pouvoir tout d'abord éliminer la faune indésirable et ensuite, contrôler le stock ichtyologique introduit, et enfin, pratiquer des récoltes complètes. A ce niveau d'aménagement, on ne peut plus parler de pêche, mais de pisciculture. Cette activité est relativement bien encadrée par les techniciens du service des pêches.
+
+2.11.4. Facteurs limitatifs
+
+La technique décrite s'applique à des cas spéciaux (chantiers abandonnés); sa vulgarisation dépend donc de l'extension de grands projets, par ailleurs relativement nombreux. Les services techniques gouvernementaux devraient pouvoir informer les riverains des possibilités offertes par l'aménagement des reliquats de ces grands travaux et orienter ceux qui seraient disposés à effectuer de tels aménagements vers les fonctionnaires compétents. Or actuellement, les procédures administratives sont plus un frein qu'un stimulant pour les petits entrepreneurs qui préfèrent agir isolément. C'est pour cela que des aménagements mal conçus sont entrepris, alors que l'expertise technique existe, mais demeure inaccessible pour ceux qui en auraient besoin.
+
+2.11.5. Eléments instructifs
+
+Ce genre d'aménagement correspond tout à fait au créneau d'activité de nombreux petits entrepreneurs africains. L'idée devrait être vulgarisée dans toutes les régions humides d'Afrique. Il ne faut cependant pas perdre de vue que les PPE ainsi constitués ne pourront donner des résultats positifs que si des techniques de pisciculture extensive sont disponibles et mises en pratique par les responsables des aménagements.
+
+2.11.6. Conclusion
+
+L'aménagement d'un site naturel précède ici la mise en production. On devrait donc s'attendre à trouver par la suite de véritables exploitations de pisciculture. Cependant, on se heurte toujours à des idées erronées selon lesquelles la pisciculture intensive en étang exigerait beaucoup de travail pour donner de piètres résultats, tandis que la pisciculture de barrage permettrait d'obtenir sans effort de grosses récoltes.
+
+Dans ces conditions, nombreux sont les propriétaires de retenues qui ne jugent pas nécessaire de rechercher les conseils techniques auprès des moniteurs piscicoles et se contentent d'attendre une hypothétique récolte.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+3. SYNTHÈSE DES ENSEIGNEMENTS TIRÉS DE CES EXEMPLES
+
+3.1. Cas général
+
+Le milieu naturel et le stock halieutique d'un PPE sont soumis à l'influence des populations qui les exploitent; les niveaux de gestion de chacun de ces éléments peuvent être plus ou moins élevés, mais ne sont pas directement dépendants l'un de l'autre.
+
+Ainsi, un milieu naturel tel qu'un lac n'ayant subi aucune modification en vue d'améliorer son exploitation (niveau de gestion du milieu peu élevé), peut voir son stock halieutique exploité selon les méthodes les plus performantes (niveau de gestion du stock élevé). Au contraire, un réservoir artificiel (niveau de gestion du milieu élevé) peut avoir un stock halieutique provenant d'alevins sélectionnés (niveau de gestion du stock élevé) mais totalement négligé par les riverains (bas niveau de gestion des méthodes de capture).
+
+Nous avons résumé sur un tableau différents niveaux possibles de gestion pour quatre éléments communs aux PPE: milieu physique, stock halieutique, méthodes de capture et enfin, utilisation du poison.
+
+Il apparaît que lorsque les quatre éléments cités ont tous un bas niveau de gestion, nous avons à faire à un PPE naturel exploité de façon traditionnelle par des riverains. Au contraire, lorsque les quatre éléments ont tous un niveau élevé de gestion, le PPE est pratiquement transformé en ferme piscicole. Entre ces deux extrêmes, tous les cas de figure sont possibles.
+
+Pour chacun des éléments pris individuellement, l'augmentation du niveau de gestion conduit à une augmentation des captures, depuis un niveau très bas correspondant à une exploitation traditionnelle (sous-exploitation), en passant par un niveau optimal de captures (total des captures voisin de la productivité du stock halieutique), pour arriver à un épuisement du stock par suite de surexploitation. En effet, l'un des quatre éléments porté tout seul à un niveau élevé de gestion va produire un déséquilibre dans l'exploitation du PPE et va conduire, soit à une dégradation du milieu, soit à une surexploitation du stock, soit encore à une faillite du système d'utilisation du poisson. Quoiqu'il en soit, la productivité du PPE va être réduite au détriment des riverains.
+
+Il est donc indispensable de modifier ensemble le niveau de gestion des quatre éléments et de le maintenir de telle sorte que le niveau de capture demeure au niveau optimal. Le développement d'un PPE doit donc être intégré à celui des autres activités des riverains. Globalement, la gestion d'un PPE doit permettre d'en tirer le maximum possible de production au bénéfice des riverains, tout en préservant le milieu et le stock halieutique.
+
+Niveau des captures comparé au niveau de gestion de certains éléments
+
+NIVEAU DE GESTION
+
+Exemples de Niveaux de Gestion observés dans des PPE.
+
+Milieu Physique Stock Halieutique Méthode de Capture Utilisation du Poisson
+- Milieu contrôlable en totalité - Stock entièrement contrôlé. Reproduction et grossissement séparés. - Capture par vidange totale (barrages agro-pastoraux) - Pêcheurs professionnels ayant un contrat d'exclusivité avec un mareyeur.
+- Aménagement intégré Agriculture/Pisciculture - Stock exploité provenant en majorité d'alevins déversés.
+Espèces locales présentes - Capture par vidange partielle et filets. - Quota de captures et/ou de commercialisation.
+- Pisciculture extensive - Capture totale d'un stock par pêcheurs professionnels avec engins modernes; Surpêche. - Pêche autorisée aux riverains, Commercialisation interdite du poisson.
+- Niveau d'eau contrôlable
+- Aménagement des berges.
+- Contrôle partiel de l'eau par des aménagements saisonniers. - Introduction d'une ou de plusieurs espèces exotiques destinées à combler une ou plusieurs niches écologiques vides. - Captures sélectives destinées à améliorer le rendement tout en préservant le stock. - Pêcheurs professionnels "allochtones" commercialisant eux-même leur poisson frais ou séché (vendeurs du même groupe ethnique).
+- Répartition des zones de pèche entre groupements de pêcheurs. - Stock Naturel. - Pêche rationelle permettant la conservation du stock par professionnels contrôlés - "Contrat" passé entre paysan pêcheur occasionnel et mareyeur de la ville voisine.
+- Aménagement de circuits de pêche. - Absence de stock halieutique (lac de rift-valley lac volcanique, réservoir temporaire). - Prélèvements en fonction des besoins par paysans/pêcheurs occasionnels. - Monétarisation des captures.
+- Séchage/fumage/stockage/commercialisation sur les marchés locaux.
+- Aménagement d'accès à la berge. - Prélèvement au jour-le-jour en fonction des possibilités (temps disponible et matériel) par les riverains. - Troc des excédents sur le marché.
+- Milieu naturel non contrôlable. - Hors circuit commercial
+- Auto-consommation.
+
+Les divers exemples de PPE étudiés nous montrent qu'en général, des captures "diffuses" effectuées par les riverains dans un but d'autoconsommation procurent une ressource continue alors que des pêches effectuées par des professionnels conduisent à l'épuisement rapide de la ressource.
+
+Ces réflexions conduisent à l'idée que, dans le cas d'un PPE, le niveau de gestion le plus élevé est celui qui procure un apport continu au bénéfice des riverains tout en préservant le milieu et le stock halieutique, et non pas celui qui fournit le bénéfice immédiat le plus élevé.
+
+Nous avons tenté de présenter sur des graphiques l'évolution hypothétique des captures dans un PPE en fonction du niveau de gestion des quatre principaux éléments. Ces courbes, qui devraient être vérifiées par des études statistiques, montrent que le niveau optimal des captures d'un PPE correspond à des niveaux moyens de gestion de chacun des éléments.
+
+3.2. Explication des exemples de niveau de gestion
+
+3.2.1. Le milieu physique
+
+Il ne se limite pas au milieu aquatique: étant donné la dimension réduite du système étudié, l'environnement immédiat influe directement sur le PPE. Le régime hydrique d'un PPE de forêt humide n'est pas le même que celui d'un PPE situé en savane. De nombreux PPE ne sont même pas accessibles à pied car la végétation est très dense dans les zones humides. Le premier niveau de gestion consiste justement à créer des chemins permettant aux riverains d'accéder à la berge. Le niveau suivant pourrait être caractérisé par l'aménagement de sentiers permettant de se rendre sur les lieux de pêche et par la répartition de zones d'action aux différents riverains. Ensuite, les aménagements auraient pour but de contrôler le niveau d'eau par la construction de diguettes, de barrages et de canaux.
+
+De plus, les aménagements à vocation villageoise, récréative agricole ou d'élevage, réalisés à proximité d'un PPE influent directement sur le niveau d'eau (pompage pour irriguer des cultures ou approvisionner le village), sur sa qualité (pollution par rejets domestiques, lessivage des pesticides et des engrais agricoles), sur le milieu (déboisement ou surpâturage du bassin versant conduisant au comblement progressif du PPE par les produits de l'érosion). Les niveaux ultimes de gestion du milieu sont représentés par les réservoirs artificiels et par les fermes piscicoles.
+
+Un autre degré de gestion du milieu physique consiste à drainer en partie ou en totalité le PPE lorsque le bénéfice attendu des terrains ainsi obtenus à des fins agricoles, pour la pisciculture, en vue d'un développement urbain, ou encore pour éradiquer une maladie liée à l'eau, est supérieur au revenu provenant initialement du PPE.
+
+L'augmentation du niveau de gestion du milieu dans l'absolu conduit à une amélioration de la productivité du stock halieutique. Mais cela implique un contrôle strict des captures. Dans le cas général où les captures ne sont même pas connues, le stock halieutique est rapidement épuisé par suite de la facilité des captures (par vidange totale).
+
+3.2.2. Le stock halieutique
+
+Le premier cas est représenté par les PPE dépourvus de stock halieutique naturel, ou tout au moins sans intérêt pour l'alimentation humaine: lacs volcaniques ou de bassins clos (rift-valley), ou bien encore, les réservoirs artificiels.
+
+En général, le stock halieutique des PPE comporte peu d'espèces de grande taille (exception faite parfois pour certains silures), ce qui explique en partie le désintérêt des pêcheurs professionnels pour ce milieu, mais par contre, justifie l'exploitation en vue de l'autoconsommation.
+
+La gestion d'un stock halieutique débute par des prélèvements plus ou moins incontrôlés effectués par des pêcheurs occasionnels; un niveau de gestion plus élevé est atteint lorsque des espèces exotiques sont introduites dans le but de combler un vide écologique. Les poissons les plus fréquemment introduits dans les PPE sont divers tilapia, parfois des clarias ou des heterobranchus. Dans ce cas, les espèces exotiques cohabitent avec les espèces locales.
+
+Dans les PPE dépourvus à l'origine de poissons, le stock halieutique provient en totalité d'espèces introduites qui, dans certains cas, peuvent s'acclimater et se reproduire, ou au contraire, ces poissons grandissent mais ne se reproduisent pas, par suite de conditions naturelles inadéquates. Lorsque ce stock halieutique est exploité, il est indispensable de réaleviner régulièrement le PPE, sinon, la quantité de poisson disponible régresse rapidement jusqu'à épuisement total.
+
+Un cas extrême est représenté par l'introduction de truites dans des ruisseaux de montagne pour la pêche sportive.
+
+Il est important de noter que le plus souvent ces introductions ont été réalisées par les administrations sans concertation avec la population, ce qui a des conséquences sur la gestion du stock établi.
+
+3.2.3. Organisation des captures
+
+Le niveau de gestion le moins élevé est celui rencontré dans les sociétés traditionnelles peu nombreuses; les captures sont limitées à ce qui est nécessaire pour la consommation des riverains. Les engins peu performants utilisés ne permettent pas d'obtenir des prises importantes (filets et nasses fabriqués en fibres naturelles, hameçons). Par ailleurs, les chefs traditionnels limitent les époques de captures (pêche autorisée par les Anciens suivant les préceptes de la religion traditionnelle, en fonction des phases de la lune). Le plus souvent, la pêche est pratiquée par les femmes et les enfants pour l'alimentation des familes riveraines, soit individuellement la plus grande partie de l'année, soit collectivement lors des basses eaux. Ce système n'est pas très efficace au niveau des captures mais présente l'avantage de préserver le milieu et le stock halieutique.
+
+Le niveau suivant de gestion est représenté par la pratique de la pêche à temps partiel par des paysans riverains d'un PPE. Ce début de spécialisation permet à ceux qui pratiquent la pêche d'avoir un matériel simple mais souvent performant, car utilisé judicieusement (filet maillant, palangre). Le temps constitue le principal facteur limitant; les paysans ne peuvent aller à la pêche que lorsque le travail des champs leur en laisse la possibilité (le temps est donc un facteur de préservation du stock halieutique).
+
+Dans les étapes suivantes, la pêche est pratiquée par des pêcheurs professionnels dotés d'un équipement efficace. Le niveau des captures, s'il n'est pas contrôlé, dépasse rapidement le potentiel du PPE qui voit son stock halieutique s'épuiser progressivement. Une limitation des captures doit donc être imposée aux pêcheurs.
+
+Enfin, le stade le plus évolué des captures se rencontre dans les réservoirs artificiels et dans les PPE aménagés; il s'agit des captures par vidange partielle ou totale. Ce système conduit à l'élimination complète du stock et doit être associé à un réalevinage régulier du PPE.
+
+3.2.4. Utilisation du poisson
+
+Cet élément présente une grande importance sur la gestion des PPE. En effet, lorsque les captures sont destinées à l'alimentation des familles des pêcheurs, il n'y a pas de danger de surexploitation (sauf en milieu urbain). Le niveau des captures augmente lorsque les pêcheurs ont la possibilité d'échanger le poisson contre d'autres produits au marché du village. En général jusque-là, l'exploitation demeure audessous du seuil maximum soutenable.
+
+La situation devient très différente lorsque le circuit d'utilisation du poisson se monétarise; il est vendu hors du village et la demande augmente. Les pêcheurs gagnent de l'argent, achètent du matériel souvent à crédit, doivent rentabiliser l'investissement et cherchent à augmenter les captures par tous les moyens, poussés en cela par les mareyeurs et les fournisseurs d'équipement.
+
+Si aucune mesure administrative n'est prise pour limiter les captures et leur commercialisation, le stock halieutique peut être rapidement épuisé.
+
+Il faut aussi considérer l'influence sur le bassin versant de la commercialisation du poisson sous la forme séchée/fumée; l'utilisation intensive de bois pour le fumage conduit à la déforestation de la périphérie du PPE.
+
+3.3. Principaux facteurs limitatifs et contraintes
+
+3.3.1. Fragilité du milieu
+
+Le rôle des PPE dans la vie des riverains est important: l'eau constitue la première ressource que l'on en tire, alors que le poisson ne représente qu'une production annexe. En conséquence, il est rare qu'un programme de gestion piscicole existe, ou, si c'est le cas, qu'il soit appliqué. Les PPE sont des milieux limités et biologiquement fragiles, dont la vie est souvent menacée par les activités des riverains. Ainsi, l'utilisation de l'eau pour les besoins du village et des cultures peut assécher un PPE.
+
+En l'absence d'égouts, les eaux usées des riverains se déversent directement dans le PPE qui peut, dans un premier temps, être fertilisé et voir ainsi augmenter sa productivité, mais ce stade est très rapidement dépassé et peut évoluer vers l'eutrophisation du milieu. De plus, trop souvent les riverains déversent tous leurs déchets solides dans le marigot voisin qui, non seulement est improductif, mais devient un foyer d'infection.
+
+Les services techniques du gouvernement manquent en général de moyens pour s'occuper de PPE qui ne représentent qu'un potentiel limité pour les activités dont ils ont la responsabilité. Pour les mêmes raisons, il est rare que des financements extérieurs soient attribués à des projets dépassant rarement l'échelle familiale.
+
+3.3.2. Incidence de maladies liées à l'eau
+
+Les PPE sont indispensables à la vie de nombreuses communautés rurales isolées dont ils permettent de satisfaire les besoins en eau. De plus, ils rendent possible la pratique de cultures vivrières nécessitant l'irrigation et fournissent du poisson. Pour ces raisons, les populations ont tendance à construire leurs habitations à leur proximité immédiate, sur les sites protégés des inondations. Mais cela ne va pas sans inconvénients; en effet, plusieurs maladies parasitaires transmissibles à l'homme et au bétail sont provoquées par des agents aquatiques, ainsi que leurs vecteurs.
+
+La maladie la plus courante est le paludisme ou malaria, provoquée par un hématozoaire transmis à l'homme par les moustiques anophèles. La plus grande partie des populations riveraines de PPE est infectée par le parasite mais présente une assez grande résistance à la maladie. L'usage de médicaments préventifs et curatifs par les populations isolées est très limité du fait de leur prix d'achat. Il en est de même pour les moustiquaires.
+
+Une autre maladie très courante à proximité des PPE est la bilharziose, provoquée par des trématodes et transmise à l'homme par des mollusques aquatiques. Ici encore, la prévention est difficile à appliquer parmi les populations riveraines; elle consiste à éviter de marcher pieds nus dans l'eau contaminée ou de s'y baigner. Plus de la moitié des personnes concernées sont porteuses du parasite et peuvent donc contaminer d'autres PPE, même si la maladie ne se déclare que chez quelques individus. La bilharziose se soigne mais le traitement est relativement coûteux et doit être appliqué sous contrôle médical, ce qui encore une fois, limite son application.
+
+Enfin, une troisième maladie liée à l'eau, très fréquente dans les pays sahéliens, est l'onchocercose, provoquée par un filaire, transmis par un moucheron simulie. Elle peut provoquer à la longue, la cécité des personnes atteintes. Ces trois endémies font régulièrement l'objet de programmes régionaux d'éradication organisés en collaboration entre les gouvernements concernés et les agences de coopération internationales et bilatérales. Il s'agit le plus souvent de pulvérisations massives de pesticides destinés à éliminer le vecteurs. Les PPE constituent les cibles privilégiées pour les acteurs de cette lutte chimique, ce qui ne va pas sans provoquer des effets secondaires parfois graves sur les riverains, le bétail et les poissons.
+
+Lorsque les populations riveraines sont denses, le PPE peut devenir spontanément la décharge publique et le collecteur des eaux usées, sans pour autant perdre sa fonction première de point d'approvisionnement en eau domestique. De nombreuses affections apparaissent alors: diarrhée, choléra, mycoses, infections diverses, blessures par déchets tranchants jetés dans l'eau, etc. La prévention de ces maladies est une question d'hygiène publique et familiale (consommation d'eau bouillie, creusement de puits, aménagement de latrines, creusement de canaux d'évacuation des eaux usées, aménagement de décharges) qui peut rester sans réponse dans des régions où d'une part, il est difficile d'obtenir de l'eau non polluée et, d'autre part, les problèmes d'hygiène sont du ressort des femmes qui sont en majorité illettrées et donc difficilement accessibles au messages de vulgarisation, malgré tout leur dévouement et leur désir d'avoir des enfants en bonne santé.
+
+Dans certains cas, lorsque la faible densité de population le permet, la prévention contre ces maladies consiste à déplacer le campement vers un PPE non pollué, la décision étant généralement prise par les chefs traditionnels. Ailleurs, les pouvoirs publics interdisent de façon autoritaire l'accès à l'eau contaminée et la construction de maisons à proximité.
+
+3.4. Principaux facteurs positifs
+
+3.4.1. La grande qualité des PPE est qu'ils sont nombreux, mais aussi variés. Leur grand nombre fait qu'ils sont présents partout, ou à peu près, et qu'ils constituent l'un des centres vitaux de la majorité des villages, car ils fournissent l'eau pour les hommes, les troupeaux et les cultures.
+
+3.4.2. Le poisson du PPE constitue un appoint plus ou moins important. C'est une ressource parfois limitée, mais accessible à tous et de très haute valeur alimentaire.
+
+3.4.3. Les PPE artificiels constituent des pôles de développement dans des régions à saison sèche marquée. Leur variété fait que chaque PPE est un cas particulier, aux ressources propres.
+
+3.4.4. Les femmes sont les principales utilisatrices des PPE. En effet, le transport de l'eau domestique et la réalisation des cultures vivrières sont des activités essentiellement féminines.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+4. RECOMMANDATIONS
+
+4.1. Nous avons vu que les PPE constituent des milieux fragiles, servant souvent de pôles de développement. Ils sont menacés par l'attrait qu'ils exercent sur des populations riveraines en augmentation rapide.
+
+Il est donc indispensable de prévoir des plans de développement intégré portant sur l'ensemble du bassin versant du PPE. Ce plan doit porter sur l'utilisation de l'eau (village, bétail, agriculture), la prévention de la pollution par les eaux usées et par les déchets domestiques, les engrais et les pesticides agricoles. Il doit aussi prévoir la protection de la végétation environnante, surtout des arbres, afin de prévenir le comblement progressif par les produits de l'érosion. Enfin, le plan de développement doit sensibiliser les riverains sur la bonne utilisation du PPE et des ressources qu'ils peuvent en tirer, en particulier les poissons.
+
+Les actions de sensibilisation devraient être orientées en priorité vers les femmes et les enfants, principaux exploitants des PPE.
+
+4.2. La gestion du stock halieutique doit être orientée au profit des riverains. En effet, il s'agit d'une ressource limitée ne pouvant pas faire l'objet d'un commerce important. Par contre, le poisson des PPE constitue un apport en protéines de haute valeur, permettant de complémenter utilement l'alimentation des riverains. Un effort de sensibilisation est indispensable; il faut faire comprendre aux populations les limites de cette ressource. Ainsi, il pourrait être possible de convaincre les riverains de n'utiliser que des engins de capture non destructeurs en nombre limité (hameçons, filets fixes à mailles suffisamment larges, interdiction des engins traînants). Un matériel coûteux ne pourrait pas être rentabilisé, faute de ressource suffisante.
+
+Il faut noter que les pêcheurs ont la possibilité de se procurer dans le commerce (proche ou lointain) toutes sortes d'équipements de pêche dont l'usage est interdit mais la fabrication, l'importation et la vente sont autorisées. Une révision des règlements serait souhaitable. De plus, les prix de détail du matériel de pêche augmentent en fonction de l'éloignement des grands centres urbains. Les riverains des PPE doivent, pour acheter leur équipement, soit se déplacer en ville et supporter les dépenses du voyage, soit accepter de payer un prix très élevé au commerçant local.
+
+L'utilisation du poisson devrait être limitée aux seuls riverains. Pour cela, son commerce devrait être interdit. Ce genre d'interdiction du commerce existe dans plusieurs pays pour le gibier; il devrait être appliqué aux poissons de certains PPE.
+
+4.3. Les administrations concernées par les PPE (Agriculture, Santé, Eaux et Forêts, Elevage, Développement Rural, etc.) devraient agir en parfaite harmonie, principalement lorsque leurs programmes ont des conséquences sur la productivité d'un plan d'eau.
+
+Chaque projet devrait être présenté avant le début de son exécution à l'ensemble des responsables techniques et des représentants des riverains, afin que toutes ses conséquences directes ou lointaines puissent être analysées.
+
+Dans de nombreux pays, les administrations concernées manquent de moyens pour effectivement gérer les stocks halieutiques. Dans ces conditions, les agents cherchent surtout à faire augmenter les captures afin de pouvoir collecter plus de taxes. Leur action a pour résultat d'aggraver la surexploitation au lieu de la réduire. Il est indispensable que les administrations reçoivent les moyens nécessaires pour mener à bien leur tâche.
+
+4.4. Peu de riverains connaissent les problèmes concernant la gestion d'un PPE. Cela est vrai auprès des PPE naturels, mais est encore plus grave à proximité des réservoirs artificiels où il n'existe pas de tradition de gestion de l'eau parmi la population.
+
+Plutôt que de charger des pêcheurs professionnels étrangers à la région de capturer l'ensemble du stock halieutique, il serait préférable de créer des équipes mobiles, disposant d'un minimum d'équipement de capture et de transport d'alevins, chargées de former les riverains à ce mode de gestion, et de les aider, tout au moins au début, à pêcher les poissons. Ces équipes devraient faire porter leurs efforts sur les PPE ayant un potentiel certain (par exemple, une superficie d'au moins un hectare, et de l'eau en permanence) et une population riveraine intéressée par le travail et la récolte, et non pas par d'hypothétiques dons de matériel qu'il serait possible de revendre par la suite.
+
+Les administrations responsables de ces équipes devraient veiller à éviter le cumul d'activités antagonistes: vulgarisation de méthodes de pêche, contrôle du matériel de pêche et répression, perception de taxes.
+
+4.5. Les PPE sont des milieux fragiles. Il convient donc de créer des réserves au sein desquelles faune et flore de l'ensemble d'un bassin versant seraient protégées. Pour arriver à ce but, la persuasion et l'enseignement sont plus efficaces que l'imposition de lois venues de l'administration et incomprises des riverains. Un des moyens possibles pour faire accepter ce genre de proposition pourrait consister à "sacraliser" le PPE et les bois voisins avec l'accord des Anciens du village. Plusieurs agents des Eaux et Forêts considèrent très sérieusement cette option.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières
+
+
+5. BIBLIOGRAPHIE
+
+Anderson, A. The development and management of fisheries in small water bodies. CIFA/87/SYMP./5; 15-19
+
+Bernacsek, G.M., 1984. Guidelines for dam design and operation to optimize fish production in impounded river basins. CIFA Tech. Pap., (11): 98p.
+
+Black-Michaud, J., et Johnson, J., 1986. Community participation in integrated small-scale fisheries projects. 8. CIFA/85/Symp.8; 62-91
+
+Bourdieu, P. 1980, Le sens pratique; Editions de Minuit; Paris
+
+Breuil, C., 1991, Etudes de base sur la situation des pêches intérieures au Sahel, et, Rapport sur la planification et l'aménagement des pêches continentales sahéliennes. FAO, Rome, FIPP
+
+Braimah, L.I., Modern and traditional fisheries management systems in the Sahelian Zone of Ghana. CIFA/PD/S/90/SEM 1; 34-41
+
+CIFA/CPCA Colloque sur le développement et l'aménagement des pêches dans les petits plans d'eau. Accra, Ghana, 7-8 déc. 1987.
+
+CIFA/CPCA Committee for Inland Fisheries in Africa/ Comité des Pêches Continentales pour l'Afrique, 1967. Symposium sur l'Aquaculture en Afrique. Accra, Ghana, 30 sep. - 2 oct. 1975, CIFA Tech. Pap. No.4 (Suppl. 1)
+
+Corsi, F., et Coenen, E., 1988. Burkina Faso. Situation hydrobiologique de la zone du projet "Développement des centres de pêche". FAO, TCP/BKF/8852 (T)
+
+Corsi, F., 1991, Etude sur la pêche maritime au Cameroun. Rapport de consultation établi pour le projet TCP/CMR/053
+
+Deceuninck. V., 1989. Etudes nationales pour le développement de l'aquaculture en Afrique: 23. Burkina Faso. FAO Circ.Pêches, (C770.23):100p.
+
+Deceuninck, V., 1990, Etudes nationales pour le développement de l'aquaculture en Afrique. 26. Burundi. FAO Circ. Pêches, (C770.26):94p.
+
+Deceuninck, V., 1990, Etudes nationales pour le développement de l'aquaculture en Afrique, 27. Rwanda. FAO Circ. Pêches, (C770.27):103p.
+
+Haakonsen, J.M., 1989. The role of migrating fishermen in West Africa; what we know and what we need to know. In: Contributions provisoires. La recherche face à la pêche artisanale. V.II. Montpellier, ORSTOM:IFREMER, 487-502
+
+Haakonsen, J.M., 1990. Fishermen's migrations to the large man-made lakes in West Africa. CIFA/PD:S/90/SEM 12, 120-126
+
+Institut National pour l'Etude Agronomique du Congo (INEAC) Collection des années 30. Divers articles sur la pêche
+
+L'Heureux, R., et Micha, J.C., 1988. Burkina Faso. Rapport de la mission de formulation du projet: "Introduction de la pisciculture familiale dans la vallée du Sourou". FAO, BKF/87/053
+
+Maes, M. & al., 1991. Projet FAO RAF/87/099, Planification des pêches continentales en Afrique centrale et Australe
+
+Matthes, D.H., 1991, Etude sur la pêche continentale au Cameroun. Rapport de consultation établi pour le projet TCP/CMR/053
+
+Micha, J.C., Moehl, J., et Traore, A.C., 1989. Burkina Faso. Rapport de la mission de formulation du projet: "Développement de la pisciculture rurale dans la zone du Sourou".
+
+Micha, J.C., Plusieurs travaux sur la pisciculture intégrés dans les marais du Rwanda
+
+Miller J.W., 1988. Technical evaluation of the Rwanda/USAID national fish culture project. Auburn University, Auburn, Alabama, USA
+
+Mughanda, M., Micha, J.C., Degand, et J., Frank, V., 1991. La pêcherie du lac Ihema (Rwanda); production commerciale et rentabilité socio-économique (1981-1987). Presses Universitaires de Namur.
+
+Noiset, J.L., et Hernandez Sosa A., 1991. Valorisation des marais par le développement de la pêche dans la région de San Pedro (Tabasco, Mexique). Projet ONG/ 03/84/B: CCE - ADRAI INIREB, Rapport scientifique final, Juin 1991.
+
+Palm, R., Management of community small water bodies for fish production in Africa. CIFA/87/SYMP./6; 139-167
+
+Platteau, J.P., 1982, Projet coopératif et réalité rurale dans le tiersmonde; Cahiers de la faculté des sciences économiques et sociales de Namur, série recherche No. 45
+
+Plisnier, P.D., Micha, J.C., et Frank, V., 1988. Biologie et exploitation des poissons du lac Ihema (Bassin Akagera, Rwanda). Presses Universitaires de Namur
+
+Price, T.L., 1987. Burkina Faso, Mise en valeur globale de la pêche et de la pisciculture. FAO, TCP/BKF/4511 (T)
+
+Vallet, F., 1991, Etude sur la pisciculture au Cameroun. Rapport de consultation établi pour le projet TCP/CMR/053
+
+Vincke, M.M.J., 1990. Burkina Faso. FAO, Rapport de mission (5 août-1 sept. 1989); TCP/BKF/8852; GCP/BKF/035/AGF
+
+Welcomme, R.L., 1976. Some general and theorical considerations on fish yield of African rivers. J. Fis. Biol. 8:351-366
+
+Zhiwen Song, Manual of small-scale reservoir fish-culture, FAO, 1980
+
+Ziéhi, A.D., 1990. Etudes nationales pour le développement de l'aquaculture en Afrique. 21. Côte d'Ivoire. FAO Circ. Pêches, (C770.21): 190p.
+Back Cover
+
+
+Page précédente Début de page

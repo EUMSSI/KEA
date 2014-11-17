@@ -1,0 +1,2456 @@
+Regime fiscal forestier et depenses de l'etat en faveur du secteur forestier en Ethiopie
+_
+
+COVER
+
+
+
+
+
+
+Table des Matières
+_
+
+Regime fiscal forestier et depenses de l'etat en faveur du secteur forestier en Ethiopie
+
+Un rapport préparé pour le programme de FAO sur le financement de l'aménagement durable des forêts
+
+Document de travail: FSFM/WP/04
+
+REGIME FISCAL FORESTIER ET DEPENSES DE L'ETAT EN FAVEUR DU SECTEUR FORESTIER EN ETHIOPIE
+
+Million Bekele
+Ministère de l'agriculture
+Addis Ababa,
+Ethiopie
+
+
+Division des politiques et de la planification forestières, Rome
+
+Bureau régional pour l'Afrique, Accra
+
+Juillet 2001
+
+© FAO 2001
+_
+
+Table des Matières
+
+NOTE D'INFORMATION SUR LE PROGRAMME FAO SUR LE FINANCEMENT DES FORETS
+
+RÉSUMÉ
+
+RÉSUMÉ EXÉCUTIF
+LISTE DES SIGLES ADOPTÉS DANS LE RAPPORT
+DESCRIPTION DU RÉGIME FISCAL FORESTIER
+
+Taxes afférentes à la production de bois industriel
+Taxes afférentes aux produits forestiers non ligneux et aux services procurés par les forêts
+Taxes afférentes aux produits forestiers transformés
+Taxes afférentes au commerce des produits forestiers
+Autres taxes
+
+ADMINISTRATION DU RÉGIME FISCAL FORESTIER
+
+Le processus de détermination des taxes forestières
+Recouvrement des taxes et suivi
+Rôles des échelons de gouvernement centralisés et décentralisés dans le recouvrement et l'administration des recettes
+
+LE RECOUVREMENT DES RECETTES ET LEUR DISTRIBUTION
+
+Recettes totales du gouvernement
+Le recouvrement des recettes forestières et leur distribution
+
+DÉPENSES PUBLIQUES CONSACRÉES À LA FORESTERIE
+
+Planification et préparation du budget du gouvernement
+Dépenses consacrées par le gouvernement fédéral au secteur forestier
+Dépenses forestières des autres institutions gouvernementales
+Recettes et dépenses des entreprises forestières d'État
+Dons et subventions au secteur forestier
+
+DISCUSSION ET CONCLUSIONS
+
+Évaluation globale du régime fiscal forestier
+L'impact du régime fiscal forestier sur l'aménagement durable des forêts
+Dépenses du gouvernement pour l'aménagement durable des forêts
+L'effet des politiques mises en oeuvre dans d'autres secteurs sur l'aménagement durable des forêts
+Les attitudes face au changement
+
+BIBLIOGRAPHIE
+
+NOTE D'INFORMATION SUR LE PROGRAMME FAO SUR LE FINANCEMENT DES FORETS
+
+Il est généralement reconnu que les aspects financiers sont les facteurs les plus importants car ils peuvent avoir un impact sur la gestion durable des forêts. De ce fait, le Département Forestier de la FAO a mis en action un programme de travail sur le financement des forêts, pour examiner l'impact des politiques mises en place par les gouvernements (dans le secteur forestier et ailleurs) sur le financement du secteur forestier ainsi que sur l'aménagement durable des forêts.
+
+Le moyen le plus important qu'aient les gouvernements pour affecter le financement dans le secteur forestier est la politique fiscale, qu'ils imposent au secteur. En ce qui concerne les forêts appartenant ou gérées par l'état, il y une charge pour l'exploitation des ressources forestières, qui, quand mises en place, ont un impact sur les montants et les types d'investissement dans le secteur. Durant les dernières trente années, beaucoup de choses ont été écrites sur le sujet. De plus, d'autres politiques fiscales telles que les taxes et les subventions à l'intérieur ou en dehors du secteur, peuvent avoir un très grand impact sur le domaine forestier.
+
+Le but de ce document de travail est de revoir l'impact des politiques fiscales sur l'aménagement durable des forêts, ainsi que sur d'autres domaines tels que les régimes fonciers, qui ont un impact sur le financement des forêts. Cependant, ce travail essaiera d'aller au-delà de la simple analyse financière des politiques actuelles (qui ont déjà été traitées) pour examiner plus généralement les aspects sociaux, institutionnels, ainsi que politiques de ces reformes. Il est souhaité que ce programme de travail assiste les administrateurs forestiers dans l'identification des manières plus pratiques pour revoir leurs politiques fiscales et par conséquent, les aider à poursuivre leur but dans le cadre de l'aménagement durable des forêts.
+
+Ce programme de travail a été financé par le Programme Ordinaire de FAO et le Programme de Partenariat CE-FAO pour l'Aménagement Durable des Forêts dans les pays ACP. Une grande partie du travail a été fait par des experts et des institutions locales mais supervisés et assistés par la FAO.
+
+Les rapports sont édités et émis dés leur arrivé. Cependant, le contenu et le style sont très légèrement modifiés afin de rendre les rapports plus clairs. Par ailleurs, la présentation des rapports est aussi uniformisée. FAO invite les lecteurs à soumettre des informations qu'ils croient utiles dans le cadre de ce travail. Ces informations peuvent être envoyées aux responsables de l'étude cités ci-dessous, qui pourront fournir davantage d'informations sur le sujet :
+
+Mr Adrian Whiteman
+Fonctionnaire forestier (études sectorielles)
+Division des politiques et de la
+planification forestières
+Département des forêts
+Organisation des Nations Unies pour
+l'alimentation et l'agriculture
+Viale delle Terme di Caracalla
+Rome, 00100, ITALY
+Tél: (39-06) 5705 5055
+Fax: (39-06) 5705 5137
+Email: adrian.whiteman@fao.org
+
+Mr Peter Lowe
+Fonctionnaire forestier régional
+Bureau régional de la FAO pour
+l'Afrique
+Gamel Abdul Nasser Road
+PO Box 1628
+Accra, GHANA
+Tél: (233-21) 675000 ext. 3404
+Fax: (233-21) 668427
+Email: peter.lowe@fao.org
+
+
+
+RÉSUMÉ
+
+Le présent rapport décrit la structure actuelle de la fiscalité forestière en Éthiopie. S'agissant d'un système de gouvernement fédéral, il est difficile de présenter des informations sur le total des recettes perçues et des dépenses publiques pour l'ensemble du pays, néanmoins ce rapport décrit la situation au niveau fédéral et donne des renseignements provenant de quelques États sélectionnés. Globalement, on estime que le montant des recettes perçues est supérieur aux dépenses publiques consacrées au secteur. Le rapport signale les mécanismes de financement novateurs introduits par certains États, comme la vente aux enchères des droits d'exploitation, le partage des recettes et leur rétention par les administrations forestières. Il montre aussi que les taxes prélevées sur les produits forestiers non ligneux (PFNL) sont très importantes dans le pays. Enfin, il formule un certain nombre de recommandations pour améliorer la situation actuelle, caractérisée par un niveau de
+taxation trop bas, et suggère d'autres réformes de politique plus générales.
+
+
+
+
+
+
+
+RÉSUMÉ EXÉCUTIF
+
+Le contexte politique fiscal en Éthiopie a radicalement changé au cours de la dernière décennie. Le pays est passé d'une économie planifiée à une économie de marché, avec une réduction progressive du contrôle du gouvernement sur le secteur forestier. En outre, le système de gouvernement a changé : un gouvernement central solide a cédé la place à un système fédéral, qui donne aux États régionaux beaucoup plus de pouvoirs sur leurs ressources naturelles.
+
+Un certain nombre d'études ont déjà examiné la fiscalité forestière en Éthiopie. Elles ont utilisé deux approches pour estimer la valeur des taxes forestières, l'une étant basée sur la valeur résiduelle du bois sur pied, et l'autre sur le coût de remplacement. La première approche calcule la valeur du bois sur pied en déduisant de la valeur marchande des produits forestiers, les coûts de la transformation et de la récolte. La deuxième approche prend en considération tous les coûts de la gestion de la forêt, et les additionne pour obtenir le coût de production total. L'utilisation de ces deux approches a posé des problèmes car il a été difficile d'obtenir les données nécessaires aux calculs. Toutefois, jusqu'à présent, les résultats ont été légèrement meilleurs avec l'approche basée sur le coût de remplacement.
+
+D'une manière générale, malgré ces efforts, on estime que le niveau des taxes forestières est beaucoup trop bas. Toutefois, quelques États commencent à recourir à des procédés plus « concurrentiels » pour la vente des droits de récolte, comme la mise aux enchères. Ces ventes aux enchères se soldent par des prix considérablement plus élevés que ceux fixés par le gouvernement.
+
+Outre les taxes prélevées sur la production de bois rond, les taxes afférentes aux PFNL et aux activités récréatives forestières sont aussi d'importantes sources de revenus forestiers en Éthiopie. Les autres recettes forestières comprennent les produits des amendes et des sanctions, les ventes de produits confisqués ou saisis et les ventes de plantules provenant des pépinières gouvernementales. Il n'y a pas de taxes forestières spécifiques sur la transformation ou le commerce des produits. En outre, il existe une étendue relativement vaste de forêts privées en Éthiopie, dont la production n'est assujettie à aucune taxe.
+
+Le montant total des taxes forestières que doivent payer les concessionnaires, est évalué par des techniciens envoyés sur place par l'administration forestière de chaque État. Les sommes dues sont payées à l'avance et versées sur les comptes généraux du gouvernement (Fonds consolidé) de chaque État. Une comparaison entre le volume de la production et le montant total des recettes perçues montre que de nombreux producteurs s'abstiennent de payer les taxes forestières.
+
+Les gouvernements des États utilisent les recettes forestières pour compléter les subventions que leur accorde le Gouvernement fédéral. La rétention par l'administration forestière d'une part des recettes pour les réinvestir dans le secteur est subordonnée à l'approbation du gouvernement. Seul l'État régional d'Oromya a donné cette autorisation et, dans cet État, l'administration forestière retient environ 80% des taxes forestières perçues. D'une manière générale, il semble que le montant total recouvré par les États soit très supérieur aux sommes qu'ils dépensent pour le secteur.
+
+L'allocation budgétaire annuelle dont bénéficie le Ministère fédéral de l'Agriculture est négligeable (moins de un pour cent des dépenses totales du gouvernement, soit entre 25 et 47 millions de birr, ces dernières années). Les dépenses annuelles consacrées au secteur forestier représentent moins de un million de birr (soit seulement 2 à 3 pour cent), alors que le budget de la conservation de la faune et de la flore sauvages, non compris dans ce montant, est de 4 à 5 millions de birr.
+
+Toutefois, en plus de ses dépenses au niveau fédéral, le Gouvernement fédéral accorde aussi aux administrations des États d'importantes subventions en faveur des forêts et de la faune sauvage, couvrant l'essentiel de leurs dépenses ordinaires et de leurs dépenses d'investissement. Ces dernières années, le montant de ces subventions a été compris entre 10 et 35 millions de birr, pour les dépenses d'investissement, et entre 120 et 150 millions de birr pour les dépenses ordinaires. Ainsi, le montant des dépenses consacrées à la foresterie et à la faune sauvage, à l'échelon des États, est à peu près trois fois plus élevé qu'au niveau central.
+
+Les États collectent aussi leurs propres taxes auprès de diverses sources mais, sauf dans l'État d'Oromya, on ne sait pas quelle est la part de ces recettes qui est dépensée pour la foresterie (en plus des subventions du Gouvernement fédéral). Sur les taxes forestières qu'il perçoit, l'État d'Oromiya dépense environ 4 à 5 millions de birr par an pour le secteur forestier, soit à peu près le montant que l'administration forestière est autorisée à retenir sur les taxes forestières perçues.
+
+Il est recommandé que les administrations forestières de chaque État réexaminent leurs taxes forestières, qui sont beaucoup trop faibles. Ces révisions devraient être effectuées de manière régulière par les États, qui adopteront de préférence la méthode basée sur le coût de remplacement, en utilisant des informations à jour sur les coûts et les prix. Il leur est également conseillé d'essayer de multiplier les procédés novateurs pour la vente des biens et des services forestiers.
+
+En termes plus généraux, le rapport indique que le secteur forestier est pénalisé par le manque d'orientation claire, et que l'absence de politiques bien définies dans les domaines de la foresterie et de l'utilisation des terres est le principal obstacle qui empêche de mettre en oeuvre l'aménagement durable des forêts. En particulier, le défrichement des forêts au profit de la production agricole est identifié comme un problème majeur pour le développement durable du pays. On prend peu à peu conscience du caractère crucial de l'aménagement durable des forêts, mais il manque la volonté politique pour le mettre en oeuvre. Il est suggéré de multiplier les efforts pour démontrer l'importance du secteur pour le développement durable, de façon à ce que les décideurs puissent appuyer plus énergiquement une réforme des politiques.
+
+
+LISTE DES SIGLES ADOPTÉS DANS LE RAPPORT
+
+
+CSA
+
+=
+
+Central Statistical Authority
+
+dbh
+
+=
+
+Diamètre à hauteur d'homme
+
+$ EU
+
+=
+
+dollar EU
+
+FAO
+
+=
+
+Organisation des Nations Unies pour l'alimentation et l'agriculture
+
+PIB
+
+=
+
+Produit intérieur brut
+
+MEDAC
+
+=
+
+Ministry of Economic Development and Co-operation
+
+GTZ
+
+=
+
+Agence allemande de coopération technique
+
+PFNL
+
+=
+
+Produits forestiers non ligneux
+
+ASDI
+
+=
+
+Agence suédoise pour le développement international
+
+
+
+
+
+
+DESCRIPTION DU RÉGIME FISCAL FORESTIER
+
+Les ressources forestières de l'Éthiopie sont constituées de forêts naturelles, de forêts plantées et d'arbres poussant dans des fermes. Actuellement, on distingue trois types de propriété forestière en Éthiopie : les forêts du gouvernement fédéral, les forêts des gouvernements régionaux et les forêts privées (voir Tableau 1). Ces forêts fournissent aux populations locales des produits forestiers, tels que bois de feu ; matériaux de construction et autres avantages incorporels. Les plantations forestières industrielles sont composées d'espèces de feuillus et de résineux. La plupart des plantations de feuillus se trouvent dans des zones péri-urbaines et servent principalement à approvisionner les entreprises urbaines en bois de feu et en perches. Le principal objectif des plantations de résineux est de fournir du bois rond (essentiellement billes de sciage) aux industries forestières.
+
+Tableau 1 Les ressources forestières de l'Éthiopie, par type de forêt et de propriété
+
+Type de forêt
+
+Governmentale
+
+Communautaire
+
+Privée
+
+Total
+
+Plantations forestières industrielles
+
+76 050
+
+0
+
+0
+
+76 050
+
+Plantations forestières non industrielles
+
+99 664
+
+79 500
+
+0
+
+179 164
+
+Total - toutes plantations forestières
+
+175 714
+
+79 500
+
+0
+
+255 214
+
+Forêts naturelles
+
+34 995
+
+0
+
+79 500
+
+114 495
+
+Note: tous les chiffres sont donnés en hectares. Les plantations forestières non industrielles sont utilisées pour la production de perches et de bois de feu. La plupart des zones incluses dans la catégorie « forêts naturelles » ont un couvert forestier très peu dense et sont classées comme « autres terres boisées » dans l'Évaluation des ressources forestières mondiales de la FAO.
+
+La foresterie contribue pour une part significative au Produit intérieur brut (PIB) de l'Éthiopie. Cependant cette contribution a été sous-estimée en raison du manque de données. En outre, la valeur non marchande de la ressource forestière n'a pas été déterminée. Par exemple, la valeur des produits forestiers non commercialisés produits chaque année, et la valeur des services environnementaux et sociaux fournis par les arbres et les forêts d'Éthiopie, ne figurent pas dans la comptabilité nationale.
+
+
+Taxes afférentes à la production de bois industriel
+
+Taxes prélevées dans les forêts du gouvernement
+
+Les premières taxes afférentes aux différents types de grumes provenant des forêts naturelles ont été établies en 1979 après la nationalisation de tous les terrains et de toutes les forêts de plus de 80 hectares. Ces taxes s'appliquaient à toutes les forêts appartenant au gouvernement et étaient fixées par l'ancien Département du développement et de la conservation des forêts relevant du Ministère de l'agriculture. Il s'agissait principalement de redevances d'exploitation applicables aux arbres sur pied, ou de taxes sur les arbres coupés par le Département et transportés bord de route.
+
+Ces taxes variaient en fonction de l'espèce forestière, du diamètre à hauteur d'homme de l'arbre (dbh) et du lieu de la vente (sur pied dans la forêt, ou bord de route). Le Tableau 2 donne quelques exemples du montant de ces redevances. Les taxes variaient aussi selon la distance de la forêt par rapport à la capitale (Addis Abeba) (voir Tableau 3). Ces taxes ont été appliquées de 1979 à 1990.
+
+Tableau 2 Exemple de taxes forestières appliquées de 1979 à 1990, mettant en lumière leur variation en fonction de l'espèce
+
+Espèce forestière
+
+Redevances d'exploitation applicables aux arbres sur pied
+
+Droits sur les arbres coupés et transportés en bordure de route
+
+Birr/m^3
+
+$ EU/m^3
+
+Birr/m^3
+
+$ EU/m^3
+
+Podocarpus gracilior
+
+19
+
+3,80
+
+34
+
+6,80
+
+Juniperus procera
+
+27
+
+5,40
+
+42
+
+8,40
+
+Eucalyptus spp.
+
+20
+
+4,00
+
+21
+
+4,20
+
+Hagenia abyssinica
+
+38
+
+7,60
+
+53
+
+10,60
+
+Olea africana
+
+27
+
+5,40
+
+42
+
+8,40
+
+Croton machrostachys
+
+6
+
+1,20
+
+21
+
+4,20
+
+Tableau 3 Exemple de taxes forestières appliquées de 1979 à 1990, mettant en lumière leur variation en fonction de la distance par rapport à Addis Abeba
+
+Lieu
+
+Redevances d'exploitation applicables aux arbres sur pied
+
+Droits sur les arbres coupés et transportés en bordure de route
+
+Birr/m^3
+
+$ EU/m^3
+
+Birr/m^3
+
+$ EU/m^3
+
+Podocarpus spp, d'un diamètre à hauteur d'homme de 40 cm, situés à 200 km d' Addis Abeba
+
+25
+
+5,00
+
+40
+
+8,00
+
+Podocarpus spp, d'un diamètre à hauteur d'homme de 40 cm, situé à 470 km d'Addis Abeba
+
+23
+
+4,60
+
+38
+
+7,60
+
+En 1990, la première étude sur l'évaluation et la commercialisation des produits forestiers a été conduite par le Ministère de l'agriculture (Ministère de l'agriculture 1990a et 1990b), en collaboration avec l'Agence suédoise pour le développement international (ASDI). L'étude a conclu, entre autres, ce qui suit :
+* Les forêts naturelles ne comportent aucun coût sylvicole et sont souvent considérées comme une source peu onéreuse de bois rond. Toutefois, les taxes prélevées sur le bois rond provenant des forêts gouvernementales sont très faibles par rapport aux coûts de production du bois rond et aux coûts de gestion et de reboisement. Les recettes perçues sur la production de bois rond des forêts gouvernementales ne sont pas suffisantes pour couvrir les coûts de gestion et de reboisement.
+* Pendant de nombreuses années, les taxes ont été fixées par le gouvernement de manière arbitraire, sans chercher à déterminer le niveau qu'elles devraient avoir pour refléter les coûts réels.
+* Les taxes payées par le secteur privé pour l'utilisation des forêts gouvernementales sont fixes, alors que les produits forestiers sont vendus aux prix du marché libre. Ces dernières années, les prix des produits forestiers transformés ont augmenté, mais les taxes afférentes au bois rond sont restées inchangées.
+
+A la suite de cette étude, les taxes afférentes au bois rond ont été mises à jour en 1990, et à nouveau en 1993 (voir Tableau 4). A partir de 1990, le Département des forêts n'a vendu que des arbres sur pied et a fait payer aux utilisateurs des redevances pour l'exploitation des arbres des forêts gouvernementales. Comme auparavant, ces redevances étaient fonction de la taille des arbres (dbh), des espèces, de l'emplacement de la forêt, et de sa distance par rapport aux centres urbains.Là encore, leur montant variait selon l'emplacement géographique.
+
+Tableau 4 Exemple des redevances d'exploitation appliquées de 1990 à 1993, et de 1993 à 1995
+
+Espèce forestière
+
+Redevances, de 1990 à 1993
+
+(en Birr/m³)
+
+Redevances de 1993 à 1995
+
+(en Birr/m^3)
+
+Podocarpus gracilior
+
+37
+
+120
+
+Juniperus procera
+
+31
+
+82
+
+Hagenia abyssinica
+
+37
+
+120
+
+La dernière révision des taxes forestières remonte à 1995 et le Tableau 5 donne des exemples des redevances d'exploitation prélevées dans les États de Gambella et d'Oromiya, de 1995 à nos jours. Là encore, ces redevances varient suivant l'espèce et la région.
+
+Tableau 5 Redevances à payer pour exploiter les forêts gouvernementales dans les États de Gambella et d'Oromiya (de 1995 à nos jours)
+
+Espèce forestière
+
+Redevance d'exploitation dans l'État de Gambella
+
+(en Birr/m³)
+
+Redevance d'exploitation dans l'État d'Oromiya
+
+(en Birr/m³)
+
+Chlorophora excelsa
+
+88
+
+292
+
+Memosops kummel
+
+88
+
+292
+
+Polyscia ferruginea
+
+66
+
+292
+
+Croton machrostachys
+
+66
+
+292
+
+Aningeria adolfi-fredericii
+
+78
+
+292
+
+Maintenant que certaines fonctions du gouvernement éthiopien ont été décentralisées, il n'appartient plus au Ministère fédéral de l'agriculture de fixer les redevances d'exploitation applicables dans les États, de sorte que diverses approches ont été adoptées pour déterminer leur niveau dans chaque État. Par exemple, dans l'État de Gambella, les redevances varient en fonction de l'espèce et de la qualité de l'arbre, et les plus élevées concernent les grumes les plus demandées sur le marché. En revanche, dans l'État d'Oromiya, une redevance d'exploitation minimale de 292 Birr/m³ est prélevée pour toutes les essences forestières indigènes. Non seulement, ce montant est beaucoup plus élevé que dans l'État de Gambella, mais il ne s'agit que d'un minimum et la redevance d'exploitation finale est décidée par adjudication. Selon certains rapports provenant de l'État d'Oromiya, dans les ventes aux enchères, les prix du bois sur pied peuvent atteindre 700 Birr/m³, pour les meilleures
+grumes.
+
+Le Tableau 6 et le Tableau 7 présentent les redevances d'exploitation afférentes à quelques autres produits forestiers mineurs issus des forêts gouvernementales.
+
+Tableau 6 Redevances d'exploitation applicables au bois rond récolté dans les forêts gouvernementales, aux fins de la production de charbon de bois
+
+Espèce forestière
+
+Redevance d'exploitation jusqu'en octobre 1993 (en Birr, par stère de bois)
+
+Redevance d'exploitation à partir d'octobre 1993 (en Birr, par stère de bois)
+
+Acacia
+
+13
+
+35
+
+Albizia
+
+13
+
+25
+
+Aningeria
+
+13
+
+24
+
+Apodytes
+
+13
+
+35
+
+Pinus
+
+4
+
+4
+
+Tableau 7 Redevances d'exploitation et taxes dues pour la coupe de perches, servant de matériaux de construction, de poteaux de téléphone et de transmission, dans les plantations forestières gouvernementales (de 1990 à aujourd'hui)
+
+Longueur de la perche
+
+Redevance d'exploitation
+
+(en Birr/perche)
+
+Taxe (commission de service)
+
+(en Birr/perche)
+
+4 m
+
+0,15
+
+-...
+
+6 m
+
+0,16
+
+0,04
+
+7 m
+
+2,60
+
+0,60
+
+9 m
+
+3,64
+
+0,84
+
+11 m
+
+4,68
+
+1,08
+
+13 m
+
+5,73
+
+1,32
+
+15 m
+
+6,81
+
+1,56
+
+17 m
+
+7,79
+
+1,80
+
+18 m
+
+8,33
+
+1,92
+
+Taxes prélevées sur la production des forêts privées
+
+A l'origine, une taxe de 40 pourcent était prélevée sur la valeur du bois rond issu de forêts privées qui était vendu. L'exploitation des forêts privées était autorisée par une licence, et cette taxe était considérée comme une commission de service tenant lieu de redevance d'exploitation. Les fonctionnaires des forêts contrôlaient les licences et les permis et imposaient des taxes aux points de contrôle, sur les routes. De nos jours, le contrôle des mouvements des bois ronds, des sciages et des panneaux dérivés du bois s'est relâché et ces points de contrôle ont été supprimés. Ainsi, les produits forestiers peuvent circuler librement et ces taxes ne sont plus recouvrées.
+
+
+Taxes afférentes aux produits forestiers non ligneux et aux services procurés par les forêts
+
+Parmi les principaux produits forestiers non ligneux (PFNL) de l'Éthiopie, on peut citer les gommes naturelles, d'où l'on tire l'encens, qui comprennent : la gomme arabique ; l'oliban, l'opopanax et la myrrhe. Les produits dérivés du bambou et du miel sont d'autres PFNL importants (pour plus de détails, voir Deffar, 1998).
+
+Jusqu'en 1992, la Natural Gum Production Enterprise (une société para-étatique) était le seul organisme gouvernemental à produire et à commercialiser l'encens sur les marchés intérieurs et extérieurs. Aujourd'hui, ce sont essentiellement des pasteurs nomades, des concessionnaires privés et des commerçants individuels qui l'approvisionnent en encens. L'entreprise est liée par un système de contrats avec ces fournisseurs qui récoltent l'encens moyennant un prix fixe, et elle prend à sa charge tous les autres coûts (nettoyage, transformation, transport et commercialisation des produits à base de gomme et d'encens).
+
+Il existe sept qualités d'encens différentes en Éthiopie et des représentants de l'entreprise déterminent la qualité des produits au moment de l'achat aux fournisseurs. Les prix payés aux fournisseurs dépendent de la qualité du produit. Par exemple, pour l'encens de qualité 4 et 5, les fournisseurs reçoivent entre 5 et 8 Birr/kg et ces mêmes qualités d'encens se vendent entre 5 et 20 Birr/kg sur le marché de détail. La majorité des articles à base de gommes naturelles produits en Éthiopie sont exportés vers d'autres pays, sauf les produits de qualité inférieure qui sont vendus sur le marché intérieur pour la consommation locale.
+
+L'entreprise verse à l'administration forestière de chaque État une redevance pour pouvoir récolter la gomme. Ces redevances sont elles aussi basées sur la qualité des produits récoltés. On trouvera dans le Tableau 8 des exemples des redevances versées pour les gommes et d'autres PFNL.
+
+Tableau 8 Redevances payées pour la récolte des gommes et d'autres PFNL, en 1990
+
+Produit
+
+Qualité
+
+Redevance
+
+Birr/kg
+
+Kerbie/gomme
+
+1
+
+3,50
+
+Encens
+
+1
+
+4,80
+
+Encens
+
+2
+
+2,30
+
+Encens
+
+3
+
+0,30
+
+Miel
+
+n.d.
+
+3,31
+
+Gesho
+
+n.d.
+
+0,49
+
+Dans la plupart des zones forestières, les communautés locales récoltent aussi du miel dans des ruches perchées dans les arbres. Cette production n'est assujettie à aucune taxe.
+
+Dans le sous-secteur de la faune sauvage, des droits sont prélevés dans les parcs nationaux, ainsi que pour la chasse et l'exportation d'animaux vivants. Les droits prélevés dans les parcs nationaux comprennent les droits d'entrée, les droits de camping, et les droits d'entrée des véhicules. Les droits de camping et d'entrée (des visiteurs) varient en fonction de la nationalité, de l'âge et de la résidence du visiteur (touriste étranger ou étranger résident). Les droits d'entrée des véhicules sont fonction de la taille du véhicule. En outre, lorsque des avions sont utilisés pour faire de l'écotourisme dans les parcs nationaux, des droits de décollage et d'atterrissage (basés sur le nombre de moteurs) sont payés. Ces droits sont fixés par le personnel du Service de la faune sauvage et résumés dans le Tableau 9 et le Tableau 10 ci-dessous :
+
+Tableau 9 Tarifs des droits de camping et des droits d'entrée dans les parcs nationaux (de 1993 à aujourd'hui)
+
+Type de changement
+
+Droit d'entrée
+
+(en Birr/visiteur)
+
+Droit de camping
+
+(en Birr/nuit)
+
+Citoyens éthiopiens
+
+Adultes
+
+enfants
+
+3
+
+2
+
+2
+
+2
+
+Etrangers résidents
+
+Adultes
+
+enfants
+
+30
+
+30
+
+20
+
+5
+
+Touristes
+
+Adultes
+
+Enfants
+
+50
+
+50
+
+20
+
+5
+
+Tableau 10 Tarifs des droits d'entrée des véhicules dans les parcs nationaux (de 1993 à nos jours)
+
+Droits d'entrée des véhicules
+
+Montant
+
+(en Birr)
+
+Droit d'atterrissage/décollage
+
+pour les avions
+
+Montant
+
+(en Birr)
+
+Jusqu'à cinq places
+
+10
+
+Avion monomoteur
+
+20
+
+Entre 5 et 12 places
+
+15
+
+Avion bi-moteur
+
+10
+
+Plus de 12 places
+
+20
+
+Les droits de chasse sont une autre source de revenus pour le secteur forestier. Le nombre d'animaux qui peuvent être tués est limité par un système de contingents, déterminés en fonction de l'abondance des différentes espèces. Le nombre d'animaux sauvages rares qui peut être chassé est fixé d'année en année (à titre d'exemple, ces contingents sont actuellement de 9 lions, 6 léopards, 15 babouins chilada, 27 antilopes Nyala, etc, par an.). Les droits à payer pour chasser les animaux sauvages varient aussi en fonction de l'espèce (voir Tableau 11 ci-dessous).
+
+Tableau 11 Droits prélevés sur la chasse des animaux sauvages (de 1993 à nos jours)
+
+Espèce
+
+Contingent annuel (nombre d'animaux)
+
+Droit de chasse
+
+(dollar EU par animal)
+
+Lion
+
+9
+
+2 000
+
+Léopard
+
+6
+
+2 300
+
+Babouin Chilada
+
+15
+
+1 000
+
+Nyala
+
+27
+
+5 000
+
+
+Taxes afférentes aux produits forestiers transformés
+
+Les produits transformés, comme les sciages, les panneaux dérivés du bois et les papiers ne sont assujettis à aucune taxe forestière spécifique ; en revanche des taxes sont prélevées sur les matières premières-bois utilisées pour leur fabrication (comme on l'a déjà vu). Une taxe générale est cependant prélevée sur la vente des produits forestiers transformés. Actuellement cette taxe est fixée à 5 pour cent de la valeur de toutes les ventes.
+
+
+Taxes afférentes au commerce des produits forestiers
+
+Il n'existe pas de taxe forestière spécifique sur le commerce des produits forestiers transformés. Quelques produits sont assujettis à des droits de douane, mais aucun droit n'est prélevé sur le bois de construction importé. Cette politique a été mise en oeuvre pour inciter à importer du bois de construction.
+
+
+Autres taxes
+
+Le Département des forêts perçoit aussi d'autres recettes, provenant de diverses sources, notamment :
+
+Amendes et sanctions. Un certain nombre de lois et de réglementations régissent la conservation, le développement et l'utilisation des forêts. Ainsi, personne n'est autorisé à récolter les produits forestiers sans un autorisation écrite du Ministère de l'agriculture ou de l'organe régional compétent. Des amendes et des sanctions peuvent être imposées en cas de non respect de ces lois et réglementations.
+
+Ventes de produits saisis. Les produits forestiers qui sont produits illégalement peuvent être confisqués et vendus par le gouvernement. Ces produits sont souvent vendus par adjudication et des reçus officiels sont délivrés.
+
+Ventes de plantules. Les plantules produites par les pépinières d'État sont vendues sur le marché libre.
+
+L'argent provenant de ces taxes est versé sur le compte ordinaire des recettes forestières.
+
+Pour utiliser des terres forestières à d'autres fins, l'utilisateur est tenu de payer chaque année une taxe foncière. Cette taxe est la même que celle qui est payée pour tout autre type de terre utilisée aux mêmes fins.
+
+
+
+
+
+
+ADMINISTRATION DU RÉGIME FISCAL FORESTIER
+
+Le processus de détermination des taxes forestières
+
+Depuis la déclaration sur les terres de 1975, qui a transféré tous les droits de propriété sur les terres à l'État, l'utilisation des forêts est réglementée par un système de contingents de production délivrés par l'administration forestière. Des techniciens de terrain repèrent les zones forestières dans lesquelles peuvent être appliqués les contingents de coupe et évaluent les taxes à payer. Cette évaluation dépend du volume qui sera coupé pour chaque espèce, de la qualité et du type de bois rond qui seront produits et de l'emplacement de la forêt.
+
+Jusqu'en 1990, le gouvernement déterminait ou approuvait le prix de tous les produits forestiers, sur la base de directives techniques et d'estimations de la valeur des produits. Les directives portaient sur les redevances d'exploitation et les droits de coupe à facturer pour les différents types de bois ronds. Cependant, ces taxes ne reflétaient pas le coût de production ou le coût de remplacement des arbres qui seraient coupés. Au lieu de cela, elles étaient principalement basées sur les prix des différents produits forestiers sur le marché local, en tenant compte de la distance de chaque forêt par rapport aux villes principales. Il s'ensuit que les prix étaient généralement trop bas. On estime que c'est l'une des principales raisons, avec la reconnaissance insuffisante des biens et services procurés par les forêts en Éthiopie, pour lesquelles il a été difficile de mettre en oeuvre l'aménagement durable des forêts dans le pays.
+
+L'étude de 1990 sur l'évaluation et la commercialisation des produits forestiers
+
+En 1990, une étude a été réalisée pour améliorer l'estimation des taxes forestières (voir : ministère de l'agriculture, 1990a et 1990b). L'objectif de l'étude était de rationaliser les redevances d'exploitation, sur la base de l'une de ces deux méthodes:
+* La méthode de la valeur résiduelle - dans laquelle la valeur résiduelle sur pied est calculée en déduisant de la valeur marchande des produits forestiers tous les coûts de production (récolte, enlèvement, transports et autres coûts) ; et
+* La méthode du coût de production ou du coût de remplacement - dans laquelle la valeur du bois sur pied est basée sur le coût de gestion de la forêt (qui comprend tous les coûts, depuis la production des plantules jusqu'au produit final).
+
+Dans la première méthode, les redevances d'exploitation à payer pour les différents types de bois ronds devaient être déterminées en prenant la valeur marchande des différents produits dans 23 villes sélectionnées, et en en déduisant les coûts de production. Toutefois, cette méthodologie n'était pas très efficace car de nombreux producteurs n'indiquaient pas le prix de vente réel des produits forestiers. C'est pourquoi elle n'a pas été retenue pour estimer les redevances d'exploitation.
+
+La seconde méthodologie posait aussi des problèmes car il fallait des études approfondies pour estimer le coût de production de chaque espèce, depuis la récolte des graines jusqu'à la fin de la révolution. Pour surmonter ces difficultés, on a donc effectué une étude spéciale pour estimer les coûts de production. Des informations ont été rassemblées sur les coûts de production des arbres, plus les coûts de la récolteet du transport. En outre, des modèles informatiques ont été mis au point pour permettre au groupe d'étude d'inclure dans les calculs les taux d'intérêt et la marge de profit (respectivement estimés à 8 et 15 pourcent). L'étude était aussi basée sur l'hypothèse d'un taux de rendement en sciages de 45 pour cent.
+
+L'étude couvrait les espèces et les produits forestiers suivants :
+* bois rond;
+* sciages;
+* perches d'eucalyptus;
+* piquets de clôture ;
+* charbon de bois ;
+* bois de feu;
+* bambou;
+* encens et produits à base de gomme naturelle.
+
+A la suite de cette étude, les taxes forestières ont été révisées en 1993 (voir Tableau 12). Comme le montre le tableau, les redevances d'exploitation afférentes aux différentes espèces ont été très fortement relevées, si bien que les redevances à payer pour des espèces indigènes comme Podocarpus gracilior, Juniperus procera et Olea africana dépassaient 200 Birr par mètre cube.
+
+Tableau 12 Augmentations des redevances d'exploitation moyennes, à la suite de l'étude de 1990 sur l'évaluation et la commercialisation des produits forestiers
+
+Type de produit
+
+Redevances, 1990 - 1993
+
+(en Birr/m^3)
+
+Redevances, 1993 - 1995
+
+(in Birr/m^3)
+
+Grumes de sciages
+
+Indigènes
+
+Exotiques
+
+83
+
+34
+
+292
+
+193
+
+Perches de construction
+
+21
+
+78
+
+Bois de feu
+
+indigène
+
+Exotique
+
+28
+
+4
+
+54
+
+14
+
+Bois à charbon
+
+Indigène
+
+35
+
+54
+
+Les redevances d'exploitation indiquées ci-dessus sont des moyennes mais comme on l'a déjà noté, elles varient aussi en fonction de l'espèce. Ainsi, à l'heure actuelle, les prix du bois sur pied utilisé comme bois de feu (sur le marché libre) sont les suivants :
+
+* Eucalyptus spp
+
+46,8 Birr le mètre cube
+* Cupressus spp
+
+14,8 Birr le mètre cube
+* Espèces indigènes
+
+54,8 Birr le mètre cube
+
+On notera également que, avant 1993, il y avait deux types de prix des produits forestiers sur le marché. Sur le marché libre, les prix étaient déterminés par les forces du marché (c'est-à-dire par l'interaction entre l'offre et la demande). Toutefois, les entreprises forestières d'État devaient vendre leurs produits à des prix fixés par le gouvernement. Le Tableau 13 ci-dessous compare les prix des sciages sur le marché en 1993, avec les prix fixés par le gouvernement. Comme le montre le tableau, la différence entre les prix pratiqués par les entreprises forestières d'État et par le secteur privé était supérieure à 1 000 Birr par mètre cube pour les sciages. L'augmentation des redevances d'exploitation introduite en 1993 reste donc négligeable.
+
+Tableau 13 Comparaison entre le prix des sciages sur le marché libre, et les prix fixes pratiqués par les entreprises forestières d'État, en 1993
+
+Essence forestière
+
+Prix fixes établis pour les entreprises forestières d'État
+
+(en Birr/m^3)
+
+Prix sur le marché libre pratiqués par le secteur privé
+
+(en Birr/m^3)
+
+Juniperus procera
+
+717
+
+1 800
+
+Aningeria
+
+717
+
+1 800
+
+Cordia africana
+
+717
+
+1 800
+
+Olea africana
+
+717
+
+1 800
+
+Procédé actuellement utilisé pour le calcul des taxes forestières
+
+Comme on l'a noté plus haut, pendant de nombreuses années, les redevances d'exploitation ne reflétaient ni le coût de la sylviculture ni la capacité des marchés à payer le bois rond et les produits forestiers. Par exemple, un certain nombre d'études ont montré que si les redevances d'exploitation avaient évolué en fonction des coûts de gestion et de production forestiers, les prix de vente de certains produits forestiers comme le bois de construction, auraient doublé depuis longtemps.
+
+C'est pourquoi l'on utilise aujourd'hui la méthode basée sur le coût de remplacement pour estimer les redevances d'exploitation. Comme avant, cela suppose de calculer le coût de production, depuis la récolte des graines jusqu'à la fin de la révolution, en se basant sur les informations les plus récentes sur les coûts et les prix. Toutefois, on utilise à présent aussi les prix du bois sur pied sur le marché comme référence pour effectuer des contrôles croisés et pour corriger les prix calculés par la méthode du coût de remplacement. En effet, dans la plupart des régions, la demande du marché et les taux de rendement en produits forestiers sont aujourd'hui des facteurs qui ont une influence déterminante sur le niveau auquel sont fixées les redevances. En outre, quelques États introduisent des méthodes plus orientées vers le marché pour la vente des arbres sur pied (voir, par exemple, les commentaires sur les ventes aux enchères de bois sur pied dans l'État d'Oromiya, dans la
+section 1.1.1 ci-dessus), et la vente aux enchères des produits forestiers semble être bénéfique pour le secteur.
+
+Le processus administratif et juridique utilisé pour déterminer et mettre en application les taxes forestières
+
+Le processus administratif employé pour déterminer et mettre en application les taxes forestières a été le suivant:
+* L'administration forestière responsable dans chaque état fait des recommandations sur le niveau souhaitable des taxes forestières;
+* Suit une période de consultations, pour examiner les propositions;
+* Le Conseil des représentants du peuple décide en dernier ressort des variations à apporter aux taxes forestières ;
+* Une fois que les nouvelles taxes forestières ont été convenues, le Conseil des ministres publie des règlementations spécifiant les nouvelles taxes et redevances qui seront prélevées par les administrations forestières.
+
+Les nouvelles taxes et redevances et les variations de celles déjà existantes sont toujours notifiées en détail par l'administration forestière dans des médias de grande diffusion, comme la presse. Ces notifications précisent aussi les dates d'entrée en vigueur des nouvelles redevances ou taxes.
+
+En ce qui concerne les instruments juridiques utilisés pour déterminer les taxes forestières, le Décret du gouvernement n° 50 de 1963 est l'instrument originel qui a donné au gouvernement pouvoir pour fixer les prix des produits forestiers. Toutefois, ce décret a été abrogé dans le cadre de la politique de libéralisation économique déclarée en mars 1992.
+
+Les instruments juridiques aujourd'hui utilisés pour garantir l'application des taxes forestières sont les suivants :
+* Déclaration No. 57/1996, édictée par le gouvernement fédéral, qui couvre l'administration financière et la gestion ;
+* Règlement No. 17/1997 (basé sur la déclaration ci-dessus), qui a été formulé par le Conseil des ministres et couvre aussi l'administration financière.
+
+
+Recouvrement des taxes et suivi
+
+Jusqu'ici, le gouvernement central se chargeait de recouvrer les redevances, qui étaient versées au Trésor central. Aujourd'hui, ce sont les bureaux régionaux du Ministère de l'agriculture qui collectent les redevances et l'Équipe fédérale chargée de la conservation et du développement des forêts, qui relève du Ministère de l'agriculture, n'est guère informée du montant des recettes perçues et n'est pas habilitée pour réunir ces informations. En outre, les différents gouvernements régionaux ont des systèmes de redevances différents, de sorte qu'il n'existe pas de redevance uniforme applicable sur tout le territoire national.
+
+Évaluation des taxes et suivi sur le terrain
+
+Les départements de la conservation et du développement des forêts des Bureaux agricoles régionaux ont pour mandat de délivrer des contingents d'exploitation forestière aux scieries publiques et privées ; ils sont en outre chargés de contrôler l'exploitation et de surveiller l'application des réglementations dans le secteur. Le technicien de la station forestière est chargé de marquer les compartiments et les arbres qui seront abattus. Il fait aussi des visites de contrôle dans les stations pour vérifier si les règles de coupe ont bien été appliquées. Toutefois, cette procédure n'est guère efficace pour prévenir les dépassements de contingents.
+
+De nos jours, les forêts sont normalement exploitées par les scieries et les taxes sont évaluées par le technicien forestier. Celui -ci est chargé d'évaluer la qualité des produits forestiers tant ligneux que non ligneux, à la station forestière. Le technicien mesure le volume des grumes qui seront coupés et calcule les taxes à payer, puis consigne ces informations dans un rapport succinct qui est envoyé au Bureau de l'agriculture du woreda. Ce rapport contient diverses informations, telles que le nom de la station forestière, le type de grumes récoltées, les numéros d'identification des grumes, les estimations du volume, la date d'enlèvement, et le numéro d'immatriculation du camion qui transportera les grumes. Il indique aussi le montant total estimé des taxes dues. Le bureau de l'agriculture du Woreda vérifie tous ces rapports, puis synthétise toutes ces informations dans un rapport qu'il envoie au Bureau de l'agriculture du district. Le Bureau de l'agriculture du
+district se conforme ensuite à la même procédure et envoie un rapport au Bureau de l'agriculture régional.
+
+Paiement des taxes
+
+Toutes les taxes forestières sont payées par anticipation, avant la récolte. Toute somme perçue pour le compte d'un gouvernement régional ou du Gouvernement fédéral de l'Éthiopie, en règlement d'une taxe forestière, donne lieu à la délivrance d'un reçu officiel (portant un numéro de série) émanant du Ministère des finances.
+
+Les taxes afférentes aux produits forestiers sont ordinairement payées par chèque à la Commercial Bank of Ethiopia, où est ouvert un compte des recettes forestières. Cet argent est ensuite viré sur un compte du gouvernement, géré par le Ministère des finances ou par un bureau régional des finances.
+
+L'intégralité des recettes provenant de l'utilisation ou de la vente des produits forestiers est versée sur le Fonds consolidé, sauf si le département est autorisé à en retenir et à en dépenser une partie. Lorsque c'est le cas, la somme concernée est inscrite au débit et au crédit des comptes du département.
+
+Comptabilité et vérification des comptes
+
+Le Ministère des finances est chargé de superviser la gestion des fonds publics, qui comprennent aussi les subventions du Gouvernement fédéral aux États. Bien que les États jouissent d'une certaine autonomie, le Gouvernement fédéral les guide en établissant les normes de gestion financière, et les États sont tenus de rendre compte de leurs dépenses devant le Ministère des finances du Gouvernement fédéral.
+
+Le processus administratif du recouvrement des recettes forestières est supervisé et contrôlé par le Ministère des finances, à l'échelon fédéral, alors que les bureaux des finances régionaux administrent le recouvrement des recettes sur le terrain. Les bureaux de l'agriculture régionaux sont chargés de rassembler des statistiques sur la production et l'utilisation des produits forestiers. Ces informations sont utilisées par le vérificateur général des comptes ou par le vérificateur des comptes du Ministère des finances pour vérifier la correspondance entre le montant des recettes dégagées et la production déclarée.
+
+Le Ministère des finances a accès, sans restriction, à tous les livres, documents, comptes et registres de tous les organes publics, y compris le Ministère de l'agriculture. En outre, tous les gouvernements régionaux ont un système de gestion et de rapports financiers. Les bureaux des finances régionaux ont aussi accès aux comptes des bureaux des gouvernements régionaux et peuvent effectuer des vérifications sur l'utilisation des subventions budgétaires et le recouvrement des recettes. Les budgets de développement des départements ne sont débloqués qu'après vérification de leurs comptes par le Ministère des finances ou par le bureau des finances régional.
+
+
+Rôles des échelons de gouvernement centralisés et décentralisés dans le recouvrement et l'administration des recettes
+
+Comme on l'a déjà noté, le recouvrement des recettes est entièrement décentralisé et les gouvernements régionaux ont le droit de déterminer et de percevoir toutes les taxes forestières. Pourtant, les communautés locales n'interviennent pas dans le recouvrement des taxes et ne participent pas réellement aux prises de décisions concernant la production forestière ou les dépenses affectées aux programmes forestiers. Ceci est une source de conflits entre les communautés locales et l'administration forestière, dans de nombreuses zones.
+
+
+
+
+LE RECOUVREMENT DES RECETTES ET LEUR DISTRIBUTION
+
+Recettes totales du gouvernement
+
+En Ethiopie, le gouvernement tire l'ensemble de ses recettes de plusieurs sources :
+* Impôts directs, qui comprend l'impôt sur le revenu individuel (y compris le revenu de la vente des produits forestiers) et les redevances sur l'utilisation des terres
+* Impôts indirects, qui comprennent les droits sur le commerce et les taxes sur les biens et des services vendus sur le marché intérieur ;
+* Recettes extra-fiscales ;
+* Prêts et crédits externes ;
+* Dons externes.
+
+Les recettes totales du Gouvernement fédéral (aide extérieure comprise) étaient supérieures à 7 milliards de Birr en 1994 et sont passées à plus de 10 milliards de Birr en 1999. Une part importante de ces recettes provient d'impôts indirects sur le commerce international.
+
+Tableau 14 Recettes totales perçues à l'échelon fédéral
+
+Année
+
+Recettes intérieures
+
+Dons extérieurs
+
+Recettes totales
+
+1994
+
+5 913
+
+1 132
+
+7 045
+
+1995
+
+6 966
+
+1 097
+
+8 063
+
+1996
+
+7 985
+
+1 504
+
+9 489
+
+1997
+
+8 298
+
+1 273
+
+9 571
+
+1998
+
+9 019
+
+1 756
+
+10 775
+
+Note: tous les chiffres sont en millions de Birr.
+
+
+Le recouvrement des recettes forestières et leur distribution
+
+Actuellement, l'Éthiopie est une fédération regroupant neuf États régionaux, plus deux administrations urbaines qui relèvent du Gouvernement fédéral (voir Figure 1 page 25). Avant la décentralisation, toutes les recettes forestières étaient versées sur le compte bancaire du gouvernement et l'argent ne pouvait être dépensé et réinvesti dans le secteur sans l'approbation préalable du Ministère des finances. Toutefois, le Ministère des finances autorisait généralement l'administration forestière à prélever un montant fixe des recettes forestières perçues pour le développement et la conservation des forêts.
+
+Après la décentralisation, le contrôle des ressources forestières a été transféré aux gouvernements régionaux. Les recettes forestières perçues sont à présent déposées sur un compte spécial ouvert à la National Bank of Ethiopia dans chaque région. Cet argent est versé dans le Fonds consolidé de chaque région et ne peut être dépensé qu'après autorisation du Conseil régional.
+
+D'une manière générale, les recettes forestières proviennent des activités suivantes :
+* Redevances sur la production de bois des forêts privées ou d'État ;
+* Droits de licence, pour la circulation des produits forestiers ;
+* Ventes de plantules et redevances d'exploitation;
+* Redevances des concessions pour la récolte des produits forestiers;
+* Ventes de bois coupé illégalement ;
+* Sanctions des activités d'exploitation illégales.
+
+Avant la décentralisation, la majorité des recettes collectées auprès du secteur forestier provenait des redevances et des ventes de produits forestiers, et les recettes provenant de ces sources s'élevaient à cinq millions de Birr par an en moyenne (voir Tableau 15). Toutefois, si l'on compare les recettes perçues avec le volume de bois produit, elles ont été inférieures aux prévisions basées sur la quantité de bois récolté. Une grande quantité de produits forestiers ont probablement été récoltés sans payer de taxes forestières, en raison des contrôles insuffisants et des faibles effectifs travaillant dans le secteur.
+
+Tableau 15 Taxes sur la production de bois, perçues par le gouvernement central, avant la décentralisation
+
+Année
+
+Recettes perçues (en Birr)
+
+Année
+
+Recettes perçues (en Birr)
+
+1985
+
+7 506 753
+
+1989
+
+5 797 375
+
+1986
+
+4 124 276
+
+1990
+
+4 661 393
+
+1987
+
+4 052 419
+
+1991
+
+6 041 755
+
+1988
+
+5 950 823
+
+1992
+
+6 902 806
+
+Tableau 16 Taxes sur la vente de gommes et d'encens perçues par le gouvernement central, avant la décentralisation
+
+Année
+
+Ventes intérieures (en milliers de Birr)
+
+Ventes extérieures
+
+(en milliers de Birr)
+
+Ventes totales
+
+(en milliers de Birr)
+
+1988
+
+3 908
+
+3 366
+
+7 274
+
+1989
+
+5 652
+
+3 057
+
+8 709
+
+1990
+
+2 779
+
+1 174
+
+3 953
+
+1991
+
+548
+
+848
+
+1 395
+
+Moyenne
+
+3 222
+
+2 111
+
+5 333
+
+Les taxes encaissées par le gouvernement sur la vente de gommes naturelles et d'encens avant la décentralisation, ont varié dans une fourchette allant de 1,4 à 8,7 millions de Birr par an, et ont été en moyenne de 5,3 millions de Birr par an (voir Tableau 16). Depuis la décentralisation, les recettes provenant de ces ventes ont probablement considérablement augmenté. Par exemple, en 1998-99, les recettes perçues sur la vente de 20 672 quintaux de gommes naturelles et d'encens se sont élevées à 8 708 569 Birr, rien que dans l'État régional d'Afar.
+
+Le sous-secteur de la faune sauvage procure aussi des recettes au gouvernement, à travers la chasse d'agrément, l'exportation d'animaux vivants, le tourisme et les ventes de musc de civette (voir Tableau 17). Le recouvrement de ces recettes se fait encore au niveau central (ou fédéral). Les recettes provenant de la chasse se sont montées à environ 4,5 millions de Birr par an entre 1996 et 2000, alors que les taxes sur les exportations d'animaux vivants ont rapporté au gouvernement 2 millions de Birr pendant ces mêmes années (note : les chiffres du Tableau 17 sont donnés en dollars EU par an). On notera également que l'administration est autorisée à retenir sur ces recettes environ 500 000 Birr par an, pour les réinvestir dans le secteur.
+
+Tableau 17 Recettes perçues par le gouvernement central, sur la faune sauvage
+
+Année
+
+Recettes provenant des ventes de musc de civette
+
+Taxes perçues sur d'autres produits et services, dans le secteur de la faune sauvage
+
+Ventes intérieures (en Birr)
+
+Ventes extérieures (en Birr)
+
+Droits de chasse
+
+(en $ EU)
+
+Taxes sur l'exportation d'animaux vivants (en $ EU)
+
+1991
+
+329 506
+
+10 281
+
+n.d.
+
+n.d.
+
+1992
+
+980 070
+
+10 778
+
+n.d.
+
+n.d.
+
+1993
+
+1 485 488
+
+38 279
+
+n.d.
+
+n.d.
+
+1994
+
+2 035 134
+
+63 954
+
+n.d.
+
+n.d.
+
+1995
+
+3 097 413
+
+73 365
+
+89 734
+
+349 200
+
+1996
+
+1 851 624
+
+56 648
+
+779 635
+
+191 200
+
+1997
+
+962 231
+
+24 601
+
+687 776
+
+532 900
+
+1998
+
+3 233 336
+
+84 826
+
+734 925
+
+519 130
+
+1999
+
+4 155 632
+
+82 592
+
+538 255
+
+245 460
+
+Total
+
+2 014 493
+
+49 480
+
+566 065
+
+367 578
+
+Depuis la décentralisation, on ignore le montant total des recettes recouvrées pour l'ensemble de l'Éthiopie, mais les quelques informations obtenues auprès d'un petit nombre d'États sont présentées ci-dessous. En outre, le montant des recettes perçues dépend de la quantité de ressources forestières disponibles dans chaque État. Par exemple, l'État régional d'Oromiya a plus de forêts et plus de possibilités de dégager des recettes forestières que d'autres régions. A Oromiya, le montant moyen des recettes recouvrées dans le secteur entre 1994 et 2000 a été supérieur à 5 millions de Birr par an (voir Tableau 18). En outre, à la différence d'autres États, une partie de ces recettes (environ 80 pour cent) a été réinvestie dans le développement et la conservation des ressources forestières de l'État.
+
+Tableau 18 Recettes perçues par le gouvernement sur les forêts et la faune sauvage dans l'État d'Oromiya, depuis la décentralisation
+
+Année
+
+Recettes perçues (en Birr)
+
+Année
+
+Recettes perçues (en Birr)
+
+1994
+
+4 492 932
+
+1998
+
+5 228 653
+
+1995
+
+5 817 233
+
+1999
+
+6 272 746
+
+1996
+
+4 779 607
+
+2000
+
+5 065 682
+
+1997
+
+3 639 498
+
+Moyenne
+
+5 042 335
+
+Dans l'État régional de Gambella, les recettes forestières perçues se sont élevées au total à plus d'1 million de Birr par an, en moyenne, depuis la décentralisation. Plus de 60 pour cent de ce montant provenait de taxes sur la production de bois, le restant venant de redevances sur la vente de gommes et d'encens (voir Tableau 19).
+
+Tableau 19 Recettes perçues dans l'État régional de Gambella depuis la décentralisation
+
+Année
+
+Recettes tirées de la production de bois (en Birr)
+
+Recettes tirées des redevances sur les ventes de gommes et d'encens (en Birr)
+
+1994
+
+402 562
+
+n.d.
+
+1995
+
+667 573
+
+342 236
+
+1996
+
+725 308
+
+370 818
+
+1997
+
+1 022 486
+
+430 800
+
+1998
+
+570 540
+
+437 338
+
+1999
+
+619 298
+
+429 404
+
+Moyenne
+
+667 961
+
+402 119
+
+Le niveau moyen des recettes forestières perçues à Addis Abeba a été de l'ordre de 250 000 Birr par an depuis 1993. Ces recettes proviennent des ventes de produits forestiers ; des redevances ; des ventes de plantules ; et d'autres taxes et droits (voir Tableau 20).
+
+Tableau 20 Recettes forestières perçues à Addis Abeba depuis la décentralisation
+
+Source de revenu
+
+Année
+
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+Redevances
+
+n.d.
+
+n.d.
+
+15 017
+
+152 450
+
+110 257
+
+25 835
+
+111 801
+
+Vente de produits forestiers
+
+102 379
+
+306 251
+
+232 596
+
+88 707
+
+11 337
+
+n.d.
+
+n.d.
+
+Taxes sur les produits forestiers non ligneux
+
+57 633
+
+67 372
+
+25 557
+
+49 609
+
+n.d.
+
+n.d.
+
+n.d.
+
+Ventes de plantules
+
+n.d.
+
+n.d.
+
+202 484
+
+21 231
+
+53 231
+
+11 976
+
+33 177
+
+Droits d'accès
+
+72 200
+
+23 461
+
+n.d.
+
+21 136
+
+n.d.
+
+n.d.
+
+n.d.
+
+Autres recettes
+
+1 005
+
+2 092
+
+n.d.
+
+n.d.
+
+1 350
+
+1 792
+
+1 470
+
+Total
+
+233 217
+
+399 176
+
+475 654
+
+333 133
+
+176 175
+
+39 603
+
+146 448
+
+Note: ces recettes sont recouvrées par le gouvernement central, car Addis Abeba est une administration urbaine qui dépend du Gouvernement fédéral
+
+
+
+
+DÉPENSES PUBLIQUES CONSACRÉES À LA FORESTERIE
+
+En 1991, le Gouvernement éthiopien a introduit une politique de décentralisation qui s'est traduite par la création de nouvelles institutions politiques et administratives. L'établissement d'un système fédéral de gouvernement a changé l'équilibre des pouvoirs au profit des neuf nouveaux États régionaux (voir Figure 1). Les États ont été créés en fonction des différents contextes tribaux existant dans le pays, et subdivisés en Woreda et en associations paysannes, qui sont désormais les principales unités administratives au sein de chaque État.
+
+Figure 1 Carte d'Éthiopie, avec les neuf États régionaux et les deux administrations urbaines (Addis Abeba et Dire Dawa)
+
+
+Après cette réforme, les bureaux de développement agricole régionaux ont pris en charge la préparation des plans et budgets de l'administration forestière dans leurs régions respectives. Les États régionaux ont aussi été habilités à mobiliser leurs propres recettes et à planifier et exécuter leurs propres activités de développement, conformément aux politiques générales du gouvernement fédéral. En outre, le processus de décentralisation ne s'est pas arrêté au niveau régional. Le Woreda (qui est le plus bas niveau de gouvernement officiel dans les régions), a commencé à jouer un rôle plus important et, à un niveau encore plus bas, les associations paysannes, kebelles, tabias et conseils de villages se sont vus assigner le mandat d'élaborer et de mettre en application les réglements administratifs gouvernant la gestion des ressources naturelles.
+
+
+Planification et préparation du budget du gouvernement
+
+Au niveau fédéral comme au niveau régional, la planification et la préparation du budget annuel commence par une évaluation économique de la situation incluant, entre autres, une estimation des recettes futures. Ceci est particulièrement important pour l'administration forestière qui, à la différence des autres départements du gouvernement, est chargée de recouvrer de multiples redevances, taxes et droits associés à l'exploitation des forêts d'État. Après cette évaluation initiale, le Gouvernement fédéral et les gouvernements régionaux suivent leurs procédures respectives afin d'établir un budget définitif pour les administrations forestières qu'ils contrôlent.
+
+Planification et préparation du budget fédéral
+
+Au niveau fédéral, la première étape du processus d'établissement du budget consiste à produire un état prévisionnel des recettes totales du gouvernement. Cette estimation est faite par les ministères qui travaillent en coordination (Ministère du développement et de la coopération économiques et Ministère des finances), en consultation avec la National Bank of Ethiopia. Ce cadre macro-économique est ensuite revu et approuvé par le Cabinet du premier ministre.
+
+Sur la base des informations ci-dessus, des budgets de dépenses sont ensuite alloués aux gouvernements régionaux et fédéral, et subdivisés en budgets des dépenses ordinaires, et des dépenses d'investissement. Dans le cadre de ce processus, le Ministère des finances détermine un plafond budgétaire global, qui sert de base pour la soumission des propositions de budget à chaque ministère. Une fois que les propositions de budget ont été préparées, négociées et examinées par le Ministère des finances, elles sont soumises au Conseil des ministres qui les examine, formule des recommandations et les soumet au Conseil des représentants du peuple, pour approbation. Une fois les propositions approuvées, le Ministère des finances annonce les budgets de chaque ministère pour l'exercice comptable suivant.
+
+Planification et préparation des budgets régionaux
+
+Le budget fédéral comprend une subvention du gouvernement fédéral aux gouvernements des États. L'allocation de cette suvention est déterminée par le Conseil de la fédération, qui fonde sa décision sur une formule incluant des variables comme la population de chaque État et la capacité de chaque État à dégager des recettes. Les États qui ont une faible capacité de création de revenus peuvent prétendre à une allocation plus importante.
+
+Les gouvernements des États observent des procédures de planification et de préparation des budgets similaires à celles du Gouvernement fédéral. Les bureaux des finances régionaux préparent des plafonds de dépenses pour les bureaux régionaux de chaque secteur, avec des crédits pour couvrir les dépenses d'investissement et les dépenses ordinaires. Cette opération est faite après que le gouvernement fédéral ait annoncé la subvention allouée à chaque État. Les bureaux des finances des districts et des woredas suivent aussi cette procédure à leurs niveaux d'administration. Les bureaux des finances régionaux soumettent alors leurs propositions de budget aux conseils régionaux, pour approbation. Une fois que les budgets proposés ont été approuvés, ils sont publiés dans la gazette régionale Negarit.
+
+Planification et préparation du budget, au niveau de l'administration forestière
+
+Dans le cadre du processus d'établissement du budget, Le Ministère de l'Agriculture fédéral (et régional), soumet ses plans et propositions de budget au Ministère des finances ou aux bureaux des finances régionaux, pour examen. Ces propositions sont défendues dans le cadre du processus d'examen, puis le Ministère des finances formule ses recommandations au Conseil des ministres, par l'intermédiaire du Cabinet du premier ministre. Pour finir, le Conseil des représentants du peuple approuve les plans et budgets définitifs et ils sont publiés par le Ministère des finances. La même procédure est utilisée au niveau des États, à ceci près que les plans sont soumis aux conseils régionaux par l'intermédiaire des bureaux des finances régionaux.
+
+La planification des activités forestières commence au niveau du centre de développement, où les plans sont préparés et soumis à leurs woredas respectifs. Les woredas rassemblent ensuite ces plans et formulent le Plan du Woreda, qui est soumis aux bureaux agricoles de district. Les plans de chaque district sont ensuite synthétisés dans des plans régionaux qui sont examinés, puis soumis aux conseils régionaux pour approbation. Dans le cas du secteur forestier, ces plans sont préparés par l'équipe régionale chargée de la conservation et du développement des forêts dans chaque État, qui dépend du ministère de l'Agriculture.
+
+
+Dépenses consacrées par le gouvernement fédéral au secteur forestier
+
+Les tableaux suivants présentent quelques statistiques sur les dépenses consacrées par le gouvernement fédéral au secteur forestier, au cours des années récentes. Le Tableau 21 récapitule des dépenses totales du gouvernement fédéral en Éthiopie depuis 1994, et le crédit budgétaire accordé au Ministère de l'agriculture. Comme on le constate dans le tableau, le Ministère de l'agriculture absorbe nettement moins de un pour cent des dépenses totales du Gouvernement fédéral en Éthiopie.
+
+Tableau 21 Dépenses totales du gouvernement fédéral et crédit alloué au Ministère de l'agriculture
+
+Année
+
+Dépenses totales du Gouvernement fédéral (en millions de Birr)
+
+Crédit alloué au Ministère de l'agriculture
+
+Dépenses d'investisse-ment
+
+Dépenses ordinaires
+
+Total
+
+(en millions de Birr)
+
+(en %)
+
+1994
+
+3 156,5
+
+5 711,6
+
+8 868,1
+
+n.d.
+
+n.d.
+
+1995
+
+3 562,5
+
+5 894,0
+
+9 456,5
+
+n.d.
+
+n.d.
+
+1996
+
+4 299,9
+
+5 842,8
+
+10 142,7
+
+25,2
+
+0,25
+
+1997
+
+4 265,1
+
+7 094,9
+
+11 360,0
+
+27,5
+
+0,24
+
+1998
+
+6 178,9
+
+8 771,8
+
+14 950,7
+
+21,2
+
+0,14
+
+1999
+
+n.d
+
+n.d.
+
+n.d.
+
+28,8
+
+n.d.
+
+2000
+
+n.d.
+
+n.d.
+
+n.d.
+
+47,0
+
+n.d.
+
+Source: CSA (1999).
+
+Allocation budgétaire du Gouvernement fédéral à l'administration forestière fédérale
+
+Le Tableau 22 montre l'évolution des crédits alloués par le Gouvernement fédéral aux secteurs de la foresterie et de la faune et de la flore sauvages depuis 1995. On constate que ces deux secteurs absorbent environ un quart du crédit total alloué au Ministère de l'agriculture.
+
+Tableau 22 Allocation budgétaire du Gouvernement fédéral à l'administration fédérale, pour la foresterie et la conservation et le développement des ressources naturelles
+
+Année
+
+Budget forestier (en milliers de Birr)
+
+Budget pour la conservation et le développement des ressources naturelles (en milliers de Birr)
+
+Total
+
+(en milliers de Birr)
+
+Salaires
+
+Frais de fonctionnement
+
+Total
+
+1995
+
+n.d.
+
+1,595.6
+
+761.0
+
+2,356.6
+
+n.d.
+
+1996
+
+n.d.
+
+1 996,4
+
+803,3
+
+2 799,7
+
+n.d.
+
+1997
+
+867,5
+
+2 305,5
+
+2 119,7
+
+4 425,2
+
+5 292,7
+
+1998
+
+468,3
+
+3 132,4
+
+1 337,1
+
+4 469,5
+
+4 937,8
+
+1999
+
+382,2
+
+1 607,3
+
+1 841,9
+
+3 449,2
+
+3 831,4
+
+2000
+
+595,5
+
+1 612,6
+
+2 023,0
+
+3 635,6
+
+4 231,1
+
+L'allocation budgétaire du Gouvernement fédéral aux secteurs de la foresterie et de la faune et de la flore sauvages est aussi détaillée au Tableau 3, par source de financement (assistance extérieure et dépenses financées par des recettes intérieures) . On voit dans le tableau que l'assistance extérieure au secteur a diminué ces dernières années, alors que le financement intérieur a augmenté, mais pas dans une proportion suffisante pour compenser la diminution de l'assistance extérieure, d'où une diminution globale des crédits alloués à ces secteurs. (Note : les chiffres figurant dans le Tableau 22 et le Tableau 23 sont légèrement différents, car différentes sources de données ont été utilisées).
+
+Tableau 23 Crédits alloués à l'administration fédérale, pour la foresterie et la conservation et le développement des ressources naturelles, par source de financement
+
+Année
+
+Crédit financé par une assistance étrangère
+
+(en milliers de Birr)
+
+Crédit financé par le Trésor central
+
+(en milliers de Birr)
+
+Total
+
+(en milliers de Birr)
+
+1995
+
+7 383,5
+
+2 878,4
+
+10 261,9
+
+1996
+
+1 209,0
+
+2 357,1
+
+3 566,.1
+
+1997
+
+1 738,2
+
+3 989,1
+
+5 727,3
+
+1998
+
+953,6
+
+5 265,5
+
+6 219,1
+
+1999
+
+n.d.
+
+4 145,1
+
+n.d.
+
+Allocation budgétaire du Gouvernement fédéral aux administrations forestières des États
+
+Le Tableau 24 montre les crédits budgétaires aux secteurs de la foresterie et de la faune et de la flore sauvages (c'est-à-dire le montant de la subvention du gouvernement fédéral) alloués par le Gouvernement fédéral aux administrations des États au cours des années récentes. Comme le montre le tableau, le niveau global des subventions semble avoir augmenté au fil du temps. En outre, la subvention pour les dépenses ordinaires est considérablement plus élevée que la subvention pour dépenses d'investissement.
+
+Les budgets d'investissements des gouvernements des États sont entièrement financés par la subvention du Gouvernement fédéral, à laquelle les États ne peuvent rien ajouter. En revanche, les budgets ordinaires des gouvernements des États ne sont qu'en partie couverts par la subvention fédérale et les États peuvent ajouter des recettes qu'ils perçoivent pour financer leurs budgets ordinaires (sous réserve de l'approbation de leurs conseils respectifs). Malheureusement, il est difficile d'obtenir des informations sur le montant des recettes que collectent les États, et l'on ne connaît pas le montant qu'ils prélèvent pour compléter leurs budgets forestiers.
+
+Tableau 24 Allocation budgétaire du Gouvernement fédéral aux administrations des États, pour la foresterie et la faune et la flore sauvages
+
+Région
+
+Budget d'investissement
+
+Budget ordinaire
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+1997
+
+1998
+
+Addis Abeba (Région 14)
+
+n.d.
+
+394,7
+
+n.d.
+
+2 762,0
+
+2 088,0
+
+895,4
+
+968,4
+
+Afar
+
+1 994,6
+
+915,4
+
+930,0
+
+2 168,5
+
+838,07
+
+1942,8
+
+2 539,8
+
+Amhara
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+81 184,6
+
+105 727,0
+
+Benshangul
+
+175,0
+
+270,0
+
+864,0
+
+n.d.
+
+547,5
+
+1 625,7
+
+1 818,0
+
+Dire Dawa
+
+418,7
+
+888,0
+
+170,0
+
+n.d.
+
+90,10
+
+2 615,1
+
+3 035,3
+
+Gambella
+
+750,0
+
+n.d.
+
+3 658,3
+
+3 936,5
+
+n.d.
+
+1 848,5
+
+1 983,0
+
+Harari
+
+55,1
+
+142,6
+
+n.d.
+
+n.d.
+
+n.d.
+
+1 352,1
+
+1830,7
+
+Oromiya
+
+4 398,5
+
+4 491,8
+
+4 107,0
+
+1 855,1
+
+2 456,6
+
+n.d.
+
+n.d.
+
+Somali
+
+1 270,0
+
+956,7
+
+1 281,7
+
+804,0
+
+92,6
+
+1 869,2
+
+3 010,2
+
+Région Sud (SNNP)
+
+162,5
+
+5 713,2
+
+981,8
+
+2 850,2
+
+n.d.
+
+5 770,7
+
+4 971,1
+
+Tigray
+
+1 321,0
+
+n.d.
+
+20 100,5
+
+21 461 4
+
+n.d.
+
+20 100,5
+
+21 461,4
+
+Total
+
+10 545,4
+
+13 772,4
+
+32 093,3
+
+35 837,7
+
+6 112,9
+
+119 204,6
+
+147 344,9
+
+Note: tous les chiffres sont donnés en milliers de Birr
+
+Dépenses forestières du gouvernement financées par les recettes forestières retenues
+
+Comme on l'a déjà fait observer, toutes les recettes forestières perçues dans les États sont versées au Trésor régional, sauf si l'État a été autorisé à en utiliser une partie pour la réinvestir dans le secteur. Dans la plupart des États, les recettes perçues dans le secteur forestier deviennent une source générale de revenu pour les gouvernements et elles ne sont pas utilisées pour le développement du secteur. Toutefois, dans l'État d'Oromiya, l'administration forestière est autorisée à retenir une partie des recettes forestières pour les réinvestir dans le secteur. Il semble que ce soit le seul État qui bénéficie de cette autorisation, à l'heure actuelle.
+
+Le Tableau 25 montre le montant des recettes forestières qui ont été retenues pour être réinvesties dans le secteur forestier, dans l'État d'Oromiya, et le montant supplémentaire alloué à l'administration forestière, sur le budget du gouvernement de l'État. Comme le montre le tableau, le montant des recettes forestières retenues par l'administration ne couvre qu'environ la moitié des dépenses totales consacrées par le gouvernement à la foresterie dans cet État. L'essentiel du budget additionnel pour la conservation et le développement des forêts est affecté à la vulgarisation forestière. On estime que la majorité des crédits budgétaires des gouvernements des autres États sont aussi utilisés à cette fin.
+
+Tableau 25 Recettes forestières retenues et crédit budgétaire alloué à la foresterie dans l'État régional d'Oromiya
+
+Année
+
+Recettes forestières retenues
+
+Budget de l'État alloué à la foresterie
+
+Protection des forêts
+
+Vulgarisation forestière
+
+Parcs nationaux
+
+Total
+
+1994
+
+2 916
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+1995
+
+5 638
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+1996
+
+4 391
+
+924
+
+4 155
+
+n.d.
+
+5 079
+
+1997
+
+3 399
+
+824
+
+4 063
+
+192
+
+5 079
+
+1998
+
+4 507
+
+1 116
+
+2 790
+
+302
+
+4 208
+
+1999
+
+5 845
+
+1 060
+
+2 650
+
+302
+
+4 012
+
+2000
+
+4 386
+
+650
+
+1 785
+
+211
+
+2 646
+
+Moyenne
+
+4 506
+
+915
+
+3 089
+
+252
+
+4 205
+
+Note : tous les chiffres sont en milliers de Birr.
+
+D'autres systèmes de rétention des recettes sont actuellement mis au point, notamment :
+* Autorité pour la protection de l'environnement. L'Autorité pour la protection de l'environnement soutient les activités de protection de l'environnement et de conservation au niveau local et a mis en place un mécanisme de financement non lucratif. Ce système novateur visant à mobiliser des recettes dans le pays a été élaboré car les perspectives d'assistance extérieure au secteur sont peu encourageantes
+* Fonds pour le développement et la conservation de la zone de Bale. Un fonds communautaire pour le développement et la conservation a été constitué pour promouvoir une utilisation durable des ressources naturelles dans la zone de Bale, dans l'État d'Oromiya. Le fonds s'élève à 135 898 dollars EU. et est décaissé sous forme de petits prêts ou dons, pour soutenir des petits projets de développement dans la zone. Pour l'instant, le fonds est essentiellement alimenté par des donateurs, mais il devrait finir par s'autofinancer.
+* Entreprise de développement forestier de Sasheme Munessa. L'Entreprise de développement forestier de Sashemene Munessa est autoriée à retenir et à utiliser les recettes forestières qu'elle crée (voir ci-dessous).
+* Menagesha Suba. Enfin le dernier cas qui mérite d'être mentionné est celui du Centre de développement et de conservation des forêts de Menagesha Suba. Ce centre opère au niveau fédéral et est supervisé par le Ministère fédéral de l'agriculture. En 2001, il sera autorisé à prélever 1,6 millions de Birr sur les recettes qu'il devrait collecter. Cette somme sera entre autres utilisée pour l'élaboration et la mise en oeuvre de pratiques de gestion participative des forêts.
+
+
+Dépenses forestières des autres institutions gouvernementales
+
+La majorité des dépenses forestières des autres institutions gouvernementales sont effectuées par le Ministère de l'éducation, le Ministère de l'agriculture et l'Institut pour la biodiversité, la conservation et la recherche. Les dépenses de ces trois institutions ont été dans une large mesure financées par une assistance extérieure.
+
+Ministère de l'éducation - formation forestière
+
+La formation forestière relève du Ministère de l'éducation, qui a reçu à cette fin un généreux appui de l'ASDI depuis 1978. Les capacités de formation de forestiers en Ethiopie ont été développées, dans un premier temps en assurant des cours sanctionnés par un diplôme, puis en dispensant des cours de niveau universitaire (maîtrise). Les cours de formation en foresterie ont lieu à la Southern University, qui reçoit un appui, constitué en partie par la collaboration avec des universités suédoises. On trouvera au Tableau 26 une synthèse des dépenses d'investissement de formation forestière effectuées au cours des années récentes.
+
+Tableau 26 Dépenses d'investissement dans le domaine de la formation forestière, à la Southern University
+
+Année
+
+Contribution du gouvernement
+
+Assistance extérieure
+
+Total
+
+1997
+
+593,6
+
+3 362,0
+
+3 962,0
+
+1998
+
+60,0
+
+340,0
+
+400,0
+
+1999
+
+4 000,0
+
+12 950,0
+
+16 950,0
+
+Source: MEDAC, 2000. Note: tous les chiffres sont donnés en milliers de Birr..
+
+Institut de la biodiversité, de la conservation et de la recherche
+
+L'Institut de la biodiversité, de la conservation et de la recherche travaille aussi dans le secteur forestier. Il est principalement financé par une aide extérieure et ses dépenses d'investissement récentes sont décrites au Tableau 27 ci-dessous. Ces chiffres incluent les financements de source intérieure et l'aide extérieure et montrent que cette dernière couvre plus de 90 pour cent des dépenses d'investissement de l'institut. L'institut est sur le point de démarrer un projet de conservation des ressources génétiques forestières, avec la coopération technique et financière de l'Agence allemande pour la coopération technique (GTZ). Ce projet recevra du GTZ un financement de plus de 12 millions de Birr pendant trois ans, de 2001 à 2004.
+
+Tableau 27 Dépenses d'investissement de l'Institut de la biodiversité, de la conservation et de la recherche
+
+Année
+
+Contribution du gouvernement
+
+Aide extérieure
+
+Total
+
+1997
+
+782,5
+
+8 510,3
+
+9 292,8
+
+1998
+
+690,1
+
+8 715,0
+
+9 405,1
+
+1999
+
+738,5
+
+8 139,2
+
+8 877,7
+
+Source: MEDAC, 2000. Note : tous les chiffres sont donnés en milliers de Birr.
+
+Projet d'inventaire de la biomasse ligneuse et de planification stratégique
+
+Le Projet d'inventaire de la biomasse ligneuse et de planification stratégique a été établi dans le but de collecter et d'analyser des informations de base précieuses sur l'état des forêts du pays. Le projet est mis en oeuvre par le Ministère de l'agriculture et financé par le Gouvernement éthiopien, avec des prêts de la Banque mondiale, et aura une durée d'exécution de dix ans, en deux phases. La première a été achevée et le Ministère de l'agriculture pousuit la mise en oeuvre de la seconde phase. Le budget du projet est résumé au Tableau 28 ci-dessous.
+
+Tableau 28 Budget relatif au Projet d'inventaire de la biomasse ligneuse et de planification stratégique
+
+Source de financement
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+Contribution du gouvernement
+
+3 893,6
+
+4 742,3
+
+4 742,3
+
+4 742,3
+
+2 215,1
+
+Aide extérieure(Banque mondiale)
+
+7 935,6
+
+9 093,9
+
+4 877,1
+
+3 239,3
+
+3 239,3
+
+Total
+
+11 829,3
+
+13 836,3
+
+9 619,5
+
+7 981,7
+
+5 454,5
+
+Note : tous les chiffres sont donnés en milliers de Birr.
+
+
+Recettes et dépenses des entreprises forestières d'État
+
+Les informations dont on dispose concernent une seule entreprise forestière d'État : l'Entreprise de développement forestier de Munnessa Shashemene dans l'État régional d'Oromiya. Cette entreprise a pour objectif de garantir le développement durable des ressources forestières, en créant des revenus forestiers et en les utilisant de manière appropriée pour que la ressource forestière soit protégée et gérée rationnellement.
+
+Comme on l'a déjà fait observer, cette entreprise utilise l'intégralité des revenus qu'elle crée pour le développement du secteur.En 1998, elle a dégagé 3 405 463 Birr et en a dépensé 4 032 036. Elle a pu dépenser plus d'argent que ce qu'elle avait gagné car elle disposait d'un excédent de recettes reporté de l'année antérieure. En 1999, les recettes de l'entreprise se sont montées à 5 509 726 Birr et ses dépenses à 4 292 340 Birr. Elle consacre l'essentiel de ses gains à la sylviculture et à l'aménagement forestier.
+
+La principale contrainte de l'entreprise est le manque de terres où établir des plantations forestières, qui empêche toute expansion de superficie. Si des terres étaient disponibles, il est probable que l'entreprise se développerait et pourrait servir de modèle pour les pratiques d'aménagement forestier durable. L'entreprise obtient de bons résultats, mais pour que les méthodes qu'elle emploie soient adoptées, il faudrait que les investisseurs locaux modifient leur comportement vis-à-vis du développement et de la conservation des forêts.
+
+
+Dons et subventions au secteur forestier
+
+Le Ministère de l'agriculture met actuellement au point une politique et une législation qui favoriseront une intervention accrue du secteur privé dans la conservation et le développement des forêts. Dans les discusssions passées sur ce sujet, un certain nombre de propositions ont été formulés, en vue de consentir des baux emphythéotiques pour l'aménagement des forêts, et de réduire les taxes sur les terres forestières. Toutefois, ces propositions n'ont jamais été mises en oeuvre. De plus, le secteur privé n'a pas été consulté.
+
+Mises à part ces propositions, les deux seules incitations fiscales qui ont une incidence sur le secteur sont les suivantes:
+
+Détaxation des importations de produits forestiers. De nombreuses personnes importent du bois de construction et d'autres produits forestiers en Éthiopie. Contrairement à la majorité des autres produits, ces importations ne sont pas taxées. Cette mesure vise à réduire la pression sur les espèces indigènes.
+
+Fonds pour le développement et la conservation de la zone de Bale. Comme on l'a déjà noté plus haut, le Fonds pour le développement et la conservation de la zone de Bale accorde des prêts et des dons à l'appui de petits projets de développement. Pour l'instant, il s'agit principalement d'un projet dicté par des donateurs, centré sur un petit nombre de communautés pilotes. A long terme, l'objectif du fonds est de promouvoir une utilisation durable des ressources naturelles, notamment la gestion conjointe des forêts. En plus de l'aménagement des forêts, le fonds soutient aussi des pratiques agricoles améliorées, la mise au point de techniques agroforestières et une amélioration de la récolte et de la commercialisation des produits forestiers non ligneux. Le fonds sera aussi utilisé pour créer de petites installations touristiques, à l'avenir.
+
+
+
+
+
+
+
+DISCUSSION ET CONCLUSIONS
+
+Évaluation globale du régime fiscal forestier
+
+Pour qu'un régime fiscal forestier soit efficace, il faut que des recettes forestières soient générées par toutes les sources possibles (c'est-à-dire par les biens et services forestiers commercialisés et non commercialisés), et que ces sommes d'argent soient ensuite réinvesties dans le secteur pour garantir la production durable des biens et services forestiers. Pour l'instant, ce n'est pas le cas en Éthiopie.
+
+Le secteur forestier public tire des revenus des forêts naturelles et plantées appartenant à l'État, essentiellement sous la forme de redevances d'exploitation. En outre, avant la décentralisation, l'État prélevait une commission de quarante pour cent sur la valeur des ventes effectuées par les propriétaires de forêts privées. Cet argent était utilisé pour soutenir le secteur, mais aujourd'hui, les recettes collectées par l'administration forestière sont versés sur les comptes généraux des gouvernements fédéral et régionaux. Le montant réinjecté dans le secteur n'est pas suffisant pour investir dans le développement futur de la ressource forestière, ni même dans la gestion durable de la ressource.
+
+La plupart des activités du secteur forestier sont actuellement financées par des fonds de développement fournis par le Gouvernement fédéral d'Éthiopie. Le niveau de ces fonds est souvent insuffisant par rapport aux besoins. Par exemple, le budget total de développement du secteur forestier est très faible par rapport au budget total de développement national. Ainsi, le secteur est largement tributaire d'une aide étrangère pour la fourniture d'équipement forestiers et d'autres installations modernes importants pour la mise en oeuvre de l'aménagement durable des forêts. En outre, dans le cadre des arrangements fiscaux actuels, il n'y a pas de lien entre les coûts et les avantages (pour le gouvernement) de la gestion améliorée des forêts, et les possibilités d'utiliser des techniques de gestion moderne sont très réduites.
+
+La structure actuelle des marchés dans le secteur forestier pose aussi un problème en Éthiopie. D'une part, les marchés des produits transformés ne sont pas réglementés et le marché libre se traduit par un trop grand nombre de prix différents basés sur la qualité du bois, l'espèce et la rareté. De l'autre, la vente de droits de récolte du bois rond par l'État reste réglementée de manière très stricte, ce qui fausse les prix du bois rond dans le secteur privé et fait qu'il est moins intéressant de gérer rationnellement les forêts.
+
+En outre, les activités de suivi et d'évaluation de l'impact des efforts de développement antérieurs dans le secteur forestier ont été très réduites. Par exemple, la remise en état des terres dégradées, par le reboisement, n'a pas été évaluée de manière systématique.
+
+Pour améliorer l'efficacité du régime fiscal forestier, les mesures suivantes sont recommandées :
+* Chaque État régional devrait réaliser une étude sur la fixation des prix des produits forestiers, en reprenant la méthodologie mise au point par l'ASDI en 1990, en collaboration avec le Ministère de l'agriculture. Cette méthode devrait tenir compte de la nécessité de couvrir le coût de remplacement des arbres et les dépenses de développement futures du secteur. Le but serait de calculer des redevances d'exploitation et des droits appropriés pour chaque État.
+* Après cela, les États devraient suivre de près les prix des produits forestiers pour mettre à jour les prix de leurs bois sur pied, leurs redevances et leurs autres taxes.
+* La responsabilité de la gestion des arbres et des ressources forestières devrait être soutenue plus clairement par des politiques d'appui et des incitations adéquates dans le secteur.
+* Les redevances d'exploitation et les droits devraient être versés dans un fonds renouvelable plutôt que dans les comptes généraux du gouvernement, pour que le secteur puisse investir plus facilement dans le développement des ressources forestières. Le secteur privé pourrait ainsi jouer un rôle plus actif dans le développement du pays.
+
+
+L'impact du régime fiscal forestier sur l'aménagement durable des forêts
+
+Les fonds alloués à l'aménagement durable des forêts sont aujourd'hui insuffisants pour faire face à toutes les menaces qui pèsent sur les forêts éthiopiennes, et le manque de fonds est l'un des principaux obstacles qui empêchent de gérer efficacement la ressource forestière restante. Par exemple, la plupart des plantations forestières d'Éthiopie ont été mal entretenues et sont rabougries ou déformées, faute de traitements sylvicoles (résultant du manque de moyens financiers). En outre, la plupart des forêts naturelles sont dépourvues d'infrastructures, ce qui crée des goulots d'étranglement pour la maîtrise des risques liés aux feux de forêts. Dans ces circonstances, il n'est pratiquement pas envisageable de mettre en oeuvre l'aménagement durable des forêts.
+
+Les financements de sources gouvernementales couvrent essentiellement les dépenses ordinaires, comme les salaires et les coûts administratifs, et ne représentent qu'une fraction des revenus créés par le secteur. La majorité des recettes forestières sont utilisées par le gouvernement pour d'autres secteurs qui ne sont pas directement liés à la foresterie. Des mesures doivent être prises pour permettre aux recettes forestières de refluer vers le secteur.
+
+Les prix de nombreux produits forestiers sur le marché ne reflètent pas l'intégralité de leurs coûts économiques, du fait que l'accès aux ressources des forêts et des terres boisées est libre. Par exemple, presque tout le bois de feu ramassé dans ces forêts accessibles à tous a un prix (implicite) sur pied égal à 0, ce qui entraîne des gaspillages et des inefficiences dans la production et la consommation d'énergie.
+
+Pour garantir la gestion durable des forêts, les mesures et les améliorations suivantes sont suggérées:
+* Le système de recouvrement des recettes forestières devrait être révisé afin que ces recettes puissent être réinvesties dans la conservation et le développement des forêts.
+* Les prix du bois sur pied devraient être relevés à un niveau qui couvre les coûts de remplacement des arbres et les dépenses de développement futures.
+* Les redevances d'exploitation devraient être fondées sur les coûts de remplacement, après un contrôle croisé avec les prix du marché.
+* Des mécanismes novateurs devraient être introduits et encouragés, pour le financement du secteur forestier.
+
+
+Dépenses du gouvernement pour l'aménagement durable des forêts
+
+Au niveau tant fédéral que régional, moins de 10 pour cent du budget du Ministère de l'agriculture va au secteur forestier et le budget total du ministère ne représente qu'une fraction infime des dépenses totales du gouvernement. Ces dépenses sont essentiellement utilisées pour payer les salaires et les indemnités alors que la part consacrée aux investissements est très faible. En outre, une forte proportion de ces dépenses est affectée aux services de vulgarisation.
+
+En général, le financement du secteur financier est très insuffisant, pour plusieurs raisons :
+* Le secteur forestier est exclu du processus de planification du développement national.
+* La contribution de la foresterie au PIB est sous-estimée ;
+* Les changements institutionnels sont fréquents dans le secteur.
+* Le manque de politiques adéquates sur la foresterie et l'utilisation des terres.
+
+Ces facteurs ont tous contribué à l'appui insuffisant au secteur, qui est reflété dans le très faible niveau des fonds qui lui sont alloués.
+
+
+L'effet des politiques mises en oeuvre dans d'autres secteurs sur l'aménagement durable des forêts
+
+Compte tenu de la forte dépendance des populations à l'égard des ressources naturelles et de l'environnement, en Éthiopie, il est indispensable d'intégrer la protection de l'environnement et la gestion durable des ressources forestières, pour assurer le développement économique et social du pays. Au niveau national, on prend de plus en plus conscience de l'importance des forêts comme ressource renouvelable et de leur rôle dans la production de multiples biens et services. Toutefois, cette prise de conscience ne n'est pas concrétisée dans l'action.
+
+Ainsi, bien que le public se préoccupe de plus en plus de l'avenir de ses forêts, la croissance démographique et l'augmentation des pressions pour le développement économique et social ne font qu'exacerber la tendance au déboisement. Ce problème est encore aggravé par le fait que les considérations économiques à court terme et des forces du marché l'emportent sur les considérations environnementales, ce qui se traduit fréquemment par l'acceptation d'activités non durables.
+
+La majorité des forêts naturelles d'Éthiopie ont disparu au cours des trois ou quatre dernières décennies, principalement parce qu'il n'existait pas de politiques appropriées pour les forêts, l'utilisation des terres et la pression des populations. Ces défaillances ont été exacerbées par les pratiques agricoles traditionnelles utilisées dans le pays et la pauvreté croissante, qui ont fortement incité à mettre de nouvelles terres en culture en défrichant les forêts.
+
+Cette demande sans cesse croissante d'aliments et de terres agricoles demeure un point de conflit entre le développement agricole et l'aménagement durable des forêts. Le coeur du conflit est qu'il faut augmenter les terres agricoles pour accroître la production vivrière et que les agriculteurs sont sans cesse à la recherche de nouvelles terres à défricher pour les cultiver. Il s'ensuit que les agriculteurs défrichent de vastes étendues de forêts chaque année.
+
+En outre, l'approche actuellement adoptée dans le pays pour accroître la production agricole est essentiellement basée sur l'expansion des surfaces. Ceci est encore exacerbé par le développement des cultures de rapport (l'expansion des plantations privées de café et de thé en est un excellent exemple) et l'absence de régimes fonciers bien définis. Par exemple, actuellement, les agriculteurs n'ont guère intérêt à augmenter leur production, car ils devraient pour cela investir pour améliorer la terre. Or, ils reculeront devant ce type d'investissements tant que la jouissance des terres ne sera pas assurée.
+
+La perte de l'accès aux ressources communes (comme les forêts) est un autre gros problème dans le pays. Traditionnellement, les forêts appartenaient aux communautés locales, mais au fil du temps celles-ci ont perdu tout sentiment de propriété ou de responsabilité sur ces ressources.
+
+L'absence d'une politique d'utilisation des terres bien définie empêche de renforcer les capacités de planification de l'utilisation des terres, à tous les niveaux de l'administration. L'élaboration d'une telle politique pourrait aider à améliorer la coordination des activités dans les différents secteurs d'utilisation des terres et favoriser la réalisation de l'aménagement forestier durable.
+
+
+Les attitudes face au changement
+
+L'amélioration de l'aménagement forestier et la conservation et la protection des ressources génétiques s'inscrivent dans la stratégie de conservation globale du Gouvernement éthiopien. Le gouvernement a publié un certain nombre de déclarations sur la conservation et le développement des ressources forestières, dont plusieurs sur le partage des recettes avec les communautés locales vivant à l'intérieur ou aux alentours de zones de forêts protégées. De plus, le Ministère de l'agriculture élabore actuellement des politiques et une législation pour la gestion des zones protégées et de la faune sauvage. Le gouvernement s'est engagé à promouvoir la conservation, par la mise en place d'un système de zones protégées bien géré, comprenant des parcs nationaux, des sanctuaires de faune et des forêts d'État. Il s'emploie actuellement à définir des politiques et une législation pour concrétiser cet engagement.
+
+Les besoins des populations tributaires des forêts reçoivent de plus en plus d'attention, comme partout dans le monde où l'on souligne les avantages de la participation des communautés locales à la gestion des forêts. En effet, la gestion participative des forêts est maintenant considérée comme un moyen de promouvoir la gestion durable des forêts. Le gouvernement a fait un premier pas en décentralisant l'administration forestière, et en transférant la responsabilité de la gestion des forêts aux administrations régionales. Parmi les autres faits nouveaux dans ce domaine, il a été proposé de consentir des baux emphythéotiques au secteur privé pour la gestion des forêts.
+
+Actuellement, les politiques et les questions associées sont probablement les principales contraintes qui limitent la progression de l'aménagement forestier durable aussi bien dans le secteur public que dans le secteur privé. Par exemple, l'Éthiopie n'a jamais eu de politique forestière ou de politique d'utilisation des terres. Divers programmes de développement ont été essayés dans le passé pour promouvoir le développement du secteur forestier, mais ils ont eu un succès très limité, faute d'un environnement politique porteur dans le pays. Cette contrainte a été reconnue par les organisations gouvernementales et non gouvernementales, mais il manque toujours la volonté politique de mettre en oeuvre des changements radicaux. Cette situation ne pourra probablement être rectifiée que si les responsables des politiques parviennent à faire mieux comprendre le rôle que pourrait jouer le secteur forestier dans le développement du pays.
+
+
+
+
+
+
+BIBLIOGRAPHIE
+
+
+CSA, 1990, Statistical abstract, Central Statistical Authority, Addis Ababa, Ethiopia.
+
+Deffar, G, 1998, Non-wood forest products in Ethiopia, EC/FAO ACP Data Collection Project Technical Report No. AFDCA/TN/01, Food and Agriculture Organization of the United Nations, Rome, Italy.
+
+EFAP, 1994, Ethiopian forestry action program: final report - Volume II: the challenges for development, Ministry of Natural Resources Development and Environmental Protection, Addis Ababa, Ethiopia.
+
+MEDAC, 1999 and 2000, Federal and regional governments recurrent budget by sectors, Ministry of Finance, Addis Ababa, Ethiopia.
+
+Ministry of Agriculture, 1979, Directives from the Ministry of Agriculture to the Regional Administrations concerning stumpage prices and royalty fees for forest products, Ministry of Agriculture, Addis Ababa, Ethiopia.
+
+Ministry of Agriculture, 1990a, Forest products pricing and marketing study, Volume 1, Technical Report, Ministry of Agriculture, Addis Ababa, Ethiopia.
+
+Ministry of Agriculture, 1990b, Forest products pricing and marketing study, Volume 2, Technical Report, Ministry of Agriculture, Addis Ababa, Ethiopia.
+
+Ministry of Finance, 1996, Financial administration proclamation of the Federal Government of Ethiopia, Proclamation No. 57/1996 (19 December 1996), Ministry of Finance, Addis Ababa, Ethiopia.
+
+_
+
+
+LISTE DE DOCUMENTS PUBLIES DANS LE CADRE DU PROGRAMME DE LA FAO SUR LE FINANCEMENT DE L'AMENAGEMENT DURABLE DES FORETS
+
+Whiteman, A, 2001, Le financement de l'aménagement durable des forêts : contraintes et opportunités, Document de travail sur le financement de l'aménagement durable des forêts : FSFM/WP/01, Organisation des Nations Unies pour l'alimentation et l'agriculture, Rome.
+
+Federal Department of Forestry, Nigeria, 2001, Régime fiscal forestier et dépenses de l'état en faveur du secteur forestier au Nigeria, Document de travail sur le financement de l'aménagement durable des forêts : FSFM/WP/02, Organisation des Nations Unies pour l'alimentation et l'agriculture, Rome.
+
+Maile, N, 2001, Régime fiscal forestier et dépenses de l'état en faveur du secteur forestier en Lesotho, Document de travail sur le financement de l'aménagement durable des forêts : FSFM/WP/03, Organisation des Nations Unies pour l'alimentation et l'agriculture, Rome.
+
+
+

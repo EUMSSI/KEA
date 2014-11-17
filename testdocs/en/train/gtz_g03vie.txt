@@ -1,0 +1,1338 @@
+<title>Village-Level Brickmaking</title>
+Anne Beamish/Will Donovan
+A Publication of GTZ Deutsches Zentrum für Entwicklungstechnologien - GATE in: Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH - 1989
+<section>Preface</section>
+The authors worked in northern Mozambique with the Ministry of Public Works on a project funded by Oxfam-Belgium and CUSO/SUCO Canada, promoting the village level production of building materials such as bricks, tiles and lime. The objective of the project was to give technical advice, support and training to production cooperatives and to investigate and demonstrate improved production techniques.
+It was observed that the main technical problems that brickmaking units suffered from were: poor quality, weak bricks; a high breakage rate; no standardization; and a lack of knowledge and experience of how to correctly use bricks in construction.
+The poor quality and high breakage rate was normally caused by selecting inferior quality clays and/or faulty production techniques during the clay preparation, moulding, drying and firing stages.
+The lack of standardization at these brick sites created all sorts of problems for masons. The brick sizes varied from small to large blocks and none were correctly proportioned for use in construction. When bricks with different dimensions were bought from various brickmakers, the builders found that it was very difficult to build a wall and large quantities of cement had to be used in plastering to level off the surface of the wall.
+Brickmaking is not a technically sophisticated or complicated process, but there are certainly correct and incorrect ways of producing bricks and it does take experience and skill to produce good quality bricks. During the project, the authors found that there was a complete lack of practical and easy to understand information available for first time producers to help them gain that skill.
+Over the years of working in Mozambique, a number of technical manuals were written by the authors to assist small-scale brickmaking units to produce good quality bricks. Those who used the manuals were from cooperatives, state companies, schools, district Public Works staff, development projects and individuals who had to make bricks because no other building material was available locally. Often they did not intend to continue to produce bricks indefinitely but had to produce enough bricks to build a school, clinic, dormitory, warehouse, etc., so that they could continue with their other work. Because these people were not necessarily interested in becoming full-time brickmakers and often only wanted to produce enough bricks to build a certain number of buildings, they were not interested in investing in any substantial infrastructure such as permanent kilns or costly equipment.
+The information contained in those manuals has been translated and re-written in english and now forms a more comprehensive brickmaking manual.
+The manual is intended for the first-time producer wishing to produce fired clay bricks on a small scale using the minimum of infrastructure and investment. For example, it is for those individuals, projects, government departments and non government agencies who find themselves in the position of having to produce their own building materials because none are available on the local market. It is also for those who intend to start producing bricks full-time to supply bricks for the local market.
+It is intended for brickmakers who already produce bricks but need an easy to understand book on how to improve their production.
+It is intended to be used as a training manual to accompany a practical hands-on brickmaking course.
+It is also intended for those in government departments who have the role of encouraging and supporting the small-scale production of building materials and who do not make the bricks themselves but need to understand all of the practical aspects of brickmaking.
+<section>Minimum Conditions Necessary To Produce Fired Clay Bricks</section>
+Many countries have an abundance of the natural elements needed to produce bricks, but there are usually few areas which have all the necessary conditions within a 15 km radius of the brick site. It is essential to verify before beginning to establish a small brick production centre that all these conditions do exist. If the planned brick site lacks even one of the minimum conditions listed here, it is not advisable to establish a production centre at that site.
+The ten minimum conditions that a first-time producer needs to examine very closely are:
+1. Clay
+2. Water
+3. Sand
+4. Fuel (firewood or coal)
+5. Space
+6. Transport
+7 Motivation
+8. Management
+9. Tools and Equipment
+10. Assistance
+1. Clay
+A production unit needs to have good quality clay to produce a strong brick that can be used in construction. Certain types of clay are not good for making fired bricks. For example, the clay used by a potter to make bowls and cups is not good for making bricks because it has a high shrinkage rate which causes the bricks to crack during drying.
+If there is no tradition of making bricks in your area and if you are not certain that the clay you intend to use is the correct type, contact your local public works office and ask for assistance in analysing the soil. Never begin the full scale production of bricks with a clay soil which has not been thoroughly tested. In Appendix 1, there are some simple initial tests which can be done to check clay quality, but it is still recommended that you contact a knowledgeable person to assist in selecting the correct clay.
+To produce 1,000 bricks per day, about 3 cubic metres of clay soil must be prepared each day. The distance between the place where the clay is dug and the brick moulding site should not be more than 200 metres.
+2. Water
+To produce bricks you must have water available in sufficient quantity. If you plan to make bricks during the entire dry season, check with the local population that your planned source of water (a lake, stream, pond or well) does not dry up during that time. Also make sure that the brickmaking unit will not be competing for the same water used for public bathing, washing, drinking, irrigating crops or watering animals.
+To produce 1,000 bricks per day, at least 600 litres of water will be needed. You will also need to have a container to store that water in; three empty fuel drums, each with a 200 litre capacity, are ideal.
+If the water is to be carried daily to the brick site by hand, the distance between the river or lake and the brick site should not be more than 500 metres.
+3. Sand
+Sand is used as a releasing agent during the moulding of a brick. It prevents the wet clay from sticking to the sides of the mould. It is also sometimes used as a stabilizer and mixed with very clayey soils to prevent the bricks from cracking when drying.
+If sand is used as a releasing agent and must be fetched with wheelbarrows or buckets, the distance between the source of the sand and the brick site should be less than 1 km.
+4. Fuel (firewood or coal)
+To fire the bricks well, you will need sufficient amounts of fuel; either firewood or coal.
+If you fire bricks with coal, you will need 1 1/8 sacks of coal and 1/2 sack of cinders for every 1,000 bricks. For example, to fire 20,000 bricks, you will need 22.5 sacks of coal and 10 sacks of cinders.
+If you fire bricks with wood, you will need one ton or 3m3 of firewood for every 1,000 bricks. For example, to fire 20,000 bricks you will have to gather 60 cubic metres of firewood.
+Because there are so few areas with forests that can meet the demands of a brick producing unit, it will be necessary to establish a woodlot to supply firewood if you plan to fire many kilns every year. Well managed woodlots can produce from 25 to 60 m, of firewood per hectare per year. In comparison, a natural forest may yield only 2 to 8 m3 per hectare per year.
+Firing brick kilns will use large quantities of wood and if the cutting is carelessly done, it could lead to deforestation in your area Contact your local forestry department for advice and assistance.
+If there is insufficient firewood or coal in you area, or if you are not willing to establish a woodlot, consider producing other building materials which do not need firewood or coal, such as soil-cement blocks, sand-cement blocks, or stabilized soil.
+To minimize the cost of transport, the fuel should be as close as possible to the brickmaking site and should not be more than 10 km.
+5. Space
+You will need sufficient space to mould and dry the bricks. The site should be smooth and level. A brick unit producing 1,000 bricks per day will need an area from 600 to 1,000 square metres.
+6. Transport
+It is essential that a brick producing unit has some type of transport to fetch firewood or coal and possibly deliver the finished bricks to the customer. The transport used could be trucks, tractors with trailers, or oxen with suitable carts. The important point to remember, especially if the vehicles are borrowed or rented, is that the brick unit will need regular access to this transport. The amount of tune which is involved can be quite substantial, so this part must be well planned
+Consider also where the brick site will be located. It should be possible for vehicles to easily enter the site and if your intention is to sell the bricks to nearby communities, the site should be located near a good access road.
+7. Motivation
+The production of hand-made bricks is exhausting, tedious and dirty work. Therefore, in order for a brick production unit to succeed, the workers must be motivated or want to produce the bricks. They have to feel that the making of bricks will either benefit themselves personally by earning them a fair and just salary from the sale, or benefit their village by using the bricks in the construction of a public building such as a school or clinic.
+8. Management
+As with any production unit or business, good management is essential. Unfortunately this aspect is often ignored or forgotten because brickmaking is considered to be a "low" or relatively simple technology. Remember that a brick production unit cannot withstand more setbacks and difficulties than a normal commercial business would be expected or prepared to tolerate.
+Management of a brick unit means planning, organizing, staffing and controlling the production in order that the bricks can be produced within budget and sold at a reasonable price. This includes ensuring that:
+- adequate supplies of raw materials are obtained;
+- the equipment is maintained;
+- suitable production facilities are available for the workers to work in safety and comfort, at a reasonable pace and for the hours allotted for the tasks;
+- the quality of the product is checked regularly;
+- there is a smooth flow of production;
+- adequate financial arrangements are made for wages and general purchases (with a good bookkeeping system);
+- suitable skilled personnel are recruited and trained; and
+- the staff have specific tasks or roles and have the necessary tools and information to do the job.
+9. Tools and Equipment
+A brickmaking unit will need basic tools in order to make bricks. A group of 15 people producing 1,000 bricks per day will need the following minimum equipment:
+6 hoes
+2 pick axes
+4 shovels
+4 axes
+4 machetes
+2 wheelbarrows
+3 empty fuel drums, each with a 200 litre capacity
+7 buckets or pails, each with a 20 litre capacity
+6 hinge moulds (see page 34)
+2 moulding tables (see page 34)
+4 bow cutters (see page 35)
+8 pallets (see page 36)
+4 carrying boards (see page 44)
+10. Assistance
+Financial Assistance: The time between preparing to make the first brick and selling it can be very long; this period can often be between 3 to 6 months. For this reason you have to plan how the workers' salaries and general expenses will be paid. You may have to borrow money from the bank. If you do, plan on at least 3 to 6 months of no earned income. Remember too that if you borrow, this money is not a gift and must be paid back to the bank.
+Technical Assistance: All brickmaking units need technical assistance to continually improve their methods of selecting and preparing the clay, moulding the bricks, and firing them in a kiln, especially if production has only begun recently. Contact the local public works department for assistance.
+Management Assistance: Finding capable people in rural areas with the expertise to manage a brick production unit is difficult and is often the greatest problem to overcome. For this reason, it would be beneficial if a production unit had access to advice on how to run a small business. Possible organizations that might offer this service are development banks, government ministries, development agencies, churches, schools, or chambers of commerce.
+<section>Standardization</section>
+<section>Introduction</section>
+Standardization is an agreement between a group of producers or manufacturers stating that the product which each one produces will have the same characteristics.
+For example, a person who owns a small portable radio can purchase batteries for it made in Europe, Africa or Asia and know that the batteries will fit in the radio. This is because the size, shape and power of the batteries have been standardized.
+It is also important to standardize the characteristics of bricks made in an area. These characteristics are:
+1. Form
+2. Size
+3. Quality
+4. Strength
+The Benefits of Standardization
+Many builders and contractors do not like to use bricks made by small independent producers because the bricks can vary a great deal in form, size and quality. For example, one producer may make a brick 240 mm x 115 mm x 77 mm and another in the same area may make a brick 220 mm x 100 mm x 65 mm. Because the sizes differ, it is difficult for a builder to mix these bricks when building a wall. A large contractor may need 500,000 bricks annually, yet many small producers will only have 100,000 bricks available to sell each year. If the contractor bought 100,000 bricks from 5 different producers who each produced a different brick, it would cause many problems for the builders.
+Another advantage of standardizing the bricks is being able to accurately calculate the number of bricks needed to construct a building. It also means that the size of the openings (e.g. doors and windows) can be calculated and can be made before the building is built.
+Before starting to make bricks, contact all the other producers near you as well as contractors, builders and the local public works department and together agree on the form, size, quality and strength of the bricks that will be produced.
+If there are no existing standards in your area, the following pages will help you to establish your own local standards.
+<section>Form</section>
+There are two general types of back forms:
+1. Hollow Clay blocks
+2. Solid Clay bricks
+Hollow Clay Blocks
+Normally these types of blocks are made in a back factory with special machines and equipment. In rural areas, it is also possible to make hollow blocks with wooden moulds but the results are often unsatisfactory.
+Builders often like using hollow blocks because the larger size allows them to build a house in less time than with smaller solid backs. However, hollow clay blocks also have the following disadvantages:
+- a special permanent kiln is necessary to fire them correctly,
+- the blocks can not be used to build arches, and
+- more cement and steel is usually required for reinforcement end plastering
+Solid Clay Bricks
+Solid clay bricks are better for a small rural producer to make because:
+The form is simple. It is much easier to make the mould and easier to mould the brick so there is less chance of a poorly formed brick.
+You do not need a permanent kiln. It is possible to build and fire a simple clamp or field kiln.
+The bricks have good strength and can carry the weight of a heavy roof without steel and concrete reinforcement.
+They can be used to build arches.
+If the bricks are made and fired well, it is not necessary to render or plaster the wall, and therefore building materials are saved.
+The bricks can be used to pave a floor.
+<section>Size</section>
+A brick has a length, width and height. The size or dimensions of a brick are determined by how it is used in construction.
+Width
+The width of a brick should be small enough to allow a bricklayer to lift the brick with one hand and place it on a bed of mortar. For the average person, the width should not be more than 115 mm. If the brick was wider, the bricklayer would have to put down the trowel while building the wall to pick up the brick with two hands and as a result, time would be wasted. In addition, a wider brick would weigh more and therefore tire the mason more quickly. In terms of brickmaking, a larger brick is also more difficult to fire in a kiln.
+Length
+There is a very important relationship between the length of a brick and its width because of how we use bricks to build a wall.
+The length of a brick should be equal to twice its width plus 10 mm (for the mortar joint). A brick with this length will be easier to build with because it will provide and even surface on both sides of the wall.
+For example, if you follow the rule of the length being twice the width plus 10 mm, if you would like to have a brick 115 mm wide, then the ideal length would be 240 mm.
+115 mm (width of brick)
+115 mm (width of back)
++10 mm (thickness of mortar joint)
+240 mm (length of brick)
+Height
+The height of a brick, though of less importance, also has a relationship with the length of the brick. The height of three bricks plus two 10 mm joints should be equal to the length of a brick. This allows a bricklayer to lay bricks on end (called a soldier course) and join them into the wall without having to cut the bricks.
+To determine the height of a brick, subtract 20 mm (the thickness of the two 10 mm mortar joints) from the length and divide the result by three (this represents the three bricks).
+Possible Brick Sizes
+Therefore, using these rules, the largest size brick that would still permit a bricklayer to comfortably pick it up with one hand, would be 240 ram in length, 115 mm in width and 73 mm in height. A brick of this size would weigh about 3.5 kg.
+Every country in the world seems to have a different size of brick. The sizes are a result of centuries of tradition or custom but almost all use the same rules and lie within the limits mentioned. No one size is better than the other. In India the standard brick size is 190 mm x 90 mm x 40 mm while the British standard is 215 mm x 102.5 mm x 65 mm.
+To choose your brick size, first contact the local public works department to see if your country has a standard size. If not, you will have to choose your own size based on the rules listed in this chapter. Possible brick sizes that you could choose from are shown in the chart.
+Possible Brick Sizes
+Length
+Width
+Height
+240 mm
+115 mm
+73 mm
+230 mm
+110 mm
+70 mm
+220 mm
+105 mm
+67 mm
+215 mm
+102 mm
+65 mm
+210 mm
+100 mm
+63 mm
+Minimum and Maximum Dimensions
+Each fired brick will not be exactly the same size; they will vary a little for many reasons. Ideally, these variations in dimensions should be limited because many contractors prefer to have a guarantee that the bricks they buy will be between certain predetermined limits.
+The bricks manufactured in rural areas should have a tolerance of approximately 5%. This means that if the brick size is 240 mm x 115 mm x 73 mm, the length of the brick should fall between 235 mm and 245 mm. The width should be between 112 mm and 118 mm and the height between 71 mm and 75 mm. Bricks with dimensions outside of this 5% limit should be set aside and not sold.
+<section>Quality</section>
+A good quality brick should be regular in shape and size, with smooth even sides and no cracks or defects.
+Normally poor quality bricks are a result of using poor techniques when making the bricks but these errors can often be easily corrected. You will find a list of solutions to various problems on pages 48 to 49. If you do have very poor quality bricks, do not sell them or build with them
+<section>Strength</section>
+Bricks must have enough strength to carry the weight of the roof. If bricks have been well- made and well-fired, you will hear a metallic sound or ring when they are knocked together. If they make a dull sound, it could mean that they are either cracked or underfired.
+A simple test for strength is to drop a brick from a height of 1.2 metres (shoulder height). A good brick will not break. This test should be repeated with a wet brick (a brick soaked in water for one week). If the soaked brick does not break when dropped, the quality is good enough to build single storey structures. Note: should the bricks dissolve or fall apart underwater, the bricks were probably underfired.
+<section>Using Bricks In Construction</section>
+If you are going to produce bricks, it is important to know some very basic facts about how bricks are used in construction and how to calculate the number of bricks which will be needed to build a building.
+Wall Thickness
+Internal Walls: The walls inside a building which do not carry the weight of the roof usually have a thickness of half a brick. The term half brick refers to half the length of the brick which is equal to the width. These internal walls should not be subject to shocks, vibrations, etc..
+The drawing shows an internal wall being constructed. If the brick used is 240 mm long by 115 mm wide by 73 mm high, the thickness of the wall is half a brick or 115 mm.
+External Walls: The walls on the outside of a building which carry the weight of the roof usually have a thickness of one brick. The term one brick thick refers to the full length of a brick.
+The drawing shows an outer wall being constructed. If the brick used is 240 mm long by 115 mm in wide by 73 mm in high, the thickness of the wall which is a full brick wide is 240 mm
+Quantity
+It is possible to calculate the number of bricks that will be necessary to build each square metre of wall. This will help the builder or contractor to calculate the number of bricks which must be bought to build a building.
+For example, if you have bricks 240 mm x 115 mm x 73 mm, the builder should buy SO bricks for each square metre of interior wall with a thickness of half a brick or 115 mm. If an interior wall is 2.5 metres tall by 3 metres long, you would need 375 bricks (2.5 m x 3 m x 50 bricks/m2= 375 bricks).
+For an external wall one brick thick or in this case 240 mm, a builder should buy 100 bricks per square metre of external wall. If for example, an external wall is 6 metres long by 2.5 metres high, you would need to buy 1,500 bricks to build that one wall (6 m x 5.5 m x 100 bricks/m2= 1,500 bricks).
+Mortar Joint
+Brick mortar can be made from lime, cement or mud. The purpose of the mortar is to join the bricks together in a certain fixed position and to smooth out the irregularities in the shape and size of the bricks. This is necessary in order to transmit the load or weight correctly and evenly throughout every part of the wall.
+The strength of the mortar should be less than that of the brick. This will prevent the bricks from cracking when a wall or a foundation settles. If movement does occur, it is better to have the mortar crack instead of the brick because it is easier to repair or replace mortar than a brick.
+The strength of a wall is also affected by the thickness of the mortar joints. A mortar joint, especially if made with lime, of 20 to 30 mm is much weaker than a joint of 10 mm. For a strong wall, all mortar joints should be 10 mm thick.
+<section>Moulds</section>
+Because all clay shrinks when dried and fired, brick moulds must be larger than the final size of the bricks. Good brickmaking clays shrink between 5% and 11% and therefore the moulds should be 5% to 11% larger than the final size of the fired brick.
+The following table gives the interior dimensions of a mould for various clay shrinkage rates which will produce a 240 mm x 115 mm x 73 mm fired brick. Information on how to make the mould and tables for other bricks with different dimensions can be found in Appendix 2.
+Note: It is essential to accurately calculate the shrinkage of the clay. Contact your local public works department for assistance.
+Shrinkage Rates And Mould Sizes
+Fired BrickSize: 240 mm x 115 mm x 73 mm .
+Shrinkage
+Interior Mould Size
+Rate
+Length
+Width
+Height
+253 mm
+121mm
+77 mm
+256 mm
+122mm
+78 mm
+258 mm
+123mm
+79 mm
+261 mm
+125mm
+80 mm
+264 mm
+126mm
+81 mm
+267 mm
+128mm
+81 mm
+270 mm
+129mm
+82 mm
+273 mm
+131mm
+83 mm
+Stages Of Brickmaking
+There are two main stages in the production of bricks. They are:
+A. Forming the brick, and
+B. Firing the brick.
+Within each of these, there are several important steps:
+A. Forming the brick:
+- extraction of the clay
+- clay preparation
+- moulding or shaping
+- drying
+B. Firing the brick:
+- building the field kiln
+- firing the field kiln
+Each of these steps will be dealt with in detail in the following chapters.
+<section>Extraction</section>
+Once you have located your source of good quality clay (see Appendix 1 for more information on how to analyse the clay), the work of extraction begins. The first step is to cut the grass and do a general cleaning, removing all surface vegetation, and stones from the area where you will dig the clay.
+When the area is clean, remove the top layer of soil which will probably contain rocks, dead vegetation, and roots until you reach the layer of clay below. This top layer of soil will be at least 300 mm to 500 mm deep. Remove it all; none must remain.
+After removing the top soil, you can begin digging and transporting the dry clay soil to the preparation area. A word of caution though - it is not unusual to find the clay deposited in layers with sandy soil. Take care not to mix the different layers as you dig deeper. If you hit a large layer of non-clayey soil, rather than digging deeper you may find that you have to dig your hole wider. Check your soil every day while digging.
+Depending on the situation, the equipment which you will probably find most useful for digging the soil is the following:
+-machetes
+-picks
+-hoes
+-shovels
+-wheelbarrows
+-buckets
+<section>Clay Preparation</section>
+To make good quality bricks, the dry lumpy clay soil has to become a smooth, soft, moist mixture containing no hard lumps of soil or stone. To obtain this mixture, the clay soil is treated in two different steps:
+1. Tempering, and
+2. Mixing
+<section>Tempering</section>
+Tempering is the process of adding water to the clay and allowing it to stand undisturbed for a few days before mixing occurs. This will begin to soften and break down the lumps of clay making the mixing process easier.
+At some brick sites, the producers flood the hole or pit where they are digging with water because it makes the digging or extracting of the clay easier. This method is not recommended because far too much water tends to get mixed into the clay which results in lower quality bricks.
+It is better to dig or extract the dry clay and bring it to a special pit or tempering tank where you can add water in exact proportions. This tempering tank should be located close to the place where you mix the clay and mould the bricks.
+In the tempering pit or tank, the clay is moistened with the correct amount of water. In general, for every three buckets of dry clay soil, you will add one bucket of water. The amount of water can vary and will depend on the type of soil and how damp it is. The dry clay soil should be in powder form or only small lumps before the water is added. This is to help the clay absorb the water quicker. The ratio of three buckets of soil to one of water is much less than what many producers are used to. It may seem slightly more difficult to mix the clay when using this ratio but the results will be far better with a stronger brick and a much lower breakage rate during drying.
+Note: It is true that some very experienced people can judge the correct amount of water without measuring, but this is not recommended for first time producers. Because more water makes mixing easier, most people "forget" that the bricks will be a poorer quality and tend to add more and more water to make their work easier.
+Normally a 100 mm layer of dry clay soil is placed in the tempering pit and the correct amount of water is sprinkled on top of it. To ensure that the layer is moistened well, turn it over with hoes or shovels. Next, add another 100 mm layer of soil and this is sprinkled with water as well. Again, turn the layer over with hoes or shovels. Continue this process until the tempering pit is full. When full, cover the pit with grass or leaves to prevent the clay from drying out.
+The clay is left in the pit to temper for one to five days (the time will depend on the type of clay). During this tempering time, the water will enter the clay particles or lumps and begin to soften them.
+Each of your tempering pits or tanks should have-the capacity to hold enough clay for one day's production. If you produce 1,000 bricks per day, you will need 3 cubic metres of prepared clay each day. Therefore, the tempering pit or tank should have a capacity or volume of 3 cubic metres. Possible interior dimensions of this tank could be 1.75 m in length and width and 1.0 m in height.
+If the clay needs to be tempered for only one day, you will need two tanks, each with a capacity of three cubic metres. One tank will hold the day's supply of tempered clay which you will use to make bricks, and the other will be filled with more soil for the next day's production. If your clay needs to temper for 2 days, you will need 3 tanks, each with a three cubic metre capacity. If it needs to temper 3 days you will need 4 tanks. With 4 days of tempering, 5 tanks will be necessary.
+The tempering tank can be as simple as a hole or pit in the ground or a specially built tank built into or on top of the ground. A good permanent tank can be made of fired bricks with a cement plaster coat.
+<section>Mixing</section>
+After the soil has been tempered well, it needs to be mixed and kneaded. The purpose-of mixing is to ensure that the clay is a smooth, soft, homogeneous mixture that contains no hard lumps.
+There are various methods of mixing tempered clay for small-scale brickmaking. One system uses a simple mechanical mixer that uses an empty 200 litre fuel drum with a mixing paddle built into it. The mixing paddle is connected to a long pole and turned by a horse, donkey or ox. The tempered clay is put into the top of the barrel and the paddles mixes and pushes the clay out a hole cut in the side of the drum. This method is very good for mixing but for some brick units obtaining the materials for building it or the animal to operate it can be difficult.
+A simpler method preferred by many first-time producers which will give very good results, is to mix the tempered clay with your feet. The tempered clay is taken from the tempering pit and spread on top of a hard surface where workers trample it with their feet until it becomes a smooth mixture with a uniform colour. One advantage with this system is that rocks, stones or lumps of hard clay can be felt with the feet and removed. This results in a smoother mixture for moulding. The one difficulty with mixing clay with feet is that it can be very tiring. To prevent the workers from becoming tired quickly, keep the depth of the clay on the platform to about 100 mm.
+After mixing, the clay can be used immediately for moulding into bricks or returned to the tempering tanks where it can remain until needed.
+A good sized mixing platform is 3 metres by 3 metres. The mixing area can be built on top of or into the ground. A hard flat area can be made with fired bricks and cement plaster.
+Depending on the situation, the tools and equipment that you will probably find most useful for tempering and mixing the clay are the following:
+- buckets with 20 litre capacity
+- empty fuel drums with 200 litre capacity
+- hoes
+- watering cans
+- shovels
+- wheelbarrows
+To build a permanent tempering tank with a capacity of 3 cubic metres, you will need approximately:
+- 600 bricks (240 mm x 115 mm x 73 mm)
+- 70 kg of lime (for mortar)
+- 300 kg of sand (for mortar)
+- 75 kg of cement (for plastering)
+- 200 kg of sand (for plastering)
+- brick mason's tools
+To build a mixing platform, 3 m x 3 m, you will need approximately:
+- 700 bricks (240 mm x 115 mm x 73 mm)
+- 150 kg of lime (for mortar)
+- 600 kg of sand (for mortar)
+- 100 kg of cement (for plastering)
+- 300 kg of sand (for plastering)
+- brick mason's tools
+<section>Moulding</section>
+Moulding is the process where the prepared clay is placed in a mould which forms it into the shape of a brick. There are two methods of hand moulding bricks: the slop moulding method and the sand moulding method.
+<section>Slop Moulding</section>
+Slop moulding is the traditional method of brickmaking. The brick is formed in a rectangular mould which has no bottom or top. The mould is wetted and placed on the ground and filled with a very wet clay mixture. A stick is used to remove the excess clay and smooth the top of the brick. The mould is then lifted off, leaving the brick on the ground to dry.
+Often this method produces poor quality bricks because of the excess water used both in the mixing of the clay and the wetting of the mould. The clay mixture becomes so wet and soft that the newly made brick begins to deform under its own weight. Once placed on the ground, it cannot be moved because it is so soft. Often the brick is marked or deformed if accidentally touched or moved before the brick dries properly. The excess water can also cause the brick to crack and break during drying.
+<section>Sand Moulding</section>
+Sand moulding is a drier method of shaping bricks which helps prevent many of the problems found in traditional slop moulding.
+Sand moulding uses a drier stiffer clay mixture. The clay is formed into a wedge shape and all its sides are covered with a "releasing agent" which prevents the clay from sticking to the sides of the mould. The most common releasing agent is sand, and hence the term sand moulding. However, some brick units use sawdust, ashes or even dry powdered clay as their releasing agent. The wedge, covered with the releasing agent, is thrown into a simple hinged bottom mould which sits on a table. Rather than use a wet stick to level off the top of the mould, a "bow cutter" is used to remove the excess clay and smooth the top of the brick. The newly formed brick slides easily out of the mould onto the table top.
+Because the clay soil used to make the brick has very little water in it, the newly moulded brick is much harder. It is possible to pick up the brick with small pallets and take it to the drying area where it is placed on its side without damaging it.
+Sand moulding resolves many of the problems which occur with slop moulding. Because the newly formed bricks contain less water, the bricks are hard and do not deform easily. They also dry faster with much less cracking and breakage.
+Note: If you are accustomed to slop moulding, at first the drier sand moulding many seem slower and more difficult, but with a little experience, the production rate can easily match that of slop moulding. In fact, more bricks will be produced because of the much lower breakage.
+In summary, sand moulding has the following advantages over the slop moulding method:
+- Sand moulded bricks have a better shape because they are harder and suffer fewer deformities when placed on uneven ground. Loose lumps of clay or pebbles that may be on the ground tend to not stick to a sand moulded brick.
+- Sand moulded bricks dry more quickly with less cracking because less water is used during the clay preparation stage.
+- It uses less water. This is advantageous for brick sites which suffer from a shortage of water.
+- Fewer moulds are needed because the mould is immediaetly removed from the brick and the brick is transported to the drying area by itself, leaving the mould available to make more bricks.
+- Sand moulding is a "cleaner" way of making bricks because wet clay is not splashed about the moulding area.
+- Sand moulding is more comfortable because the worker stands upright at a moulding table. Usually with slop moulding, the worker crouches or kneels on the ground to mould the bricks.
+- The fired bricks are more regular in size and shape and therefore are easier to use when building a wall. In general, a wall built with sand moulded bricks will be more attractive than a wall built with slop moulded bricks and may actually use less mortar.
+- You can print the brickmaking unit's name in the "frog" of a sand moulded brick. A frog helps the brick dry and fire better. Stamping the brick unites name into the brick also is a means of advertising.
+<section>Principle Elements Of Sand Moulding</section>
+There are seven principle elements which you will need to understand before beginning to make sand moulded bricks. The seven elements are the:
+1. quantity of water
+2. throwing wedge
+3. releasing agent
+4. cleaning agent
+5. hinge mould and moulding table
+6. bow cutter
+7. handling pallets
+Quantity of Water
+Adding the correct amount of water during clay preparation is critical for making good quality bricks. The less water used, the better the quality.
+If you have too much water in the clay, the brick will:
+- deform easily under its own weight after moulding;
+- deform when placed on uneven or bumpy ground;
+- crack during drying;
+- take much more time to dry.
+There is a simple test that can be done to check if the clay has the correct amount of water.
+With your hands, form the clay into a wedge shape and stand the wedge on top of the moulding table with the narrow edge down. If the wedge does not change its shape, the amount of water is correct. If the wedge begins to deform, there is too much water in the mixture.
+If the clay is too wet and soft, you can mix in dry powdered clay or simply leave it to dry until the clay reaches the correct moisture content and stiffness.
+Throwing Wedge
+The throwing wedge is formed with the clay mixture on top of the moulding table which has been covered with the releasing agent. When the wedge has been coated with the releasing agent, it is thrown into the mould. (See pages 37 to 43 for details on how to form and throw the wedge.)
+The shape of the wedge is very important. When thrown, it should enter the mould and strike the bottom of the mould first without touching the sides. To be able to do this, the length and the width of the throwing wedge must be slightly less than the length and width of the mould.
+Releasing Agent
+The releasing agent is a fine, dry material which coats the throwing wedge. It prevents the clay from sticking to the sides of the mould and helps the brick to slide easily out of the mould.
+Normally the releasing agent is sand, but sawdust, ashes and even dry powdered soil have been used. It is spread in a 5 mm layer on top of the moulding table so that when the wedge is formed, it is coated with the releasing agent.
+When the wedge is made and thrown correctly, the clay will spread out along the bottom of the mould first before filling the sides of the mould. The releasing agent will prevent the clay from sticking to any part of the mould and as a result will allow the brick to slide easily out of the mould.
+When the wedge is poorly made or thrown, the brick will not slide out of the mould easily. This happens because the mould has cut off the releasing agent from the side of the wedge causing the exposed clay to stick to the mould.
+Forming and throwing the wedge is a skill. Experience has shown that it may take 100 practice throws before a new brick moulder is able to make and throw a wedge correctly. If the brick does stick to the mould, clean the mould well with a cleaning agent before attempting to throw a new wedge.
+Cleaning Agent
+If the wedge is not well covered with the releasing agent, or if it was not thrown correctly into the mould, the clay will stick to the sides of the mould. It will then be necessary to clean the stuck clay from the mould with a cleaning agent after you have removed the brick.
+A good cleaning agent not only cleans but will also help to release the brick from the mould. One of the best cleaning agents is a mixture of burnt engine oil thinned with diesel fuel. The mould is cleaned by simply wiping the sides with a rag moistened with the oil/diesel mixture.
+The oil and diesel mixture is best, but water can also be used to clean the mould if no engine oil or diesel fuel is available. However, if water is used, it will be necessary to sprinkle the inside of the mould with the releasing agent before the next brick is made to prevent the clay from sticking to the wet sides of the mould.
+Remember that is necessary to clean the mould with the cleaning agent only if the clay sticks to the inside of the mould, and not every time a brick is made.
+Hinge Mould and the Moulding Table
+Hinge Mould
+This is the device that gives the brick its shape. There are three major parts to it:
+1. The mould box is where the brick is formed. The mould is made larger than the finished size of brick to allow for shrinkage during the drying and firing of the brick. The major wear areas are covered with sheet metal and the corners are reinforced with steel.
+2. The hinged bottom allows the production of frogged bricks and the easy removal of the brick from the mould. The bottom is hinged on one side and the hinge is made from 3 mm thick sheet steel.
+3. The frog is made from wood and is used to form a cavity or indentation on one side of the brick. The frog makes the brick weigh less, allows it to dry and fire faster (saving firewood) and gives the brick a form which improves its adherence when laid in a wall.
+Information on how to make the mould can be found in Appendix 2.
+Moulding Table
+The moulding table is where the clay is formed into a wedge shape and thrown into the mould. On one side of the table is a box where the releasing agent is stored. In the middle area of the table, the clay is formed into the wedge shape and thrown into the mould. On the far side of the table the brick is removed from the mould. Information on how to make the table can be found in Appendix 2.
+Bow Cutter
+After the wedge of clay is thrown into the mould, you need to remove the excess clay and smooth the top of the newly made brick. The bow cutter cuts and smooths at the same time as it is pushed along the top of the mould.
+The excess clay that is removed is placed to one side of the table where it will be used to make the next brick.
+The bow cutter is made of four pieces of wood, some cord and a fine strong piece of wire. If suitable wire is not available, wire can be obtained from an old car tire. Simply cut away the "bead" or inner rim and burn it in a fire. The rubber will burn away leaving a coil of fine wire.
+Handling Pallets
+Pallets are hard thin hand-sized boards used to pick up and carry the brick (usually short distances) after it has been removed from the mould. The handling pallets distribute the pressure of the fingers over the surface of the brick. Without them, the moulder's fingers would make, dents in the freshly made brick. Pallets should always be used when picking up a newly made brick or when placing it on the ground to dry.
+The length of the pallets should be 10 mm longer than the length of the mould and 30 mm wider than the width. The thickness of the board should be between 4 and 6 mm, depending on the type of wood used. (See pages 41 to 43 for more detailed information on how to use the handling pallets when picking up and carrying the bricks.)
+<section>How To Mould Bricks</section>
+The method presented in the next few pages describes how to form the wedge and cover all its sides with the releasing agent. It is but one of many possible methods and after working with the system for a while, good brick moulders will begin to develop their own particular style.
+Other releasing agents can be used but for simplicity's sake, sand has been used as the releasing agent in the following description.
+Note: Although steps 1 through 21 may seem to take a long time when you are first learning, a skilled and experienced brick moulder will do these steps in a matter of a few seconds.
+1. Cover the top of the moulding table with a 5 mm layer of sand. If using water as the cleaning agent, dust the inside of the mould with some sand.
+2. Take a lump of clay equal in size to half a moulded brick.
+3. Place the lump of clay on the left side of the table as shown in the drawing.
+4. With the palms of the hands, flatten out the clay as shown in the drawing until the width of the clay equals the length of the mould.
+5. Take another lump of clay equal in size to that of a whole brick and place it on top of the flattened clay.
+6. Using the palms of the hands, form the clay into a triangular or wedge shape.
+7. Roll the clay forward as shown in the drawing until the point of the triangle meets the edge of the clay, forming a wedge shape.
+8. Roll the wedge shape to the left until it is standing on edge. This will cover that one side of the wedge with sand.
+9. Roll the wedge to the right, back to its original position.
+10. Continue to roll the wedge to the right until the wedge is standing on its edge. This will coat that side with sand.
+11. Roll the wedge backwards towards you onto its base.
+12. Roll the wedge to the right.
+13. Continue rolling the wedge to the right until it is standing on its point and coated with sand.
+14. Check that all the sides of the wedge, especially the point, are well coated with sand, and that the wedge is able to enter the mould without touching the sides.
+For the following steps (15 to 21), it is very important that the time between throwing the wedge into the mould and removing the brick be as short as possible in order to help prevent the brick from sticking in the mould.
+15. Standing in front of the mould, throw the wedge into the mould so that the point of the wedge enters first.
+16. Cut off the excess clay by pushing the bow cutter along the top of the mould.
+Note: Steps 18 to 21 can be done by an assistant moulder. .
+17 Remove the excess clay from the top of the mould and place it with the sand-covered side down, on the left hand side of the table (as in step 3). It will be used to make the next brick.
+18. To help release the brick from the sides of the mould, knock the mould on top of the table once quickly on each its four sides.
+19. Turn the mould over and open the hinged bottom.
+20. Carefully begin lifting the mould.The brick should begin to ease out.
+21. Remove the mould and put to one side.
+22. With the pallets, carefully lift the brick as shown. Try not to squeeze the brick too hard with the pallets.
+Note: Steps 22 to 27 can be done by a "runner" or assistant moulder.
+23. Rotate the brick as shown.
+24. Remove the top pallet and place it along one of the brick's larger sides as shown.
+25. Rotate the brick as shown in the drawing.
+26. Place the pallet on top of the brick.
+Note: While the brick is being rotated with the pallets, check that all the sides of the brick are well made. If the brick has been badly formed, reject it.
+27. The brick can be carried directly to the drying area with the pallets, or placed on a special carrying board to be transported later, (see page44 for more information). In either case, the brick must be handled with care and should always be placed down on its narrow side.
+28. If the clay has stuck to the mould, clean it with a rag dampened with a mixture of burnt engine oil and diesel fuel. If engine oil and diesel fuel is not available and you must use water as a cleaning agent, dust the mould with sand before using it again. Dusting the mould with sand is not necessary if you are using the oil mixture.
+29. Check that there is enough sand on the table; add more if necessary.
+30. Flatten the excess clay in the same way as shown in step 4.
+31. Continue to make bricks, beginning with step 5.
+<section>Transporting bricks to drying area</section>
+After the brick comes out of the mould, it must be transported to the drying area. There are several methods for doing this:
+1. Simply pick up each brick and carry it directly to the drying area. This method requires quite a few pallets and people to carry the bricks to the drying area, especially if the distance is large.
+2. Pick up each brick as it is made and put it on a special carrying board. The board can carry 8 to 10 bricks at a time. When full, two people carry this board, which weighs about 50 kg, to the drying area. For each moulding table, you will need at least two carrying boards.
+3. Make a special brick cart by re-designing an ordinary wheelbarrow. This allows one person to transport 20 newly made bricks at a time to the drying area.
+<section>Drying</section>
+During the preparation of the clay, water is added to make it soft and easier to shape into bricks. But, before the bricks can be fired, it is essential to remove this water. It is during the drying stage that the majority of this water is removed.
+If we were to measure and weigh a brick as it came out of the mould and then repeat this two weeks later, we would find that the brick would weigh less and have smaller dimensions. This is caused by the water leaving the brick during the drying process.
+After coming out of the mould, the brick is carefully picked up and placed down on clean, level ground. It is placed on its edge to save space and to help the brick dry better with less cracking.
+Do not place the brick on the flat side to dry; it will not dry correctly in this position. Always lay the brick on edge for proper drying.
+The bricks are left in this position and usually covered with grass. The grass will help the bricks from drying too quickly, and therefore will reduce cracking and breaking.
+After one or two days, the bricks are turned up on end which is the best position for a brick to dry evenly. They are left to dry for two or three days more standing upright, still covered with grass. After this period of time, the grass is not needed and the bricks can be left uncovered for two more days.
+After a total drying time of about six days, the bricks should be hard and dry enough to place them in long open drying stacks.
+The stacks are four bricks wide and the bricks are stacked up to ten rows high. The bricks are laid in rows perpendicular to the row below it. A space of about the thickness of your finger is left between the bricks. These spaces are important as they allow air to enter the stacks and continue to dry the bricks.
+The bricks should remain drying in the stacks for several weeks before they are used to build the field kiln. To test if a brick has dried completely, break one open and see if it looks dry in the centre. It's important to remember that all the bricks must be well dried before placing them into the kiln. If the bricks are still not dry, firewood or coal will be wasted drying out the brick in the kiln during the firing process.
+Save any bricks that crack or break during drying; they can be used later to insulate the kiln.
+<section>Problems</section>
+A good quality brick should be strong, regular in shape and size, with smooth even sides and without cracks or defects. If the quality is not satisfactory, it may be necessary to change the way you are making bricks. The following is a list of problems that might occur during brick production, what could be the cause of the problem, and some suggestions on how to correct it.
+Problem
+Brick sticks to the mould making it difficult to remove from the mould.
+Reasons
+- wedge was not well coated with the releasing agent and the clay stuck to the sides of the mould.
+- the wedge was not thrown well and a part of it was cut off when it entered the mould. The exposed clay stuck to the side of the mould.
+- the mould was not cleaned well before throwing the wedge and a part of the wedge stuck to the side of the mould.
+- water is being used to clean the mould.
+- the wedge was thrown with too much force.
+Suggestions
+- put more releasing agent on the moulding table and try to cover the wedge completely with the releasing agent.
+- check that the wedge can enter the mould without touching the sides of the mould and then throw it correctly into the mould.
+- always check that the mould is clean before throwing the wedge into the mould.
+- it is better to use a mixture of burnt engine oil and diesel fuel rather than water to clean the mould. If you have no choice and must use water, sprinkle or dust the mould well with the releasing agent.
+- use a little less force when throwing the wedge into the mould.
+Problem
+The brick does not have sharp, distinct, well made corners.
+Reason
+- the wedge was not thrown into the mould with enough force to fill the corners of the mould.
+Suggestion
+- throw the wedge into the mould with more force.
+Problem
+The bricks are disfigured with marks, dents or scratches.
+Reasons
+- the clay is too soft because too much water was mixed in during the clay preparation stage.
+- too much water was used to clean the mould; the wedge absorbed the water making the clay softer at those-sides.
+- bricks were not handled or carried correctly with the pallets.
+- the handling pallets are dirty with dried clay causing marks to be pressed into the sides of the brick.
+Suggestions
+- use less water in the preparation of the clay.
+- it is better to use a oil mixture to clean the mould; if not available, use less water and dust or sprinkle the mould with sand before throwing the wedge.
+- more caution or training is needed in using the pallets.
+- clean the pallets.
+Problem
+The bricks crack during drying.
+Reasons
+- the clay is not the best type for making bricks.
+- there is too much water in the clay mixture.
+- the bricks are drying too rapidly.
+Suggestions
+- experiment with other clays. If none are available, try adding sand to the clay, experimenting with different proportions.
+- use less water when preparing the clay.
+- if you are drying the bricks in the open, cover them with more grass If you have a drying shed, try closing the openings in the walls to reduce the wind blowing through the shed.
+Problem
+Pieces of clay have fallen off the sides of the brick.
+Reason
+- when the wedge was being formed on the table, some sand entered inside the wedge causing a joint or fault to form in the clay.
+Suggestion
+- re-read how to form the wedge on the moulding table and try to be more careful.
+Problem
+The brick is misshapen with the base slightly larger than the top.
+Reasons
+- the prepared clay used to make the brick was too soft and the brick distorted under its own weight.
+- the newly-made brick was squeezed too hard with the pallets when it was picked up.
+Suggestions
+- use less water when preparing the clay mixture.
+- more caution or training is needed in using the pallets.
+<section>Building A Field Kiln Which Uses Firewood As Fuel</section>
+<section>How To Layout The Kiln</section>
+Before beginning to build a field kiln, which is sometimes called a scove kiln, it is necessary to know the following:
+- the number of bricks you will be firing;
+- the fuel you will be using (Note: How to build and fire a kiln that uses coal as a fuel can be found in pages 91 to 99);
+- the dimensions of the field kiln; and
+- the direction of the wind.
+Calculate the Size of the Field Kiln (using Firewood)
+Count the number of bricks you want to fire very carefully. When you know the number of bricks, use the following table to determine the approximate size of the field kiln and the number of tunnels it will have.
+Number of Bricks
+Number of Tunnels
+Length in Bricks
+Width in Bricks
+Height In Layers
+3,000to
+20 to 25
+(250 cm)*
+(250 cm)*
+(250 to 300 cm)*
+7,000to
+25 to 30
+(350 cm)*
+(250 cm)*
+(300 to 375 cm)*
+9,000 to
+25 to 30
+(350 cm)*
+(300 cm)*
+(300 to 375 cm)*
+11,500 to
+25 to 30
+(450 cm)*
+(300 cm)*
+(300 to 375 cm)*
+14,000 to
+25 to 35
+(450 cm)*
+(350cm)*
+(300 to 400 cm)*
+17,500 to
+25 to35
+(550 cm)*
+(350 cm)*
+(300 to 400 cm)*
+22,000 to
+25 to 35
+(650 cm)*
+(350 cm)*
+(300 to 400 cm)*
+27,000 to
+25 to 35
+(750 cm)*
+(350 cm)*
+(300 to 400 cm)*
+32,500 to
+25 to 35
+(850 cm)*
+(350 cm)*
+(300 to 400 cm)*
+37,500 to
+25 to 35
+(950 cm)*
+(350 cm)*
+(300 to 400 cm)*
+* assumes an unfired brick size of 250 m x 125 mm x 80mm
+For example, if you want to fire 22,000 bricks, the field kiln will have 6 tunnels with a length of 26 bricks (bricks laid end to end), and a width of 14 bricks (laid end to end). The overall height of the kiln will be approximately 30 courses.
+If the dimensions of the unfired bricks are 250 mm by 125 mm by 80 mm, the field kiln would have a length of 6.5 meters (26 bricks x 250 mm), a width of 3.5 meters (14 bricks x 250 mm), and a height of about 3.7 metres (30 layers x 125 mm) [Note: the bricks are laid on edge].
+The width of the field kiln should not be more than 4 metres. If it was wider, it would be very difficult to throw the logs deep into the tunnels. For fuel efficiency, the field kiln should not be less than 2.5 metres wide and the height should not be more than 4 metres or less than 2.5 metres.
+Orientation of the Field Kiln
+Before beginning to build the kiln it is necessary to know the direction of the prevailing winds. The general rule is that the length of the field kiln (the side with the tunnel openings) should be laid out in the same direction as the wind. This will prevent the wind from blowing down into the tunnels and reducing the heat during firing. This simple orientation of the kiln to the wind can save many cubic metres of firewood.
+Level the Site
+Once the overall dimensions of the field kiln are known, you can select and begin to prepare the kiln site.
+Step 1: Clean the site well and remove all rocks and surface vegetation. To prevent the field kiln from collapsing, make sure that the ground is very smooth and level.
+If you have underfired bricks from the last kiln, you can use them to build a strong level base for the field kiln. Simply lay the bricks on their flat side (frog side down) with no space between them, making a brick floor base slightly larger than the overall size of the field kiln. This will make a good flat surface on which to build the kiln.
+Lay Out the Boundaries of the Kiln
+Using the table on page 50 for calculating the size of a field kiln, determine the length and width of the kiln (using brick lengths as a measurement). These dimensions will be marked with a string and the field kiln will be built within these boundaries.
+Step 2: Drive a stake into the ground and tie a string or cord to it. Stretch the cord in the same direction as the prevailing wind. This cord will mark the length of the kiln and the distance will be measured using bricks. Beginning near the first stake, place the correct number of bricks on the outside of the cord. These bricks are placed on edge with their ends touching. For example, if you have 22,000 bricks to fire in a kiln with six tunnels, the length will be 26 bricks (see table on page 50). Note. These bricks are placed temporarily and are used only to mark the boundaries of the kiln. They will be removed later.
+Step 3: With another cord, lay out the second side of the field kiln. The cord is stretched perpendicular to the first cord and should just touch the end of the last brick. Make sure the corner is a right angle (90°) by either using a large builder's square or using the 3:4:5 method. (See Appendix 3 for more detailed information on the 3:4:5 rule.)
+Step 4: When the corner is square, begin to measure the actual width of the kiln with bricks.
+Starting at the point where the strings cross, lay the correct number of bricks end to end along the outside of the string. For example, a 22,000 brick kiln with 6 tunnels has a width of 14 bricks (see table on page 50).
+Step 5: With another cord, lay out the third side of the field kiln. The cord is stretched perpendicular to the second cord and should just touch the end of the last brick. Make sure that the corner is a right angle (90°) by either using a large builder's square or using the 3:4:5 method.
+Step 6: Measure out the length of the kiln as you did for the first side, placing the bricks end to end and using the same number of bricks.
+Step 7: With another cord, lay out the fourth and final side of the kiln to form a large rectangle. The cord should just touch the ends of the bricks on the first and third sides.
+Step 8: Check that the corners are square or right angles (90°) by measuring the two diagonals. If the length of the diagonals are equal, this indicates that all the corners are right angles. If the diagonals are not the same length, go back and check each corner individually, using the 3:4:5 rule, to see if they were correctly made.
+Step 9: The bricks used to measure the length of the field kiln are also used to mark the location of the firing tunnels. Beginning in the corner and counting along the length of the kiln, leave the first two bricks standing as they are but the turn the next two onto their flat side. Leave the next two bricks standing as they are but the turn the next two onto their flat side. Continue until you finish that side. If you have laid the correct number of bricks for the kiln, the last two bricks should be standing on edge in their original position. Repeat on the other long side of the kiln in exactly the same manner.
+Where the bricks have been turned on their flat side indicates the location of the firing tunnels. Therefore, the tunnel walls are two bricks wide and the tunnel openings are two bricks wide.
+<section>Construction Of The Kiln</section>
+Layer 1
+Using the cords which show the tunnel position as a guide, start to place the bricks on edge, end to end, in a 2-brick row with a 10 mm space ("finger-width") between them along their length. Do not place any bricks in the area of the firing tunnel.
+When the first layer of bricks has been completed, remove all the bricks which were used to measure the dimensions of the kiln and the position of the firing tunnels and put them aside.
+To build a strong field kiln that will not collapse, it is especially important to use good quality (uncracked and regular in form and shape) unfired bricks in layers one through nine.
+Important: All the bricks used to construct the field kiln are placed on edge and not placed on their flat sides because they are stronger in this position.
+Layer 2
+The second layer of bricks is placed perpendicular to the first layer. Note that there is no space left between the ends of the bricks. There is a space though along the sides.
+In the tunnel wall, five perpendicular rows of bricks are placed on the two lower bricks in the first layer. Note how the middle brick covers the joint of the bottom two bricks; this is very important for building a strong kiln.
+To allow heat and the hot gases from the fire to move through the kiln, it is necessary to leave small spaces between the bricks when building the kiln.
+For layers 1, 3, 5, 7, 8, and 9, the bricks are placed as shown in the diagram. Where a space of 10 mm is indicated, the width of your small finger can be used as a measure.
+For layers 2, 4, and 6, the space between the bricks may be greater than 10 mm, depending on the size of the bricks. Regardless of the size your bricks, there should be five rows on top of the two bottom ones, and the spaces between the rows should be equal.
+Remember that when building the field kiln, all bricks are laid on edge because the brick is stronger in this position.
+Layer 3
+Place the same number of bricks in the same position as the first layer.
+As you are laying the third layer, try not to have the brick joints line up with the joints from the layer below.
+Layer 4
+For the fourth layer, place the same number of bricks in the same position as the second layer.
+Layer 5
+The fifth layer is similar to the first and third layer but there is a slight difference at the beginning and end of the rows. Examine the drawing carefully to see how it is done. The objective of this slightly different arrangement is to give more strength to the kiln and to prevent the bricks from collapsing outward as they shrink during the firing. The rest of the bricks in this layer are placed in the same way as in the third layer.
+Layer 6
+The sixth layer is laid the same way as the second and fourth layers.
+Layer 7
+Beginning with the seventh layer, and continuing until the ninth, the bricks are progressively stepped out to form the tunnel roof. This stepping out pattern of the bricks is called corbelling.
+The corbelling for the seventh layer is shown in the diagrams. Note that there is a difference in the arrangement between the exterior and interior tunnel walls.
+Layers 8 and 9
+The eighth and ninth layers close the roof of the tunnels and are laid at the same time. When laying the bricks, it will be easier if there is one person in each tunnel. Place 4 bricks of the eighth layer followed by four of layer 9. Repeat this to the end of the tunnel. Note that the inner tunnel walls in layer 8 are slightly different from the outer ones in the eighth layer.
+Remember to leave the correct amount of space between the bricks.
+Layer 10
+Place a row of bricks over the joint of the two bricks in the ninth layer which closed the roof of the tunnel.
+Place the remaining bricks perpendicular to these rows as shown in the drawing, leaving a small space between the bricks to allow the heat and gases to pass through the kiln.
+Layers 11,13,15,17,19, etc.
+Place the bricks for layer l l as shown the drawing below. The bricks in all the following odd- numbered layers (13, 15, 17, 19, etc.) will be placed in the same way. As in the other layers, the bricks touch at their ends but a 10 mm space is left along the sides.
+Layers 12,14, 16,18, 20, etc.
+For the twelfth layer, place the bricks as shown in the drawing below. The bricks are laid in rows perpendicular to the bricks in the layer below. The bricks in all the following even- numbered layers (14, 16, 18, 20, etc.) will be placed in the same way.
+Beginning with the twelfth layer and for each subsequent layer, the bricks will be stepped in slightly to give the kiln a modified pyramid form This shape will increase the stability of the kiln and will prevent the kiln walls from collapsing outwards when the bricks shrink during the firing.
+Along the width of the kiln (the sides which do not have tunnel openings), step in the bricks approximately 40 mm on each layer. Along the length of the kiln (the sides with the tunnel openings) step in the bricks 20 mm on each layer.
+To allow the hot gases and heat from the fires to move through the kiln, it is necessary to leave small spaces between the bricks when building the kiln. Place the bricks as show in the drawing below. Where spaces are indicated, the width should be about 10 mm or approximately "finger width".
+Final Layer
+The last layer of bricks is quite different from all the previous layers. First lay a three brick high wall around the outer edge of the kiln top. The bricks are laid flat, without mortar, and without spaces between the bricks. Inside this wall, place a layer of bricks laid flat side down, leaving a 10 mm space around each brick. This 10 mm space will allow the steam and hot gases to escape.
+After the kiln has finished firing and has reached the correct temperature, it will be sealed off by throwing a layer of sand or soil on top of the kiln. The sand or soil will hold in the heat arid prevent the kiln from cooling off too quickly. The sand or soil will be shoveled up on top of the kiln until it is level with the small wall around the top of the kiln. The small wall will help contain the soil or sand and will indicate the quantity which must be thrown onto the top.
+Insulation
+After finishing the construction of the field kiln, and before beginning to fire it, the exterior of the kiln must be insulated with mud and broken bricks.
+The insulation is necessary to prevent the excessive loss of heat from the kiln during firing. When a kiln is well insulated, the bricks will be fired better and you will use less firewood.
+The thickness of the insulation should be approximately 150 mm. A simple way to build up this insulation on the outside of the kiln is to use broken or misshapen dry bricks (or better yet broken bricks from your last kiln firing). The bricks are laid with mud mortar in layers around the kiln and then plastered on the outside with mud. If this plastering mud contains a lot of clay, it will crack and fall off during firing; mix a little sand into the mixture to prevent this from happening.
+If you do not have sufficient broken bricks to build this entire outer layer up to the last course, build it at least up to the twelfth course. From there use mud plastered to a thickness of at least 100 mm.
+The plaster should be applied in two layers, allowing the first to dry before applying the second. Throw the mud with force so that it fills the cracks well. The mud should have sand added to it to prevent cracking when the kiln begins heating up.
+When insulating the kiln do not plaster or close off the top of the kiln. It must be left open during the firing.
+During the firing of the kiln, have some mud plaster ready to repair the cracks that will form in the plaster. As the heat of the kiln increases, it is not unusual for the plaster to crack and fall off. Be prepared to repair this or heat will escape and more firewood will be needed to bring the kiln up to temperature.
+<section>Firing A Field Kiln With Firewood</section>
+The firing of the field kiln is the last step in making the bricks and is the most important. If the bricks are fired well, they will be of a good quality and an ideal building material for building permanent structures such as schools, homes and clinics. If the kiln is not fired well or if done without sufficient care and caution, you can lose the majority of the bricks in a kiln and all the time, effort, energy, firewood and resources that went into it will have been wasted.
+Other fuels, such as coal or oil, can also be used to fire a brick kiln. Information on building and firing a field kiln using coal can be found on pages 91 to 99.
+<section>Firewood</section>
+The firing of the field kiln is the most important phase in the production of bricks and to obtain a good firing, it is essential that the correct size and quantity of firewood is cut and brought to the kiln site. It is also very important that there is a sufficient quantity of firewood to supply the brick site. Therefore, it is highly recommended that all brick production units establish woodlots to supply their fuel needs. Information on establishing woodlots can be found in Appendix 5.
+Quantity of Firewood
+The general rule for estimating the quantity of firewood is that for every 1,000 bricks which you wish to fire, one ton or three cubic metres of cut and stacked firewood will be needed.
+If less than this quantity is used to fire the bricks, the bricks will be underfired and therefore weak and will probably not be suitable for use in construction.
+One cubic metre is a quantity or volume with exact dimensions. It is almost impossible for the average person to estimate correctly the number of cubic metres in a randomly stacked pile of firewood. For this reason, it is preferable to measure the quantities of firewood by stacking it in rows of cubic metres.
+One cubic metre is a volume with a length of 1 metre, a width of 1 metre and a height of 1 metre.
+It is easy to measure one cubic metre of stacked firewood and using the following method, it is possible to accurately measure the quantity of firewood that will be necessary to fire the kiln.
+First, cut four sticks or bamboo poles to a length of 1.2 metres. Mark a square on the ground with one metre sides and then drive one of the sticks or bamboo poles into each corner of the square leaving one metre sticking out of the ground. These four sticks should form a cube that has a length, width and height of one metre. If the space or volume between the sticks is filled with wood, you will have one cubic metre of firewood. Rows of cubic metres are marked out near the kiln where the firewood will be piled.
+An average person can cut and stack approximately one cubic metre of firewood per day. To assist the woodcutters, rows of cubic metres should also be marked out in the bush were they are cutting. They should always pile their cut wood in these stacks in order to verify their daily output and to ensure that the wood cutting goals are being met.
+Cutting the firewood is a time-consuming task. Always begin cutting and transporting the firewood to the kiln site as soon as you begin to make bricks. Do not underestimate this task and do not leave it to the last moment; you should always have workers cutting firewood.
+One final important rule that cannot be overemphasized is to never begin firing a field kiln before all the firewood needed to fire the bricks has been delivered to the kiln site!
+Note: To give you some idea of the quantities required, you will need 10,000 bricks to build just the walls of a house measuring 7 metres by 6 metres.
+Cubic Metres of Firewood
+Needed to Fire Bricks
+Number of Bricks
+Cubic Metres of Firewood
+Size
+The best sized wood for firing a kiln is one metre long, with a diameter of 100 to 200 mm. This size of log is the easiest to throw into the fire tunnels and burns fairly slowly.
+Firewood with a diameter less than 100 trim is too small and tends to bum too quickly in the kiln. If the diameter of the log is greater than 200 mm, it is difficult to throw into the fire tunnels because of its weight and size.
+<section>Organization Of The Kiln Site</section>
+If the kiln site is well organized, it will make the work much easier and safer for those who tend the fires. It will also be much easier to control the quantity of firewood used during the firing process.
+A suggested layout is shown in the drawing below. The firewood is neatly stacked in rows of cubic metres with a space of one meter between each row. Because the kiln becomes so hot, it's important to leave an open space of three meters between the kiln and firewood. Stacking the firewood in this way makes it is easy to verify that the correct amount of firewood is on the site and ready to be used.
+Do not haphazardly stack firewood close to the kiln. This situation is dangerous for the workers who tend the fires, especially at night, and makes it difficult to accurately estimate the amount of firewood.
+Some kiln sites are plagued by strong seasonal winds that are constantly changing direction. One solution is to build a temporary high grass wall around the kiln site. This will help prevent winds from blowing down into the fire tunnels which would cool the kiln and cause more firewood to be used.
+<section>The Workers</section>
+Number: Depending on the size of the field kiln, you will need from 12 to 20 people to tend the fires during the firing stage which lasts from one to two weeks. The workers should be divided into two groups of 6 to 10 people. The first shift will work during the day from 06:00 hours until 18:00 hours and the second will work during the night from 18:00 hours to 06:00 hours. At no point during the firing should the kiln be left unattended. A general rule is that you will need at least one person per tunnel at all times during the firing of the kiln.
+Responsibilities: The workers chosen to work in the night shift must be the most responsible and dependable. Tending the kiln is hard work. The workers must be constantly feeding firewood into the kiln both day and night. Though tempting, it is essential that the night shift do not sleep and and allow the fires to go down. If poorly tended, the temperature in the kiln will drop and you will need many more cubic metres of firewood to bring the temperature back up to where it should be. This wastes time and firewood, and could even completely ruin the firing of the kiln and destroy the bricks inside.
+If the temperature does drop, there will likely not be enough firewood to bring it back up to temperature. If this should happen, you will have to stop the firing, collect more firewood and start the whole firing process again from the beginning.
+Worker Protection and Safety
+Firing a field kiln is very hard work and can be dangerous to the worker because of the high temperatures involved.
+A combination of the heat and hard work causes the worker to perspire excessively and lose essential salts and fluids which can cause exhaustion, cramps or even heat stroke. To prevent this, have an abundant supply of fresh clean drinking water available at all times to the workers and encourage them to eat more salt with their food during this period.
+All workers tending the fires should also be equipped with leather boots, gloves and aprons to prevent burns to the body.
+<section>The Firing Process</section>
+When clay bricks are heated to a high temperature, a chemical reaction occurs in the clay which makes the brick permanently hard, durable and resistant to weather and water.
+When a brick is heated to a temperature between 20°C and 150°C, it loses most of the water added to the clay during the preparation phase.
+When heated from 150°C to 600°C, the clay brick loses its remaining water. When firing a kiln, you will see a white vapour or steam coming from the top of the kiln during these first two phases. If you were to stop the firing process at 600°C, the bricks in the kiln would be useless for building purposes since they would not be stabilized and would easily be worn down by wind and rain.
+When the temperature starts to rise over 600°C, chemical changes begin to occur in the clay which give the brick colour, hardness and durability. Temperatures of 900°C and above cause vitrification to occur. This means that a small quantity of glass-like material forms which helps glue all of elements in the clay together. It is after this point of vitrification that the brick will be at its hardest and most resistant and will be ideal for construction.
+The final quality of the brick will depend on the amount of vitrification which occurs. It therefore is essential that the temperature of the kiln rises to well above 900°C in order to obtain a well-fired brick.
+<section>Temperature</section>
+When firing a field kiln, it is important to raise the temperature of the bricks to at least 950°C. Therefore it is necessary to have a means to accurately measure this temperature. There are three methods that can be used:
+1. Pyrometer
+2. Pyrometric Cones
+3. Colour
+1. Pyrometer: A pyrometer is a sophisticated thermometer used to measure high temperaturesin brick kilns.
+2. Pyrometric Cones: A pyrometric cone is made of a ceramic material that bends and deforms at a predetermined temperature. For example:
+- cone No.015 (60°C/hour) will bend at 790°C
+- cone No.08 (60°C/hour) will bend at 950°C
+- cone No.04 (60°C/hour) will bend at 1,060°C
+When building the field kiln, the cones are placed in a visible location where they can be seen through "peep" or "spy" holes. Therefore, when the cones begin to bend, the temperature in that spot is known. For more information about these cones see Appendix 4.
+Pyrometers and pyrometric cones are accurate but tend to be expensive or difficult to obtain for a small rural producer of bricks. For this reason, it may be better to use the following method:
+3. Colour: It is possible to estimate the temperature of the kiln by observing the colour of the bricks in the interior of the fire tunnels. As the temperature of the bricks change, so will the colour. The following table gives the various colours which can be seen during a firing and the corresponding temperature.
+In order to bring a field kiln to the correct temperature of at least 950°C, the bricks in the fire tunnels should have a yellow-white glow before shutting down the kiln. If this is done, you can be quite sure that the rest of the kiln has reached the correct temperature and that the bricks will be well fired.
+Temperature Colour Chart
+Colour of Brick
+in Fire Tunnels
+Approximate
+Temperature
+Dark Red to Red
+600°C to 750°C
+Red to Brilliant Red
+750°C to 800°C
+Brilliant Red to Orange
+800°C to 900°C
+Orange to Yellow
+900°C to 1,100°C
+<section>Control Of Air Flow</section>
+A wood fire needs air to burn well but too much air can cool the fire, reduce the temperature of the bricks and increase the consumption of firewood.
+To help control the air flow into the tunnels, place metal sheets in front of the tunnel openings. The metal sheets can be old roofing sheets or old 200 litre fuel drums cut open and bent flat. These sheets are placed in front of the tunnels when the fire is burning and are removed temporarily when you need to add more firewood to the fire.
+If metal sheets are not available, use loosely stacked bricks in the opening. You may find though that building this temporary door with bricks is time consuming since it needs to be built up and taken down each time firewood is fed into the fire tunnels. It can also be rather hazardous for the workers when the kiln reaches very high temperatures.
+Too much air can cool the fire, but closing the tunnel opening completely will cut off all air and the fire will go out. It is necessary to experiment with the position of the sheets. One method is to place two or three bricks in the tunnel opening and rest the metal sheet on top of these bricks. Usually enough air can flow underneath the sheet and between the bricks to maintain the fire.
+<section>Summary Of Firing Stages</section>
+1. Preheating
+2. Main Firing
+3. Soaking Stage
+4. Closing the Field kiln
+5. Cooling
+6. Opening of the Field Kiln
+1. Preheating
+You begin firing the kiln with a small gentle fire with low heat in the centre of each tunnel. The objective of this phase is to drive off all the water or moisture in the bricks. During this stage you will see a white vapour or steam rising from the top of the kiln; this is the water being released from the bricks.
+The small fires are maintained until the white vapour or steam is no longer seen coming from the top of the kiln. If the vapour is difficult to see, climb to the top of the kiln using a ladder and simply feel with your hand whether the heat coming off the top of the kiln is moist or not. This stage of firing lasts for two days or more, depending on the size of the kiln and the moisture content of the bricks. At the end of this phase, the temperature of the kiln will . have reached approximately 150°C.
+During the preheating phase, never cover the top of the kiln with sand or soil. It must be left open to allow the steam to leave. All tunnels are open (ie. unblocked) at both ends during this period but metal sheets are used to control the air flow into the tunnels.
+Important: If the top of the kiln is sealed or if the fires in the tunnels are too large and the temperature is brought up too quickly, the bricks will break.
+2. Main Firing
+Once the preheating phase has been completed, the main firing begins and will take a total of four to six days to complete. The objective of this stage is to bring all parts of the kiln up to the correct firing temperature of approximately 950°C.
+On one side of the kiln, all tunnel openings are blocked up completely with bricks and mud mortar. On the other side of the kiln, firewood is fed into the tunnels to build up a large hot fire. The firewood is pushed down as far as possible into the tunnels. This first Dart of the main firing will last about two to three days or until the bricks in the tunnels begin to glow red. (This colour indicates a temperature of between 600°C and 800°C.)
+When the bricks in the tunnels are glowing red, the tunnels which were open during the first two or three days of the main firing are blocked up with brick and mud mortar and the ones which were initially blocked are broken open. Firewood now continues to be fed in from the open side until the bricks in the tunnels are a glowing yellow-orange colour. (This colour indicates a temperature between 900°C and 1,100°C). This second half of the main firing stage will last another two or three days depending on how well the fires are fed and the size of the kiln.
+To confirm that the correct maximum temperature has been reached, climb to the top of the kiln using a ladder and throw a handful of dry grass onto the top of the kiln. If the grass catches fire instantly, the maximum desired temperature has been reached.
+3. Soaking Stage
+It is important to maintain the fire and temperature of 900°C to 1,100°C inside the kiln for another 12 to 24 hours. This period is called the soaking stage and is very important because the heat enters into the centre of the brick and the brick gains its greatest strength. The fires should not be allowed to go down at this point.
+If the bricks have been counted correctly, the firewood has been calculated and measured accurately, and the kiln has been fired well, there should be sufficient firewood left to just finish this phase.
+4. Closing the Kiln
+In this phase the top of the kiln is covered with 100 to 200 mm of sand or soil and the tunnels are filled one last time with firewood before being blocked up with brick and mud mortar. This is done to keep the heat in the kiln from escaping and to permit the kiln to cool as slowly as possible
+The sealing off of the top of the kiln is done by a number of people on ladders forming "bucket brigades" and passing soil or sand up to the top of the kiln. The people on top of the kiln who spread the sand or soil stand on wooden boards temporarily laid on top of the kiln to protect their feet from the heat. As the one group is covering the top of the kiln, another should be filling the tunnels with firewood and sealing the tunnel openings.
+5. Cooling
+It is important that the field kiln is allowed to cool down as slowly as possible. This means that the kiln should not be opened for at least two weeks and preferably four weeks after the kiln has been completely sealed. If it is opened too soon, some of the the bricks may be cracked by the cool air rushing into the kiln. The bricks will obtain a higher strength if the kiln was fired and sealed well and allowed to cool slowly and naturally.
+6. Opening of the Kiln
+Once the kiln has cooled, it can be opened and dismantled. You will find that up to 10% (or 10 bricks out of every 100) of the bricks removed from the kiln are either cracked, broken, underfired, or unsaleable. This is normal for any field kiln of this type. If however more than 20% are cracked, broken, or underfired, this indicates that the type of clay used to make the bricks was not the correct type or that the kiln was not fired properly.
+Note: broken bricks should be saved for insulating the next field kiln.
+When dismantling the kiln and before using or selling the bricks, they should be sorted into piles of good quality, "seconds", under fired, and over fired bricks. Underfired bricks (these are usually found near the outside walls) can be used to build your next field kiln and re-fired again. To help keep track of the quantity of usable bricks, stack them in piles of 1,000.
+<section>Problems With Fired Bricks</section>
+After opening and dismantling the kiln, you may find that there are a number of unacceptable bricks.
+Over or Under Sized Bricks
+Although the bricks were made using the same size mould, you may find that the bricks coming from the same kiln can be a variety of sizes. This can be caused by:
+- temperature differences within the kiln, or
+- different types of clay used to make the bricks.
+All clays will shrink when fired and the amount of shrinkage will depend on the type of clay and/or the temperature to which it is fired. To reduce the variations, use the same clay type to make all your bricks and tend the fires well so that equal heat distribution throughout the kiln is maintained.
+It is advisable to check the length of the bricks as they are removed from the kiln and sorted. The variation in dimensions should be kept within certain limits (see chapter on standardization of brick sizes) and if they do not conform, the backs should not be sold as first quality.
+Glazed Bricks
+Some bricks will have melted together or have a glass-like or glazed appearance. This a result of:
+- firing these particular bricks at too high a temperature (over 1,200°C).
+Over fired bricks are usually found in the firing tunnels or sometimes even in the middle of the kiln just above the tunnels. Depending on the soil composition, they may be dark blue to purple in colour.
+Over fired bricks are very hard and can still be used in construction. They are usually used in foundations or sometimes laid into a wall if a darker coloured band or design is desired.
+Low Strength Bricks
+Bricks that are low in strength, break easily and dissolve when placed under water indicate that:
+- an incorrect type of clay was used for the bricks;
+- the bricks were underfired, that is, not brought up to and maintained at the minimum temperature of 950°C during the firing of the kiln;
+- not enough firewood was used (for every 1,000 bricks you need three cubic metres of firewood);
+- the firing stages were cut short; or
+- the temperature was allowed to drop very low at some point during the firing.
+Cracked or Broken Bricks
+If many of the bricks are cracked or broken, this may have been caused by:
+- using the wrong type of clay;
+- plastering or sealing the top of the kiln before the firing, which prevented the steam from escaping;
+- having a fire which was too large and hot during the preheating phase which caused the moisture or water in the bricks to turn to steam too quickly;
+- opening the kiln before it had cooled properly; or
+- stacking and firing the bricks in the kiln without first drying them sufficiently.
+<section>Firing A Field Kiln: An Example</section>
+The following is an example of how to fire a 20,000 brick field kiln day by day. It describes the work, the tasks of each group of workers, the observations they should make, and the possible problems they might encounter. It should be noted that the time period for each phase is not fixed since much depends on local conditions.
+Day 1: Preheating Stage
+Objective:
+The objective of this phase is to gently remove the water that is trapped within the bricks.
+Day Shift (06:00 -18:00)
+Tasks:
+- bring enough dry grass to cover the floor of each of the tunnels to a height of 10 to 15 cm. Place the dry grass in the middle of the tunnel, one metre from each mouth of the tunnel.
+- cover the dry grass in the tunnels with small sticks up to about half the height of the tunnel.
+- cover the sticks with firewood about 10 cm in diameter. Leave a space of about 30 cm from the top of this pile to the roof of the tunnel to allow space for the passage of air.
+- set fire to the grass in all the tunnels at the same time.
+- maintain the low heat fires throughout the day.
+- use metal sheets as doors for the tunnel openings to help control the rate of burning.
+Observations:
+- after a few hours you should begin to see a white smoke or steam vapour coming from the top of the kiln. This is the water being driven out of the bricks.
+Problems to Avoid:
+- make sure the fires are kept small and "cool". A large hot fire at this stage could cause many bricks to crack and split.
+Night Shift (18:00-06:00)
+Tasks:
+- maintain the small tires throughout the night.
+Observations:
+- you should be able to see the "white smoke" or water vapour coming from the top of the kiln.
+- with a ladder, climb to the top of the kiln and with your bare hand feel the smoke or steam coming off of the kiln; it should feel moist.
+Problems to Avoid:
+- the workers may fall asleep during the night allowing the fires to go out.
+Day 2: Preheating Stage
+Objective:
+The objective of the small fires is to slowly and gently raise the temperature of the kiln to 150°C. During this period all free water in the brick will be driven out.
+Day Shift (06:00 · 18:00)
+Tasks:
+- maintain the small fires.
+- at 14:00 hrs., begin closing all the openings on one side of the kiln with bricks and mud.
+- after closing one side, continue to maintain the small fires.
+Observations:
+- you will probably see less "white smoke" coming off the top of the kiln.
+Problems to Avoid:
+- do not build hot fires in the tunnels yet.
+Night Shift (18:00-06.00)
+Tasks:
+- continue to maintain the small fires.
+Observations:
+- if you climb to the top of the kiln you will feel less moisture on your hand than the night before. In fact, depending on how well the bricks were dried before being placed in the kiln, it may feel dry.
+Problems to Avoid:
+- the workers may fall asleep allowing the fires to diminish. This will cause a drop in temperature inside the kiln. Firewood would be wasted bringing the temperature back up to where it was.
+Day 3: Main Firing
+Objective:
+The objective of the main firing is to raise the temperature of the kiln up to 950°C.
+Day Shift (06:00 -18:00)
+Tasks:
+- at 06:00 hrs., begin stoking the fires with more firewood, creating a hot fire.
+- after stoking the fires, use metal sheets to cover each tunnel opening to control the air flow into the kiln.
+- during the day maintain the hot fires by stoking the fires when necessary.
+- repair cracks with mud that will begin to form in the kiln's plastered exterior.
+- when stoking the fire, you need to push the logs as deep as possible into the tunnel.
+Observations:
+- after about 8 hours from starting the main burning, you may begin to see the bricks in the tunnels glowing a dark red colour.
+Problems to Avoid:
+- to prevent the workers from being seriously burnt, each must have leather gloves, aprons and boots.
+- to avoid smothering the fire, add only one log at a time, waiting until it catches fire before adding the next.
+- to prevent dehydration of the workers, an ample supply of fresh clean water must always be available to drink.
+Night Shift (18:00 -06:00)
+Tasks:
+- continue to stoke the fires keeping them hot. Push all firewood as far back into the tunnel as possible.
+- the tunnels will begin filling up with ashes and it may be necessary to remove them from time to time. An easy way of doing this is to fix a hoe head to a long stick, or even better, weld it to a 2 to 3 metre metal pipe. It is then used to pull the ashes out of the tunnels. The glowing coals should be pushed back deep into the tunnels.
+Observations:
+- the bricks in the tunnel may change from a dark red to bright red glow.
+Problems to Avoid:
+- during the night the temperature of the kiln will drop if the workers fall asleep. To prevent this, supervisors should be encouraged to visit the kiln site throughout the night.
+- as the fires get hotter, the chance of serious burns increases.
+Day 4: Main Firing (continued)
+Objective:
+The objective is to continue to raise the kiln temperature to 950°C.
+Day Shift (06:00 - 18:00)
+Tasks:
+- continue to stoke the fires, keeping them hot.
+- push all firewood deep into the fire tunnels.
+- remove excess ash.
+- at 14:00 hrs., close the tunnel openings with bricks and mud on one side of the kiln and open them on the other.
+- repair any cracks in the plaster with more mud.
+Observations:
+- by 14:00 hrs., about half of all the firewood would have been consumed, and for this kiln of 20,000 bricks, 30 cubic meters would be left.
+- the bricks in the tunnels will glow a bright red colour.
+Problems to Avoid:
+- the work of closing off the tunnel openings on one side of the kiln and opening them on the other is very hard work. It would be advisable to have extra workers to help with this task.
+Night Shift (18:00 -06:00)
+Tasks:
+- continue to stoke the fires keeping them all equally hot.
+- push the firewood deep into the tunnels.
+- remove excess ashes.
+Observations:
+- the bricks in the tunnels will be glowing a bright red to reddish orange colour.
+Problems to Avoid:
+- do not allow the fires to go down.
+Day 5: Main Firing and Soaking Stage
+Objective:
+The objective of the main firing is to raise the temperature of the kiln to 950°C. When this temperature is reached, it is necessary to maintain it for as long as possible to allow the heat to enter into the centre of the brick and for the clay to undergo a critical chemical change. This period during which the heat is maintained is called the soaking stage.
+Day Shift (06:00 -18:00)
+Tasks:
+- continue to stoke the fires with firewood to bring the temperature up to 950°C.
+- remove ashes when necessary and always push the firewood as deep into the fire tunnels as possible.
+Observations:
+- at 06:00 hrs., the bricks in the tunnels will be glowing bright orange in colour.
+- by 18:00 hrs., the bricks in the tunnels will be glowing yellow-orange in colour.
+- when you climb to the top of the kiln and look down into the kiln between the spaces of the top course of bricks, you will see the bricks glowing red.
+- when you throw dry grass onto the bricks in top of the kiln, it will take about three seconds before it will ignite.
+Problems to Avoid:
+- at no point allow the fires to go down.
+- do not allow cool air to enter the kiln. Always use the metal sheets to close down the tunnel openings.
+Night Shift (18:00 -06:00)
+Tasks:
+- continue to stoke the fires with firewood, maintaining the high temperature of the kiln.
+- always push the firewood as deep into the fire tunnels as possible; remove ashes when necessary.
+Observations:
+- at 18:00 hrs., the glow of the bricks within the tunnels should be orange/ yellow in colour.
+- at 06:00 hrs., the glow of the bricks within the tunnels should be yellow.
+- if you climb to the top of the kiln and look down between the spaces of the bricks, you should see a bright red glow.
+- during the night you will see a red glow coming off of the top of the kiln.
+- at 06:00 hrs., if you throw dry grass onto the bricks on top of the kiln, it will take about 1 to 1 1/2 seconds to ignite and burn.
+Problems to Avoid:
+- at this point in the firing the fires are consuming firewood very rapidly. Control the firing by using metal sheets on the openings. Do not leave the doors wide open; just the minimum of air should enter.
+- do not allow the fires to go down at this point as you may not have enough firewood on hand to bring the kiln back up to maximum temperature and maintain the soaking stage.
+Day 6: Soaking Stage (continued) and Closing The Field Kiln
+Objective:
+When the temperatures in the firing tunnels reach 950°C, it is necessary to maintain this heat for as long as possible. This stage is called the soaking stage. During this period the temperature evens out through the kiln and the heat penetrates to the centre of each brick. Various chemical reactions will be taking place within the back which will give it its hardness and durability. When the soaking stage is over, the tunnel openings will be sealed and the top of the kiln covered with sand or soil to prevent the rapid lost of heat.
+Day Shift (06:00 -18:00)
+Tasks:
+- continue feeding firewood into the tunnels maintaining the yellow glow of the bricks in the tunnels.
+- keep the metal sheets in front of the tunnel openings when not stoking the fires. Leave just the minimum of space under the doors to allow the air in.
+- keep pushing the firewood as deep as possible into the tunnels.
+- when the stock of firewood is almost finished, begin filling each tunnel with firewood and seal off each opening with bricks and mud.
+- as the tunnels are being sealed off, begin covering the top of the kiln with a 10 to 15 cm layer of sand or soil. This is hard work but should be done as fast as possible. It is advisable to call in as many people as possible to assist with this task.
+Observations:
+- the glow of the bricks within the tunnels should be a yellow colour. If the colour is red you know that the temperature has gone down during the firing either because of poor stoking methods or leaving the tunnel mouths open.
+- if you were to toss dry grass on to the top of the kiln it should ignite and burn almost instantly.
+Problems to Avoid:
+- remember to prepare in advance the soil or sand needed to seal off the top of the kiln. A number of buckets, ladders and walking boards will also be necessary. Also remember to prepare and have on hand the bricks and mud needed to seal off the tunnel openings.
+Day 7 to 21: Cooling
+Leave the sealed kiln to cool down as slowly as possible. The longer you leave the bricks to cool, the stronger the bricks will be. If the kiln is still hot after two weeks let the kiln cool for another week or two.
+Day 22: Opening The Field Kiln
+Once the kiln has cooled down, you can begin to open it. If you have followed the directions in this manual correctly, and your clay is of a good brickmaking quality, you will find that your bricks are fired well and will be suitable for construction.
+Sort the bricks into good quality, "seconds", underfired and overfired bricks. The underfired bricks can be fired again in the next kiln. Stack the bricks into piles of 1,000.
+<section>Time Estimate For Building And Firing A Field Kiln</section>
+The following is an estimate of the time it should take to build and fire a field kiln of 10 000. 30 000. and 50 000 bricks.
+Task
+Field Kiln of
+10,000 Bricks
+Field Kiln of
+30,000 Bricks
+Field Kiln of
+50,000 Bricks
+Kiln Building
+Building the Kiln*
+1 to 2 weeks
+2 weeks
+3 weeks
+Plastering the Sides*
+3 days
+2 days
+5 days
+Stacking Firewood*
+1 day
+2 days
+3 days
+Kiln Firing
+1. Pre-heating Stage**
+2 days
+3 days
+3 to 4 days
+2. Main Firing**
+4 days
+4 to 6 days
+5 to 8 days
+3. Soaking Stage**
+12 hours
+12 to 24 hours
+12 to 24 hours
+4. Closing the Kiln*
+3 hours
+4 hours
+5 hours
+5. Cooling**
+1 week
+2 weeks
+2 to 3 weeks
+Total
+25 to 31 days
+41 to 44 days
+51 to 63 days
+*The time wilt depend of the number of people available and their willingness to work.
+** The duration of this phase will depend on the:
+- size of the kiln
+- amount of wind
+- size, type and humidity of firewood
+- thickness of the insulation
+- heat of the fire
+<section>Firing Principles - (Points To Remember)</section>
+1. Plaster kiln walls with two layers of mud, allowing the first layer to dry before applying the second. Throw the mud with force so it fills the cracks well. The mud should have sand added to it to prevent it from cracking when the kiln starts to heat up.
+2. Have ready at the kiln site 3 cubic metres of wood for each 1,000 bricks you wish to fire. For example if you plan to fire 20,000 bricks, you will need 60 cubic metres of firewood.
+3. Firewood should be cut one metre long for easy handling and should be between 10 and 20 cm in diameter.
+4. Firewood that is crooked or forked is unacceptable because it cannot be thrown easily through the narrow tunnel openings.
+5. All wood that is brought in should be carefully stacked, measured, and recorded. This is necessary not only for correct payment of labour, and verifying quantities but also for computing kiln costs and efficiency.
+6 Warm the bricks slowly for several days to remove any moisture in the bricks; this will prevent the bricks from cracking.
+7. Heat should be distributed evenly throughout the kiln. This is done best by controlling the fires in the tunnels and not allowing one tunnel to become hotter than an other.
+8. Either increase the kiln heat or hold it steady, but never allow it to decrease until the firing is complete.
+9. To increase the fire and heat inside the kiln, use smaller and drier pieces of wood. Freshly cut logs and large logs make a cooler, slow burning fire.
+10. Add wood to the fire several sticks at a time, allowing them to catch fire before adding more. Filling the fire tunnels with too many logs at once actually reduces the fire by reducing the air flow and suffocating the fire.
+11. The heat from the fires should circulate through all the bricks as it rises and exits out the top. Heat that exits through the wall or kiln doors is wasted because it is not heating the upper bricks. Therefore fill wall cracks with mud and close or lower the kiln doors if too much heat is leaving.
+12. Use metal sheets to control the air flow into each tunnel mouth. The advantage metal sheets over brick doors is that they can be easily raised, lowered, or removed. This allows better control of air flow, and therefore of heat.
+13. Long poles are needed to push the logs deep into the fire. Nail a shovel or a hoe head to the pole end and wrap the end with tin to help protect it from the fire.
+14. During the firing there will be a buildup of ash and burning coals. Use the shovel or a long handled hoe to even out the coals. If allowed to build up too high, the bed of coals will interfere with the entry of wood and air. When there are excessive ashes, pull them out of the kiln with the same tool.
+15. The last day of firing, the soaking stage, is the most important because it is during this stage that the chemical changes occur, making the bricks strong and durable. The kiln must be carefully supervised at this time to see that the kiln holds its maximum heat for at least 12 hours.
+16. The kiln heat can be measured by observing the colour of the bricks at the top of the tunnel arches. Stand at the side of the tunnel opening and stoop to the ground. Look upwards at the tunnel roof towards the kiln centre. At first these upper arch bricks will glow a dull red; then change to a reddish-orange; then orange-yellow; then yellow white. The objective is to try to reach the yellow-white colour and hold it for 12 to 24 hours.
+17. Kiln fires must be tended day and night. One worker per tunnel is recommended. Workers should be selected for strength and coordination because they must be able to cast large heavy logs accurately into the fire. They should also have a strong sense of responsibility to come to work at the proper time and to be vigilant that the fires are not neglected or allowed to die down. The workers must understand that their work must continue at the kiln site until they are replaced by workers from the next shift. They must never leave the fires unattended for any reason.
+<section>Building And Firing A Coal-Fired Brick Kiln</section>
+Good quality bricks can also be made by firing the kiln with coal instead of firewood. If coal is available in your area, use it, since the use of firewood for brickmaking can lead to rapid deforestation.
+The method of building the field kiln and firing the bricks using coal is quite different than that used with firewood. The number of bricks one can fire in a kiln of this type is from 10,000 to 100,000.
+The following is a step-by step description for building a 20,000 brick field kiln (sometimes called a scove kiln) using coal as the fuel. The approximate length and width of the kiln is 4 metres. The overall height of the kiln is about 3.5 metres.
+<section>How To Lay Out The Kiln</section>
+Level the Site
+Step 1: Select a level area of ground approximately 6 metres by 6 metres and remove all rocks and surface vegetation. Make sure the area is smooth and level.
+If you have underfired bricks from the last kiln, use them to build a strong base on which you can build the kiln. Simply lay the bricks frog side down with no spaces between them and make a brick floor slightly larger than the overall size of the kiln. The new kiln can now be built on this base.
+If you don't have under fired bricks, make sure the ground is well compacted and level. The kiln is then built directly on top of the ground.
+Lay Out the Boundaries of the Kiln
+The length and width of the kiln will be equal. To measure the length and width, bricks will be used as the unit of measurement. For a 20,000 brick kiln, the length will be 16 brick lengths and the width will also be 16 brick lengths. If the unfired bricks are 250 x 125 x 80 mm, the length and width of the kiln will be approximately 4 metres by 4 metres.
+Step 2: Drive a stake close to the corner of the area which has just been cleaned and levered. Tie a cord to the stake and stretch the cord 5 metres in the direction of where you wish to place one of the walls of the kiln. Drive another stake into the ground and tie the cord to it. This cord will mark the length of the kiln and the actual length of the kiln will be measured by using bricks.
+Step 3: Beginning about 1/2 metre from the first stake, place a row of 16 bricks along the outside of the cord. These bricks are placed on edge with their ends touching. (These bricks are placed temporarily and are used only to mark the boundaries of the kiln. They will be removed later.)
+Step 4: With another cord and stake, lay out the second side of the kiln. The cord is stretched for 5 metres, perpendicular to the first cord and should just touch the end of the last brick. Make sure the corner is a right angle (90°) by either using a large builder's square or using the 3:4:5 rule. (See Appendix 3 for more information on the 3:4:5 rule).
+Step 5: When the corner is square, begin to measure the width of the kiln with backs. Starting at the point where the cords cross, lay 16 backs end to end along the outside of the cord.
+Step 6: With another cord and stakes, lay out the third side of the field kiln. The cord is stretched perpendicular to the second cord and should just touch the end of the last brick. Make sure the corner is a right angle (90 ) by either using a large builder's square or using the 3:4:5 rule.
+Step 7: Measure out the length of the kiln as you did for the first side, placing 16 bricks end to end.
+Step 8: With another cord, lay out the fourth and final side of the kiln, forming a large square 16 bricks long by 16 bricks wide. The cord should just touch the ends of the bricks on the first and third sides.
+Step 9: Check that all the comers are right angles (90°) by measuring the diagonals. If the length of the two diagonals are equal, this indicates that all the corners are right angles. If the two diagonals are not the same length, go back and check each comer individually, using the 3:4:5 rule.
+Also check that all the sides are equal in length. Even though they may have the same number of brick lengths, there could be some slight differences in the lengths of the individual bricks.
+<section>Construction Of The Kiln</section>
+To ensure that the kiln is strong and will not collapse during the firing, it is important to use good quality (no cracks and regular in shape) well-dried unfired bricks in layers 1 through 8.
+All bricks used to build the kiln are always placed on their side because they are stronger in this position. Never place the bricks on their flat side.
+Quantity of Coal
+You will need to have your supply of coal ready before starting to build the kiln as the coal is placed within the kiln at the same time the bricks are. It is estimated that you will need approximately 1 1/2 sacks of coal and 1/2 sack of selected ashes (cinders) for every 1,000 bricks to be fired. Therefore, a 20,000 brick kiln will need approximately 30 sacks of coal and 10 sacks of selected ashes or cinders.
+The coal can be waste ashes from a coal fired power station or a coal fired locomotive. The coal should not be too fine as this will prevent good air flow through the kiln. Nor should the coal be larger than fist size as this will require labour to break the coal down into smaller bits to fit in the coal firing layers.
+Layer 1
+Begin to place the bricks in a row (2 bricks wide) along one of the cords inside the boundaries that mark the kiln. All bricks are placed on their sides.
+Leave a space of about 50 mm beside it and place another double row in the same direction.
+Continue placing double rows with 50 mm space between them until the area marked by the cords is filled. If your bricks are 250 x 125 x 80 mm, you should have placed about 14 rows of bricks. It may be necessary to adjust the spaces slightly to fill the area completely up to the cord boundary. If adjustment is necessary, the spaces should not be larger than 60 mm or smaller than 40 mm.
+When the first layer of bricks has been completed, remove all the bricks, cords and stakes which were used to mark the boundaries of the kiln.
+Layer 2
+The bricks in the second layer are placed perpendicularly to those in the first layer. Note that there are no spaces left between the bricks and they touch another brick on all 4 sides. You should now have a solid floor of unfired bricks.
+Layer 3
+Place a row (3 bricks wide) of unfired bricks around the outside of the kiln. Remove the bricks as shown in the drawing leaving an opening. This space will be used to start the kindling fires for igniting the kiln. This space is about the length of a brick. Depending on your brick size, you may have to adjust slightly the placement of the bricks to get this opening correct.
+Once the outer walls and openings are established begin placing a single row of bricks, touching end to end, from one corner diagonally across the kiln to the opposite corner.
+Leave a 50 mm space and place another single row of bricks parallel to the first. Continue placing single rows of bricks, leaving about 50 mm between them until the area is filled with diagonal rows.
+During the placement of the diagonal rows, the 50 mm spaces are filled to a depth of 25 mm with small wood chips and shavings. The space is then filled to the top with cubes of coal. The coal should not be too fine or packed too tightly since this would restrict the draught during the firing of the kiln.
+Layer 4
+This layer is very similar to layer 3 except that all bricks are laid perpendicular to those below it.
+Place bricks perpendicular to the bricks which form the outside wall. There are no spaces left between these bricks. Also leave gaps for the fire openings as was done in the third layer.
+Diagonal rows of bricks are laid in the same manner but in the opposite direction to those below.
+All spaces between the diagonal rows and the outside walls are completely filled with coal cubes.
+Layer 5
+Place a triple row of bricks around the outside of the kiln, exactly as you did in Layer 3. Continue to leave a gap where the kindling fires will be started.
+Place rows of single bricks parallel to two opposite sides as shown in the diagram. Leave a 25 mm space between these rows.
+These spaces are completely filled with cubes of coal which are smaller than those used in the previous layers.
+Layer 6
+Place the bricks, touching on all four sides, perpendicularly to those below it. Any small spaces that may occur are filled with coal.
+On the outside walls, bricks are placed so that they span and close the gap for the kindling fires. Note in the drawing how they are placed.
+A small space is left running in a straight line across the middle of the kiln, forming a cross as shown in the diagram. This space is filled with coal.
+The outer dimensions of layer 6 are 50 mm smaller than the layer below (25 mm on each side). This is repeated in each subsequent layer so that the kiln tapers on all sides towards the top, and which makes it more stable.
+Layer 7
+All the bricks are laid perpendicular to those below them. They are close packed with the exception of the 2 or 3 rows just inside the exterior wall as shown in the diagram. Here the 25 mm spaces are filled with small coal or good cinders. The purpose of this arrangement is to increase the amount of heat near the outside surfaces of the kiln since the bricks in this area often suffer from under firing.
+The outside dimensions of this layer are 50 mm smaller (25 mm on each side) than the lower level.
+Layers 8, 9,10
+These layers are arranged in the same manner as layer 7 but each level is laid perpendicular to the one below it. The outside dimensions of these layers are 50 mm smaller (25 mm on each side) than the layer below.
+Layers 11,12, 13, etc.
+The kiln is built to the required height by repeating layers 5 through 10. Coal is always used in layers 5 and 6, but good cinders may be used in layers 7, 8, 9, and 10.
+Final Layer
+The final layer is a protective one and no fuel is added. It is laid perpendicularly to the layer below it. On top of this are one or 2 layers of broken, misshaped unfired bricks or old fired bricks.
+A heap of ashes is placed centrally on top of the kiln so that it is available when needed. When the kiln is well alight, the ashes may be spread over the top of the kiln to retard combustion, if necessary, and prevent the loss of valuable heat.
+Insulation
+The sides of the kiln are plastered with clay to reduce heat loss. The plaster also prevents more air than necessary from entering the kiln. If the kiln is well sealed with plaster, the only place that air can enter for combustion is through the lower spaces left for the kindling fires.
+If the plastering mud contains a lot of clay, it will crack and fall off during firing; mix a little sand into the mixture to prevent this from happening. The plaster should be applied in two layers, allowing the first to dry before applying the second. Throw the mud with force so that it fills the cracks well.
+The lower five layers are left unplastered until the kiln is well alight. Once alight the fire openings are closed with bricks and layers 3, 4, and 5 can be plastered. Do not plaster layers 1 and 2 as this is where the air for the kiln will enter.
+<section>Firing The Kiln</section>
+The advantage of firing with coal is that it is much less work than firing a kiln with firewood since the fuel is built into the kiln and no more is added during the firing. However, the disadvantage is that you have very little control over the firing process. You can only build the kiln as carefully as possible, following the directions, and with the correct amount of coal. Once the fire is started, with the exception of spreading ashes on the top of the kiln, there is little you can do, other than wait until the kiln has finished firing and the fires die out themselves.
+To begin firing the kiln, light all 8 fire openings located in layers 3,4, and 5 of the kiln. Once the kiln is burning briskly, the 8 fire openings are closed with bricks and mud plaster. All air entering the kiln should now be coming through layers 1 and 2. Layers 3, 4, and 5 can now be plastered, but remember not to plaster layers 1 and 2.
+During the firing of the kiln, have some mud plaster ready to repair the cracks that will form in the plaster. As the heat of the kiln increases, it is not unusual for the plaster to crack and fall off. Be prepared to repair this or heat will escape and the kiln will not reach the correct temperature.
+Do not cover the top of the kiln during the first three days of firing since steam will be given off. (If the kiln top is covered before all the steam can escape, the bricks may be destroyed.) Once the top layer is so hot that a handful of grass tossed on top instantly catches on fire, you can spread the ashes (cinders) until the top of the kiln is completely covered.
+The kiln is allowed to fire until the fuel inside the kiln is finished. The length of time for this will depend on the following:
+1. The quantity and quality of the fuel used and how it was packed in the kiln.
+2. The regulation of the air supply through the fire and air openings.
+3. Rains and heavy winds that cool the kiln.
+4. Covering the top of the clamp with ash.
+5. The size of the kiln.
+Like kilns using firewood, the bricks must reach a temperature of at least 950°C in order to produce good quality bricks, and this should take several days depending on the size of the kiln. Because it is difficult to control the heat of the fires, it is important to have the bricks as dry as possible before building and firing the kiln. When all the fuel has been burnt, the kiln must be left to cool as slowly as possible, before being opened. This period should take 2 to 4 weeks.
+Like a wood fired kiln, the coal kiln should not have more than 10% of unacceptable bricks (bricks that are over or under-sized, glazed, broken, or underfired). The causes of poor quality bricks fired by coal will be similar to those fired by firewood. Therefore, if necessary, review the problems, reasons and solutions described on pages 80 to 81.
+<section>Appendices</section>
+<section>Appendix 1 - Clay Testing</section>
+Before beginning to make bricks for the first time, it is essential to know if the clay which you intend to use is the right type for making good quality bricks. Although brickmaking clays are abundant in many countries, not all villages have a supply of good quality brickmaking clay nearby. Before beginning to organize a brick production site, check very carefully that your clay is the correct type.
+There are two ways you can check the quality of your clay. The first is to contact a soil technician who can have your soil tested in a laboratory (check with the local public works office for the location of the nearest laboratory). The results of the test are usually quite accurate and can be very informative if they are interpreted well.
+The second method is to test the soil yourself, using simple field tests that require no special equipment. These tests are usually quite satisfactory but occasionally the results of these field tests can be misleading if you have no experience in brickmaking or soil testing since some interpretation is required.
+The basic information which you must get from any set of tests should answer the following questions:
+1. Can the clay be prepared easily and moulded into the shape you want?
+2. Can the moulded clay brick dry without cracking or breaking?
+3. Can the clay brick be fired to a very high temperature without cracking, breaking or distorting?
+4. Will the fired brick be strong and suitable for use in construction?
+5. What is the total shrinkage of the clay after firing? What should the size of the mould be?
+Collecting Samples for Testing
+In order to do any soil testing, whether it is done in a laboratory or in the field, you will have to collect samples of the soil which you wish to test. Before digging, clean an area of about one square metre, removing all leaves twigs, grass, and stones. Start digging through the first 300 to 500 mm of soil which contains roots and dead leaves. This layer is called top soil and is never used for brickmaking. Remove this layer completely. The soil sample is taken from the layer underneath.
+If the soil is to be analyzed in a soil laboratory or if it is to be transported to another village for an experienced brick maker to test, you will need to provide them with at least 50 kg of each soil sample. Put each soil sample into a separate strong sack. Do not mix them together. Each sack should be identified with a tag with the following information:
+1. Your name,
+2. The address where you can be contacted,
+3. A description of the location of the clay giving as much detail as possible. For example: clay was dug 20 metres from the banks of the N'komati River in a maize field 2 kilometers west of the village of Nanrapa The sample was taken from a hole one metre deep, 50 metres from a large mango tree. A description like this is very important if you have more than one sample and it may be necessary to draw a map of the area showing all your test sites. (If you have many samples, it is a good idea to identify both the sample and the pit with numbers.)
+Be sure to put a copy of the identification card inside the sack with all the information in case the outside tag is lost or destroyed. Keep a detailed record for yourself of where you dug each sample.
+Good brickmaking clays are made of a certain combination of clay and sand. If the clay content is too high (as in the clay used for pottery), the brick will crack and break while drying. If the sand content is too high, the brick will be weak and break easily.
+Important: Soils can change completely over a small area. If you find a suitable clay, be sure that it is not an isolated pocket and that there is sufficient clay to continue to make bricks for many years.
+Simple Field Testing of Clay Samples
+Simple, basic field testing can be done on site to test a clay's suitability for brickmaking. The simple tests listed here will give you only a very general idea about the suitability of your soil. They are not as accurate as laboratory tests and should not be used as a substitute. However, they can help you to quickly rule out poor brickmaking clays and to identify clays with brickmaking potential.
+Test 1: Moulding
+Take a handful of dry clay soil and begin mixing it with a small amount of water until it becomes soft and malleable. Do not add too much water as this will make it too soft and wet. Try making different shapes with the clay.
+The objective of this test is simply to see if the soil can be moulded easily and to get an indication of how difficult it may be to prepare the soil for brickmaking.
+If it is difficult to make any shape with the soil or if it keeps falling apart, the soil can not be used to make bricks because it probably contains too much sand. If the soil holds its shape and can be moulded easily, continue with the following tests.
+Test 2: Forming and Drying Clay "Eggs"
+With the moist soil, mould it into a form about the size and shape of a chicken's egg. Make 20 to 30 of these "eggs" and leave them in the sun to dry. After about a day or two, check the "eggs" to see if they have cracked or broken apart.
+If they have large cracks, the soil probably has too much clay and is not suitable for making bricks. This particular soil may need to have sand added to it in order to stop the cracking. It will be necessary to experiment with different proportions of sand and soil to determine the correct ratio.
+If they did not crack apart or if they have only very small cracks, try crumbling or breaking them in your hands. If they crumble easily, it probably means that the soil has too little clay in it and is unsuitable for making bricks. If they do not break or crumble easily, the soil has a potential for brickmaking.
+Test 3: Firing Clay "Eggs"
+Take a number of the "eggs" that are very dry and have no cracks and put them into a small fire. Keep the fire small for the first thirty minutes and then make a large hot fire. Try to keep the fire hot for at least two hours or longer if possible. At the end of the firing, the "eggs" should be well covered with hot ashes and left to cool until the next day. When cool, examine the clay "eggs" and try crushing them with your hands. If they crumble easily, the soil is probably not suitable for fired bricks. If they do not crumble easily, the soil has potential for brickmaking.
+Place a few of the fired clay "eggs" in a bucket of water and leave them overnight. By the next day, if they have dissolved or feel soft, they were either underfired or the soil is not suitable for brickmaking. (This is a problem with field tests like this; without controls you do not know if the clay "eggs" or bricks were fired correctly or not.) Try crushing a few of the clay "eggs" that were left underwater. If it is difficult, the soil is probably suitable for brickmaking but further testing should be done.
+Test 4: Making a Brick
+If the previous three tests indicate that the soil might be suitable for brickmaking, continue and make a full size brick. If you do not already have a mould, make an experimental hinge mould with internal dimensions approximately 7% larger than the desired size of the finished fired brick. (See Appendix 2 for detailed information on making a hinge mould.) With the soil which has shown the most potential for brickmaking, make 50 or more bricks using the hinge mould. Follow the directions given in the manual for moulding and drying the bricks.
+When dry, build a small kiln with the bricks and fire it over a 24 hour period, trying to follow the same procedures as described for a large scale kiln. After cooling, examine the bricks carefully and note if the bricks are cracked, broken, or if they appear to be weak or strong.
+(See the section on Problem Bricks, page 80-81.) If you are satisfied with the results, continue to use the same clay on a slightly larger experimental scale and produce enough bricks for a 1,000 brick kiln. Fire this kiln and once more note the results.
+<section>Appendix 2 - Making A Hinge Mould And Moulding Table</section>
+Before beginning to make the hinge mould you must determine two things. First, what will be the final fired brick size and second, how much does the soil shrink from its moulded to its fired brick state.
+Read the chapter on Standardization for information on the best sizes for bricks. Once the fired brick size has been decided, the interior dimensions of the mould can be calculated.
+Remember that all brick clays shrink between 5% and 11% when dried and fired. Therefore to arrive at the correct size of brick, the moulds must be 5% to 11% larger than the final size of the brick.
+The best way to determine the shrinkage rate for a particular clay is to have a soils laboratory do the testing. This is important especially if the bricks must be produced to a specific dimension. If the final size is not that critical and an error of 5 to 10mm in overall length is not a problem, then the following method can be used to determine the shrinkage rate for a particular brick clay.
+1. Make an experimental hinge mould and follow test 4 in Appendix 1. Make 50 or more bricks and fire them in a small kiln.
+2. Once fired, randomly select 10 unbroken bricks.
+3. Lay the 10 bricks butted up tight against each other, end to end, on a smooth level floor.
+4. Measure the overall length of the bricks in millimetres and divide that length by ten. This will give the average length of the bricks.
+5. Measure exactly in millimetres the inside length of the mould used to make the bricks.
+6. Use the following formula to determine shrinkage rate.
+% of Shrinkage =((length of mould in mm) - (average length of bricks)) x 100/(length of the mould in mm)
+For example: length of the mould = 258mm average length of bricks = 240mm
+% of Shrinkage =(258 mm-240 mm)x100/258mm= 18x100/258= 1800/258=7
+Shrinkage = 7%
+The following table shows, the interior mould sizes for various shrinkage rates to make four different sizes of fired bricks. For example, a village would like to produce a fired brick 240mm x 115mm x 73mm in size and knows that their clay has a shrinkage rate of 8%. In order to obtain that final size, the interior of the mould must be 261 mm x 125 mm x 80 mm.
+Table For Interior Mould Sizes
+Fired Brick Size: 240 mm x 115 mm x 73 mm
+Interior Mould Size
+Shrinkage
+length
+width
+height
+253 mm
+121 mm
+77 mm
+256 mm
+122 mm
+78 mm
+258 mm
+123 mm
+79 mm
+261 mm
+125 mm
+80 mm
+264 mm
+126 mm
+81 mm
+267 mm
+128 mm
+81 mm
+270 mm
+129 mm
+82 mm
+273 mm
+131 mm
+83 mm
+Fired Brick Size: 230 mm x 110 mm x 70 mm
+Interior Mould Size
+Shrinkage
+length
+width
+height
+242 mm
+116 mm
+74 mm
+244 mm
+117 mm
+75 mm
+247 mm
+118 mm
+76 mm
+249 mm
+120 mm
+77 mm
+252 mm
+121 mm
+78 mm
+255 mm
+122 mm
+78 mm
+259 mm
+124 mm
+79 mm
+262 mm
+125 mm
+80 mm
+Fired Brick Size: 220 mm x 105 mm x 66 mm
+Interior Mould Size
+Shrinkage
+length
+width
+height
+232 mm
+110 mm
+69 mm
+234 mm
+112 mm
+70 mm
+236 mm
+113 mm
+71 mm
+239 mm
+114 mm
+72 mm
+242 mm
+115 mm
+73 mm
+244 mm
+117 mm
+73 mm
+247 mm
+118 mm
+74 mm
+250 mm
+119 mm
+75 mm
+Fired Brick Size: 210 mm x 100 mm x 63 mm
+Interior Mould Size
+Shrinkage
+length
+width
+height
+221 mm
+106 mm
+66 mm
+223 mm
+107 mm
+67 mm
+225 mm
+108 mm
+68 mm
+228 mm
+109 mm
+69 mm
+231 mm
+110 mm
+69 mm
+233 mm
+111 mm
+70 mm
+236 mm
+113 mm
+71 mm
+239 mm
+114 mm
+72 mm
+<section>Appendix 3 - The 3: 4: 5 Method</section>
+The 3:4:5 method is a simple way to ensure that corners are right angles or 90° and can be used when laying out a building or field kiln.
+The 3:4:5 rule states that when a triangle has one side (AB) 3 units long, another side (BC) 4 units long, and the hypotenuse (AC) is 5 units long, the angle ABC will be 90° or a right angle.
+This method requires that you use some unit of measurement. This unit could be the length of your foot, the distance between two knots tied in a string, or a length of one metre as measured on a tape measure. The length of the unit can be anything you choose but you will find that a unit measurement of one metre is ideal for marking the corners of a field kiln.
+For example, if a triangle has one side 3 metres long, another 4 metres long and a hypotenuse 5 metres long, the angle ABC will be 90° or a right angle. This rule also holds true if the measurements are multiples of 3:4:5, such as 6 metres: 8 metres: 10 metres or 9:12:15.
+Example: Laying out a corner of the field kiln
+1. Select your unit of measurement which should be one metre or more in length. The most accurate method is to use a 5 metre tape measure. Note: If you do not have a tape measure, make one with a long piece of cord or string. First tie a knot close to one end of the cord and holding the knot in one hand, stretch your other arm out as far as possible as shown in the diagram. Tie a second knot at that point on the cord. For most people this distance is about one metre. Hold the second knot and measure that same distance again and tie a third knot. Continue until you have six knots with equal spaces between them. The distance between the first and last knot will be 5 units or approximately 5 metres.
+2. Mark the first side of the kiln. Drive a large nail or spike into the ground where the comer of the kiln will be. Tie a string to the spike and stretch the string in the same direction as the length of the kiln (the side with the tunnel openings). Fix the string in this position. Using a tape measure (or the cord that was made to measure units), measure four metres from the comer along the string and drive another spike into the ground at that point.
+3. Mark the second side of the kiln. Tie another string to the first spike (where the corner will be) and stretch it out in the direction of the kiln width (the side without tunnel openings). Using a tape measure or measuring cord, measure 3 metres from the corner along the string and tie a knot in the string at that point.
+4. Mark the hypotenuse. Attach another string to the spike that marks the 4 metre point on the first side. Measure 5 metres on this third string and tie a knot. This string will form the hypotenuse of the triangle.
+Stretch the knot on the 5 metre string towards the knot on the 3 metre string. Move both strings until the 5 metre knot and the 3 mete e knot are exactly on top of each other. Both strings should be taut.
+5. Fix the 3 metre string in this position and the 5 metre string can be removed.
+If you have followed all the steps and measured accurately, the angle or corner formed by the 4 metre string and the 3 metre string should be 90° or a right angle.
+<section>Appendix 4 - Pyrometric Cones</section>
+A pyrometric cone is a cone made of a ceramic material that will deform or bend when a predetermined temperature is reached. It is used to measure the temperature in a back kiln. Each numbered cone corresponds to a known temperature at which it will deform. The two most common names or manufacturers of pyrometric cones are Orton and Seger. They both use a similar numbering system but the temperatures that correspond to those numbers vary slightly. The table on pyrometric cones listed here gives only some of the available cone numbers and corresponding temperatures.
+PYROMETRIC CONES
+CONE NUMBER
+TEMPERATURE DEFORMS
+SEGER
+ORTON
+815°C
+830°C
+835°C
+860°C
+855°C
+875°C
+880°C
+895°C
+900°C
+905°C
+920°C
+930°C
+940°C
+950°C
+960°C
+990°C
+980°C
+1015°C
+1000°C
+1040°C
+1020°C
+1060°C
+1040°C
+1080°C
+1060°C
+1125°C
+1080°C
+1145°C
+1100°C
+1160°C
+When building the field kiln, spaces (called spy holes or peep holes) are left, about 1 metre in length, 80 mm wide and 120 mm high. The cones are placed at the end of these holes and a brick "plug" covers the outside. The brick plug can then be removed during the kiln firing for observing the cones and estimating the temperature of the kiln at that particular place.
+Normally three different cones are placed in each of the spy holes. These cones are usually embedded in a fireclay base to prevent them from falling over and then the whole unit is placed at the end of the spy hole. One of the cones is a number that will deform when the correct temperature (usually 950°C) is reached. Another cone is a number that will deform at a slightly lower temperature; this will warn you that the firing is almost complete. The third cone is a number that will deform at a temperature higher than 950°C; this will inform you that the kiln has been heated beyond the desired temperature and the bricks are likely to be overfired.
+For example, using Orton Cones, cones N° 010 08 and 06 are placed together inside the spy holes of the field kiln (each spy hole will get one set of these cones). Cone N° 010 will deform at a temperature of 905° C. Cone N° 08 will deform at 950° C (usually the correct temperature for firing bricks) and cone N° 06 will deform at a temperature of 1015° C.
+The cones are set at a slight angle in a special clay base. When the temperature of the kiln in the area of this set of cones reaches approximately 900°C, the first cone (no. 010) will begin to deform. When the second cone (no. 08) begins to deform, the kiln in that area has reached the correct temperature for firing bricks and this temperature should then be maintained for 12 to 24 hours. If the third cone (no. 06) begins to deform, the kiln has passed the desired temperature and there is a risk of overfiring the bricks.
+Pyrometric cones come in two sizes; either 30 mm or 50 mm tall and are sold in boxes of 50. When buying the cones, always specify the type of cone (Segar or Orton), the size (30 or 50 mm) and the number of the cone with its corresponding temperature.
+Pyrometric cones are ideal, especially when firing a field kiln for the first time. They provide valuable accurate information and do not require the brickmaker to have experience in estimating the temperature of the kiln by observing the colours of the bricks inside the fire tunnels. They are also excellent training tools because the fret-time brickmaker can learn by relating the colours seen in the kiln to the information gained from the cones and then use this experience in the next kiln firing.
+<section>Appendix 5 - Woodlots</section>
+Wood should only be used for firing bricks if your area has a plentiful supply of firewood and no coal or alternative fuel. Brickmaking uses such large quantities of firewood that its use could mean less firewood for cooking in the village, or even lead to deforestation. Because there are few areas with forests that can supply industry as well as for domestic use, every brickmaking unit should establish a woodlot to supply their needs and not depend on the existing forests.
+One major advantage of firewood over coal or oil is that it is renewable. Using firewood for brickmaking does not have to lead to deforestation if the producer takes care to either match production to the capacity of the forest to supply fuel, or if the brick producer establishes woodlots to supply their own fuel.
+If you own or are a member of a brick production unit, you have a responsibility to the community not to deplete the supply of firewood which is used for domestic use or to cause deforestation. An average family of four uses at least one cubic metre of firewood per year. If a brickmaking unit was established that produced even 20,000 bricks per year, the amount of firewood needed would be equivalent to the firewood used by 60 new families moving into the village.
+Because there are so few areas with forests that can supply firewood for domestic use as well as brickmaking, it will be essential for you to establish a woodlot. There are certain trees such as eucalyptus that are very fast growing and can produce more than 20 times the annual growth of a natural forest. Well managed woodlots can yield from 25 to 60 m3 of firewood per hectare per year. (one hectare = 10,000 m2 or 2.471 acres.) In comparison, a natural forest may yield only 2 to 8 m3 of firewood per hectare. However, there will be a delay, from 4 to 8 years, between planting the trees and harvesting them.
+The amount of land required for the woodlot will depend on the amount of fuel needed to fire the kilns. If you were to fire 20,000 bricks per year, requiring 60 m3 of firewood per year, you would need a woodlot of approximately 2 hectares with an annual yield of 30m3 per hectare to supply your needs.
+The following is a list of issues to consider and steps that a village brickmaking unit will have to go through to establish a woodlot.
+Purpose of the Woodlot
+The first and most important decision that must be made by the management of a brick unit or the membership of a brick cooperative is: What is the purpose of the woodlot?
+- is it to supply only the needs of the brick unit?
+- or should it also produce enough to supply cooking fuel for the village?
+- if the brick unit will grow trees for fuel, will it also grow trees for food (e.g. fruit trees) or for windbreaks and erosion control?
+If this fundamental decision is made, it will simplify the rest of the decision making that must be done and will help those who will advise the brickmaking unit. Once this decision is made, a small group of people should be appointed to investigate and obtain information on how to establish a woodlot.
+Contact Local Officials and Government Departments
+The next step is to start to contact local officials and government departments to discuss your decision to establish a woodlot. They will be able to give you most of the essential information and advice that you will need.
+Local officials might include village presidents, head men, chiefs, district administrators and district development officers. Government departments that should be approached are agriculture, the department responsible for assigning land and most importantly, the local forestry department. They will all be able to advise and support the project in a number of ways.
+Choosing a Site
+There are many factors to consider when deciding where to place the woodlot. Most importantly,
+- it should be as near as possible to the brick site to decrease the expense of transport.
+- if the woodlot is also to produce fuel for the village, it should be situated relatively near to the village.
+- it is also very advantageous if it can be located in an area where the forestry department is active and involved in afforestation.
+- the site should not be located in an area that is used for grazing or other agricultural purposes.
+- it is also best if the site is relatively flat with good soil;
+- has a sufficient supply of water all year; and
+- has good road access to and within it.
+- if you are to also start a nursery, there should be an adequate and continuous supply of water to water the seedlings; and
+- there should be protection against extremes of climate such as heat, frost, hail, and wind.
+- also check the ownership of the land early in the planning stage.
+The size of the site will depend on:
+- the amount of firewood needed each year,
+- the yield of the woodlot per hectare,
+- the number of trees that will be planted each year and
+- how long it will take before harvesting can begin.
+The organization of the site should take into consideration how the trees will be cut and moved and how the timber (if any) will be sold.
+Cooperation with the Forestry Department
+Cooperating with the local forestry department will greatly benefit any brick making unit that plans to establish a woodlot. They are experts in the field and will be able to supply invaluable information and advice. Often forestry departments have special projects that work exclusively with groups establishing village woodlots.
+The forestry department will be able to give you information on:
+- the types of trees to plant given the soil and rainfall in your area,
+- nurseries in the area,
+- the costs involved in starting and running a woodlot,
+- how much labour is needed
+- how to organize your labour,
+- how to protect the trees from animals,
+- the equipment needed,
+- the number of trees to plant,
+- where to place and clear the site,
+- how to establish a nursery (if necessary),
+- when to sow the seeds since seedlings must be of the right size by the start of the planting season,
+- how to plant the seeds (in seedbeds, in individual containers, in planter flat trays or in empty beer or soft drink cans cut in half),
+- when to plant the seedlings,
+- how to care for the trees, and
+- how to harvest.
+- they will likely also be able to assist in any staff training.
+<section>Appendix 6 - References</section>
+Bawa, N.S., Manufacture of Burnt Clay-bricks In Wood-Fired Clamps, Technical Paper No.
+6, Building and Road Research Institute, Kumasi, Ghana, 25p.
+Beamish, A. and W. Donovan, Fabricacao de Tijolos, Technical Manual, Direccao Provincial De Construcao e Aguas, Cabo Delgado, Mocambique, October 1985, 68p.
+, Forno de Empilhamento, Como Construir e Queimar, Technical Manual, Direccao Provincial de Construcao e Aguas, Cabo Delgado, Mocambique, May 1985, 55 pp.
+, Ensaios de Barro, pare a Fabricacao de Tijolos Queimados, Technical Manual, Direccao Provincial de Construcao e Aguas, Cabo Delgado, Mocambique, January 1986, 54 pp.
+Donovan, W., Brickmaking Field Notes - Abyei Sudan, unpublished field notes for The Harvard Institute for international Development, Cambridge, Mass., April 1981.
+Gulick, S., Brick and Kiln Notes, unpublished field report for Harvard Institute for international Development, Cambridge, Mass., April 1979.
+International Labour Office, Small-Scale Brickmaking, Technical Memorandum No. 6, 1984, 210 pp.
+Lay, M. C. D. and A. Reis, Utilizacao de Tijolos, Technical Manual, Direccao Provincial de Construcao e Aguas, Cabo Delgado, Mocambique October 1984, 100 pp;
+Parikh, J.K., "Planning of Rural Energy Systems: Issues and Perspectives", Appropriate Industrial Technology For Energy For Rural Requirements. United Nations Industrial Development Organization,pp. 119-140.
+Parry, J.P.M., Brickmaking in Developing Countries, Garston, Watford, British Research Institute, 1979, 88pp.
+Smith, R.C., "Improved Moulding Devices for Hand-made Bricks", in Appropriate Technology, London, Intermediate Technology Publications, 1981 Vol 7, No. 4.
+Svare, T.I., Better Burnt Bricks, Technical Pamphlet No. 1, Dar-es-Salaam, National Housing and Building Research Unit, 1971.
+Thomas, D.W., Small-scale Manufacture of Burned Building Brick, Arlington, Virginia, Volunteers in Technical Assistance, 1977.
+Turner, T., "Appropriate Technology For Rural Energy Supply In Developing Countries", Appropriate Industrial Technology For Energy For Rural Requirements, United Nations Industrial Development Organization, pp. 27-101.
+Technical information for the chapter on how to build and fire a brick kiln with coal was provided by Michael Parks and John Spiropoulos of Intermediate Technology Development Group, Rugby, U.K.
+<section>Acknowledgements</section>
+We would like to thank the following people who assisted or contributed to the preparation of this book or its original portuguese version:
+- CUSO/SUCO Canada and Oxfam Belgium for funding the Production of Building Materials
+Project in Cabo Delgado, Mozambique.
+- Emile Giroux for his contribution to the chapter on moulding in the original portuguese manual, Fabricacao de Tijolos.
+- Maria Cristina Dias Lay and Antonio Tarcisio da Luz Reis for the long hours they spent correcting the portuguese in the original manuals.
+- David Sogge for his encouragement and support throughout our work.
+- our Mozambican colleagues at the Direccao Provincial de Construcao e Aguas, Pemba, Cabo Delgado who worked with us on the project: Afonso Pundi, Fernanda Correia, Norberto Arusse, David Terenciano, Benjamin Watiquinaca, Lamo Pirai, Falume Samaha, Pitane Alfane, Ramos Rachide Iahaia, Nafio Selemane and Jaime Mondlane.
+- most of all, we would like to thank the members of the Nanrapa Brick and Tile Cooperative in Namuno District, Cabo Delgado, Mozambique, for their dedication, perseverance and courage.
+All the drawings in this manual.are original and were drawn by the authors, based on their photographs taken in Mozambique, with the following exceptions:
+- page 6, ("tools"), page 10 ("rendering walls and bricks used for flooring"), page 15 ("Internal Walls") and page 16 ("External Walls") from Utilizacao de Tijolos. by Maria Cristina Dias Lay and Antonio Tarcicio da Luz Reis.
+- page 14 ("bricks knocking together") from Brickmaking in Developing Countries, by John P.M. Parry.
+- page 24 ("animal powered mixer and mixing clay with feet") from =11-Scale Brickmaking, by the International Labour Office.
+All the text in this manual is original and is based on the actual work done and the experience gained in Mozambique, with the exception of the chapter on firing a kiln with coal which was supplied to us by Michael Parks and John Spiropoulos of Intermediate
+Technology Development Group; and the appendix on woodlots which was supplied by GATE.
+Anne Beamish
+Will Donovan
+January 1988

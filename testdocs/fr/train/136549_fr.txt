@@ -1,0 +1,174 @@
+Essais internationaux de provenances
+Guide technique des essais de provenances
+1. Production en pépinière
+
+Compilée par
+Vichien Sumantakul, Thaïlande - Rajedra B. Joshi, Nepal
+Le Dinh Kha, Viet Nam - Emilio AA. Rosario, Philippines
+E.B. Lauridsen, Danemark
+
+Mars 1995
+
+
+Table des matières
+
+
+
+
+FAO - Organisation Des Nations Unies Pour lAlimentation et lAgriculture
+
+Les appellations employées dans cette publication et la présentation des données qui y figurent n'impliquent de la part de l'Organisation des Nations Unies pour l'alimentation et l'agriculture aucune prise de position quant au statut juridique des pays, territoires, villes ou zones, ou de leurs autorités, ni quant au tracé de leurs frontières ou limites.
+
+Tous droits réservés. Aucune partie de cette publication ne peut être reproduite, mise en mémoire dans un système de recherche bibliographique ni transmise sous quelque forme ou par quelque procédé que soit: électronique, mécanique, par photocopie ou autre, sans autorisation préalable. Adresser une demande motivée au Directeur de la Division des publications, Organisation des Nations Unies pour l'alimentation et l'agriculture, Viale delle Terme di Caracalla, 00100 Rome, Italie, en indiquant les passages ou illustrations en cause.
+
+
+Table des matières
+_
+
+1. INTRODUCTION
+2. RÉCEPTION DES SEMENCES
+3. ESSAIS DE SEMENCES
+4. PÉRIODE DES OPÉRATIONS EN PÉPINIÈRE
+5. TYPE DE MATÉRIEL VÉGÉTAL
+6. PLANCHES DE PÉPINIÈRE, SEMIS ET ENTRETIEN
+7. CONCEPTION ET AGENCEMENT DES PLANCHES
+8. ÉTIQUETAGE
+9. PRÉPARATION DES PLANTS AVANT LE REPIQUAGE EN CHAMP
+Table Of Contents
+
+RÉSEAU SUR LE NEEM: GUIDE TECHNIQUE DES ESSAIS DE PROVENANCES
+
+1. Production en pépinière
+par le Groupe de travail sur les dispositifs expérimentaux^1
+(Mars 1995)
+
+1. INTRODUCTION
+
+Des directives concernant les opérations en pépinière et en champ liées à la mise en place dessais de provenances de neem ont été préparées à lorigine par un groupe de travail lors de la première Consultation internationale sur lamélioration génétique du neem tenue à Bangkok du 18 au 22 janvier 1993. Les directives ont été publiées comme suit:
+* Guidelines for managing international Neem provenance trials. Report of Working Group One. In: Genetic Improvement of Neem: Strategies for the future; Proceedings of the International Consultation on Neem Improvement: Kasetsart University, Bangkok, Thaïlande: Publ.: Winrock, F/FRED, 1993.
+* Guidelines for establishing and managing international Neem provenance trials. Report of Working Group of the International Consultation on Neem Improvement: Regional Community Forestry Training Center, Faculty of Forestry, Kasetsart University, Bangkok, Thaïlande, 1993 (brochure verte).
+
+Depuis lélaboration des premières directives, un certain nombre de facteurs et dhypothèses importants pour ces opérations ont changé. Un nouveau groupe de travail a donc été constitué pour réviser les directives. Les procédures définitives sont présentées ci-dessous.
+
+Le Réseau sur le neem a décidé dutiliser des stumps (voir plus loin section 5). Cette brochure sur les techniques de pépinière décrit à lintention des participants la méthode pour la production de stumps. La présente brochure, ainsi que celle sur les principes et méthodes de mise en place dessais, et celle sur les procédures et méthodes dévaluation publié en juillet 1997, remplaceront les directives précédentes.
+
+Les techniques de pépinière présentées ci-dessous sont fondées sur lexpérience acquise avec des stumps de neem du Nigéria et de lInde. Lorsquune méthode de production de stumps bien adaptée et sûre a été appliquée localement, il faut lutiliser.
+
+2. RÉCEPTION DES SEMENCES
+
+Dans le cadre du Réseau sur le neem, des semences seront échangées à léchelon international pendant cinq mois (mars-septembre 1995), pour être semées immédiatement après la réception. Il faut signaler toute information manquante et tout défaut lors de la notification à la FAO et à lexpéditeur de la réception des semences. Chaque participant pour chaque essai à mettre en place recevra environ 0,5 kilogramme de noyaux à surface dure par source de semences, correspondant à environ 1 000 noyaux par source de semences avec les plus grosses graines. Les mesures à prendre concernant la réception des semences sont décrites dans: "Réseau sur le neem Techniques de récolte et déchange de semences", FAO/DFSC, 1995.
+
+A la réception des semences, chaque pays organisant un essai peut fournir les lots avec leur propre numéro didentité lorsquils enregistrent les semences dans leurs systèmes. Toutefois, on souligne que dans le programme international actuel, lidentité du lot de semences doit être maintenue durant toutes les étapes des opérations en pépinière et en champ en utilisant les noms fournis et indiqués en caractères gras à lappendice A de la brochure « Réseau sur le neem Techniques de récolte et déchange de semences ». Cela facilitera par la suite lévaluation coordonnée des données obtenues par le biais de lévaluation des essais individuels, et garantira quil ny aura pas de confiusion.
+
+Outre les lots de semences reçus par le biais du Réseau sur le neem, les pays qui organisent les essais pourraient souhaiter inclure des semences provenant de leurs propres peuplements de neem.
+
+3. ESSAIS DE SEMENCES
+
+Aucune semence fournie pour lessai de terrain ne sera utilisée pour des essais spécifiques de germination ou de teneur en eau. Toutes les semences reçues doivent être semées immédiatement dans la pépinière pour la production de matériel végétal. Les essais de semences seront faits au titre dun volet de recherche spécifique du programme.
+
+Néanmoins, il est demandé à ceux qui organisent les essais destimer le nombre total de graines semées, ainsi que le nombre de plants utilisables provenant de chaque source de semences (voir section 7).
+
+4. PÉRIODE DES OPÉRATIONS EN PÉPINIÈRE
+
+Comme il a été dit précédemment, toutes les graines doivent être semées aussitôt que possible après leur arrivée. A des fins de planification, le tableau de lappendice A de la brochure « Réseau sur le neem Techniques de récolte et déchange de semences » indique la période prévue pour la récolte (et lexpédition) de chaque source de semences. Les premiers lots de semences sont attendus en mars 1995, les derniers en septembre 1995. La production de stumps prendra au minimum 10 mois, et étant donné que les derniers lots de semences devraient arriver environ 5 mois après les premiers, lâge des stumps variera entre 10-15 mois ou plus au moment du repiquage en champ (qui aura lieu en 1996).
+
+5. TYPE DE MATÉRIEL VÉGÉTAL
+
+Comme mentionné plus haut, il a été décidé dutiliser des stumps comme matériel végétal.
+
+Il y a à cela deux raisons:
+* A cause du laps de temps qui sécoule entre le moment où le premier lot de semences est planté et le moment où les derniers lots de semences sont plantés au moment du repiquage en champ il y aura des différences dans la dimension des plants entre les différentes sources de semences. Les stumps seraient le type de matériel végétal le mieux adapté dans ces conditions (dans des récipients, les racines pivotantes des plants seraient endommagées si elles y restaient pendant longtemps, ou les récipients eux-mêmes pourraient se détériorer ou être endommagés. Les gros plants survivraient difficilement sils étaient repiqués).
+* Les stumps offrent aussi quelques avantages concernant lévaluation des essais, car la croissance initiale des plants en champ sera assez indépendante de la dimension des stumps. Par contre, la taille des jeunes plants cultivés en récipients aurait un effet plus marqué sur la croissance initiale après repiquage en champ.
+
+6. PLANCHES DE PÉPINIÈRE, SEMIS ET ENTRETIEN
+
+Nous visons surtout à obtenir un nombre suffisant de plants. Les méthodes de semis à la volée ou de semis en ligne, communément utilisées dans plusieurs pays, ne peuvent être appliquées ici en raison de la quantité limitée de semences viables qui pourraient être disponibles.
+
+Récapitulation des opérations pour la préparation des planches:
+* Préparer les planches si possible 3 ou 4 semaines avant le semis ou le repiquage.
+* Choisir un sol limoneux ou limoneux-sableux.
+* Travailler le sol en creusant ou en labourant jusquà une profondeur de 30-40 cm.
+* Former des planches de 1 à 1,2 m de largeur (pour faciliter lentretien) et surélevées de 10-20 cm, de préférence en formant un bourrelet sur les côtés.
+* Fournir des installations de drainage adéquates. Lorsque lirrigation se fait par inondation temporaire, des canaux dirrigation sont installés.
+* Appliquer du fumier (seulement sil est bien séché), ou un engrais composé, selon le cas (cela nest pas indispensable pour les lits ou les récipients de germination).
+* Après préparation, maintenir les planches irriguées pour permettre aux graines de mauvaises herbes de germer; désherber fréquemment et ratisser légèrement la surface pour permettre au plus grand nombre possible de graines de germer.
+
+Généralités concernant le semis:
+* Les graines doivent être semées, comme on la déjà précisé, dès leur arrivée.
+* Il faut semer les «noyaux» intacts, cest-à-dire quil ne faut pas enlever lenveloppe dure (endocarpe).
+* Placer les graines horizontalement, cest-à-dire ne pas orienter lune ou lautre des extrémités vers le haut ou vers le bas, à moins dêtre sûr de ce qui est préférable.
+
+Généralités concernant lombre et lirrigation:
+* Les publications concernant le neem ne mentionnent pas si les planches de semis doivent recevoir de lombre.Toutefois, étant donné que la régénération naturelle du neem se produit très abondamment là où il y a un couvert arboré, un peu dombre environ 40-50 % de couverture .-pourrait être bénéfique sil fait très chaud.
+* Lombre sur les planches de repiquage peut être bénéfique lorsque le temps est chaud, et de toute manière immédiatement après le repiquage. Réduire lombre progressivement car le plant ombragé souffrirait sil était exposé soudainement à la lumière directe du soleil. Durant la saison des pluies, on fera de lombre avec prudence en raison du danger de fonte des semis.
+* Il faudra irriguer si les semis ont lieu avant ou après les pluies. Durant les pluies, on pourra irriguer selon les besoins. Utiliser leau avec modération.
+* Il est indispensable dirriguer les planches de repiquage si celui-ci a lieu durant la saison sèche ou durant les périodes de sécheresse pendant la saison des pluies. Pour des raisons de sécurité, il est conseillé dirriguer les plants repiqués pendant au moins trois mois après le repiquage. Pendant les pluies, on irriguera selon les besoins. Durant la saison sèche, on continuera dirriguer en fonction de lintensité de la sécheresse et de la longueur de la saison dans chaque localité; on en jugera le besoin en fonction de lexpérience acquise sur place. Toutefois, lirrigation devra être maintenue à un minimum.
+
+Option 1 Semer directement sur les planches de pépinière:
+* Semer directement sur les planches en lignes espacées de 15-20 cm, et en laissant 5 cm entre les graines.
+* Semer la graine à une profondeur égale à son diamètre le plus petit. Sinon, semer de manière à ce quon puisse tout juste voir la graine, puis recouvrir dune couche de sable grossier, de 1 ou 2 cm dépaisseur.
+* Chaque source de semence nécessite 8-10 mètres carrés de planches, ou plus, cest-à-dire un total de 200-300 mètres carrés si les 27 sources de semences arrivent toutes.
+* Faire de lombre et garder la planche humide, mais pas trempée. Réduire lombre peu à peu et dès que possible une fois les plants bien établis.
+* Eclaircir selon les besoins en fonction de la germination et du développement des plants. Un espacement final idéal pour la production de stumps correspondrait à une moyenne de quelque 250-400 centimètres carrés par plant.
+* On aura fréquemment recours au paillage et au désherbage. Si lon cesse dirriguer durant la saison sèche, il faut protéger les planches de repiquage du dessèchement (les couvrir avec de lherbe, de la paille ou similaire).
+
+Option 2 Semer dans les lits de germination et repiquer:
+* Semer les graines avec un espacement de 1-3 cm sur un lit de germination fait de sable à grains moyens ou de sable fin. Semer les graines de manière à ce que lon voit juste la surface. Ne pas les recouvrir. La surface totale du lit de germination pour 27 sources de semences sera au maximum de 30 mètres carrés.
+* Protéger le mieux possible les lits des oiseaux et des rongeurs.
+* Faire de lombre sur les lits et les garder humides, mais pas trempés.
+* Dès quune graine commence à germer, cest-à-dire dès que la racine apparaît ou que la graine se soulève, il faut la transplanter sur la planche de pépinière en prenant soin de ne pas endommager la racine durant l'opération.
+* Lespacement initial peut être par exemple 10 x 10 cm si la germination est forte, et on pratiquera des éclaircies successives pour laisser un espacement final moyen denviron 15 x 15 à 25 x 25 cm selon le développement des plants durant la saison de croissance. Toutefois, si la germination semble sporadique, il faut planter à lespacement final. La surface totale de la planche de repiquage nécessaire dépendra de la germination obtenue, et il faut compter environ 150 mètres carrés pour une germination de 50 %.
+* Il faut faire de lombre après le repiquage. On la réduira progressivement à mesure que les plants sétablissent et selon les conditions météorologiques.
+* Entretenir les lits comme décrit plus haut.
+
+Option 3 Semer dans des récipients et repiquer les petits plants:
+* Semer dans des pots de polyéthylène ayant les dimensions suivantes: 10 cm de hauteur, 3-5 cm de diamètre (~ 5-8 cm de largeur à plat) dans un mélange de terre normale. Au lieu de pots, on peut aussi utiliser des tubes de la même dimension.
+* Dans la mesure du possible, préparer les pots 3 à 4 semaines avant le semis et laisser les graines de mauvaises herbes germer comme pour les planches de pépinière.
+* Mettre deux graines par pot. Eclaircir selon la germination; repiquer dans nimporte quel pot vide si nécessaire. Si lon utilise toutes les sources de semences, il faudra au maximum 13 500 pots.
+* Protéger le mieux possible les pots des oiseaux et des rongeurs.
+* Placer les pots à lombre et les garder humides, mais pas trempés.
+* Lorsque les plants atteignent 5-10 cm de hauteur (la racine pivotante ne doit pas avoir atteint le fond du pot) en gardant intacte la motte de terre repiquer dans les planches de pépinière avec un espacement de 15 x 15 cm à 20 x 20 cm (Sinon, se fonder sur lexpérience locale pour la hauteur des plants et lespacement). La surface totale des planches de repiquage sera comme pour loption 2.
+
+7. CONCEPTION ET AGENCEMENT DES PLANCHES
+
+Le Réseau ne prévoit pas de collecter des données sur la performance de croissance.
+
+Il faudra protéger le mieux possible la pépinière contre les dommages causés par les inondations, le feu et les animaux.
+
+Si lon ne peut assurer cette protection, il sera bon de faire deux ou trois répétitions (blocs), chacune contenant toutes les sources. Faire en sorte que chaque source de semences ne soit pas toujours placée à la même extrémité ou du même côté dune planche. Pour ce faire, il suffira de changer systématiquement la position des sources de semences.
+
+De plus, on laissera un espace supplémentaire entre les sources de semences pour quil ny ait pas de confusion concernant leur identité.
+
+Il faut compter et consigner le nombre total de graines semées et le nombre total de plants utilisables produits. Cette information permettra de vérifier que la variation génétique de chaque source de semences repiquée en champ est restée à un niveau acceptable.
+
+8. ÉTIQUETAGE
+
+lacer sur chaque source de semence une étiquette lidentifiant correctement. Utiliser le nom de la source de semence prescrit (voir section 2 ci-dessus). Ecrire sur les étiquettes avec de lencre à lépreuve des intempéries ou un produit similaire et sassurer que les étiquettes ne peuvent être détachées facilement.
+
+9. PRÉPARATION DES PLANTS AVANT LE REPIQUAGE EN CHAMP
+
+Lorsque le sol du site dessai est humide jusquà une profondeur de 25-30 cm, ou selon lexpérience locale, le repiquage peut commencer.
+
+Dès que les plants ont été arrachés, ils sont placés dans un endroit ombragé et si nécessaire protégés dune dessiccation ultérieure. Les stumps sont préparés dès que possible comme suit:
+* Pour pouvoir devenir des stumps, les plants doivent avoir les dimensions suivantes: minimum 10 mm - mieux 20 mm au collet; longueur minimale de la tige 40-50 cm, mieux 100 cm (en Inde, des stumps de deux ans ont mieux survécu que des stumps dun an plus petits).
+* On soulève les plants à laide dune bêche bien affilée, la racine pivotante est taillée durant le processus mais on laisse une racine dau moins 30-40 cm.
+* Tailler encore la racine pivotante pour garder (25-) 30 cm au minimum en dessous du collet.
+* Les racines latérales sont taillées selon les besoins pour faciliter la plantation, selon la méthode employée, c'est-à-dire en fonction de la largeur des trous.
+* La tige est élaguée de manière à laisser 20-30 cm de tige au-dessus du collet et on coupe toute branche et toute feuille latérales le plus près possible de la tige, sans endommager la tige. Cela laisse un nombre suffisant de bourgeons pour le rejet. Si la tige est trop longue, le vent peut faire plier les plants. En Inde, on ne laisse que 2,5 cm de tige avec apparemment de très bons résultats.
+* La partie radiculaire du stump doit être immédiatement recouverte de boue et enveloppée dans des feuilles humides avant dêtre emballée dans des paniers ou des caisses contenant chacun 50 à 100 stumps. Lexposition des racines à la dessiccation peut réduire sensiblement la capacité des plants de survivre après le repiquage.
+
+Les stumps préparés de cette manière peuvent être entreposés pendant quelques jours à lombre sur le site de plantation ou à côté.
+
+(Au Soudan, avec 400-600 mm de pluie, on arrache les plants avec une motte de terre et on coupe les tiges pour laisser 30-60 cm, mais on ne fait pas démondage par la racine).
+
+- Mars 1995 -
+
+
+Note:
+
+1 Mr. Vichien Sumantakul, Senior Researcher, Silvicultural Research Division, Forest Research Office, Royal Forest Department, Bangkok 10900, Thaïlande.
+Mr. Rajendra B. Joshi, Executive Director, Forest Research and Survey Centre, P.O. Box 3339, Kathmandu, Népal.
+Prof. Dr. Le Dinh Kha, Director, Research Centre for Forest Improvement, Forest Science Institute of Vietnam, Chem Tu-Liem, Hanoï, Viet Nam.
+Mr. E.B. Lauridsen, Senior Researcher, Danida Forest Seed Centre, Krogerupvej 3A, 3050 Humlebaek, Danemark.
+
+Top Of Page

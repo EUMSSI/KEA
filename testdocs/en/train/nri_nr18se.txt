@@ -1,0 +1,1226 @@
+<title>Small Scale Vegetable Oil Extraction</title>
+<section>Acknowledgments</section>
+The authors:
+S. W. Head
+A. A. Swetman
+T. W. Hammonds
+A. Gordon
+K. H. Southwell
+R. V. Harris
+NRI
+Natural Resources Institute
+Overseas Development Administration
+© Crown copyright 1995
+The Natural Resources Institute (NRI) is an internationally recognized centre of expertise on the natural resources sector in developing countries. It forms an integral part of the British Government's overseas aid programme. Its principal aim is to alleviate poverty and hardship in developing countries by increasing the productivity of their renewable natural resources. NRI's main fields of expertise are resource assessment and farming systems, integrated pest management, food science and crop utilization.
+NRI carries out research and surveys; develops pilot-scale plant, machinery and processes; identifies, prepares, manages and executes projects; provides advice and training; and publishes scientific and development material.
+Short extracts of material from this publication may be reproduced in any non-advertising, non-profit-making context provided that the source is acknowledged. Permission for commercial reproduction should be sought from: Publishing Manager, Publishing and Publicity Services Group, Natural Resources Institute, Central Avenue, Chatham Maritime, Kent, ME4 4TB, United Kingdom.
+Cover illustration: Sunflower (Helianthus annuns L.) Reproduced by kind permission of The Royal Botanic Gardens, Kew.
+Printed by Hobbs the Printers, Totton, Hampshire.
+Price £15.00
+No charge is made for single copies of this publication sent to governmental and educational establishments, research institutions and non-profit-making organizations working in countries eligible for British Government Aid. Free copies cannot normally be addressed to individuals by name but only under their official titles. Please quote CRP4 when ordering.
+Natural Resources Institute
+ISBN: 085954-387-0
+<section>Preface</section>
+Oilseeds are the major source of edible oils. The oil-cake remaining after the greater part of the oil has been extracted is a valuable source of protein for animal feeds. Nutritionally, oils provide the calories, vitamins, and essential fatty acids in the human diet in an easily digested form. Oils are used in cooking to enhance the flavour and texture of food. It has been estimated that while 30% of malnourished children in developing countries suffer from a lack of both energy-producing and protein foods, the other 70% suffer from a lack of calories which could be obtained largely from oils and fats. The per caput consumption of fats in tropical Africa is roughly one-quarter of that in North America. Only a small number of developing countries have surpluses of vegetable oils for export. Malaysia and Indonesia export palm oil, the Philippines export coconut oil, and Brazil and Argentina export soy-bean oil. In most developing countries, vegetable oils are in short supply
+with the rising demand due largely to population growth. The need to import uses up scarce foreign exchange.
+Most developing countries have large-scale oilseed processing facilities which are generally located near large towns. Oilseeds grown in rural areas are normally transported to the urban oil mills for processing, but poorly maintained roads and vehicles make the transporting of oilseeds from rural areas to urban oil mills both difficult and costly. Haulage of cooking oil back to rural areas presents the same problems. The high urban demand for vegetable oil leads to shortages in rural areas. Oil that does reach the rural areas is sold at a much higher price than in the large towns.
+Oilseeds are grown for cash and subsistence purposes. Local small-scale oilseed processing offers a simple way for rural populations to make oil using their own resources. There are a number of ways in which vegetable oil can be extracted on a small scale from oilseed. Examples of some basic oilseed extraction methods are:
+o oil extraction methods using water
+o manual methods using kneading
+o hand-operated presses
+o ghanis
+o expellers
+These methods may be used to process up to 100 kg of seed/in and are fully discussed later in this publication. The suitability of each method depends on individual requirements. The process offering the most efficient oil extraction is not always the most suitable option. An oilseed processing venture based on an apparently suitable technology can subsequently fail because it is not suited to the local culture. Success depends on assessing the local conditions which determine the scale of the operation required. These include the availability of power, the amount of seed available, the seed type and the seed/oil price ratio. Equally important are local conditions, the availability of support services, and good management skills. Careful consideration of these local circumstances is essential for the selection of the most suitable oilseed processing operation.
+Some of these processes do not require expensive equipment and can be operated at a household level. For example, an individual woman householder processing only a small quantity of seeds per day to provide her family's food needs would probably find that a simple method using water to extract the oil would be suitable. At the other end of the scale, an expeller which requires a substantial capital investment would be more suitable for a dynamic co-operative producing large amounts of seed. Since the investment incurred has to be recovered from the proceeds of the operation, careful financial management is essential.
+Many oilseed expelling operations can be run successfully by custom milling. An oilseed processor may extract oil as a service for the oilseed producer in exchange for a portion of the oil and the oil-cake. In this way, cash transactions between the expeller operator and the seed supplier are minimized. In addition, the farmer has a local, assured outlet for his seed, oil-cake to feed his animals, and a substantially improved supply of cooking oil for home consumption. The farmer also has the opportunity to sell surplus oil locally instead of relying only on seed marketing, as a source of cash income. Likewise, the oilseed processor can sell the oil and cake received in payment for the processing service.
+Careful financial assessment is necessary to determine whether the operation is able to make an adequate profit after covering all the costs, including interest payments of any loans incurred. All this needs to be done before committing any financial resources.
+It must be borne in mind that the advice offered by commercial manufacturers of oilseed processing machinery may be inappropriate as often they will be unable to take all these local considerations into account. Some manufacturers will not have the local knowledge required to help people with the specific operating problems encountered when using unfamiliar new equipment. Sometimes, installed equipment is left unused because the process does not fit into traditional social patterns. Several examples exist of equipment being set up in developing countries and then left unused because the cost of running the equipment could not be met from the proceeds of the operation.
+We hope that this publication, written by processing technologists and socio-economists, giving information on technologies available and offering guidance drawn from experience in developing countries world-wide, will assist readers in choosing the most suitable oilseed processing option for a given situation.
+<section>Chapter 1 Oilseed composition</section>
+This section is intended to provide the reader with a basic understanding of the composition of oils and fats, and to define many of the terms used in their processing. A complete understanding of its content, although desirable, is not essential.
+Oilseeds can be thought of as mixtures of oil, meal and water. Processing removes the bulk of the oil and the product remaining is called oil-cake. Oil-cake contains the residual oil, all of the meal and some water. Since the meal is mainly composed of protein, carbohydrate and fibre, oilseed-cakes in general are excellent materials for animal feeds. Table 1 shows the composition of copra (dried coconut kernel) by weight and weight percentage terms at various levels of moisture content.
+Table 1 Composition of copra at various levels of moisture
+Composition by weight
+% Composition
+Oil
+Meal
+Water
+Total
+Oil
+Meal
+Water
+Wet copra
+Underdried copra
+Dry copra
+Copra (moisture free)
+Copra is usually considered to be dry when its moisture content is 6%. A typical oil content of dry copra is 65%, leaving a balance of 29% for the meal content.
+The figures is Table 1 show the changes in oil and moisture content as a sample of copra dries out. The figures are composed so that the weight of 'dry' copra is 100 parts. Thus, 117.5 kg of wet copra containing 55.3% oil and 20% water will dry down to 100 kg of 'dry' copra containing 65% oil and 6% water. In other words, 100 kg of copra at 20% moisture only contains 55.3 kg of oil whereas 100 kg of 'dry' copra will contain 65 kg.
+Because of the variation of oil content with moisture content, comparisons of oil contents are always made on a dry weight or 'moisture free basis' (MFB). The oil content of copra (MFB) in Table 1 is 69.1%. The following formula may be used to convert oil content (MFB) to oil content at any given moisture content:
+% oil (at x% moisture) = % oil (MFB) multiplied by (100-x) / 100
+Thus, if the oil content of groundnuts (MFB) is 50%, then the oil content at 10% moisture is:
+50 x (100-10) / 100 =45%
+<section>Extraction efficiency</section>
+Extraction efficiency (EE), an important quantity in oilseed processing, is the percentage of oil extracted in relation to the amount of oil present in the seed. If 100 kg of sunflower seed (oil content 32% MFB) are processed to yield 29 kg of the oil, then the extraction efficiency is:
+29 x 100 / 32 = 90.6%
+Extraction efficiency tends to be related to the oil content of the seed. It is difficult to achieve high levels of efficiency with seed of low oil content. However, in general, large-scale processing operates with an EE of over 90%, whereas in small-scale processing, EE is usually in the range 60-65% and rarely exceeds 80%.
+<section>Oils and fats - origin and definition</section>
+Oils and fats are basically similar in composition. They are substances used by plants and animals mainly as an energy store. Some of their components are essential to metabolic processes. Many seeds are rich in fats which act as a food supply to the young seedling. The difference between an oil and a fat is that an oil is usually liquid at ambient temperature while a fat is solid. However, this simple definition can result in anomalies; coconut oil, for example, which has a melting range of 22-24°C, is usually a liquid oil in the tropics but a solid fat in temperate climates.
+<section>Triglycerides and fatty acids</section>
+Saturated fatty acids
+Monounsaturated fatty acids
+Polyunsaturated fatty acids
+Structures of some specific triglycerides
+Fatty acid composition
+Triglyceride deterioration and free fatty acids
+Oils and fats are obtained from a wide variety of sources and each one has its own individual properties. They are, however, all of the same chemical type. The basis of a fat is a substance called glycerol which has a chemical formula that can be illustrated by the shape shown opposite.
+Each of the 'arms' of this shape can combine with another substance known as fatty acid, to build up a molecule rather like the following:
+Because of the way in which its composition is built up, the chemical substance having this form is known as a triglyceride, and all oils and fats are made up of a mixture of these triglycerides. A number of different fatty acids exist and, to a large extent, the character of a particular oil or fat depends on the actual fatty acids present in the individual triglyceride molecules. Some of these component fatty acids are longer than others and they can all combine with a glycerol 'arm':
+In addition, there are three different types of fatty acids: saturated, mono-unsaturated and polyunsaturated.
+Saturated fatty acids
+In their simplest form, fatty acids are made up of a linear chain of carbon atoms linked to a group which provides the acidic properties. Such fatty acids are said to be saturated; the most common examples being lauric, myristic palmitic and stearic acids. These contain different numbers of carbon atoms and can be represented as follows:
+Note that all these acids are solid at normal ambient temperatures and that their presence in high proportions in a triglyceride mixture is likely to make it solid.
+Monounsaturated fatty acids
+Sometimes the carbon atom chain contains what chemists call a double bond. A fatty acid containing one double bond is said to be monounsaturated, the most common example being oleic acid which, like stearic acid, has 18 carbon atoms.
+Polyunsaturated fatty acids
+Some fatty acids have two or three double bonds and these are said to be polyunsaturated fatty acids. Linoleic and linolenic acids are common examples of polyunsaturated fatty acids. They have the same number of carbon atoms as stearic acid, but linoleic acid has two double bonds and linolenic acid has three. The relationship between the common fatty acids with 18 carbon atoms (C18 acids) can be represented as follows:
+It can be seen that the presence of a double bond lowers the melting point. Thus, a triglyceride mixture containing a high proportion of monounsaturated or polyunsaturated fatty acids is likely to be liquid.
+Structures of some specific triglycerides
+The following triglycerides are just some of the many that are found in palm oil.
+The overall triglyceride composition is such that palm oil is liquid or semisolid at tropical temperatures but solid in temperate climates.
+Fatty acid composition
+Analytical chemists are able to measure the overall proportions of the different fatty acids present in an oil or fat. The fatty acid composition of the oil tends to be characteristic of the oilseed from which it is extracted. The fatty acid compositions and melting points of oils from different oilseeds are given in Table 2, together with the oil contents of the seeds.
+Triglyceride deterioration and free fatty acids
+Oils and fats generally keep quite well, but the following two types of deterioration can occur under poor storage conditions: oxidation, when the fat is attacked by the oxygen present in the air; and hydrolysis, when the fat is attacked by water. Usually hydrolysis occurs in the presence of an enzyme which either exists naturally in the oilseed, or is present in moulds which grow on it.
+Oxidation
+Oxygen in the air usually attacks the triglyceride close to the double bonds in the fat.
+Thus, fats with few double bonds are more stable than fats with a large number of double bonds. The process of oxidation in oils and fats is accelerated by the presence of trace metals such as iron and copper. Mild steel equipment is frequently used in oilseed processing and should be kept free from rust as far as possible. Brass and copper induce a much more powerful oxidizing action than iron and so fittings made from these metals should never be used.
+Hydrolysis and free fatty acids
+Attack by water in the presence of an enzyme splits the fatty acid away from the triglyceride. Eventually, glycerol and free fatty acid (FFA) will be obtained, but intermediate stages, where only one or two of the fatty acids have been split away from the triglyceride, will also be present in the fat.
+Hydrolysis can occur both in oilseeds and in extracted oil. Hydrolysis in oilseeds is accelerated by the presence of moulds. It is therefore very important to dry oilseeds to a moisture level which does not encourage mould growth.
+The level of FFA in an oil extracted from a good quality oilseed is very low and so FFA content is used as a guide to the extent of deterioration in the quality of oils. Coconut oil from high quality copra can have FFA levels in the region of 0.1 to 0.2%, but levels as high as 5% can occur in oil from poor quality copra. Even good quality oil will deteriorate quickly if it contains oilseed residues or is stored in wet drums. To avoid deterioration, particles of seed debris should be removed from the oil as soon as possible after extraction and the clarified oil stored in clean dry containers.
+Acknowledgment
+The authors wish to thank Peerless Food Products, a division of Pura Food Products Ltd, UK, for permission to use their pictorial concept of triglyceride structure in this publication.
+<section>Chapter 2 Oilseed marketing</section>
+<section>Introduction</section>
+The techniques available for extracting oil from oilseeds will be described in subsequent chapters. The choice of technique may be determined by the amount of oilseed or financial resources available, or by the size of the planned operation. However, it will usually be necessary to consider financial and social aspects before choosing a technique. It is impossible to list all the factors which need to be considered as individual circumstances play a large part in the choice. The sections below are intended to provide a guide to the approach which should be adopted.
+<section>The oilseed market system</section>
+The oilseed economy
+Sources of information
+Marketing
+The oilseed economy
+Before deciding on the type and scale of processing technology to be used, all the factors which affect the oilseed economy of the area should be investigated. These should indicate where the venture will fit in and how it will relate to the existing overall production and marketing system. They should also indicate whether predictions or assumptions on, for example, the sale of oil or supply of seed, are realistic. The investigation should cover the following aspects:
+o the quantities of oilseeds available, giving some indication of who produces them (estates or small-holders);
+o how the oilseeds are used, including the importance of different products and the quantities of oilseeds used in them;
+o the quantity of edible oil available, including a rough indication of the importance of alternative sources (imports, major factories, small expellers in provincial towns, and home production);
+o the geographical distribution of production, processing and markets, and how easily these areas are linked by road or rail or across borders;
+o who consumes the oilseeds and their products and the importance of oilseeds in expenditure and diet;
+o why the production, processing and consumption patterns work, covering price structure, food and cash requirements, taste preferences, marketing, availability of substitutes, under-utilization of existing processing facilities, scale of processing operations, and production and processing constraints;
+o the effects of government policies, including subsidies, taxes, import restrictions and exchange rate levels, and the effect of any changes in policy; and
+o seasonal effects and variation, with some assessment of how predictable changes are and what causes them.
+Sources of information
+The degree of detail required will depend on the nature and scale of the proposed venture and the magnitude of its effect on the existing circumstances. In most cases, this information can be gathered from existing data sources and discussions with local communities, but its reliability and comprehensiveness needs to be assessed. Particular attention should be paid to the effect of any unrecorded trade, cursory treatment of the informal sector, and recent changes in the oilseed industry.
+Observations of existing practices, and discussions with those involved, will yield important information on oilseeds, the quantities processed, seasonal variation, labour availability, electricity supply and costs. Depending on the circumstances, various methods can be used to acquire this information, such as informal interview and observation, or formal questionnaires. Rapid rural appraisal techniques can be useful where little documentation on, for example, household behaviour, exists. For a more detailed discussion of these techniques, see Gilling and Cropley (1993).
+The characteristics of the prospective oilseed processing venture will have a major influence on the scale and type of technology selected and will vary greatly according to whether the venture is to be undertaken by individual households, farmers, farmer groups, rural communities, traders, women, men, entrepreneurs, formal established co-operative societies, or urban or rural dwellers. Each group will have different access to capital, transport, skills, communications, raw materials, information, markets and utilities. All these considerations will influence the cost, size and complexity of the venture. The following list of questions may be useful.
+o Are oilseeds already being processed?
+o Is the scale of operation realistic or suitable?
+o What are the marketing expectations?
+o Is group or individual operation planned? If group, is there experience of group operation?
+o What is the access to power supply, water, raw materials and markets?
+o What are the financial resources or constraints, and is there access to credit?
+o Is there access to technical, managerial or financial skills?
+o Do seed supply, markets, labour availability and transportation vary seasonally?
+o Are there social, family or community considerations which might affect processing activities?
+Marketing
+Skills in marketing and access to market information are crucial to a successful business. They are of less concern where processors are dealing with markets with which they are familiar, but they may become crucial if output expands or if new products are introduced. Project planners can assist by finding ways for processors to gain marketing experience. It is particularly important to determine whether the enterprise will be critically dependent on one buyer and whether it will be able to influence prices.
+Market research should not only include quantitative factors, such as prices and volumes, but should also consider the perceived product quality; different processing or refining methods may alter the flavour, colour, or physical appearance of the oil and oil-cake, thus affecting their value. The greater the shift from existing market conditions in terms of volume, form, timing and location of products for example, the more critical the marketing aspects are likely to be.
+Discussions should be held with as many as possible of the people and groups involved in the production and marketing system, to enable a thorough understanding of the current situation and of how the proposed processing venture may alter it. These discussions should involve the agricultural extension agents who advise the farmers, local workshop managers who may be called upon to manufacture equipment spares or carry out maintenance, farmers who will supply the raw materials, existing traders, and those who may wish to assist in marketing the products. All these people may influence the decision-making process, and their support or direct participation will be important to the long-term success of the venture. Private workshops should be involved as early as possible in the manufacture of processing equipment as this will help to provide realistic cost estimates, and draw attention to manufacturing constraints or the need for imports.
+Social and environmental factors
+Development organizations intending to support such oilseed processing ventures may wish to consider social, environmental and economic factors as well. As traditional oilseed processing is often carried out by women, the effect the project would have on their well-being should be considered.
+Environmental or public health consequences of existing or proposed processing work may also need to be evaluated.
+Economic factors
+Development agency planners may be interested in an economic analysis, as well as a financial analysis (see next section). The economic analysis measures the contribution which a project will make to the overall economic development of a country or region, whereas in the financial analysis the enterprise is considered from an entrepreneurial perspective.
+Other factors
+There are several other factors, broadly classified as non-technical and nonfinancial, which may affect the success of processing ventures and therefore need to be noted.
+It should be established whether the venture makes assumptions about the literacy and numeracy skills of the operators, whether training is needed, and where such training can be obtained if required.
+Where a community or co-operative activity is planned, the participants may not feel in control of the operation if they have to depend on outsiders to do their accounts. Such a system may be vulnerable to abuse.
+Another important factor is management, particularly if a group is to run the venture. The existing management experience within the group, the need for training input, and the type of training required, would need to be assessed. Other projects and enterprises in the locality may be useful sources of information on the best management system.
+There are a variety of other social factors which may be relevant. For example, if the project is to be carried out by women, it is important to consider the other demands on their time and labour, and whether it has been assumed that they can work or trade in areas traditionally dominated by men.
+Equipment
+For larger scale ventures it is important that a realistic assessment is made of the local manufacturing sector and its ability to meet the requirements for both initial equipment and subsequent spare parts. It is possible to import machinery but it is more likely to be affordable and accessible if it can be supplied and maintained by a local industry. Machine operators can be trained in the basics of regular maintenance operations, but for some processing technology, such as small-scale expellers, there may be an occasional need for more skilled inputs. Where machinery is locally made and supplied, the manufacturer should be able to meet these occasional maintenance requirements, but consideration should be given to this when planning a venture in a remote location. Where operators are given training at the beginning of a project, consideration also needs to be given to the transfer of their skills should personnel change.
+<section>Financial analysis</section>
+Financial analysis is necessary for any enterprise. There should be a feasibility study of the processing proposals, including consideration of the relative cost of the oilseeds, the values of the oil and oil-cake, the likely costs of equipment and buildings, and the labour needed to operate the processing technology. This study should also help to clarify the operational assumptions and highlight areas of uncertainty and undue optimism.
+It is not the purpose of this manual to cover financial analysis in detail. Readers interested in this are referred to one of the many books on the subject; Gittinger (1982), and UNIDO (1986), give comprehensive accounts of financial and economic analysis. In the following discussion, some of the main issues to be considered are outlined and some frequently-used terms explained.
+There are several fairly standard financial 'tests' and a series of information requirements. Financial analysis is concerned with commercial viability and whether the enterprise is profitable for the 'owner-operator'. Even when the output is for home consumption, there will still be important financial criteria which affect the uptake of the technique. It must be stressed that the economics of vegetable oil extraction are highly site-specific, with costs and revenues varying appreciably according to location.
+Factors which will have a major influence on the viability of an oilseed processing venture are listed below.
+o The market prospects for the oil and oil-cake in relation to their acceptability and to the prices and availability of competing products.
+o The price and availability of oilseed.
+o The yields of oil and oil-cake.
+o The capital costs of the venture (including the delivered cost of the equipment, spares, and motors, and the cost of any building and site work.
+o The working capital requirement.
+o The operating costs (including raw materials, labour, maintenance and spares, energy, transport, packaging and overheads).
+Other costs which have to be taken into account include the installation and commissioning of the plant, taxes, and personnel training. Contingency allowances should also be made. The availability of finance for equipment purchase and working capital, and the provision of technical and business back-up services need to be assessed. It is essential to establish an efficient accounting system to prevent mishandling of stock and funds.
+Technical data on equipment (throughput and yields of products) can be combined with costs and prices to project the 'net income stream'. This should highlight any obvious financial problems and can be used to calculate the 'pay-back period' (i.e. how long it takes to recoup the initial investment). This information can also be used to calculate the 'financial rate of return' (see Gittinger (1982), or other references) which the prudent investor will wish to compare with other options. Another measure of project worth is 'net present value' which enables a comparison of the income streams of different projects to be made. These different measures of project worth can be used either in combination, or separately, depending on the size and nature of the investment or on the pre-occupations of the user group.
+A 'sensitivity analysis' is also important. This means that the cost and income streams should be recalculated, using alternative values for anything which is not very precisely known (such as the number of days in a year that processors will be able to operate the proposed technology), or for things which are highly variable (such as raw material costs and product prices which may be affected by the weather). The purpose of the sensitivity analysis is to anticipate, as accurately as possible, costs and income before the investment decision is actually made. Much of the information required will have been obtained during the information-gathering exercise discussed earlier.
+References
+GILLING, J. and CROPLEY, J. (1993) Needs assessment for agricultural development: practical issues in informal data collection. NRI Socio-economic Series 1. Chatham, UK: Natural Resources Institute.
+GITTINGER, J. P. (1982) Economic Analysis of Agricultural Projects. 2nd edn. Baltimore, US: Johns Hopkins University.
+UNIDO (1986) Manual for the Preparation of Industrial Feasibility Studies. Vienna: UNIDO.
+<section>Chapter 3 Oil extraction</section>
+<section>Commercial oilseed processing</section>
+The following paragraphs are included to give the reader an idea of the scale and number of operations required to extract oil from oilseeds at a commercial level, and how they relate to small-scale operations. The main difference is that commercial mills refine the oil before offering it for sale as an edible product. It must be stressed that good quality unrefined oils produced by small-scale methods are in no way inferior to refined oils, and that they are, in many cases, preferred by the consumer as they retain the flavour of the oilseed.
+Figures 1 and 2 are flow diagrams showing various operations common to the processing of many oilseeds. Oilseeds are delivered to the processing mills by road, rail and ship. Typically, commercial mills can process about 8000 t of oilseed per month. The oilseed is often stored for several months before processing and needs to be kept at a moisture content low enough to prevent deterioration by moulds which grow at high moisture contents. Moisture content determinations are carried out on seed batches on delivery at the factory. The mills are equipped with their own laboratories to carry out the analysis. If necessary, the seeds are then dried, ideally using special dryers, to the moisture content required for safe storage.
+Seeds are stored in special silos which are often fitted with ventilators so that air can be circulated through the oilseed to keep the moisture level and temperature constant. This is necessary to prevent localized high moisture levels being produced which would encourage mould growth. To accommodate 2000 t of seed, a silo 10 m in diameter and 36 m high will be required. Conveying equipment is used to transport seed from the silos to the factory processing equipment. Either screw- or belt-conveyors are used to do this.
+In the factory the seeds are subjected to a number of processing steps prior to oil extraction. The oilseed is cleaned to remove trash, dirt, sand and metal pieces. The oilseed is then weighed for accurate control of oil and cake yield. The shell or seed coat is often removed from the oilseed kernel. This process is known as decortication and, as well as raising the oil content of the raw material entering the extraction machinery, it ensures a higher protein content in the oil-cake. Size reduction of the seed is sometimes followed by rolling to produce flakes which are then conditioned. During conditioning,
+Oil is extracted from the treated seed particles in continuous screw expellers. In very large plants this operation is used as a pre-treatment before solvent extraction. Solvent extraction removes the oil from a flaked seed or oil-cake by treating them with a solvent in which the oil is soluble. The solvent is removed by heat and vacuum to obtain the crude oil. Expellers will leave a residual oil content in the oil-cake of about 5-8%. Solvent extraction removes nearly all the oil, leaving only about 0.5% in the residue. Screw expellers in large mills can usually process between 10 and 100 t of oilseed in 24 h. The processing capacity of solvent extractors ranges between 100 and 1000 t/24 h.
+The crude oil from the expeller is passed through screens and allowed to settle in tanks before it is filtered through a filter press. The seed residue from the settling tanks is known as 'fools'. Residues from the screens and the filter press, together with the 'fools', are re-processed in the expeller by mixing them with the fresh oilseed feedstock or oil-cake. Oil-cake is frequently passed through the expeller again to remove more oil.
+As mentioned in the previous section, oil is a mixture of triglycerides which can break down on hydrolysis to produce fatty acids and glycerol or partial glycerides. Hydrolysis occurs in oilseeds by the action of enzymes present in the seeds which can become active when seeds are damaged by rough handling. If fatty acids are present they can impart an unpleasant taste to the oil and make it unpalatable. Enzymes are destroyed by heat and this is another reason why oilseeds are heat-treated prior to expelling.
+Crude oil is refined in three main steps, neutralization, bleaching and deodorizing, which remove fatty acids, colour, and off-flavours, respectively. Each of these processes involves heating the oil to a certain extent. The refining processes may be carried out in stages using batch plant (see Figure 3), or by using equipment providing continuous operation. The fatty acids are neutralized by mixing the oil with a solution of caustic soda. The caustic soda solution reacts with the fatty acids to produce soap which can be washed from the oil with water. The soap solution, known as soapstock, can be used for soap manufacture. The oil is then bleached by adding a powdered clay known as 'Fuller's earth'. This operation removes coloured pigments and produces a light-coloured oil. Deodorization is carried out by passing high pressure steam through the oil under vacuum to remove the taints and odours present in the oil at the beginning of the refining process, and those produced by
+the neutralizing and bleaching stages. A bland-tasting oil is finally obtained.
+Oil-cake is sold to animal feed compounders who blend it with other ingredients to make rations for farm animals.
+<section>Small-scale oilseed processing</section>
+Various small-scale techniques are available to enable people in rural areas to process their own oilseeds locally. Careful consideration is needed to select the system that will best suit the local circumstances. These circumstances include the scale of operation required, the availability of a power source, and a number of other factors. The options available for small-scale oilseed at levels of up to 100 kg seed/in include small powered expellers, manual- or animal-powered mechanical presses, and simple procedures using water to separate oil from oilseeds.
+The following five basic oilseed processing methods are available and range from those suitable for use in domestic households, to those more suited to small-scale factories:
+o oil extraction methods using water;
+o manual methods using kneading;
+o manual presses;
+o ghanis; and
+o expellers.
+The ghani is, in effect, a mechanized version of the kneading method.
+Typical maximum operating pressures associated with the different types of presses are as follows:
+p.s.i.
+kg/cm²
+Hand bridge press
+Small hydraulic press
+Ram press
+Small-scale expeller
+Medium-scale expeller
+Full-press commercial expeller
+The pressures generally reflect the levels of oil extraction efficiencies achieved with the different types of equipment. However, the addition of a proportion of water to the ground oilseed can improve oil extraction efficiency at low pressures.
+The general processing steps involved in oilseed extraction are shown in Figure 1, but actual practice varies according to the nature of the seed. In this section these processes and the major items of equipment involved are discussed. Where possible, complete process descriptions are given in Chapter 4, which deals with individual oilseeds.
+<section>Decortication</section>
+Some oilseeds have a hard outer shell which must be removed before processing. This process is called decortication. Palm kernel is an example of a seed that must be decorticated prior to processing. The extraction of oil from other oilseeds which can be processed without decorticating them first, such as sunflower, may be aided by removing a proportion of the hulls before processing.
+<section>Seed cleaning</section>
+It is essential to winnow and sieve oilseeds, prior to expelling, to remove as much dirt, dust, sand and small stones as possible. The presence of sand results in high wear on critical components of expellers such as cages, wormshafts and chokes. Using clean oilseed for expelling will greatly increase the time that the expeller can be used before replacement parts are needed.
+<section>Size reduction</section>
+Generally, small oilseeds (such as sesame or rapeseed) can be processed directly, while larger seeds (such as copra or shea nuts) need to be ground before processing. At the domestic level, grinding is usually carried out with a pestle and mortar (Plate I) while larger quantities may be ground in a village maize mill (Plate II). Hand-operated meat mincing machines can also be used in certain circumstances. The most common type of powered mill used for small-scale operations is the hammer mill.
+<section>Rolling</section>
+Rolling a seed generally results in an improvement in oil extraction by increasing the surface area of the seed while at the same time retaining channels for the flow of oil. The flakes should be very fine and preferably thinner than 0.1 mm. Rolling before processing in a bridge press is said to increase oil yields by 10% for palm kernel, groundnut and sunflower (UNATA information sheet).
+<section>Conditioning</section>
+Conditioning or 'cooking' oilseeds involves heating the oilseed in the presence of water. The water may be that which is naturally present in the seed, or it may be added. The changes brought about by conditioning are complex but include the coalescence of the small droplets of oil, present in the seed, into drops large enough to flow easily from the seed. In addition, higher processing temperatures improve oil flow by reducing the viscosity of the oil.
+Oilseeds are nearly always conditioned before large-scale expelling. Small-scale expellers minimize the need for pre-treatment by using a relatively fast wormshaft speed which shears the oilseed as it passes through the expeller and produces frictional heating within the expeller barrel. This assists oil expulsion by raising the temperature of the oilseed. However, even when using a small-scale expeller, oil extraction will be assisted by heating and/or steaming the oilseed before expelling. Heat treatment is essential for some seeds with a low fibre content such as groundnuts; they must be heated and moisturized before expelling or the machine will produce an oily paste instead of oil and cake.
+Some companies which manufacture small-scale processing equipment for oilseed processing refer to their seed conditioners as 'seed scorchers'. This is a misleading name because scorched oilseeds will yield oils having characteristically dark colours and burnt tastes which are not normally desirable. The Natural Resources Institute (NRI) has developed an inexpensive oilseed conditioner based on a small cement mixer (see Plate III).
+<section>Oil extraction</section>
+Wet extraction methods
+Manual methods using kneading
+Manual presses
+Ghani
+Expellers
+Wet extraction methods
+In wet extraction methods water is used to extract oil from oilseeds. The distinction should be made between wet methods and water-assisted methods of oil extraction. Wet extraction methods involve the use of a relatively large amount of water so that the oilseed is suspended in the water and the extracted oil floats on the surface.
+Water-assisted methods involve the addition of a small quantity of water to the oilseed before the oil is extracted by manual kneading. These methods are discussed later. They are not classified as wet methods because all the water used is absorbed by the oilseed and no separate water layer is apparent.
+The hot water flotation (HOOF) method of edible oil extraction is traditionally used in the rural areas of many developing countries. Usually, decorticated oilseed is used. The oilseed kernels are heated and ground by pounding in a pestle and mortar. The ground seed is then suspended in boiling water and boiled for at least 30 min. Liberated oil floats to the surface. Further quantities of water are sometimes added after boiling to replace that lost by evaporation, and to encourage the oil to float to the surface. The oil is carefully scooped from the surface of the water using a shallow dish and is then heated over a fire to remove residual moisture.
+The advantage of the HWF method over other small-scale oilseed processing techniques, such as those using expellers or ghanis, is its simplicity. The equipment required (pestle and mortar, boiling pans, etc.) is readily available. However, oil yields tend to be low and the process can be time consuming and arduous. This is especially true if traditional pestle and mortar methods are used to grind the oilseed kernel. If long boiling times are used, fuel consumption will also be high.
+The above method may be applied to most oilseeds with varying degrees of success. Sources of oil, such as coconut and oil palm fruits, can be processed by traditional methods which make use of the water already present in the seed (see Chapter 4).
+Manual methods using kneading
+In common with the water flotation process, only simple domestic utensils are needed to extract oil by kneading. This method is used to process groundnuts traditionally in West African villages and is described in detail in Chapter 4. Water is added to groundnut paste and the mixture is stirred and kneaded by hand until the oil separates. The water plays a vital but obscure role in the extraction process. It is believed that the water displaces oil from hydrophilic, or 'water loving', surfaces in the ground seed.
+Manual presses
+A selection of the many different types of manual press employed in oilseed processing are illustrated in Plate IV and Figures 4-10. With the exception of the ram press, these can be used for all types of oilseeds. To get the best oil yields, pressure on the prepared oilseed should be applied slowly and increased gradually.
+The wedge press
+The wedge press, operated manually or by using either wind or water power, was widely used to press oilseeds during the late 18th and early 19th centuries in the West and in the Far East. The typical operating principle of a wedge press used during this period is shown in Figure 4. Figure 5 shows the design of a wedge press using trees as the end braces (Broadright, 1979). The wedges should be made of a very hard wood and are best driven in with a wooden mallet. Two wedges should be applied, one from each side, and these should be driven in simultaneously so as to avoid pushing both bags and wedges out of the press.
+The plank press
+The plank press represents the simplest mechanical pressing device used in oilseed processing. It consists of two long pieces of wood hinged at one end. The prepared seed, in a suitable woven container, is placed between the planks and squeezed by the application of pressure at the unhinged ends. Plate IV shows a plank press being used in Nepal for the extraction of rapeseed oil.
+Cage presses
+Cage presses have formed the basis of many small-scale processing operations in recent years and are sometimes called screw presses, but this name should be avoided as it can be confused with the continuous screw expeller. There are a number of cage press designs and four types are shown in Figures 6-9. In a variation of the version shown in Figure 9, the hydraulic jack is mounted above the pressing cage. This design is not recommended because of the risk that leaking hydraulic fluid could contaminate the oil and cake.
+The curb press The press shown in Figure 6 was designed by the Technology Consultancy Centre (TCC) at Kumasi in Ghana. It is a development of the 'Duchscher' curb press which was manufactured in Luxembourg and which has been widely used in Nigeria for extracting palm oil. The cage on the TCC press is made of two halves hinged on one side and locked together with a pin on the other. This enables the cage to be opened easily for unloading the oil-cake after pressing. This makes the press particularly convenient for processing palm fruits, but the central position of the screw inside the cage makes the press unsuitable for pressing other oilseeds.
+The bridge press In the bridge press, the press plate is mounted at the base of a screwed rod (often incorrectly referred to as a spindle) which runs in a nut set in the 'bridge' of the frame that surrounds the cage. The screwed rod is turned by a single cross-head bar providing two levers.
+Figure 7 shows the bridge-type cage press used by NRI. The design incorporates a thrust bearing which allows the screwed rod to rotate easily against the pressure plate. The original press used a 24 cm diameter cage and was designed to produce the relatively low pressures required for extracting oil palm fruits. To adapt the press to higher pressure use so that it could be used for a range of oilseeds, the diameter of the cage was reduced to about 15 cm together with a corresponding reduction in the diameter of the press plate. This reduction in the cage diameter increased the maximum pressure exerted on the seed from the 14 kg/cm² (200 p.s.i.) available in the larger cage, to 34 kg/cm² (500 p.s.i.) in the smaller cage. The increase in pressure obtained can be demonstrated as follows.
+The area of the press-plate for the larger cage is:
+p
+x 12 cm x 12 cm = 452 cm²
+The maximum pressure that can be exerted on this plate is 14 kg/cm². Therefore, the maximum force exerted at the end of the screwed rod on the pressure plate is:
+14 x 452 = 6328 kg, a little over 6 t
+The area of the plate in the smaller cage is:
+3.14 x 7.5 cm x 7.5 cm = 176 cm²
+Thus, the maximum pressure available in the smaller cage is:
+6328 kg/cm² = 36 kg/cm²
+Since the height of both cages is 200 mm, the capacity of the 150 mm cage is 3.5 l, and that of the 240 mm diameter cage is 9.01. Thus, increasing the pressure on the oilseed by decreasing the diameter of the cage results in a reduced cage capacity and hence reduces the amount of oilseed that can be processed.
+The scissor press This press (Figure 8) was designed by the Institute of Production Innovation (IPI) in Dar es Salaam, Tanzania, as part of a complete set of equipment for processing sunflower seed by hand. It is understood that this type of press can exert a force of 80 t.
+The hydraulic press A simple form of this type of press is shown in Figure 9. It was developed by KIT for processing shea nuts and was based on a 30 t lorry jack which exerted a maximum pressure of 125 kg/cm² on the seed. The cage capacity is 8 1.
+The ram press
+The prototype ram press was designed in 1985 by Carl Bienlenberg, an engineer working with Appropriate Technology International (ATI). The layout of this press is shown in Figure 10. A long, pivoted lever moves a piston backwards and forwards inside a cylindrical cage constructed from metal bars spaced to allow the passage of oil. At one end of the piston's stroke an entry port from the seed hopper is opened so that seed can enter the press cage. When the piston is moved forward, the entry port is closed and the oilseed is compressed in the cage. As a result, oil is expelled from the oilseed and emerges through the gaps in the cage. Compressed seed is pushed out through a circular gap at the end of the cage. The width of this gap, which can be varied using an adjustable pressure cone, controls the operating pressure of the press. The design of the press is such that it can achieve operating pressures greater than those obtained in most manually-operated cage presses, and as
+high as those in small expellers. The ram press has a low seed throughput but has the advantage of continuous operation.
+The ram press was developed in Tanzania specifically for processing a thin shelled high oil-content variety of sunflower seed known as 'Record'. Presently, the technique is being applied to copra, groundnuts and sesame. The original ram press, the Nand Singh type, had a large cage and normally needed two people to operate it. The Nand Singh press has now been replaced by two smaller versions, the CAPU and the CAMARTEC (see Appendix 2), which only require one operator. The CAPU press was designed by engineers from the Craftsmen and Artisans Promotion Unit, while the CAMARTEC press is the product of the Centre for Agricultural Mechanization and Rural Technology. The CAMARTEC press is a small machine designed to be easy for women to operate. The development of the ram press has been described in ATI bulletin No. 24, published in August 1992.
+Ghani
+A ghani (also known as a 'chekku' or 'kol') is a mortar and pestle device which grinds oilseed into fine particles and extracts the oil from it. Ghanis are used extensively in the Indian sub-continent to process mustard seed, sesame seed, copra and groundnuts. The mortar is fixed to the floor and is normally made from wood. The pestle can be made from either wood or stone. Usually the power source is a bullock harnessed to a long lever arranged to turn the pestle inside the mortar (see Plate V). A batch of oilseed is loaded into the mortar. As the bullock moves the lever around the mortar, the pestle grinds the oilseed inside. After the seed has been ground, a certain amount of water is added. The water combines with the ground oilseed, releasing oil which is expelled by the kneading action of the pestle through a hole in the bottom of the mortar; the oil is collected in a container. When the ghani operator is satisfied that a good yield of oil has been extracted from the
+seed, the ghani is brought to a halt and the oil-cake is removed. Another batch of seed is placed in the mortar and the process is repeated. A typical bullock-driven ghani can process about 10 kg seed every 2 h. The bullock normally becomes fatigued after working the ghani for about 3-4 h and is replaced by another one.
+Electrically-powered ghanis, known in India as 'power ghanis', are now replacing bullock-driven ghanis because bullocks are becoming increasingly costly to maintain. Either the pestle or the mortar is held stationary in power ghanis (see Figures 11 and 12) which are normally run in pairs so that one is always operating while the other is being discharged. About 100 kg seed/ day is the usual throughput.
+The advantages of the ghani are that it produces a reasonable oil yield of about 60%, it can be made locally, and it has low running costs. Oil produced in a ghani is usually valued for its quality. In addition, no pre-grinding equipment is needed for smaller oilseeds such as groundnuts, rapeseed, sesame and sunflower seeds, and it is suitable for use by small groups in villages.
+Expellers
+Principle of operation
+Oilseed expellers produce oil and oil-cake from oilseed continuously, unlike bridge presses which operate on a batch system. The essential components of a typical small-scale expeller are shown in Figure 13. The expeller is driven either by an electric motor or by a diesel engine. At the heart of the machine is a powered wormshaft which rotates inside a closely fitting cage. The oilseed is fed continuously into the press through a hopper and is crushed as it is transported through the cage by the wormshaft. Pressure is exerted on the system by restricting the gap at the end of the cage through which the oil cake is discharged from the press. The expelled oil drains out of the cage through small gaps.
+The friction generated inside the expeller barrel will eventually result in the wearing down of the wormshaft end portion, barrel bars or rings, and choke. Replacement of these parts will be required at intervals depending on the type and amount of oilseed processed and the degree of dirt contaminating the seed. Rapid wear is a particular problem when expelling undecorticated, dirty sunflower seed. The availability and cost of wearing parts are important considerations when setting up a small-scale expeller facility.
+General method of operation for expellers having an adjustable choke
+Starting up the press
+1. Before starting up the drive to the press, check that all the safety guards are in good order and the machine has been lubricated according to the manufacturer's instructions. Ensure the choke control is adjusted so oil-cake can be discharged from the press cake outlet.
+2. Start the press drive and check that the wormshaft is turning over correctly. Then begin feeding the oilseed very gradually by hand into the hopper. The screw press will not expel oil satisfactorily until the barrel is hot. The operating temperature required varies according to the type of oilseed processed, but it is normally between 60 and 100°C. Some oilseeds (such as copra) have a fibre content which provides the friction needed to heat the barrel. Softer oilseeds (such as groundnuts and sesame seed) first need to be heated and conditioned in order to reach a satisfactory operating temperature (see Chapter 4 for details of oilseed conditioning). When expelling the softer seeds, the time taken to reach the operating temperature can be reduced considerably by feeding the press cautiously by hand with crumbled oil-cake of the seed being processed. As the barrel temperature increases seed should be mixed with the oil-cake in progressively increasing proportions so that
+finally only oilseed is being fed to the press. In some circumstances it is beneficial to use a mixture of oilseed and oil-cake all the time.
+3. When the seed material has been discharging freely from the press cake outlet for a few minutes, the choke may be reduced gradually to increase the pressure within the press and improve the quality of the oil-cake and the oil flow from the press barrel. The optimum cake thickness for a small-scale expeller is usually about 1-2 mm.
+4. The choke is adjusted by the wormshaft regulator at the feed end of the machine. Turning the handles anti-clockwise moves the taper plug section of the wormshaft axially further into the taper bore of the choke ring, thus reducing the thickness of the cake. Turning the wormshaft regulator clockwise withdraws the shaft and increases the cake thickness. The locknut (if fitted) has to be released to allow the operating screw to move and should be relocked after each adjustment.
+5. Until the barrel reaches the operating temperature, a large amount of sediment 'fools' may be produced with the oil. To limit this, oilseed should be fed slowly to the press during the warming-up period. However, some oilseeds do not produce a large amount of sediment with the oil during the start-up period. In this case, the rate of feed may be increased more quickly until optimum operating conditions are reached. Once uniform operating conditions have been reached, the sediment can be gradually mixed in with the oilseed fed to the press.
+Normal operation of the press When uniform operating conditions have been reached, the objective should be to produce the best quality of oil-cake possible, consistent with the required throughput of the press. It is possible to process some oilseeds without needing to restrict the rate at which they are fed to the press. In other words, with the feed control slide on the hopper fully open, the press will continue to operate in a uniform and steady manner, drawing oilseed from the full hopper.
+There are occasions, however, when the feed has to be metered to the press. Metering can be necessary for processing the more fibrous seeds such as palm kernels and copra. This is because the power required can be much greater than that needed to process softer seeds, and so the feed rate has to be restricted to keep the power required within the power limitation of the driving unit. In this event, if laborious manual feeding is to be avoided, the press may be fed by some metering device such as a variable delivery vibrator or screw feeder from a hopper or storage bin.
+Metering is also necessary when palm kernels, copra and other large seeds are broken, or coarsely ground, before feeding to the press. In this condition they will not easily flow steadily into the press feed area and therefore may have to be metered either by hand or, preferably, from a vibratory feed. Some seeds need to be pressed a second time to obtain optimum extraction of the oil. Again, the cake from the first pressing may not flow satisfactorily from a full feed hopper and may need to be metered to the press.
+Palm kernels are described above as usually being broken or coarsely ground before processing but, with caution, they can be first-pressed as whole kernels from a full open feed. However, a metered feed may be needed to recycle the oil-cake from the first pressing.
+When feeding from a full feed hopper, the flow characteristics of some materials through the press may be exceptionally good and result in a press capacity higher than required. If this condition occurs, the resulting residual oil in the cake tends to be high. A lower, more acceptable oil-in-cake result may usually be obtained by metering the seed to the press at a reduced rate.
+<section>Oil clarification methods</section>
+Clarification by settlement
+Oil clarification by boiling with water
+Oil clarification and expeller operation
+Freshly extracted vegetable oil may contain suspended seed debris which gives the oil a cloudy appearance. The quantity of solid material in the crude oil depends on the method used to process the oilseed and the type of seed processed. Oil produced from expellers contains substantial quantities of seed debris. Oil from manual presses and traditional processes contains smaller quantities of debris. To produce a clarified oil, the solids must be removed from the crude oil. Oil clarification methods are described below.
+Clarification by settlement
+Freshly extracted oils are left to stand in a small oil drum or bucket for several days to allow solids to settle. After settlement, the clear supernatant oil can be poured or siphoned off, leaving the plant debris at the bottom of the container. These settled solids are called foots.
+Recovery of oil from foots
+Oil can be recovered from the settled foots by:
+(a) filtering through finely-woven material into a container;
+(b) heating the foots with a small quantity of water in a metal basin. This coagulates the solid material. The mixture is boiled to remove water, leaving a mixture of partially-separated oil and coagulated solids. This is then filtered through muslin to produce clarified oil. The solids retained on the muslin can be squeezed by hand in a cloth to remove any residual oil.
+Oil clarification by boiling with water
+A mixture of freshly-extracted oil is heated strongly with water (10% by weight of oil). Frothing of the oil will occur when most of the water has been driven off. When this takes place, oil can be poured off, leaving the coagulated solids at the bottom of the container. A skilled operator will leave a solid residue which contains only a small amount of residual oil. However, if the residue appears particularly oily, it can be squeezed in a cloth to recover further quantities of oil.
+Oil recovered by the boiling method will sometimes contain a small quantity of fine plant debris which can be removed by filtration through a piece of cloth spread over a bucket.
+Oil clarification and expeller operation
+Crude oil from an expeller tends to contain high levels of sediment, usually about 10-15%. A convenient oil collection vessel (shown in Figure 14) is constructed from a 200 l oil (45 gal) drum. The coarse foots which separate in the primary collection vessel may be added in small amounts to the fresh seed for reprocessing, but the fine sediment, when isolated (normally either by standing or in a filter press), is best used as a fertilizer or admixed with the cake.
+The provision of a filter press in any small-scale expeller plant is worth considering. Filter press design has been described by Thieme (1968).
+<section>The importance of quality in small-scale processing</section>
+Oil deterioration tends to lead to increased levels of FFA, poor colour, and flavour changes. Although poor quality oils can be purified or refined using large-scale equipment, this results in a loss of material. Also, since it is difficult to carry out at a small-scale all the refining stages that are possible in large-scale equipment, it is very important to ensure only high quality oil is produced. Steps to ensure this are enumerated below.
+o As far as possible, purchase good quality seed free from mould.
+o Store the seed under clean dry conditions.
+o Process the seed on a 'first in, first out' basis, i.e. the oldest seed is processed first.
+o If the seed needs to be ground before the oil is extracted, only grind the amount required for each day's processing. The oil in ground seed tends to deteriorate rapidly and so ground seed should never be stored.
+o Clarify crude oil from the extraction process as soon as possible after production and store it in clean dry containers. The presence of solid matter in oils invariably leads to deterioration.
+o Bottles and containers used for the sale of oil should be both clean and dry. They should be kept as full as possible and sealed so as to limit contact with oxygen from the air.
+References
+ANON. (1984) Early American oil mill described in new book. Oil Mill Gazetter, 89(5).
+ANON. (1987) A study of the village ghanis aided by Khadi and Village Industries Board. Indian Coconut Journal, March 1987: 11-13.
+BEAUMONT, J. H. (1981) A hand-operated bar mill for decorticating sunflower seed. TPI Rural Technology Guide 9. Chatham, UK: Natural Resources Institute.
+BEAUMONT, J. H. (1981) A hand-operated disc mill for decorticating sunflower seed. TPI Rural Technology Guide 10. Chatham, UK: Natural Resources Institute.
+BEAUMONT, J. H. (1981) A hand-operated winnower. TPI Rural Technology Guide 11. Chatham, UK: Natural Resources Institute.
+BLAKE, J. A. (1982) Evaluation of an on-farm press: pp. 247-251. In: Proceedings of the International Conference on Plant and Vegetable Oils as Fuels, Fargo, ND, August 1982. St Joseph, MI: American Society of Agricultural Engineers.
+BRACE, H. W. (1960) History of seed crushing in Great Britain. Essex, UK: Anchor Press Ltd.
+BROADRIGHT, J. H. (1979) A wedge press for oil extraction. Appropriate Technology. 6(2): 24-25.
+CHUNGU, A. S., KAUNDE, O. K. and PROTZEN, E.Th.P. (1987) Development of village and homestead oilseed processing equipment. Presented at the Workshop on Expert Consultation of Rural Vegetable Oil Expression and Utilisation in the SADCC Region, Zanzibar, November 1987.
+DIETZ, H. M., METZLER, R. and ZARATE, C. (1989) Village scale oil processing: review of the current state of screw expellers and strategies for its upgrading. Eschborn, Germany: GATE.
+GILLING, J. and CROPLEY J. (1993) Needs assessment for agricultural development: practical issues in informal data collection, NRI Socio-economic Series 1. Chatham, UK: Natural Resources Institute.
+GITTINGER, J. P. (1982) Economic Analysis of Agricultural Projects. 2nd edn. Baltimore, US: Johns Hopkins University.
+HEAD, S. W., HAMMONDS, T. W. and HARRIS, R. V. (1989) Experiences with small-scale oil expellers in developing countries. In: A Symposium on Edible Oil Processing, Rugby. The Institution of Chemical Engineers.
+HEAD, S W., HARRIS, R. V. and SWETMAN, A. A. (1990) An inexpensive oilseed conditioner. Appropriate Technology, 17(2): 28-30.
+KARNATAKA STATE KHADI AND VILLAGE INDUSTRIES BOARD (1984) Proceedings of the Regional Seminar on Village Oil Industry. India.
+KHAN, L. M. and MANNA, M. A. (1981) Expression of oil from oilseeds. Paper number MCR-81-509 presented at the 1981 Mid-Central Region Meeting of the American Society of Agricultural Engineers, Ramada Inn, St Josephs, Missouri, March, 1981.
+OKURA NAGATSUNE (1836) On oil manufacturing. A 1974 English translation of the original Japanese edition has been published by Olearius Editions, New Brunswick, US.
+OTTO, J. (1992) The ram press of Tanzania: Successful technology gets better. Food Chain, (5): 6-7.
+PINSON, G. S., MELVILLE, D. J. and COX, D. R. S. (1991) Decortication of tropical oilseeds and edible nuts. Natural Resources Bulletin 42. Chatham, UK: Natural Resources Institute.
+SIVAKUMARAN, K. and GOODRUM, J. W. (1988) Laboratory oilseed processing by a small screw press. Journal of the American Oil Chemists' Society, 65(6): 932-935.
+THIEME, J. G. (1968) Coconut oil processing. FAO Agricultural Development Paper No. 89. Rome: FAO.
+UNIDO (1986) Manual for the Preparation of Industrial Feasibility Studies. Vienna: UNIDO.
+VADKE, V. S. and SOSULSKI, F. W. (1988) Mechanics of oil expression from Canola. Journal of the American Oil Chemists' Society, 65(7): 1169-1176.
+<section>Chapter 4 Processing of specific oilseeds</section>
+<section>Coconuts</section>
+Copra
+Household wet processing of coconut
+Wet processing of coconut on a village scale
+Coconut oil extraction using a low-pressure bridge press (NRI 'water-assisted' method)
+Coconut oil extraction using a low-pressure bridge press (the KIT method)
+Coconut oil extraction from coconut gratings using the ram press
+Use of the ghani to process copra
+Coconut oil extraction from copra using a small-scale oil expeller
+The fry-dry process
+Uses of coconut oil
+Coconuts grow in the coastal areas of the tropics and subtropics, 20°N and 20°S of the equator. Major producing countries are: The Philippines, Indonesia, Malaysia, Sri Lanka, India, Côte d'Ivoire, Mozambique, Tanzania, and the Pacific Islands.
+Harvesting of the nuts is carried out by allowing them to fall naturally, by climbing the trees and picking, or by cutting the nuts using a knife attached to a long pole. Immature nuts should not be harvested as they contain less oil than mature nuts.
+Fresh nuts are de-husked by means of a wooden or metal spike fixed into the ground. The coconut is brought down forcibly on to the spike by the operator and twisted to remove portions of the husk. The process is repeated until all the husk is removed. Fresh coconut kernel contains 32-35% oil, corresponding to a moisture content of 54 49%.
+Coconut oil may be obtained directly from the fresh kernel (wet processing) or, more commonly, from the dried kernel (cope).
+Copra
+Copra usually contains 69-70% oil on a moisture-free basis. To prepare copra, the coconuts are first split in half and dried either in the sun or in special driers. When the nuts are partially dried, the meat shrinks away from the shell allowing the kernel to be removed easily. The kernels are then further dried to a maximum moisture content of 9%, but ideally to a moisture content of 6%. Copra is normally sold to traders and then on to large processing mills where it is expelled for oil and cake. Oil from copra is generally refined and deodorized before being sold for edible purposes. However, in some countries, notably Sri Lanka and Indonesia, the natural coconut flavour is favoured and the oil is consumed without further processing.
+If the copra is not prepared carefully and the product is underdried, it will go mouldy during storage, leading to a marked deterioration in oil quality. In addition, if the copra is attacked by the yellow-green mould, Aspergillus flavus, it is likely to be contaminated by a toxic chemical called aflatoxin. When such contaminated copra is processed, aflatoxin passes into both oil and copra cake. Fortunately, aflatoxin is removed from coconut oil during refining, but it is retained in the cake. The problem is such that the European Community has imposed stringent regulations on permitted levels of aflatoxin in imported copra cake and meal to be used in animal feeds.
+Household wet processing of coconut
+In many countries, for example Indonesia, Sri Lanka and Tanzania, fresh coconuts are used at household level for oil or milk extraction. The nuts are cracked in half and the meat scraped out using a rasp (see Plate VI). The grated coconut is collected and water is added. The mixture is kneaded by hand and then squeezed to produce a 'milk'. This process is repeated several times and the liquid combined. The milk may then be boiled immediately to obtain the oil. This method also produces a crispy residue after boiling which is highly appreciated in The Philippines as a confectionery item known as latik. A more common procedure, carried out in Tanzania, is to allow the milk to stand overnight. The oily upper layer (cream) which separates is then boiled to obtain oil. Using this method oil extraction rates vary from about 12 to 23 l of oil/100 kg fresh coconut kernel. This represents a yield of between 22.6 and 43.4 l of oil/100 kg if calculated on a copra equivalent basis,
+which corresponds to an oil extraction efficiency range of 32-61%.
+Wet processing of coconut on a village scale
+There are many village-scale industries that use wet processing and most of these are, in effect, scaled-up versions of the domestic method. Such operations usually incorporate a powered grater and some form of manual press to extract the coconut milk.
+Wet processing of coconuts has attracted much interest in recent years. This centres on the possibility of producing products, other than oil, that are suitable for human consumption. It would be expected that such processes would yield high quality oil and an edible protein concentrate as their major products. Several processes exist, but they have failed because of high capital costs and the difficulties involved in marketing new products.
+Village-scale wet processing of coconut is the subject of a joint project being undertaken in The Philippines by The Philippine Coconut Authority (PCA), the Philippine-based Industrial Technology Development Institute (ITDI) Appropriate Technology International (ATI) and Koninklijk Instituut Voor de Tropen (KIT).
+Coconut oil extraction using a low-pressure bridge press (NRI 'water-assisted' method)
+Traditional methods of oilseed extraction usually incorporate the addition of a proportion of seed to the ground oilseed before extraction. The influence of moisture content on the extraction of oil from grated coconut has been examined at NRI in laboratory trials using a hand-operated bridge press (Hammonds et al., 1991, 1993). Experimental results showed that at an optimum moisture content of about 10-12%, about 70% of the oil could be extracted at a pressure of about 50 p.s.i. At 100 p.s.i., about 77% of the oil could be recovered. Extraction efficiency decreased with increasing particle size.
+Preliminary field tests on this method have been undertaken in Tanzania using a 240 mm diameter cage. The main practical problem was how to prepare the dried grated kernel to within the optimum specific moisture range. It was established that the moisture content of grated coconut kernel was reduced to about 3% after 4 h of drying in the sun. Tests indicated that a mixture of wet and dry coconut gratings at a ratio of 19:100 gave a moisture content in the required range. The following method is based on this finding and is presently being evaluated by a village women's group in Tanzania.
+Recommended method for village use
+1. Select 45 coconuts of the same size.
+2. Set aside five coconuts from this batch.
+3. Grate the remaining 40 coconuts and dry them in the sun for 4 h on a suitable surface. Coconut mats, galvanized roofing sheets or plastic sheet would be satisfactory. The area selected for this should be free from dust and interference by animals and children. Cassava or rice drying areas would be suitable.
+4. After 4 h of drying, gather the dried coconut and divide it equally among five bowls of the same size so that the same level of dried coconut is in each of the bowls.
+5. Now grate the five coconuts that were set aside and, without delay, add one grated coconut to each of the five bowls. Mix the wet and dry coconut together well.
+6. Divide the contents of each bowl equally between two bags and load them into the press.
+7. Press the oil out from the coconut in the bags by applying pressure for about 30 min. This pressure should be applied slowly and should only build up to a maximum towards the end of the 30 min.
+8. The oil obtained should be filtered through a cotton bag to remove any fragments of coconut gratings which may be present.
+The entire oil extraction process should be completed in one day. If this is not possible, the process can be halted after the grated coconut has been dried in the sun for 4 h and before the five coconuts have been grated. The dried, grated coconut must be carefully stored under cover overnight, preferably in sealed plastic bags. The process should be continued the following day by grating the five remaining coconuts, adding the freshly grated coconut to the dried grated coconut, and then completing the oil extraction process as normal.
+Initial results indicate that the oil extraction efficiency is about 64%, which is a little lower than that achieved in the laboratory trials. The coconut flavour of the oil from this process is not as strong as that of oil from the traditional domestic process. However, a consumer survey has shown the oil to be generally acceptable for the preparation of food. The new process requires neither firewood nor water and avoids the laborious extraction of 'cream' from the grated coconut flesh.
+Coconut oil extraction using a low-pressure bridge press (the KIT method) Source: UNATA-PRESS No. 21986
+The fresh kernel from 40-45 grated nuts is dried either in the sun, or in an artificial drier, to yield approximately 8 kg of dried material with a moisture content of about 4%. Water (8% by weight) is added and the mixture heated for 20 min. at 75°C with stirring. The conditioned coconut is then transferred to the 171 cage of the UNATA 4201 press in five equal portions, separating each portion with a metal plate. Pressure is applied slowly to reach a maximum in about 15 min. Three pressings an hour give 13.5 l of oil, which corresponds to an extraction efficiency of 72%. The press-cake can be ground in a hammer mill, rolled, moisturized and pressed to give additional oil. The combined yield from the two processes represents an extraction efficiency of 90%.
+Note In the KIT process, the addition of 8% water to the dried coconut gratings raises the moisture content to 11%, which is the same as that used in the NRI method. Pre-heating the mixed dried and wet gratings prior to pressing in the NRI method would probably bring the oil recovery up to that achieved in the KIT process.
+Coconut oil extraction from coconut gratings using the ram press
+Sun-dried coconut gratings containing approximately 3% moisture can be processed in a ram press. The throughput in a CAMARTEC BP-30 press, of gratings heated to 60°C, is 3.9 kg/in, yielding 2.46 1 of high quality oil. This is equivalent to an extraction efficiency of 85%, which is comparable to that achieved by a small-scale expeller. This process shows considerable promise, but has yet to be widely adopted.
+Use of the ghani to process copra
+Copra is easily processed in a ghani but must first be disintegrated in a hammer mill. Water added during this process is normally in the range of 2-5%. The average amount of oil extracted is about the same as that obtained by a single pass on a small-scale expeller, i.e. 60 l of oil/100 kg of copra.
+Coconut oil extraction from copra using a small-scale oil expeller
+Using the De Smet Rosedown Mini 40 expeller
+The small-scale processing of copra was demonstrated to be technically feasible and potentially profitable in the Cook Islands (Barrett et al., 1987). The equipment comprised a copra chopper, a De Smet Rosedown Mini 40 screw press and a filter press. At copra throughputs of approaching 65 kg/in, yields of clarified oil and copra cake were approximately 55% and 40%, respectively, on a weight basis. The oil yield was equivalent to about 60 l of oil/100 kg of copra, containing 5.3% moisture. This corresponded to an oil extraction efficiency of close to 84%. When copra containing 9.2% moisture was processed, the crude oil extraction rate fell from 58% to 37%. Over-dried copra with a moisture content of 2% proved to be difficult to process with the Mini 40. It was judged that well-dried copra, with a moisture range of 4.5% to 7%, could be processed without pre-heating.
+A consumer survey indicated that coconut oil could be marketed as a cooking oil to substitute for imported vegetable oils; its potential use in soap manufacture was also recognized, while copra cake was readily marketed for animal feed.
+Using the CeCoCo Hander H52 expeller
+A copra processing plant on the Caribbean island of Nevis using CeCoCo equipment, which included the H52 expeller, was tested by NRI staff in 1985. The press functioned well on warm disintegrated copra (60-70°C) conditioned to a moisture content of about 3%. Copra throughput was a little over 50 kg/in and the yield of clarified oil, expeller cake and filter press-cake was 56.8%, 35% and 6%, respectively, from copra containing 4.4% moisture. This represents an oil extraction efficiency of 86%.
+The fry-dry process
+The fry-dry process is used in Indonesia and by-passes the cope-making step. Ground, fresh, coconut kernel is dried by immersion in hot coconut oil. The final product has a cooked flavour which is very popular in Indonesia.
+In one process (Boutin, 1990), fresh kernel is ground to pass a 6 mm screen and heated in coconut oil for about 30 min. at a temperature not exceeding 120°C. The ratio of oil to coconut is about 2:1 by weight and the dried coconut is removed when the foaming diminishes. The dried coconut is then processed in a small-scale expeller.
+Uses of coconut oil
+Coconut oil is used as a cooking oil and in the preparation of oil and fat blends for the food industry. It has important industrial uses, particularly as an ingredient in soap-making.
+<section>Groundnuts</section>
+Village traditional manual processing of groundnuts, Ghana
+Bridge press, Malawi
+Bridge press, The Gambia
+Use of the ghani to process groundnuts
+Groundnut processing in a small-scale expeller using a diesel-powered CeCoCo H54 expeller (The Gambia)
+The groundnut is an annual plant. Varieties are grown as two types, either as a bushy bunch or as a runner. Hybrids of the two, 'semi-upright', are grown commercially. Groundnuts grow in tropical and subtropical regions, and in warm parts of temperate regions. They are cultivated as a rainfed crop, or under irrigation in the dry season.
+When mature, plants are dug or pulled up and the pods removed by picking or flailing. Bunch-type groundnuts have small- to medium-sized pods containing one or two round kernels in a thin shell. Runner types have one to three oval kernels in medium-sized, thicker-shelled pods. The kernel consists of about 60-75% of the whole nut. Oil content of groundnut kernels is 45-55%, depending on variety.
+Under-dried groundnuts, like copra, are very susceptible to attack by the mould Aspergillus flavus, and hence contamination by aflatoxin (see Chapter 4, Coconuts, and Shantha, 1984). The safe moisture level for groundnuts is below 10%. Oil produced from mouldy groundnuts should not be used for edible purposes.
+Village traditional manual processing of groundnuts, Ghana
+Groundnuts are shelled by hand. The kernels are roasted over a fire on a metal sheet. The kernels are lightly rolled between flat stones, then win nowed to remove the testa (skins). This step is important because the testa is bitter and will affect the flavour of the fried by-product (see below). The roasted kernels are either ground in a local maize mill or crushed between two stones to form a paste. The former process is preferred since it is quicker and reduces labour requirement. Water is added to the paste in a large bowl and the mixture is stirred and kneaded by hand. The amount of water added is not measured, but gauged using experience. After about 15 min., the mixture darkens and forms a more resilient paste which is difficult to knead. At this time, oil separates from the mixture. The mixture is continuously kneaded for about 5 more min. The groundnut paste (which, at this stage, can be formed into a cohesive ball) is then removed. The oil is poured into a separate
+container and needs no further treatment before consumption. The remaining groundnut paste is rolled into thin strips, then into rings, and fried in groundnut oil to produce a popular, tasty snack (called cull cull in Ghana).
+Throughput: 2 kg batch size using a mechanical grinding mill yielded 0.5 l of oil in a little over 2 h.
+Bridge press, Malawi
+The nuts are shelled by hand and the kernels crushed in a roller mill. Water is added (15% by weight) and the mixture is covered and left to stand for 1 h. The mixture is then heated with stirring for 15 min. prior to pressing in a bridge press. Oil is sold locally.
+Throughput: Batch size 10 kg, 8 charges/day.
+Yield: 35 l oil/10 kg batch, 28 1 oil/day.
+Oil clarification procedure: Oil is boiled with water for 2 h, after which the sediment is allowed to settle.
+The residue (groundnut cake) is produced in the form of slabs. Sometimes these are incorporated into family meals, but more often they are sold as animal feed. The cost of equipment for this type of operation, if purchased from Europe, is around £ 1800 ax-factory.
+Bridge press, The Gambia
+Nuts are shelled by hand and the kernels pounded using a pestle and mortar. Care must be taken not to pound the nuts to a sticky paste. After a few minutes of pounding, the partially-ground material is sieved (using mosquito screen of approximately 1 mm mesh) and collected. The unsieved material (the larger groundnut particles) is returned to the mortar for further pound ing. This process is repeated until all the pounded material passes through the sieve. The pounded groundnut flour is placed in a colander over a metal cooking vessel containing boiling water fuelled by a wood fire. The material is steamed for about 20 min. This work is normally carried out by women. The steamed material is wrapped in a piece of sack and placed in the cage of the bridge press. The press plate is screwed down manually on the seed. Oil flows out through a hole in the bottom of the press (via holes in the cage) on the application of pressure. The press requires two operators.
+After extraction the cake is removed from the press, repounded, steamed, and pressed again. The oil extraction efficiency of the process is about 66%. This is equivalent to an oil yield of about 3.9 l/10 kg groundnut kernels. The oil does not require clarification. The residue is fed to animals.
+Use of the ghani to process groundnuts
+Groundnuts are commonly processed in ghanis in India. Water added during the process is normally in the range of 5-10%. Extraction efficiency ranges from 60% to 65%.
+Groundnut processing in a small-scale expeller
+Groundnuts can be processed successfully in small-scale expellers provided the seed is properly prepared. Seed preparation usually involves the addition of water and the process benefits from pre-heating.
+Using a diesel-powered CeCoCo H54 expeller (The Gambia)
+Groundnuts are shelled by hand and the kernels placed on a tarpaulin on the ground. About 160 kg of peanuts in shells are required to produce 100 kg of kernels. Approximately 2 l of water are mixed into every 100 kg of kernels. The moistened seed is passed through the expeller three times to yield 47 kg of crude oil and 50 kg of press-cake. The overall throughput of kernels is about 50 kg/in. The crude oil is left to stand for three days and the clarified supernatant oil (35.8 kg) is poured off leaving 11.2 kg of sediment ('foots'). The foots are processed by heating with water (see Chapter 2) to yield an additional 13.2 kg of clarified oil. Thus, the overall recovery of clarified oil is 42.4 kg (46 b/100 kg. Cake is sold to local farmers/householders for animal feed.
+<section>Oil palm</section>
+Soft oil' process
+'Hard oil' process
+General small-scale technique using machinery
+Palm oil processing operation: Christian Village, near Accra, Ghana
+The oil palm requires a rainy tropical climate. Natural distribution in West Africa lies between 13°N and 12°S. It grows in the transition zone between the rainforest and savannah, in moister locations of the grasslands, and in forest areas. Wild oil palms begin to fruit after 10 years and do not give a full crop for about 20 years. Cultivated palms come into bearing at about the fourth year, reach their peak after 12-15 years, and continue bearing fruit for 40 to 50 years.
+The fruit is an oval-shaped drupe 2.5-5 cm in length and 2.5 cm in diameter. It consists of a thin, pliable exocarp, an orange/red pulpy mesocarp and a hard nut containing a single kernel. Fruits are borne tightly clustered in large bunches which may weigh from 5 kg in young poor palms, to as much as 40 kg in 15-year-old palms in good condition. Three types of fruit can be recognized according to the thickness of the shell:
+(i) 'aura' with a shell thickness of 2-8 mm; (ii) 'tenera' with a shell thickness of 0.5-3 mm; and (iii) 'pisifera' without any shell.
+Wild and semi-wild groves in West Africa consist mainly of palms of the aura type. High-yielding varieties are a cross between aura and pisifera and produce fruits of the tenera type. The fruit-pulp contains between 40% and 62% oil (on average, 56%) while the ratio of pulp to nuts depends on the climate and the variety.
+Two types of oil are produced from the oil palm, red palm oil from the fruit, and white oil from the kernel. The oil content of the fruit is about 55% and that of the kernel is about 47%. The fatty acid composition of palm oil is very different from that of palm kernel oil (see Table 2). Typically, for tenera fruit, 100 t of fresh fruit bunches will yield 21 t of red palm oil and 6 t of decorticated palm kernels. Thus, palm kernel oil represents about 12% of total oil production. Both types of oil are processed at industrial level, especially in Malaysia and Indonesia. The industrially-produced oils are refined and deodorized to yield colourless, taste-free, odourless products.
+Traditional small-scale processing methods are divided into two types: 'the soft oil' process and 'the hard oil' process.
+'Soft oil' process
+In the soft oil process the separated fruits are softened by boiling in water and then pounding to disintegrate the pulp. The mass is then treated with a large volume of water, the pulp squeezed, and the oily layer skimmed off and heated to remove water. Only small amounts of free fatty acids are produced by this method and the product is mainly liquid.
+'Hard oil' process
+In the hard oil process, the pulp of the palm fruits is softened by fermentation in wooden troughs. Fermention takes place in successive stages, alternating with moistening and pounding for several days. Oil mixed with water and vegetable tissue drains out and is collected, boiled with water, and the oil skimmed off. Considerable amounts of free fatty acids are produced, giving the oil a special flavour and leading to a 'hard' palm oil.
+General small-scale technique using machinery
+The general technique for small-scale oil palm processing methods using machinery is as follows. The whole fruit bunches are sterilized by steaming or boiling in water. This operation destroys enzymes responsible for the formation of free fatty acids. The fruits are then separated from the bunch, either mechanically or by hand, and digested by stirring at a high temperature. Digestion renders the mass homogenous, detaches the pulp from the nuts and makes kernel removal easier. A mixture of oil and water is extracted from the mass using a curb press, a hydraulic press, or continuous low-pressure screw expellers. The mixture is allowed to stand and the oil separated from the water by decantation. The palm nuts are separated from the residue by hand.
+Readers are referred to Weimer and Altes (1989) for detailed descriptions of palm oil processing using small machines.
+Palm oil processing operation: Christian village, near Accra,
+Ghana
+Process type: village traditional manual processing of palm fruit.
+Treatment: All operations are carried out by women. Palm fruits are purchased from the local market. The fruits are boiled in water for about 2 h and then transferred to a large pit dug in the ground containing water. The pit is about 2 ft deep and 5 ft in diameter. A woman enters the pit and treads on the fruits, liberating palm oil which floats to the surface of the water. Handfuls of fruit are then collected from the bottom of the pit and wrung out by hand on to the surface of the water. When all the fruits have been collected from the pit and wrung out, the oil is scooped off the top and collected. The oil is boiled to remove water traces and is then ready for use. The woman stays in the pit to receive the next batch of palm fruits to be processed. The palm nuts are separated from the palm fibre by hand and are sold in the local market. The fibre is dried and used as fuel. About 240 l of clarified oil can be produced in two days. The oil is either used by operators or
+sold locally.
+The women operators state that oil processed in this way tastes better and sells more easily than that produced by mechanized processes. Two people are employed full time for two days on this process.
+<section>Palm kernels</section>
+Decortication
+Hot water flotation
+Bridge press
+Small-scale expeller
+Processing palm kernels in the De Smet Rosedown Mini 40 expeller
+Decortication
+Refer to Appendix 2 for sources of equipment for decorticating palm kernels.
+Hot water flotation
+In one traditional method (Wiemer and Altes, 1989) separated palm kernels are roasted and crushed by pounding. The pounded mass is then mixed into excess water and boiled for hours, during which the oil is skimmed off. Finally, the oil is dried by heating. About 18 kg palm kernels can be processed in 12 h to yield 4.3 l of oil, which is equivalent to an extraction efficiency of about 40%. The oil tends to be dark in colour because of over-heating during the roasting step.
+Another method used in the eastern part of Nigeria is to steep the whole kernels in water for 1-3 days and then to roast gently in an iron pot until the oil exudes (Cornelius, 1977).
+In an experimental procedure (Lukey, personal communication), palm kernels were ground in a plate mill and boiled with water for 1 h. The oil yield from 1 kg of kernels was 0.37 l which is equivalent to an extraction efficiency of about 60%. The residue from this extraction was passed through a 1 mm sieve. Particles retained on the sieve contained about 41% residual oil, while the fine particles had an oil content of 34%. These analyses emphasize the need for fine grinding in this type of extraction procedure.
+Bridge press
+Preliminary laboratory trials (Donkor, unpublished work) have shown that oil can be extracted from palm kernels in a bridge press. An oil extraction efficiency of 55% was achieved with roasted kernels ground to a fine paste, a paste moisture content of 20%, and a seed temperature of 60°C.
+Small-scale expeller
+Palm kernels are easily processed in a small-scale expeller and for some machines it is not necessary to grind the nuts. However, if the nuts are ground, then it is important to avoid the formation of fines (Head, et al., 1989). Processing whole, coarse- and finely-ground kernels in the De Smet Rose down Mini 40 expeller resulted in choke temperatures of approximately 100, 120 and 140°C, respectively, the latter causing the cake to char.
+Processing palm kernels in the De Smet Rose down Mini 40 expeller
+Cleaning:
+ensure that the kernels are free from shell and stones, both of which will result in high wear and possible breakage of machine parts.
+Grinding:
+the kernels may be lightly ground in a maize mill. They should be simply broken, aiming to keep the production of fines to a minimum.
+Pre-heating:
+the kernels should be heated in a container to about 60°C.
+Avoid direct heating of the container with a flame - even very slight burning will result in a dark oil. In the absence of a seed heater warm the kernels in the sun before processing.
+Expelling:
+wormshaft speed approximately 100 r.p.m. spacer settings (in thousands of an inch): feed: 0:40:40:40:30:20:10:10:5:5:5:5:5: choke cake thickness 1.5 to 2.0 mm.
+Product yields:
+whole kernels-throughput 16 kg/in yielding
+37% crude oil
+33% settled oil
+60% cake ground kernels-throughput 20 kg/in yielding
+36% crude oil
+33% settled oil
+60% cake
+Oil purification: allow crude oil to settle overnight, keeping warm to avoid solidification. Decant settled oil from sediment. Combine sediment from different runs and recover as much oil as possible by standing and decantation.
+<section>Rapeseed/mustard seed</section>
+Traditional rapeseed processing
+Processing rapeseed in an expeller
+Processing rapeseed in the Hander Type 52 expeller
+Rape and mustard are similar species and for the purposes of this manual can be treated as one oilseed. Rape is one of the most widely cultivated oilseed crops. Basically a temperate crop, it prefers temperatures below 25°C during growth. The traditional rapeseed crops of the Indian subcontinent are characterized by the presence of high amounts of erucic acid and a group of anti-nutritional, sulphur-containing compounds called glucosinolates. The expansion of the cultivation of oilseed rape in recent years in both western Europe and Canada is the result of plant breeding, which has culminated in the production of 'double zero' seed varieties in which erucic acid and glucosinolates are virtually eliminated. However, high-erucic rapeseed oil is still in demand for industrial purposes.
+Traditional rapeseed processing
+The traditional method for processing rapeseed on the Indian subcontinent is the ghani. The animal-powered ghani can process about 10 kg of seed in 2 h while the throughput of a power ghani can be as high as 14 kg/in. As is usual in ghani operations, water is added in stages during processing (10-12% of the seed weight for rapeseed). The added water not only allows oil release, but also favours enzymatic breakdown or glucosinolate into volatile compounds that add pungency to the oil. The flavour of oil from the animal-powered ghani is said to be better than that from the power ghani due to the slower processing rate which allows more time for the flavour to develop.
+The presence of glucosinolates in rapeseed limits the use of the oilseed for ruminant feed or as a fertilizer. The destruction of glucosinolates means that rapeseed cake from a ghani has greater application as an animal feed.
+Processing rapeseed in an expeller
+The ghani process is rapidly being replaced by small-scale expellers which have an improved oil recovery and higher seed throughput. Sometimes, high oil recoveries are only achieved by repeatedly recycling the expeller cake (Dietz, 1992). The breakdown of glucosinolates during small-scale expelling is aided by processing at relatively high moisture contents (8-10%) (Dietz et al., 1989). These conditions are incorporated into the following method which is used at NRI.
+Processing rapeseed in the Hander Type 52 expeller
+1. The seed is heated to about 70°C to give a feed moisture content of 6%.
+2. First press: the conditioned feed is processed with the choke set to give a cake 1 mm thick. The processing rate should be more than 60 kg/in and the seed should be self-feeding. Power drawn is 4 4.5 A and production of coarse 'fools' should be negligible.
+3. The moisture content of the cake is adjusted to 9%. This will normally require the addition of about 3% water. The cake is then heated for about 30 min. in a system which limits moisture loss (i.e. the 'cement mixer' conditioner with a loose-fitting lid over the feed opening). The final temperature should be 100°C, and the moisture content about 7%.
+4. Second press: this is carried out with the choke set to give a cake just under 1 mm thick. Processing rate is 50-60 kg/in and the feed (which breaks up during the conditioning) should be self-feeding. Power drawn is 4.5-5 A and again, production of coarse 'fools' is negligible.
+Overall processing rate is about 35 kg seed/in and the residual oil content of the cake is 12-14% (MFB). Oil extraction efficiency is 72-77%, equivalent to 32-35 l of clarified oil/100 kg of seed.
+<section>Sesame</section>
+Hot water flotation
+Bridge press
+Ram press
+The ghani process (Sudan)
+Small-scale expeller
+Sesame is an annual crop grown in tropical, subtropical and warm temperate regions. It thrives in temperate regions during the summer and in tropical lowlands under semi-arid conditions. Varieties may be classified either as shattering or non-shattering, according to whether the seed capsules open on drying. Under optimal conditions, some varieties take only 3-4 months to reach maturity; in less favourable conditions, some slower types may take 8 months. When harvesting by hand, the crop is cut close to the ground with a sickle, tied in bundles, and stacked to dry. The crop is cut when the lowest capsules on the stem begin to open. The oil content of sesame seed and the fatty acid composition of the oil are given in Table 2. Natural sesame oil derived from good quality seed has a very pleasant flavour and can be consumed without further purification. The natural oil has excellent stability due to the presence of high levels of natural antioxidants (Lyon, 1972).
+Hot water flotation
+Hot water flotation is a traditional method in Uganda and Sudan for the extraction of sesame oil. The following is a description of a laboratory method, as details of the traditional method have not been located.
+Sesame seed is ground to a paste and heated to 80-90°C for 15 min. Enough boiling water is then added to suspend the ground seed on stirring. The mixture is boiled with stirring for 15 min. After cooling the upper oil layer is separated off and dried by heating. The oil recovery from 0.5 kg seed is 108 ml, equivalent to an oil extraction efficiency of 41%.
+Bridge press
+Laboratory trials at NRI have demonstrated that sesame seed is suitable for processing in a bridge press. However, no results of its application in the field are available. In the laboratory trials, sesame seeds were ground to a paste using a powered mincer incorporating a plate with 2 mm holes. It is important to grind the seeds as finely as possible. Oil extraction was improved by the addition of water, and optimum oil recovery was achieved at a moisture content range of 11-13%. Yields of over 70% were recorded with sesame paste containing 12.7% moisture pre-heated to 50°C before pressing (see Figure 15).
+Ram press
+Work in Tanzania has indicated that sesame is suited to processing in the ram press. Pre-grinding is not required but pre-heating the seed by warming in the sun, preferably on metal roofing sheets, is strongly recommended. Use of the CAPU press at 4 strokes/mint gave an oil extraction efficiency of 57.5% in terms of clarified oil. The oil production rate was a little over 2.2 l/in. The oil extraction efficiency of the smaller CAMARTEC press under similar operating conditions was 62%, and the oil production rate was 1.5 l/in.
+The ghani process (Sudan)
+The following traditional method was described by Kamel-Eldin et al. (1992). The addition of oil to aid the extraction process is of particular interest.
+Sesame seeds (12 kg, oil content 53.1% MFB) were ground in a camel-powered ghani with 0.5 l of water. Oil release was observed after 30 min. when the temperature of the mass was 41°C. After 40 min., 2 l of oil previously extracted (temperature 46°C) were added to assist extraction. Extraction was complete in 55-60 min., giving approximately 5 l of oil (temperature 50°C).
+Small-scale expeller
+The following operation was monitored at Illiassa in The Gambia (see Plate 7).
+Equipment:
+CeCoCo Hander H54 expeller powered by a Mitsubishi
+10 hp diesel engine. Sieve, approximately 0.5 mm mesh.
+Large metal boiling pan and ladle for oil clarification.
+Staff:
+expeller operator, assistant, and a clerk.
+Seed cleaning:
+fine sand was removed by sieving, followed by winnowing
+to remove lighter impurities.
+Expelling:
+two expeller runs were observed. The first involved double
+pressing which in effect warmed up the mill; in the second
+run the seed was processed in a single pass.
+Run 1: 34 kg seed were moistened with about 1.5 l of water.
+Process log
+Time(min.)
+Expeller temp. °C
+Operation
+Seed charged to expeller with the choke closed.
+Choke opened to produce a cake 3-4 mm thick.
+Small amounts of cake recycled with fresh seed.
+Cake thickness reduced.
+End of first press, second press started with the addition of a further 4 kg fresh seed.
+Cake thickness about 1 mm.
+Run complete.
+The yield of crude oil and cake was 15 kg and 21 kg respectively. The speed of the diesel engine could be varied and much use was made of this facility during the warm-up period. The wormshaft speed varied from 20 to 30 r.p.m.
+Oil clarification
+About 0.5 l of warm water was added to the crude oil and the mixture heated with stirring until the water boiled. The boiling pattern changed from an initial vigorous 'boiling' to a gentle frothing, during which time (about 30 min.), the sediment conglomerated to a 'jelly-like' consistency. At this stage the oil was filtered through the cleaning sieve to give a clear product.
+Yield of finished oil:
+13.5 kg (about 39 l/100 kg seed)
+Weight of sediment:
+2.2 kg
+Run 2: 20 kg of seed was taken and water was added. The mixture was processed in a single pass with a constant wormshaft speed of 28 r.p.m. Expeller temperature during the run was constant at 61°C. The process time was 22 min., which is equivalent to a seed throughput of about 55 kg/in. Product yields were as follows:
+Crude oil
+8.0 kg
+Clarified oil
+7.5 kg
+Sediment
+1.0 kg
+Expeller cake
+12.0 kg
+The initial seed contained nearly 55% oil with 4% moisture. Oilseed cake from the process contained 19-22% residual oil. The extraction efficiency was 73-76%.
+<section>Shea nuts</section>
+Shea nuts are produced by a tree which grows to a height of 12 m. The tree has a thick trunk and a number of spreading branches which form a dense crown. It is found in the drier parts of the equatorial belt of Central Africa, where oil palms do not grow. It is present in extensive areas with differing climatic and soil conditions.
+The shea nut tree bears fruit when 10-15 years old, reaching full bearing capacity at 20-25 years. The fruit, which is allowed to fall to the ground naturally, is a spherical, ellipsoid berry about 3-5 cm long. It consists of a thin brown shell enclosing a single, dark-brown, egg-shaped seed embedded in a yellowish-green sweet pulp. Average production is between 15 and 20 kg of fresh fruit/tree, and about one tree in three is productive in each year. On average, 50 kg of fresh nuts give 20 kg of dry kernels which contain 40-55% of a fat which has the consistency of butter. The fatty acid composition of shea butter is: palmitic acid 5-9%; stearic acid 30-41%; oleic acid 49-50%; and linoleic acid 4-5%. Shea butter is processed to make a cocoa butter substitute and is used in the cosmetic industry; it also represents a valuable source of fat for cooking in the areas where it is produced.
+Traditional processing
+Ghana
+Traditional methods of oil processing vary in detail but all are arduous and time consuming. The following method was observed in 1990 at Kanvilli village, near Tamale, northern Ghana.
+Nuts are shelled by hand. The kernels are pounded individually using the end of a pestle. The resulting kernel particles are aggregated and roasted on a metal sheet over a fire. The kernels are then milled in a maize mill to form a liquid paste. A small amount of water is added to the paste and the mixture agitated by hand using a 'paddling' motion (see Plate 8). The quantity of water added is not measured, but is judged by experience. The mixture is continuously stirred for anything up to 4 h. The length of time depends on the quality of the nuts. During the visit, only one woman carried out this stirring operation, which took 2 h. At the end of this time, the mixture became lighter in colour and more water was added. The white shea butter then floated to the top of the mixture. (The residue remaining from primary extraction is used as a preservative to coat wood and is said to have pest control properties.) At this point, the stirring action was carried out much less
+vigorously. The butter was scooped off the top by hand and washed several times with water. The butter was then boiled over an open fire until clear. The resulting oil was decanted off the dark-brown residue using a spoon. (The residue from oil clarification is used medicinally to rub into callouses and cracks in feet.) The oil is left overnight. The next day it is stirred with small sticks until it becomes solid. The resulting shea butter is then ready to be used. Yield: 2.5 bowls shea nuts (cost 200 cedis) gave 1 bowl of shea butter (value 400 cedis). No special equipment other than the village maize mill was used.
+Notes: The influence of adding water to improve oil yield is recognized. The amount of water added is judged by experience. This process is hard work.
+Analysis:
+% moisture
+% oil (MFB)
+Shea nuts
+Burkina Faso
+The following description was given by Projet Karite staff.
+1. The nuts are sun dried in shell.
+2. The nuts are boiled to destroy enzyme.
+3. The nuts are cracked, then the kernels are individually pounded to a paste with a pestle and mortar.
+4. The paste is heated (at an estimated temperature of 120°C) in a pan.
+5. The paste is repounded in a large pestle and mortar.
+6. The paste is ground by hand using a stone roller on a flat stone.
+7. Water is added to the paste and the mixture is churned manually.
+8. A white butter floats to the top after a continuous churning period of between 20 min. and 2 h.
+9. The butter is scooped off and washed with water four or five times. 10. The butter is heated to remove water and the oil is poured off.
+11. The resulting oil is left for two or three days to set and is then ready for use.
+12. The water residue from step 8 is evaporated and used as a wood preservative and an insecticidal ingredient for plaster walls.
+13. The residue, after the oil is poured off at step 10, is used in the preparation of soap, and as a skin cream.
+Note: The shea nuts can be ground in a maize mill, but many village millers are reluctant to make their mills available for this purpose as the nuts make the discs very sticky and difficult to clean.
+Improved village methods
+Much attention has been directed towards improving village methods of processing shea nuts. GTZ/GATE/DMA (see Appendix 2) have carried out a study in Mali using equipment developed by KIT (see Appendix 2), technical details, and a financial evaluation of the procedure developed, have been published (Niess, 1988; Wiemer and Altes, 1989). At another project in Mali the responsibility of DMA/CMDT/CEPAZE (see Appendix 2), the use of a manual or motor-driven decorticator/winnower, an animal- or motor-driven grinder, and a centrifuge has been investigated. Extraction rates (35-40%) were similar to those achieved in the KIT process. An interim evaluation concluded that only the motor-driven version of the equipment was commercially and technically viable (Wiemer et al., 1989). Shea nut processing has been studied by TCC who can supply a suitable grinder for the kernels (180 kg/in) and a kneading machine for the paste (44 kg/h).
+The KIT process (Wiemer and Altes, 1989)
+The equipment required consists of the following:
+o an oven, made up of a fireplace with a 40 l pot and a heated pot to hold a few buckets covered with lids;
+o a hydraulic press equipped with two press cages with press-plates;
+o a cake expel stand to remove the oil-cake from the cages; and
+o some pestles and mortars for grinding.
+The dried kernels are pounded to powder (with particles smaller than 5 mm). If the powder is dry, about 10% water is added and left for at least 1 h to be absorbed. The mass is divided into 5 kg batches, heated in a pot over a fire (to about 120°C) and kept hot for at least 1 h in an oven. The hot mass is poured into a pre-heated cage and pressed. When pouring, the mass should be divided into small portions of about 1 kg by means of a press-plate. After pressing, the cage is removed from the press and put on the expel stand to free the cake, after which the oil extraction process is repeated using the first press-cake as raw material. For the second pressing, the cake should be pounded and sieved to pass a 2 mm mesh, after which about 10% water is added. Finally, the extracted oil, which contains fine brown particles, is boiled with a little water containing some juice of okra and lemon to obtain a clear white oil. On cooling, the oil solidifies to form solid shea butter.
+The cake which is low in protein, is used as a fuel.
+It takes about 10 man hours to process 10 kg of kernels, of which about 3 h are required for pounding. Oil recovery depends on the quality of the nuts and is in the range of 35-42% of the dry kernel weight. This is equivalent to an extraction efficiency of 65-78%.
+Note: The hydraulic press can be replaced by a hand-operated bridge press provided it is equipped with a small diameter cage so as to increase the operating pressure. UNATA can supply a suitable assembly.
+Small-scale expeller
+The following is a description of a laboratory trial carried out at NRI in which shea nuts from Ghana were processed in a De Smet Rosedown Mini 40 expeller.
+The cage rings (12 in number) in the expeller have three steps and are assembled in such a way that the rotation of the wormshaft directs the seed into the steps, thus assisting the forward motion of the seed towards the choke. In preliminary trials, using a conventional cage assembly, it was found that shea nuts tended to produce a paste. Improved process characteristics were obtained by reversing the assembly of the first seven rings. When using the machine under these conditions it is important not to have any spacer at the point where the rings are reversed. The spacer settings (in thousands of an inch) were:
+feed: 0:30:30:20:20:20:15:0:5:5:5:5:5:choke
+Whole shea nuts, with 5-7.5% added water, were heated in a vessel with a loose-fitting lid for 15 min. The moisture content of the feed to the press was 10.3-11.3% and the seed temperature was approximately 50°C. The conditioned whole seed was then passed twice through the expeller to yield crude oil, representing 53% of the seed weight.
+Clarification of crude oil from the expeller
+The crude oil was added to water (1:4) and the mixture warmed to 70°C. The mixture was heated for 1 h with occasional stirring, after which it was allowed to cool until the upper oil layer solidified. The separated fat was then dried by heating slowly to 110°C, after it was filtered through filter paper, to give the final product.
+The recovery of clarified oil from seed was 34.6% which is equivalent to an oil extraction efficiency of 70%. Seed throughput at the expelling stage was low, at only 8 kg/in, but this could probably be improved by further experiment. One clear advantage of the technique is that grinding is eliminated; both size reduction and oil expression are carried out in one machine.
+<section>Soya</section>
+The soyabean, or soybean, is an annual, and with the selection of the appropriate variety, can be grown in a wide range of conditions. The plant is essentially subtropical, but cultivation extends to tropical regions and temperate regions up to latitude 52°N. The seeds are contained in a short hairy pod that is harvested when fully mature. The traditional method of harvesting soyabeans in Asia and many tropical countries has always been by hand, but the crop is easily harvested by machine.
+Soyabeans are widely used as a food crop. They are unusual oilseeds in that the products derived from their processing, soya oil and soya meal, are of almost equal value. The oil content of soyabeans (approximately 20%) is relatively low but the composition of the meal is ideal for the manufacture of animal feeds. Soyabean meal is also the raw material in the manufacture of 'textured vegetable protein' used for human consumption. Commercial processing of soyabeans is nearly always carried out in large-capacity solvent extraction plants. The final stage of this process involves 'toasting' the meal which ensures the removal of an anti-nutritional factor present in the bean. The flavour and instability of crude soya oil, together with the low oil content of the seed, mean that soyabeans are not ideally suited to small-scale processing.
+Processing soya beans in a Reinartz APV11 expeller
+(International Institute for Tropical Agriculture, Ibadan, see Plate IX)
+Cleaning:
+the beans must be free from dirt and stones.
+Grinding:
+the beans are lightly broken in a knife mill.
+Conditioning:
+the seed is heated to 80°C in an oil-fired conditioner. During conditioning, the moisture content is reduced from 8% to 4.2%.
+Expelling:
+wormshaft speed approximately 15 r.p.m. Cake thickness 8 mm.
+Performance:
+throughput approximately 70 kg/in.
+Oil content (MFB)
+seed
+cake
+Moisture content
+cake
+Oil extraction from seed
+Extraction efficiency
+It is understood that the expeller cake still contained a high proportion of the anti-nutritional factor present in the beans, but this problem can be overcome by using an extruder to cook the beans before expelling (Nelson et al., 1987). Details of this process and a range of small-scale processes for the manufacture of soyfoods can be obtained from INSTOY, who are based at the University of Illinois in the US.
+<section>Sunflower seed</section>
+Varieties
+Hot water flotation
+Manually-operated presses
+Expeller operation
+Sunflower is an annual plant that thrives in the tropics at medium and high elevations and, under suitable conditions, in temperate climates. Smallholders harvest the crop by hand, pulling off the sunflower heads when dry and rubbing off the seeds. Large plantation stands are harvested using a combine harvester.
+Varieties
+There are numerous varieties of sunflower seed. Many hybrid varieties have a thin, soft shell and a high oil content. Most indigenous local varieties have thick, hard shells and relatively low oil contents. Smallholders in many countries prefer to grow local varieties of sunflower, as the plants, when harvested, can provide seed for growing the next season. The progeny from hybrid seeds cannot be used for this purpose; fresh seed stock has to be purchased every growing season. This incurs extra cost, time and effort for the smallholder. There is often no premium offered by merchants to farmers for high oil-content crops. A local variety of sunflower seed called 'Record', which has a thin shell and a high oil content, grows in Tanzania. Soft-shelled, high oil-content sunflower seed types such as 'Record' (another of this type is called 'Peredovik') are ideal for processing in the ram press.
+Hot water flotation
+In a method used in Tanzania, sunflower seed is roasted in a clay pot over a wood fire and then pounded manually to make a fine flour. The flour is boiled with water in an oil drum for up to 9 h. After boiling, cold water is added to bring the oil to the surface; it is then skimmed off and dried. Oil yield is 1.25 l from approximately 10 kg of undecorticated seed, which is equivalent to an extraction efficiency of 38% for a low oil-content seed (30% total oil) or 23% for a high oil-content seed (50% total oil).
+Laboratory studies have shown that the yield of available oil can be increased to about 53% by using sunflower kernels, and that the hot water for one extraction can be recovered and used for further processing, thus saving on energy and water consumption.
+Manually-operated presses
+Bridge press using the KIT process (Wiemer and Altes, 1989)
+KIT have developed a hand-operated system for sunflower in association with UNATA who can supply all the necessary equipment. The equipment is as follows:
+o sunflower seed decorticator
+o winnower
+o roller mill
+o 'cooking' furnace
+o bridge press
+A suggested layout for this equipment is shown in Figure 16. The throughput of the equipment is 150 kg of undecorticated seed/day. For seed with an oil content of 32-35%, oil production ranges from 31 to 34 l of oil/day. Details of the method, which was developed in association with TDAU (see Appendix 2) and several women's groups in Zambia, are given in a publication Simple Sunflower Production at the Village Level which is available from UNATA.
+Scissor press
+This system was developed by the Institute of Production Innovation (IPI) of the University of Dar es Salaam (Chungu et al., 1987). The equipment is available from Themi Farm Implements Co. Ltd of Arusha, Tanzania, and is basically the same as that used in the KIT process described above. The heart of the process is a scissor press which has a capacity of 21 kg decorticated seed/in. The daily throughput of the plant is 210 kg seed (140 kg decorticated seed), and oil production varies from 46 to 69 l, depending on the oil content of the seed. The effect of the various processing steps on oil yield is shown in Figure 17. An instruction booklet describing the process is available from the University of Dar es Salaam (Chungu, 1986).
+Ram press operation, near Ilonga, Tanzania
+Press type:
+ram press manufactured at Morogoro by the Craftsmen and Artisans Production Unit (CAPU, see Plate X).
+Seed processed:
+sunflower seed, 'Record' variety
+Operation:
+custom milling. Average of three labourers/day to operate the press.
+Throughput:
+up to 100 kg/day. Seed is heated in the sun before processing.
+Yield:
+50 kg 'Record' seed yield 30 kg cake and 15-16 l of 'raw' oil (14-15 l after clarification).
+Oil clarification:
+oil is boiled on a charcoal stove.
+Local farmers bring between 10-100 kg seed to be processed.
+Cake is mixed with maize bran and sold to local farmers.
+(Changu et al., 1987)
+Expeller operation
+Oilseed expeller operation, Usa River, near Arusha, Tanzania
+Expeller type:
+manufactured in Tanzania.
+Seed processed:
+undecorticated sunflower seed.
+Seed pre-treatment:
+sunflower seed sieved and winnowed.
+Throughput:
+60 kg/in: 900 kg/working day (15 h; two shifts of 7.5 h).
+Yield:
+60 kg seed yield 18-20 kg oil before settling.
+Oil clarification
+oil is allowed to settle for 2-3 days or is boiled with procedures: water (adding 50 l water to 50 l of oil) together with a handful of salt. Clarified oil recovery is 90% of the crude oil weight.
+Cake is sold locally as animal feed.
+Expeller trials with partially decorticated sunflower seed
+Laboratory trials have been carried out to compare the processing characteristics of sunflower seed containing differing amounts of hulls (Head et al., 1989). The results of these trials are summarized in Table 3.
+It would appear that r.p.m. reduction is related to hull content. Low hull content results in reduced load on the motor and lower operating temperatures. There seem to be no inherent problems associated with the processing of partially decorticated sunflower seed, and indications are that optimum extraction will occur with a hull level of about 20%. One practical observation made during these trials was that when running on partially-decorticated mixtures, the machine readily accepted 'flood' feeding and the wormshaft could be set to make a thinner cake.
+Effect of heat conditioning on the performance of a small-scale expeller processing undecorticated sunflower seed
+It has been reported that heat conditioning of low oil-content sunflower seed increases oil yield from 17.4 to 19.6 l/100 kg seed. This work was carried out using the De Smet Rosedown Mini 40 expeller (Head et al., 1990). This increase was achieved with a 25% reduction in the power requirement of the expeller, which suggests that heat conditioning of the seed may reduce expeller wear.
+<section>Minor oilseeds (reference list)</section>
+Argan
+Avocado
+Macadamia
+Niger seed
+Winged been
+A reference list of publications related to small-scale processing methods for minor oilseeds is given below.
+Argan
+HEAD, S. W., RAHMNI, M., HAMMONDS, T. W., HARRIS, R. V. and SOUTHWELL, K. H. (in press). Studies on the extraction of argan seed oil (Argania spinosa).
+Avocado
+SOUTHWELL, K. H., SWETMAN, A. A. and HARRIS, R. V. (1990) Extraction and refining of oil obtained from dried avocado using a small expeller. Tropical Science, 30: 121-131.
+SWETMAN, A. A. (1994) Extracting oil from avocado. Food Chain, (11): 10-11.
+WERMAN, M. J. and NEEMAN, I. (1987) Avocado oil production and chemical characteristics. Journal of the American Oil Chemists' Society, 64(2): 229-232.
+Macadamia
+MACFARLANE, N. (1981) Extraction of macadamia oil using a small expeller. Tropical Science, 23(3): 206-215.
+Niger seed
+SWETMAN, A. A. and HEAD, S. W. (1994) Ram pressing of niger (noug) seed (Guizotia abyssinica(L) Cass.) Oilseed Press, No. 2.
+Winged bean
+BODGER D. et al. (1982) An investigation of the extraction, refining and composition of oil from winged bean (Psophocarpus tetragonolobus [L.] D.C.). Journal of the American Oil Chemists' Society, 59(12): 523-530.
+References
+ATEN, A., MANNI, M. and COOKE, F. C. (1958) Copra processing in rural industries. FAO Agricultural Development Paper No. 63. Rome: FAO.
+ATI (1987) Village coconut processing in the Philippines. Appropriate Technology International Bulletin No. 10.
+ATI (in press) State-of-the-art study of small-scale coconut processing.
+BARRETT, J. C., HAMMONDS, T. W. and HARRIS, R. V. (1987) A technical and economic evaluation of a small-scale coconut oil expeller in the Cook Islands. Coconut Research and Development (CORD), 3(2): 60-86.
+BOUTIN, D. (1990) Small-scale coconut oilmills - use of fresh kernels. Oleagineux, 45(7): 327-331.
+BREAG, G. R., DREW, P. J. and JOSEPH, P. G. (1991) Production of coconut oil from fresh coconut meat using the waste-heat recovery technology: a 'new oil process'. Coconut Research and Development (CORD) 7(1): 35-48.
+CORBETT, S. (1981) A new peanut oil-press machine fails to improve older methods. VITA News, April 1981.
+CORNELIUS, J. A. (1979) Palm oil and palm kernel oil. Progress in Chemistry of Fats and other Lipids, (15): 5-27.
+CHUNGU, A. S. (1986) Preparation of cooking oil in the village; an instruction manual for IPI sunflower processing equipment. Tanzania: University of Dar es Salaam.
+CHUNGU, A. S., KAUNDE, O. K. and PROTZEN, E. Th. P. (1987) Development of village and homestead oilseed processing equipment. Presented at: A Workshop on Expert Consultation on Rural Vegetable Oil Expression and Utilization in the SADCC Region, Zanzibar, November 1987.
+DENDY, D. A. V. and TIMMINS, W. H. (1973) Development of a process to extract protein and oil from fresh coconuts. Published in 2 parts: Oleagineux, 28 Annee No. 12 - Decembre No. I - Janvier.
+DENDY, D. A. V. and TIMMINS, W. H. (1975) The processing of fresh coconuts. Chapter 14. In: Coconut palm products - their processing in developing countries. FAO Agricultural Development Paper No. 9. Rome: FAO.
+DIETZ, M. (1992) Technical solutions in Nepal. Food Chain no. 5: 13-14.
+DIETZ, M., METZLER, R. and ZARATE, C. (1989) Review of the Current State of Screw Expellers and Strategies of its Upgrading. Eschborn, Germany: GATE.
+HAMMONDS, T. W., HARRIS, R. V. and HEAD, S. W. (1991) The influence of moisture content on the extraction of oil from fresh, grated coconut. Tropical Science, 31: 73-81.
+HAMMONDS, T. W., HEAD, S. W., SWETMAN, A. A. and HARRIS, R. V. (1993) A low pressure method for the extraction of coconut oil from fresh coconuts. Proceedings of a workshop on village, small- and medium-scale processing of fresh coconuts, Philippine Coconut Authority, Manila, June 1993.
+HEAD, S. W., HAMMONDS, T. W. and HARRIS, R. V. (1989) Experiences with small-scale expellers in developing countries. Presented at: A Symposium on Edible Oil Processing, February 1987. Rugby, UK: Institution of Chemical Engineers.
+HEAD, S. W., HAMMONDS, T. W. and HARRIS, R. V. (1989) Experiences with small-scale oil expellers in developing countries. Presented at: A Symposium on Edible Oil Processing. Rugby, UK: Institution of Chemical Engineers.
+HEAD, S. W., HARRIS, R. V. and SWETMAN, A. A. (1990) An inexpensive oilseed conditioner. Appropriate Technology, 17(2): 28-30.
+ILO (1983) Small-scale oil extraction from groundnuts and copra. Technology Series, Technical Memorandum No. 5. Geneva, Switzerland: International Labour Office.
+JACOBSEN, L. A. and BACKER, L. F. (1986) Recovery of sunflower oil with a small screw press. Energy in Agriculture, 5: 199-209.
+KAMEL-ELDIN, A., YOUSIF, G., ISKANDER, G. M. and APPELQVIST, L.A. (1992) Seed lipids of Sesamum indicum, L. and related wild species in Sudan 1: fatty acids and triacylglycerols. Fat Science and Technology, 94(7): 254-259.
+LOBULU, W. (1990) Village sunflower project Arusha, Tanzania, project implementation and spread of benefits. Case study report. Arusha, Tanzania.
+LYON, C. K. (1972) Sesame: current knowledge of composition and use. JAOCS, 49(4): 245-249.
+NELSON, A. I., WIJERATNE, W. B., YEH, S. W., WEI, T. M. and WEI, L. S. (1987) Dry extrusion as an aid to mechanical expelling of oil from soybeans Journal of the American Oil Chemists' Society, 64(9): 1341-1347.
+RAMSEY, R. W. and HARRIS, F. D. (1982) On-farm soybean oil expression. pp. 252-260. In: Proceedings of the International Conference on Plant and Vegetable Oils as Fuels, Fargo, ND, August 1982. St Joseph, MI, US: American Society of Agricultural Engineers.
+SHANTHA, T. (1984) Aflatoxin in groundnut and its products and methods of detoxification - a review. Proceedings of Village Oil Industry Regional Technical Seminar, India, June 1982. India: Karnataka State Khadi and Village Industries Board.
+SIVAKUMARAN, K. and GOODRUM, J. W. (1988) Laboratory oilseed processing by a small screw press. Journal of the American Oil Chemists' Society, 65(6): 932-935.
+SOUTHWELL, K. H. and HARRIS, R. V. (1992) Extraction of oil from oilseeds using the hot water flotation method. Tropical Science, 32: 251-262.
+SWETMAN, A. A. and HARRIS, R. V. (1989) Small-scale sunflower seed processing in rural Zambia. Tropical Science, 29:157-169.
+THIEME, J. G. (1968) Coconut oil processing. FAO Agricultural Development Paper No. 89. Rome: FAO.
+VIDKE, V. S. and SOSULSKI, F. W. (1988) Mechanics of oil expression from canola. JAOCS, 65(7): 1169-1176.
+WIEMER, H. J. and ALTES, F. W. K. (1989) Small-scale Processing of Oilfruits and Oilseeds. Eschborn, Germany: GATE/GTZ.
+<section>Chapter 5 Oilseed products and further processing</section>
+<section>Oil for human consumption</section>
+Oils and fats constitute an essential part of the human diet. Together with proteins, carbohydrates, vitamins and minerals they are some of the main nutrients required by the human body. They are rich sources of energy, containing two and a half times the calories of carbohydrates (per unit weight). In addition to being a source of vitamins A, D, E and K, fats also contain essential fatty acids. Essential fatty acids cannot be manufactured by the body and must be obtained from the diet. Examples are linoleic and linolenic acids.
+Refined vegetable oils, and foods rich in fats, are readily available in developed countries; they can be found in great variety on any supermarket shelf. As foods containing carbohydrate and protein are also readily available, the importance of fat as an energy source in developed countries is probably less significant than its role in supplying vitamins and essential fatty acids.
+<section>Human food products prepared from oilseeds in africa</section>
+Culi-culi is a snack food made in Ghana from groundnuts, and is prepared from the de-oiled paste left over from the traditional village method for extracting oil from groundnuts. In this method, the groundnut kernels are reduced in size using a village hammer-mill or a pestle and mortar. The groundnut paste is put into a bowl and water is kneaded into it by hand. After the water has been added, the mixture is kneaded until the oil flows freely from the paste. The oil is decanted and used for cooking. The de-oiled paste is formed into rings and fried in oil to make culi-culi.
+Peanut butter This method for preparing peanut butter was used in a domestic science class at ATC, Farafenni, Gambia.
+1. Examine the decorticated kernels carefully and remove stones and other trash by hand. Sieve the kernels to remove any small stones which may still be present. Make sure that the groundnuts have no trace of mould growth.
+2. Remove any fine dust from the surface of the kernels by wiping them with a cloth.
+3. Prepare a fire and roast the kernels in sand. This is done by using a shallow bowl, about 300 mm in diameter, with a layer of clean, washed sand about 10 mm deep at the bottom. The layer of sand helps to transfer the heat evenly to the kernels without burning them. The kernels must be continually stirred with the sand while they are being heated. The roasting takes about 10 min.
+4. After roasting, remove the sand from the kernels by shaking them in a finely meshed sieve. After the loose sand has been removed, wipe the kernels with a cloth to remove any sand clinging to their surfaces.
+5. Remove the skins from the kernels by rubbing the kernels together. Shake the kernels and skins together in a bowl so that the skins collect at the bottom. Carefully sort out the kernels and remove them from the bowl.
+6. Add any salt desired to the roasted kernels and pound them into coarse fragments in a pestle and mortar. Finally, use a rolling pin to crush the fragments to make peanut butter.
+7. Hand-operated disc mills or meat-mincing machines can also be used to grind the roasted peanut kernels into peanut butter.
+<section>Use of oil-cake in animal feeds</section>
+Oil-cake is the residue obtained after the greater part of the oil has been extracted from an oilseed. Oil-cakes are rich in protein and most are valuable food for farm animals. The typical composition of selected oil-cakes is given in Table 4. Oil-cake from large-scale oil mills is often an ingredient of compounded animal feeds. Some seeds, such as castor beans, yield oil-cakes unsuitable for direct incorporation into animal feed as they contain toxic substances.
+It is only possible here to give a general account of the role of oil-cake in animal nutrition since blending optimum diets for different types of animals involves a number of considerations which are outside the scope of this book. Readers interested in obtaining further details on this subject are recommended to obtain NRI Bulletin 9 The small-scale manufacture of compound animal feed.
+Acceptable feeds can be produced by blending about 30% of oil-cake from small expellers with other local ingredients such as cereals and bran.
+Animal feeds consist of carbohydrates, fats and oils, and proteins, together with smaller amounts of minerals and vitamins which are essential for the proper functioning of body metabolic processes.
+Most farm animals will develop with feeding systems consisting of a small range of components, or even a single component, but production levels may be low and if the nutrient levels in the feed are not balanced, those present in excess will be wasted. Optimum yields of meat, milk or eggs are obtained by feeding farm animals appropriate quantities of various raw material components.
+The most important nutritional features of feed raw material are the amounts of usable energy and protein which they provide to various classes of livestock. In general, fats and carbohydrates are the main sources of energy, while proteins and minerals are necessary largely for the building and replenishment of body tissue. An adequate supply of protein is of particular importance for growing animals, which require a higher proportion of protein in their rations than mature animals.
+Most farm animals have either ruminant or non-ruminant digestive systems. Ruminant animals such as sheep, cattle and goats have compound stomachs; they have some capacity to digest dietary fibre and to convert non-essential amino-acids in their diet into essential amino-acids through rumen microbial fermentation. The non-ruminant animals are monogastric (with single stomachs), such as pigs and poultry. Non-ruminants have a very restricted capacity to digest fibre. Essential amino-acids, in the correct proportions must be provided by their diet as they cannot be formed in the body from other compounds.
+Roughage, concentrates and supplements are the main types of materials used for animal feeds. Roughage is made up of bulky fibrous plant materials, fresh, dried or ensiled, which are mainly suitable for feeding ruminant animals. Concentrates are non-fibrous, starchy or proteinaceous materials suitable for feeding to all kinds of animals. The main types of concentrates are cereals and cereal by-products, legumes, oil-cakes, dried starchy roots and tubers such as cassava and potatoes, animal and fish by-products such as meat, blood and bone meal, fish meal, and dried milk. Supplements are minerals, vitamins and medicaments which maintain animal health and ensure satisfactory feed conversion. Miscellaneous materials, such as grass and lucerne meals, dried sugar-beet pulp, molasses and carobs, are also used.
+The quality of the protein in oil-cake is considerably higher than that of cereals but it tends to be of poorer quality than animal protein and, in particular, meatmeal or fishmeal protein. Proteins consist of chains of sub stances called alpha amino-acids linked to one another. Some 20 amino-acids are normally found in proteins but it is now known that only some of these are 'essential', in that sufficient of them must be present in the ration to meet the minimum nutritional requirements of the animal. The quality of proteins for nutritional purposes is determined by the proportions of the essential amino-acids present.
+Oilseed proteins are normally deficient in one or more essential amino-acids. As a result they cannot provide adequate supplementation of the cereal proteins with which they are commonly used, and should be fed in conjunction with an animal protein, e.g. meatmeal or fishmeal, when given to monogastric animals.
+When oilseed residues are used to raise the protein level of animal diets, they may be complemented by legume seeds, animal by-products and synthetic amino-acids. As well as cost, the major decisive factor for using a particular oilseed residue depends on the amino-acid composition of the cereal and cereal by-products incorporated in the diet. If, however, most of the energy is derived from root crops, then the oilseed residues will be required in greater quantities to contribute a higher proportion of protein.
+Oilseed cake may make a significant contribution to the energy content of the diet, particularly when the oil content is high. Digestive disturbances, however, may result from the uncontrolled use of cakes rich in oil, or if the oil is unsaturated. Body fat may become soft and carcass quality may be lowered. Oilseed-cakes usually have a high phosphorus content but a low calcium content. They contain only negligible amounts of vitamin A-active materials, vitamin D and vitamin B12. The content of other group B vitamins is rather higher than that of pulses.
+The fat in oil-cakes is also usually a good source of linoleic acid, which is essential for animal metabolic processes.
+For oilseeds with fibrous husks, such as groundnuts and sunflower seed, the protein content of the oil-cake is higher if the husks are removed before the oil is extracted. Oil-cakes from oilseeds extracted with the husks on have a much higher crude fibre content than those from oilseeds from which the husks have been removed. Oil-cakes of high crude fibre content cannot be included in high proportions in feeds for non-ruminant animals.
+Oilseeds may contain a number of toxic or undesirable substances, which may pass unaltered into the oil-cake. These substances may be natural constituents of the seeds, such as gossypol and cylopropenoid fatty acids in cottonseed, cyanogenetic glycoside in linseed, ricin in castor beans, sinigrin or sinalbin in mustard seed, saponin in shea nuts, the trypsin inhibitor in soyabeans, or toxic mould metabolites, such as aflatoxin, which may form if the seeds are allowed to spoil by moulds. Rubber seed, in addition to containing cyanogenetic glucosides and a chemical factor with gossypol characteristics, has a shell which causes irritation in the animal's gastrointestinal tract. The effect of some of these undesirable factors can be reduced by restricting the amount of the particular oil-cake present in the animal's diet, by heating or steaming the oil-cake, by extracting it with water, or by using oil-cake from decorticated seed. The processing, particularly if heat is
+involved, may result in a lowering of the digestibility and in denaturation of the protein, with a consequent lowering of its nutritive value.
+If livestock are scarce in the locality where small-scale processing is being carried out, the local market for oil-cake my not be promising. The quantity of oil-cake produced using small-scale manual methods of extraction will usually be limited. Larger quantities will be produced from small oilseed expellers and it is possible for a market to be found for this material. Depending on the seed type, it may be possible to feed the residue directly to animals without further treatment. In the Cook Islands, copra cake from a small expeller has been sold to farmers as a pig feed supplement. In the Gambia, groundnut cake produced from a small expeller has replaced cake from a large-scale commercial mill in poultry rations used on a farm in a rural location. If a local market for the oil-cake cannot be found, it may still be worthwhile transporting it to a region where livestock ownership is more widespread. This will depend on sufficient quantities of the cake being produced.
+<section>Soap manufacture</section>
+Soap can be in short supply in rural areas of developing countries, but it may be made easily by mixing oils and fats with a solution of caustic soda in water. The process is simple but it needs to be done carefully. The oil, caustic soda and water used to make the soap have to be mixed together in the correct proportions. This is important because soap-making involves a chemical reaction between the oil and the caustic soda in the water. The oil and the caustic soda combine to make one product, the soap. In this reaction, a definite weight of oil reacts with a definite weight of sodium hydroxide If more caustic soda is used than is needed it will remain in the soap and produce a burning action on the skin.
+Making the caustic soda solution has to be carried out carefully since caustic soda is very corrosive. All contact with the skin should be avoided. On accidental contact, the skin must be washed immediately with water. It is advisable to wear safety goggles, or face shields, and rubber gloves when making up the solution. Caustic soda solution reacts with zinc, tin, aluminium and brass very readily, so only utensils and containers made from iron, steel, wood or plastic should be used. When the caustic soda is dissolved in water, a considerable amount of heat is generated. It is very important that when mixing the caustic soda and water, the caustic soda must always be added to the water. Never attempt to add the water to the caustic soda. This will cause an explosive evolution of heat. It is also important to add the caustic soda to the water in small amounts, at a slow rate, so that the solution does not heat up much above 60°C. If the caustic soda is added too quickly, the
+solution can boil and produce irritating caustic steam and spray.
+A number of things affect the soap-making process and the quality of the soap produced. The characteristics of the soap depend on the type and quality of the oil, and the amounts of caustic soda and water used to make it. The speed of the reaction between the oil and the caustic soda is influenced by the free fatty acid content of the oil, the temperature of the components before mixing, and how vigorously the mixing is done. High free fatty acid contents, vigorous mixing, and heat, tend to speed up the soap-making process.
+Two groups of fats are used for soap-making. The first group, the lauric oils are obtained from the kernels of different types of palm. The most common oils in this category are coconut oil and palm kernel oil. They are known as lauric oils because they contain lauric acid as the major fatty acid. These fats make a hard soap which produces a fast-forming lather with a strong detergent action. The soap tends to have a harsh effect on the skin. Soaps made from lauric oils are used as salt water soaps.
+Non-lauric oils are the other group of fats. These contain virtually no lauric acid and include a large selection of liquid oils such as olive oil, corn oil sunflower seed oil, groundnut oil, soyabean oil and cottonseed oil, as well as semi-solid fats such as palm oil and tallow. Soap made from the oils in this group produces lather more slowly than lauric oil soap, but the foam is longer-lasting, it has a milder detergent action and it has a gentler effect on the skin. Palm oil and tallow have a similar foaming action but the soaps produced are harder. Castor oil is also included in this category. It produces a hard but very soluble soap with poor foaming characteristics.
+By making blends of these different types of oils, soaps with a range of characteristics may be produced.
+The division of fats into lauric and non-lauric types is useful because it provides a simple way of calculating how much caustic soda should be added to the oil to make the soap.
+The lauric oils need to be mixed with caustic soda in the ratio, by weight, of one part of caustic soda to six parts of oil, i.e. 1 kg of caustic soda needs to be added to every 6 kg of lauric oil.
+The non-lauric oils require less caustic soda to make soap. They require the ratio by weight of one part of caustic soda to eight parts of oil, i.e. 1 kg of caustic soda needs to be added to every 8 kg of non-lauric oil.
+These ratios use slightly less caustic soda than is theoretically needed to make soap from the oil which has been measured out. This it to make sure that no excess caustic is left in the finished soap.
+When a mixture of oil types is used to make soap, the amount of caustic soda is calculated according to the amount of lauric and non-lauric oils present in the mixture. For example, a mixture of 2 kg of lauric oil and 8 kg of non-lauric oil would require 0.33 kg of caustic soda to react with the lauric fat, and 1 kg of caustic soda to react with the non-lauric fat. This adds up to a total of 1.33 kg of caustic soda for the 10 kg total weight of the fat mixture.
+The caustic soda required to react with the fats is dissolved in water in the ratio of one part of caustic soda to two parts of water by weight. For example, 1 kg of caustic soda should be dissolved in 2 kg of water. The amount of water used is important as it affects the way in which the caustic soda reacts with the oil; also, excess water will evaporate from the finished soap when it is stored and cause it to distort and shrink.
+The equipment needed for soap-making includes a weighing machine, volume measure, vessels to mix the caustic soda solution and make the soap in, stirring rods, soap moulds, and wire to cut the finished soap into tablets.
+If they are available, kitchen or bathroom scales should be used to weigh out the materials. Volume measures such as those used in kitchens, or containers or bottles of known capacity, such as 1 litre, can also be used. A plastic bucket of about 8-10 l capacity is a useful vessel for mixing the soap ingredients in. Stirring rods can be made simply from suitable lengths of wood.
+Soap moulds can be made from wood, but cardboard boxes are also suitable. A table can be adapted to make a soap mould by attaching removable lengths of wood, about 2.5 cm high, around the edge so that the block of soap can be moved forward for cutting after it has set. Larger moulds can also be made from boxes about 0.5 x 0.25 m in size which can be taken apart to release the soap after it has set. Lining the mould with thick plastic sheeting helps to stop the soap sticking in the mould and makes it easier to remove. Spreading a thin layer of petroleum jelly over the plastic sheet also helps to prevent the soap from sticking to the mould.
+A length of cheese-wire or wire tuna-fishing line, attached at each end to wooden handles, can be used to cut up the soap blocks. For making soap tablets, a cutting board equipped with a guide-rail to align the soap bar at right angles to the cutting wire can easily be constructed from wood.
+It is best to measure out the ingredients for soap making using a weighing machine such as bathroom or kitchen scales. However, if the caustic soda is sold in small packs of known weight, such as 1 kg packs, it will be possible to make soap without needing a weighing machine provided that volume measures, such as 1 l bottles, are available. The 1 kg of caustic soda from the pack is used as the basis for calculating the proportions of oil and water needed to make the soap. When measuring out the oil and water using a volume measure, it must be remembered that 1 l of water weighs 1 kg and that 1 l of oil weighs about 0.92 kg. Half litres can be measured using 1 l bottles of the same type; one of the bottles is filled with oil which is then poured into an empty bottle until the same level of oil is reached in each. Each bottle then contains 0.5 l. This process can be continued to measure 0.25 l by pouring the 0.5 l of oil into another empty bottle until the same level is
+reached in each. By making marks on the side of the bottles corresponding to the 0.5 l and 0.25 l levels obtained in this way, simple volume measures can be made.
+To make soap from coconut oil using a 1 kg pack of caustic soda, first dissolve the 1 kg of caustic soda in 2 l of water (2 l of water weighs 2 kg) in a suitable plastic container.
+Measure out 6.5 l of coconut oil (6.5 l of coconut oil weighs 6 kg) into a plastic bucket. The oil needs to be between 30 and 40°C; normal tropical day-time temperatures are usually satisfactory.
+Allow the caustic soda solution to cool to about body temperature, 35-40°C, before adding it to the coconut oil. When the caustic soda solution has cooled, pour it slowly into the coconut oil, stirring the oil all the time so that the caustic soda solution is absorbed into the oil and does not separate from it. If the oil is slow in absorbing the caustic soda solution, add it in small amounts at a time and stir it well into the oil so that it is absorbed before more caustic soda solution is added. When all the caustic soda solution has been added keep stirring the mixture until it begins to thicken and patterns can be drawn on the surface with the tip of the stirring rod. The speed at which this thickening occurs is greatly influenced by the free fatty acid content of the oil used. The higher the free fatty acid content, the quicker the oil thickens. At this stage, before it thickens any further, the soap must be poured into moulds and allowed to harden for about 24 h.
+During this hardening time, the soap-making reaction continues and the soap will feel warm to the touch.
+After the soap has hardened it should be removed from the mould and cut up into tablets using cutting wire. The soap tablets need to be stored for about two weeks before being used. This is to allow time for all the caustic soda to react with the oil. About 9 kg of soap will be obtained, equivalent to 90 soap bars of 100 g each.
+In this soap-making method, the 1 kg of caustic soda was dissolved in 2 l of water. This makes a strong solution of caustic and helps to reduce the time that the soap takes to thicken when it is being mixed. However, if the oil has a high free fatty acid content, the soap may thicken too quickly and make it difficult to add all the caustic soda solution. If this happens, dissolve the 1 kg of caustic soda in 2.5 l of water for making the next batch of soap from the same oil. This makes a weaker solution and increases the time taken for the soap to thicken, but still makes a good quality soap with the advantage that 500 g of extra soap are made.
+When oils with a very low free fatty acid content are used, the soap may take a long time to thicken. If the soap takes much longer than 45 min. to thicken, the caustic may not be absorbed very well. If this happens, it is best to heat the oil until it is just bearable to touch, about 60°C, before mixing in the caustic soda solution. This will decrease the time taken for the soap to thicken.
+To make soap from a non-lauric oil using a 1 kg pack of caustic soda, use 8.75 l of the oil (about 8 kg) and follow the same method used to make soap from coconut oil.
+Fragrances and colouring may be added just as the soap mixture starts to thicken, stirring them in well just before pouring it into the moulds. These fragrances are usually added in the form of essential oils at about 1% of the total soap weight. For the 9 kg of coconut oil soap described above, about 90 g of essence would be needed. This would be equivalent to about 20 teaspoonsful of citronella oil.
+The quantity of dye required for colouring soap is very small; usually, only 0.01-0.03% is needed. For 9 kg of soap this would be about 0.9-2.7 g. The dye should be added as a strong solution, either in oil or water depending on the nature of the dye used. Try dissolving about half a teaspoonful of colour in about 50 ml of water or oil before adding it to the soap. Only edible dyes should be used.
+References
+ANON. (undated) Soap-making by the cold process. Coconut Development Authority Advisory Leaflet No. 10. Colombo, Sri Lanka: Coconut Development Authority.
+DONKOR, P. (1986) Small-scale Soapmaking. London: Intermediate Technology Publications Ltd.
+LONSDALE, C. (1989) Straights raw materials for animal feed compounders and farmers. Marlow, UK: Chalcombe publications.
+McDONALD, P., EDWARDS, R. A. and GREENHALGH, J. F. D. (1973) Animal nutrition. Edinburgh: Oliver & Boyd.
+PALMER-JONES, R. and HALLIDAY, D. (1971) The Small-scale Manufacture of Compound Animal Feed. Report G67. Chatham, UK: Natural Resources Institute. [out of print.]
+PARR, W. et al. (1988) The Small-scale Manufacture of Compound Animal Feed. Natural Resources Institute Bulletin 9. Chatham, UK: Natural Resources Institute.
+SWEETMAN, A. A. (1992) How to make soap. Food Chain, (5): 19.
+Append ices
+<section>Appendix 1 Currency conversion table</section>
+(equivalents to one US $*)
+Country
+Currency
+Symbol
+Value
+United States
+Dollar
+Germany
+Mark
+DM
+United Kingdom
+Pound
+Netherlands
+Guilder
+FL
+Belgium
+Franc
+BF
+Note: * as at December 1993
+<section>Appendix 2 Sources of equipment</section>
+Decortication and winnowing
+Known sources of equipment for the decortication of sunflower seeds, groundnuts and palm kernels are listed below.
+Sunflower seed
+Tinytech Plants, India. Decorticator, capacity 300 kg/in with 2 hp electric motor. Price US$ 500.
+UNATA, Belgium. Decortication in a hammer mill followed by husk separation in a winnower. The prices of the hammer mill and winnower are 61000 and 28000 Bfrs, respectively. The equipment is hand driven but can be motorized if required.
+CeCoCo, Japan. This company manufactures equipment for decorticating and winnowing sunflower seed in both manual and powered versions.
+Groundnuts
+Alvan Blanch, UK. This company offers a manually operated decorticator with a throughput of 100 kg/in in kit form priced at £150. A manually operated machine with an inbuilt winnower having a throughput of 150 kg/ h costs £1140; this can also be supplied powered by an electric motor or diesel engine.
+SPF, India. This company manufactures three powered groundnut decorticators, the smallest having a capacity of 20 bags of undecorticated seed/in.
+Tinytech Plants, India. Groundnut decorticator, capacity 350 kg/in with inbuilt blower to remove husks, grade kernels and split kernels. Price US$ 600 without motor.
+UNATA, Belgium. This company manufactures a groundnut decorticator and a separate winnower costing 32000 and 28000 Bfrs, respectively. The equipment is hand driven but can be motorized if required.
+CeCoCo, Japan. This company manufactures machines for decorticating and winnowing groundnuts in both manual and powered versions.
+Palm kernels
+Alvan Blanch, UK. A range of palm nut crackers and separators can be supplied. The smallest machine, which is hand operated, has a capacity of 120 kg/in and costs £ 1280.
+Tinytech Plants, India. Decorticator, capacity 300 kg/in with 2 hp electric motor. Price US$ 500.
+UNATA, Belgium. UNATA use their hammer mill (priced at 61000 Bfs) to achieve decortication. The mill is hand driven but can be motorized if required.
+General SPEC, India, manufacture three decorticators, the smallest of which is priced at US$ 1350 (excluding motor).
+Seed cleaning
+Seed cleaning at a small-scale level is usually carried out manually either by winnowing or sieving. The importance of this operation prior to expelling is again stressed, especially in relation to sunflower seed and sesame processing.
+Size reduction
+Alvan Blanch, UK. The company manufactures a wide range of hammer mills with options of drive by electric motor, diesel engine, petrol engine and tractor. The smallest model, the 'Merrymill' is priced at around £ 1100. Alvan Blanch also make vertical steel plate mills, the smallest of which costs £ 98 hand operated, or £ 235 powered by a single-phased 0.37 kW electric motor.
+Christy Hunt, UK. This company manufactures the 'Christy Norris' range of hammer mills and the 'Atlas' and 'Premier' range of small-scale manual and powered disc mills.
+CeCoCo, Japan. The company manufactures three 'seed crushers' which operate on the hammer mill principle. Seed throughput ranges from 300 to 1000 kg/in.
+Ecirtec, Brazil. Ecirtec manufactures a small hammer mill with a seed throughput of around 60-80 kg/in. The cost of this mill is US$ 1800.
+IBG Monfords Gmbh & Co., Germany. IBG Monfords manufacture the 'Komet' cutting machine which is designed to operate on a range of oilseeds including copra and palm kernels. The mill contains two serrated cutting wheels which rotate at different speeds giving a cutting action The 'ax-works' cost of this machine, complete with 1.1 kW three-phase motor, is DM 6315.
+Laxmi Vijay Brass & Iron Works, India. This company makes two disc mills which are suitable for grinding small seeds and oilseed cakes.
+Miracle Mills Ltd, UK. This company's 100 Series hammer mills are suitable for most small-scale applications.
+MRN, Germany. MRN fabricates a small crusher suitable for copra and palm kernels. Power is supplied by a 2.2 kW electric motor.
+SPEC, India. The company offers a choice of three copra cutters and five disintegrators. The smallest copra cutter is priced at US$ 550.
+SPF, India. The company manufactures two copra cutters which operate on the hammer mill principle. The smaller version has a capacity of 1 t/in.
+The Rex Trading Co., India. This company manufactures a range of disintegrators, some of which are suited to small-scale operation.
+Tinytech Plants, India. Tinytech manufacture a small hammer mill with a capacity, using copra, of 300 kg/in. The cost of this machine is US$ 700.
+UNATA, Belgium. UNATA market a general-purpose, manually-operated machine that operates both as a hammer mill and a decorticator for palm nuts. When grinding palm kernels, the throughput is 20 kg kernels/in. The machine in its hand-driven version costs 61500 Bfrs.
+Rolling
+UNATA, Belgium. UNATA recommend rolling oilseeds to produce flakes in their processing systems. The cost of the machine in its hand-driven version is 53000 Bfrs.
+Conditioning
+CeCoCo, Japan. This company manufactures three seed 'scorchers' which may be built into a hearth and heated by firewood or oil.
+Ecirtec, Brazil. Ecirtec manufactures a seed conditioner similar in construction to the CeCoCo 'scorcher'. The cost of this unit is US$ 2750.
+UNATA, Belgium. UNATA can supply parts and plans for the construction of a heating oven which can heat seed to a temperature of about 85°C in about
+20 min. Heating capacity matches the capacity of the UNATA bridge press. The cost of the basic parts for this oven is 24000 Bfrs.
+Note on conditioners for expellers. Some manufacturers of small expellers can fit steam-heated conditioning kettles. These include Ludhiana Expeller Ind., India and Tinytech Plants, India. MRN, Germany, fabricate a conditioner which can be heated by steam, electricity, light fuel oil or diesel.
+Manual presses
+Plank press
+ITDI, Philippines. This organization has described the use of a plank press for the extraction of coconut milk from freshly-grated coconut.
+Bridge-type presses
+Agricultural Engineers Ltd, Ghana. This company manufactures a manually-operated press suitable for palm oil processing.
+Alvan Blanch, UK. This company manufactures a bridge press which is suitable for general oilseed processing. The cost of the press is £ 850.
+Anglesey Hydraulics, UK. This company manufactures a heavy-duty hydraulic press with a 45 l cage. The maximum pressure applied to the seed is 54 kg/cm². The press is supplied with three cages. While one cage is being pressed, the second cage containing pressed material can be emptied, while the third cage is reloaded.
+000, The Netherlands. DDD manufactures and sells an 81 capacity 'spindle' press designed by KIT which costs 1940 FL. The press is equipped with a steel 'spindle' which turns in a cast-iron nut, and the frame is constructed from sheet metal. As the weight of this press is only 60 kg, it can easily be transported on a bicycle (as being practiced in Casamance). The maximum attainable pressure is 40 kg/cm². The capacity of the press is half that of the UNATA press.
+NRI, UK. NRI can supply the plans of a bridge press. The cost of building this press in the UK is estimated at £ 1000. A recent cost estimate obtained in the Solomon Islands was £ 660 for a single press or £ 550 for one of a production run of six. The cost can be considerably reduced if the construction is adapted to allow fabrication from locally-available materials.
+TDAU, Zambia. TDAU manufactures a simple bridge press which costs US$ 200. The capacity is quoted at 50 kg/day (for sunflower seed or groundnuts), yielding 6-8 l of oil.
+UNATA, Belgium. This press, which is at the centre of all UNATA's processing methods, is priced at 45000 Bfrs. This normal version has a 17 l cage which is manufactured in two forms depending on the type of seed being processed. For palm fruit, the cage has 6 mm oil drainage holes, while for other seeds, the hole size is reduced to 2 mm.
+Ram press
+ApproTEC, Kenya. This organization has developed a ram press which is claimed to be ergonomically correct.
+CAMARTEC, Tanzania. CAMARTEC manufacture a small version of the ram press termed the BP-30. This machine is priced at about 40000 TSh.
+CAPU, Tanzania. CAPU have several workshops in Tanzania which manufacture this version of the ram press. The machine costs about 100000 TSh.
+TDAU, Zambia. This organization has developed a stronger version of the Bielenburg press which is reported to be suitable for processing the common type of locally-grown sunflower seed with a thick shell. The press can be purchased at TDAU and other Zambian manufacturers.
+Ghani
+The Rex Trading Co., India. This company manufactures a rotary oil mill which can be powered either by an electric motor or a diesel engine.
+Tinytech, India. This company can supply a power ghani with a seed throughput of 12 kg/45 min. The ghani is powered by a 2 hp single-phase electric motor.
+Expellers
+Capacity of small expellers A small expeller is regarded in this manual as being capable of processing oilseeds within the range of 15 to 100 kg/in.
+Agricultural Engineers Ltd, Ghana. This company is known to manufacture an expeller but no details are available.
+Alvan Blanch, UK. This company manufactures an expeller which operates on the same principle as the Mini 40 expeller, but is called the Mini 50. Power is supplied through a 5.5 kW electric motor or a diesel engine. The cost of the electrically-powered Mini 50 is £ 3695, while the f.o.b. cost of a spares kit containing a wormshaft, set of cage rings, a choke ring and other items, is £ 1154. The cost of the diesel-powered version and spares kit is £ 4195 and £ 1208, respectively.
+Anderson International Corporation, US. Anderson have recently introduced a new expeller called the Lion-90. The capacity of this machine is 45-180 kg/in, depending on the seed.
+BAR N. A., Incorporated, US. This company markets several small-scale systems to extract oil mechanically from soyabeans and process the soyacake further into low cost human foods. Extrusion cooking equipment is used in the extraction system before expelling.
+Bismillah Machinery Store, Pakistan. The New Lahore expeller has a rapeseed throughput of around 65 kg/in. It is powered by a 7.5 kW motor and is used widely in Pakistan. There are many companies manufacturing similar designs to this expeller.
+CeCoCo, Japan. CeCoCo manufactures an extensive range of small-scale processing equipment including four expellers. These expellers have throughputs of between 30 kg/in and 130 kg/in.
+The smallest expeller (see Figure 13) in the range is the Type 52. It has a nominal capacity of 30-50 kg seed/in and is powered by a 2.2 kW electric motor. The cost of this expeller (c.i.f., Amsterdam) is US$ 11860; this includes standard spare parts (comprising one wormshaft, a set of cage bars and two taper rings) for 600-800 h running. The cost of spare parts for two years of operation (4800 h running) is assessed by the company as follows:
+6 wormshafts
+@ US$ 520 each
+US$ 3120
+6 cage bar sets
+@ US$ 480 each
+US$ 2880
+12 taper rings
+@ US$ 70 each
+US$ 840
+The exact requirement for spare parts will depend both on the nature of the seed and its method of preparation.
+The next size up is the Type M which processes 50-80 kg seed/in. It is fitted with a cake-breaking device and is powered by a 3.7 kW electric motor.
+The Type H-54 is able to process 80-100 kg seed/in and is powered by a 7.5 kW electric motor.
+CeCoCo's Type EX-100 expeller is capable of processing 100-130 kg seed/in. This expeller is also powered by a 7.5 kW motor.
+All the above expellers can be operated using diesel engines as well as electric motors. The barrels of CeCoCo expellers consists of steel bars assembled axially in line with the wormshaft. Cake is discharged as flakes. The wormshafts of the larger CeCoCo expellers are manufactured with removable flights so that when the end becomes worn after extended use, only that portion needs to be replaced and not the complete wormshaft.
+De Smet Rosedowns, UK. This manufacturer makes the Mini 40 expeller (see Figure 18) which has a throughput of 15-60 kg/in depending on the oilseed being processed.
+The Mini 40 barrel consists of 12 cast-iron rings arranged to fit on three bars running parallel to the wormshaft to form a barrel through which the wormshaft rotates. Spacer shims fit onto the bars and between each ring to form gaps through which the expelled oil is discharged. The size of the shims is adjusted to suit the seed being processed. The wormshaft supplied with the Mini 40 is of a single-piece construction. When this item becomes worn, the whole wormshaft needs to be replaced. The unit can be powered by a 4 kW electric motor or a 6.6 kW diesel engine. The electrically-powered version is fitted with an electromagnetic vibratory feeder.
+Current prices vary from about £ 6900 for the electric Mini 40 and £ 8500 for the diesel-powered unit. The cost of wear parts is as follows:
+Wormshaft
+Set of cage rings
+Choke ring
+Ecirtec, Brazil. Ecirtec has developed a small-scale expeller similar in design to the De Smet Rosedown Mini 40. The expeller is powered by a 3 kW electric motor through a helical wormgear providing a wormshaft speed of 70 r.p.m.
+The price of the press is US$ 3720, while a complete set of wear parts (wormshaft, cage rings and choke ring) is US$ 1035. These prices are f.o.b. Santos.
+Essential Products, Bangladesh. This company makes an inexpensive expeller designed to process rapeseed/mustardseed.
+FAKT, Germany. FAKT is a German consulting firm which has developed an expeller for GTZ in close collaboration with Development and Consulting Services in Butal, Nepal, and Tinytech Ltd, Rajkot, India. The expeller, called the Sundhara, has a capacity of 30-40 kg seed/in. One of the key objectives in the development of the Sundhara expeller was the creation of a design which could be manufactured in reasonably well-equipped workshops in developing countries. The press can be obtained from a manufacturer in Germany for DM 17000 (enquiries through FAKT). FAKT is presently assisting the development of manufacturing facilities in Nepal and India where the price will be $ 1250.
+IBG Monforts & Reiners GmbH & Co. This company manufactures the Komet spindle press (see Figure 19). The design of this expeller differs from most other small expellers. Normally, the pitch of the screw on the wormshaft is such that it provides increased compression as the seed passes through the machine. In the Komet expeller, the screw on the wormshaft is of an even pitch. The barrel in all the Komet expellers consists of a length of tubular steel into which pin holes are machined, at regular intervals, for the discharge of expelled oil. Cake is extruded through a hole in a nozzle. The size of the nozzle determines the back-pressure on the seed. A variety of sizes are available. The press is made in two sizes and with different power sources as follows:
+Komet CA 59 This is an electrically-operated (0.4 kW) expeller which operates a very small wormshaft through a gearing mechanism. The throughput of this machine (with a wormshaft speed of 45 r.p.m. is 8-15 kg/in depending on the oilseed being processed. It is not possible to drive the expeller with a diesel or petrol motor. However, the machine can be supplied for hand operation in two forms: the Komet CA 59-1 H operated through a direct-drive gearing mechanism; and the CA 59-2 H operated using a chain drive. In addition, the expeller can be supplied as the CA 59-2 F model which uses a pedal system operated by two people pedalling simultaneously. It is doubtful whether the non-electric versions of the press can be operated at a regular speed of 45 r.p.m. continuously without the operators becoming tired. Throughputs lower than that quoted above are therefore likely to be achieved.
+DD 85 This machine consists of two expellers mounted side by side and driven from a common electric motor or diesel engine (see Figure 18). The electric motor is a 1.75/3.5 kW two-speed type, giving two wormshaft speeds of 29 r.p.m. and 58 r.p.m. to both expellers. The throughput is 25-70 kg/in depending on type of seed. The expeller can also be supplied with a diesel engine.
+When starting up a Komet expeller it is essential to pre-heat the press-head and nozzle. This can be done by an electrical heater which may be purchased with the machine, or simply by heating the items in boiling water. Starting the flow of cake can be aided by the judicious use of a suitable tool (an old screwdriver) placed in the nozzle hole and hit with a hammer. The operator should wear protective goggles during this operation as the cake may initially be ejected with considerable force. In operation, oil production must be carefully watched since it tends to fall as the holes in the barrel become blocked. At this point the machine should be stopped and a replacement cage installed. Provided this is carried out quickly there is no difficulty in restarting the machine. The blocked cage can then be cleaned.
+Insta-Pro International. This company markets the technology for the extrusion/expelling of soya.
+Moparco, Zambia. Moparco manufactures an expeller with a capacity of about 40 kg oilseed/h.
+Laxmi Vijay Brass & Iron Works, India. This company manufactures the Arun mini expeller which is priced at US$ 4500.
+MRN, Germany. MRN manufacture a range of expellers including one, the AP VII, for small-scale operation. This is a particularly strong machine and is essentially a scaled-down version of a conventional oilseed press. The capacity is between 60 and 100 kg/in depending on the kind and condition of the seed. The wormshaft is constructed in two sections which allows for their separate replacement; the section adjacent to the cone is particularly subject to wear. The press cage is of the conventional cage bar design and is divided into four sections. These sections are of the same length and diameter, and the gaps between the bars may be adjusted for optimum operation. The power requirement is 5.5 kW for most 'soft' seeds but this is increased to 7.5 kW for 'hard' seeds such as palm kernels and coarse-crushed copra. Power may be supplied by an electric motor or a diesel engine.
+Sichuan Grain Machinery Works, China. This company manufactures small-scale oil expellers which have been applied to the wide range of oilseeds found in China, including rapeseed, cottonseed, tuna seed, sunflower seed, tea seed and rice bran.
+TDAU, Zambia. This organization manufactures an ox-powered oil press (see Figure 20) which can process a range of oilseeds without pre-conditioning. The capacity for sunflower seed or groundnuts is 50 kg for a 4 h period of operation. The cost of the expeller is about US$ 3000.
+Themi Farm Implements, Tanzania. This company manufactures an expeller with a throughput of about 60 kg sunflower seed/in. This machine can be powered either by electricity or by a diesel engine.
+Penchi Agricultural Tool and Machinery Works, China. This company makes and expeller model ZYB 78. The authors have seen this machine being used for cottonseed and sunflower seed processing in Zambia. The capacity is about 40 kg oilseed/h.
+SP Engineering Corporation, India. This company includes several small-scale expellers in its range of processing equipment, with throughputs of up to 85 kg/in. Prices, which do not include the cost of the electric motor, range from US$ 735 to US$ 3200.
+SP Foundries, India. SP Foundries manufacture a range of small-scale expellers at prices ranging from US$ 298 for the smallest table-top version, to US$ 2440 for a machine with a capacity of 100 kg seed/in.
+Tinytech Plants, India. The Tinytech Lokpal expeller has a throughput of 40 kg seed/in which costs US$ 1500. The company also manufactures the Sundhara expeller which is based on a design supplied by the German organization FAKT. The Sundhara expeller is priced at US$ 1100.
+General note on expellers
+The expellers mentioned above all have relative merits and drawbacks in terms of cost, ease of local repair of replaceable parts, ease of obtaining replacement parts from overseas, and suitability of the press for a given oilseed. For instance an inexpensive machine designed to process rapeseed and mustardseed may not perform well on other oilseeds. The end of the wormshaft on the larger CeCoCo expellers is removable and can easily be replaced when worn, but this replacement part is relatively expensive when purchased from CeCoCo in Japan. However, it is not as expensive as replacing a complete wormshaft, which is required in the case of the Mini 40 and Komet expellers. Of course, the costs can be reduced if local workshop facilities exist and a suitable repair (e.g. welding of worn parts) can be effected; the existence of local workshops willing and able to carry out repair work should be considered of major importance for a successful venture. The ready availability of
+workshops in Asia is a major factor contributing to the successful operation of small-scale expellers on the continent. Running costs for these machines can be more than expected and costs can be reduced by not having to import spares.
+NRI prototype expeller
+NRI has developed a prototype expeller which incorporates the design features from many of the commercial expellers mentioned above. It includes a nozzle arrangement for regulating seed throughput and degree of pressure in the expeller, a wormshaft with a square-cut screw, and drive arrangements based on a commonly available chain. It is hoped that incorporating such features into the expeller design will make it easy to manufacture in developing countries. This prototype is currently undergoing long-term trials in the Gambia where it is being used to process sesame seed and groundnuts. If necessary, the design will be refined before plans are made available to interested manufacturers.
+Oil clarification
+The following manufacturers can supply conventional plate and frame filter presses:
+Agricultural Engineers Ltd, Ghana
+CeCoCo, Japan
+Ecirtec, Brazil
+Laxmi Vijay Brass & Iron Works, India
+Sichuan Grain Machinery Works, China
+SKET, Germany, expeller unit mounted in a container
+SP Engineering Corporation, India
+SP Foundries, India
+Tinytech Plants, India
+The Zambia-based Technology Development and Advisory Unit (TDAU) has developed an inexpensive oil filter designed specifically for sunflower oil produced in a ram press. In this equipment, the crude oil is passed through a layer of sunflower cake which is supported on a layer of sunflower seeds. The capacity is 15-20 l/day and the price is US$ 25.
+Suppliers of complete process plant and sources of advice
+The following organizations can supply, or offer advice, on complete process plant:
+Alvan Blanch, UK
+ATI, US
+BAR N. A., Incorporated, US, extrusion/expelling of soya
+CeCoCo, Japan, extensive range of small-scale equipment
+Ecirtec, Brazil
+FAKT, Germany
+GATE, Germany
+GRET, France
+IBG Monforts, Germany, based on the Komet 'spindle' press
+Insta-Pro International, extrusion/expelling of soya
+IPI, Tanzania
+J.B. Central Research Institute, Gujarat State, India
+Khadi & Village Industries Commission, Bombay, India
+KIT, The Netherlands
+Laxmi Vijay Brass & Iron Works, India
+MRN, Germany
+NIFOR, Nigeria, complete plant oil palm processing
+NRI, UK
+OTRI, Andhra Pradesh, India
+Regional Research Laboratory, Andhra Pradesh, India
+RENTEC n.v., Belgium, range of modular mills for oil palm processing
+Sichuan Grain Machinery Works, China
+SKET, Germany, expeller unit mounted in a container
+SP Engineering Corporation, India
+SP Foundries, India
+TCC, Ghana, complete plant oil palm processing, also shea nuts and groundnuts
+TDAU, Zambia, appropriate technology
+Tinytech, India, small expeller plant
+TOOL, The Netherlands
+UNATA, Belgium, appropriate technology for processing oil palm fruits, palm kernels, groundnuts and sunflower
+VOPP, Tanzania
+<section>Appendix 3 List of abbreviations and addresses</section>
+Alvan Blanch Development Co. Ltd
+Chelworth
+Malmesbury
+Wilts
+SN16 9SG, UK
+AAB:
+AFRICA ASIEN BUREAU
+Schildergasse 93-101
+Postfach 100 193
+D-5000 Köln 1, Germany
+Agricultural Engineers Ltd
+Ring Road
+West Industrial Area
+PO Box 1217
+Accra North, Ghana
+Anderson International Corporation
+6200 Harvard Avenue
+Cleveland
+Ohio 44105, United States
+Anglesey Hydraulics & Associates
+Llawr Tyddyn
+Bodedern, Holyhead,
+Anglesey, LL65 4TD, UK
+APICA:
+BP 5946
+Douala Akwa, Cameroon
+ATDA:
+Appropriate Technology Development Association
+PO Box 311
+Lucknow - 226 001, India
+ATI:
+Appropriate Technology International
+1331 H Street, N.W.
+Washington, DC 20005, United States
+Bismillah Machinery Store
+Pakistan
+BAR N. A., Incorporated
+205 South Main Street
+PO Box 190,
+Seymour, Illinois 61875, US
+CAMARTEC:
+Centre for Agricultural Mechanization & Rural Technology Arusha, Tanzania
+CAPU:
+The Craftsmen & Artisans Production Unit
+c/o Village Oil Press Project
+PO Box 1409
+Arusha, Tanzania
+CeCoCo:
+Chuo Boeki Goshi Kaisha
+PO Box 8
+Ibaraki City
+Osaka 567, Japan
+Christy Hunt Agricultural Ltd
+Foxhills Industrial Estate
+Scunthorpe
+South Humberside
+DN15 8QW, UK
+CEPAZE:
+18 Rue de Varenne
+75007 Paris, France
+CONGAT:
+Conseil de Organismes Non-Governementaux en Activite
+au Togo
+BP 1857
+Lome, Togo
+Dedicated Design Development
+W Nijhoff, Boddenkampstraat
+7522BZ Enschede, The Netherlands
+De Smet Rosedowns Limited
+Cannon Street
+Hull
+HU2 0AD, UK
+DMA:
+Division du Machinisme Agricole,
+Ministere de l'Agriculture
+BP 155
+Bamako, Mali
+E R & F Turner Ltd
+Knightsdale Road
+Ipswich
+IP1 4LE, UK
+ECIRTEC
+Rua Padre Anchieta
+No 7-61 - Jardim Bela Vista
+17060-400 - BAURU - SP, Brazil
+ENDA:
+BP 3370
+Dakar, Senegal
+FAKT:
+Association for Appropriate Technologies in the Third
+World
+Stephen-Blattman-Strasse 11
+D-7743 Furtwangen, Germany
+FAO:
+Food and Agriculture Organization of the United Nations
+Viale delle Terme di Caracalle
+00100 Rome, Italy
+G RET:
+Groupe de Recherche et d' Echanges Technologiques
+213 Rue Lafayette
+75010 Paris, France
+GTZ/GATE:
+Gesellschaft fur Technische Zusammenarbeit (GTZ)
+German Appropriate Technology Exchange (GATE)
+Postfach 5180
+D-6236 Eschborn 1, Germany
+IBE:
+Institut Burkanibe de l'Energie
+BP 7047
+Ouagadougou, Burkina Faso
+IBG:
+Monforts & Reiners GmbH & Co.
+Postfach 20 08 53
+D-4050 Monchengladbach 2, Germany
+ICCO:
+Interchurch Co-ordinating Committe for Development Co operation
+PO Box 151
+LN-3700 AD Zeist, Netherlands
+ILO:
+International Labour Organization
+CH-1211 Geneva 22, Switzerland
+Insta-Pro International
+10301 Dennis Drive
+Des Moines, Iowa 50322, US
+INTSOY:
+International Soybean Program
+University of Illinois at Urbana-Champaign
+113 Mumford Hall
+1303 West Gregory Drive
+Urbana, Illinois 61801, US
+IPI:
+Institute of Production Innovation
+PO Box 35075
+Dar es Salaam, Tanzania
+ITDI:
+Industrial Technology Development Institute
+Department of Science and Technology
+PO Box 774
+Manila, Republic of the Philippines
+JB Central Research Institute,
+Manganwadi, WARDHA (PO)
+Gujarat State, India
+Karite Project
+Projet Karite
+BP 296
+Koudougou, Burkina Faso
+Khadi & Village Industries Commission
+IRLA Road, Vile Parle (West)
+Bombay-400 056, India
+Ludhiana Expeller Industries
+471 Industrial Area B
+Ludhiana-141 003, India
+KIT:
+Koninklijk Instituut voor de Tropen
+63 Mauritskade
+NL-1092 AD Amsterdam, The Netherlands
+Laxmi Vijay Brass & Iron Works
+Pratap Nagar
+Opp. Patel Industrial Estate
+Baroda-390 004, India
+MRN:
+Machinenfabrik Reinartz
+lndustriestrasse 14
+D-4040 Neuss, Germany
+NIFOR:
+Nigerian Institute for Oilpalm Research
+Benin City, Nigeria
+NRI:
+Natural Resources Institute
+Central Avenue, Chatham Maritime
+Kent ME4 4TB, UK
+OPC:
+Outils Pour Les Communities
+BP 5946
+Douala Akwa, Cameroon
+OTRI:
+Oil Technology Research Institute
+Bangalore Road, Ananthapur
+(PO)-515 004, Ananthapur District
+Andhra Pradesh, India
+Regional Research Laboratory, Tarnaka,
+Hyderabad, Andhra Pradesh, India
+RENTEC n.v.
+Nijverheidsstraat 13
+B-8870 Pittem, Belgium
+SKET Schwermaschinebau
+Postfach 77
+Marienstrasse 20
+Magdeburg, Germany
+SPEC:
+S P Engineering Corporation
+PB No 281
+79/7 Latouche Road
+Kanpur-208 001, India
+SPF:
+S P Foundries
+77/156 Latouche Road
+PB No 450
+Kanpur-108 001, India
+TECHNIP SPEICHIM
+Parc Saint-Christophe
+95865 Cergy-Pontoise Cedex, France
+TCC:
+Technology Consultancy Centre
+University of Science and Technology
+Kumasi, Ghana
+TDAU:
+Technology Development and Advisory Unit
+University of Zambia, Lusaka Campus
+PO Box 32379, Lusaka, Zambia
+The Rex Trading Co.
+Manufacturers, Exporters & Importers
+P13 No 5049
+40 & 42 Pedariar Koil Street
+Madras 600 001, India
+Themi Farm Implements & Engineering
+Arusha, Tanzania
+Tinytech Plants Pvt Ltd
+Tagore Road
+Rajkot - 360 002, India
+TOOL:
+Technologie Overdracht Ontwikkelings Landen
+Sarphatistraat 650
+PO Box 10039
+1001 Ej Amsterdam, The Netherlands
+UNATA:
+Unie voor Aangepaste Technologische Assistentie
+Nieuwlandlaan B437
+PO Box 50
+3200 Aarschot, Belgium
+UNIDO:
+United Nations Industrial Development Organization
+Vienna International Centre
+A-1400 Vienna, Austria
+UNDP:
+United Nations Development Programme
+One United Nations Plaza
+New York
+NY 10017, US
+<section>Appendix 4 Additional references</section>
+ATI (1987) Choosing technologies for agricultural processing technologies. Appropriate Technology International Report 1984-1987.
+AXTELL, B. and FAIRMAN, R. M. (1992) Minor oil crops. FAO Agricultural Services Bulletin 94, Rome: FAO.
+CARR M. (1989) Women and the Food Cycle. London, UK: Intermediate Technology Publications.
+PRIVATE AGENCIES COLLABORATING TOGETHER (PACT) (1989) Food Oils in Africa Directory. New York, United States: PACT.
+SADCC (1988) Proceedings of a Subregional Workshop on Smallscale Oilseed Expression, held in Zanzibar, November 1987. Harare, Zimbabwe: Post Production Food Industry Advisory Unit.
+SIDO (undated) Information for Women's Groups Interested in Producing Cooking Oil by Using the Hand-Operated Ram Press. Arusha, Tanzania: SIDO.
+UNIFEM (1987) Oil extraction. 1. Food Cycle Technology Source Book. New York, United States: United Nations Development Fund for Women.
+WIEMER, H. J. and ALTES, F. W. K. (1989) Small Scale Processing of Oilfruits and Oilseeds. Eschborn, Germany: GATE/GTZ.

@@ -1,0 +1,509 @@
+Ensayos Internacionales de Procedencias
+Procedimientos revisados y diseño del establecimiento de los ensayos
+2. Ensayos de campo
+
+Recopilada por
+el Grupo de Trabajo sobre Diseño de los Ensayos
+
+
+ÍNDICE
+
+
+
+
+FAO - Organización de las Naciones Unidas para la Agricultura y la Alimentación
+
+Las denominaciones empleadas en esta publicación y la forma en que aparecen presentados los datos que contiene no implican, de parte de la Organización de las Naciones Unidas para la Agricultura y la Alimentación, juicio alguno sobre la condición jurídica de países, territorios, ciudades o zonas, o de sus autoridades, ni respecto de la delimitación de sus fronteras o límites.
+
+Reservados todos los derechos. No se podrá reproducir ninguna parte de esta publicación, ni almacenarla en un sistema de recuperación de datos o transmitirla en cualquier forma o por cualquier procedimiento (electrónico, mecánico, fotocopia, etc.), sin autorización previa del titular de los derechos de autor. Las peticiones para obtener tal autorización, especificando la extensión de lo que se desea reproducir y el propósito que con ello se persigue, deberán enviarse a la Dirección de Información, Organización de las Naciones Unidas para la Agricultura y la Alimentación, Viale delle Terme di Caracalla, 00100 Roma, Italia.
+
+
+ÍNDICE
+_
+
+1 INTRODUCCIÓN
+
+2 DISEÑO DE LOS ENSAYOS DE CAMPO
+
+2.1 Objetivos del plan
+2.2 Resumen de recomendaciones para el diseño de campo
+
+3 ESTACIÓN DE LOS ENSAYOS
+
+3.1 Elección de la estación
+3.2 Descripción de la estación
+3.3 Preparación de la estación
+3.4 Demarcación y disposición de bloques y parcelas
+
+4 PLANTACIÓN
+5 MANTENIMIENTO POSTERIOR A LA PLANTACIÓN
+6 BIBLIOGRAFÍA Y REFERENCIAS
+ANEXO A: DESCRIPCIÓN DE LA ESTACIÓN
+ANEXO B: DISEÑO DE LOS ENSAYOS DE CAMPO DETALLES Y ARGUMENTOS
+ANEXO C: PLANTACIÓN DE LOS ENSAYOS
+ANEXO D: MANTENIMIENTO POSTERIOR A LA PLANTACIÓN
+
+1. INTRODUCCIÓN
+
+Las directrices para las operaciones de campo relacionadas con el establecimiento de ensayos de procedencias de neem fueron preparadas originalmente por un grupo de trabajo durante la primera consulta internacional sobre mejora genética de neem celebrada en Bangkok en enero de 1993, (10) & (1).
+
+La segunda consulta internacional recomendó hacer una revisión de las directrices preparadas inicialmente, designándose un segundo grupo de trabajo que ha revisado y elaborado las directrices. Se presentó y discutió una propuesta en una reunión del cuadro de coordinación celebrada en Bangkok el 14 y 15 de marzo de 1996. El documento siguiente presenta las directrices revisadas, incluyendo importantes consideraciones cuando se planifica el establecimiento de ensayos de campo. En 1996 un grupo de trabajo sobre evaluación de ensayos formuló recomendaciones en cuanto a los procedimientos de recolección y evaluación de datos.
+
+Se invita a los participantes que tengan dudas sobre algunos problemas estadísticos o prácticos, a que escriban al coordinador de la Red.
+
+2. DISEÑO DE LOS ENSAYOS DE CAMPO
+
+
+
+2.1 Objetivos del plan
+
+Los objetivos consisten en evaluar los resultados respecto a la adaptación y desarrollo de los lotes de semilla de neem de distinta procedencia u origen en una serie de estaciones y determinar si existe alguna influencia recíproca entre el lote de semilla y la estación. Véase también el anexo B.
+
+2.2 Resumen de las recomendaciones sobre el diseño de campo
+
+Esta sección da solamente unas recomendaciones resumidas. En el Anexo B se especifican razones y detalles adicionales.
+
+2.2.1 Elección del diseño general
+
+Un diseño apropiado, es decir, forma, tamaño y disposición de parcelas y bloques, sólo se puede determinar cuando se ha elegido la estación de ensayo y las plantas están listas.
+
+Se examina la estación elegida, en cuanto a variación ambiental, antes de eliminar su vegetación, cultivarla y tratarla. Se determina la magnitud y modelo de variación ambiental, se decide qué grado de variación debe separar los bloques y cuál debe ser la variación máxima a tolerar dentro de los bloques. Sobre un mapa se exponen las localizaciones de condiciones uniformes de acuerdo con los criterios elegidos de variación máxima. A continuación, se trazan los bloques y se prepara un mapa antes de realizar la limpieza y cultivo.
+
+El diseño a utilizar debe ser el mejor para las condiciones locales y reales de la estación y los recursos; hay que dar la máxima prioridad a esta consideración.
+
+Se elige el diseño más sencillo posible con respecto a las condiciones de la estación. Para un solo ensayo el trazado, la administración y evaluación son más fáciles y el análisis e interpretación de los datos es más sencillo y generalmente más eficaz, y el diseño es más simple y equilibrado.
+
+Cuando se tenga la seguridad de que las condiciones de la estación no son muy variables en todo el área, se utiliza un diseño simple y firme de bloques completos de tipo aleatorio (RCB) que incluyen de 4 a 6 bloques con 25 árboles dispuestos en 5 hileras y 5 columnas.
+* Si se dispone de terrenos o recursos limitados, se eligen cuatro bloques, pero si hay más libertad se eligen 6 ó más replicaciones (véase a continuación "Número de bloques o replicaciones").
+
+Cuando las condiciones de la estación parecen bastante variables, lo primero es asegurarse de que estas condiciones sean uniformes (el mismo gradiente o variación por manchas) dentro de cada bloque, de tal modo que las mayores diferencias tengan lugar entre bloques. Ésta es una consideración fundamental e importante.
+* Esto se hace modificando la dimensión y la forma de los bloques según se precise. El tamaño se modifica ya sea i) cambiando el tamaño de las parcelas (véase "Tamaño de las parcelas" a continuación) o ii) modificando el número de tratamientos en los bloques.
+* Los bloques no tienen que ser de forma regular o de igual forma; un bloque debe estar preferentemente, por razones administrativas, contiguo; los bloques diferentes no tienen que ser vecinos.
+
+Si se desea contar con grandes parcelas en una estación variable, con el resultado lógico de una gran variación dentro de bloques completos, debe elegirse entonces un diseño de bloques incompletos en el que se pueden mantener grandes parcelas mientras el tamaño del bloque se hace de acuerdo con la variación existente. Hay que utilizar preferentemente un tipo equilibrado de diseño de bloques incompletos.
+
+2.2.2 Forma y tamaño de las parcelas
+
+Una parcela debe representar la variación ambiental existente dentro del bloque, de la forma más completa posible. Esto incluiría la variación de la topografía del suelo, el agua, la exposición al viento, la exposición a la sombra y la competencia de los árboles circundantes, rastros de ganado, veredas, huellas, etc.
+* Las parcelas compactas, p. ej. cuadradas, son útiles específicamente cuando la variación ambiental es del tipo de manchas, por ejemplo los montículos de termitas distribuidos regularmente por el área.
+* En un diseño con muchos tratamientos, las parcelas cuadradas o rectangulares de 25 árboles o más son adecuadas únicamente cuando se pueden formar bloques mayores de variación ambiental razonablemente uniforme. No son generalmente adecuadas cuando existe un tipo de variación por gradientes.
+* Cuando la variación ambiental para un tamaño específico de parcela cambia claramente de una parcela a otra dentro de los bloques, habrá que considerar una reducción del tamaño de las parcelas. Emplear un tamaño de parcela tan pequeño como se precise. Las parcelas de un solo árbol sólo se deben utilizar si se cuenta con gran experiencia del personal de todos los niveles.
+
+Utilizar parcelas alineadas en estaciones con una variación del tipo de gradiente. Las parcelas alineadas se orientan a lo largo del gradiente o paralelas al mismo.
+
+El tamaño de las parcelas puede estar también influido por el número de tratamientos (en este caso, lotes de semilla) a incluir en el ensayo. Dejar que la procedencia con menor número de plantas oriente en cierta medida la elección del tamaño de parcelas, de tal modo que se incluyan todas las procedencias. Por ejemplo: una procedencia tiene 81 plantas utilizables es decir menos que todas las demás procedencias. Se hace un ensayo con parcelas de 16 árboles en 3 bloques o parcelas de 9 árboles en 9 bloques o incluso parcelas de 5 árboles en línea y hasta 16 bloques. En la página 14 del anexo B se muestra un ejemplo.
+
+El tamaño de la parcela viene influido también por el espaciamiento entre plantas. La organización que realiza los ensayos determina el espaciamiento de acuerdo con la situación y experiencia local. El espaciamiento debe variar entre 3 x 3 metros y 4 x 4 metros. Cuanto mejores sean las condiciones vegetativas, mayor será el espaciamiento a utilizar, y viceversa.
+
+2.2.3 Coste y tamaño del área experimental
+
+Cuanto menor sea el área experimental total, más barato será el mantenimiento y protección. Si los fondos para el establecimiento y mantenimiento son limitados, habrá que considerar una reducción del área experimental. La reducción puede hacerse disminuyendo el tamaño de la parcela o cambiando el diseño por otro equilibrado de tipo incompleto. Para bloques totalmente aleatorios el diseño no baja de parcelas de 9 árboles en 4 bloques o parcelas de 5 árboles en 6 bloques.
+
+3. ESTACIÓN DE LOS ENSAYOS
+
+3.1 Elección de la estación
+
+La estación de los ensayos debe ser, en la medida de lo posible, representativa de las localidades en que se va a plantar el neem.
+
+Hay que evitar las estaciones que sean totalmente inadecuadas para el neem es decir, ante todo las estaciones sin suelo de profundidad razonable. El neem sufrirá claramente cuando exista una costra dura demasiado cerca de la superficie que pueda perturbar el desarrollo del sistema de la raíz principal del Neem.
+
+3.2 Descripción de la estación
+
+La descripción de la estación debe incluir una descripción general junto con mapas. El Anexo A ofrece sugerencias para la descripción de la estación. Pueden ser útiles los mapas siguientes:
+i. un mapa de situación que muestre la posición relativa de la estación respecto a una población o a otros lugares de características bien conocidas; la escala sería de 1:100.000 a 1:1.000.000;
+ii. un mapa que muestre en detalle cómo llegar al ensayo, normalmente de escala 1:50.000 ó 1:100.000, y
+iii. Un mapa detallado del trazado de los ensayos con los bloques y lotes de semilla marcados, a escala apropiada, es fundamental. Este mapa debe mostrar claramente la orientación de la brújula y la localización de cada lote de semilla, espacio de plantación y fecha de plantación, una descripción de la demarcación empleada para bloques y parcelas, líneas de límite y también las características de la vegetación y el paisaje circundante. Finalmente,
+iv. sería útil un mapa ambiental que muestre el trazado de los bloques en relación con la variación ambiental. Éste podría incluir líneas de nivel o un dibujo tridimensional.
+
+3.3 Preparación de la estación
+
+Después de haber observado y delimitado la variación ambiental basada en la vegetación, en las características topográficas, en las características claras del suelo y en los rasgos circundantes que pueden influir en el ensayo (ríos, charcas, plantaciones más antiguas o bosques y así sucesivamente), deberá aclararse la vegetación, preferentemente deben eliminarse los tocones para evitar la reproducción de monte bajo. Después de ello se realiza una preparación completa del suelo de acuerdo con el tipo de terreno y siguiendo las prácticas normales.
+
+3.4 Demarcación y situación de bloques y parcelas
+
+La posición de las esquinas de los bloques es fundamental debiendo ser observables durante varios años y preferentemente para la duración completa de los ensayos. Por ello, las esquinas de los bloques se deben marcar utilizando grandes postes de madera duradera o de hormigón que estén sólidamente empotrados en el terreno.
+
+Las esquinas de las parcelas se marcan con postes más pequeños que no tienen que ser muy duraderos.
+
+Los puntos de plantación se marcan con pequeños palos, o estacas de madera o bambú.
+
+La disposición de los bloques se discutió anteriormente; si se ha elegido un diseño de bloques incompletos, éstos deben disponerse al azar en cada replicación. La disposición de los tratamientos, es decir los lotes de semilla, debe hacerse al azar dentro de cada bloque. Se asigna a cada tratamiento (lote de semilla) un número desde el 1 hasta el número correspondiente al número de tratamientos. Se distribuye aleatoriamente la posición de los números de tratamiento dentro de cada bloque. Se utilizan tablas de permutación aleatoria, bolas o tiras de papel para conseguir una distribución aleatoria adecuada. Véase también (5) en cuanto a distribución aleatoria y los ejemplos sobre realización de permutaciones al azar.
+
+4. PLANTACIÓN
+
+En el anexo C se expone el procedimiento de plantación de plantas envasadas y plantas repicadas.
+
+A continuación se discuten los problemas de una selección adecuada de las plantas y su etiquetado.
+
+Es importante que las plantas utilizables de cada lote respectivo de semilla se asignen adecuadamente a las parcelas. No se clasifican las plantas, por ejemplo para plantar plantas pequeñas en un bloque, etc. porque esto puede dar lugar a una selección de familias (una familia son las semillas procedentes de un árbol) dentro de un lote de semilla. Es necesario contar con muestras representativas de todas las familias de cada lote de semilla en cada parcela y bloque en que se planta tal lote. Un sistema práctico consiste en dividir la era del vivero destinada a un lote de semilla en una serie de parcelas que corresponda al número total de plantas de tal lote a plantar en el ensayo. A continuación, dentro de cada parcela se selecciona sistemáticamente una planta utilizable, por ejemplo, la planta utilizable del centro de la parcela y si no hay ninguna, la planta utilizable más próxima en una dirección determinada mediante brújula.
+
+Hay que asegurarse de que cada planta se marque adecuadamente con una etiqueta que muestre la identificación del lote de semillas, de la parcela y del bloque.
+
+Si la estación de plantación está localizada tan lejos del vivero que todas las plantas se sacan y llevan al sitio de plantación en una sola operación de transporte, en tal caso se asignan los lotes de semilla a las parcelas y bloques sólo en la estación de plantación. Si, por el contrario, el vivero y el sitio de plantación están próximos, se sacan, extraen y transportan de una vez las plantas de todos los lotes de semilla para un bloque.
+
+Se debe intentar completar de una vez la plantación de un bloque. De esta forma, las diferencias de clima de un día a otro las absorben los bloques. Hay que evitar dejar que una persona plante todas las plantas de un lote de semilla en todos los bloques y así sucesivamente porque suele haber diferencias importantes entre distintas personas en cuanto al éxito de la plantación. En vez de ello, dejar que todas las personas planten en una parcela al mismo tiempo o, si no es posible, asignar al azar las parcelas de un bloque a las personas que planten (distribuir aleatoriamente independientemente para cada bloque).
+
+Inmediatamente después de la plantación o, mejor aún, durante la plantación, preparar con seguridad mapas como los descritos en la sección 3.2 anterior. Sería útil también preparar un pequeño informe que describa las operaciones y las condiciones climáticas durante el establecimiento del ensayo.
+
+5. MANTENIMIENTO POSTERIOR A LA PLANTACIÓN
+
+Se remite al anexo D, que presenta los procedimientos recomendados por el grupo previo de trabajo (1 y 10). Lo más importante es mantener, las parcelas totalmente libres de malezas, en la medida de lo posible, teniendo en cuenta las posibilidades económicas. Se debe hacer en todas las parcelas del experimento el mismo tipo e intensidad de ordenación. Si una operación de ordenación no se puede hacer para todo el experimento en un período corto, es decir, de pocos días, hay que tener la seguridad de completar las actividades por bloques.
+
+6. LITERATURA & REFERENCIAS
+
+1 Anon. 1993 Guidelines for establishing and managing inter-national Neem provenance trials. Report of Working Group of the International Consultation on Neem Improvement: Regional Community Forestry Training Centre, Faculty of Forestry, Kasetsart University, Bangkok.
+2 Boyle, T. and Liengsiri, C. 1992 Design, measurement, and analysis of field trials for genetic analysis. Manual. ASEAN Forest Tree Seed Centre, Muak-Lek, Saraburi 18 180, Thailand.
+3 Briscoe, C.B. 1989 Field trial manual for multipurpose tree species. Multipurpose tree species net-work research series, manual no. 3. Winrock International Institute for Agricultural Development, 1611 N. Kent St., Suite 600, Arlington, VA 22 209, USA.
+4 Burley, J. and Wood, P.J. 1976 A manual on species and provenance research with particular reference to the tropics. Trop. For. Papers. No.10, Dept. Forestry, Oxford For. Institute, U.K.
+5 Cochran, W.G. and Cox, G.M. 1962 (1957) Experimental design, John Wiley &
+6 Fins, L., Friedman, S.T. and Brotschol, J.V. (eds.) 1992 Handbook of quantitative forest genetics. pp 96-134. Kluwer Acad. Publ., London.
+7 Graudal, L. 1996 Preliminary note on assessment of ex situ conservation stands. Danida Forest Seed Centre Note, Denmark.
+8 MacDicken, K.G., Wolf, G.V, Briscoe, C.B. (Eds.) 1991 Standard Research Methods for Multi-purpose Trees and Shrubs. Multipurpose tree species network research series, manual no. 5. Winrock International Institute for Agricultural Development, 1611 N. Kent St., Suite 600, Arlington, VA 22 209, USA.
+9 Matheson, A.C. 1988 Statistical methods and problems irl testing large numbers of genotypes across sites. pp. 93-105. In: Conference on Breeding Tropical Trees. 1988. Proceed. IUFRO, Thailand, 1989.
+10 Read, D.M. and French, J.H. 1993 Guidelines for managing international Neem provenance trials. Report of Working Group One. In: Genetic improvement of Neem: Strategies for the future; Proceedings of the International Consultation on Neem Improvement: Kasetsart University, Bangkok, Thailand: Pub.: Winrock International, USA.
+11 Williams, E.R. and Matheson, A.C. 1994 Experimental design and analysis for use in Tree Improvement. CSFRO Inform. Service, 314 Albert Street, East Melbourne, Victoria 3002, Australia.
+
+
+
+ANNEXES
+
+
+
+ANNEX A: SITE DESCRIPTION
+
+The site description data is collected at the beginning of the trial establishment and should include the following:
+
+LOCATION
+
+Name of the site : _
+Country : _
+Province : _
+District : _
+Latitude (degrees and minutes) : _
+Longitude (degrees and minutes) : _
+Altitude (m above sea level) : _
+Managing office/institution : _
+Owner : _
+
+Distance to nearest office responsible for management (km) : 
+Distance to nearest villages/towns (km) : 
+Number of inhabitants in the nearest villages/towns : 
+Type of area (e.g. research station, managed forest, etc.) : _
+
+Add map(s) (see section 3,2. above).
+
+CLIMATE
+
+
+
+Nearest weather station:
+
+Name of the station : _
+Latitude (degrees and minutes) : 
+Longitude (degrees and minutes) : 
+Altitude (m a.s.l.) : 
+
+Climatic data^1 Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+Rainfall (mm) 
+Temp mean (ºC) 
+Temp. mean max.^2 (ºC) 
+Temp. mean min.^3 (ºC) 
+Evapotranspiration ^4 (mm)
+
+^1Period of observations :  (specify years)
+^2Average of daily maximum temperatures
+^3Average of daily minimum temperatures
+^4Potential evapotranspiration (ETP) - Penman's formula
+
+Rainy season:
+
+Number/type of seasons:
+one  two  even  irregulars 
+Period(s) : _ (specify months)
+No. of intermediate days proximate to growing season: : 
+No. of wet days in growing season: : 
+
+Dry months (number month per year of < 50 mm rain): : _
+Frost (number of days/year) : 
+Prevailing wind (direction, period, speed) : 
+
+TOPOGRAPHY
+
+ Flat/gentle (0-8 %)  Intermediate (9-30 %)  Steep(>30 %)
+
+SOIL
+
+Please tick the following soil description
+
+Soil texture
+
+Soil depth
+
+Soil drainage/ Waterlogging
+
+Gravel content, topsoil
+1. Light/sandy 
+1. Shallow (< 50 cm) 
+1. Well drained 
+1. None (< 15 %) 
+2. Medium/Loamy 
+2. Deep (50-100 cm) 
+2. Seasonal 
+2. Gravelly (15-35 %) 
+3. Heavy/clayey 
+3. Very deep (> 100 cni)
+3. Permanent 
+3. Stony (> 35 %) 
+Organic matter content Reaction (pH) Soil salinity Ground water
+1. Poor (< 2 % DM) 
+1. Acid (pH < 6.5) 
+1. None 
+1 1 - Shallow (< 50 cm) 
+2. Medium (2-5 % DM) 
+2. Neutral (6.5-7.5) 
+2. Moderate 
+12. Deep (50 - 150 cm) 
+3. Rich (> 5 %) 
+3. Alkaline (pH> 7.5) 
+3. High 
+13. Very deep(>150 cm) 
+
+
+
+VEGETATION
+
+Natural (original) vegetation type : _
+: 
+Dominant natural (original) genera/species : _
+Land use history : _
+: 
+: 
+
+ADDITIONAL INFORMATION
+
+Apparent major problems of site (pests, diseases, etc.) : 
+: 
+
+Economics data, viz farm gate prices for fodder, fuel wood, small size timber, extractives, and other minor produce
+: 
+: 
+: 
+
+
+ANNEX B: FIELD TRIAL DESIGN - DETAILS AND ARGUMENTS
+
+
+
+B1 Objectives of scheme
+
+Specifically the objectives are i) to examine if there is statistically significance for substantial, i.e. not trivial, differences between seedlots in respect of adaptability (survival, health and flowering/fruiting) and growth. Further, ii) to examine any substantial differences observed between seedlots over a variety of environmental conditions, i.e. examine interactions of seedlot and site.
+
+B2 Information needed
+
+The design chosen must ensure that the objectives are fulfilled, i.e. any substantial differences are exposed as statistically significant. To what extent this will be possible depends on the trial lay-out.
+
+For each trial, a set of unbiased, estimated seedlot-mean-values and corresponding standard errors are needed. This can be obtained using a variety of trial designs.
+
+It has at this stage not been clarified what 'substantial differences' mean. If a trial is so efficient that small differences for a characteristic are exposed as statistically significant, a further evaluation should tell if those differences are of economic importance.
+
+B3 Recapitulation of terminology used
+
+Plot: experimental unit containing one or more planting positions for one treatment, here seedlot; block: a compact piece of land of uniform conditions and containing a group of plots (treatments), which can be compared under similar environmental conditions; replicate: in complete block designs, replicate is synonymous with block which contains all treatments in the experiment, in incomplete block designs, treatments are arranged in blocks which are smaller than a complete replicate, i.e. a replicate includes a group of blocks.
+
+Estimated error variance per plot, s2: the residual sum of squares in the analysis of variance; Standard error per plot, s,. the square root of the error variance; Estimated error variance for difference between means of two seedlots, 2s2/b: two times the standard error per plot divided by the number of blocks in the experiment.
+
+Precision: How close a measurement is to the average of a long series of measurements under same conditions; precision is expressed by the standard error, or the confidence interval around the mean value. Accuracy: How close a measurement is to the true value.
+
+Relative Efficiency: If the error variance per plot, s2, is the same in two experiments, the error variance for the difference between two treatment means, 2s2/b, is evidently smallest in the experiment with most replicates, or the relative efficiency is higher for that experiment.
+
+B4 Same or different design in all trials
+
+For an overall statistical analysis of data from several trials, including seedlot & trial-site interaction, it would be easiest and less error prone if all trials included the same treatments, were of the same plot-size and had the same number of replicates. However, experience shows that even in such balanced cases error and interaction often differ considerably from trial to trial. This can usually be handled, although there may be problems of analysis and evaluation.
+
+When the experiments differ in size and structure, a combined analysis can usually be made provided that the same treatments are found in all experiments. However, a number of additional complications have to be tackled. The problems concern: i) weighting for different error varlances, ii) F-test of interaction against the error mean square, iii) F-test of treatment mean square against the interaction mean square, and iv) the type of distribution of the interaction mean square causes problems with the interpretation of the ordinary F-test. Most of these problems can be managed with modern computer programmes, although there would always be problems of interpretation of results.
+
+Contrary to this there is no real efficient remedy for fully improving on situations where environmental conditions differ from plot to plot within blocks. Although there are several methods available to make adjustments for such differences, they should be considered as methods for salvage of information from trials that for some reason have non-optimal designs, rather than as methods to consider to employ ad priori.
+
+See (5) for a review on the problems a'nd possible solutions for the combined analysis of trials of similar or different structure.
+
+It must be emphasized that the best quality of the results from the analysis of each trial and from the overall analysis will depend on the design of each trial being chosen so it fits the local conditions of environment and resources available.
+
+A poor design will limit or nullify possibilities of obtaining good information. It is difficult, sometimes impossible, to separate environmental variation from genetical variation in poor experiments, whereas modem statistical computer based programmes can manage many of the problems mentioned previously regarding different error variances and imbalance.
+
+Give therefore higher prioritv to efforts to make the optimal design for the actual site conditions than efforts to maintain uniformity and size of design from trial to trials (8)!
+
+B5 Choice of design
+
+The randomized block design has several advantages. It is usually the most simple to lay out, to administer and to analyze. However, when there are many treatments, this design can result in the formation of large blocks. The larger the blocks, the more possibility of too much environmental variation within blocks. Heterogenity within blocks is a normal and major source of potential problem in the analysis of single experiments. and in the interaction analysis!
+
+Other designs, viz incomplete block designs could be useful where there is much environmental variation in the trial area, where there are very many treatments, or where the plant material, land, labour or other resources are limited. Incomplete block designs have not been used much in the past because of analysis problems especially when there is imbalance. There are now, however several computer based programmes available that facilitate analysis of different types of incomplete block designs. Because of the type of environmental variation mostly found in tree trials, the incomplete block designs will basically be more efficient for the same size of experimental area, or in other words, the same precision can be obtained for a trial size (area) that is smaller than for the RCB-design. Good accounts are found in (5) and (9). See also (4) for a comparison of different designs. An example of how to construct incomplete block designs is given in (9).
+
+B6 Block configuration and size
+
+Block shape, orientation and size must correspond to the environmental variation. Environmental conditions must be uniform within blocks, and different between blocks, as far as possible. This is a critical and important consideration for obtaining good results.
+
+For example, where there is a clear environmental gradient in a particular direction, then make long blocks that are oriented perpendicularly to that gradient; never along the gradient. Blocks or replicates need not be of regular or the same shape, nor do blocks need to be neighbouring.
+
+B7 Number of blocks
+
+The number of blocks will influence the precision that can be achieved in an experiment. The more blocks the higher the precision. The number of blocks should match the precision wanted. In the choice of number of blocks it must also be ensured that there is a sufficient total number of trees representing a seedlot in the experiment. A minimum of some 20-30 trees of each seedlot in a trial are required to give reasonable estimates of seedlot mean values, provided that sampling has been proper in every step. These trees can then be grouped into plots of different sizes, and the number of blocks will then for the same number of total trees vary accordingly; see below under plot size. See (5) and (4) for the methodology of finding the optimal number of replicates. See also below 'Size of experiment'.
+
+In addition to a higher precision, more blocks would, and possibly more important, provide a higher insurance against loss of whole provenances in the case of partial occurrence of fire, flooding, human and livestock disturbance, etc. Such calamities have actually in many cases made it impossible to obtain good information from trials with few blocks. More blocks are a relatively simple insurance against calamities.
+
+Many and small blocks (including small plots) could in fact also safeguard the longevity of a trial. Until competition begins, data would be collected and analyzed without complications. When competition starts, ordinary thinnings would be carried out until only one-two trees remain per plot. If the trial is to be kept and assessed for so long that competition starts again, then the possibility exists with a RCB design with many replicates to thin away all trees of whole provenances in each block and then merge plots and blocks, for example as in the following, where 4 blocks have been reduced to 2 (the small number of seedlots in the blocks are for illustration only):
+
+INITIAL LAY-OUT
+BLOCK A BLOCK B
+Tl T4 Tl T3
+T2 T3 T2 T4
+T4 T3 Tl T4
+Tl T2 T3 T2
+BLOCK C BLOCK D
+
+AFTER FINAL THINNING
+BLOCK 1 BLOCK 11
+Tl T3 T2 T3
+T4 T2 Tl T4
+
+This kind of design and thinning would need careful thinking in order to ensure an existing balance of seedlots, and a planned removal of seedlots may compromise the assumption of randomization of seedlots within blocks.
+
+Finally, many replicates would make it possible to use some of the blocks for destructive assessment, for example for biomass studies.
+
+B8 Plot size and shape
+
+An increasing plot size minimizes the effects of abnormal individual trees. Large plots can be used to exclude the effect of competition between adjacent plots by excluding the outer row from measurement and assessment, and are generally considered useful for trials that are to last for a long time after competition between plots has started. Small plots may be critical for a proper evaluation of certain characteristics as survival, stem form, branching habit.
+
+The Plot size should be so that an adequate plot exists throughout the life of an experiment, and should not be extended beyond that requirement. Generally, the statistical efficiency of a trial decreases with an increasing number of trees per plot, see (4) for more details.
+
+The smallest plot size is obtained using single-tree plots. These are very efficient in sampling. However, the main disadvantages are the complicated establishment (many blocks and plots!) and the problems of keeping the identity of plots when survival is less than 100 percent. Additional problems arise when thinnings are to be done. Single tree plots should only be used if the responsible organization is capable of handling these issues.
+
+An important question in connection with small plots is about correlation between treatment effects, or independency of errors. There would often be average positive correlations between neighbouring plots due to similar environments early in the life of a trial, whereas correlations on the average would be negative due to competition between trees in neighbouring plots later in life (6). Proper randomization would ensure that valid statistical analysis in most cases still can be made, but the interpretation of the results differs with type of correlation.
+
+When environmental variation is small within blocks (as it should be), the first type of correlation is of no concern, since treatments are compared under the same conditions. The correlation due to competition between plots increases with time, and the smaller the plots, the earlier will treatments be inter-dependent. It appears that generally treatment variances are inflated, i.e. we get too many significant differences, whereas treatment ranking is not affected. In the case of provenance trials, where the objective is to explore the ranking, not necessarily the absolute performance of each seedlot, the advantage of small plots may outweigh the slight problem of too many significant differences.
+
+If there, nevertheless, is a strong wish to keep a trial with large plots for a longer period of time, the problem of competition can be overcome by excluding the trees in the outer rows from the assessment and analysis. The risk remains that within-block environmental variation may be too big. The solution in such a case is to use an incomplete block design where the large plot size can be maintained, while block size is kept small.
+
+The smaller the plots, the shorter the period of time where the trial could yield good information. However, most of the useful information will be obtained early in the life of the trials. Experience shows that, in many cases, the possibility of retaining trials intact for an extended period of time is not high.
+
+There would likely be a different number of plants available for the various seedlots, and some would have a critically low number. If plot size is small, then more seedlots would have a sufficient number of plants for inclusion in the trial. Higher priority should be given to include as many seedlots as possible rather than to maintain large plots! Below is given an example of utilizing most of the plants available.
+
+Example of trial design from Vietnam:
+
+21 seedlots are represented in the nursery. Assuming that all seedlings may be usable, the following can be made:
+
+A small complete and balanced trial using 21 seedlots in 4 blocks and using 8-tree plots. The trees may be arranged in rows of 1 x 8 or 2 x 4 depending on the situation. The number of blocks is in the lower end, but all seedlots are tested against each other.
+
+Plants available in nursery - before taking plants for small complete trial Surplus plants - after taking plants for small, complete trial
+34 44 2 12
+61 63 68 29 31 36
+92 94 60 62
+123 146 152 91 114 120
+176 177 177 178 144 145 145 146
+196 198 201 218 164 166 169 186
+244 256 364 212 224 332
+
+Using surplus plants from establishing this trial (see table above), an additional trial can be established with 16 seedlots in 6 blocks using 9-tree plots. The trees may be arranged in 3 rows x 3 columns, or in line plots as deemed necessary. This can make an efficient trial.
+
+The two trials may be placed adjacent, or in different places. Placing them adjacent under similar conditions would give some idea of efficiency of trials, and in different places, an estimate of interactions can be obtained.
+
+Alternatively, Vietnam has suggested making 4 blocks with 14 24-tree plots, and the remaining plots with a different number of trees according to the number of available plants. In the analysis of variance seedlot means would then be estimated with different errors, but apart from this there would be no statistical objection to this arrangement. This is the most simple arrangement, but possibly not the most efficient.
+
+The area of the first two trials using a spacing of 3.5 x 3.5 meters would be: 0.82 ha + 1.06 ha = 1.88 ha. The area of the fast arrangement would be (2 plots of 8 trees, 3 of 15, 2 of 20 and 14 of 25 trees in each block): 2.21 ha, or slightly larger than the total of the two other trials.
+
+The shape of plots would depend on the type of variation found at the trial site. A plot must sample the present within-block environmental variation as completely as possible. Compact, e.g. square, plots are useful specifically where the environmental variation is of a patchy type, while line plots usually are best on an area with a gradient type of variation. Line plots are oriented along the gradient. The smaller the gradient, the less trees in the line. Line plots are generally much more efficient than square plots in as much as environmental variation is difficult to predict. See (6) for examples and further references.
+
+Finally, the shape of the plots should ideally vary from block to block according to differences in types of variation. However, it would be easier for administrative reasons if plots were all of the same shape in the whole experiment, so it is advised to keep same plot shape and size within an experiment.
+
+The distance between trees naturally influences the plot size. It was originally recommended to be 4 x 4 metres. It is left to the experience and discretion of the trial host organization to determine spacing, which would most likely vary between 3 x 3 metres and 4 x 4 metres. Basically, the better the growth conditions, the wider the spacing should be used, and vice-versa. On poorer sites (see below) it may be argued that competition between trees for water and nutrients would necessitate a wider spacing. However, all experience shows that invariably crown closure is delayed for too long, and weed competition increases severely, leading to increased costs of maintenance and loss of benefit of wide spacing.
+
+B9 Size of experimental area
+
+The size of the total experimental area naturally influences the costs of establishment and maintenance. A trial of 20 seedlots, 25-tree plots, 4 replicates, and spacing of 4 x 4 metres would cover 3.2 hectares, exclusive of any buffer lines. The table opposite shows the net trial area (i.e. without buffer lines) for 20 seedlots for various combinations of plot-size, number of blocks, and spacings. For an area of approximately 3 hectares, the relative efficiency (see above) of trials with 25, 16 and 9 trees per plot is 1, 1.5, and 2.5, respectively. This means also that, for a specified precision, the experimental area may be reduced considerably by using small plots. If funds for establishment and maintenance are limited, a reduction in experimental area should be considered. Alternatively, the available funds may be for establishment of more trials.
+
+B10 Other purposes of trials
+
+It is often argued that trials may ultimately be used for procurement of material for propagation of the best seedlot numbers for planting purposes, and that design may be modified to suit such a purpose. However, it is recommended to use a trial design that is most efficient for reaching the initial objectives of the trial.
+
+Number of Trees in Plot Number of Blocks Spacing of Trees (metres)
+3 x 3 3.5 x 3.5 4 x 4
+Area in hectares
+
+9 6 1.0 1.3 1.7
+9 8 1.3 1.8 2.3
+9 10 1.6 2.2 2.9
+9 12 1.9 2.6 3.5
+
+16 6 1.7 2.4 3.1
+16 8 2.3 3.1 4.1
+16 10 2.9 3.9 5.1
+16 12 3.5 4.7 6.1
+
+25 4 1.8 2.5 3.2
+25 5 2.3 3.1 4.0
+25 6 2.7 3.7 4.8
+25 8 3.6 4.9 6.4
+
+ANNEX C: PLANTING OF TRIAL
+
+When the soil in the site of the field trial is moist to a depth of 25-30 cm, or according to local experience, planting may commence.
+
+Planting potted stock
+
+Selecting plants
+
+From each provenance in the nursery select systematically, as described in section 4 on page 4 the appropriate number of healthy seedlings. They should be 'hardened off' 1-2 weeks before they are transported to the site. This can be done by gradually reducing the watering and shading.
+
+Transport of plants
+
+The seedlings should be well watered before transportation. They should be packed in wooden or plastic boxes to avoid damage during transportation. Ensure that the seedlings are not packed loosely. Avoid wind damage during transport by erecting appropriate screens on the truck.
+
+After arrival at the planting site, place the seedlings in a protected, shaded area until planting. Water them thoroughly daily.
+
+Planting
+
+Planting holes should be 25 x 25 x 25-30 cm. Cultivate the topsoil around the hole to a distance of some 15 cm. Place locally available well processed compost in the bottom of the hole and cover with soil. Also, application of a pesticide is recommended in termite infested areas at planting time. This is best done by watering around the plants with an emulsion after planting
+
+Planting should be done in the morning and/or evening, not in the hot part of the day. Slit the potting bag with a sharp knife or razor blade and carefully remove the plastic bag without breaking the soil or damaging the roots. If one or more roots have encircled the mass of roots, then cut such roots with a sharp knife. Set the seedling in the hole with its root collar level with the ground surface. Fill in the soil around the roots of the seedling and pack the soil well down around the roots to avoid large air pockets in the soil. Do not stamp and do not use heel. Mulch with dry grass. If possible, water seedlings should be watered with 2 lts of water. Replace dead seedlings with new ones within 1-2 months after planting.
+
+Planting stumps
+
+To qualify for stumps, seedlings need to have the following dimensions: minimum 10 mm ideally 20 mm - at root collar; stem length from 40 cm to an ideal 100 cm.
+
+Plants are lifted - using a well sharpened spade. The tap root may be pruned in the process, but, at least 30-40 cm of the root must always be left.
+
+Immediately when the plants have been lifted from the bed, they are taken to a shady place and if necessary further protected from desiccation. The stumps are prepared as soon as possible as follows:
+* Trim the tap root further to keep a minimum of (25-) 30 cm below the root collar.
+* Lateral roots are trimmed as necessary to facilitate planting, depending on method of planting, i.e. how big planting holes are to be made.
+* The stem is pruned to leave 20-30 cm of the stem above the root collar, and any side branches and leaves are cut off as close as possible to the stem, without damaging the stem. This will leave a sufficient number of buds for sprouting. Leaving a bigger stem may enable the wind to whip and loosen the plants. In India as little as 2.5 cm of the stem is left apparently with good success!
+* The root part of the stump must be dipped immediately in a slush of mud and bundled in wet leaves before finally being packed in baskets or crates with 25-50-100 stumps in each. Exposure of the roots to desiccation may significantly reduce the plants' ability to survive after planting.
+
+Stumps prepared this way may be stored for a few days in the shade at, or near, the planting site.
+
+Stumps are planted preferably using a crowbar which is dumped repeatedly into the soil until a sufficiently deep hole has been made. Do not widen the hole by pulling the crowbar from side to side since this will leave a space at the bottom where the roots cannot get into contact with the soil.
+
+Alternatively plants are lifted with a ball of earth, and the stems are pruned to leave 30-60 cm, but no root pruning is done). Depending on climate, leaves may be trimmed fully or partially. Planting is done as for pots, except that the hole should be adequately deep.
+
+Plants too small for stumps
+
+When seedlings produced in open-root beds are too small for stumps, they may as early as possible, and at least one month before planting to the field, be transplanted to pots of a suitable size to avoid damaging the root system too much. After a thorough watering, the plants are lifted with a ball of earth and planted in the pots with additional soil as required. There is no need to trim stem and leaves, but irrigation of the plants is essential.
+
+ANNEX D: POST-PLANTING MAINTENANCE
+
+Weeding
+
+The seedlings should be kept free from weed competition during the initial stages of development. Manual weeding is recommended. Frequency and method of weed control will depend upon particular site conditions. Intercropping should be avoided since this may cause differences in the treatments of plots.
+
+Every 2-3 months during the first year, pull all weeds within 50 cm of each seedling, and cut all those in the remainder of the experimental area to prevent competition. If there are sufficient resources a complete clearing of all weeds is recommended. For succeeding years, weed as necessary.
+
+Fire protection
+
+Conduct regular weeding and removal of residue to ensure that fuel does not accumulate within the experimental area, especially during the dry season. Prepare a firebreak, 8-12 m wide, around the experimental area before the beginning of the dry season. Cut and remove vegetation or plough within the firebreak regularly during the dry season.
+
+Fencing
+
+The experimental area should be fenced to prevent damage, particularly damage caused by animals. To help prevent human damage to trees, communicate to all neighbours the study objectives and long-term importance of the results to the local population. This will help gain support from the local community.
+
+Pest and disease control
+
+Monitor pests and diseases, especially ants, crickets, or other insects. Appropriate control measures should be taken as necessary up to age 1 year. After that, taking effective measures may be difficult and costly.
+

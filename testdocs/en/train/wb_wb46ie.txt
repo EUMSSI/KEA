@@ -1,0 +1,1350 @@
+<title>Irrigation-induced salinity - A growing problem for development and the environment</title>
+Dina L. Umali
+WORLD BANK TECHNICAL PAPER NUMBER 215
+The World Bank
+Washington, D.C.
+Copyright © 1993
+The International Bank for Reconstruction and Development/THE WORLD BANK 1818 H Street, N.W. Washington, D.C. 20433, U.S.A.
+All rights reserved
+Manufactured in the United States of America
+First printing August 1993
+Technical Papers are published to communicate the results of the Bank's work to the development community with the least possible delay. The typescript of this paper therefore has not been prepared in accordance with the procedures appropriate to formal printed texts, and the World Bank accepts no responsibility for errors.
+The findings, interpretations, and conclusions expressed in this paper are entirely those of the author(s) and should not be attributed in any manner to the World Bank, to its affiliated organizations, or to members of its Board of Executive Directors or the countries they represent. The World Bank does not guarantee the accuracy of the data included in this publication and accepts no responsibility whatsoever for any consequence of their use. Any maps that accompany the text have been prepared solely for the convenience of readers; the designations and presentation of material in them do not imply the expression of any opinion whatsoever on the part of the World Bank, its affiliates, or its Board or member countries concerning the legal status of any country, territory, city, or area or of the authorities thereof or concerning the delimitation of its boundaries or its national affiliation.
+The material in this publication is copyrighted. Requests for permission to reproduce portions of it should be sent to the Office of the Publisher at the address shown in the copyright notice above. The World Bank encourages dissemination of its work and will normally give permission promptly and, when the reproduction is for noncommercial purposes, without asking a fee. Permission to copy portions for classroom use is granted through the Copyright Clearance Center, 27 Congress Street, Salem, Massachusetts 01970, U.S.A.
+The complete back list of publications from the World Bank is shown in the annual Index of Publications, which contains an alphabetical title list (with full ordering information) and indexes of subjects, authors, and countries and regions. The latest edition is available free of charge from the Distribution Unit, Office of the Publisher, The World Bank, 1818 H Street, N.W., Washington, D.C. 20433, U.S.A., or from Publications, The World Bank, 66, avenue d'Iéna 75116 Paris, France.
+ISSN: 0253-7494
+Dina L. Umali is a consultant in the Agricultural Technology and Services Division of the Agriculture and Natural Resources Department of the World Bank.
+Library of Congress Cataloging-in-Publication Data
+Umali, Dina L.
+Irrigation-induced salinity: a growing problem for development and the environment / Dina L. Umali. p. cm. -- (World Bank technical paper, ISSN 0253-7494; no. 215)
+Includes bibliographical references (p. ).
+ISBN 0-8213-2508-6
+1. Irrigation--Environmental aspects.
+2. Water salinization.
+3. Soil salinization.
+4. Water quality management.
+5. Soil protection. I. Title. II. Series.
+TD195.H93U43 1993
+333.76'137 - dc20
+CIP
+<section>Abstract</section>
+Irrigation has contributed significantly growth in agricultural production in many developing countries during the last century. However, irrigation-induced salinity is an increasing problem in several of these countries, threatening the productivity of agricultural lands. FAO (1990) reports that about 20 to 30 million hectares are severely affected by salinity and an additional 60 to 80 million hectares are affected to some extent. In some regions, the impact of salinity is felt across international borders. This report reviews the extent of the problem in various countries and examines the technical, economic, social, and institutional factors contributing to the onset of irrigation-induced salinity. It subsequently reviews the array of strategies that can be pursued to ameliorate the problem. The report finds that poor water management (e.g. over application by farmers, excessive seepage throughout the irrigation system, absence of or inadequacy of drainage
+infrastructures) is the primary cause of irrigation-induced salinity. Although salinity is a technical problem, it is also the product of several other factors. Distortive government policies contribute to inefficient water use, and poor project planning and implementation leads to the rapid deterioration of infrastructures. In some cases, the lack of or weak understanding of the problem or the lack of or weak commitment to environmental protection by public officials and policy-makers contributed to the spreading problem of salinity.
+The battle against salinity has to be launched in three fronts. Governments have to commit to a policy of sound water management and to the fostering of an economic environment that promotes efficient water resource use, e.g. appropriate pricing of irrigation water. At the same time, country agricultural strategies should incorporate measures to promote the adoption of environmentally sound production methods, particularly efficient water-use among farmers. Greater effort also has to be directed towards the analysis of the environmental impact of projects that involve water resource use and development to ensure that only economically and environmentally sound projects are undertaken.
+<section>Acknowledgements</section>
+I wish to thank Theodore Herman, Peter Streng, Herve Plusquellec, Ashok Subramanian (IPTRID), Thomas Brabben (IPTRID), Professor Lyman Willardson (Utah State University) and the participants of the Ninth Annual World Bank Irrigation and Drainage Seminar held in Annapolis, Maryland on December 8-10, 1992, for their valuable comments on previous drafts of this report. Barry Yatman's assistance in compiling the World Bank irrigation and drainage project and investment figures is also very much appreciated.
+My special thanks to Shawki Barghouti for his commitment to and support of this study and to Lambert Smedema, Walter Ochs, William Easter, Jeremy Berkoff and Alfred Duda for the insightful discussions and helpful suggestions, which all helped to make this a better study.
+Any errors remain the responsibility of the author.
+<section>Foreword</section>
+During the last century, irrigation has enabled the considerable expansion of cultivated land and the intensification of production, contributing significantly to the output increases achieved by many developing countries. Although urban and population pressures on agricultural areas continued to increase, the adoption of new high yielding varieties, greater use of fertilizers, and the expansion of irrigation spurred substantial rates of growth in agricultural production, offsetting the spiralling demands for food. Irrigation, thus, remains one of the potent forces for agricultural development. The continued intensive cultivation of many irrigated farm areas during the last century, however, was not without cost. It has also resulted in serious environmental degradation in many countries, including irrigation-induced salinity, waterlogging, soil erosion, and water pollution. These problems increasingly threaten the sustainability of irrigated agriculture in both developed
+and developing countries.
+This study on irrigation-induced salinity was initiated in response to the growing concern in the World Bank regarding the environmental impact of agricultural projects and the need to promote environmentally sound and sustainable agricultural development. Shawki Barghouti, former chief of the Agricultural Production and Services Division of AGR, was instrumental in motivating the preparation of this report. This report is designed to promote a greater understanding of the nature of irrigation induced salinity by drawing on the experiences from irrigation development projects supported by national governments and the World Bank. It examines the technical, economic, social and institutional factors contributing to the onset of irrigation-induced salinity, and reviews the array of strategies that can be pursued to ameliorate it. The study confirms that sustainable water resource management requires a comprehensive strategy emphasizing economic pricing, financial
+accountability, fuller participation of stakeholders, and greater attention to environmental concerns, and whose successful fulfillment will require the strong commitment and efforts of farmers, governments and donors.
+Michel Petit
+Director
+Agriculture and Natural Resources
+Department
+<section>Table of contents</section>
+<section>Summary</section>
+Irrigation has been and continues to be an important force in agricultural development. Irrigation enabled the expansion of cultivable land and the intensification of production, which spawned sizable production increases in both developed and developing countries. For some developing countries, its contribution to the attainment of development objectives of food security, poverty alleviation, and the improvement of the quality of life of the rural population has been significant.
+The sustainability of irrigated agriculture, however, is now threatened. The expanded dependence on irrigation has not been without cost: salinity and waterlogging, soil erosion and sedimentation, the spread of disease-carrying organisms, and water pollution are a few of the serious problems that have gone hand-inhand with irrigation. UNEP (1987) estimated that the rate of loss of agricultural land is approximately 5-7 million ha per year and overall, salinization is the second major cause of such losses. In irrigated areas, it is the primary cause. As the Hydraulics Research Ltd. (1990, p. 1) reports, "...FAO earlier predicted that...[the area] under irrigation in the world will expand to 320 million ha by the year 2000. For many years, the rate of growth has been 5 million ha per year, but recently it has fallen to 2 million ha per year. However, this growth is counteracted by 2-3 million ha going out of production each year due to salinity problems-this means that
+cultivated land is being lost at a similar rate to new land being brought into production..
+This report describes the process by which irrigation-induced salinity develops and the extent of the problem in various countries. It examines the physical, economic, social, and political factors that spur the onset of salinity, drawing on the experiences in World Bank projects. It explores the role that: farmers, the government and donor agencies can play in dealing with the problem of irrigation-induced salinity.
+Irrigation-induced salinity can arise as a result of the use of any irrigation water, irrigation of saline soils, and rising levels of saline ground water. When surface or ground water containing mineral salts is used for irrigating crops, salts are carried into the root zone. Most of the water returns to the atmosphere through transpiration by plants and through evaporation from the soil surface. In the process, the salt is left behind in the soil, since the amount taken up by plants and removed at harvest is quite negligible. The more arid the region, the larger is the quantity of irrigation water and, consequently, the salts applied, and the smaller is the quantity of rainfall that is available to leach away the accumulating salts. The amount of salt which accumulates is further influenced by the water table depth, the capillary characteristics of the soil, and the management decisions regarding the amount of water applied in excess of plant evapo-transpiration to leach
+the salt away (Young and Homer 1986).
+Although plants can tolerate and even require certain levels of salinity for growth, excess salinity within the root zone reduces plant growth. Moreover, different crops exhibit varying degrees of tolerance to salinity. For example, clover and rice are more sensitive to salts than barley and wheat. For rice, a salinity level of 7.2 dS/m will result in a 50 percent yield loss, while it will have no effect at all on barley. The impact of irrigation-related salinity is not restricted to the production areas alone. For example, the disposal of saline drainage water back into rivers have adverse effects on downstream riparians. In some regions, the effects are felt across international borders.
+Very limited research has been done to empirically quantify the economic impact of irrigation induced salinity. Quantitativs measurements have generally been limited to the amount of land affected or abandoned. Of more critical importance is its impact at the micro-level on farm productivity and farm incomes and at the macro-level on the performance of the rural sector. The Secretaria de Agricultura y Recursos Hidraulicos (SARH, Secretariat of Agriculture and Water Resources, cited in World Bank 1991c) of Mexico found that agricultural productivity in the Northwest districts and Lerma Balsas region decreased between 30 to 50 percent in the last ten years due to salinity. In the Menemem irrigation and drainage project in Izmir, Turkey, the average net returns per ha for cotton and paddy production were TL307 and TL415 respectively in the salinity affected areas, which is equivalent 42 and 35 percent of the income in the unaffected areas (Republic of Turkey 1990).
+The FAO report, An International Action Programme on Water and Sustainable Agricultural Development. A Strategy for the Implementation of the Mar del Plate Action Plan of the 1990s (1990, p. 15) estimates that "...about 20 to 30 million hectares are severely affected by salinity and an additional 60 to 80 million hectares are affected to some extent.. Estimates of the area affected have ranged from 10 to 48 percent of total irrigated area. Clearly, the countries in the arid and semi-arid regions that ranked high in irrigation investments have extensive salinity problems: salinity-affected areas as a percentage total irrigated area amount to 11 percent in India, 21 percent in Pakistan, 10 percent in Mexico, 23 percent in China, and 28 percent in the United States. In the case of India, for example, 11 percent translates to 4.7 million ha, and given the generally small farm sizes, this translates to thousands of farm households: 100,000 households assuming an average farm size
+of 5 ha. The newly-formed Central Asian Republics in the Aral Basin--Kazakhstan (17%), Turkmenistan (48%), and Uzbekistan (24%)-also exhibit serious salinity problems. In other regions, the effects are felt across international borders. The increasing use of the Euphrates system by Syria and Turkey not only reduces the flow of the river to Iraq, but is also contributing to degradation of water quality (higher salinity) for the downstream riparian (Keenan 1992b). Similar problems are being encountered in Israel and Jordan with respect to the Jordan River and the United States and Mexico with respect to the Colorado River (Keenan 1992b; Schilfgaarde 1992).
+The Operations Evaluation Division (QED) of the World Bank reviewed 21 projects that were approved between 1961 and 1978 and completed in 1970-86. These comprised medium- and large-scale public irrigation systems which were typical of the Bank's lending policy for irrigation projects in the 1960s and 1970s. The OED evaluation found that more than half the 21 projects were very successful but had some degree of adverse impact on the environment (World Bank l991b). Increasing waterlogging problems were found in 11 projects and soil salinity problems were found in four (Pyongtaek-Kumgang Irrigation Project in Korea, the Seyhan Irrigation Project in Turkey, the San Lorenzo Project Irrigation and Land Settlement project in Peru and the Rio Sinaloa Project in Mexico), caused mainly by poor drainage. The drainage network was insufficient or incomplete in half of the 21 projects.
+Although irrigation-induced salinity is a technical problem, the factors contributing to its existence are a complex web of technical, economic, political, and social elements. At the technical level, irrigation induced salinity has developed in some areas due to: (i) poor on-farm water use efficiency; (ii) poor construction, operation and maintenance of irrigation canals leading to excessive seepage; (iii) the inadequacy or lack of drainage infrastructure; and (iv) even when drainage structures are provided, their poor quality of construction, operation and maintenance. These technical problems, however, maybe the product of several other factors. Distortive government policies lead to inefficient use of water resources. In the case of irrigation water, it is frequently priced below its true economic value, thus leading to overapplication. Water use efficiency is further aggravated by a lack of awareness of farmers of more efficient and water application methods and poor
+water management by irrigation authorities. Off-farm, excessive irrigation and drainage canal seepage can be traced to ineffective project planning, poor quality of construction, and inadequate monitoring and maintenance, which lead to rapid infrastructural deterioration. In some cases, no provision for drainage is made at all. These weaknesses in the planning and implementation of irrigation and drainage projects can stem from the shortsighted perspectives assumed by many policy makers. Often, there is a lack of or weak understanding of the consequences of inaction or at the extreme, weak or lack of commitment to environmental protection. In the presence of competing demands for financial resources, priority is directed to other areas other than salinity abatement. At the same time, donor agencies have inadvertently contributed to the problem. Weaknesses in donor project planning and supervision and, not until recently, the inadequate priority to environmental consequences
+of projects, have similarly contributed to the problem.
+In summary, poor project planning and implementation, scarce financial resources of governments in many countries to undertake corrective measures, the short-term outlook and inadequate priority assigned to agricultural sustainability and environmental protection by policymakers, and the inability of donor agencies to ensure adherence to project plans all contribute to the advent of salinity. The technologies exist to ameliorate or eliminate the problem and delays in taking action will only escalate the economic, social, and environmental damage and the cost of repairing such damage. In light of the externalities associated with corrective measures, governments will have to play a major role in correcting or alleviating salinity problems. Donor agencies will also have an important role in enhancing the capacities of governments to do so.
+The battle against salinity will have to be launched in three fronts. Governments have to commit to a policy of sound water management and to the fostering of an economic environment promoting efficient resource use. At the same time, agricultural strategies should promote the adoption of improved production methods, particularly efficient water-use practices among farmers. Lastly, greater effort has to be directed at examining the environmental impact of projects that involve water resource use and development to ensure that only economically and environmentally sound projects are undertaken.
+As the World Commission on Environment and Development (WCED) wisely describes it, ..."development which destroys the natural resources on which it is based is not development. (cited in FAO, 1990, p. 6). It is widely recognized that irrigation has been a powerful force in fostering development in many countries. But when it is pursued injudiciously, it can become the progenitor of agricultural devastation, embodied in form of irrigation-induced salinity. Irrigation-induced salinity has began to cause drastic reductions in agricultural productivity in many parts of the world and the time has come for farmers, governments and donors to take it seriously.
+<section>Introduction 1</section>
+Irrigation has been and continues to be an important force in agricultural development. The expansion of cultivable land and the intensification of production achieved through the use of irrigation have contributed to substantial production increases worldwide. For developing countries, its contribution to the attainment of development objectives of food security, poverty alleviation, and the improvement of the quality of life of the rural population has been significant.
+During the mid-60s to the mid-80s, the Food and Agriculture Organization (FAO) estimates that the expansion of irrigation accounted for over 50 percent of the increase in global food production (cited by World Bank-UNDP, 1990, p.3). Although irrigated area accounted for only 17 percent of global cropland in 1986, it accounted for more than one-third of total world food production. In fact, almost 60 percent of rice and 40 percent of wheat production in developing countries is on irrigated land (World Bank-UNDP, 1990). In India, where irrigation has been widely used prior to the 1950s, the contribution of irrigation has approached 100 percent (Frederiksen, 1989), while in the United States, about 25 percent of the value of agricultural production is grown on approximately 10 percent of the land as a result of irrigation (van Schilfgaarde, 1990).
+World irrigated area grew more than 250 percent from 94 million ha in 1950 to 237 million ha in 1990 (World Bank-UNDP, 1990; FAO 1991). Five countries: China, India, the Commonwealth of
+Independent States, the United States, and Pakistan accounted for almost two-thirds of irrigated area (Figure 1.1). Seventy-three percent is situated in developing countries, with China, India, and Pakistan accounting for 45 percent of the world total or 62 percent of the developing country total. Indonesia, Iran, and Mexico are the second three most important developing countries in terms of irrigated hectarage (FAO 1991).
+The "sustainability of irrigated agriculture, however, now faces a growing ride. The expanded dependence on irrigation has not been without cost. Salinity and waterlogging, soil erosion and sedimentation, the spread of disease-carrying organisms, and water pollution are a few of the serious problems that have gone band-in-hand with irrigation. UNEP (1987) estimated that the rate of loss of agricultural land is approximately 5-7 million ha per year and overall, salinization is the second major cause of such losses. In irrigated areas, it is the primary cause.
+As the Hydraulics Research Ltd. (1990, p.1) reports, ....FAO earlier predicted that...[the area] under irrigation in the world will expand to 320 million ha by the year 2000. For many years, the rate of growth has been 5 million ha per year, but recently it has fallen to 2 million ha per year. However, this growth is counteracted by 2-3 million ha going out of production each year due to salinity problems this means that cultivated land is being lost at a similar rate to new land being brought into production." Indeed, the same countries who have invested heavily in irrigation infrastructure are not having to deal with serious salinity problems.
+Irrigation-induced salinity is without question an issue which had merited limited attention in the past. Amidst spiralling demands for greater agricultural production to meet the growing demand of exponentially increasing populations, the potential reduction in agricultural productivity due to salinity cannot be left unresolved. In seeking to contain, and if possible reverse, the damaging impact of salinity, several concerns move to the forefront. How extensive is the area affected by irrigation-induced salinity? What are the factors that contribute to the problem? What options are available for solving these salt related problems? What role can farmers, the government, and donor agencies play in alleviating these problems?
+This study explores the answers to these questions. The study is divided into five sections. The following section describes the process by which irrigation-induced salinity develops, while section 3 surveys the extent of the problem in various countries. Section 4 examines the physical, economic, social, and political factors that spur the onset of salinity problems by drawing from experiences from World Bank projects. Finally, section 5 presents the major findings of the study and examines the role that farmers, the government and donor agencies can play in dealing with the problem of irrigation induced salinity.
+<section>The nature and impact of irrigation-induced salinity</section>
+The provision of irrigation water, particularly in arid and semi-arid areas, is one of the most important factors in the expansion of agricultural production and increasing productivity of cultivated lands. However, the onset of salinity problems in irrigated areas threatens the progress that has been made so far. In order to gain a better understanding of the problem, this section examines how soil salinity and alkalinity come about.
+<section>Nature of irrigation-induced salinity</section>
+Water serves as the vehicle by which salt is transported into and out of the root zone. The amount of water in the root zone is a function of the level of rainfall, irrigation applied, seepage from irrigation canals, and drainage; the rate of evaporation and transpiration; the depth of the water table; and the area's proximity and elevation relative to natural bodies of water. Figure 2.1 represents the cross section of an irrigated valley and vertical water movement in the soil profile. The salt content in the root zone of plants is therefore controlled by the difference between the volume and salt concentration of the water supplied to the production area and the volume and salt concentration of the water discharged from the same area. This can be expressed by the following relation:
+- D[c]C[d] - S[p] - S[c]
+Irrigation-induced salinity can arise as a result of the use of any irrigation water, irrigation of saline soils, and rising levels of saline ground water. When surface or ground water containing mineral salts is used for irrigating crops, salts are carried into the root zone. Most of the water returns to the atmosphere through transpiration by plants and through evaporation from the soil surface. In the process, the salt is left behind in the soil, since the amount taken up by plants and removed at harvest is quite negligible. The more arid the region, the larger is the quantity of irrigation water and, consequently, the salts applied, and the smaller is the quantity of rainfall that is available to leach away the accumulating salts. The amount of salt which accumulates is further influenced by the water table depth, the capillary characteristics of the soil, and the management decisions regarding the amount of water applied in excess of plant evapotranspiration to leach
+the salt away (Young and Homer 1986).
+In many arid and semi-arid areas, the soil strata are naturally saline. When these areas are developed for irrigation, the salt in the soil is mobilized by seepage water from canals and irrigation. If the volume of water applied is less than the volume of water needed to leach the salt away, the salt concentration at the root zone increases. In some cases, application of irrigation water results in rising saline ground water levels. When the watertable approaches the bottom of the root zone, capillary action results in the salinization of the root zone and the surface soil.
+<section>Alkalinity: a related problem</section>
+A problem closely related to the problem of irrigation-induced salinity is that of alkalinity or sodicity; its impact is manifested by the degradation of the soil structure. The application of irrigation water to areas with abundant salts (common in arid and semi-arid areas) and more than 15% exchangeable sodium lead to the formation of "alkaline. or "sodic" soils, through the process of alkaline hydrolysis. If the soil has a low chloride and calcium content and if the soil and/or irrigation water applied have abundant exchangeable sodium bicarbonate and/or sodium carbonate (over 15% exchangeable sodium), the clay particles in the soil adsorb the sodium and magnesium salts and swell. The soil loses its permeability (ability to conduct air and water) and filth (friability of the seedbed). When this occurs, water infiltration is hindered and plant roots/soil organism may be starved of oxygen (Rhoades 1990; Barrow, 1991).
+Alkalinity may also induce calcium deficiency and various other micro-nutrient deficiencies because of the associated high pH and bicarbonate levels repress their solubilities and concentrations (Kijne and Vander Velde 1992). The addition of gypsum to the soil surface or to the irrigation water help to prevent or alleviate the problems of infiltration and seed emergence. In this study, alkalinity is also considered as an irrigation-induced salinity problem.
+<section>Effects of salts on plants</section>
+Although plants can tolerate and even require certain levels of salinity for growth, excessive salinity within the root zone reduces plant growth. A high salt concentration in the soil water can have both a physical and chemical effect on plants. Generally, the excess salts increase the energy that the plant must expend to acquire water from the soil and undertake the biochemical adjustments necessary to survive. Energy is diverted from the physiological processes necessary for plant growth, including cell enlargement and the synthesis of metabolites and structural compounds (Rhoades 1990a). At very high salinity levels, the osmotic potential outside the plant root falls below that of the osmotic potential inside the root and results in osmotic desiccation and wilting of the plant (Maas and Nieman 1978; Lauchli and Epstein 1990).
+A soil salinity problem also implies the presence of high concentrations of certain ions, particularly sodium and chloride, relative to other ions. High concentration of some ions can obstruct the absorption of other essential elements, such as potassium or calcium that are readily available to plants at lower saline concentrations, thereby leading to critical nutrient deficiencies. Furthermore, the high concentration of certain ions, such as chloride, can have toxic effects on plants. Often, the toxic effects are indistinguishable from impact of nutrient deficiency (Läuchli and Epstein 1990).
+Plant growth is suppressed when a threshold concentration value of salinity is exceeded. The threshold value is a function of the type of crop, the stage of plant growth, the irrigation method and frequency, and a combination of environmental (temperature, relative humidity, and wind speed) and edaphic (soil structure, soil fertility, and salt distribution in the soil profile) factors. The deleterious effect of salinity on plant development escalates as the salt concentration increases to the point of being lethal to the plant. Most plants are relatively salt-tolerant during germination and more sensitive during seedling emergence and early stages of seedling growth. Differences in salt tolerance for the same plant growth stage even occurs between different varieties of the same species. Rootstocks affect salt tolerances of trees and vine crops because they regulate the uptake and transfusion of toxic salts to the shoots. The type of irrigation method, for example sprinkler
+irrigation, increases the potential damage due to foliar salt uptake and leaf burns resulting from spray contact of the foliage. The type of climate is a also major factor affecting salt tolerance because most crops can tolerate greater salt stress if the weather is cool and humid than if it is hot and dry (Maas 1990).
+Maas and Hoffman (1977) estimated the salt tolerance of several crops using the following equation:
+Y[r]= 100 - b (EC[c] - a)
+where Y[r] is the percentage yield of the crop grown under saline conditions relative to the yield under nonsaline conditions; a is the threshold level of soil salinity at which yield begins to decline; b is the percentage of yield loss per unit increase in salinity in excess of a; and EC, is the soil salinity of a saturation extract measured in decisiemens per meter (dS/m). The toxic effects of specific ions, however, are not defined by this formula. Table 2.1 lists the salt tolerance threshold of selected crops and the salinity levels that will lead to yield losses of 10, 25 and 50 percent based on the formula developed by Maas and Hoffman (1977). Different crops exhibit varying degrees of tolerance to salinity. For example, clover and rice are more sensitive to salts than barley and wheat. For rice, a salinity level of 7.2 dS/m will result in a 50 percent yield loss, while it will have no effect at all on barley.
+The results presented in Table 2.1 highlights two important issues. In the short term, the broad range of salinity tolerance by a variety of crops offers farmers some options for shifting production and changing crop mixes to include more salt tolerant crops Such opportunities to shift become particularly critical when the salinity problem cannot be immediately remedied, either for physical, technological or economic reasons. However, the feasibility of shifting production to other commodities will be determined by several factors including the magnitude of consumer demand for and the cost of production
+Table 2 1 The affect of soil salinity levels on yields of selected crops
+SALT TOLERANCE THRESHOLD
+YIELD LOSS
+CROP
+(dS/m)
+(dS/m)
+(dS/m)
+(dS/m)
+FIELD CROPS
+Barley^1
+Beans (field)
+Broad Beans
+Corn
+Cotton
+Cowpeas
+Flax
+Groundnut
+Rice
+Safflower
+Sesbania
+Sorghum
+Soybean
+Sugarbeet
+Heat^1
+VEGETABLE CROP
+Beans
+Beets
+Broccoli
+Cabbage
+Cantaloupe
+Carrot
+Cucumber
+Lettuce
+Onion
+Pepper
+Potato
+Radish
+Spinach
+Sweet Corn
+Sweet Potato
+Tomato
+FORAGE CROPS
+Alfalfa
+Barley hay^1
+Bermuda areas
+Clover, berseem
+Corn (forage)
+Harding grass
+Orchard grass
+Perennial rye
+Sudan grass
+Tall fescue
+Tall wheat grass
+Trefoil, big
+Trefoil, small
+Wheat grass
+FRUIT CROP
+Almond
+Apple, pear
+Apricot
+Avocado
+Date pal.
+Fig, olive, pomegranate
+Grape
+Grapefruit
+Lemon
+Orange
+Peach
+Plum
+Strawberry
+W
+1 Data may not apply to new semi-dwarf varieties of wheat and barley.
+Source: Ayers and Westcot 1976. and marketability of the alternative commodities (which determines their overall profitability and comparative advantage in production), the compatibility of the new crop to local environmental conditions (other than salinity levels), and the farmer's skills and knowledge in the production of the alternative commodity. At the same time, because increasing salinity results in increasing production losses over time, without intervention, the land will eventually become totally unproductive and will be abandoned. Although reclamation may be technologically possible, it may not be economically feasible. Soil salinity, therefore, seriously threatens the productivity of irrigated land and the livelihoods of the farmers dependent on the affected land. If the affected sites are major food producing areas, a nation's capacity to meet the food needs of its population is also jeopardized.
+<section>Economic impact of salinity</section>
+Irrigation-induced salinity is not a 20th century problem. The accumulation of salts in soils and the accompanying drainage problems plagued agriculture even in ancient times (See Box 2.1). However, the problems of the past continue to haunt the present. Very limited research has been done to empirically quantify the economic impact of irrigation-induced salinity. Quantitative measurements have generally been limited to the amount of land affected or abandoned. Of more critical importance is its impact at the microlevel on farm productivity and farm incomes and at the macro-level on the performance of the rural Sector. Joshi and Jha (1991) conducted one of the few comprehensive studies of farm-level effects of irrigation-induced salinity in the Sharda Sahayak irrigation project in India. The study surveyed 110 farm households in the Gauriganj Block of the Sultanpur District in 1985/86. They found that the yields of paddy and wheat were 41-56 percent lower on the degraded
+soils and net incomes in salt-affected lands were 82-97 percent lower than the unaffected land Table 2.2). Paddy is the only option on waterlogged soils, though net incomes are reduced by 54-55 percent, compared to paddy grown in normal soils. Production efficiency losses are manifested by increased costs of production: paddy per unit costs rise by about 60 percent, while wheat per unit costs increase by about 85 percent in saline lands. Using decomposition analysis, the study found that salinity accounts for as much as 72 percent of the difference in gross income between normal and salt-affected plots. It was also found that farmers tend to revert to low-input traditional varieties and practices as soil conditions deteriorate.
+Box 2.1: Irrigation-induced Salinity--A Historical Perspective
+Historical records for the past 6,000 years reveal that numerous societies based on irrigated agriculture have failed. Mesopotamia, now Iraq, suffered salt damage from about 2400 B.C. to 1700 B.C. The problem stemmed from a dispute between the Sumerian cities of Umma and Girsu over land and water rights (Jacobsen and Adams 1958). Umma, located upstream from Girsu on the Euphrates River, blocked branch canals that supplied water to Girsu's agriculture. The latter responded by building other canals off the Euphrates to irrigate a large basin. Flooding, seepage, over-irrigation, and siltation resulted in a rising water table, which led to excessive soil salinity (Gelburd 1985). The crop records show that production of wheat was phased out over time and replaced by more salt-tolerant barley, but the yields of barley similarly gradually declined. After 1,000 to 5,000 years of successful irrigated agriculture, the Sumerian civilization declined. Numerous references to canal
+building in Sumeria from the third millennium B.C. are available, but no record of drainage canals being built to sustain agriculture exists. Similar problems have developed in more recent times in the Indus Plain region, which includes parts of modem day India and Pakistan, where irrigation began about 2,000 years ago by the Harappa civilization. Serious salinity and drainage problems did not develop until recently, within the last 150 years or so (Taylor 1965).
+Salt and drainage problems also existed in North and South America. The inhabitants of the Viru Valley on the coast of Peru developed an irrigation system between 400 B.C. and 30 A.D. (Willey 1953). By 800 A.D., the population of the Viru Valley reached its peak and from 1200 A.D. dramatically decreased. Evidence shows that people relocated from the previously densely-settled valley bottoms to the upper narrows of the valley. Historians partly attribute this relocation to increasing soil salinity and rising water tables from lack of drainage (Armilas 1961).
+The Hohokam Indians, who lived in the Salt River region in what is now Arizona, practiced a form of flood irrigation, similar to that practiced by the farmers in the Viru Valley during about 300 B.C. This civilization flourished through 900 A.D. Historical records indicate that waterlogging and salt accumulation in the valley floors caused extensive crop failures. After 1450 A.D., no evidence of the Hohokam civilization exists and historians surmise that these problems led the Hohokams to either relocate or starve.
+Source: Tanji 1990.
+Some indirect evidence has been collected by the Secretaria de Agricultura y Recursos Hidraulicos (SARH, Secretariat of Agriculture and Water Resources, cited in World Bank 1991c) of Mexico. SARH's data showed that 357,000 ha in the Northwest districts and 96,000 ha in the Lerma Balsas region were affected in varying degree by salinity and it is estimated that agricultural productivity in these areas has decreased between 30 to SO percent in the last ten years. In the Sinaloa Project in Mexico, it was reported that by 1986/87, salinity and waterlogging problems "now prevents cropping-or considerably reduces yields- on 17% of the project area. The cropping intensity (128X) in 1986/87, is lower than expected at [project! completion. A number of houses and buildings have also been damaged by salinity.. (World Bank 1989b, p. ii). Unfortunately, the farm income effects of such declines in productivity can only be hypothesized from the above figures. In the Menemem irrigation and
+drainage project in Izmir, Turkey, the average net returns per ha for cotton and paddy production were TL307 and TL415 respectively in the salinity affected areas, which is equivalent 42 and 35 percent of the income in the unaffected areas (Republic of Turkey 1990). In the future, studies of the farm-level impact of salinity is a research area that should be given more attention.
+Table 2.2: Average coat and return from major crops under different soft conditions, Sultanpur District, Uttar Pradesh, India, 1986.
+Crop (Variety)/ Soil Type
+Gross Income
+Prods Costs
+Net Income
+Net income/ Cost Ratio
+Cost per Kg
+Paddy (HYV)
+Normal
+Alkaline
+Water logged
+Paddy (Traditional)
+Normal
+Alkaline
+Waterlogged
+Wheat (NYV)
+Normal
+Alkaline
+Waterloggad
+Barley
+Normat
+Alkaline
+Source: Joshi and Jha, 1991.
+<section>Off-site external costs</section>
+The impact of irrigation-related salinity is not restricted to the production areas alone. For example, the disposal of saline drainage water back into rivers have adverse effects on downstream riparians. Deason (1992) notes that many rivers, especially in arid regions reflect a progressive increase in salinity levels from their headwaters to their mouths. In some areas, such as the Colorado River Basin, the aquifers interrelated with the river are highly saline because of soluble salts in the aquifer fill material. The salts discharged to the river system from saline aquifers adversely affect downstream water users--irrigated agriculture, municipal and industrial consumers, and in some special cases, wildlife. In Pakistan, the disposal of saline drainage water from the state of Punjab, which involves the channelling of the drainage water through the Left Bank Outfall Drain that cuts through the state of Sind, has resulted in substantial political tensions between the two
+states (Smedema, 1992). In other regions, the effects are even felt across international borders. The increasing use of the Euphrates system by Syria and Turkey not only reduces the flow of the river to Iraq, but is also contributing to degradation of water quality (higher salinity) for the downstream riparian (Keenan 1992b). Similar problems are being encountered in Israel and Jordan with respect to the Jordan River and the United States and Mexico with respect to the Colorado River (Keenan 1992b; Schilfgaarde 1992). The following section discusses the extent of salinity problems in various countries in greater detail.
+<section>Global magnitude of irrigation-induced salinity</section>
+Salinity buildup is a long degenerative process; initial manifestations may take as long as 15 or more years to appear after the introduction of irrigation. Because the advent of salinity, to the level that is clearly injurious to plant growth, often takes years, monitoring for its presence is often neglected by irrigation authorities. The general lack of monitoring of salinity-affected areas is clearly evidenced by the dearth of field level information on this topic. This section attempts review the available information in the extent of irrigation-induced salinity problems worldwide.
+<section>A global survey of affected areas</section>
+A compilation of publicly available data on areas affected by irrigation-induced salinity in selected countries is presented in Table 3.1. It should be noted that these figures cover various years and since most of the available figures apply to the early to mid-80's, the extent of the problem may changed thereafter. Nonetheless, the FAO report, An International Action Programme on Water and Sustainable Agricultural Development, A Strategy for the Implementation of the Mar del Plata Action Plan of the 1990s (1990, p. 15) estimates that "...about 20 to 30 million hectares are severely affected by salinity and an additional 60 to 80 million hectares are affected to some extent.. Estimates of the area affected have ranged from 10 to 48 percent of total irrigated area. Clearly, the countries in the arid and semi-arid regions that ranked high in irrigation investments have extensive salinity problems: salinity-affected areas as a percentage total irrigated area amount to 11
+percent in India, 21 percent in Pakisan, 10 percent in Mexico, 23 percent in China, and 28 percent in the United States. In the case of India, for example, 11 percent translates to 4.7 million ha, and given the generally small farm sizes, this translates to thousands of farm households: 100,000 households assuming an average farm size of 5 ha. The newly-formed Central Asian Republics in the Aral Basin-Kazakhstan (17%), Turkemenistan (48%), and Uzbekistan (24%)-also exhibit serious salinity problems.
+As of 1985, 10 percent of irrigated area in Mexico is affected by salinity and approximately 64 percent of the affected area has salinity levels greater than 8.1 dS/m (Table 3.2). Over 80 percent of the affected areas is located in the northern regions of Mexico (Table 3.3). In California, Backlund and Hoppes (1984) found that most of the salt affected areas were situated in the San Joaquim Valley and totalled 890,000 ha or 22% of total irrigated area (Table 3.4).
+In the People's Republic of China, the extent of irrigation-induced salinity and its causal factors varied by region (International Program for Technology Research in Irrigation and Drainage [IPTRID] 1992). In the north, most of the salinity problems are found in the Huang-Huai-Hai Plain or North China Plain. These problems began to be manifested in the fifties when large scale irrigation was introduced in the area without providing for adequate drainage to remove the excess water. The areas with improved drainage have already reduced the salinity problem and at present, it is mostly restricted to low lying areas underlain by saline groundwater at shallow depth. Total affected cultivated areas in North China in 1991 is estimated at 2.1 million ha. In North-East China, the total salt-affected area is estimated at 6.0 million ha in 1991. Soil salinity became a serious problem due to indiscriminate reclamation and over-grazing of natural pasture. The introduction of irrigation
+without providing for adequate canal seepage control and drainage led to large scale waterlogging and capillary salinization of the upper soil layers. The western section of the North-East Plain is also seriously affected. Similarly, irrigation development without adequate drainage provision resulted in significant groundwater table rise and to capillary salinization in North-West China. The area affected in the North-West is estimated at 3.0 million in 1991.
+Table 3.2: Land area subject to irrigation-induced salinity in Mexico, 1985
+SALINITY LEVEL
+SALINITY AFFECTED AREA
+PERCENT OF TOTAL
+(dS/m)
+(ha)
+4.0 to 8.0
+8.1 to 12.0
+12.1 to 16.0
+16.1 to 20.0
+Greater than 20.0
+Total
+Source: Aceves-Navarro 1985.
+Table 3.3: Regional distribution of salinity affected areas in Mexico, 1985
+REGION
+AFFECTED AREA(ha)
+PERCENT(%)
+Northwest
+North
+Northeast
+Central
+Southeast
+Total
+Source: Aceves-Navarro 1985.
+A survey conducted by Pakistan's Water and Power Development Authority of salinity-affected areas in the Punjab, Sind, NWFP, and Baluchistan in 1981 revealed that 31 percent of salinity-affected areas exhibits strong salinity, 25 percent has moderate salinity, and 44 percent has slight salinity (Table 3.5). Ahmad and Kutcher (1992) used the Indus Basin Model Revised (IBMR), which models the groundwater and salt flows in the Indus Basin, to project salt accumulation in the Punjab and Sind regions in Pakistan in both the fresh and saline areas by the year 1995.9 The study estimated that the salt added to the groundwater in the fresh water areas by 1995 will amount to 1.16 mt per ha in Punjab and 1.95 mt per ha in Sind. In addition, the amount of salt added to the soil will total 0.10 and 0.30 mt per ha
+Table 3.4: Salinity and drainage problems by major irrigated areas in California, 1984 (000 ha)
+AREA
+REGION
+Irrigated
+Saline
+Hi. Water Table
+Water Quality
+San Joaquin Valley
+Sacramento Valley
+Imperial Valley
+Other Areas
+Total
+Source: Backlund and Hoppes 1984.
+Table 3.5: Extent of salinity in Indus Basin, Pakistan, 1981
+SURFACE SALINITY
+Slight
+Moderate
+Strong
+Total
+PROVINCE
+(000 ha)
+(000 ha)
+(000 ha)
+(000 ha)
+Punjab
+Sind
+NWFP
+Baluchistan
+Source: Survey and Research Organization, Planning Division, Water and Power Development Authority 1981 (cited by the Economic and Social Commission for Asia and the Pacific 1989). in Punjab and Sind respectively. In the saline areas, 0.30 and 1.24 mt per ha will be added to the ground water and 0.54 and 0.84 mt per ha will be added to the soil in Punjab and Sind respectively.
+In India, the salt-affected area in the country as reported by the Central Soil Salinity Research Institute (CSSRI), Karnal, India as of 1991 was 7 million hectares of which 2.4 million ha were inland saline soils of the arid and semi-arid regions, 2.5 million ha were alkali soils of the Indo-Gangetic plains and 2.1 million ha were coastal saline soils. This amounts to 2.3 percent of total geographical area or about 4 percent of total cultivable land. The leaching of the saline dessert soils by irrigation was the major cause of the secondary (capillary) salinization (Smedema 1990a).
+As an indication of the magnitude of salinity incidence at the field level, Table 3.6 presents some figures on waterlogged and salinized areas in 10 command sites in India. It should be noted, however, that the project areas overlap to a certain extent. Furthermore, due to the lack of appropriate information, it is also not known whether all waterlogging and salinization are irrigation-induced. Smedema (1990a) notes that irrigation-induced waterlogging and salinization in India are spreading. This conclusion is supported by information from the field and by the fact that the recharge of groundwater in the command areas from seepage and normal deep percolation from irrigation continues mostly unabated. Although the spread of waterlogging and salinity is monitored in some command areas, no statistics at the state and national levels are available.
+Table 3.6: Incidence of waterlogging and salinity In selected irrigation command areas In India, 1990
+AREA (000 HA)
+PROJECT AREA
+STATE
+Waterlogged
+Saline
+Shards Sahayak
+Uttar Pradesh
+Ran Gangaa
+Uttar Pradesh
+Gandak
+Bihar
+Rama Sagar
+Andhra Pradesh
+Tungabhadra
+Andhra Pradesh, Karnataka
+Ukai Kakarpar
+Gujarat
+Mahi Kadana
+Rajasthan, Gujarat
+Chambal
+Madhya Pradesh, Rajasthan
+Tawa
+Madbya Pradesh
+Rajasthan Canal
+Rajasthan
+Note: * - soil is highly alkaline. Source: Director, Central Soil Salinity Research Institute Karnal, Haryana, cited In Smedema 1990a.
+IPIRID (forthcoming) reports that soils affected by salinity represent close to 20 percent of irrigable land in the arid Tifalalet and Ouarzazate areas of southern Morocco. The climatic (hot and dry) and soil conditions (shallow, saline water table, and salt bearing land) and the external salt addition (excessive application of irrigation water) are factors that have contributed to the problem. Furthermore, traditions relating to water rights favored upstream users over those downstream, and the return water naturally drained from the upstream areas resulted in increasing salinity of irrigation water and accumulating concentrations of salt in the aquifers downstream. Similarly, increasing accumulation of salts have been observed in the Moulouya area (Triffa and Bou Areg). The IPTRID report also noted that in Algeria, 1.1 million ha are affected by salinity, whether due to poor management of the saline groundwater or due to the use of saline irrigation water.
+In many cases, irrigation has resulted in rising water tables that subsequently contributed to salinity problems. Table 3.7 presents a list of irrigation projects compiled by Smedema (1990b) which contributed to rising water tables. In the most extreme case, the water table rose over 3 meters per year.
+<section>The world bank experience</section>
+The Operations Evaluation Division (QED) of the World Bank conducts impact evaluation studies by revisiting Bank-supported operations some five to twelve years after completion. As instruments of evaluation, these studies are uniquely placed to measure trends and effects that are outside the purview of audits undertaken during the time of completion. They examine issues such as the social impact of fairly large development projects, the distributional consequences (i.e. poverty alleviation) of the design and implementation, the condition of the infrastructure created under the operation, the experience with the production of goods and services aided by the operation, the long term performance of the implementing organizations, and the ultimate effects of the project operation on the environment and natural resources.
+In 1989, OED reviewed 21 World Bank projects that were approved between 1961 and 1978 and completed in 1970-86. These comprised medium- and large-scale public irrigation systems which were typical of the Bank's lending policy for irrigation projects in the 1960s and 1970s. All were designed to: (1) raise food production to meet the demand of growing populations, and (2) earn or save muchneeded foreign exchange by reducing the need for food imports and/or creating surplus food for export. Most of the projects also aimed to reduce rural-urban migration by creating additional employment opportunities and increasing the incomes of the project beneficiaries.
+Table 3.7: Irrigation induced watertable rise In selected projects
+WATER TABLE
+IRRIGATION PROJECT
+COUNTRY
+Original Depth (meters)
+Increase(mters/yr)
+Bhatinda, Punjab
+India
+Pre-SCARP 1 area
+Pakistan
+Pre-SCARP VI area
+Pakistan
+Khaipur Command, Sind
+Pakistan
+State Farm 2°, Xinjang
+China
+Murray-Darling Basin,
+New South Hales
+Australia
+Noubaria, Western Desert
+Egypt
+East Ghor, Jordan Valley
+Jordan
+nil
+Beni Amir
+Morocco
+Gezira Scheme
+Sudan
+nil
+Salt Valley, Arizona
+USA
+Amibara, Hiddle Ahwaz Valley Ethiopia 10-15 1.00
+Source: Smedema 1990b.
+The OED evaluation found that more than half the 21 projects were very successful but had some degree of adverse impact on the enviromnent (World Bank 1991b). Increasing waterlogging problems were found in 11 projects (Table 3.8). Soil salinity problems were found in four (Pyongtaek-Kumgang Irrigation Project in Korea, the Seyhan Irrigation Project in Turkey, the San Lorenzo Project Irrigation and Land Settlement project in Peru and the Rio Sinaloa Project in Mexico) and were caused mostly by poor drainage. The drainage network was insufficient or incomplete in half of the 21 projects. The most striking cases were the Sinaloa project in Mexico and the San Lorenzo project in Peru where 17 and 20 percent of the project area respectively were uncultivable at the time of the impact evaluation. In the Sinaloa Project, the impact evaluation found a typical case of damage due to poor drainage; the area affected by salinity and waterlogging increased from about 800 ha in 1973 to
+about 11,000 ha in 1987. About 850 families were found to have incurred serious economic losses as a result.
+Despite the knowledge gained through the centuries regarding the causes of soil salinity and the availability of technologies to prevent or reverse its deleterious effects, salinity remains a serious problem in present day irrigated areas. The following section examines the economic and political factors that, deliberate or otherwise, foster the advent of salinity.
+<section>Factors contributing to a irrigation induced salinity</section>
+Irrigation-induced salinity is a technical problem: on-farm, the content at the root zone of plants rises to a level that is deleterious to plant growth and development, or off-farm, the salt content of different types of bodies of water (e.g. aquifers, streams, rivers, lakes) increases, with adverse consequences on other nonagricultural water users (e.g. municipal, industrial, and recreational) and the environment. The factors contributing to its existence are a complex web of technical, economic, political, and social elements. This section seeks to unravel this interlocking mesh, in order to trace the root causes of the problem and thus provide direction for ameliorating it.
+<section>Technical causes</section>
+Technically, irrigation-induced salinity occurs when the salt balance in the soil is disturbed (Figure 4.1). Such salt imbalances can occur as a result of repeated irrigation and deep percolation of water in areas, particularly arid and semi-arid regions, which have inadequate natural or artificially constructed drainage systems. Over time, the watertable rises and the dissolved salts from the irrigation water and the soil, through the process of capillary action, builds up in the root zone and surface soil. It also frequently occurs in arid and semi-arid areas where, although there is good natural drainage, insufficient volume of irrigation water is applied to leach away the salt that accumulated in the soil. In most cases, however, the main cause of irrigation-induced salinity is the former.
+In the first case, the watertable rises as a result of long-term, frequently excessive, use of water in farms and seepage from the canals and other irrigation infrastructures off-farm. Poor water use efficiency is a major cause of rising watertables. Rosegrant (1991, cited in Crosson and Anderson 1992) estimates that water-use efficiency in many systems in Asia varies between 25 and 40 percent. That is, 60 to 75 percent of the total volume of water channeled to farms are not available for crop use due to canal losses and/or overapplication. The results of a survey of irrigation water use efficiency (WUE) on-farm and by project by Xie, Kuffner, and Le Moigne (forthcoming) is presented in Table 4.1. The majority of the projects exhibits WUE of less than 50 percent. Ahmad and Kutcher (1992), using the revised Indus Basin model (IBMR), estimated that seepage from canals, watercourses, and irrigated fields in the Sind Region in Pakistan amounted to 1.971 feet per year.
+Table 4.1: Irrigation aster use efficiency at on-fare and project levels in selected countries
+COUNTRY ON-FARM:
+WE (%)
+COMMENT
+Colombia
+Coello project
+Cyprus
+Pipe conveyance system with sprinkler and drip
+Jordan
+Open canals with manual control, sprinkler and drip
+Mexico
+Both Yaqui and Sinaloa projects
+Morocco
+Doukkala project with sprinkler system
+Morocco
+Open canal gravity system and surface irrigation
+Morocco
+Doukkala project with gravity system
+Syria
+Basin irrigation method
+Turkay
+Traditional open canal gravity with manual control
+Yemen
+Large scale gravity irrigation on farm
+PROJECT:
+Colombia
+Coello project
+Cyprus
+Pipe conveyance systems with sprinkler and drip
+Jordan
+Open canals with manual control, sprinkler and drip
+Mexico
+Sinaloa project
+Mexico
+Panuco project
+Morocco
+Doukkala project with sprinkler system
+Morocco
+Doukkala project with gravity system
+Morocco
+Open canal gravity system and surface irrigation
+Syria
+Turkey
+Traditional open canal gravity with manual control
+Yemen
+Larga-scala gravity spate irrigation
+Source: Xie, Kuffner and La Moigne forthcoming.
+In Khaipur, Pakistan, after the Sukkur Barrage was opened in the 1930s, the watertable rose by 10 cm per year, finally reaching an average depth of less than 2 meters by 1965. This led to the evaporation from the watertable and resulted in a rapid increase in surface soil salinity (Carruthers 1985). At the Nubariya Irrigation Project in Egypt, from an original watertable depth of 15 to 20 meters, the watertable rose 2 to 3 mesas pa year (Smedema 1990b). In Northwest India, (Punjab, Haryana, Rajasthan and Gujarat), the watertables were generally at 25 mesas depth before irrigation development. Since the 1890s, the rate of rise of the watertable ranged from 25 to 30 cm/year (World Bank 1991a). By the 1920s, problems of irrigation induced waterlogging and salinity began to be observed, becoming widespread in certain districts of Punjab and Haryana by the l950s. Consequently, yields have been affected and some areas are no longer cultivated.
+<section>Poor farm water use efficiency</section>
+The inefficient application of irrigation water by farmers a. a major contributory factor to increasing watertables has been noted extensively (e.g., Phulpoto and Sahito 1983; Aceves-Navarro 1985; Carruthers 1985; Posted 1985; FAO 1988 & 1990; World Bank 1991). On the one hand, poor on-farm water-use efficiency can be traced to poor water management by both farmers and irrigation authorities. On the other hand, government policies have had a major role in influencing the typo technology and water application method used by farmer and the volume of irrigation water applied.
+Aceves-Navarro (1985) reports that in Mexico, "when irrigation [was introduced] in the arid areas, farmers believed that as more water was applied, a higher yield was obtained. This belief led to serious seepage and salinity problems in the Mexican irrigation distracts." In India, the typical situation in most irrigated commands is overwatering in the headreachos and lack of water at the tail. This contributed significantly to localized waterlogging and salinization in headends of commend areas in peninsular India. It especially aggravated monsoon waterlogging in eastern India (World Bank 1991a). Moreover, irrigation water deliveries at times coincided with rains, further increasing the volume of water seeping down the soil strata. Carruthers (1985) notes that the shift from seasonal to perennial irrigation in Egypt, India, and Pakistan could not be efficiently handled by farmers and seepage increased. In addition, water managers sometimes succumbed to pressure from farmers
+to increase water supply and many canals were run bank-full, much above design (Carruthers 1985). This contributed to increased seepage and waste when canal-bank breaches occurred.
+Although irrigation (and the absence or inadequacy of drainage) "frequently leads to the salinity problems in some areas, particularly the arid and semi-arid areas, the rate of development and spread of the salinity problem are significantly influenced by non-technical factors (boxed area in Figure 4.2). These factors are discussed separately in the following sections.
+<section>Government policies</section>
+While overapplication farmers is partly attributable to the lack of awareness about proper water application methods and water management, government policies, particularly water pricing policies, play a more significant role in determining the technologies adopted and levels of farmer water use. For most nations, particularly developing countries, food security, foreign exchange generation through agricultural exports, and the propping up of incomes of farmers, who often comprise a large proportion of the population, top the government's list of priorities. Since water, specifically irrigation water, is an essential input to agricultural production and whose cost is a major determinant of farm incomes, it is frequently priced below its true economic value. Such distortive policies prevent farmers from receiving appropriate economic signals; consequently distorting both private investments and consumption decisions.
+Problems of water use in the Middle East, for example, are aggravated by the application of massive energy and water subsidies (Keenan 1992b). In the region, particularly in Israel, the energy subsidy to the agricultural sector is excessively high, largely because of the great expense of bringing sufficient irrigation water to the most productive soils. One-fifth of the energy resources currently consumed in Israel is used for pumping water and 68 percent of the water is used for agriculture. As Keenan (1992b, p.41) explains, "The historical and ideological commitment to agricultural self-sufficiency is a major determinant of the pattern of water utilization in the Middle East. In economic teens, considerations of security, ideology, and politics are used to rationalize the provision of water at costs that exceed its marginal value. In Egypt, no irrigation water charges are collected from farmers. Farmers pay the state treasury indirectly in the form of land taxes. These
+taxes, however, have not improved either water allocation or water use efficiency (Abu-Zeid and Rady 1992).
+Governments have found it difficult to exact appropriate charges for water because it will involve imposing greater costs to farmers and landowners, who traditionally form an important and powerful group in many countries (Easter 1992; Abu-Zeid and Rady 1992). Output price policies, especially if they are consumer-biased, keep prices low for consumers, but with the corresponding effect of pushing farm prices down. Thus, input price subsidies, including water subsidies, are attractive complementary actions to compensate for price distortions in output markets and to support farmer incomes. In some cases, cultural factors also come into play. For example, in the Middle East, pricing water is not in line with Islamic percepts because water has always been viewed as a free resource-it is a "gift from God. (Abu-Zeid and Rady 1992). The high transaction cost of establishing an effective system of water charges is another deterrent and is one reason why the expansion of supply is
+the preferred alternative (Easter 1992). The overall effect, therefore, of the underpricing water is its excessive use, contributing to the hastening of watertable rise, and finally waterlogging and salinity.
+<section>Poor construction and maintenance</section>
+Canal deterioration is another important factor contributing to excessive seepage and the deep percolation of water. Often, it is the result of inadequate maintenance, but in some cases can be the result of the poor quality of construction (Carruthers 1981 & 1985; OED 1989; FAO 1990; World Bank 1990). In the OED (1989) review of 21 World Bank Projects previously described in Section 3, maintenance was poor at the impact evaluation stage in 14 projects (65 percent), and satisfactory in only four (Table 3.8). The impact evaluations also found that the main factor adversely affecting the performance of irrigation and drainage systems was the premature deterioration of civil works and water control structures. This problem was noted in three projects in Africa, five projects in Asia, and four in Latin America and the Caribbean (in total, 60 percent of the group of 21) (QED 1989)." In several projects, low construction standards made it difficult to operate and maintain the
+irrigation systems, causing higher water losses than anticipated, and substantially reducing the life of the projects. In fact, because of the poor quality of construction and poor maintenance, "it seemed likely that without major rehabilitation, only a few will reach the term of their expected useful life (30-50 years). (QED 1989, p.51). OED (1989) concluded that poor construction standards, insufficient funding, and lack of systematic maintenance plans were the main reasons for poor maintenance. Further evidence of the extensiveness of irrigation infrastructure deterioration due to poor construction and maintenance can be found by looking at the nature of World Bank projects with irrigation components (i.e., irrigation projects, area development projects) during the period 1986-1992 (Table 4.2). Of the 104 projects undertaken during the 6 year period, 77 percent included rehabilitation components: 27 (26X) were purely rehabilitation schemes and 52 (50%) included both
+rehabilitation and new irrigation construction components (World Bank data 1992).
+Carruthers (1981, p. 56), in seeking to explain the cause of poor operations and maintenance (O & M) notes, "Many problems with O & M might be traced back to the project planning stage. In principle, project appraisal examines the technical, economic, financial, organizational, managerial, and operational aspects of the plan. However, each of these aspects is not treated equally and it is contended that, in relation to a & M, sufficient disaggregated detail of working procedures is seldom provided.. In some cases, although adequate provision for O & M is included in the project plans, it is frequently neglected by the irrigation authorities/implementing agency or the funds allocated are diverted to other purposes. As a result, inadequate O & M is performed. The inadequate priority conferred to O & M is clearly illustrated in four World Bank irrigation projects in Sinaloa and Panuco, Mexico and in Doukkcala (2), Morocco. Poor project planning was manifested by the fact that
+in the four appraisal reports, detailed O & M programs were at most poorly specified and the O & M cost estimates were roughly expressed per delivered volume and per irrigated hectare with little or no supporting data (QED data 1989). Consequently, any comparison between planned and actual O & M programs was difficult, if not impossible. Actual O & M expenditure much lower than estimated at appraisal, which contributed to the severe understaffing of the O & M departments and the lack of adequate equipment. Inadequate staffing was also partly due to the greater priority placed by the government on new investments rather than recurrent expenditures.
+Table 4 2 Number of irrigation projects with new and rehabilitation components by fiscal year, region, and country, 1986-92
+NUMBER OF PROJECTS
+New
+Rahab
+New and Rahab
+COST OF IRRIG
+Country
+Year
+Schemes
+Schemes
+Schemes
+(SM)
+AFRICA
+Burundi
+Chad
+Total
+Ethiopia
+Ghana
+Guinea-Bissau
+Hall
+Mauritania
+Mauritius
+Nigeria
+Total
+Senegal
+Total
+Somalia
+Sudan
+Uganda
+Zambia
+EAST ASIA
+China
+Total
+Indonesia
+Total
+Laos, P.D.R.
+Malaysia
+Mynamar
+Philippines
+Total
+SOUTH ASIA
+Bangladesh
+Total
+India
+Total
+Nepal
+Total
+Pakistan
+Total
+EUROPE AND CENTRAL ASIA
+Cyprus
+Portugal
+MIDDLE EAST AND
+NORTH AFRICA
+Algeria
+Total
+Egypt
+Total
+Morocco
+Total
+Rep. of Yemen
+Total
+Tunisia
+Total
+LATIN AMERICA
+Brazil
+Total
+Colombia
+Total
+Ecuador
+Jamaica
+Mexico
+Total
+Venezuela
+TOTAL
+Source: world Bank data 1992.
+In India and Pakistan, although waterlogging and salinity problems were observed in several areas due to poor drainage, investments were channeled to the further expansion of irrigated areas, rather than the construction of drainage infrastructure (Carruthers 1985; Makin and Goldsmith 1988; OED 1989; Carruthers and Smith 1990;World Bank 1991). In China and Mexico, drainage systems were planned but not completed in the irrigation districts resulting in rising watertables and soil salinity problems (Aceves-Navarro 1985; IPTRID 1992). World Bank irrigation and drainage projects encountered similar problems. According to the OED (1989) review, the incompleteness or insufficient density of the drainage network in 11 projects in 9 countries resulted in increasing waterlogging and salinization or both (Table 3.8).
+<section>The drainage factor</section>
+Artificial drainage is required if the rate of deep percolation of water exceeds the land area's natural drainage capacity. While the construction of appropriate drainage infrastructure can prevent the onset of serious salinity problems, several non-technical factors hindered the implementation of these measures (boxed area in Figure 4.3). In most irrigation projects, the problem of irrigation-induced salinity arises because of the absence or insufficiency of drainage infrastructure despite inadequate natural drainage or the drainage system is not constructed in time to prevent the adverse consequences. In some cases, although drainage facilities are constructed, poor construction and/or maintenance lead to rapid deterioration, rendering them ineffectual long before the end of their expected useful life.
+<section>Political factors underlying drainage performance</section>
+Several factors explain why, despite its crucial importance, drainage was frequently neglected or not constructed. First, the estimated canal and on-farm irrigation efficiencies (losses) are frequently overestimated (underestimated) during project design. Although at the start of many irrigation projects, the watertables lie at great depths below the surface and can potentially take years before becoming a threat to agricultural production, underestimation of the amount of excess water input results in the advent of waterlogging and salinity problems much earlier than calculated in the plans. because the salinity problem is not viewed as imminent. Thus, the salinity problem is often serious and substantially widespread before any corrective action is taken.
+Second, despite the spread of waterlogging and salinity, the gravity of the problem is often not given adequate attention by decision-makers (FAO 1990). In some cases, although adequate plans for irrigation and drainage operations, maintenance and monitoring are included, governments lack commitment to perform the necessary corrective tasks. In the Sinaloa Project in Mexico, incomplete construction of the drainage system in the Left Bank resulted in increasing salinity problems. At the same time, an irrigation and drainage project was initiated in the Right Bank. Government policy, the absence of any initiative from the World Bank, and farmer pressure to expand irrigated areas in the Right Bank at the expense of the completion of unfinished works in the Left Bank prevented the shifting of funds to solve the drainage problems in the Left Bank (QED data, 1989). The overall result was the gains in the construction of the irrigation system in the Right Bank project was offset by
+the loss of irrigable land in the Left Bank project Although the Mexican government has started a new drainage program in the Left Bank, to be followed by land reclamation, the governments's policy orientation created a difficult and costly situation which will take several years to revert to normal.
+Third, drainage infrastructure entails substantial investments, while only contributing benefits which many policy makers believe are not as politically glamorous. Carruthers and Smith (1988) estimate that, despite some variations, the annual costs of pumped drainage are about five times the cost of gravity irrigation. Frequently subject to more near-term constraints, as dictated by the typical short term occupancy of political offices, there is a preference for projects with greater grassroots popularity and visibility like irrigation projects. Also, due to scarce financial resources in many developing countries, drainage development is often postponed. In some instances, funds allocated for drainage are diverted to the construction of additional irrigation facilities (e.g. Pakistan). As an approximate indicator of the "demand" for drainage projects by countries, Tables 4.3 and 4.4 present figures on the number of World Bank projects and the corresponding volume investments
+in drainage projects during the period 1983-91. Most drainage projects were situated in the Asia and the European, Middle East and North Africa regions. Appendix Table 1 presents the number of projects and volume of investments by country during the period 1983-91.
+In arid India and Pakistan, it has been argued (Carruthers 1985; World Bank 1991a) that drainage was consciously neglected by irrigation advocates. Although developers long recognized the eventual need for drainage, they deferred expenditures on grounds of political expediency and finance. In the case of India, much less emphasis has been accorded to drainage by most state governments. This is illustrated by the very limited investments made on drainage even where such investments are clearly needed and the inadequate provision of funds for maintenance of drains, amounting to as little as 10 to 20 percent of funding requirements in most states (World Bank 1991a).
+Lastly, drainage, unlike irrigation, is also often unpopular with farmers, since it requires substantial amounts of land, approaching 15 percent in the case of open drains, and gives in return a benefit that is not obvious, is delayed, and is indirect (Carruthers 1985). From the point of view of many politicians, irrigation infrastructure and their benefits are also more visible relative to drainage structures, thus, the latter are less politically advantageous.
+<section>Project planning inadequacies</section>
+Good project analysis provides a strong foundation for project success. In the case of irrigation and drainage projects, however, some responsibility for irrigation-induced salinity problems is attributable to ineffective project planning. Of the 21 World Bank irrigation and drainage projects reviewed by OED (1989), it was estimated that most of the projects will not reach their expected useful life and already require rehabilitation and modernization. OED (1989) attributes the poor performance to a number of design flaws that are attributable to insufficient project preparation, inadequate attention to improved technologies that have become available in both irrigation and drainage, and a deliberate policy to build simple and cheap systems as rapidly as possible to insure food security.
+Ochs (1986) in an evaluation of World Bank Drainage Projects found that (1) implementation schedules were found to be over optimistic in a number of projects, (2) environmental issues did not receive careful consideration, and (3) drainage channel maintenance and on-farm drainage measures were not accorded adequate attention. He reports that typically, implementation schedules were realistic and achievable from a technical perspective, but were overly optimistic when evaluated in the context of individual country institutional procedures for recruiting consultants, reviewing and approval of designs, and obtaining rights of ways required by the drainage infrastructures. The environmental effects of drainage were not addressed at all in several projects. In one drainage project in Karan Agung, Indonesia, environmental costs and benefits were not examined at all, while a drainage project for the
+Lower Euphrates (Syria) failed to examine the adverse impact on water quality further in Iraq. A project in San Fernando, Mexico only briefly covered the environmental impacts of the project, but did not include provisions for correcting the resultant pollution problems. In fact, environmental impact assessments only became a standard requirement in the preparation of appraisal reports in the World Bank in 1989 (World Bank 1991a).
+Maintenance of drainage channels have likewise often been given inadequate emphasis. In a reclamation project in Heilongjiang, China, the consultant engineer's report identified, during preliminary engineering studies, that the older drains required considerable maintenance to function efficiently and devoted two pages to maintenance considerations. However, in the final version of the project plan, most of the maintenance recommendations were edited out and only minimal comments were incorporated (Ochs 1986). In other instances, the World Bank and the governments concerned have disengaged too early from a number of projects leaving the irrigation and drainage systems incomplete and the land development unfinished (QED 1989).
+<section>Government, donors, and soil salinity</section>
+The nation's water policy defines the level of priority that is bestowed on the development of water resources and infrastructures such as irrigation and drainage systems to harness these resources efficiently.. Thus, the character of a country's water resources management policy directly influences the nature and magnitude of salinity problems prevailing in a country through the type of projects undertaken, may it be irrigation or drainage projects, and the effectiveness of planning and implementation of these projects (Figures 4.2 and 4.3). But how is it then that governments and donors neglected or have been very slow in responding to the problem of irrigation-induced salinity in many developing countries?
+While salinity is technical problem, it can be concluded from the above discussion that several factors -political, economic and social factors--are significant variables in its development in many countries (Figure 4.4). The short-term outlook of policy makers create a bias for the more popular and publicly visible irrigation projects. Moreover, fiscal constraints in many developing countries often force policy-makers to make difficult trade-offs between additional irrigation canal construction, irrigation system operation and maintenance, irrigation system rehabilitation, drainage construction, drainage operation and maintenance, or drainage rehabilitation. Inadequate priority assigned to agricultural sustainability and environmental protection by policy-malkers in the last decades have further aggravated salinity problems. In the presence of competing demands for financial resources, priority is directed to other areas other than salinity abatement.
+At the same time, donor agencies share some of the responsibility for the salinity problems that have developed in many areas. In some cases, weaknesses in the project preparation and implementation process resulted in some serious problems in the projects. Moreover, inadequate mechanisms to enforce project plans and specifications (e.g. constructions standards, monitoring and maintenance activity) loaf to rapid deterioration of the infrastructure. Finally, a weak emphasis on agricultural sustainability and environmental protection by donors has in part been communicated to governments through the nature of the project development process.
+<section>Conclusion</section>
+In summary, some of the root causes contributing to irrigation-induced salinity include the short term outlook of policy makers, scarce financial resources of governments in many countries to undertake corrective measures, ineffective project planning and implementation, and inadequate priority assigned to agricultural sustainability and environmental protection by policymakers and donor agencies. From the previous discussion, it is clearly obvious that while irrigation-induced salinity represents a simple technical problem, its causes are a complicated web of technical, economic, political and social factors. Consequently, corrective actions will likewise involve multi-pronged strategies, each strategy having multiple components. The following section elaborates on some of these options.
+<section>Future directions in salinity abatement</section>
+Water is an essential input to agricultural production. However, if it is improperly harnessed, it can also serve as a serious threat to sustainable agriculture. Irrigation-induced salinity is but one consequence when a valuable resource such as water, particularly irrigation water, is employed injudiciously. This section reviews some of the options for preventing or reversing its negative impact.
+<section>Factors contributing to irrigation-induced salinity</section>
+At the technical level, irrigation-induced salinity has developed in some areas due to: (i) poor on farm water use efficiency; (ii) poor construction, operation and maintenance of irrigation canals leading to excessive seepage; (iii) the inadequacy or lack of drainage infrastructure; and (iv) even when drainage structures are provided, their poor quality of construction, operation and maintenance. These technical problems, however, maybe the product of several other factors. Distortive government policies lead to inefficient use of water resources. In the case of irrigation water, it is frequently priced below its true economic value, thus leading to overapplication. Water use efficiency is further aggravated by a lack of awareness of farmers of more efficient production and water application methods and poor water management by irrigation authorities. Off-farm, excessive irrigation and drainage canal seepage can be traced to ineffective project planning, poor quality of
+construction and inadequate monitoring and maintenance, which lead to rapid infrastructural deterioration. In some cases, no provision for drainage is made at all. These weaknesses in the planning and implementation of irrigation and drainage projects, however, frequently stem from the shortsighted perspectives assumed by many policy makers. Often, there is a lack of or weak understanding of the consequences of inaction or at the extreme, weak or lack of commitment to environmental protection. At the same time, donor agencies have inadvertently contributed to the problem. Weaknesses in donor project planning and supervision and, not until recently, the inadequate priority to environmental consequences of projects, have similarly contributed to the problem.
+<section>Technical measures</section>
+<section>Irrigation and Drainage System</section>
+The causes of irrigation-induced salinity discussed above provide some valuable directions for ameliorating the problem. Water-use efficiency should be promoted at both on-farm and off-farm levels. Off-farm, the sustained efficiency of irrigation systems depends on proper design, monitoring, and maintenance; otherwise, rapid deterioration results in excessive seepage, hastening the soil degradation process. Donor agencies should assist and if necessary apply some pressure on implementing agencies/irrigation authorities in affected countries to ensure (i) adequate and continuous funding and performance for monitoring and maintenance tasks and (ii) they meet the performance standards set by the project plans. Moreover, funds allocated for these expenditures should be prevented from being channeled to other purposes or sectors.
+Careful water management, from the water source to the farm, is essential to the quantity, timing, controllability and predictability of water delivered to users. Institutional weaknesses, however, are often cited as the cause of poor performance of many irrigation and drainage schemes. These weaknesses draw attention to the need for strengthening, including the reorganization, of the institutional capacity of agencies designated to perform and oversee these tasks. Donor agencies can play a major role in the strengthening of these agencies. A wide variety of technologies are also available to control off-farm seepage, leakage, and percolation losses. For example, Xie, Kuffner, and Le Moigne (forthcoming) provide a detailed review of potential technological options that countries can adopt for improving water-use efficiency. Greater effort should be exerted in adopting these technologies in projects. However, the economic feasibility of some measures may be significantly
+constrained by the project size.
+For the majority of irrigated agriculture, artificial drainage will be required at some future time. Thus, it is essential that provisions for drainage are incorporated in the plans. As in the case of irrigation projects, donor agencies can play an important role in ensuring that implementing agencies carry out the required construction, monitoring and maintenance of the drainage infrastructure, and funding for such activities is not diverted to other purposes. Pilot drainage projects in waterlogged and salinized areas may need to be established to verify design and effectiveness of materials, demonstrate the effect of drainage on productivity, and train personnel in operation and maintenance of drainage systems (FAO, 1990). Some areas that the pilot projects should tackle include: (1) the adaptation and testing of drainage technology developed in other areas using local materials and construction techniques where feasible and (2) the use of pilot areas to train personnel to
+operate and maintain drainage systems concurrent with the installation of large-scale drainage systems.
+<section>Farm Level</section>
+There are two main avenues by which on-farm water-use efficiency can be promoted. First, greater effort should be directed towards promoting farmer adoption of more efficient production and water management practices (e.g., the use of furrow instead of flood irrigation and preventing diversion of excessive amounts of water at the headreaches). Externalities associated with on-farm salinity control measures and the nature of the land structures in most developing countries (predominance of smalllandholdings) may result in less than socially optimal levels of adoption. But mechanisms for internalizing these externalities, such as water user's associations, can be pursued. Second, where it is technically and economically feasible, for example in the production of high value crops, more water-use efficient technologies such as pipe, sprinkler and drip systems, should be promoted. Effectively promoting both strategies will require the provision of some agricultural support
+services, such as agricultural extension to introduce and train farmers in the use of new technologies or practices. It may also necessitate assistance to facilitate access to agricultural credit to finance the purchase of these technologies.
+In areas where salinity problems exist, farm output has declined drastically, and technical measures (e.g. drainage) to correct for it are shown to be presently economically or technically infeasible, alternative crop mixes should be introduced to farmers. The cultivation of more salt-tolerant crops (see Table 2.1) will alleviate or remedy the decline in farm incomes resulting from the reduced output of the traditional crops. Similarly, the provision of support services, such agricultural extension and the marketing support services, will play a significant role in this endeavor. It should be noted, however, that the cultivation of salt-tolerant crops should not be undertaken as a substitute for good cultivation practices; neither should it be used as a corrective mechanism for improper irrigation practices. A program to shift to the cultivation of salt-tolerant crops should only be promoted when the traditional crops can no longer be grown profitably.
+<section>Improved project planning</section>
+Prevention of salinity problems rather than correction after they occur are generally more cost effective. However, prevention involves careful and effective project planning and implementation. Stronger environmental accounting and more comprehensive planning will also be required.
+<section>Environmental Impact Assessment</section>
+The environmental accounting of the direct and indirect impacts of projects should be ensured. Environmental assessments should be made mandatory for all projects to guarantee that on-farm and external environmental benefits and costs, especially the impact on downstream riparians, are incorporated in the project analysis. This requirement may be explicitly outlined in operational directives for project preparations (e.g. the World Bank's Operational Directive 4.01). In some countries, institutional capacity to conduct environmental assessment studies are weak. Additional resources will be necessary to develop or strengthened the required skills need for these tasks.
+In some cases, political pressures are employed to get around this constraint with the result that projects with real environmental problems are approved without the appropriate overview and evaluation of environmental issues. The appropriate strategy should include the early assessment of environmental impacts with a view to incorporating design features to minimize environmental damage. In some instances, the environmental process is used simply as a delaying or blocking mechanism against any project with potential negative impact. Although project disapproval will still be necessary if satisfactory solutions cannot be found, any decision should take into consideration full project costs, benefits and environmental impacts, rather than the single yardstick of environmental impact (World Bank, 1991a).
+<section>Project Preparation</section>
+To facilitate project preparation, more careful and comprehensive data collection and analysis of the hydro-geological relations in the project and related areas should be undertaken. While these may increase project preparation costs, the economic and social losses may far outweigh the initial investment. A more comprehensive framework for analysis should be pursued, taking into account not only on-site variables (e.g. local water availability and demand), but also the ecosystem implications (e.g. basin-level analysis). Resources should be channelled to monitoring and research activities, so that salinity problems are identified in a timely manner and alternative solutions generated before extensive soil damage has occurred. Monitoring and evaluation will also enable the prediction of whether small-scale drainage will be adequate to prevent localized waterlogging problems, or whether a large scale system will be needed.
+Water balance studies and conjunctive use of surface and groundwater should also be encouraged (FAO, 1990).
+<section>Political and economic reforms</section>
+The long run implications of salinity on agricultural productivity and the urgent need for corrective actions are often not fully understood by policy makers in developing countries. Near-term objectives: food security, supporting farm incomes, and the need to ensure popular support in future elections, supersede the need to ensure the sustainability of agricultural resources. Policy makers, however, have to be made aware about the gravity of the consequences of salinity and its implications to future generations. Likewise, farmers need to be convinced of the benefits derived from drainage, despite the fact that certain portions of their land will be taken out of production. Information campaigns will have valuable payoffs. Macro- and microeconomic policy reforms (input, output, water pricing) will be needed. Farmer water use and investment decisions require that they receive undistorted market signals. Some countries are already making a conscious effort to counter salinity
+problems, but they have often met with mixed success. Text Box 4.1 and 4.2 describe the efforts that have been undertaken by Egypt and Pakistan.
+<section>Areas for further research</section>
+Currently available water-use efficient irrigation (e.g. sprinkler, drip) and drainage technologies involve investments costs that are too prohibitive for most farmers in developing countries. Greater research effort needs to be directed at the development of less capital intensive technologies that are affordable to farmers. In some areas, soil salinity problems may not be economically reversed. Under these circumstances, the breeding of salt tolerant crops may become the only available option. Limited research, however, is being done in this area.
+Germplasm collection and classification, breeding and selection of salt tolerant crops, and development of cultural, harvest, and postharvest techniques are needed. There has been some recent advances in biotechnology relating to salinity tolerance and productivity. New techniques for in vitro selection of genotypes tolerant to high salinity levels have been found to improve the adaptability Of conventional genotypes as well as assist in the selection of desired genotypes from a wide range of natural variability in individual salt-tolerant plants (National Research Council 1990). New techniques in gene mapping and cell physiology are used to identify and follow these genotypes with increased tolerance to water and salinity stress. Examples of studies on salinity effects on crop performance include Rhoades et al. (1988) who investigated water quality management (by mixing water from the Colorado and Alamo Rivers) and crop performance in the Imperial Valley and Pastenak et al.
+(1985), who developed approaches that involve special breeding and selection of crops and meticulous water control in the Negev settlements in Israel. The International Rice Research Institute (IRRI) and Centro International de Mejoramiento de Maiz y Trigo (CIMMYT) are also currently conducting research on salt tolerance (IRRI, 1990). Greater research and financial resources may have to be channeled to this area in the future. Greater interdisciplinary communication regarding research on salt-tolerant crops should also be promoted.
+Box 5.1. Salinity Reversal: Egyptian Experience
+Egypt has a total arable area of 2.95 million ha. The productivity of this limited land resource depends on irrigation. Water distribution and use by farmers are organized within a complex framework of rotation based on a canal system coupled with rotation among farmers. The operation of the system involves storage, release and diversion of some 55.5 billion cubic meters of water each year.
+Due to the inherent inefficiency of the irrigation distribution network and field water application and limited natural drainage, the watertable in most areas rose, resulting in waterlogging problems and eventually, soil salinity. By 1970, about 60 percent of all cultivated land in Egypt was classified as moderately to severely affected by salinity and waterlogging with crop yields below the national average. Thirty-three percent was rated slightly to moderately affected; only 7 percent of the total irrigated area remained unaffected. As a result, large scale drainage works were introduced in the 70's to arrest the problem. A Presidential Decree issued in 1973 established the Egyptian Public Authority for Land Improvement Projects (EPADP), whose task was the execution of all drainage works in Egypt. With continuous support from the World Bank, other donors, and the EPADP, the rate of drainage development increased. As of June 1990, some 3.5 million feddans (1.43 million ha)
+have been provided with subsurface drainage and improved open drainage systems. Annually, drainage coverage has been expanding at a rate of 70,000 to 80,000 ha.
+The installation of the drainage system effectively reduced soil salinity. For example, soil salinity in some areas ranged from 2-5 as/m. After the introduction of drainage, soil salinity reached an equilibrium level of approximately 1 as/m. Crop yields with and without drainage were also evaluated. The average yield for wheat before drainage was about I mt per ha, with drainage, it increased to about 2.4 mt per ha. Similarly the yield for maize increased from 2.4 mt per ha to 3.6 mt per ha after drainage infrastructure was constructed.
+Source: IPTRID 1991.
+Box 5,2. Salinity Reversal Strategy: Pakistan's Experience
+The biggest continuous gravity flow irrigation network, capable of handling over 123 million cubic meters of water and irrigating an area of approximately 14 million ha is situated in Pakistan. However, extensive waterlogging and salinity problems have developed in irrigated areas as a result of excessive seepage of water from unlined irrigation canals, inefficient irrigation and production practices, and the absence of drainage. Prior to the introduction of drainage, an appreciable amount of salt existed in the Indus Basin. The salt originating from the evaporation of (periodic) flood waters and groundwater increased the salinity in the upper soil strata. The rising watertable due to inefficient irrigation further aggravated the salinity problem.
+To reverse the growing salinity and waterlogging problem, the Water and Power Development Authority (WAPDA) was established in 1958. WAPDA initiated a program of Salinity Control and Reclamation Projects (popularly known as SCARPs) with assistance from the World Nank and other donors to provide solutions to these problems. The projects aimed at lowering the groundwater table by providing vertical drainage through large capacity, deep tubewells. A total of 36 SCARP projects have been implemented so far, covering a gross irrigated area of about 3.7 million ha. Under these projects, about 11,000 SCARP tubewells have been installed in fresh groundwater (FGW) areas and 2,000 in saline groundwater (SOW) areas. In SGW areas, the tubewells provide subsurface drainage relief, while in FGW areas, they also provide supplementary irrigation water for conjunctive use with canal water. While the SCARPs have generally been successful in meeting their objective of maintaining the
+groundwater table at appropriate levels and providing a supplementary source of irrigation, their performance declined over time. As a result of poor management, inappropriate design and maintenance, frequent breakdowns and reduced pumpage of the public tubewells resulted in rising groundwater tables.
+As the performance of the SCARPs declined, their demonstration effect coupled with the introduction of low cost tubewell technology induced farmers to install their own. To date, over 250,000 private tubewells have been installed in the country. These tubewells are low capacity and pumped from shallow depths (6-10 m). The growth of private tubewells in FGW areas partially compensated for the deterioration of the public tubewells and helped maintain the groundwater table d appropriate depths. In view of the increasing fiscal burden of the public tubewells and encouraging performance of the private tubewells, the "SCARP Transition. was pursued. The responsibility for future groundwater development in FGW areas was transferred to the private sector and public tubewells allowed to be replaced by private ones. Since farmers will not have the incentive to install tubewells where groundwater is unsuitable for irrigation (particularly the saline groundwater areas), the government
+retained the responsibility for tubewell provision, tile drainage installation where necessary. Available information show that aggregate discharges from private tubewells now approximate the pumpage of public tubewells, resulting in higher cropping intensities and the shift towards higher value crops.
+The cumulative cost of salinity control and reclamation programs has amounted to PRs 20 billion ($974 million) by 1989. Nonetheless, the combined effects of public and private efforts have contributed to the reversal of salinity problems and the loss of agricultural land. On the average, 80,000 ha of affected land have been coming back into production every year due to improved water management and drainage efforts.
+Source: IPTRID 1991; World Bank 1991d.
+Declining farm productivity and incomes resulting from salinity and waterlogging problems can seriously retard the growth of the farm sector and will have profound implications for the rate of progress in agricultural development. The impact of these problems on the agricultural sector in general and on farmers in particular is often only roughly estimated or subject to conjecture. There is a clear lack of quantitative information on economic losses at the farm and basin levels, which further increases the difficulty in making investment decisions, particularly if it will involve trade-offs between additional irrigation and drainage infrastructures, or irrigation/drainage system improvements or rehabilitation. The economic impact of inaction versus some combination of the above alternatives will need to be studied more intensively. These economic studies will not only highlight the developmental and environmental consequences of salinity, but also provide valuable
+information in formulating appropriate policy and making sound infrastructure investment decisions.
+<section>Conclusion</section>
+The problem of irrigation-induced salinity warrants greater attention than it is getting today. The technologies exist to ameliorate or eliminate the problem and delays in taking action will only escalate the economic, social, and environmental damage and the cost of repairing such damage. Because of the nature of the agricultural sector and most irrigation schemes in developing countries, it is often the small farmer, who can least afford it, who has to bear the burden of the cost associated with salinity. In light of the externalities associated with corrective measures, governments will have to play a major role in correcting or alleviating salinity problems. Donor agencies will also have an important role in enhancing the capacities of governments to do so.
+The battle against salinity will have to Se launched in three fronts. Governments have to commit to a policy of sound water management and to the fostering of an economic environment promoting efficient resource use. At the same time, agricultural strategies should promote the adoption of improved production methods, particularly efficient water-use practices among farmers. Lastly, greater effort has to be directed at examining the environmental impact of projects that involve water resource use and development to ensure that only economically and environmentally sound projects are undertaken.
+As the World Commission on Environment and Development (WCED) wisely describes it, ..."development which destroys the natural resources on which it is based is not development. (cited in FAO, 1990, p. 6). It is widely recognized that irrigation has been a powerful force in fostering development in many countries. But when it is pursued injudiciously, it can become the progenitor of agricultural devastation, embodied in form of irrigation-induced salinity. Irrigation-induced salinity has began to cause drastic reductions in agricultural productivity in many parts of the world and the time has come for farmers, governments and donors to take it seriously.
+<section>References</section>
+Abu-Zeid, M.A. and Rady, M.A.1992. Water Resources Management and Policies in Egypt." In Guy Le Moigne, Shawki Barghouti, Gershon Feder, Lisa Garbus and Mei Xie (eds), "Country Experiences with Water Resources Management." World Bank Technical Paper No. 175. Washington, D.C.: The World Bank. pp. 93-101.
+Aceves-Navarro, E. 1985. "Salinity Problems in Food Production of the Mexican Irrigation Districts" in Water and Water Policy in World Food Supplies. Proceedings of the Conference, ed. W.R. Jordan. College Station: Texas A & M University. pp. 129-133.
+Ahmad, M. and G.P. Kutcher. 1992. Irrigation Planning with Environmental Considerations, A Casestudy of Pakistan's Indus Basin." World Bank Technical Paper No. 166. Washington, D.C.: World Bank.
+Ahmed, A. 1991. Irrigation Hazards Due to Poor Management: A Case Study of Kano River Project, Nigeria. in R. Wooldridge (ed), Techniques for Environmentally Sound Water Resources Development. London: Pentech Press Ltd. pp. 23-33.
+Arar, A. 1971. "Irrigation and Drainage in Relation to Salinity and Waterlogging" in Regional Seminar on Methods of Amerlioration of Saline and Waterlogged Soils. Baghdad. Rome: Food and Agriculture Organization, Water Resources and Development Service, Land and Water Development Division. pp. 86-111.
+Armillas, P. 1961. "Land use in pre-Columbian America" in L.S. Stamp (ed) A History of Land Use in Arid Regions. UNESCO Arid Zone Research, 17, Paris, France.
+Armstrong, A.S.B., G.R. Pearce, and D.E.D. El-Quosy. 1991. "Measuring the Effects on Nile Delta Soils of Irrigation with Drainage Water" in R. Wooldridge (ed), Techniques for Environmentally Sound Water Resources Development. London: Pentech Press Ltd. pp. 3449.
+Ayers, R. S. and D. W. Westcot. 1976. "Water Quality for Agricultures Irrigation and Drainage Paper No. 29. Rome, Italy: FAO.
+Backlund, V.L. and Hoppes, R.R. 1984. "Status of Soil Salinity in California.. California Agriculture, 38: 89.
+Barrow, C.J. 1991. Land Degradation. Development and Breakdown of Terrestial Environments. Cambridge: Cambridge University Press.
+Bennet, R.S. and J.H. Taylor. 1972. Irrigation Scheduling Studies for Water Quality Improvement" in Managing Irrigated Agriculture to Improve Water Ouality. Proceedings of National Conference on Managing Irrigated Agricuiture to Improve Water Quality. Washington, D.C.: Graphics Management Corporation. pp. 195-202.
+Carruthers, I. 1981. "Neglect of O & M in Irrigation, The Need for New Sources and Forms of Support.. Water Supply and Management, Vol. 5: pp.53-65.
+-. 1985. "Protecting Irrigation Investment: the Drainage Factor. " CERES. FAO Review of Agriculture and Development, Vol 18, No.4: pp. 15-21.
+--.1986. "Irrigation, Drainage, and Food Supplies" in K.C. Nobe and R.K. Sampath (eds), Irrigation Management in Developing Countries: Current Issues and Approaches. Boulder, Colorado: Westview Press. pp. 265-283.
+Carruthers, I. and L. Smith. 1990. "The Economics of Drainage," in Symposium on Land Drainage for Salinity Control in Arid and Semi-Arid Regions: Keynotes, Vol. 1. Cairo, Egypt: Nubar Printing House. pp. 151-170.
+Central Soil Salinity Research Institute, Karnal. 1991. "CSSRI: Our Accomplishments." Karnal, India: CSSRI.
+Crosson, P. and J.R. Anderson. 1992. "Global Food - Resources and Prospects for the Major Cereals.. World Development Report 1992, Background Paper No. 19. Washington, D.C.: World Bank.
+Deason, J.P. 1992. "Water Policies Relating to Environmental and Health Issue." In Guy Le Moigne, Shawki Barghouti, Gershon Feder, Lisa Garbus and Mei Xie (eds), Country Experiences with Water Resources Management." World Bank Technical Paper No. 175. Washington, D.C.: The World Bank. pp. 53-55
+Easter, K.W. 1992. "Intersectoral Water Allocation and Pricing." In Guy Le Moigne, Shawki Barghouti, Gershon Feder, Lisa Garbus and Mei Xie (eds), Country Experiences with Water Resources Management. World Bank Technical Paper No. 175. Washington, D.C.: The World Bank. pp. 918.
+Economic and Social Commission for Asia and the Pacific (ESCAP). 1989. Desertification in Indus Basin Due to Salinity and Waterlogging: A Case Study. Bangkok: Thailand: ESCAP.
+Feinerman, E. 1980. "Economic Analysis of Irrigation with Saline Water under Conditions of Uncertainty. Ph.D. dissertation, Hebrew University of Jerusalem (in Hebrew).
+Frederiksen, H. D. 1989. "Are the Non-Technical Deficiencies Overwhelming the Technical Advances in Irrigation" in J.R. Rydzewski and C.F. Ward (eds), Irrigation Theory and Practice. Proceedings of the International Conference held at the University of Southampton 12-15 September. 1989. London: Pentech Press Ltd. pp. 1-10.
+Freeman, L.R. 1972. "Economic Impact of Salinity Control in the Colorado River Basin" in Managing Irrigated Agriculture to Improve Water Quality. Proceedings of National Conference on Managing Irrigated Agriculture to Improve Water Quality Washington, D.C.: Graphics Management Corporation. pp. 27-39.
+Food and Agriculture Organization. 1976. FAO Production Yearbook. Rome, Italy: FAO.
+---. 1985. Guidelines: Land Evaluation for Irrigated Agriculture. FAO Soils Bulletin 55. Rome: FAO.
+----. 1988. Potentials for Agricultural and Rural Development in Latin America and the Carribean. Annex II. Rome: FAO.
+--. 1991. FAO Production Yearbook. Rome, Italy: FAO.
+--. 1990. An International Action Prograrnme on Water and Sustainable Agricultural Development. A Strategy for the Implementation of the Mar del Plata Action Plan of the 1990s. Rome, Italy: FAO.
+Food and Agriculture Organization/United Nations Educational, Scientific and Cultural Organization. 1973. Irrigation. Drainage. and Salinity, An International Source Book. London: Hutchinson and Co. Ltd.
+Gardner, R.L. and R. A. Young. 1988. "Assessing Strategies for Control of Irrigation Induced Salinity in the Upper Colorado River Basin." American Journal of Agricultural Economics, Vol. 70 (1): pp. 37-49.
+Gelburd, D.E. 1985. "Managing salinity lessons from the past." Journal of Soil and Water Conservation. Vol 40, No. 4: pp. 329-331.
+Guerrero, R.D., III. 1977. "Utilization of Mangrove Swamps for Aquaculture." Paper presented during the National Symposium Workshop on Mangrove Ecosystems and Management, Los Banos, Laguna, Philippines: IRRI.
+Gupta, R.K. and Abrol, I.P. 1990. "Salt-Affected Soils: Their Reclamation and Management for Crop Production." In R. Lal and B.A. Stewart (eds), Advances in Soil Science. Vol. 11. Soil Degradation. New York: Springer-Verlag. pp. 223-288.
+Hanks, R.J. and J.C. Anderson. 1981. "Physical and Economic Evaluation of Irrigation Return Flow and Salinity on a Farm" in D. Yaron (ed), Salinity in Irrigation and Water Resources. New York: Marcel Dekker.
+Helweg, O., H. Dunning, G. Wandesforde-Smith, and Richard Howitt. "Non-Technical Controlling of Ground Water Degredation" in E.G. Kruse, C.R. Burdick, and Y.A. Yousef (eds), Environmentally Sound Water and Soil Management. New York: American Society of Civil Engineers. pp. 167-175.
+Hoffman, G.J. 1990. "Leaching Fraction and Root Zone Salinity Control" in K.K. Tanji (ad), Agricultural Salinity Assessment and Management. New York: Americal Society of Civil Engineers. pp. 237261.
+Hoffman, G.J., T.A. Howell, and K.H. Solomon (eds). 1990. Management of Farm Irrigation Systems. New York: American Society of Civil Engineers.
+Horning, H.M. 1987. "Irrigation Development and Water Charges. Techincal Papers from the Expert Consultation on Irrigation Water Charges, Vol. 2., FAO/USAID.
+Hornsby, A.G. and J.P. Law, Jr. 1972. The Role of Modeling in Irrigation Return Flow Studies. in Managing Irrigated Agriculture to Improve Water Quality. Proceedings of National Conference on Managing Irrigated Agriculture to Improve Water Quality. Washington, D.C.: Graphics Management Corporation. pp. 203-210.
+Hyatt, M.L. 1972. "Modeling Salinity in the Upper Colorado River Basin. in Managing Irrigated Agriculture to Improve Water Quality. Proceedings of National Conference on Managing Irrigated Agriculture to Improve Water Quality. Washington, D.C.: Graphics Management Corporation. pp. 215-227.
+Hydraulics Research Wallingford Ltd. 1990. "ODU Studies: Soil Salinization, Land Reclamation and Drainage.. Project Sheet. Oxfordshire, United Kingdom: Hydraulics Research Wallingford Ltd.
+--. 1991. Salinity Effects in Irrigated Agriculture. Overseas Development Unit Bulletin 23. Oxfordshire, United Kingdom: Hydraulics Research Ltd., Wallingford.
+International Commission on Irrigation and Drainage. 1976. Irrigation and Salinity: A World-Wide Survey. New Delhi: International Commission on Irrigation and Drainage.
+International Drainage and Irrigation Techniques Research Program (IPTRID). 1991. Egypt and Pakistan: proposal for Joint Research and Development. Waterlogging and Salinity Control. Washington, D.C.: The World Bank.
+-- 1992. People's Republic of China. Proposal for Technology Research in Irrigation. Drainage and Salinity Control. Washington, D.C.: The World Bank.
+. forthcoming. Expert Report; Assessment of Needs for Research and Development Concerning Drainage and Salinization in Morocco. Washington, D.C.: The World Bank.
+International Rice Research Institute (IRRI) 1980. Priorities for Alleviating Soil-Related Constraints to Food Production in the Tropics. Los Banos, Laguna, Philippines: IRRI.
+--. 1991. International Rice Research Institute Annual Report 1991. Los Banos, Laguna, Philippines: IRRI.
+Jacobsen, T. and R.A. Adams. 1958. "Salt and silt in ancient Mesopotamian agricultures Science, Vol. 128:pp 1251-1258.
+Joshi, P.K. and D. Jha. 1991. Farm Level Effects of Soil Degradation in Sharda Sahayak Irrigation Project. Washington, D.C.: International Food Policy Research Insitute.
+Keenan, J.D. 1992a. Technological Issues in Water Management.. In Guy Le Moigne, Shawki Barghouti, Gershon Feder, Lisa Garbus and Mel Xie (eds). Country Experiences with Water Resources Management.. World Bank Technical Paper No. 175. Washington, D.C.: The World Bank pp. 3335.
+--. 1992b. Technological of Water Resources Management: Eupharates and Jordan. " In Guy Le Moigne, Shawaki Barghouti, Gershon Feder, Lisa Garbus and Mei Xie (eds). Country Experiences with Water Resources Management.. World Ban} Technical Paper No. 175. Washington, D.C.: The World Bank. pp. 37-49.
+Kijne, J.W. and Vander Velde, E.J. 1992. Salinity in Punjab Watercourse Commands and Irrigation System Operations.. In IIMI, Advancements in IIMI's Research 1989-91. Singapore: Stamford Press. pp. 139-175.
+Läuchli, A. and E. Epstein. 1990. "Plant Responses to Saline and Sodic Conditions,. in K.K. Tanji (ed), Agricultural Salinity Assessment and Management. New York: Americal Society of Civil Engineers. pp.113-137.
+Maas, E.V. 1990. "Crop Salt Tolerance. in K.K. Tanji (ed), Agricultural Salinity Assessment and Management. New York: Americal Society of Civil Engineers. pp. 263-304.
+Maas, E.V. and G.J. 1977. "Crop-salt tolerance-current assessment. " Journal of Irrigation and Drainage, Vol. 103, No.2: pp 115-134.
+Maas, E.V. and R. H. Nieman. 1978. "Physiology of plant tolerance to salinity", in G.a. Jung (ed),
+Tolerance to Suboptimal Land Conditions. Madison: American Society of Agronomy. pp.277-299.
+Makin, I.W. and H. Goldsmith. 1988. "Selection of Drainage and Its Phased Implementation for Salinity Control" Irrigation and Drainage Systems No. 2: pp. 109-121.
+Martin, T.C., H.A. Younes, T.E. Flack, and M.A. Abdel Rahman. 1988. Soil Salinity and Water Table Assessment in the Serry Commana Area. CID/CSU Technical Report No. 6, Arab Republic of Egypt Ministry of Public Works and Water Resources Regional Irrigation Improvement Project.
+Massoud, F.I. 1974. Salinity and Alkalinity as Soil Degradation Hazards. FAO Consultation on Soil Degradation. Rome: FAO.
+Matanga, G.B. and M.A. Marino. 1979. "Irrigations Planning 2: Water Allocation for Leaching and Irrigation Purposes.. Water Resources Research, Vol. 15 (3): pp. 679-683.
+Ministry of Agriculture of China. 1991. China Agricultural Yearbook. Bejing, China: Ministry of Agricuture (in Chinese).
+Miyamoto, S. 1990. "A Model to Estimate Salt Accumulation and Crop Yields in Surface-Irrigated Orchards. in Visions of the Future. Proceedings of the Third National Irrigation Syrnposium. St. Joseph, Michigan: American Society of Agricultural Engineers. pp. 384-394.
+Morris, J.R. and D.J. Thom. 1990. Irrigation Development in Africa. Lessons of Experience. Studies in Water Policy Management No. 14. San Francisco: Boulder Press.
+Moore, C.V., J.H. Snyder, and P. Sun. 1974. "Effect of Colorado River Water Quality and Supply on Irrigated Agriculture.. Water Resources Research, Vol. 10 (1): pp. 137-144.
+Mulk, S. and Mohtadullah, K. 1992. Water Resources Management Policies in Pakistan." In Guy Le Moigne, Shawki Barghouti, Gershon Feder, Lisa Garbus and Mei Xie (eds), "Country Experiences with Water Resources Management." World Bank Technical Paper No. 175. Washington, D.C.: The World Bank. pp. 207-213.
+National Research Council. 1990. Saline Agriculture. Washington, D.C.: National Academy Press.
+Ochs, W.J. 1986. "Drainage Evaluation of World Bank Projects." Consultant Engineering Report, The World Bank, Washington, D.C. mimeo.
+Oyarzal-Tamargo, F. and R.A. Young. 1978. "International External Diseconomies: the Colorado River Salinity Problem in Medico." Natural Resources Journal. Vol 18: pp.77-89.
+Parkinson, J.K., J.T. Habbi, J.P. Wagner, and M.S. Sachs. 1970. "Desalting Saline Groundwater for Irrigation: A Case Study of Buckeye Area, Arizona." Water Resources Research, Vol. 6 (5): pp. 1496-1501.
+Pasternak, D., Danon, A., and Aronson, J.A. 1985. "Developing the Seawater Agriculture Concept." Plant and Soil, 89: 337-348.
+Polovin, A. 1974. "Economic Evaluation of Water Quality in the... - An Application of Simulation." M.S. thesis (in Hebrew), Hebrew University of Jersalem.
+Ponnamperuma, F.N. and A.K. Bandyopadya. 1990. "Soil Salinity as a Constraint on Food Production in the Humid Topics" in Priorities for Alleviating Soil-Related Constraints to Food Production in the Tropics. Los Baños, Laguna, Philippines: International Rice Research Institute. pp. 203216.
+Postel, Sandra. 1985. "The Potential for Saving Water: Good Management Yields Significant Returns," Ceres, Vol. 14, No. 4: 106-107.
+Plusquellec, H. and Ochs, W. 1992. Memorandum to R. Rathman. October 22, 1992.
+Republic of Turkey, Ministry of Agriculture, Forestry and Rural Affairs. 1990. "Preparation of Design and Implementation of a Core Program of Drainage and On-Farm Development, Project Report, Izmir II, Part 1, Menemem Project.. Ankara, Turkey: Ministry of Agriculture, Forestry and Rural Affairs.
+Rhoades, J.D. 1990a. "Overview: Diagnosis of Salinity Problems and Selection of Control Practices in K.K. Tanji (ed), Agricultural Salinity Assessment and Management. New York: Americal Society of Civil Engineers. pp.18-41.
+-----. 1990b. "Sensing Soil Salinity: New Technology" in Visions of the Future. Proceedings of the Third National Irrigation Symposium. St. Joseph, Michigan: American Society of Agricultural Engineers. pp. 422-428.
+Rhoades, J.D., gingham, F.T., Letey, J., Dedrick, A.R., Bean, M., Hoffman, G.J., Alves, W.J., Swain, R.V. Pacheco, P.G., Lemert, R.D. 1988. "Reuse of Drainage Water for Irrigation: Results of Imperial Valley Study." Hilgardia, 56: 1-44.
+Safadi, R. and H. Plusquellec. 1991. "Research on Drainage Technologies, Fifteen Years of World Bank. Experienc." World Bank Discussion Paper No. 128. Washington, D.C.: World Bank.
+Shani, U. 1992. "Agriculture Management Under Saline Conditions." Paper presented at the World Bank. Washington, D. C. mimeo.
+Smedema, L.K. 1990a. "Land Drainage and Reclamation. " India Irrigation Subsector Review Background Paper, -World Bank. Washington, D.C.: World Bank.
+--. 1990b. " Natural Salinity Hazards of Irrigation Development in (Semi) Arid Regions" in Symposium on Land Drainage for Salinity Control in Arid and Semi-Arid Regions, Volume 1, Keynotes. Cairo: Drainage Research Institute.
+--. Personal communication. November 20,1992.
+Skogerboe, G.V. and W. R. Walker. 1972. "Salinity Measures in the Grand Valley" in Managing Irrigated Agriculture to Improve Water Quality, Proceedings of National Conference on Managing Irrigated Agriculture to Improve Water Quality. Washington, D.C.: Graphics Management Corporation. pp. 123-136.
+State Statistical Bureau of China. 1991. China Agricultural Abstract. Bejing, China: State Statistical Bureau.
+Stewart, B., R. Lal, and S. El-Swaify. 1991. "Sustaining the resource base of an expanding world agriculture," in R. Lal and F. Pierce (eds), Soil Management for Sustainability, Soil and Water Conservation Society, Ankeny, Iowa. pp. 125-144.
+Taylor, A.C. 1965. "Water, history and the Indus Plain." Natural History, Vol. 24, No. 5: pp. 40-49.
+Tanji, K.K. 1990. "Nature and Extent of Agricultural Salinity" in K. K. Tanji (ed), Agricultural Salinity Assessment and Management. New York: ASCE. pp. 1-17.
+Van Schilfgaarde, J. 1990. "Irrigated Agriculture: Is it Sustainable?" in K. K. Tanji (ed), Agricultural Salinity Assessment and Management. New York: ASCE. pp. 584-594.
+-----.1992. "Irrigations: A Blessing or A Cure." The Abel Wolman Distinguished Lecture, National Research Council, January 1992.
+Walker, W.R. and W. R. Walker. 1972. "Surviving with Salinity in the Lower Sevier River Basin." in
+- Managing Irrigated Agriculture to Improve Water Quality. Proceedings of National Conference on Managing Irrigated Agriculture to Improve Water Quality. Washington, D.C.: Graphics Management Corporation. pp. 257-263.
+Willey, G.R. 1953. Prehistoric settlement patterns in the Viru Valley, Peruse Smithsonian Institute, Bureau of American Enthnology, Bulletin 155, Washington, D.C.
+Winger, R.J. 1980. Problems of Drainage Related to Irrigation Projects." Paper presented at the World Bank Seminar on "Problems of Drainage Related to Irrigation Project," January, 1980. mimeo.
+World Bank. 1989a. Renewable Resource Management in Agriculture. Washington, D.C.: Operations Evaluation Department, World Bank.
+-----. 1989b. "World Bank Experience with Irrigation Development, Socio-Economic, Institutional, and Technical Impact Lessons, Volume II: Mexico." Report No. 7876. Washington, D.C.: The World Ban}.
+--. 1991a. India. Irrigation Subsector Review Volume II: Supplementary Analysis. Report No. 9518-IN. Washington, D.C.: The World Bank.
+-----. 1991b. Evaluation Results for 1989. Washington, D.C.: Operations Evaluation Department, World Bank.
+----. 1001c. "Mexico Irrigation and Drainage Sector Project." Report No. 9779-ME. Washington, D.C.: The World Bank.
+-----. 1991d. "Pakistan Second Scarp Transition Project. " Report No. 9184-PAK. Washington, D.C.: The World Bank.
+--. 1992. "Food and Agriculture Policy Reforms in the Former USSR, An Agenda for the Transit ion," Studies of Economies in Transformation, Volume 1. Washington, D.C.: The World Ban}.
+--. forthcoming. "Water Resources Management Policy Paper," Washington, D.C.: World Bank.
+World Bank-United Nations Development Program. 1990. Irrigation and Drainage Research: A Proposal. Washington, D.C.: World Bank.
+Xie, M., U. Kuffner, Le Moigne, G. forthcoming. "Using Water Efficiently: Technological Opt ions." Working Paper for the Water Policy Report, The World Bank, Washington, D.C.
+Yaron, D. 1986. "Economic Aspects of Irrigation with Saline Water" in K.C. Nobe and R.K. Sarnpath (eds), Irrigation Management in Developing Countries: Current Issues and Approaches. Boulder, Colorado: Westview Press. pp. 217-263.
+Yaron, D., E. Bresler, H. Biolorai, and B. Harpinist. 1980. "A Model for Optimal Irrigation Scheduling with Saline Water." Water Resources Research, Vol. 16: pp. 257-262.
+Yaron, D., A. Dinar, and S. Shamlah. 1979. "First Empirical Estimates of Potential Losses of Agricultural Income in the South of Israel Due to Deterioration of Water Quality." (In Hebrew) Research Report, Center for Agricultural Economic Research, P.O. Box 12, Rehovot, Israel.
+Yaron, D., A. Dinar, H. Voet, and A. Ratner. 1982. Economic Evaluation of the Rate of Substitution between Quantity and Quality (Salinity) of Water in Irrigation,. Working Paper No. 8211, The Center for Agricultural Economic Research, P.O. Box 12, Rehovot, Israel.
+Yaron, D. and H. Voet. 1982. "Applications of an Integrated Dynamic and Linear Programming Model to the Analysis of Optimal Irrigation on a Farm with Dual Quality (Salinity) Water Supply" in C.F. Hanf and G.W. Schierer (eds). Planning and Decisions in Agribusiness: Principles and Experiences. Amsterdam, Holland: Elsvier.
+Young, R.A. 1986. "On the Allocation, Pricing, and Valuation of Irrigation Water" in K.C. Nobe and R.K. Sampath (eds), Irrigation Management in Developing Countries: Current Issues and Approaches. Boulder, Colorado: Westview Press. pp. 151-178.
+Young, R.A. and G.H. Homer. 1986. "Irrigated Agriculture and Mineralized Water" in T.T. Phipps, P.R. Crosson and K.A. Price (eds). Agriculture and the Environment. Washington, D.C.: Resources for the Future.
+Yudelman, M. and D. Hillel. 1988. "Prospects for technological change in dryland agriculture: an economic perspective, in J. Unger, T. Sneed, W. Jordan, and R. Jensen (eds). Challenges in Dryland Agriculture: A Global Perspective, Proceedings of the international Conference on Dryland Farming, Texas Agricultural Experiment Staition, Amarillo/Bushland, 591-7.
+<section>Appendix</section>
+Appendix Table 1: Number of projects with irrigation and drainage components by fiscal year, region, and country, 1974-92
+NUMBER OF PROJECTS
+COST ($ million)
+COUNTRY
+YEAR
+Irrig.
+Drainage
+Irrig./Drain
+Irrig.
+Drainage
+Total
+AFRICA
+Burkina Faso
+Total
+Burundi
+Total
+Cameroon
+Total
+Chad
+Total
+Ethiopia
+Total
+Ghana
+Total
+Guinea
+Guinea-Bissau
+Kenya
+Total
+Lesotho
+Liberia
+Madagascar
+Total
+Malawi
+Mali
+Total
+Mauritania
+Total
+Muaritius
+Niger
+o
+Total
+Nigeria
+Total
+Benin
+Senegal
+Total
+Sierra Leone
+Somalia
+Total
+Sudan
+Total
+Swaziland
+Tanzania
+Total
+Togo
+Uganda
+Zaire
+Zambia
+Total
+ASIA
+China
+Total
+Fiji
+Indonesia
+Total
+Korea, Rep. of
+Total
+Laos, P.D.R.
+Total
+Malaysia
+Total
+Myanmar
+Total
+Philippines
+Total
+Thailand
+Total
+Vietnam
+SOUTH ASIA
+Afghanistan
+Total
+Bangladesh
+Total
+India
+Total
+Nepal
+Total
+Pakistan
+Total
+Sri Lanka
+Total
+EUROPE AND CENTRAL ASIA
+Cyprus
+Total
+Hungary
+Portugal
+Total
+Romania
+Total
+Turkey
+Total
+Yugoslavia
+Total
+MIDDLE EAST AND NORTH AFRICA
+Algeria
+Total
+Egypt
+Total
+Jordan
+Morocco
+Total
+Rep. of Yemen
+Total
+Syria
+Total
+Tunisia
+Total
+LATIN AMERICA
+Bolivia
+Brazil
+Total
+Chile
+Colombia
+Total
+Dominican Rap.
+Ecuador
+Total
+Guyan
+Total
+Haiti
+Total
+Honduras
+Total
+Jamaica
+Mexico
+Total
+Nicaragua
+Panana
+Peru
+Total
+Source: World Bank data.
+<section>Distributors of World Bank Publications</section>
+ALBANIA
+Adrion Ltd.
+Pertat Rexhep Str.
+Pall. 9, ShL 1, Ap. 4
+Tirana
+Tel: (42) 27419 221 72
+Fax: (42) 27419
+ARGENTINA
+Otfcina del Lion, Internacional
+Av. Cordoba 1Q77
+1120 Buenos Aires
+Tel: (1)815-8156
+Fax (1 ) 815 8354
+AUSTRALIA, FIJI, PAPUA
+NEW GUINEA,
+SOLOMON ISLANDS,
+VANUATU, AND WESTERN SAMOA
+D.A. Books & Journals
+648 Whitehorse Road
+Micharn 3132 Victoria
+Tel: (61)392107777
+Fax: (61) 3 9210 7768
+URL: httpl/www.dadirect/com.au
+AUSTRIA
+Gerlold and Co.
+Graben 31
+A-1011 Wen
+Tel: (1) 533-50-14-0
+Fax: (1)512-47-31 29
+BANGLADESH
+Micro Industries Development
+Assistance Society (MIDAS)
+House 5, Road 16
+Dhanmondi Area
+Dhaka 1209
+Tel: (2)326427
+Fax: (2) 811188
+BELGIUM
+Jean De Lannoy
+Av. du Roi 2C2
+1060 Brussels
+Tel: (2) 536 5169
+Fax: (2) 538-0641
+BPAZA
+Publicates Teonras Internacionals Ltd.
+Rua Peixoto Gomide, 209
+01409 Sao Paulo, SP
+Tel: (11)2596644
+Fax: (11) 258 -6990
+CANADA
+Le Diffuseur
+C.P. 85, 15018 rue Ampère
+Boucherville, Quebec
+J4B SE6
+CHILE
+Invertec IGT S.A.
+Americo Vespucio Norte 1163
+Santiago
+CHINA
+China Financial & Economic
+Publishing House
+8, Da Fo Si Dong Jie
+Beijing
+Tel: (1 ) 333-8257
+Fax: (1)401-7365
+COLOMBIA
+Intolerance Ltda.
+Apartado Aeno 34270
+Bogota D.E.
+Tel: (1) 285-2798
+Fax: (1)285-2793
+COTE D'IVOIRE
+Centre d'Edition et de Diffusion
+Africaines (CEDA)
+04 B.P 541
+Abidjan 04 Plateau
+Tel: 225-24-6510
+Fax: 225-25-0567
+CYPRUS
+Center of Applied Research
+Cyprus College
+6, Jiogenes Stret, Engomi
+PO. Box 2006
+Nicosia
+Tel: 244-1730
+Fax 246-2051
+CZECH REPUBLIC
+National Information
+Center prodejna, Konvikiska
+5 CS -113 57 Prague 1
+Tel: (2)2422-9433 Fa
+8 (2) 2422-1484 URL: http:/www.nts.cz/
+DENMARK
+Samfundsi Litteratur
+Rosenoems Alle 11
+DK-1970 Frederiksberg C
+Tel: (31)-351942
+Fax: (31)-357622
+DOMINICAN REPUBLIC
+Editora Tailer, C. por A
+Restauracion e Isabel la Catolika 309
+Apartado de Corsos 2190 Z-1
+Santo Domingo
+EGYPIT ARAB REPUBLIC OF
+Al Ahnrm
+Al Galaa Street
+Cairo
+Tel: (2)578-6083
+Fax: (2) 57t}6833
+The Middle East Observer
+41, Sherif Street
+CAIRO
+Tel: (2) 393-9732
+Fax: (2)393-9732
+FINLAND
+Akateeminen Kijmkauppa
+P.O. Box 23
+FIN-00371 Helsinki
+Tel: (0)12141
+Fax: (0) 121M441
+URL: httpl/booknet.cuttnet.fr/ka/
+FRANCE
+World Bank Publications
+66, avenue d'léna
+75116 Paris
+Tel: (1) 40-69-30-56/57
+Fax: (1)40-69-30-68
+GERMANY
+UNO-Verlag
+Poppelsdorfer Allee 55
+53115 Bonn
+Tel: (228)2122
+Fax: (2281217492
+GREECE
+Pepasotidou S.A.
+35, Soumatra Str.
+106 82 Athens
+Tel: (1) 364-1826
+Fax: (1) 364-8254
+HONG KONG, MACAO
+Asia 2000 Ltd.
+Sales L Circulation Department
+Sabind House, unit 1101-02
+22-28 Wyndham Street, Central Hong Kong
+Tel: 8522530 -1409
+Fax: 8522526-1107
+URL: http/hnvw.salesil.asia2000.wm.hk
+HUNGARY
+Foundation for Market
+Ewnomy
+Dombovan Ut 17-19
+H-1117 Budapest
+Tel: 361204 2951 or
+Fax: 361 204 2953
+INDIA
+Allied Publishers Ltd.
+751 Mount Road
+Madras - 600 002
+Tel: (44) 852-3938
+Fax: (44) 852-0649
+INDONESIA
+Pt. Indira Limted
+Jalan Borobudur 20
+PO. Box 181
+Jakarta 10320
+Tel: (21)390-4290
+Fax: (21) 421-4289
+IRAN
+Kowkab Publishers
+PO. Box 19575-511
+Tel: (21) 258-3723
+Fax: 98 (21) 253-3723
+Ketab Sara Co. Publishers
+Khaled Eslamboli Ave.,
+6th Street
+Kusheh Delafroz No. 8
+Teheran
+Tel: 8717819 or 8718104
+Fax: 8882479
+E-mail: ketab-sana@neda,net.ir
+IRELAND
+Government Supplies Agency
+4-5 Hanwun Road
+Dublin 2
+Tel: (1) 481-3111
+Fax: (1)475-2870
+ISRAEL
+Yozmot Literature Ltd.
+RO. Box 56055
+Tel Aviv 81560
+Tel: (3)5285-397
+Fax: (3) 5285-337
+R.O.Y. International
+PO Box 13056
+Tel Aviv 81130
+Tel: (3) 5461423
+Fax: (3) 5461U2
+Palestinian Authority/Middle East
+Index Information Services
+PO.B. 19502 Jeruselem
+ITALY
+Licosa Commissionaria Sansoni SPA
+Via Duca Di Calabria, 1/1
+Casella Postale 552
+50125 Firenze
+Tel: (55)645-415
+Fax: (55) 641-257
+JAMAICA
+lan Randle Publishers Ltd.
+206 Old Hope Road Kingston 6
+Tel: 809-92720 Fax: 809-977-0243
+JAPAN
+Eastern Book Service
+Hongo 3-Chome,
+Bunkyo-lou 113
+Tokyo
+Tel: (03)3818-0881
+Fax: (03)3818-364
+URL: http/www.be/koame.or jp/-svt-ebs
+KENYA
+Africa Book Service (E.A.) Ltd.
+Quaran House, Mangano Street
+PO. Box 45245
+Nairobi
+Tel: (2)23641
+Fax: (2) 330272
+KOREA, REPUBLIC OF
+Daejon Trading CO. Ltd.
+PO. Box 34
+Yeoer Ja
+Seoul
+Tel: (2) 785-1831/4
+Fax: (2) 734-0315
+MALAYSIA
+University of Malaya Cooperative
+Bookshop, Limited
+RO. Box 1127
+Jalan Pantai Banu
+59700 Kuala Lumpur
+Tel: (3) 756-5000
+Fax: (3)755M424
+MEXICO INFOTEC
+Apartado Postal 22-860
+14060 Tialpan,
+Mexico D.F
+Tel: (5)606-0011
+Fax: (5)624-2822
+NETHERUNDS
+De Lindeboom/lnOr-Publikates
+PO. Box 202
+7480 AE Haakabergen
+Tel: (53)574-0004
+Fax: (53) 572-9296
+NEW ZEALAND
+EBSCO NZ Ltd
+Private Mail Bag 99316
+New Market
+Auckland
+Tel: (9)524-8119
+Fax: (9) 524-8067
+NIGER
+University Press Limited
+Three Crowns Building Jeriche
+Private Mail Bag 5095 Ibadan
+Tel: (22)41-1356
+Fax: (221 41-2056
+NORWAY
+Narvesen Information Center
+Book Department
+PO. Box 8125 Effenstad
+N.0602 Oslo 8
+Tel: (22) 57-3300
+Fax: (22)68-1901
+PAKISTAN
+Mirze Book Agency
+85, Shahrah+Quaid-e-Azam
+PO. Box No. 729
+Lahore 54000
+Tel: (42) 7353601
+Fax: (42) 7585283
+OXFORD UNIVERSITY PRESS
+5 Bangalore Town Shanae Faisal
+PO Box 13033
+Karachi-75350
+Tel: (21)U6307
+Fax: (21 ) 454-7640
+E-mail: oup@oup.khi.enum.com.pk
+PERU
+Editorial Desamallo SA
+Apartado 3824
+Lima 1
+Tel: (14)265380
+Fax: (14)286628
+PHILIPPINES
+International Book soun e Center Inc.
+Suite 720, Cityland 10
+Condominium Tower 2
+H.V dela Costa, comer
+Vetero St.
+Makati, Metro Manila
+Tel:: (2) 817-9676
+Fax: (2) 817-1741
+POLAND
+International Punishing Service
+Ul. Piekna 31/37
+00-577 Warzawa
+Tel:: (2)628-6089
+Fax:: (2) 621-7255
+PORTUGAL
+Livraria Portugal
+Rua Do Cammo 70-74
+1200 Usbon
+Tel:: (1) 3474982
+Fax: (1)347-0264
+ROMANIA
+Compania De Librarii Bucuresti S.A.
+Str. Lipscani no. 28, sector 3
+Bucharest
+Tel:: (1) 813 9645
+Fax: (1) 312 4000
+RUSSIAN FEDERATION
+Isdatestvo <Ves Mir,>
+9a, Kdpachnq Pereulok
+Moscow 101831
+Tel: (95) 917 87 49
+Fax: (95) 917 92 59
+SAUDI ARABIA, QATAR
+Jarir Book Store
+PO. Box 3196
+Riyedh 11471
+Tel: (1)477-3140
+Fax: (1)477-2940
+SINGAPORE TAIWAN, MYANMAR, BRUNEI
+Asahgate Pubitshing
+Asia Pacitic Pte. Ltd. 41 Kaltang
+Pudding Road tl04-03 Goben
+Wheed Building Singapore 349318
+Tel: (65)741-5166
+Fax: (65)742-9356
+e-mail: ashgate@esianronnect.com
+SLOVAK REPUBLIC
+Slovart G.TG. Ltd..
+Krupinska 4
+PO Box 152
+852 99 Bndrstava 5
+Tel: (7) 839472
+Fax: (7) 839485
+SOUTH AFRICA, BQTSWANA
+For single titles:
+Oxford University Press
+Southern Africa
+RO. Box 1141
+Cape Town 8000
+Tel: (21)45-7266
+Fax (21 ) 45 -7265
+For subscription orders:
+Intentional Subscription Service
+PO. Box 41095
+Johannesburg 2024
+Tel: (11) 880-1U8
+Fax: (11) 880 6248
+SPAIN
+Mundi-Prensa Libros S A.
+Castelb 37 28001 Madrid
+Tel: (1)431-3399
+Fax: (1)5753998
+http://www.tsai.es/mpnnse
+Mundi-Pansa Barcelona
+Consell de Cent, 391
+08009 Barcelona
+Tel: (3)488-3009
+Fax: (3) 487-7659
+SRI LANKA AND THE MALDIVES
+Lake House Bookshop
+PO. Box 244
+100, Sir Chittampalam A.
+Gardiner Mawatha
+Colombo 2
+Tel: (1)32105
+Fax: (1)432104
+SWEDEN
+Fritzes Customer Service
+Regeringsgatan 12
+S106 47 Stockholm
+Tel: (8) 890 90 90
+Fax: (8) 2147 77
+Wennergren Williams AB
+P O. Box 1305
+S-171 25 Soine
+Tel: (8) 705-97-50
+Fax: (8)27-00-71
+SWITZERLAND
+Soine Librarie Payot
+Servica Institutionel
+Cotes de-Montbenon 30
+1 002 Lausanne
+Tel: (021)-341-3229
+Fax: (021-341-3235
+Van Diemien Editions Techniq
+Ch. da Lacuez 41
+CH1807 Bionay
+Tel: (021) 943 2873
+Fax: (021) 943 3605
+TANZANIA
+Oxford University Press
+Maktaba Street
+PO Box 5239
+Dar es Salaam
+Tel: (51) 29209
+Fax (51) 46822
+THAILAND
+Central Books Distribution
+306 Silon Road
+Bangkok
+Tel: (2) 235 5400
+Fax: (2) 237-6321
+TRINIDAD & TOBAGO, JAII,
+Systematics Studies Unit
+#9 Watts Street
+Curepe
+Trinidad, West Indies
+Tel: 809-662-5654
+Fax: 803-662-5654
+UGANDA
+Gustro Ltd.
+Medhveni Building
+PO Box 9997
+Plot 16/4 Jinja Rd.
+Kampala
+Tel/Fax: (41 ) 254763
+UNITED KINGDOM
+Microinfo Ltd.
+P.O. Box 3
+Alton Hampshire GU34 2PG
+England
+Tel: (1420) 86848
+Fax: (1420)89889
+ZAMBIA
+Untvesity Bookshop
+Gneat East Road Campus
+P O. Box 32379
+Lusaka
+Tel: (1) 213221 Ext. 482
+ZIMBABWE
+Longman Zimbabwe
+(Pte.)Ltd
+Toude Road, Andbennie
+PO. Box ST125
+Southerton
+Harare
+Tel: (4) 6216617
+Fax: (4) 621670
+<section>Recent World Bank technical papers</section>
+147 The Effects of Economic Policies on African Agriculture: From Past Harm to Future Hope. William K. Jaeger
+No. 148 The Sectoral Foundations of China's Development. Shahid Javed Burki and Shahid Yusuf, editors
+No. 149 The Consulting Profession in Developing Countries: A Strategy for Development. Syed S. Kirmani and Warren C. Baum
+No. 150 Successful Rural Finance Institutions. Jacob Yaron
+No. 151 Transport Development in Southern China. Clell G. Harral, editor, and Peter Cook and Edward Holland, principal contributors
+No. 152 The Urban Environment and Population Relocation. Michael M. Cemea
+No. 153 Funding Mechanisms for Higher Education: Financing for Stability, Efficiency, and Responsiveness. Douglas Albrecht and Adrian Ziderman
+No. 154 Earnings, Occupational Choice, and Mobility in Segmented Labor Markets of India. Shahidur R. Khandker
+No. 155 Managing External Debt in Developing Countries: Proceedings of a Joint Seminar, Jeddah, May 1990. Thomas M. Klein, editor
+No. 156 Developing Agricultural Extension for Women Farmers. Katrine A. Saito and Daphne Spurting
+No. 157 Awakening the Market: Viet Nam's Economic Transition. D. M. Leipziger
+No. 158 Wage Policy during the Transition to a Market Economy: Poland 199(}91. Fabrizio Coricelli and Ana Revenga, editors
+No. 159 International Trade and the Environment. Patrick Low, editor
+No. 160 International Migration and International Trade. Sharon Stanton Russell and Michael S. Teitelbaum
+No. 161 Civil Service Reform and the World Bank. Barbara Nunberg and John Nellis
+No. 162 Rural Enterprise Development in China, 1986-90. Anthony J. Ody
+No. 163 The Balance between Public and Private Sector Activities in the Delivery of Livestock Services. Dina L Umali, Gershon Feder, and Cornelis de Haan
+No. 164 How Do National Policies Affect Long-run Growth?: A Research Agenda. William Easterly, Robert King, Ross Levine, and Sergio Rebelo
+No. 165 Fisheries Development, Fisheries Management, and Extemalities. Richard S. Johnston
+No. 166 The Building Blocks of Participation: Testing Bottom-up Planning. Michael M. Cernea
+No. 167 Seed System Development: The Appropriate Roles of the Private and Public Sectors. Steven Jaffee and Jitendra Srivastava(Continued on the inside back cover.)
+No. 168 Environmental Management and Urban Vulnerability. Alcira Kreimer and Mohan Munasinghe, editors
+No. 169 Common Property Resources: A Missing Dimension of Development Strategies. N. S. Jodha
+No. 170 A Chinese Province as a Reform Experiment: The Case of Hainan. Paul M. Cadario, Kazuko Ogawa, and Yin-Kann Wen
+No. 171 Issues for Infrastructure Management in the 1990s. Arturo Israel
+No. 172 Japanese National Railways Privatization Study: The Experience of Japan and Lessons for Developing Countries.Koichiro Fukui
+No. 173 The Livestock Sector in Eastern Europe: Constraints and Opportunities. Cornelis de Haan, Tjaart Schillhorn Van Veen, and Karen Brooks
+No. 174 Assessing Development Finance Institutions: A Public Interest Analysis. Jacob Yaron
+No. 175 Resource Management and Pastoral Institution Building in the West African Sahel. Nadarajah Shanmugaratnam, Trond Vedeld, Anne Mossige, and Mette Bovin
+No. 176 Public and Private Sector Roles in Agricultural Research: Theory and Experience. Dina L. Umali
+No. 177 The Regulatory Impediments to the Private Industrial Sector Development in Asia: A Comparative Study. Deena Khatkhate
+No. 178 China: Reforming Intergovernmental Fiscal Relations. Ramgopal Agarrvala
+No. 179 Nippon Telegraph and Telephone Privatization Study: Experience of Japan and Lessons for Developing Countries. Yoshiro Takano
+No. 180 China's Reform Experience to Date. Peter Harrold
+No. 181 Combatting AIDS and Other Sexually Transmitted Diseases in Africa: A Review of the World Bank's Agenda for Action. Jean-Louis Lamboray and A. Edward Elmendorf
+No. 182 Privatization Problems at Industry Level: Road Haulage in Central Europe. Esra Bennathan and Louis S. Thompson
+No. 183 Participatory Development and the World Bank: Potential Directions for Change. Bhuvan Bhatnagar and Aubrey C. Williams, editors
+No. 184 Agricultural Research in Southern Africa: A Framework for Action. Andrew Spurling, Teck Y. Pee, Godwin Mkamanga, and Christopher Nkwanyana
+No. 185 Military Expenditure and Economic Development: A Symposium on Research Issues. edited by Geoffrey Lamb with Valeriana Kallab
+No. 186 Efficiency and Substitution in Pollution Abatement: Three Case Studies. Dennis Anderson and William Cavendish
+No. 187 The State Holding Company: Issues and Options. Anjali Kumar
+No. 188 Indigenous Views of Land and the Environment. Shelton H. Davis, editor
+No. 189 Poverty, Population, and the Environment. Stephen D. Mink
+No. 190 Natural Gas in Developing Countries: Evaluating the Benefits to the Environment. John Homer
+No. 191 Appropriate Macroeconomic Management in Indonesia's Open Economy. Sadiq Ahmed
+No. 192 Telecommunications: World Bank Experience and Strategy. Bjorn Wellenius and others
+No. 193 Information Systems Strategies for Public Financial Management. Hywel M. Davies, Ali Hashim, and Eduardo Talero
+No. 194 Social Gains from Female Education: A Cross-National Study. K. Subbarao and Laura Raney
+No. 195 Towards a Sustainable Development: The Rio de Janeiro Study. edited by Alcira Kreimer, Thereza Lobo, Braz Menezes, Mohan Munasinghe, and Ronald Parker
+No. 196 Eastern Europe in Transition: From Recession to Growth?: Proceedings of a Conference on the Macroeconomic Aspects of Adjustment, co-sponsored by the International Monetary Fund and the World Bank. edited by Mario 1. Blejer, Guillermo A. Calvo, Fabrizio Coricelli, and Alan H. Gelb
+No. 197 Korean Industrial Policy: Legacies of the Past and Directions for the Future. Danny M. Leipziger and Peter A. Petri
+No 198 Teerink and Nakashima, Water Allocation, Rights, and Pricing: Examples from Japan and the United States
+No 199 Hussi, Murphy, Lindberg, and Brenneman, The Development of Cooperatives and Other Rural Organizations: The Role of the World Bank
+No 200 McMillan, Nana, and Savadogo, Settlement and Development in the River Blindness Control Zone: Case Study Burkina Faso
+No. 201 Van Tuijl, lmproving Water Use in Agriculture: Experiences in the Middle East and North Africa
+No 202 Vergara, The Materials Revolution: What Does It Mean for Developing Asia ?
+No 203 Cleaver, A Strategy to Develop Agriculture in Sub-Saharan Africa and a Focus for the World Bank
+No 204 Barghouti, Cromwell, and Pritchard, editors, Agricultural Technologies for Market-Let Development Opportunities in the 1990s
+No. 205 Xie, Kuffner, and Le Moigne, Using Water Efficiently: Technological Options
+No. 206 The World Bank/FAO/UNlDO/lndustry Fertilizer Working Group, World and Regional Supply and Demand Balances for Nitrogen, Phosphate, and Potash, 1991/92-1997/9
+No. 207 Narayan, Participatory Evaluation: Tools for Managing Change in Water and SanitationNo. 208 Bindlish and Evenson, Evaluation of the Performance of T&V Extension in Kenya
+No. 209 Keith, Property Tax: A Practical Manual for Anglophone Africa
+No. 210 Bradley and McNamara, editors, Living with Trees: Policies for Forestry Management in Zimbabwe
+No. 211 Wiebers, Integrated Pest Management and Pesticide Regulation in Developing Asia
+No. 212 Frederiksen, Berkoff, and Barber, Water Resources Management in Asia, Volume 1: Main Repor
+No. 213 Srivastava and Jaffee, Best Practices for Moving Seed Technology: New Approaches to Doing Business
+No. 214 Bonfiglioli, Agro-pastoralism in Chad as a Strategy for Survival An Essay on the Relationship between Anthropology and Statistics
+The World Bank
+Headquarters 1818 H Street, N.W. Washington, D.C. 20433, U.S.A.
+European Office
+66, avenue d'lena
+75116 Paris, France
+Tokyo Office
+Kokusai Building I
+1-1 Marunouchi 3-chome
+Chiyoda-ku. Tokyo 100. Japan
+Telephone: (202) 477-1234
+Facsimile: (202) 477-6391
+Telex: WUI 64145 WORLDBANK
+RCA 248423 WORLDBK
+Cable Address: INTBAFRAD
+WASHINGTON DC
+Telephone: (1) 40.69.30.00 Facsimile: (1) 40.69.30.66 Telex: 640651
+Telephone: (3) 3214-5001 Facsimile: (3) 3214-3657 Telex: 26838

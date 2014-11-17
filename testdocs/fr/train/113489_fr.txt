@@ -1,0 +1,2374 @@
+Mesure et évaluation des pénuries alimentaires et de la dénutrition
+
+
+
+Sommaire des débats
+Colloque scientifique international
+Rome, 26-28 juin 2002
+Colloque organisé par la Division de l'analyse du développement agricole et économique
+ORGANISATION DES NATIONS UNIES POUR L'ALIMENTATION ET L'AGRICULTURE
+Rome, 2003
+
+Table des matières
+
+Télécharger la version PDF (350 KB)
+
+
+Les documents préparés pour le Colloque scientifique international
+«Mesure et évaluation des pénuries alimentaires et de la dénutrition»
+sont disponibles sur Internet à l'adresse suivante:
+
+http://www.fivims.net/EN/ISS.htm
+
+Les demandes peuvent également être adressées au:
+
+Secrétariat SICIAV, pièce B525, ESDG
+c/o Organisation des Nations Unies pour l'alimentation et l'agriculture
+Viale delle Terme di Caracalla
+00100 Rome, Italie
+Adresse électronique: fivims-secretariat@fao.org
+
+SICIAV
+
+PROGRAMME INTERINSTITUTIONS DE SOUTIEN AUX SYSTÈMES D'INFORMATION ET DE CARTOGRAPHIE SUR L'INSÉCURITÉ ALIMENTAIRE ET LA VULNÉRABILITÉ
+
+Les appellations employées dans cette publication et la présentation des données qui y figurent n'impliquent de la part de l'Organisation des Nations Unies pour l'alimentation et l'agriculture aucune prise de position quant au statut juridique des pays, territoires, villes ou zones ou de leurs autorités, ni quant au tracé de leurs frontières ou limites.
+
+Tous droits réservés. Les informations ci-après peuvent être reproduites ou diffusées à des fins éducatives et non commerciales sans autorisation préalable du détenteur des droits d'auteur à condition que la source des informations soit clairement indiquée. Ces informations ne peuvent toutefois pas être reproduites pour la revente ou d'autres fins commerciales sans l'autorisation écrite du détenteur des droits d'auteur. Les demandes d'autorisation devront être adressées au Chef du Service des publications, Division de l'information, FAO, Viale delle Terme di Caracalla, 00100 Rome, Italie ou, par courrier électronique, à copyright@fao.org
+
+© FAO 2003
+
+
+Table des matières
+
+
+Remerciements
+
+Avant-propos
+
+SECTION I - INTRODUCTION
+
+Allocution d'ouverture (Hartwig de Haen)
+
+SECTION II - MÉTHODES: DESCRIPTION ET DISCUSSION
+
+A. Méthodologie de la FAO
+
+1. Résumé de la communication invitée (Loganaden Naiken)
+2. Rapport du groupe de discussion (Sumiter Broca)
+
+B. Enquêtes sur les dépenses des ménages
+
+1. Résumé de la communication invitée (Lisa C. Smith)
+2. Rapport du groupe de discussion (Josef Schmidhuber)
+
+C. Méthodes d'enquête alimentaire individuelle
+
+1. Résumé de la communication invitée (Anna Ferro-Luzzi)
+2. Rapport du groupe de discussion (Marie-Claude Dop)
+
+D. Enquêtes anthropométriques
+
+1. Résumé de la communication invitée (Prakash Shetty)
+2. Rapport du groupe de discussion (Gina Kennedy)
+
+E. Mesures qualitatives
+
+1. Résumé de la communication invitée (Eileen Kennedy)
+2. Rapport du groupe de discussion (Sean Kennedy)
+
+F. Synthèse des cinq méthodes pour mesurer la faim et la malnutrition
+
+1. Résumé de la communication invitée (John B. Mason)
+2. Rapport du commentateur (Siddiqur R. Osmani)
+
+SECTION III - POINT DE VUE DES UTILISATEURS
+
+Panel 1: Groupe d'experts 1: Utilisateurs nationaux - Résumé des débats (Jacques Vercueil)
+Panel 2: Groupe d'experts 2: Utilisateurs internationaux - Résumé des débats (Jacques Vercueil)
+
+SECTION IV - REMARQUES FINALES
+
+Enseignements tirés (Hartwig de Haen)
+
+SECTION V - ANNEXES
+
+Glossaire
+Programme du colloque
+Comité scientifique consultatif
+Comité local d'organisation
+Liste des participants
+Table des matières Page suivante
+
+
+Remerciements
+
+L'objectif de ce compte rendu est de présenter une synthèse des débats du Colloque scientifique international sur la mesure et l'évaluation des pénuries alimentaires et la dénutrition, en anglais, espagnol, français et arabe. Le compte rendu intégral du colloque n'est disponible qu'en anglais.
+
+La réalisation de ce colloque a été rendue possible grâce à la générosité du Gouvernement des Pays-Bas par le truchement du Programme de partenariat FAO Pays-Bas. Il a été organisé sous la direction générale de Hartwig de Haen, Sous-Directeur général, Département économique et social de la FAO, de Jacques Vercueil, ancien Directeur de la Division de l'analyse du développement agricole et économique de la FAO, de Loganaden Naiken, ancien Chef du Service d'analyse statistique de la FAO et de William H. Meyers, ancien Directeur de la Division de l'analyse du développement agricole et économique de la FAO. Les membres ci-après du personnel de la FAO ont apporté une aide précieuse à l'organisation de ce colloque: Terri Ballard, Sumiter Broca, Barbara Burlingame, Dorjee Kinlay, Jorge Mernies, Harriet Neuling, Terri Raney, Ricardo Sibrian, et David Wilcock.
+
+La FAO tient à remercier tout particulièrement les membres du Comité scientifique consultatif: Marie-Claude Dop, Institut de Recherche pour le Développement, France, actuellement auprès de la FAO; Jean-Pierre Habicht, Cornell University, États-Unis; Siddiqur Osmani, University of Ulster, Royaume-Uni; Jean Pennington, National Institutes of Health, États-Unis; Kathy Radimer, National Center for Health Statistics, États-Unis; Soekirman, Bogor Agriculture University, Indonésie; Walter Willett, Harvard University, États-Unis; et Pattanee Winichagoon, Mahidol University, Thaïlande.
+
+Nous remercions également de leur contribution le comité local d'organisation, tous les présidents de séances et les rapporteurs, tous les orateurs et les personnes ayant participé aux débats et aux manifestations parallèles. Les participants à ce colloque ont tous été déterminants pour les résultats qui en sont issus.
+
+Ce volume a été publié grâce à l'assistance de Terri Ballard pour la révision scientifique et technique, Harriet Neuling et Omar Bolbol pour la conception de la couverture, Giuseppina Di Felice pour la mise en page, Jenny Riches et Chiara Deligia pour le soutien logistique.
+
+
+Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+Avant-propos
+
+L'idée d'organiser un Colloque scientifique sur la mesure et l'évaluation des pénuries alimentaires et de la dénutrition a pris corps à l'issue du Sommet mondial de l'alimentation en 1996. Il a été estimé qu'une rencontre entre tous ceux qui sont concernés par les aspects scientifiques des méthodologies de mesure de la dénutrition et leurs applications, constituerait une aide précieuse pour la FAO dans les efforts qu'elle déploie pour mesurer et superviser les progrès accomplis pour respecter l'engagement de réduire de moitié le nombre de personnes souffrant de la faim d'ici à 2015. Nous exprimons notre gratitude au Gouvernement des Pays-Bas pour avoir permis, par le truchement du Programme de partenariat FAO Pays-Bas, la réalisation de cette rencontre entre experts du monde entier qui ont abordé avec nous un thème d'une telle importance.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+SECTION I - INTRODUCTION
+
+Allocution d'ouverture (Hartwig de Haen)
+
+Hartwig de Haen
+Sous-Directeur général, Département économique et social (ES)
+Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO)
+Rome, Italie
+
+Chers amis et collègues, Mesdames et Messieurs, permettez-moi tout d'abord de vous souhaiter la bienvenue à ce Colloque scientifique sur la mesure et l'évaluation des pénuries alimentaires et de la dénutrition qui se tient au siège de la FAO. Je voudrais d'emblée signaler que la mesure et la surveillance des événements mondiaux est l'un des principaux mandats de l'Organisation des Nations Unies. S'il est vrai que la FAO est, certes, responsable de surveiller la situation de l'alimentation et de l'agriculture à l'échelle mondiale, il n'en demeure pas moins que la promotion de ces activités aux échelons national et sous-national joue un rôle de première importance. La surveillance et la mesure appliquées à la problématique de l'insécurité alimentaire ou, d'une manière plus spécifique, à la pénurie alimentaire et à la dénutrition, servent le noble objectif de compter et d'identifier tous ceux qui sont, de manière chronique ou temporaire, victimes de la sous-alimentation, la
+malnutrition, l'insécurité alimentaire ou la vulnérabilité. De ce fait, nous contribuons activement à la concrétisation d'un droit humain fondamental, à savoir le droit à la nourriture. Il est impératif, pour les décideurs, de savoir où se trouvent les personnes touchées par l'insécurité alimentaire, la dénutrition ou la malnutrition, avant d'entreprendre des actions ciblées et efficaces. Notre obligation est, dès lors, de mobiliser les efforts et les ressources et de mettre la science et l'expérience au service de cette entreprise. Le Sommet mondial de l'alimentation: cinq ans après, tenu récemment, a fait apparaître que la lenteur des progrès accomplis dans la réduction du nombre de personnes sous-alimentées risque de compromettre la réalisation de l'objectif de réduire de moitié le nombre de ces personnes d'ici à 2015 et que l'action à cette fin doit être accélérée aux échelons mondial, régional et national.
+
+Les mesures adoptées par les gouvernements ou d'autres décideurs doivent être étayées par tous les instruments possibles afin de déterminer quelles sont les personnes touchées par la faim, les localiser et déceler la raison de cette situation. Une information adéquate n'est pas seulement un instrument pour les gouvernements résolus à combattre la faim et la malnutrition; elle peut aussi contribuer puissamment à mobiliser la volonté politique nécessaire à cette fin. J'espère, dès lors, que ce colloque constituera, outre un apport technique quant à l'analyse des différentes méthodologies de mesure, l'occasion de servir un objectif absolument stratégique, à savoir appeler l'attention sur la nécessité de redoubler d'efforts pour combattre la faim et la malnutrition.
+
+Nul n'ignore que le suivi de la sous-alimentation fait partie du mandat de la FAO depuis de nombreuses années, mais cet effort a acquis une importance particulière à l'issue du Sommet mondial de l'alimentation (SMA) qui s'est fixé comme objectif de réduire de moitié le nombre de personnes sous-alimentées d'ici à 2015. Cette réduction de moitié du nombre des victimes de la faim constitue également un élément important des Objectifs de développement pour le Millénaire (ODM). Tous s'accordent donc, de façon précise et à l'échelon international, pour chercher à réduire de manière substantielle et durable le nombre de victimes de la faim. Notre mandat de surveiller les progrès accomplis dans le combat contre la faim à l'échelon mondial et national n'en est que renforcé. Le Sommet mondial de l'alimentation a fixé cet engagement à l'échelle mondiale mais le constat est que la plupart, sinon la totalité, des progrès accomplis pour réduire le nombre de personnes sous-alimentées, tel
+qu'ils ont été mesurés par l'indicateur de la FAO, s'expliquent essentiellement par les résultats obtenus dans quelques pays, en particulier en Chine. Sur la base du même indicateur de la FAO, de nombreux pays en développement enregistrent une augmentation du nombre de personnes victimes de la faim ou de la sous-alimentation dans les années 1990. En conséquence, à moins que tous les pays ne se rallient au même objectif, ce qui était sans nul doute l'intention de ceux qui ont souscrit à la Déclaration de Rome adoptée au Sommet mondial de l'alimentation, le fossé ne cessera de se creuser à l'échelon mondial entre les pays dont les efforts sont fructueux et ceux qui n'obtiennent pas les résultats escomptés.
+
+J'ai toujours été d'avis qu'un seul indicateur de la faim ne suffit pas, même s'il s'agit de n'en mesurer qu'un aspect. En réalité, nous devons mesurer divers aspects, notamment la disponibilité alimentaire, la consommation d'aliments, l'état nutritionnel et différents facteurs connexes qui déterminent ces situations, d'où la nécessité d'utiliser plusieurs indicateurs.
+
+Je ne peux préjuger de l'issue de ces débats mais j'espère que votre participation contribuera à améliorer les méthodes appliquées actuellement et que de nouvelles propositions seront faites. Nous avons souhaité, dans la préparation de cette rencontre, la structurer en fonction des indicateurs connus, notamment celui qui est utilisé par la FAO et auquel il est si souvent fait référence dans le monde. Comme vous le savez, il s'agit d'un indicateur indirect, qui ne prévoit pas l'observation de la consommation alimentaire individuelle, et qui dès lors a toujours fait l'objet d'opinions divergentes; d'aucuns estiment que nous surestimons la prévalence de la faim, d'autres au contraire que nous la sous-estimons. Il est surprenant de constater que peu sont les pays qui ont contesté nos estimations depuis le début des publications par pays en 1996. Rares sont ceux qui critiquent les estimations de la FAO et la plupart y font référence, bien que cet indicateur n'ait jamais été conçu
+pour être le seul valide pour les pays pris individuellement. Malheureusement, de nombreux pays n'ont pas encore entrepris de mesurer leur niveau de pénurie alimentaire et de dénutrition, ni de publier cette information. Telle est la tâche des Systèmes d'information et de cartographie sur l'insécurité alimentaire et la vulnérabilité (SICIAV) et je constate avec plaisir la présence de nombreux membres du Groupe de travail interinstitutions sur les SICIAV. Les donateurs sont tout aussi intéressés par cette initiative que les pays et il est réconfortant de constater que de nombreux pays en développement ont amorcé des programmes visant à mettre sur pied des systèmes d'information et à recueillir leur propre information afin de la mettre au service de mesures mieux ciblées et plus efficaces. Les méthodologies et le choix d'indicateurs constituent un volet essentiel de votre analyse et je suis convaincu que nous avons toutes les chances de parvenir à élaborer des recommandations
+qui seront utiles à tous ceux qui sont concernés par la faim dans le monde et qui étudient ces questions, ainsi qu'à ceux qui participent activement au combat mené pour l'atténuer.
+
+Le colloque est organisé autour de trois grands thèmes. Le premier jour sera consacré aux présentations des orateurs principaux sur les différentes méthodes actuellement utilisées pour mesurer la sous-alimentation, la dénutrition et la malnutrition. L'après-midi, chaque méthode fera l'objet d'un débat. Le premier orateur principal, Loganaden Naiken, ancien Chef du Service d'analyse statistique de la FAO, illustrera l'indicateur utilisé par la FAO pour mesurer l'apport énergétique alimentaire. Il sera suivi de Lisa Smith, de l'Institut international de recherche sur les politiques alimentaires, qui se penchera sur l'utilisation des enquêtes sur le revenu et les dépenses des ménages; Anna Ferro-Luzzi, de l'Institut italien de recherche pour les aliments et la nutrition, abordera le thème des enquêtes alimentaires individuelles; Prakash Shetty, de la Division de la nutrition de la FAO nous parlera des enquêtes anthropométriques, et Eileen Kennedy, de l'International Life
+Sciences Institute, analysera l'application des méthodes qualitatives pour mesurer la faim. John Mason, Professeur à la Tulane University, présentera une synthèse de ces méthodes et examinera les possibilités de les utiliser en association. Le deuxième jour sera consacré à la présentation des documents d'appui préparés par 24 chercheurs ayant mis au point et/ou utilisé diverses méthodes de mesure dans le domaine en question. La dernière journée sera consacrée aux organisations qui utilisent l'information relative à la faim pour la mise en &#156;uvre de programmes et d'interventions. Ces activités seront suivies d'un débat final ouvert à tous, portant sur les communications présentées et les orientations futures.
+
+Je vous souhaite à nouveau la bienvenue à ce colloque et vous souhaite d'avoir des débats féconds au cours des trois journées à venir.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+SECTION II - MÉTHODES: DESCRIPTION ET DISCUSSION
+
+A. Méthodologie de la FAO
+
+Méthodologie de la FAO pour estimer la prévalence de la sous-alimentation
+
+1. Résumé de la communication invitée (Loganaden Naiken)
+
+Loganaden Naiken
+Ancien Chef du Service d'analyse statistique (ESSA)
+Division des statistiques, FAO
+Rome, Italie
+
+Cette étude fait le point de la méthodologie et des données utilisées par la FAO pour estimer la prévalence de la sous-alimentation. Après une brève introduction, l'auteur procède à une révision du cadre méthodologique de base fondé sur la distribution statistique de la consommation d'aliments (exprimée en termes d'énergie alimentaire) et un seuil critique correspondant à une consommation inadéquate selon les normes relatives aux besoins énergétiques minimums. Cette présentation est suivie d'une description des données et des procédures utilisées dans l'estimation de la distribution statistique de la consommation d'aliments et du seuil critique. L'auteur explore la signification et l'importance de la mesure de la pénurie alimentaire effectuée par la FAO à la lumière des contraintes imposées par les données et les procédures utilisées. Un chapitre est consacré à une description succincte de mesures similaires élaborées par d'autres organisations ou auteurs, et leur rapport
+avec la mesure de la FAO. L'auteur analyse les points forts et les faiblesses des estimations de la FAO, la possibilité de les améliorer dans l'avenir, ainsi que certains aspects de l'éventuelle ventilation des estimations par sexe-âge, ou par groupes sous-nationaux. Quatre études techniques sont présentées en annexe du document. Les trois premières portent sur certaines questions mentionnées dans le document, en particulier le rôle de la loi de probabilité à deux variables et la possibilité d'une corrélation entre l'apport et les besoins énergétiques pour justifier la méthodologie appliquée pour estimer la prévalence de la sous-alimentation. La quatrième partie illustre l'application de la méthodologie de la FAO dans un pays hypothétique.
+
+2. Rapport du groupe de discussion (Sumiter Broca)
+
+Méthodologie de la FAO
+
+Président: Shala Shapouri
+Présentateurs: Isidoro David et Benjamin Senaur
+Rapporteur: Sumiter Broca
+
+Les participants ont eu un débat animé sur les points forts et les faiblesses de la méthode employée par la FAO et d'autres aspects soulevés par les présentateurs. Ils ont affirmé que la méthode de la FAO présentait certains avantages, en particulier le fait que ces estimations pouvaient servir de référence pour évaluer la situation générale. Il s'agit d'estimations cohérentes qui peuvent, dès lors, être utilisés pour détecter les tendances à long terme en matière de sous-alimentation (le nombre des victimes de la faim est-il en diminution?).
+
+Cette méthode présente toutefois certaines lacunes, notamment de graves inexactitudes au niveau des données de base de bilans alimentaires fondés sur des données de production erronées, telles que les données relatives à la production de poisson et d'aliments de la Chine, et les données commerciales imparfaites de pays aux frontières perméables. Les intervenants ont également signalé que la méthode de la FAO peut conduire à une surestimation de la prévalence de la sous-alimentation dans certaines régions et à une sous-estimation dans d'autres, du fait qu'elle accorde plus d'importance à la consommation énergétique moyenne qu'à la distribution de cette énergie. Le fait que la méthode ne tienne compte que des apports énergétiques et non pas de ceux en micronutriments, a également été signalé comme un problème.
+
+Les exemples de la Thaïlande et de l'Indonésie ont été évoqués pour démontrer que les chiffres résultant de la méthode utilisée par la FAO ne s'accordent pas avec d'autres indicateurs socio-économiques.
+
+Propositions pour perfectionner la méthode de la FAO
+
+Améliorer la qualité des données de base
+
+L'exemple des estimations de la pauvreté aux États-Unis a été évoqué pour démontrer que les données sur la pauvreté et la sous-alimentation sont essentiellement d'ordre politique. La méthodologie archaïque utilisée pour chiffrer la pauvreté aux États-Unis reste en application car toute modification risquerait de poser un problème politique. Le même raisonnement s'applique, mutatis mutandis, à la méthode de la FAO. Seul un simple "rhabillage" est possible.
+
+Les simulations de M. Naiken ayant démontré que les estimations de la FAO sont insensibles au paramètre de distribution pour les moyennes proches du seuil critique, mais sensibles au choix du seuil et de la moyenne, il conviendrait de tenter d'améliorer la précision de ces chiffres. Les participants ont estimé que la référence aux besoins des individus pour la détermination des seuils critiques représente une complication inutile et pourrait être substituée par des chiffres ventilés en fonction de l'âge et du sexe sans y perdre en précision. La corrélation présumée entre le besoin et la consommation doit également faire l'objet d'une étude plus approfondie.
+
+Certains ont signalé qu'il n'était pas justifié d'établir des rapports annuels sur la sous-alimentation, étant donné que la situation sous-jacente n'évolue guère d'une année à l'autre et que le rapport signal-bruit est faible.
+
+Favoriser la compatibilité avec d'autres données
+
+Il n'est pas souhaitable que les chiffres relatifs à des concepts similaires tels que la pauvreté et la sous-alimentation engendrent des signaux contradictoires. Il est donc nécessaire d'établir des partenariats entre les organismes internationaux et les pays afin de favoriser la comparabilité des données et d'assurer la pérennité de ces indicateurs.
+
+Utilisation des données d'enquêtes sur les ménages
+
+Les participants ont signalé qu'un grand nombre de pays a recours, pour établir le pourcentage de population vivant dans la pauvreté, aux données des enquêtes sur les ménages pour calculer le nombre de ceux dont l'apport énergétique est insuffisant. La FAO devrait donc mettre à profit ces données pour vérifier et améliorer ses estimations du pourcentage de personnes sous-alimentées basées sur le bilan alimentaire. Il n'a toutefois pas été question d'une substitution totale de la méthode de la FAO.
+
+Deux objections soulevées dans le document principal quant à l'utilisation des données des enquêtes sur les ménages ont été contestées, à savoir: (1) que les procédures d'échantillonnage avaient été conçues pour produire des estimations précises de moyennes et non pas des pourcentages en-deça d'un seuil critique; et (2) que les plans d'échantillonnage complexes qui sont à la base de ces enquêtes n'avaient pas été pris en compte dans les inférences sur les paramètres de population établies à partir de variables statistiques. Les participants ont estimé que ces objections n'étaient pas justifiées car dans de nombreux pays, les données des enquêtes étaient, dans la pratique, utilisées pour mesurer l'inégalité et la pauvreté. Il existe actuellement des logiciels qui prennent en considération ces plans d'échantillonnage complexes pour établir des inférences sur les paramètres de population.
+
+Les participants ont néanmoins reconnu qu'il serait coûteux, et dans certains cas peu praticable, de remplacer les estimations de la FAO par des estimations résultant des données des enquêtes sur les ménages et que ces données présentaient elles aussi des problèmes. L'exemple de l'Inde, et des problèmes posés par la traditionnelle enquête nationale par échantillonnage ont été évoqués à titre d'illustration. Le fait, par exemple, d'étendre la période d'enquête de 7 à 30 jours modifie substantiellement le pourcentage de la population vivant dans la pauvreté. Il n'est pas possible de mesurer de façon précise la répartition de la consommation d'aliments selon les différents groupes de revenu car le plan de sondage est conçu de façon à obtenir des estimations précises de la consommation alimentaire moyenne, au détriment de la précision dans l'estimation de sa répartition.
+
+Utilisation des données anthropométriques
+
+Les participants ont recommandé que les estimations de la FAO soient complétées par des données anthropométriques, dans le cas des enfants, et par l'indice de masse corporelle (IMC), pour les femmes. Il est impérieux de recueillir davantage de données sur l'anthropométrie des adultes. Cette étude présenterait également l'avantage de mieux mesurer et étudier l'incidence croissante de l'obésité dans les pays en développement.
+
+Discussion
+
+Dans les débats qui ont suivi, les participants ont appuyé, ajouté ou modifié les points ci-après. À propos des points faibles des données de la FAO, il a été signalé qu'il était impossible de garantir l'efficacité d'une méthode dans tous les pays. Les études statistiques avaient révélé une étroite corrélation entre les mesures établies par la FAO et d'autres variables relatives à la sécurité alimentaire, et ce dans les différents pays. C'est sur la base de ce constat qu'avait été élaboré un indice global de la sécurité alimentaire des ménages appliqué par la suite par le Programme alimentaire mondial (PAM) pour cibler l'aide alimentaire sur certains pays. Deux autres participants se sont ralliés à cet avis, et l'un d'eux a affirmé avoir constaté des rapports entre, notamment, les données anthropométriques et les données provenant de bilans alimentaires. La question de la comparaison entre les données relatives aux disponibilités alimentaires et celles concernant la
+production ou la consommation d'aliments, a également été soulevée. Aux États-Unis, par exemple, certains éléments tels que la consommation de sucre sont sous-déclarés par les ménages, ce qui se traduit par un écart profond entre les disponibilités énergétiques telles qu'elles ressortent des bilans alimentaires et la consommation d'énergie notifiée par les ménages. L'une des raisons de cette divergence, outre les déchets, est que les bilans alimentaires sont élaborés à partir de données relatives aux produits non traités, alors que la consommation se rapporte à des produits transformés. Il serait peut-être utile de mettre au point des facteurs de transformation permettant d'établir une passerelle entre ces deux types de chiffres.
+
+Un autre aspect important non résolu concerne la faim transitoire. Des participants ont exprimé leur crainte que certains changements temporaires dans la situation alimentaire d'un pays puissent avoir un poids excessif dans le calcul de la sous-alimentation. Un autre participant s'est demandé si, au contraire, le fait que la crise asiatique ne se soit pas reflétée dans les chiffres de la FAO n'était pas dû à l'accent mis sur la disponibilité alimentaire plutôt que sur l'accès à la nourriture. Un autre participant a demandé si la FAO avait l'intention de produire des indicateurs de l'insécurité alimentaire transitoire, compte tenu, en particulier, de la croissance exponentielle des crises alimentaires ces dernières années. Il a été signalé que le Département américain de l'agriculture tente d'établir la différence entre l'insécurité alimentaire transitoire et l'insécurité alimentaire chronique.
+
+Répondant à ces inquiétudes, il a été précisé que la FAO centre ses efforts sur la mesure de l'insécurité alimentaire chronique. C'est ainsi que les chiffres relatifs à la sous-alimentation ont été calculés sur la base de moyennes portant sur une période de trois ans. Il existe d'autres indicateurs basés sur les marchés, auxquels il est souvent fait appel pour mesurer l'insécurité alimentaire transitoire. La méthode employée par la FAO ne met toutefois pas l'accent sur cet aspect. Un autre participant a posé la question de savoir pourquoi la FAO ne fournissait plus de statistiques sur la "gravité de la faim" telles qu'elles étaient présentées dans L'état de l'insécurité alimentaire 2000. Il a été répondu que cette mesure n'était pas aisément intelligible aux décideurs politiques et que, partant, elle n'était plus appliquée.
+
+B. Enquêtes sur les dépenses des ménages
+
+Utilisation des enquêtes sur les dépenses des ménages pour l'évaluation de l'insécurité alimentaire
+
+1. Résumé de la communication invitée (Lisa C. Smith)
+
+Lisa C. Smith
+International Food Policy Research Institute
+Washington, DC, USA
+
+Le présent document analyse l'utilisation des enquêtes sur les dépenses des ménages pour évaluer l'insécurité alimentaire des populations des pays en développement. Son principal objectif est de présenter l'information de base requise pour évaluer la fiabilité, la validité et l'utilité pratique des mesures de l'insécurité alimentaire obtenues à partir de ces enquêtes. Quatre points forts des enquêtes sur les dépenses des ménages sont notamment identifiés. Le premier est que ces enquêtes sont une source de mesures diverses, valides et pertinentes en termes d'action. Celles-ci sont: (1) la carence énergétique alimentaire des ménages; (2) la variété du régime alimentaire, une mesure de la qualité de l'alimentation; et (3) la part des dépenses alimentaires, une mesure de la vulnérabilité à la pénurie alimentaire. Le deuxième point fort est qu'elles permettent un contrôle et un ciblage à différents niveaux. Les mesures peuvent être utilisées pour calculer les prévalences de
+l'insécurité alimentaire au sein d'un pays, comme à l'échelle nationale, régionale et du monde en développement, et pour surveiller leur évolution au fil du temps. Les données alimentaires allant de pair avec diverses caractéristiques démographiques des ménages, elles peuvent également être utilisées pour identifier la population touchée par l'insécurité alimentaire. Le troisième point fort est que ces enquêtes permettent une analyse de causalité pour l'identification des mesures propres à réduire l'insécurité alimentaire - information vitale pour les décideurs politiques et les responsables des programmes qui cherchent à réduire l'insécurité alimentaire. Enfin, étant donné que l'insécurité alimentaire se manifeste au niveau des ménages et des individus, les données sur les dépenses étant fournies directement par les ménages, celles-ci tendront à être plus fiables que les données recueillies à un niveau plus global. Les principaux points faibles des enquêtes sur les dépenses
+des ménages pour la mesure de l'insécurité alimentaire sont les suivants: (1) actuellement, elles ne sont pas effectuées de façon périodique dans tous les pays en développement; (2) la collecte des données et les coûts informatiques requis en termes de temps, de ressources financières et de compétences techniques restent élevés; (3) les données recueillies n'indiquent pas l'accès individuel à la nourriture au sein des ménages; et (4) bien que les estimations obtenues sur l'insécurité alimentaire soient raisonnablement fiables, elles peuvent être biaisées en raison de diverses erreurs systématiques ne dépendant pas de l'échantillonnage.
+
+2. Rapport du groupe de discussion (Josef Schmidhuber)
+
+Enquêtes sur les dépenses des ménages
+
+Président: Jean-Pierre Habicht
+Présentateurs: Antonia Trichopoulou et Sergio Lence
+Rapporteur: Josef Schmidhuber
+
+Les principaux thèmes de la discussion ont été les suivants:
+* La comparabilité des données d'enquête entre les pays.
+* Les différences entre l'accès aux aliments et l'apport alimentaire. L'analyse de ce problème est allée bien au-delà de la question traditionnelle des écarts résultant de problèmes de périodicité, de la nourriture consommée par des invités, des travailleurs, des animaux de compagnie, et des pertes relatives aux déchets ménagers.
+* La nécessité de mieux appréhender les implications réelles de la notion de vulnérabilité alimentaire, son importance pour l'insécurité alimentaire dans les différents pays, et la relation entre une éventuelle pénurie alimentaire future et le niveau de disponibilité alimentaire moyen.
+
+Mme Trichopoulou a ouvert le débat par un rapport sur son expérience dans l'analyse des enquêtes sur le budget/les dépenses des ménages. L'un des problèmes saillants dans le travail mené à partir de ce type d'enquêtes est le manque de comparabilité des résultats entre les pays. Elle a souligné que même dans les pays européens avancés, la comparabilité des résultats des enquêtes sur les ménages est limitée et qu'il faudrait redoubler d'efforts pour assurer cette comparabilité. Il pourrait notamment s'agir d'élaborer:
+* Des lignes directrices communes pour la collecte, le rassemblement et l'interprétation des données.
+* Des lignes directrices communes pour la détection des erreurs et les mesures à prendre pour résoudre les problèmes inhérents des données.
+* Et surtout, un système de codification commun pour les tableaux de composition des aliments afin que les préparations alimentaires aient la même signification d'un pays à l'autre.
+
+Un premier pas vers la résolution de ces problèmes serait une étude permettant d'identifier les principales difficultés liées à la collecte, au rassemblement et à l'interprétation des enquêtes sur les ménages. L'accent devrait être mis sur la comparabilité des tableaux de composition des aliments.
+
+M. Lence s'est concentré sur la "validité prédictive" (ou plus précisément sur la "validité convergente") des enquêtes sur les dépenses des ménages pour l'évaluation des niveaux des apports alimentaires. La validité prédictive permet d'établir dans quelle mesure les résultats des enquêtes sur les dépenses des ménages (disponibilité alimentaire) peuvent constituer une bonne variable explicative des résultats obtenus à partir de l'information sur l'apport alimentaire réel. Il s'agit d'une question importante étant donné que la validité prédictive a été identifiée comme l'un des principaux points forts des enquêtes sur les dépenses des ménages.
+
+Le présentateur a cherché à éclaircir ce point sur la base des cas de deux pays (le Kenya et les Philippines) pour lesquels on dispose de données concernant l'apport alimentaire sur une période de 24 heures et des enquêtes sur les dépenses alimentaires. L'analyse minutieuse des données a suscité un grand nombre de questions.
+
+Quels sont les résultats de la comparaison entre l'information sur l'apport alimentaire et les données sur les dépenses alimentaires?
+* Les moyennes des deux enquêtes, à savoir l'apport énergétique sur une période de 24 heures et les dépenses alimentaires résultant des enquêtes relatives aux achats d'aliments sur une période de sept jours, sont très proches l'une de l'autre.
+* En outre, les distributions marginales des deux "expériences" sont très similaires dans les deux pays et pour les quatre répétitions effectuées.
+* Cependant, en juxtaposant l'information tirée des deux expériences pour les observations individuelles, c'est-à-dire l'apport alimentaire déclaré et l'acquisition d'aliments par personne, la corrélation était plutôt faible. Le coefficient de corrélation était de 0,35; une simple régression de l'apport alimentaire sur l'acquisition d'aliments (pour les observations individuelles) aurait donné un R^2 de 0,12 seulement.
+
+Quelle pourrait être la raison de la faible corrélation et partant la possibilité d'une surestimation de la validité prédictive des enquêtes sur les dépenses des ménages pour établir l'apport alimentaire réel ?
+
+Le présentateur a souligné la nécessité d'étudier de plus près les problèmes qui touchent l'information des enquêtes en général, et non pas seulement celle des enquêtes sur les dépenses des ménages ou sur l'apport alimentaire. Se référant à une étude réalisée par Bertrand et Mullainathan, il a indiqué les problèmes cognitifs et les problèmes de désirabilité sociale comme les deux principaux éléments à considérer. Les problèmes cognitifs sont ceux qui résultent, entre autres, de la structure de l'enquête. L'ordre des questions, leur formulation, les échelles et l'effort mental requis pour répondre aux questions, peuvent avoir une incidence sur les résultats. Les problèmes de désirabilité sociale surviennent, par exemple, lorsque les personnes interrogées ne veulent pas faire mauvaise impression à l'enquêteur. Au-delà des problèmes cognitifs et de désirabilité sociale, une attitude stratégique ou le simple fait de ne pas dire la vérité peut avoir une incidence négative sur la
+validité des réponses aux enquêtes.
+
+Quelles sont les principales conclusions tirées de cet exercice ?
+
+Les principales suggestions émises par le présentateur ont été que la validité prédictive des enquêtes sur les ménages pour mesurer la sécurité alimentaire peut facilement être surestimée. En fait, les données disponibles (même si elles sont limitées) montrent que les enquêtes sur les dépenses des ménages peuvent présenter des problèmes de viabilité ou de fiabilité non négligeables aux fins de l'évaluation de la sécurité alimentaire. Des efforts supplémentaires sont donc nécessaires pour améliorer la validité/fiabilité des enquêtes sur les ménages pour l'évaluation de la sécurité alimentaire.
+
+La discussion libre s'est concentrée sur deux points importants:
+* L'éventuel manque de fiabilité dans les enquêtes sur les dépenses des ménages peut-il influer sur les estimations de la sous-alimentation et de l'insécurité alimentaire et, si c'est le cas, de quelle manière ?
+* Comment pouvons-nous mieux définir et évaluer la vulnérabilité alimentaire?
+
+L'hypothèse de départ pour évaluer la première question a été le constat d'une corrélation étonnamment faible entre deux méthodes de mesure pour la même élaboration théorique de la disponibilité alimentaire. Si cette absence de corrélation est due au manque de fiabilité de l'information observée, c'est-à-dire si la variabilité observée est en grande partie imputable à un niveau élevé de perturbation aléatoire, le niveau de sous-alimentation mesuré risque alors d'être surestimé par rapport au niveau effectif. La raison est que nous évaluons - au seuil critique - une distribution avec une variance supérieure à la variance réelle qui, à ce stade, affichera invariablement un pourcentage d'affamés plus élevé.
+
+Pour répondre à la seconde question, les participants ont généralement estimé que le concept de vulnérabilité alimentaire exigeait une définition plus précise. Si la part des dépenses alimentaires dans les dépenses totales peut constituer un bon point de départ pour évaluer la vulnérabilité, elle n'est toutefois ni suffisante dans un environnement économique déterminé, ni indicative d'un même niveau de vulnérabilité dans des environnements économiques différents. Les participants se sont accordés à reconnaître que d'autres facteurs doivent être pris en compte, notamment:
+* Le caractère saisonnier de la disponibilité alimentaire (notamment les écarts entre la saison des pluies et la saison sèche).
+* Une définition claire de la période de référence et de l'horizon temporel. La période de mesure et la période d'enquête pour les enquêtes sur les ménages peuvent ne pas être appropriées pour évaluer la vulnérabilité.
+* La vulnérabilité devrait également inclure la disponibilité de crédits (alimentaires), par exemple un compte dans un magasin d'alimentation pourrait aider à surmonter les périodes de prix élevés et d'accès insuffisant aux aliments.
+* Il est important de tenir compte de la variabilité des prix des produits alimentaires de base lorsque l'on évalue la probabilité que les dépenses moyennes puissent ne pas suffire pour acquérir des aliments en quantité suffisante. À cet égard, les flambées des prix et la probabilité qu'elles se produisent pourraient être particulièrement importantes.
+* Il est également nécessaire de distinguer les facteurs réellement aléatoires (par exemple, des troubles civils ou un brusque changement du système de sécurité sociale) des événements non aléatoires (fluctuations saisonnières). La principale différence réside dans la capacité de prédiction de ces événements. Comme il est possible de prévoir les conséquences des fluctuations saisonnières, des mesures de précaution peuvent être prises pour pallier les problèmes potentiels futurs.
+
+C. Méthodes d'enquête alimentaire individuelle
+
+1. Résumé de la communication invitée (Anna Ferro-Luzzi)
+
+Anna Ferro-Luzzi
+Institut national de recherche sur les aliments et la nutrition
+Rome, Italie
+
+Le présent document examine la pertinence de l'information sur les apports alimentaires individuels pour l'estimation de l'état de sécurité alimentaire de certains groupes de population à l'échelon national ou sous-national, et illustre les contraintes, points faibles et avantages potentiels de cette approche méthodologique. Il spécifie d'emblée que la consommation d'aliments en quantité et qualité suffisantes pour satisfaire les besoins en énergie et nutriments est au c&#156;ur du concept de sécurité alimentaire, et que toute considération relative à la perception subjective de la pénurie alimentaire ou d'une condition de pauvreté est secondaire. Le document passe en revue les diverses approches méthodologiques disponibles pour évaluer l'apport alimentaire individuel et décrit brièvement leurs contraintes inhérentes et logistiques, de même que la nécessité de les adapter à des contextes socio-économiques et culturels spécifiques. On y trouve également un tour d'horizon des
+recherches rigoureuses qui ont porté sur l'amélioration de la qualité des données collectées et le niveau de fiabilité des données pouvant être atteint. Le degré de flexibilité autorisé par les méthodes d'enquêtes alimentaires individuelles, la disponibilité de procédures efficaces de validation et de normalisation et la nature de l'information obtenue constituent des caractéristiques uniques de cette approche méthodologique. Un autre élément unique est que sa structure d'erreur est bien mieux comprise que pour toute autre méthode employée pour l'évaluation de la sécurité alimentaire et qu'il est possible d'effectuer une validation indépendante des résultats par le biais d'une mesure de la dépense énergétique suivant l'approche de l'eau à double marquage. Enfin, il s'agit de la seule méthode capable aujourd'hui de révéler la distribution des aliments au sein du ménage. Ne pas tenir compte des modèles de distribution inégale de la nourriture au sein des ménages peut conduire
+à des conclusions erronées sur leur sécurité alimentaire et masquer l'existence de sous-groupes vulnérables au sein de la communauté. Le document identifie le phénomène de la sous-déclaration comme le principal point faible de la méthode, mais il considère également que les éléments logistiques et le coût des enquêtes constituent des contraintes potentielles. Il conclut que la méthode d'enquête alimentaire individuelle est une approche robuste pour l'évaluation de la sécurité alimentaire, mais que son coût et d'autres éléments, tels que la logistique, le degré de collaboration requis de la part des sujets et certaines contraintes culturelles particulières, rendent son utilisation difficile, spécialement dans les régions en développement. Il conclut également que cette méthode est très précieuse pour la validation d'autres méthodes plus indiquées pour l'évaluation de la sécurité alimentaire.
+
+2. Rapport du groupe de discussion (Marie-Claude Dop)
+
+Enquêtes alimentaires individuelles
+
+Président: Walter Willett
+Présentateurs: Jeanne de Vries et Lauren Lissner
+Rapporteur: Marie-Claude Dop
+
+Mme de Vries et Mme Lissner ont complété le résumé exhaustif d'Anna Ferro-Luzzi sur les méthodes d'évaluation de l'apport alimentaire individuel par une analyse approfondie de certains aspects relatifs à la validité des méthodes (tenant à des erreurs inhérentes dans l'évaluation de la consommation alimentaire et/ou à certaines caractéristiques des sujets), au coût et à la faisabilité.
+
+Mme de Vries a affirmé que le choix d'une méthode pour l'évaluation de la sécurité alimentaire et de la sous-alimentation devrait être basé sur plusieurs critères, tels que le type d'information que la méthode est en mesure de fournir, la comparabilité d'un pays à l'autre, les coûts, les types d'erreurs d'évaluation et les façons de les corriger. Les méthodes d'enquête sur l'apport alimentaire individuel peuvent fournir une assez bonne mesure de la moyenne et de la distribution de l'apport énergétique et par conséquent apporter une estimation de la prévalence de la sous-alimentation dans une population, bien que le contrôle des mesures anthropométriques reste une alternative fiable. En outre, les enquêtes sur l'apport individuel pourraient servir à évaluer les modes d'alimentation et fournir des estimations pour certains aliments, ce qui est intéressant lorsque les tableaux de composition des aliments sont incomplets ou inexacts.
+
+Les trois principales sources d'erreur observées dans ce type d'enquêtes se situent au niveau de la déclaration, de la codification et des tableaux de composition des aliments. Il existe deux sortes d'erreurs: aléatoires et systématiques. Toutes deux peuvent avoir des composantes intra-sujet et inter-sujet et sont susceptibles d'avoir une incidence négative sur les estimations de la prévalence de la sous-alimentation. Alors que les erreurs aléatoires peuvent parfois être atténuées en augmentant le nombre de sujets ou celui des jours de mesure, les erreurs systématiques peuvent rarement être corrigées.
+
+Deux méthodes semblent pertinentes pour l'évaluation de la prévalence de la sous-alimentation: la méthode du rappel des 24 dernières heures à passages répétés et celle des questionnaires sur la fréquence des aliments. La première est une enquête ouverte et sans caractère culturel, ce qui en fait un instrument adapté aux populations multiethniques et permet des comparaisons entre les pays. En revanche, le questionnaire sur la fréquence des aliments utilise une liste fermée de produits alimentaires et n'est pas forcément comparable entre pays. Le temps requis pour expliquer et gérer ces méthodes est à peu près le même, mais la codification est beaucoup plus longue dans le cas des rappels des 24 heures, alors que le questionnaire sur la fréquence des aliments nécessite un travail de mise au point plus laborieux et plus long. Les deux méthodes demandent au répondant un effort limité. Par conséquent, la méthode la plus appropriée en termes de validité et de faisabilité serait
+celle du rappel des 24 heures jointe à l'anthropométrie. Des études de validation/étalonnage seraient néanmoins nécessaires. Une normalisation stricte des procédures permettrait de réduire au minimum les erreurs.
+
+Mme Lissner a également abordé le problème des erreurs dans les enquêtes sur l'apport individuel. Elle a donné des exemples de biais observés dans le contexte d'études menées dans les pays occidentaux, en particulier parmi des sujets obèses, qui montrent bien la complexité des erreurs rencontrées dans l'évaluation alimentaire.
+
+Des études utilisant des bio-marqueurs telles que la méthode de l'eau à double marquage et le taux d'azote urinaire par 24 heures, ont montré que la sous-déclaration était courante dans les enquêtes d'évaluation alimentaire (sous-déclaration générale au niveau de populations entières et sous-déclaration sélective de la part des sujets obèses).
+
+Lesdits "biais normatifs" sont liés à la désirabilité sociale des apports, étant donné que les sujets tendent à déclarer des apports socialement acceptables. Ce type de biais peut avoir des composantes intentionnelles et non intentionnelles. La sous-déclaration est en partie générale et en partie liée à l'obésité.
+
+Les biais de désirabilité sociale sont associés à d'autres sources d'erreurs, telles que les erreurs de mémoire ou d'enregistrement. Par exemple, durant l'enregistrement, certains sujets vont réduire leur consommation et donc se trouver en situation de sous-déclaration. Le sujet se sachant observé, la sous-déclaration sera moins importante mais ne sera pas totalement évitée. Dans les études cliniques rétrospectives, il existe un risque élevé de biais de l'information, car le fait que le sujet connaisse le diagnostic va altérer sa mémoire de l'apport alimentaire.
+
+Une question importante est l'identification des aliments et/ou des nutriments qui font l'objet d'une sous-déclaration sélective. Des études ont montré que les apports en lipides et en glucides sont sous-déclarés dans une plus large mesure que les apports en protéines. Il a été démontré dans certaines études que les obèses sous-déclarent certains aliments, par exemple les snacks et l'alcool. La sous-déclaration des aliments varie cependant d'une étude à l'autre. Elle peut être involontaire dans le cas de certains aliments. Par exemple, les aliments faciles à oublier, tels que les snacks, sont souvent omis.
+
+On rencontre probablement aussi des biais normatifs dans les populations sous-alimentées. La sur-déclaration d'aliments socialement acceptables et l'omission de ceux qui ne le sont pas sont toutes deux possibles, mais des études sont nécessaires pour attester l'existence de ces biais. Dans les pays dont la population connaît une transition nutritionnelle, on tend à observer une sous-déclaration associée à l'obésité. Les biais doivent être évalués et compris afin que leur impact sur l'évaluation de l'apport alimentaire puisse être estimé.
+
+Dans le débat qui a suivi, le groupe a conclu que les méthodes basées sur l'apport alimentaire individuel ont un fondement beaucoup plus solide que d'autres méthodes évoquées durant la conférence, comme par exemple la méthodologie de la FAO, les enquêtes sur le revenu et les dépenses des ménages et les indicateurs qualitatifs de la faim. Les méthodes basées sur l'apport alimentaire individuel ont été examinées bien plus à fond que d'autres méthodes. De nombreuses études sur la validité et la fiabilité ont été menées, de sorte que la structure de l'erreur est bien connue alors que la validité des autres méthodes reste encore à évaluer. En outre, ces types d'enquêtes sont réalisables. Leurs coûts ne sont pas supérieurs à ceux des enquêtes sur le revenu et les dépenses des ménages actuellement menées dans plusieurs pays en développement.
+
+Après cette discussion sur les questions de validité, le groupe s'est penché sur l'utilité des méthodes liées à l'apport alimentaire individuel pour évaluer la prévalence de la sous-alimentation définie comme carence énergétique ou bien pour mesurer d'autres informations pertinentes concernant la consommation. L'opinion du groupe de discussion a été que les méthodes liées à l'apport alimentaire individuel sont utiles pour évaluer la carence énergétique aiguë, par exemple dans des situations de famine, mais qu'elles manquent de précision pour évaluer la carence énergétique chronique. Des déficits énergétiques quotidiens de faible importance, par exemple de 100 à 200 kcal par personne et par jour, peuvent à long terme conduire à une carence énergétique. De tels déficits ne peuvent pas être détectés par la méthodologie de l'apport alimentaire individuel. Il existe, en outre, une certaine marge d'incertitude en ce qui concerne l'estimation des besoins énergétiques des
+populations car les niveaux d'activité physique ne peuvent pas être évalués de façon précise à l'échelle d'une population. Par conséquent, le bilan énergétique établi à partir des estimations de l'apport alimentaire et des besoins, ne serait pas suffisamment précis ou valide pour servir de base pour l'évaluation de la prévalence de la sous-alimentation.
+
+Le groupe a considéré que l'apport alimentaire individuel était une méthode plus appropriée pour l'évaluation des carences en nutriments et d'autres aspects de l'alimentation qui sont importants au regard de la sous-alimentation et de la santé. Le concept de sous-alimentation en question est plus vaste que celui de la simple carence énergétique. Les autres aspects du régime alimentaire sont notamment:
+* la qualité de l'alimentation;
+* le mode d'alimentation;
+* les apports en aliments individuels et en groupes d'aliments;
+* les apports en macronutriments;
+* la composition des aliments (par exemple le pourcentage d'énergie fournie par les lipides);
+* les apports en micronutriments.
+
+Les participants sont convenus que deux rappels des 24 dernières heures fourniraient la moyenne et la distribution des apports alimentaires et en nutriments dans une population, une fois la variation intra-sujet de l'apport éliminée. Une évaluation de ce type serait utile à l'échelon national, mais également au niveau sous-national, pour l'identification des groupes exposés à des carences alimentaires et pour le ciblage des interventions.
+
+Le groupe a ensuite analysé quelles autres méthodes parmi celles passées en revue durant la conférence, pourraient s'avérer intéressantes pour l'évaluation de la sous-alimentation au sens le plus large. Bien que toutes les méthodes fournissent des informations pertinentes, l'anthropométrie simple (taille et poids) a été indiquée comme la mesure la plus utile et efficace par rapport aux coûts. Le groupe a recommandé que l'anthropométrie soit intégrée non seulement aux enquêtes sur l'apport alimentaire individuel ou sur le revenu et les dépenses des ménages, mais également à toutes les enquêtes économiques ou sanitaires ainsi qu'aux programmes de surveillance. De plus, ces programmes bénéficieraient des renseignements fournis par les mesures anthropométriques. Outre les enquêtes à l'échelon national, l'anthropométrie devrait être intégrée aux programmes de surveillance utilisant des sites sentinelles ou, par exemple, aux programmes du SICIAV à l'échelon des pays.
+
+Le groupe a formulé quelques recommandations pratiques pour des activités de collecte de données peu coûteuses et réalisables à l'échelon des pays, tenant compte des ressources que ces derniers pourraient consacrer à l'évaluation. Si ces ressources sont très limitées, seule l'anthropométrie devrait être mesurée. Avec davantage de ressources à disposition, les pays pourraient choisir d'effectuer un rappel des 24 heures, ou bien un premier rappel au niveau de l'échantillon total puis un second dans un sous-échantillon pour pouvoir estimer et éliminer la variabilité intra-sujet. Si les ressources le permettent, des indicateurs biochimiques pourraient être ajoutés, par exemple, s'il y a lieu, la détermination de l'hémoglobine ou de l'hématocrite et du rétinol sérique.
+
+Certains participants ont estimé que les sources d'information existantes pourraient être utilisées pour évaluer la qualité de l'alimentation et d'autres aspects connexes. Par exemple, les bilans alimentaires pourraient apporter des informations sur la disponibilité de micronutriments à l'échelon national.
+
+Le groupe a conclu tout d'abord que les méthodes liées à l'apport alimentaire individuel n'étaient pas en mesure d'évaluer le déficit énergétique dans les populations d'une façon suffisamment valide et précise. Ensuite, il a affirmé que l'anthropométrie était l'indicateur le plus important et le moins coûteux de la sous-alimentation. Enfin, il est convenu qu'une plus ample définition de la sous-alimentation était plus adéquate que l'évaluation du déficit énergétique en soi, et que cette définition devrait couvrir d'autres nutriments ainsi que la qualité de l'alimentation, au sujet desquels les méthodes basées sur l'apport alimentaire individuel pourraient fournir des informations utiles et valides.
+
+D. Enquêtes anthropométriques
+
+Mesures de l'état nutritionnel à partir des données provenant d'enquêtes anthropométriques
+
+1. Résumé de la communication invitée (Prakash Shetty)
+
+Prakash Shetty
+Chef du Service de la planification, de l'analyse et de l'évaluation nutritionnelles
+Division de l'alimentation et de la nutrition, FAO
+Rome, Italie
+
+La FAO a pour mandat de fournir des chiffres fiables sur l'étendue réelle du problème de la dénutrition afin d'aider les États Membres à surveiller les tendances, déterminer les priorités et évaluer l'efficacité des programmes d'intervention. Il faut, pour ce faire, déceler la dénutrition chez les individus et évaluer la gravité du problème au sein de la communauté. Le présent document évalue l'utilisation des mesures anthropométriques nutritionnelles pour estimer le nombre des personnes sous-alimentées, et souligne les points forts et les points faibles des approches anthropométriques nutritionnelles. Cette étude aborde la question des valeurs de référence et analyse les seuils critiques sur la base de la relation entre les indices anthropométriques nutritionnels et les troubles fonctionnels, la morbidité et/ou d'autres signes des conséquences d'une alimentation inadéquate. L'auteur cherche également à mettre cette approche en relation avec les autres stratégies analysées
+durant la conférence. Il définit les mesures, indices et indicateurs anthropométriques nutritionnels, et analyse les indicateurs généralement utilisés pour le diagnostic de la sous-alimentation tout au long du cycle de vie (c'est-à-dire chez les nourrissons, les enfants, les adolescents, les adultes et les personnes âgées). Il traite également la question de la validité et de la fiabilité de ces indicateurs anthropométriques, et de leur utilisation dans différentes situations sur le terrain et au sein des communautés. Le document met l'accent sur la nécessité d'effectuer des enquêtes représentatives sur des échantillons adéquats afin de contribuer à ce processus, et il souligne le rôle que ces indicateurs nutritionnels peuvent jouer dans l'évaluation de l'impact du processus de développement, de l'effet des interventions nutritionnelles et autres, ainsi que des conséquences de situations défavorables comme les crises alimentaires causées par des conflits, des catastrophes
+naturelles ou des phases de ralentissement économique.
+
+Étant donné les récentes controverses concernant les estimations divergentes des chiffres nationaux et régionaux de la sous-alimentation résultant de la méthode du bilan alimentaire de la FAO et des indicateurs anthropométriques relatifs aux enfants et aux adultes, on se propose d'analyser deux cas spécifiques d'analyse comparative. Le premier est une comparaison des données obtenues selon ces deux approches dans des échantillons représentatifs à l'échelon national, au Brésil. Dans cette étude de cas, les cartes de correspondance et les analyses connexes viennent corroborer la conclusion que les deux approches méthodologiques sont valides et en mesure de fournir des informations complémentaires. Les enquêtes sur la consommation alimentaire sont plus difficiles et coûteuses à effectuer à intervalles réguliers, sur une base représentative à l'échelon national, et elles se heurtent à des obstacles concernant l'obtention de données individuelles à partir de l'information sur les
+ménages. D'autre part, les données anthropométriques ne reflètent pas nécessairement une consommation alimentaire adéquate ou un apport énergétique suffisant en soi, car d'autres facteurs environnementaux, comme par exemple les infections, influent sur l'état nutritionnel. Cette dernière opinion est étayée par des analyses comparatives critiques des données issues de ces deux approches dans plusieurs pays en développement. Ces analyses indiquent un manque de corrélation entre les estimations de la dénutrition chez les enfants et les adultes lorsque l'on compare les données anthropométriques avec des mesures de l'adéquation de la disponibilité énergétique alimentaire. Il semblerait toutefois que bien que reflétant des facteurs déterminants différents, ces deux approches fournissent des informations complémentaires. Si des indicateurs anthropométriques simples, fiables et objectifs étaient utilisés plus largement dans les enquêtes à l'échelon national, la continuité de la
+collecte de données, des projections tendancielles et des prévisions à long terme des besoins alimentaires, pourrait être assurée en se basant sur la relation entre ces deux approches. En outre, les données anthropométriques relatives aux adultes, qui permettraient d'établir des bases de données significatives et représentatives, ne sont pas disponibles actuellement à l'échelon mondial ou régional, contrairement aux données résultant de la méthodologie actuelle et bien établie de la FAO qui, en dépit de ses limites, fournit une source continue de données à l'échelle de la planète.
+
+2. Rapport du groupe de discussion (Gina Kennedy)
+
+Enquêtes anthropométriques
+
+Président: Mercedes de Onis
+Présentateurs: Peter Svedberg et Stephan Klasen
+Rapporteur: Gina Kennedy
+
+Les présentateurs ont ouvert la discussion en indiquant certains des avantages et des points faibles de l'utilisation de l'anthropométrie pour estimer la prévalence de la dénutrition, et en confrontant cette approche avec la méthode de la FAO. L'un des principaux points forts de l'anthropométrie évoqué est qu'il s'agit d'une mesure de résultat qui est donc tout à fait appropriée pour le contrôle et l'évaluation des interventions. L'anthropométrie peut également être utilisée pour le suivi de l'état nutritionnel au niveau de l'individu. Par exemple, dans les programmes de contrôle de la croissance, le poids d'un enfant peut être surveillé dans le temps afin d'identifier les tendances positives, négatives ou stationnaires en termes de gain pondéral. Il peut s'agir d'un outil puissant dans un contexte communautaire, qui a été utilisé dans le cadre de plusieurs programmes communautaires de nutrition. Un autre avantage important de l'anthropométrie est que les mesures sont
+souvent effectuées dans le cadre d'enquêtes plus vastes sur les ménages recueillant des données sur divers aspects touchant le résultat, comme l'état de santé, le revenu des ménages, le taux d'alphabétisation et l'accès à une eau propre. Parmi les points faibles de la méthode, il a été indiqué l'absence d'indicateurs acceptés à l'échelon international pour les enfants de 6 à 18 ans et les données insuffisantes concernant l'indice de masse corporelle (IMC), en particulier pour ce qui est des hommes.
+
+Les deux orateurs ont souligné que la méthode de la FAO et l'anthropométrie ne concordaient pas en termes géographiques. Ainsi, la méthode de la FAO conclut que l'Afrique subsaharienne est la région qui présente le plus grand nombre de personnes sous-alimentées alors que l'Asie méridionale a la plus forte prévalence d'enfants souffrant d'insuffisance pondérale. Une méthode a été proposée pour concilier les preuves contradictoires issues de la comparaison des différents indicateurs entre les pays. Une explication empirique de l'absence de corrélation entre la prévalence de l'insuffisance pondérale et la sous-alimentation, pourrait être apportée par un modèle mettant en facteur le niveau d'activité physique et l'état de santé des populations. Pour appliquer ce modèle, plusieurs facteurs devraient être pris en compte, tels que des variables valides permettant de mesurer le niveau d'activité physique et l'état de santé des populations et leur distribution selon les pays.
+
+Les participants ne se sont pas inquiétés, pour la plupart, du manque de concordance entre les méthodes, étant donné que celles-ci mesurent des choses différentes. L'anthropométrie est un indicateur de résultats qui englobe différents facteurs tels que l'alimentation, l'état de santé et les systèmes généraux de soins, tandis que la mesure de la sous-alimentation est un calcul brut basé sur la disponibilité alimentaire par habitant. Plusieurs participants ont souligné la nécessité de se concentrer sur les tendances plutôt que sur des niveaux ou des nombres absolus. Les tendances à l'échelle des pays sont particulièrement utiles pour déterminer le taux et la pente de progression ou de régression. Les chiffres ont toutefois été perçus comme des outils de sensibilisation puissants susceptibles d'être utilisés à des fins stratégiques. Ils ont également été jugés utiles pour calculer le coût des interventions. Ils permettent, par exemple, de déterminer le coût de la fourniture de
+vaccins pour les populations menacées. Enfin, le groupe a souligné que toute éventuelle réforme des méthodes devrait être à la fois abordable et reproductible. Nombreux ont été ceux qui estiment que les indicateurs ne doivent pas nécessairement être mesurés chaque année.
+
+Le groupe a fait le point de l'utilisation des indicateurs anthropométriques pour les enfants, les adolescents et les adultes. Les participants sont convenus que l'utilisation de l'anthropométrie pour les enfants de moins de cinq ans faisait désormais l'objet d'un consensus international. La disponibilité de ces données peut permettre d'évaluer la vulnérabilité des populations. L'information est toutefois insuffisante et il n'existe pas d'indicateurs acceptés pour l'adolescence. Le principal facteur qui rend difficile la mise au point d'indicateurs appropriés pour cette tranche d'âge est l'effet de la puberté, qui commence à des âges divers et varie en intensité et en durée d'un individu à l'autre. Le groupe a également fait remarquer que, dans la pratique, il est difficile de réussir à contacter les sujets appartenant à cette tranche d'âge à leur domicile et que le défaut d'affinité contribue à compromettre l'avancement vers l'élaboration d'indicateurs valides. Il a été
+souligné que l'utilisation de l'IMC comme indicateur anthropométrique pour les adultes est un fait relativement nouveau comparé aux indicateurs utilisés pour mesurer la croissance des enfants, et que sa mise au point requiert par conséquent plus de temps. S'il est vrai que certains éléments semblent indiquer l'existence d'un lien entre un faible IMC et un accroissement de la morbidité et de la mortalité, une productivité du travail amoindrie et une insuffisance pondérale à la naissance de la progéniture, des études supplémentaires seront nécessaires pour préciser ces corrélations.
+
+Plusieurs recommandations ont été formulées durant les débats quant au rôle futur des indicateurs anthropométriques. Certains ont suggéré que les données anthropométriques soient toujours présentées avec des intervalles de confiance et des informations sur la distribution (moyenne, écart réduit et écart type). Il convient de poursuivre la collecte de données représentatives à l'échelon national sur les enfants par le biais d'enquêtes telles que les enquêtes en grappe à indicateur multiple et les enquêtes démographiques et sanitaires ou autres initiatives nationales connexes, avec des efforts accrus dans les pays où les données sont rares. L'information requise pour calculer les quatre indicateurs (poids, taille, âge et sexe) devrait toujours être recueillie. En ce qui concerne les adolescents, il faudra redoubler d'efforts pour mettre au point des indicateurs adéquats. Pour ce qui est des adultes, les données concernant le poids et la taille nécessaires pour calculer l'IMC
+devraient toujours être recueillies tant pour les hommes que pour les femmes durant les enquêtes. Le groupe estime que la communauté internationale doit trouver une entente sur la question des regroupements appropriés par âge et des seuils critiques de l'IMC, comme cela a été le cas pour les indicateurs anthropométriques pour les enfants.
+
+E. Mesures qualitatives
+
+Mesures qualitatives de l'insécurité alimentaire et de la faim
+
+1. Résumé de la communication invitée (Eileen Kennedy)
+
+Eileen Kennedy
+International Life Sciences Institute
+Washington, DC, États-Unis
+
+Les responsables de l'élaboration des politiques et de l'application des programmes sont de plus en plus à la recherche de techniques simples à utiliser et faciles à analyser leur permettant d'évaluer l'insécurité alimentaire et la faim. Cette étude fait le point des expériences actuelles en matière de mesures qualitatives et analyse les possibilités d'étendre l'utilisation de ces méthodes, en particulier dans les pays en développement.
+
+Encore récemment, les concepts d'insécurité alimentaire et de faim étaient, dans de nombreux pays, associés aux signes cliniques de la malnutrition. Il s'est avéré nécessaire de fournir des indicateurs sensibles de l'insuffisance alimentaire et de la faim qui soient axés sur la pauvreté et ne se limitent pas aux définitions cliniques. Des recherches rigoureuses ont été menées dans les années 90 qui ont conduit à la mise au point d'échelles de mesure de l'insécurité alimentaire et de la faim, sophistiquées sur le plan méthodologique et fondées sur des données empiriques. Un module de sécurité alimentaire a été appliqué en avril 1995, dans le cadre d'un échantillon représentatif à l'échelle nationale de 45 000 ménages américains. Ce module composé de 18 questions permettait de mesurer à la fois la prévalence de la sécurité alimentaire et la gravité de la faim aux États-Unis. La validation de l'échelle de sécurité alimentaire a permis de constater l'existence d'une corrélation
+négative importante entre l'insécurité alimentaire et le revenu et les dépenses alimentaires des ménages. Il existait également une corrélation notable entre l'échelle qualitative de sécurité alimentaire et les mesures plus traditionnelles telles que l'apport énergétique par habitant.
+
+De nombreux pays ont entrepris d'élaborer et d'utiliser des mesures qualitatives de la sécurité alimentaire. Ces mesures ont de solides bases scientifiques et, une fois les méthodes mises au point, elles sont faciles à gérer et à analyser. L'information obtenue grâce à ces méthodes permet également d'établir un concept de la sécurité alimentaire bien compris par les responsables de l'élaboration des politiques. Un atout important est le fait que les mesures qualitatives sont axées sur l'insécurité alimentaire et la faim, telles qu'elles sont perçues par les personnes qui en souffrent le plus. C'est pourquoi beaucoup considèrent que les méthodes qualitatives mesurent l'insécurité alimentaire d'une façon plus directe que d'autres mesures substitutives.
+
+2. Rapport du groupe de discussion (Sean Kennedy)
+
+Mesures qualitatives
+
+Président: Kathy Radimer
+Présentateurs: Helen Jensen et Stephen Devereux
+Rapporteur: Sean Kennedy
+
+Discussion préliminaire
+
+La Présidente et les deux présentateurs ont affiché un optimisme raisonné dont a été empreint le débat général. Ces deux derniers ont souligné les contributions potentielles des mesures qualitatives et la nécessité de poursuivre les recherches et le développement.
+
+D'après... l'examen des études ayant appliqué le module de sécurité alimentaire sur des périodes, des populations et des sous-populations diverses, ainsi que pour des enquêtes spécialement ciblées, le classement similaire des questions et par conséquent l'observation d'un phénomène ou d'un processus commun révèlent que les mesures qualitatives fondées sur des éléments scientifiques constituent un apport potentiellement utile aux méthodes plus courantes d'évaluation de la faim et de l'insécurité alimentaire." (Helen Jensen)
+
+Affiner ces méthodes qualitatives pourrait s'avérer extrêmement intéressant en termes de données complémentaires pour la surveillance de la sécurité alimentaire à l'échelon national et mondial. La question de savoir si ces méthodes peuvent être appliquées à l'échelle nationale à un coût raisonnable et s'il est possible d'établir des indicateurs solides et généralisables permettant la comparabilité entre les pays, reste posée. (Stephen Devereux)
+
+Débat général
+
+Les premières interventions ont fait apparaître des attentes diverses de la part des participants quant à la portée du débat. Il s'agissait essentiellement de savoir si le groupe devait analyser les mesures qualitatives d'une manière générale (notamment l'approche de l'économie des ménages, les classements par groupes, etc.) ou bien se concentrer sur le document principal présenté en séance plénière par Eileen Kennedy. Finalement, la discussion a couvert ces deux éléments, portant à la fois sur la gamme des méthodologies qualitatives disponibles, et sur des points spécifiques concernant le document principal. L'exercice a également fait ressortir le caractère problématique du terme "qualitatif", qui a été revu dans les recommandations ci-après.
+
+Points clés du document principal
+* Validation. Un instrument qualitatif spécifique (le module de la sécurité alimentaire du Département américain de l'agriculture) a fait l'objet d'une expérimentation à grande échelle et s'est avéré robuste dans le contexte des États-Unis. Des instruments similaires sont actuellement testés sur le terrain dans d'autres contextes nationaux, en particulier au Bangladesh^[1], au Burkina Faso^[2], ainsi qu'en Inde et en Ouganda^[3]. Les études de cas concernant ces pays ont été présentées durant les séances parallèles du colloque.
+* Mesure. Ces mesures donnent la dimension réelle de la façon dont les ménages vivent la faim et l'insécurité alimentaire. Ces dimensions expérientielles comprennent notamment les effets émotionnels tels que l'anxiété de ne pas pouvoir satisfaire les besoins fondamentaux du ménage, ainsi que les changements de comportement, comme par exemple le fait de réduire le nombre de repas ou de passer une journée sans manger. Sur le plan pratique, une fois que les mesures ont été mises au point, elles sont relativement faciles à gérer et demandent peu de temps aux personnes interrogées.
+* Utilité. Les résultats obtenus grâce au module de la sécurité alimentaire ont une valeur potentiellement informative à différents niveaux:
++ Au niveau de l'orientation stratégique, ils sont relativement simples à interpréter et à comprendre, ce qui peut être essentiel pour l'analyse décisionnelle et pour avoir un écho chez les responsables de l'élaboration des politiques.
++ Au niveau des programmes ou des projets, ils peuvent être efficaces pour le ciblage des interventions (en particulier pour identifier des populations ou des zones géographiques, bien qu'ils ne soient pas utiles pour l'identification des ménages ou des individus) et pour le suivi de l'évolution de l'insécurité alimentaire et de la faim.
+* Comparabilité. La méthodologie est-elle comparable entre différents pays et cultures?
++ L'expérience dans d'autres pays indique que, d'une manière générale, le module américain ne doit pas être transposé tout simplement à d'autres contextes. Il y a toutefois au moins un cas (Russie) dans lequel le module américain, appliqué avec des adaptations minimes, a néanmoins engendré des résultats intéressants.
++ Une action importante est nécessaire au niveau de la mise au point et des essais préalables pour déterminer les éléments clés dans la plupart des contextes nationaux et sous-nationaux.
++ À mesure que des essais sur le terrain seront effectués dans des contextes de plus en plus divers, des dimensions relativement "universelles" de l'insécurité alimentaire et de la faim pourront ou non prendre corps.
++ Même lorsqu'une échelle est efficace, elle peut et doit être mise à jour périodiquement en fonction de son acceptabilité sociale (par exemple, dans une culture où la coutume veut que les hommes adultes mangent avant les femmes et les enfants, l'acceptabilité sociale de ces attitudes et pratiques peut évoluer avec le temps).
+
+Mesures recommandées
+
+Le débat a conduit à la formulation de deux recommandations quant aux mesures susceptibles de contribuer à l'élaboration et à l'utilisation de méthodologies qualitatives.
+* Préciser la terminologie. Plusieurs orateurs ont signalé que le module de la sécurité alimentaire des États-Unis et les méthodologies équivalentes ne devraient pas être qualifiés de "qualitatifs" lorsque les résultats sont quantifiés d'une manière statistiquement rigoureuse (contrairement aux techniques de recherche qualitative classiques, telles que les groupes de discussion, les interviews d'informateurs clés, l'observation directe, etc.). Bien que les participants ne soient pas tombés d'accord sur une terminologie plus adéquate, plusieurs options ont été proposées, telles que des mesures de l'insécurité alimentaire et de la faim "directes", "basées sur l'expérience" ou "expérientielles".
+* Nécessité d'un centre d'échange d'information. La FAO ou le SICIAV devraient mettre sur pied un centre d'échange d'information concernant l'évolution des "mesures qualitatives" de l'insécurité alimentaire et de la faim, par exemple par le biais d'une page sur le site www.fivims.org où les chercheurs et les praticiens pourraient fournir ou se procurer des informations sur les instruments, les expériences et les résultats des essais menés sur le terrain. Une première activité de ce centre d'échange d'information serait d'activer un dialogue en ligne pour résoudre la question de la terminologie appropriée.
+
+Conclusion
+
+Le groupe de discussion a reconnu le caractère prometteur du module de sécurité alimentaire et des modules similaires adaptés à différents pays ou contextes culturels, ainsi que les aspects positifs de cette méthodologie en termes de validité, pertinence et utilité. Un débat animé a eu lieu sur la perspective d'une éventuelle comparabilité des résultats entre les pays et les cultures, avec un véritable optimisme quant à la possibilité d'un progrès réel dans ce sens. Les participants se sont effectivement accordés pour reconnaître la nécessité de continuer à perfectionner et à tester sur le terrain les instruments en question.
+
+De l'avis général, il est fondamental que les mesures qualitatives et quantitatives soient complémentaires. Les mesures qualitatives sont conçues pour apporter des informations essentielles telles que les dimensions expérientielles de l'insécurité alimentaire et de la faim, et ne sont en aucun cas destinées à remplacer des indicateurs quantitatifs largement acceptés comme les données d'enquêtes anthropométriques, les enquêtes sur les dépenses des ménages, l'évaluation de l'apport alimentaire ou la méthodologie de la FAO.
+
+F. Synthèse des cinq méthodes pour mesurer la faim et la malnutrition
+
+1. Résumé de la communication invitée (John B. Mason)
+
+John B. Mason
+Tulane University
+Nouvelle Orléans, Louisiane, États-Unis
+
+Cinq méthodes différentes sont actuellement utilisées pour mesurer l'ampleur de la faim et de la malnutrition, chacune ayant des applications et des avantages comparatifs différents selon leur utilisation à des fins de sensibilisation, d'analyse et de décision stratégique, ainsi que de recherche. Trois de ces méthodes, à savoir la méthode de la FAO, les enquêtes sur le revenu et les dépenses des ménages et les enquêtes sur l'apport alimentaire, ont pour but d'estimer la consommation d'aliments et d'essayer de mettre ce facteur en relation avec les besoins énergétiques, dont l'activité physique est la composante la plus importante et pourtant la moins mesurable. La quatrième méthode vise à évaluer les perceptions de la faim et la réponse comportementale (méthodes qualitatives), tandis que la cinquième mesure les effets physiques sur la croissance et la maigreur (anthropométrie). Non seulement il n'existe pas de mesure absolue (ou idéale) mais ces méthodes évaluent différents
+aspects de la faim et de ses effets sur la santé, la souffrance, le comportement et l'économie. Il est toutefois raisonnable de tenter une triangulation des tendances en matière de 'faim'; un tel effort s'inscrit dans le cadre de l'obligation concertée à l'échelon international d'accélérer la réduction du nombre des victimes de la faim.
+
+En principe, les points de vue sont les suivants: privilégier une évaluation des tendances basée sur des modèles d'indicateurs pertinents mesurant les différentes dimensions de la faim; estimer les tendances mondiales et régionales à quelques années d'intervalle grâce aux méthodes de la FAO actuellement appliquées, avec des évaluations plus détaillées dans certains pays 'sentinelles' à l'aide d'enquêtes sur les ménages et les individus; mettre au point des méthodes qualitatives dans des contextes locaux et commencer à les utiliser pour d'autres enquêtes; utiliser des études à petite échelle pour les recherches stratégiques et de causalité; et pondérer les allocations de ressources en fonction des résultats à obtenir et des besoins en matière de décision.
+
+Les données nationales permettent de dégager les liens existant entre le revenu, l'apport énergétique alimentaire et l'anthropométrie, qui servent d'orientation pour l'interprétation des tendances. La prévalence de l'insuffisance pondérale chez les enfants varie selon les fourchettes de revenu. Au sein des pays, la corrélation entre la prévalence de l'insuffisance pondérale chez les enfants et le revenu, ne semble pas linéaire. Ceci est logique puisque la malnutrition des enfants est le résultat de plusieurs facteurs interdépendants dont certains doivent être améliorés avant de pouvoir observer un impact sur la croissance des enfants. Entre les différents pays, la variation est plus marquée en fonction de la localisation qu'en fonction du revenu. En Asie méridionale, la croissance des enfants répond beaucoup plus rapidement à une augmentation du revenu ou des disponibilités alimentaires, du fait de la forte incidence d'un faible poids de naissance et des effets
+intergénérationnels associés. Il est possible de dégager des modèles dans les tendances des indicateurs au sein de chaque pays par rapport à l'alimentation, à la santé ou aux facteurs nutritionnels. À cela il faut ajouter la qualité de l'alimentation, tirée des estimations des disponibilités alimentaires, des enquêtes sur les aliments disponibles et sur l'apport alimentaire, ainsi que des mesures cliniques et biochimiques. La lutte contre la faim pour améliorer la santé et la productivité passe nécessairement par un niveau adéquat de micronutriments pour combattre l'anémie et le retard de croissance des enfants, renforcer la résistance aux maladies et apporter d'autres bénéfices.
+
+Les descriptions détaillées des méthodes présentées dans les autres documents principaux montrent clairement que les caractéristiques des différentes méthodes peuvent être complémentaires, bien que des recherches plus approfondies et des investissements plus importants au niveau de l'application soient nécessaires. Non seulement les indicateurs devraient aller dans la même direction, mais aussi les résultats d'une méthode peuvent en valider d'autres (par exemple une insuffisance pondérale et un apport alimentaire insuffisant) compte dûment tenu des concepts et des seuils critiques pertinents. Nous recommandons en particulier de mettre au point des méthodes qualitatives du comportement fondées sur celles appliquées pour évaluer la faim dans les pays industrialisés, de recourir plus largement aux enquêtes sur le revenu et les dépenses des ménages (certaines questions peuvent permettre de calculer l'énergie alimentaire), ainsi que d'utiliser les enquêtes sur l'apport
+alimentaire pour établir des données chronologiques. Il conviendrait également d'analyser les données des bilans alimentaires établis par la FAO pour déterminer la qualité de l'alimentation et les disponibilités de micronutriments.
+
+L'application durable de ces approches peut conduire à des évaluations valides et compréhensibles des progrès accomplis dans le combat contre la faim, ce qui serait déterminant en termes de sensibilisation et important pour la compréhension des résultats positifs de certaines stratégies et la définition de nouvelles initiatives. Ceci devrait se traduire par une diminution du nombre des victimes de la faim.
+
+2. Rapport du commentateur (Siddiqur R. Osmani)
+
+Synthèse des cinq méthodes pour mesurer la faim et la malnutrition
+
+Président: Haluk Kasnakoglu
+Commentateur: Siddiqur R. Osmani, University of Ulster, Royaume-Uni
+
+L'exposé de John Mason présente une excellente synthèse des cinq différentes méthodes utilisées pour l'évaluation de la faim et de la malnutrition. En outre, cette étude fait ressortir un certain nombre de points très importants. Je voudrais tout particulièrement appeler l'attention sur les trois éléments suivants:
+* Les différentes méthodes d'évaluation étudiées à l'occasion de cette conférence ne doivent pas être considérées comme concurrentes mais plutôt comme des approches complémentaires permettant de saisir divers aspects d'un concept multidimensionnel. Cette thèse doit, certes, être affinée mais n'en est pas moins certainement valide dans son essence.
+* Il convient d'évaluer les tendances plutôt que de mesurer les niveaux. Une telle approche est certainement judicieuse considérant la marge d'erreur inhérente à l'estimation empirique de différents paramètres utilisés pour l'évaluation. Dans la mesure où une même méthodologie est utilisée de façon constante pour la réalisation d'estimations successives, l'évaluation des tendances sera plus fiable que celle des niveaux, le facteur tendanciel étant, en définitive, celui qui est le plus important pour l'élaboration de stratégies.
+* L'évaluation doit également être étendue aux tendances concernant l'apport en micronutriments et, dans une moindre mesure, l'apport protéique, outre qu'aux mesures habituelles de l'énergie alimentaire. Une telle proposition mérite d'être prise en compte considérant nos connaissances encore embryonnaires concernant l'importance cruciale des micronutriments pour le développement physique et mental.
+
+L'étude pose une question fondamentale, parmi celles qui s'appliquent à toutes les méthodes, à savoir: Que mesurent-elles? Selon le document, elles mesurent les différents aspects de la faim. Mais quelle est la définition pratique de la faim? En d'autres termes, quelle définition peut mener à une mesure utile de la prévalence de la faim? L'étude cite en l'approuvant la définition donnée dans la sixième Enquête mondiale sur l'alimentation: "nombre de personnes qui ne reçoivent pas suffisamment d'énergie alimentaire, en moyenne sur un an, pour maintenir à la fois une activité productive et leur poids corporel".
+
+Assimiler la faim à un niveau inadéquat d'énergie relève du bon sens car il est évident que la sensation physique de la faim est en rapport direct avec un apport énergétique alimentaire insuffisant. Étant donné la nécessité urgente et primordiale pour tout être humain d'échapper aux affres de la faim, il est certainement raisonnable d'essayer de quantifier la prévalence d'un apport énergétique inadéquat pour pouvoir prendre des mesures. J'éprouve cependant quelques difficultés à accepter la proposition selon laquelle l'objectif sous-jacent commun des cinq méthodes analysées durant la conférence serait de mesurer les différents aspects de la faim telle qu'elle a été définie ci-dessus. Tel est certainement l'objectif de la méthode de la FAO. L'enquête sur le revenu et les dépenses des ménages ainsi que l'enquête sur l'apport alimentaire sont également des méthodes souvent appliquées pour mesurer l'adéquation de l'énergie alimentaire, mais les deux autres méthodes ont un champ
+d'application beaucoup plus vaste.
+
+La méthode qualitative permet de mesurer la façon dont les sujets perçoivent la pénurie alimentaire en général, concept dont le niveau inadéquat d'énergie n'est qu'un élément, bien que très important. En effet, si cette méthode révèle l'existence d'une pénurie alimentaire telle qu'elle est perçue par les individus, cette privation n'est pas nécessairement liée pour autant à l'énergie alimentaire, ni au niveau de la perception ni en termes de réalité objective. Toute évaluation qualitative de la perception de la pénurie alimentaire par un individu est influencée par la position relative du sujet au sein de la société. Même si l'apport énergétique est adéquat et que les individus ne sont pas affamés, ils peuvent néanmoins avoir le sentiment profond d'être victimes d'une privation si leur nourriture est très inférieure en qualité et en quantité au niveau moyen dans la société dans laquelle ils vivent. L'objet de l'évaluation effectuée par cette méthode reste très important,
+mais il n'est pas nécessairement en rapport avec tout aspect de la faim au sens d'apport énergétique inadéquat.
+
+L'anthropométrie a également un champ d'application plus vaste mais d'une manière différente. L'objet de son étude va non seulement bien au-delà de l'apport énergétique alimentaire, couvrant d'autres éléments de l'alimentation tels que les protéines et les micronutriments, mais il dépasse également la pénurie alimentaire en soi pour s'étendre à la santé, à l'hygiène et aux soins de santé. Comme le montrent les expériences nationales analysées dans l'étude de Mason, les tendances au niveau de l'anthropométrie peuvent s'éloigner systématiquement de celles qui concernent l'apport énergétique. Ceci est tout à fait possible puisque l'anthropométrie peut varier indépendamment de l'apport énergétique sous l'influence d'éléments non énergétiques de l'alimentation et de facteurs non alimentaires. Affirmer que ces cinq méthodes s'efforcent de mesurer différents aspects de la faim pourrait donc induire en erreur. Elles présentent certes un élément commun, mais cet élément n'est pas, à
+mon sens, la faim mais plutôt la notion de pénurie alimentaire qui est un concept beaucoup plus vaste que celui d'apport énergétique inadéquat. On peut affirmer sans crainte d'être contredit, que ces cinq méthodes se rapportent toutes, d'une façon ou d'une autre, au concept de pénurie alimentaire.
+
+Mais il faut aller plus loin. De quelle manière ces méthodes se rapportent-elles au concept de pénurie alimentaire? Peut-on affirmer, comme le prétend le professeur Mason dans son étude, que les cinq méthodes mesurent différents aspects de la pénurie alimentaire? Je crois que oui, mais nous devons être très prudents dans notre interprétation, surtout lorsqu'il s'agit de l'utilisation de l'anthropométrie.
+
+La méthode de la FAO tente sans aucun doute de mesurer un aspect de la pénurie alimentaire, à savoir l'inadéquation de l'apport énergétique alimentaire. Il en va de même pour les méthodes basées sur les enquêtes sur le revenu et les dépenses des ménages, et sur l'apport alimentaire, qui toutes deux peuvent être utilisées pour mesurer le caractère inadéquat de l'apport énergétique alimentaire ou des micronutriments résultant de l'alimentation. On peut également affirmer que la méthode qualitative mesure un aspect de la pénurie alimentaire puisqu'elle montre la façon dont les sujets perçoivent leur consommation globale d'aliments, soit en termes absolus, soit par rapport au reste de la société.
+
+Ce n'est pas tout à fait le cas de l'anthropométrie. Celle-ci cherche à mesurer la prévalence de la malnutrition définie comme la dégradation des fonctions physiques et cognitives résultant d'une alimentation inadéquate des cellules qui constituent le corps humain. Il est vrai que la nutrition des cellules dépend essentiellement de l'alimentation, car elles doivent tirer leur nourriture des aliments introduits dans le corps. Dans ce sens, on peut dire que l'anthropométrie mesure un aspect de la pénurie alimentaire. Il y a toutefois une différence qualitative à cet égard entre l'anthropométrie et les quatre autres méthodes. Cette différence se situe dans le niveau de la pénurie alimentaire que les différentes méthodes considèrent. Les quatre autres méthodes mesurent la pénurie au niveau de l'apport d'aliments, c'est-à-dire au niveau auquel les aliments sont introduits dans le corps, tandis que l'anthropométrie mesure la pénurie alimentaire au niveau cellulaire, c'est-à-dire
+au niveau auquel les aliments sont réellement utilisés ou absorbés par le corps. Même s'il n'y pas de pénurie alimentaire au niveau de l'absorption, il peut y avoir une au niveau cellulaire. Par exemple, une personne en mauvaise santé peut ne pas être capable d'assimiler l'aliment ingéré. Dans ce cas, il y aura une pénurie alimentaire au niveau cellulaire, susceptible de conduire à la malnutrition. Cet aspect peut être saisi par l'anthropométrie même en l'absence de pénurie alimentaire au niveau de l'apport. C'est en raison de cette différence que j'hésite à situer l'anthropométrie dans la même catégorie que les quatre autres méthodes et à affirmer que les cinq méthodes mesurent différents aspects de la pénurie alimentaire. Lorsqu'un groupe de mesures évalue différents aspects d'un même concept, ces mesures doivent pouvoir donner, conjointement, un panorama complet de ce concept. Or, les cinq méthodes prises en bloc ne donnent pas une image complète de la pénurie alimentaire
+que ce soit au niveau de l'apport ou de l'utilisation, c'est-à-dire au niveau cellulaire. Elles ne donnent pas une image complète de la pénurie alimentaire au niveau de l'apport, parce que dans un cas particulier, l'anthropométrie peut révéler l'existence d'une carence sans aucun rapport avec une inadéquation au niveau de l'apport. Elles ne donnent pas non plus une image complète de la pénurie alimentaire au niveau cellulaire parce qu'à ce niveau celle-ci peut être le résultat de divers facteurs non alimentaires qui ne sont pas mesurés par les quatre autres méthodes. Pour comprendre ce phénomène, nous avons besoin d'informations concernant l'hygiène, les soins de santé et les soins personnels.
+
+C'est pourquoi, bien que reconnaissant volontiers que les cinq méthodes se rapportent toutes, d'une façon ou d'une autre, à la pénurie alimentaire, je préfère réserver à l'anthropométrie une place à part, et considérer que seules les quatre autres méthodes cherchent à mesurer différents aspects d'une telle privation. Ces quatre méthodes constituent un groupe homogène du fait qu'elles mesurent toutes la pénurie alimentaire au niveau de l'apport, ce qui est la connotation habituelle du concept de pénurie alimentaire. J'ajouterais que chercher à distinguer l'anthropométrie des quatre autres méthodes ne relève pas de l'ergotage conceptuel. Au contraire, cette différenciation s'impose pour des raisons de clarté au stade de l'élaboration de stratégies. Si l'une des quatre autres méthodes indique l'existence d'une pénurie alimentaire, la conséquence au niveau de l'action sera d'améliorer le droit à la nourriture des individus concernés, en termes de quantité ou de qualité, ou les
+deux. En revanche, si l'anthropométrie révèle un état de pénurie alimentaire, l'amélioration du droit à la nourriture ne sera pas nécessairement la conséquence logique au plan de l'action. Selon les circonstances, les décideurs pourront centrer leurs efforts sur la santé et les soins, outre ou même plutôt que sur le droit à la nourriture.
+
+Cela ne signifie pas que l'anthropométrie n'ait aucun rôle à jouer lorsque la préoccupation immédiate concerne le droit à la nourriture, c'est-à-dire la pénurie alimentaire au niveau de l'apport. Mason suggère, dans son étude, que le rôle de l'anthropométrie est justement celui de fournir une estimation de la borne supérieure de la prévalence de la faim. Je ne suis pas convaincu, néanmoins, que ce soit là un rôle valide. L'idée sous-jacente de la proposition de Mason est que, si la faim est le résultat d'un apport alimentaire insuffisant, le déficit anthropométrique est dû, quant à lui, au caractère inadéquat de facteurs à la fois alimentaires et non alimentaires. Par conséquent, on pourrait en déduire que le nombre de personnes souffrant de la faim tel qu'il est évalué, par exemple, par la méthode de la FAO, ne peut logiquement être supérieur au nombre de celles qui présentent un déficit anthropométrique. Mais le problème est que ce raisonnement ne tient pas compte du rôle
+potentiel de l'activité physique en scindant les deux mesures. La faim, mesurée en termes d'apport énergétique inadéquat, est basée sur la notion de besoins en énergie qui repose à son tour sur des hypothèses quant au niveau d'activité physique recommandé pour les sujets concernés. Si le niveau théorique d'activité physique est assez proche du niveau d'activité réel, le nombre de personnes victimes de la faim ne devrait donc pas être supérieur au nombre de celles qui présentent des déficits anthropométriques. Nul n'ignore, toutefois, qu'en cas de pénurie alimentaire, les individus, et en particulier les enfants, réduisent souvent leur activité physique en deçà des niveaux souhaitables, de manière à conserver l'énergie. L'énergie ainsi ménagée peut contribuer au maintien de leur croissance physique, de sorte que ces sujets pourront ne pas présenter de déficit anthropométrique, mais n'en souffriront pas moins d'un apport alimentaire inadéquat. Dans ce cas, la prévalence de la
+faim pourrait donc être supérieure à la prévalence des déficits anthropométriques, même en l'absence d'erreurs de mesure. L'allégation de la borne supérieure ne serait dès lors pas valable.
+
+Malgré la question de la borne supérieure, je dirais que l'anthropométrie peut jouer un rôle utile dans l'analyse du droit à la nourriture, et ce d'une manière différente, en indiquant une éventuelle pénurie alimentaire au niveau de l'apport. Par exemple, si les mesures anthropométriques révèlent une absence de progrès ou même une détérioration dans le temps, tandis que par ailleurs il s'avère que les soins de santé et l'hygiène de l'environnement se sont améliorés, il est alors très probable que la pénurie alimentaire au niveau de l'apport se soit aggravée. Bien que l'anthropométrie soit essentiellement une mesure de la pénurie alimentaire au niveau cellulaire, elle peut également apporter des renseignements précieux sur la pénurie au niveau de l'apport, si elle est utilisée de façon judicieuse en association avec d'autres informations, par exemple sur la santé et l'hygiène, qui ont une incidence sur l'anthropométrie.
+
+On peut donc affirmer que ces cinq méthodes, y compris l'anthropométrie, peuvent être utilisées de façon complémentaire pour l'analyse de la pénurie alimentaire. Néanmoins, la nature de cette complémentarité est beaucoup plus subtile que l'affirmation selon laquelle ces mesures évaluent différents aspects de la pénurie alimentaire, ne le fait apparaître.
+
+
+^[1] P. Webb, J. Coates, R. Houser. Challenges in Defining "Direct Measures" of Hunger and Food Insecurity for Bangladesh: Preliminary Findings from Ongoing Fieldwork. Document d'appui. Colloque scientifique international sur la mesure et l'évaluation des pénuries alimentaires et de la dénutrition. FAO. Rome 26-28, juin 2002.
+^[2] E. Frongillo, S. Nanama. Development and Validation of a Questionnaire-Based Tool to Measure Rural Household Food Insecurity in Burkina Faso. Document d'appui. Colloque scientifique international sur la mesure et l'évaluation des pénuries alimentaires et de la dénutrition. FAO. Rome, 26-28 juin 2002.
+^[3] M. Nord, A.K. Sapathy, N. Raj, P. Webb, R. Houser. Comparing Household Survey-Based Measures of Food Insecurity Across Countries: Case Studies in India, Uganda, and Bangladesh. Document d'appui. Colloque international sur la mesure et l'évaluation des pénuries alimentaires et de la dénutrition. FAO. Rome, 26-28 juin 2002.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+SECTION III - POINT DE VUE DES UTILISATEURS
+
+Panel 1: Groupe d'experts 1: Utilisateurs nationaux - Résumé des débats (Jacques Vercueil)
+
+Président:
+
+Stanley R. Johnson
+
+Intervenants:
+
+John Owour, Kenya
+
+Shyam S. Dubey, Inde
+
+Luis Fajardo, Colombie
+
+Rita Bhatia et Annalisa Conte, PAM
+
+Flora Sibanda-Mulder, UNICEF
+
+Rapporteur:
+
+Jacques Vercueil
+
+Le premier élément qui est très clairement ressorti du débat est que l'insécurité alimentaire est un concept complexe dans sa manifestation et ses causes, et qu'il est donc vain d'essayer de déterminer la mesure la plus applicable. Aucun indicateur ou mesure ne peut, ni ne devrait avoir la prétention d'embrasser l'insécurité alimentaire qui, comme cela nous a par ailleurs été rappelé, présente de multiples facettes. Elle touche en effet aussi bien la disponibilité alimentaire que l'accès aux aliments et la consommation, l'état nutritionnel qui en résulte et les conditions de vie, dont la pauvreté sous ses divers aspects. Pour être utile, l'information sur l'insécurité alimentaire doit porter sur chacun de ces éléments. À la suggestion faite d'envisager un indice agrégatif, il a été répondu qu'un tel indice pourrait ne pas révéler la totalité des aspects pertinents, sans oublier le coût que comporte la collecte des informations de base nécessaires pour son élaboration. Il
+nous a cependant été conseillé d'essayer d'avancer dans cette direction et de simplifier ce qui peut l'être.
+
+Nous avons entendu à plusieurs reprises que bien qu'une attention particulière ait été accordée au concept de "trop peu" ou de carence énergétique due à une pénurie alimentaire, les autres aspects de la malnutrition, qui vont de la carence en macronutriments et de l'anémie à la surcharge pondérale et à l'obésité, constituent des problèmes de santé publique qui relèvent du phénomène de l'insécurité alimentaire, et devraient par conséquent faire l'objet d'une attention soutenue en termes d'information et d'action.
+
+Un autre sujet de discussion a été les différentes méthodes d'évaluation et les divers types d'information qu'elles permettent d'obtenir quant à l'insécurité alimentaire. L'anthropométrie a été indiquée comme une source fondamentale d'information dans tous les exemples et les cas mentionnés. Elle peut en effet être appliquée à tous les niveaux géographiques, révéler les tendances dans le temps et fournir des informations sur différents groupes, familles ou individus. Il a cependant été observé qu'une grande partie de l'information anthropométrique reste axée sur l'enfance, et que très peu de données anthropométriques sont disponibles pour l'âge adulte alors qu'il serait très important de pouvoir en disposer. Il a également été montré que la comparaison entre l'anthropométrie adulte et infantile dans une même population, bien que fournissant des signaux divergents, peut donner des éclaircissements précieux concernant la façon dont certains événements se produisent. Il a en
+outre été remarqué qu'en ce qui concerne l'anthropométrie nutritionnelle des adolescents, il reste encore des problèmes d'ordre méthodologique à résoudre.
+
+Une autre source d'information examinée est celle que constituent les divers types d'enquêtes sur les ménages, telles que les enquêtes sur les dépenses et celles sur les conditions de vie, comme dans l'exemple de l'Inde. Alors que l'anthropométrie présente des résultats sans en expliquer la causalité, l'information sur les ménages est essentielle pour aider à comprendre les causes et les mécanismes en jeu, et par conséquent pour conduire à des actions appropriées.
+
+Les enquêtes qualitatives ou d'auto-évaluation, pour être plus précis, qui révèlent la façon dont les individus perçoivent leur situation de pénurie alimentaire, ont également été évoquées. Le terme "auto-évaluation" est préféré à celui d'"auto-déclaration" car les enquêtes comportent presque toutes un certain degré d'auto-déclaration. Cette méthode est très utile notamment parce qu'elle reflète ce qui compte vraiment, c'est-à-dire la façon dont les sujets perçoivent la faim et dans quelle mesure ils souffrent ou non de la situation dans laquelle ils se trouvent, permettant ainsi une analyse plus approfondie qu'à partir d'autres méthodes. En raison de sa subjectivité et du risque que les personnes interrogées puissent tenter de manipuler leurs réponses, à première vue cette information pourrait sembler peu fiable, mais nous avons pu constater que lorsqu'elle est correctement élaborée et validée, l'auto-évaluation peut fournir une information solide et produire des résultats
+plus utiles qu'un simple recueil d'opinions: elle peut devenir une source de données scientifiques et vérifiables.
+
+Des opinions divergentes ont été exprimées quant à la façon dont toutes ces méthodes pouvaient être associées. Certains ont affirmé que des mesures anthropométriques pourraient être incorporées aux enquêtes sur les ménages à un faible coût, ou qu'une information qualitative pourrait être incluse dans les questionnaires traditionnels. Selon d'autres, toutefois, l'intégration de l'anthropométrie dans d'autres enquêtes impliquerait une hausse considérable des coûts. Malgré l'absence d'un consensus concernant la manière d'associer les méthodes, l'utilité de ces sources complémentaires d'information est toutefois apparue clairement.
+
+Mentionnons au passage que la cartographie de l'information a été considérée comme particulièrement utile. Nous avons souvent pu constater que l'information a besoin d'être connue à différents niveaux et que les tendances revêtent, tout autant que les chiffres, une importance cruciale. En réalité, il est même possible que les tendances soient plus fiables que les chiffres, bien que ces derniers restent indispensables à de nombreuses fins.
+
+Un troisième grand sujet de discussion a été celui de la collecte d'informations qui doit être liée à, et justifiée par, l'utilisation qui en est faite. De nombreux exemples ont montré quel type d'information était utilisé pour tel ou tel programme ou action, par exemple pour déterminer l'accès aux magasins à prix équitables ou à des programmes de prix subventionnés ciblés. Nous avons également pu voir, grâce aux exemples concrets fournis par l'UNICEF, comment l'information sur l'insécurité alimentaire peut être utilisée pour la mise au point de mesures correctives. Ce concept devient important lorsque l'on considère le coût (pour l'enquêteur) et le fardeau (pour la personne interrogée) de l'information. Quand l'information conduit à des mesures et à des politiques, il est alors nécessaire de l'obtenir même si cela comporte un coût. Dans de nombreux cas, les bienfaits de l'information en compenseront les coûts lorsque sa collecte sera justifiée par l'existence d'un lien
+clair avec des mesures, des politiques ou des programmes requérant des informations valides et fiables. Un autre aspect de l'utilisation de l'information est la sensibilisation. L'information à cette fin peut être d'une nature différente de celle envisagée jusqu'à présent, mais la sensibilisation est une fonction nécessaire et doit par conséquent être considérée comme l'une des différentes utilisations de l'information.
+
+Une grande partie des observations faites concerne des problèmes, situations, actions et programmes à l'échelon sous-national. Au niveau national, nous disposons entre autres de l'évaluation de la FAO, c'est-à-dire de l'estimation du nombre de personnes sous-alimentées. Nous avons vu que l'utilité de ce type d'information varie d'un pays à l'autre. Nous avons constaté que pour l'Inde, ce type d'évaluation générale ne présente pas un grand intérêt car la disponibilité alimentaire globale est assurée et ne pose plus de problèmes. C'est également le cas de la Colombie, alors que la situation pour le Kenya et le Mali était différente. Dès lors, il est clair que l'évaluation du nombre de personnes sous-alimentées telle qu'elle est effectuée par la FAO, est considérée comme suffisamment valide dans certains pays, éloignée de la réalité pour d'autres, et douteuse dans d'autres cas. Lorsque la FAO a commencé à publier ses estimations concernant le nombre de personnes sous-alimentées
+à l'échelon national, ce fut principalement dans le but de déclencher un processus d'amélioration des estimations, comme pour dire: voici les estimations à l'échelon national que nous avons pu obtenir, en appliquant la méthode de la FAO, à partir des informations que vous nous avez vous-mêmes fournies. Certains pays auraient trouvé l'évaluation valide dans leur cas, tandis que d'autres l'auraient mise en doute et auraient alors cherché à fournir de meilleures données pour une évaluation plus précise.
+
+Un autre aspect du débat, qui apparaît clairement dans l'exemple du Kenya, mais aussi dans d'autres cas, est la grande complexité existant au niveau des systèmes d'information et des informations de tous types produites et utilisées aux échelons national et sous-national, ainsi qu'en relation avec la communauté internationale. Cette complexité pourrait se traduire par des demandes d'information excessives, comportant un coût et un fardeau trop lourds pour la population, sans que l'utilisation de cette information ne donne pour autant des résultats optimums. Il est assez intéressant de noter, comme par exemple dans le cas du Kenya, que dans la Zone d'alerte rapide des pays pauvres en ressources, des résultats très positifs ont été obtenus grâce à la coordination de l'information entre les divers partenaires dans le but précis de favoriser des mesures efficaces et particulièrement urgentes. L'étape suivante serait de promouvoir cette approche pour parvenir au même résultat
+dans d'autres régions, mieux dotées en ressources naturelles mais présentant une situation plus complexe en termes d'information. Cela montre qu'aucun cas n'est désespéré et qu'une amélioration est toujours possible, malgré la difficulté du processus.
+
+À cet égard, nous avons également entendu à plusieurs reprises que les organisations internationales ne sont pas considérées comme d'une grande utilité pour la résolution du problème de la complexité. Votre message était très clair quant au fait que les organisations internationales devraient, par tous les moyens possibles, aider les pays et les gouvernements à adopter une approche de l'information plus simple et plus efficace. Dans cet ordre d'idées, il a été signalé que le Système d'information et de cartographie sur l'insécurité alimentaire et la vulnérabilité (SICIAV) n'a pas pour but d'apporter des informations supplémentaires ou de créer de nouvelles demandes, mais plutôt d'aider les pays à mieux utiliser l'information dont ils disposent, à éliminer les répétitions ou à combler les lacunes existantes. Le système SICIAV a toutefois essentiellement pour objectif de réunir les institutions qui produisent et utilisent des informations concernant la sécurité alimentaire
+afin de les aider à en faire un meilleur usage.
+
+Comme nous l'avons vu, il existe plusieurs méthodes pour étudier la sécurité alimentaire, chacune mesurant une variable différente. Il est donc nécessaire dans certains cas d'utiliser deux ou trois méthodes de façon concomitante pour une même population, afin de distinguer quel type d'information est fourni par chaque méthode et dans quelle mesure les diverses méthodes peuvent apporter un éclairage différent sur une même situation. Il est également possible d'évaluer si les hypothèses a priori portant sur une information convergente ou divergente sont confirmées, fournissant ainsi des informations sur la situation en question et sur l'utilisation des méthodes elles-mêmes. Le cas du Mali a montré que les résultats découlant de l'utilisation de différentes méthodes appliquées à une situation particulière ne concordent pas nécessairement. Il est indispensable de multiplier résolument les réunions de ce type qui permettent de mieux connaître le fonctionnement des diverses
+méthodes; elles permettent également aux spécialistes d'une méthode de comprendre comment leur approche se situe par rapport aux autres.
+
+Cette question de la relation entre les différentes méthodes est liée à un dernier point soulevé par nos collègues à plusieurs reprises, celui de la fréquence avec laquelle l'information devrait être recueillie et présentée. Il s'agit bien évidemment d'un élément important susceptible de donner lieu à des économies ou à un gaspillage considérables, car bien souvent il n'est pas nécessaire que l'information ait une telle fréquence. C'est ainsi qu'a été évoqué le cas des enquêtes sur l'apport alimentaire, qui sont difficiles et coûteuses, mais fournissent une information unique: elles ne doivent pas nécessairement être réalisées de façon fréquente. Elles peuvent être très utiles lorsqu'elles sont effectuées à plusieurs années d'intervalle, pour aider à calibrer et consolider l'information obtenue à partir d'observations moins précises et moins directes. Un dernier message a été qu'il serait tout à fait utile d'étudier certains cas représentatifs d'application concomitante de
+différentes méthodes pour déterminer la contribution fournie par chacune d'elles et la façon dont elles se complètent, et pour réaliser ainsi à l'avenir de précieuses économies en termes de coûts, tout en y gagnant en compréhension et en efficacité.
+
+Panel 2: Groupe d'experts 2: Utilisateurs internationaux - Résumé des débats (Jacques Vercueil)
+
+Président:
+
+Stanley R. Johnson
+
+Intervenants:
+
+David Wilcock, Coordonnateur du SICIAV, Département économique et social de la FAO
+
+Suleka Patel, Banque mondiale
+
+Tim Harris, Département pour le développement international, Royaume-Uni
+
+Altrena Mukuria et Thomas Marchione,
+
+Agence américaine pour le développement international
+
+Rapporteur:
+
+Jacques Vercueil
+
+Le premier grand résultat du débat de cet après-midi est la constatation de l'importance acquise par les Objectifs de développement pour le Millénaire (ODM). Après leur présentation par M. Wilcock, les organisations internationales et les pays donateurs ont tous indiqué qu'ils utilisent les ODM comme principes directeurs en matière d'objectifs et de cibles à tous les niveaux. Nous pouvons en conclure que l'objectif des ODM semble parfaitement atteint, puisqu'ils servent désormais de point de référence pour l'aide internationale au développement, et que la pauvreté et l'éradication de la faim figurent parmi leurs objectifs prioritaires. Une autre remarque concernant les ODM est qu'ils englobent manifestement tous les éléments considérés par tous comme essentiels pour bien comprendre l'insécurité alimentaire, et qui vont de l'absence de revenu à l'éducation et à la santé sous leurs divers aspects, et bien sûr à la faim et à la malnutrition. Nous avons également observé que ces
+Objectifs ont contribué à donner l'impulsion voulue pour rassembler et enrichir l'information.
+
+Permettez-moi de m'arrêter un instant sur une observation selon laquelle bien que la réduction de la faim fasse partie à la fois des ODM et des objectifs du SMA, l'expression de ces deux cibles conduit à des objectifs très différents. En fait, il existe une différence quantitative considérable entre les deux - entre les proportions et les chiffres. Les cibles des ODM et du SMA diffèrent de quelques centaines de millions de personnes, ou de quelques décennies, et il convient, dès lors, de se pencher sur ces différences.
+
+Passant d'un contexte national à une perspective internationale, qui est le thème de cet après-midi, permettez-moi de faire quelques remarques concernant les besoins des pays en matière de données par opposition à ceux de la communauté internationale. Les données ne sont pas recueillies dans le but d'alimenter une base de données mondiale ou pour suivre un objectif de portée mondiale. La collecte d'information est toujours orientée vers la résolution des problèmes particuliers d'un pays. Il existe cependant une exigence de comparabilité, de normalisation et d'harmonisation des données (cette nécessité a été soulignée à plusieurs reprises). Ce besoin crée un conflit à l'échelon national entre ce qui s'est toujours fait et ce qu'il est maintenant demandé aux pays de générer et de produire. Cependant, plutôt que de demander aux pays de produire des informations dont ils n'ont pas besoin, il s'agit souvent tout simplement de déterminer la méthode particulière qu'ils devraient
+utiliser pour recueillir les données. Cette démarche n'est pas dépourvue de logique car si nous recueillons des informations relatives à un même problème de différentes façons et en différents endroits, au sein d'un seul ou de plusieurs pays, il se peut qu'au bout du compte l'information ne soit pas utilisée de la façon la plus efficace.
+
+La seconde observation importante est que bien que s'agissant d'une séance consacrée à la "perspective internationale", nous nous sommes vite rendus compte que les objectifs mondiaux ont moins d'importance que ce qui se passe au niveau des pays. Si au plan international l'information est utile à des fins de sensibilisation, de contrôle ou pour l'attribution de ressources, la perspective nationale est néanmoins primordiale; c'est là qu'une action concrète peut être menée. Deux conclusions ressortent de cette observation: l'information doit être réclamée par les pays, et il est essentiel de renforcer les capacités nationales de production et d'utilisation de l'information. Je tiens à souligner ce qui a été dit par les membres du groupe au sujet du renforcement des capacités, car il arrive souvent que ce maillon si crucial fasse défaut. Il n'est pas facile de créer la capacité nécessaire pour produire et utiliser l'information, mais il s'agit d'un élément décisif pour modifier
+la demande et, partant, la qualité de l'information produite - moins en termes de quantité que d'utilité - qui permettra d'améliorer les politiques et les actions.
+
+Ce débat nous a ramenés à la pertinence des SICIAV nationaux - aux efforts déployés pour rationaliser et utiliser les systèmes d'information d'une manière optimale. J'ai noté un élément nouveau à cet égard, concernant les Documents de stratégie de réduction de la pauvreté et le rôle important qu'ils jouent en rattachant l'information à l'action à l'échelon national, et qu'il convient de prendre en compte dans l'effort de rationalisation mis en &#156;uvre pour apporter une aide plus efficace aux responsables de l'élaboration des politiques.
+
+L'anthropométrie a été indiquée à plusieurs reprises comme une information de base, et d'une manière plus générale, l'information en matière de nutrition a été considérée comme essentielle. La nutrition est en effet importante non seulement en tant qu'élément de la pauvreté mais également en soi, car les progrès réalisés sur le plan nutritionnel ont un impact positif direct à la fois sur le bien-être des personnes et sur la capacité économique aux échelons micro et macro, la faim et la pauvreté s'alimentant mutuellement.
+
+Il n'est probablement pas possible de mesurer la vulnérabilité en tant qu'élément distinct, à l'aide des méthodes que nous utilisons actuellement. Il semble qu'un travail considérable soit encore nécessaire dans ce domaine, et l'on pourrait même parler de "travaux en cours".
+
+L'accent a été mis, à plusieurs reprises, sur la nécessité de justifier les indicateurs d'information par leur utilisation pour la prise de décisions stratégiques et la préparation des mesures à prendre, d'où la suggestion faite ce matin par notre Président, de penser en termes de matrice. Les en-têtes de colonne de la matrice montreraient qui fait quoi, celles des lignes indiqueraient le niveau auquel l'action est engagée, tandis que les besoins d'information seraient spécifiés à l'intersection des lignes et des colonnes. Je trouve intéressant que lors d'une réunion qualifiée de colloque scientifique, où l'on aurait pu s'attendre à entendre surtout parler des aspects techniques de la nutrition, de l'économie sociale et des enquêtes, les conclusions les plus saillantes aient souligné l'importance de veiller à ce que l'information soit utilisée à des fins pratiques.
+
+On nous a rappelé qu'il était important d'utiliser une terminologie appropriée et de ne pas employer sans discernement des termes tels que faim, sous-alimentation ou dénutrition, carence énergétique alimentaire, etc. Cela étant acquis, il faut néanmoins reconnaître que lorsque l'on passe du domaine technique à celui des responsables politiques et de l'opinion publique, il est difficile de s'en tenir à une terminologie stricte et, encore plus, d'éviter l'utilisation d'une terminologie grand public. Le cas du mot "faim" est éloquent. Nous savons tous que lorsque ce mot est utilisé, il a généralement un sens très large, non scientifique mais que tout le monde comprend et qu'il a donc tendance à couvrir un domaine plus vaste que celui qui conviendrait. Ce phénomène n'est pas simple à éviter et constitue donc un problème.
+
+La méthode de la FAO a fait l'objet de quelques observations en fin de débat. Certains ont déclaré que cette méthode devrait utiliser dans une plus large mesure les informations recueillies dans les pays, et tenir également compte des enquêtes sur les ménages. C'est en fait déjà le cas, car la méthode s'appuie sur les données fournies par les pays et un grand nombre d'enquêtes sont étudiées et utilisées chaque fois que possible. Je dois cependant mettre en garde sur le fait que les données à l'échelon national et les enquêtes sur les ménages présentent de sérieux problèmes en termes de lacunes, de crédibilité et de cohérence. Un autre participant a demandé pourquoi le coefficient de variation (CV) devrait rester constant dans le temps. Je partage personnellement cette opinion, et la seule explication possible à cela est que dans le passé, les valeurs utilisables du CV étaient très rarement disponibles dans un pays... donc, lorsque vous en aviez une, vous n'imaginiez même
+qu'elle puisse changer au fil du temps! Aujourd'hui, les choses ont changé et, sans être une autorité en la matière, j'ai une connaissance relativement bonne de la situation et je ne vois pas en quoi changer l'approche établie pourrait créer des difficultés autres que celle d'utiliser le coefficient d'un pays lorsqu'il est disponible et de modifier la valeur dans la formule pour la période pertinente à chaque mise à jour.
+
+Je crois, M. le Président, avoir ainsi résumé les principaux éléments du débat. Permettez-moi simplement d'ajouter que de nombreux collègues ont souligné l'utilité de cette réunion, ce dont nous vous remercions.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+SECTION IV - REMARQUES FINALES
+
+Enseignements tirés (Hartwig de Haen)
+
+Hartwig de Haen
+Sous-Directeur général, Département économique et social (ES)
+Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO)
+Rome, Italie
+
+Alors que le colloque touche à sa fin, beaucoup de choses ont été confirmées et les enseignements tirés sont nombreux. Le premier est que l'accomplissement du mandat de la FAO de contrôler les progrès accomplis dans le combat contre la faim exige des mesures précises, fiables et opportunes de la prévalence de la faim et de la malnutrition, de l'insécurité alimentaire et de la vulnérabilité, et de l'évolution de ces éléments dans le temps. Notre tâche est extrêmement importante et même si nous pouvons commettre des erreurs, nous devons nous en acquitter le mieux possible.
+
+Les débats ont fait ressortir le caractère multidimensionnel et complexe du phénomène de l'insécurité alimentaire. Je pense pouvoir conclure sans me tromper qu'il n'existe pas de mesure unique et parfaite capable de cerner tous les aspects de l'insécurité alimentaire. L'expression "série d'indicateurs" a été employée au cours des débats. Elle renvoie visiblement à la nécessité de décrire le phénomène que nous devons appréhender à l'aide de différents indicateurs. Nous savons que l'insécurité alimentaire est conditionnée par la disponibilité, l'accès et l'utilisation des aliments, aussi bien que par la vulnérabilité des individus, et que chacun de ces éléments déterminants peut exiger un indicateur spécifique. Nous en avons déjà examiné plusieurs: la mesure FAO de la disponibilité alimentaire corrigée pour tenir compte de l'accès; la pauvreté ou d'autres indicateurs de l'accès à la nourriture issus des enquêtes sur les ménages; la consommation d'aliments à partir des enquêtes
+sur l'apport alimentaire individuel; les indicateurs anthropométriques; et également les indicateurs "qualitatifs" ou obtenus par auto-évaluation pour mesurer la faim et la vulnérabilité. Vous avez indiqué qu'une série d'indicateurs pourrait permettre de mesurer l'importance relative de différents facteurs déterminants de l'insécurité alimentaire. Tous se sont accordés à reconnaître ce matin que les données résultant de ces mesures devraient nous aider à comprendre la raison pour laquelle les personnes se trouvent en situation d'insécurité alimentaire, bien que ce ne soit pas là la mission principale. Si la tâche prioritaire est, certes, de mesurer l'ampleur de l'insécurité alimentaire ou de la faim, l'identification de certaines des causes principales de la faim favorisera une meilleure utilisation de cette information sur le plan de l'action.
+
+Un débat exhaustif a eu lieu durant cette réunion quant au choix des indicateurs. Je ne peux que soumettre à votre attention plusieurs critères à garder à l'esprit au moment de choisir un indicateur. Le premier critère est la façon dont l'indicateur mesure ce qu'il prétend mesurer: c'est-à-dire sa validité et fiabilité. Une autre considération est la pertinence de l'indicateur pour identifier les causes de l'insécurité alimentaire. Un autre élément important est la rapidité avec laquelle l'information est fournie aux décideurs et aux personnes qui s'occupent de questions liées à la faim. Il est évident que la rapidité de production des données est fondamentale, en particulier pour l'évaluation des situations d'urgence. L'action nécessaire pour s'attaquer aux problèmes d'insécurité alimentaire peut être retardée si l'information n'est pas fournie en temps opportun aux décideurs. Une autre considération essentielle est de savoir si l'indicateur mesure et différencie
+l'insécurité alimentaire temporaire et l'insécurité chronique. Et, bien évidemment, le coût de l'obtention, du traitement et de la diffusion de l'information ne peut être ignoré. Les coûts de la collecte en termes de temps, d'équipement et de formation du personnel doivent être pris en compte, et les pays et les organismes doivent déterminer s'ils seront compensés par les bénéfices tirés de l'utilisation de l'indicateur en question.
+
+Enfin, nous devons prendre en considération le rapport entre les mesures ou indicateurs fournis aux décideurs et les décisions prises sur la base de cette information. L'un des aspects de ce problème est le niveau auquel les indicateurs sont recueillis (international, régional, national ou sous-national). L'indicateur de la sous-alimentation chronique de la FAO ne peut pas être ventilé à l'échelon sous-national. Ce seul fait implique que des indicateurs supplémentaires sont nécessaires pour l'élaboration de politiques à ces niveaux. Une autre question très importante, largement évoquée durant le colloque, est de savoir s'il convient d'utiliser les tendances dans le temps plutôt que les chiffres absolus pour l'évaluation des progrès accomplis. La comparaison des tendances est très importante pour le suivi des changements à travers les pays, mais elle l'est aussi pour étudier ceux qui se produisent au fil du temps au sein même des pays. Un sujet connexe est la fréquence avec
+laquelle les indicateurs sont publiés et les intervalles de temps appropriés pour la collecte de données.
+
+Le colloque a fourni une aide précieuse en indiquant comment nous tous - chercheurs, organisations internationales et autorités gouvernementales - pouvons procéder pour améliorer les mesures et les méthodologies. Cela a des conséquences spécifiques sur les travaux que nous réalisons à la FAO. Nous avons commencé en 1999 à publier un rapport annuel, L'état de l'insécurité alimentaire, en étroite collaboration avec le SICIAV. Le travail de collecte et de transmission de différents indicateurs est donc déjà en cours. Nous avons également adopté cette démarche dans tous les rapports soumis au Comité de la sécurité alimentaire mondiale. Cependant, il a été indiqué clairement que nous devons tenter de mieux expliquer la méthodologie, la base de données et les hypothèses qui sous-tendent nos évaluations de la sous-alimentation. A la lumière des suggestions que vous avez formulées ici, nous devrions peut-être envisager de remplacer le terme "sous-alimentation" par une définition
+plus précise de ce que nous mesurons, par exemple par "carence énergétique alimentaire". On nous a fait prendre conscience de l'importance de l'intégration des données sur les résultats nutritionnels et les concepts y afférents dans nos bases de données, ainsi que de la nécessité d'apprendre à utiliser l'information supplémentaire pour améliorer notre indicateur. Les données sur les micronutriments et les protéines, et l'évaluation des apports en ces substances, ont également été mentionnées comme un domaine exigeant une attention particulière de la part de la FAO. Nos mesures de l'accès à la nourriture doivent aussi être améliorées: cela implique une collecte et une analyse plus complètes des informations concernant la distribution du revenu des ménages, les avoirs et les exploitations agricoles, un domaine que nous n'avons pas suffisamment couvert jusqu'à présent.
+
+Au cours des débats, vous avez évoqué la nécessité de créer un groupe de travail qui devrait s'efforcer d'améliorer notre compréhension des concepts de risque et de vulnérabilité, et d'élaborer des indicateurs tenant compte de ces concepts, ainsi que d'affiner les mesures "qualitatives" de la faim, aussi qualifiées de mesures "basées sur l'expérience", "directes" ou "d'auto-évaluation".
+
+Actuellement, la plupart des informations connues sur l'insécurité alimentaire sont rassemblées et utilisées par les institutions internationales, mais il est impératif que les pays en développement prennent cette tâche en charge et commencent à développer leur capacité de rassembler et d'utiliser leurs propres données. Par le biais du SICIAV, nous continuerons de prêter notre aide aux gouvernements afin qu'ils produisent leurs propres données sur les indicateurs à utiliser pour l'élaboration de politiques et la prise de décisions à l'échelon national.
+
+En conclusion, les débats qui se sont déroulés au cours de ces trois journées, ne marquent que le commencement d'un processus. La FAO poursuivra ses travaux scientifiques avec votre collaboration et celle d'autres experts. Nous ferons donc à nouveau appel à vous et à vos compétences, et je vous invite tous à rester en contact avec nous afin de continuer à collaborer pour améliorer les mesures de l'insécurité alimentaire.
+
+Je tiens à exprimer mes remerciements sincères aux membres du Comité scientifique consultatif pour leurs efforts, au Gouvernement des Pays-Bas pour l'appui fourni à ce colloque, et naturellement à vous tous, grâce auxquels les débats sur ces importantes questions et propositions de travail pour l'avenir, ont été féconds et animés.
+
+Mesdames et Messieurs, le colloque est clos.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières
+
+
+SECTION V - ANNEXES
+
+Glossaire^[4]
+
+Anthropométrie
+
+Utilisation des mesures du corps humain pour obtenir des informations sur l'état nutritionnel.
+
+Apport énergétique alimentaire
+
+Quantité d'énergie fournie par la nourriture consommée.
+
+Besoins énergétiques alimentaires
+
+Quantité d'énergie alimentaire nécessaire pour entretenir les fonctions vitales, être en bonne santé et avoir une activité normale.
+
+Besoins énergétiques alimentaires minimaux
+
+Dans une classe d'âge et de sexe donnée, quantité d'énergie alimentaire par personne jugée suffisante pour mener une activité légère et être en bonne santé. À l'échelle d'une population, les besoins énergétiques minimaux sont la moyenne pondérée des besoins énergétiques minimaux des différentes classes d'âge et de sexe. Ils sont exprimés en kilocalories par personne et par jour.
+
+Déficit énergétique alimentaire
+
+Différence entre l'apport énergétique alimentaire moyen d'une population sous-alimentée et ses besoins énergétiques minimaux moyens.
+
+Degré de pénurie alimentaire
+
+Indicateur de l'insécurité alimentaire globale dans un pays, combinant la prévalence de la sous-alimentation, c'est-à-dire la proportion de la population totale qui souffre d'un déficit énergétique alimentaire, et la gravité de la sous-alimentation, c'est-à-dire l'ampleur du déficit énergétique alimentaire de la population sous-alimentée.
+
+Dénutrition
+
+Résultat de la sous-alimentation ou d'une mauvaise assimilation de la nourriture consommée.
+
+Shetty 2002^[5]: La dénutrition est définie comme un apport énergétique alimentaire inférieur au niveau minimum requis pour maintenir l'équilibre entre l'apport énergétique réel et des niveaux acceptables de dépense d'énergie. Il faut tenir compte des besoins supplémentaires durant la croissance chez les enfants et également chez les femmes enceintes et allaitantes afin de maintenir un gain de poids approprié pour une croissance f&#156;tale adéquate durant la grossesse et une production suffisante de lait durant la période d'allaitement (FAO/OMS/UNU, 1985). Dans le document de Shetty, le terme 'dénutrition' a été utilisé au sens large, en référence à toute condition physique impliquant une mauvaise santé ou l'incapacité de maintenir une croissance adéquate, un poids et une composition corporels appropriés ou de maintenir à un niveau acceptable l'activité physique économiquement nécessaire et socialement souhaitable, du fait d'une inadéquation de la quantité et de la qualité
+des aliments. Par conséquent, cette définition couvre à la fois la dénutrition et les carences spécifiques en micronutriments.
+
+Dépérissement
+
+Poids insuffisant par rapport à la taille, résultant en général d'une perte de poids associée à une période de disette ou à une maladie récentes.
+
+Disponibilité énergétique alimentaire
+
+Quantité de nourriture disponible pour la consommation humaine exprimée en kilocalories par personne et par jour (kcal/personne/jour). À l'échelon d'un pays, on la calcule en déduisant de la production agricole tous les emplois autres que la consommation alimentaire (exportations, alimentation des animaux, transformation industrielle, semences et pertes).
+
+État nutritionnel
+
+État physiologique d'un individu résultant des interactions entre l'apport alimentaire et les besoins, ainsi que de la capacité d'assimilation des nutriments.
+
+Groupe vulnérable
+
+Groupe de personnes présentant des caractéristiques communes et dont une forte proportion est, ou risque d'être, en situation d'insécurité alimentaire.
+
+Indice de masse corporelle (IMC)
+
+Rapport entre le poids et la taille souvent employé pour estimer la proportion de graisse dans le corps. L'IMC est égal au poids (en kilogrammes) divisé par la taille au carré (en mètres). Il n'est pas adapté à l'analyse des enfants en période de croissance, des personnes âgées émaciées et sédentaires ou des femmes enceintes ou allaitantes.
+
+Insécurité alimentaire
+
+Situation caractérisée par le fait que la population n'a pas accès à une quantité suffisante d'aliments sans danger et nutritifs pour avoir une croissance et un développement normaux, être en bonne santé et mener une vie active. L'insécurité alimentaire peut être due à l'insuffisance de la disponibilité alimentaire, à l'insuffisance du pouvoir d'achat, à des problèmes de distribution ou à l'inadéquation de la consommation alimentaire à l'échelon des ménages. L'insécurité alimentaire, les mauvaises conditions d'hygiène et d'assainissement et l'inadaptation des pratiques de soin et d'alimentation sont les principales causes de problèmes nutritionnels. L'insécurité alimentaire peut être chronique, saisonnière ou temporaire.
+
+Insuffisance pondérale
+
+Poids insuffisant par rapport à l'âge chez les enfants, et IMC inférieur à 18,5 chez les adultes, s'expliquant par un apport alimentaire insuffisant, des épisodes antérieurs de sous-alimentation ou un mauvais état de santé.
+
+Kilocalorie (kcal)
+
+Unité de mesure de l'énergie. Une kilocalorie vaut 1 000 calories. Dans le système international d'unités, l'unité d'énergie universelle est le joule (J). Une kilocalorie vaut 4 184 kilojoules (kJ).
+
+Macronutriments
+
+Dans le présent rapport, on désigne par ce terme les protides, glucides et lipides dont le corps a besoin en grandes quantités et qui peuvent être transformés en énergie. Ils sont mesurés en grammes.
+
+Malnutrition
+
+État physiologique anormal causé par des carences, des excès ou des déséquilibres de l'alimentation (énergie, protéines et/ou autres nutriments).
+
+Shetty 2002^2: La malnutrition est causée par des carences en nutriments spécifiques ou par des régimes basés sur des types ou des proportions d'aliments erronés. Le goitre, le scorbut, l'anémie et la xérophtalmie sont des manifestations de malnutrition causées par un apport inadéquat d'iode, de vitamine C, de fer et de vitamine A, respectivement.
+
+Micronutriments
+
+Vitamines, minéraux et autres substances dont l'organisme a besoin en petite quantité. Ils sont mesurés en milligrammes ou en microgrammes.
+
+Retard de croissance
+
+Taille insuffisante par rapport à l'âge, phénomène s'expliquant par un épisode prolongé ou plusieurs épisodes de sous-alimentation dans le passé.
+
+Sécurité alimentaire
+
+Situation caractérisée par le fait que toute la population a en tout temps un accès matériel et socioéconomique garanti à des aliments sans danger et nutritifs en quantité suffisante pour couvrir ses besoins physiologiques, répondant à ses préférences alimentaires, et lui permettant de mener une vie active et d'être en bonne santé.
+
+Sous-alimentation
+
+Ration alimentaire en permanence insuffisante pour couvrir les besoins énergétiques alimentaires.
+
+Suralimentation
+
+Ration alimentaire qui dépasse en permanence les besoins énergétiques alimentaires.
+
+Surcharge pondérale et obésité
+
+Masse corporelle supérieure à la normale en raison d'une accumulation excessive de graisses. Indique généralement une suralimentation. Dans le présent document, on considère qu'il y a surcharge pondérale lorsque l'IMC est compris entre 25 et 30, et obésité lorsqu'il est supérieur à 30.
+
+Vulnérabilité
+
+Existence de facteurs qui exposent l'individu à l'insécurité alimentaire ou à la malnutrition, ou qui l'empêchent de faire face à ces situations.
+
+Programme du colloque
+
+MERCREDI 26 JUIN 2002
+
+8:30
+
+Café et enregistrement
+
+9:00
+
+Bienvenue et programme de la Conférence
+
+9:15 - 1:00
+
+Communications invitées
+
+10:30 - 11:00
+
+Pause café
+
+Président: H. DE HAEN
+
+Méthodologie de la FAO pour estimer la prévalence de la sous-alimentation
+L. NAIKEN
+
+L'utilisation des enquêtes sur les dépenses des ménages pour l'évaluation de l'insécurité alimentaire
+L. SMITH
+
+Méthodes d'enquête alimentaire individuelle
+A. FERRO-LUZZI
+
+Mesures de l'état nutritionnel à partir de données d'enquêtes anthropométriques
+P. SHETTY
+
+Mesures qualitatives de l'insécurité alimentaire et de la faim.
+E. KENNEDY
+
+13:00 - 14:30
+
+Déjeuner
+
+14:30 - 15:30
+
+Document de synthèse
+
+Mesurer la faim et la malnutrition
+J. MASON
+
+Président: H. KASNAKOGLU
+
+Commentateur: S.R. OSMANI
+
+15:30 - 16:00
+
+Pause café
+
+16:00 - 18:00
+
+Groupes de discussion parallèles sur les communications invitées
+
+Méthode de la FAO
+
+Président
+
+S. SHAPOURI
+
+Présentateurs
+
+I. DAVID ET B. SENAUER
+
+Rapporteur
+
+S. BROCA
+
+Enquêtes sur les dépenses des ménages
+
+Président
+
+J. HABICHT
+
+Présentateurs
+
+A. TRICHOPOULOU ET S. LENCE
+
+Rapporteur
+
+J. SCHMIDHUBER
+
+Enquêtes alimentaires individuelles
+
+Président
+
+W. WILLETT
+
+Présentateurs
+
+J. DE VRIES ET L. LISSNER
+
+Rapporteur
+
+M.C. DOP
+
+Enquêtes anthropométriques
+
+Président
+
+M. DE ONIS
+
+Présentateurs
+
+P. SVEDBERG ET S. KLASEN
+
+Rapporteur
+
+G. KENNEDY
+
+Mesures qualitatives
+
+Président
+
+K. RADIMER
+
+Présentateurs
+
+H. JENSEN ET S. DEVEREUX
+
+Rapporteur
+
+S. KENNEDY
+
+JEUDI 27 JUIN 2002
+
+9:00
+
+Café
+
+9:00 - 13:00
+
+Séances parallèles sur communications libres
+
+----------------------------------------------------------------------------------
+
+Séance 1:
+
+Problèmes statistiques pour améliorer les estimations des distributions pour chacune des cinq méthodes
+
+Président: H. Kasnakoglu
+
+9:30
+
+P. Svedberg
+
+Erreurs dans la méthodologie utilisée par la FAO pour estimer la prévalence de la dénutrition, et solutions pour l'améliorer
+
+10:00
+
+S. Gabbert, J.A.B. Sidique, H.P. Weikard
+
+Mesures de sous-alimentation ajustées pour le risque dans les pays d'Afrique subsaharienne
+
+11:00
+
+D. Aduayom, L. Smith
+
+Évaluer la sous-alimentation par le biais des enquêtes sur les dépenses des ménages: comparaison de méthodes utilisant les données relatives à trois pays d'Afrique subsaharienne
+
+11:30
+
+A.K. Srivastava, A. Rai, V. Ramasubramian
+
+Fiabilité des estimations de distributions basées sur des données d'enquêtes par sondage
+
+12:00
+
+G. Arbia
+
+Note sur l'effet du plan de sondage sur la fiabilité de la variance de l'échantillon dans l'évaluation de l'insuffisance alimentaire
+
+Séance 2:
+
+Méthodes innovantes pour mesurer la sécurité alimentaire
+
+Président: M. Villarreal
+
+9:30
+
+S. Rosen,S. Shapouri
+
+Mesurer l'accès aux aliments dans les pays en développement: le cas de l'Amérique latine
+
+10:00
+
+S. Hales, T. Blakely, C. Kieft. A. Woodward
+
+Prédiction de la distribution géographique de la dénutrition dans et entre les pays: une méthode statistique empirique utilisant les données d'enquêtes démographiques et de santé
+
+11:00
+
+H.V. Kuhnlein, S. Smitasiri, S. Yesudas, S. Ahmed, G. Kothari, L. Bhattacharjee, L. Dan, Z. Fengying
+
+Documenter les systèmes alimentaires traditionnels des populations autochtones: processus et méthodes accompagnés d'études de cas internationales
+
+11:30
+
+L. Bhattacharjee, G. Kothari, V. Ramaswamy, H. Kuhnlein, B.K. Nandi
+
+Modes traditionnels d'alimentation et apport alimentaire de tribus Bhil dans le district de Dang, Gujarat, Inde occidentale
+
+12:00
+
+K. Ogden, S. Montembault, C. Wilkinson, M.T. Ververs
+
+La pertinence d'une analyse géographique et intégrée des causes sous-jacentes de la malnutrition pour éclairer la prise de décision des ONG: l'expérience d'Action contre la Faim
+
+Séance 3:
+
+Systèmes d'information sur la sécurité alimentaire utilisant des méthodes combinées
+
+Président: M. Immink
+
+9:30
+
+D. Wiesmann
+
+Un indice international de nutrition: concept et analyses de l'insécurité alimentaire et de la dénutrition à l'échelon national
+
+10:00
+
+M.W. Bloem, L. Kiess, R. Moench-Pfanner, S. de Pee, H. Torlesse, M. Sariand S. Kosen
+
+Surveillance nutritionnelle pour le suivi de la nutrition et de la sécurité alimentaire: indicateurs, interprétations et action
+
+11:00
+
+A. Trichopoulou et DAFNE
+
+L'utilisation de données d'enquêtes sur le budget des ménages pour évaluer les disparités alimentaires au sein et entre les populations - études de cas de 13 pays européens
+
+11:30
+
+J. Gladwin
+
+Utiliser des données anthropométriques: étude de cas d'un système d'information sur la gestion de la nutrition en Éthiopie
+
+----------------------------------------------------------------------------------
+
+Séance 4:
+
+Mesure de la sécurité alimentaire - Divergences et définitions
+
+Président: B. Burlingame
+
+9:30
+
+M. Nubé
+
+Carence énergétique alimentaire, nutrition de l'enfant et faible IMC chez les adultes: différences et anomalies entre l'Afrique et l'Asie
+
+10:00
+
+S. Klasen
+
+Malnouris mais survivants en Asie du sud, mieux nourris, mais mourant jeunes en Afrique: comment expliquer cette énigme?
+
+11.00
+
+K. Jacobs, D. Sumner
+
+Mesurer la sécurité alimentaire nationale: prévalence de la dénutrition et indice de sécurité alimentaire nationale
+
+11:30
+
+A. B. Jahari
+
+Méthode d'évaluation de l'état nutritionnel
+
+12:00
+
+G. Gill
+
+Réduire la faim ou la malnutrition? Le cas du Bangladesh
+
+Séance 5:
+
+Expériences dans l'utilisation de méthodes qualitatives pour mesurer la sécurité alimentaire
+
+Président: D. Wilcock
+
+9:30
+
+M. Nord, A.K. Satpathy, N. Raj, P. Webb, R. Houser
+
+Comparer les mesures de l'insécurité alimentaire basées sur des enquêtes sur les ménages à travers les pays: études de cas en Inde, en Ouganda et au Bangladesh
+
+10:00
+
+P. Webb, J. Coates
+R. Houser
+
+Le défi de la définition de 'mesures directes' de la faim et de l'insécurité alimentaire pour le Bangladesh: premiers résultats d'un travail mené actuellement sur le terrain
+
+11:00
+
+J. Seaman
+
+Approches basées sur l'économie des ménages dans la prise de décision à l'échelon sous-national et national
+
+11:30
+
+E. Frongillo, S. Nanama
+
+Mise au point et validation d'une méthode par un questionnaire pour mesurer l'insécurité alimentaire des ménages ruraux au Burkina Faso
+
+12:00
+
+J. Hoddinott, Y. Yohaness
+(présentés par P. Bonnard)
+
+La diversité alimentaire comme indicateur de la sécurité alimentaire
+
+13:00- 14:30
+
+Déjeuner
+
+14:30-18:30
+
+Séance plénière
+
+14:30-15:30
+
+Présentation des rapports des Rapporteurs sur les communications invitées
+
+Président: K. TONTISIRIN
+
+15:30-16:00
+
+Pause café
+
+16:00-16:30
+
+Résumé de la consultation sur les besoins énergétiques humains
+
+Président: P.SHETTY
+
+Présentateur: R. WEISELL
+
+16:30-18:30
+
+Discussion ouverte avec les orateurs principaux
+
+Président: W. MEYERS
+
+19:30
+
+Dîner au restaurant Orazio
+
+Intervenant: P. MATLON
+
+VENDREDI 28 JUIN 2002
+
+8:30
+
+Café
+
+9:00 - 17:00
+
+Point de vue des utilisateurs nationaux et internationaux
+
+Président: S.R. JOHNSON
+
+Rapporteur: J. VERCUEIL
+
+9:00
+
+Groupe d'experts 1:
+
+Utilisateurs nationaux
+
+Kenya
+
+J. OWOUR
+
+Inde
+
+S.S. DUBEY
+
+Colombie
+
+L. FAJARDO
+
+Agence technique opérant à l'échelon national - PAM
+
+R. BHATIA et A. CONTE
+
+10:30
+
+Pause café
+
+11:00
+
+Agence technique opérant à l'échelon national - UNICEF
+
+F. SIBANDA-MULDER
+
+11:20
+
+Discussion ouverte
+Groupe d'experts 1
+
+12:20
+
+Synthèse et conclusions
+Groupe d'experts 1
+
+PRESIDENT et RAPPORTEUR
+
+13:00
+
+Déjeuner
+
+14:30
+
+Groupe d'experts 2: Utilisateurs internationaux
+
+Point de vue des ODM
+
+D. WILCOCK
+
+Point de vue de la Banque mondiale
+
+S. PATEL
+
+Point de vue du DFID
+
+T. HARRIS
+
+Point de vue de l'USAID
+
+A. MUKURIA et T. MARCHIONE
+
+15:30
+
+Discussion ouverte
+Groupe d'experts 2
+
+16:00
+
+Pause café
+
+16:30
+
+Synthèse et conclusions
+Groupe d'experts 2
+
+PRESIDENT et RAPPORTEUR
+
+17:00
+
+Vers où allons-nous maintenant?
+
+Allocution d'ouverture: H. DE HAEN
+
+Réponse du Groupe d'experts:
+
+L. SMITH,
+A. FERRO-LUZZI,
+E. KENNEDY,
+J. MASON,
+S.R. OSMANI
+
+Remarques finales: H. DE HAEN
+
+18:00
+
+Fin du Colloque
+
+Comité scientifique consultatif
+
+Marie-Claude Dop, Chercheur, Institut de Recherche pour le Développement, France
+
+Jean-Pierre Habicht, Professeur, Cornell University, États-Unis
+
+Siddiqur R. Osmani, Professeur, University of Ulster, Royaume-Uni
+
+Jean Pennington, Scientifique, National Institutes of Health, États-Unis
+
+Kathy Radimer, Epidémiologiste nutritionnel, National Center for Health Statistics, États-Unis
+
+Soekirman, Professeur, Bogor Agriculture University, Indonésie
+
+Walter Willett, Professeur, Harvard University, États-Unis
+
+Pattanee Winichagoon, Professeur, Mahidol University, Thaïlande
+
+Comité local d'organisation
+
+William H. Meyers, Directeur, Division de l'analyse du développement agricole et économique (ESA), Président
+
+Terri Ballard, Consultante, Division de l'analyse du développement agricole et économique (ESA)
+
+Sumiter Broca, Economiste, Service du secteur agricole dans le développement économique (ESAE)
+
+Barbara Burlingame, Fonctionnaire principal (Nutrition), Service de la planification, de l'analyse et de l'évaluation nutritionnelles (ESNA)
+
+Dorjee Kinlay, Economiste, Service de la sécurité alimentaire et de l'analyse des projets agricoles (ESAF)
+
+Jorge Mernies, Chef, Service d'analyse statistique (ESSA)
+
+Harriet Neuling, Consultante, Division de l'analyse du développement agricole et économique (ESA)
+
+Terri Raney, Economiste principal, Service de développement agricole comparatif (ESAC)
+
+Ricardo Sibrian, Statisticien, Service d'analyse statistique (ESSA)
+
+David Wilcock, Coordonnateur du SICIAV, Bureau du Sous-Directeur général
+
+Liste des participants
+
+Dede Aduayom
+Senior Research Assistant, IFPRI
+2033 K Street, N.W.
+Washington, D.C. 20006
+USA
+d.aduayom@cgiar.org
+
+Giuseppe Arbia
+Professor
+Università "G. D'Annunzio"
+Chieti-Pescara
+Viale Pindaro, 42
+65127 Pescara, Italy
+arbia@sci.unich.it
+
+Terri Ballard
+Agriculture and Economic Development Analysis Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Terri.Ballard@fao.org
+
+Pascal Bernardoni
+Project Manager
+FAO - Emergency Coordination Office,
+Zarka Marinovica 2
+11000 Belgrade, Yugoslavia,
+fssu-proman@fao.mediaworks.co.yu
+
+Rita Bhatia
+WFP
+Via Cesare Giulio Viola, 68/70
+Parco dé Medici
+00148 Rome, Italy
+Rita.Bhatia@WFP.ORG
+
+Lalita Bhattacharjee
+Nutrition Consultant
+FAO Regional Office for Asia and the Pacific
+39 Phra Atit Road
+Bangkok 10200,
+Thailand
+lalita.bhattacharjee@fao.org
+
+Martin W. Bloem
+Regional Director
+Helen Keller International
+23A-B Jl. Bungur Dalam
+Jakarta, Indonesia
+mwbloem@compuserve.com
+
+Patricia Bonnard
+Agriculture and Food Security Specialist, FANTA Project/AED
+1825 Connecticut Ave, NW
+Washington, DC 20009-5721, USA
+pbonnard@aed.org
+
+Sumiter Broca
+Economist, ESAE
+Agriculture and Economic Development Analysis Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Sumiter.Broca@fao.org
+
+Lynn Brown
+Rural Development Specialist
+ARD, MSN: MC5.510
+The World Bank
+1818 H St, NW
+Washington, DC 20433, USA
+lbrown3@worldbank.org
+
+Barbara Burlingame
+Senior Nutrition Officer, ESNA
+Food and Nutrition Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Barbara.Burlingame@fao.org
+
+Pornprome Chairidchai
+Permanent Representation of Thailand to FAO
+Rome, Italy
+
+Annalisa Conte
+WFP
+Via Cesare Giulio Viola, 68/70
+Parco dé Medici
+00148 Rome, Italy
+AnnalisaConte@mekoe.unicc.org
+
+Genevieve Coullet
+Food Security Officer, ESAF
+Agriculture and Economic Development Analysis Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Genevieve.Coullet@fao.org
+
+Andre Croppenstedt
+Economist, ESAC
+Agriculture and Economic Development Analysis Division FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+andre.croppenstedt@fao.org
+
+Li Dan
+Associate Professor
+National Center for Chronic and Noncommunicable Disease Control and Prevention
+27 Nanwei Road, Beijing
+100050, P.R.China
+lidanzjh@163bj.com
+
+Isidoro David
+Former Chief Statistician
+Asian Development Bank
+16 Whitefield
+White Plains Quezon City
+Metro Manila
+Philippines
+ip_david@yahoo.com
+
+Jashinta D'Costa
+Vulnerability Analysis and Mapping Officer
+FAO Yugoslavia
+6104 63^rd Avenue
+Riverdale, MD 20737, USA
+jdcosta6@hotmail.com
+
+J. Paul Des Rosiers
+Environment Officer
+U.S. Agency for international Development
+1300 Pennsylvania Avenue, NW
+Washington, D.C. 20523, USA
+jdesrosiers@usaid.gov
+
+Frederic Deve
+ROA Project
+Agriculture and Economic Development Analysis Division FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Frederic.Deve@fao.org
+
+Stephen Devereux
+Professor
+Institute of Development Studies, University of Sussex, UK
+S.G.Devereux@ids.ac.uk
+
+Marie-Claude Dop
+Nutrition Officer, ESNA
+Food and Nutrition Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Marieclaude.dop@fao.org
+
+Shyam S. Dubey
+I.C.A.S. Deputy Secretary
+Ministry of Food
+260, Krishi Bhawan
+New Delhi, India
+
+Hartwig de Haen
+Assistant Director-General
+Economic and Social Department
+FAO
+Viale delle Terme di Caracalla,
+00100 Rome, Italy
+Hartwig.DeHaen@fao.org
+
+Mercedes de Onis
+Medical Officer
+World Health Organization for Health and Development
+20 Avenue Appia
+CH-1211 Geneva 27,
+Switzerland
+deonism@who.ch
+
+Jeanne H.M. de Vries
+Wageningen University
+Agrotechnology and Food Science
+Human Nutrition & Epidemiology
+PO Box 812
+6700 EV Wageningen,
+The Netherlands Jeanne.devries@wur.nl
+
+Luis Fajardo
+Universidad Javeriana
+Transversal 12 # 124 - 51
+Apartamento 607
+Bogotá, Colombia
+lfajardo@javeriana.edu.co
+
+Anna Ferro-Luzzi
+INRAN-National Institute for Food and Nutrition Research Via Ardeatina 546
+00179 Rome, Italy
+afl@inran.it
+
+Edward Frongillo
+Associate Professor
+Division of Nutritional Sciences B17 Savage Hall Cornell University Ithaca, New York
+14853-6301, USA
+eaf1@cornell.edu
+
+Ugo Gentilini
+INTERFAIS
+WFP
+Via Cesare Giulio Viola, 68/70
+Parco dé Medici
+00148 Rome, Italy
+Ugo.Gentilini@wfp.org
+
+Gerard Gill
+Research Associate
+Overseas Development Institute
+5 Baronald Gate
+Glasgow G12 0JS,
+UK
+Gill@cqm.co.uk
+
+Jean Gladwin
+Health Services Research
+Dept. of Public Health and Policy
+London School of Hygiene and Tropical Medicine
+Keppel Street
+WC 1E 7HT, UK
+jgladwin_99@yahoo.co.uk
+
+Sofia Guiomar
+Doctoral Researcher
+University of Warwick, UK/
+Instituto de Medicina Preventiva
+Faculdade de Medicina de Lisboa
+RUA PROF MOTA PINTO,
+206-6 Esq
+4100-353 Porto, Portugal
+sofiaguiomar@tvtel.pt
+sofia.guiomar@warwick.ac.uk
+
+Ali Arslan Gürkan
+Chief, ESCB
+Commodities and Trade Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+AliArslan.Gurkan@fao.org
+
+Jean-Pierre Habicht
+Professor of Nutritional Epidemiology Division of Nutritional Sciences
+Savage Hall, Cornell University
+Ithaca, NY 14853,
+USA
+jh48@cornell.edu
+
+Simon Hales
+Research Fellow
+Department of Public Health
+Wellington School of Medicine and Health Sciences
+University of Otago
+PO Box 7343
+Wellington South, New Zealand
+shales@wnmeds.ac.nz
+
+Tim Harris
+Statistics Department
+Department for International Development
+1 Palace Street, London,
+SW1E 5HE, UK
+T-Harris@DFID.GOV.UK
+
+Rebecca Hopper
+US Mission to the UN Agencies
+1822 Hayes St. NE, Apt. 7
+Minneapolis, MN 55418,
+USA
+rmhooper@hotmail.com
+
+Maarten Immink
+FIVIMS Coordinator a.i.,
+ESDG/FIVIMS Secretariat
+Food Insecurity and Vulnerability Information and Mapping System
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Maarten.Immink@fao.org
+
+Robin Jackson
+WFP
+Via Cesare Giulio Viola, 68/70
+Parco dé Medici
+00148 Rome, Italy
+Robin.Jackson@wfp.org
+
+Krista Jacobs
+PhD Candidate, University of California, Davis
+4735 Cowell Blvd. Apt. 1
+Davis, CA 95616, USA
+jacobs@primal.ucdavis.edu
+
+Abas Basuni Jahari
+Researcher
+Center for Research and Development
+JI. DR Sumeru 63
+Bogor 16112,
+Indonesia
+p3gizi@indo.net.id
+
+Helen Jensen
+Professor,
+Dept. of Economics/CARD
+578 Heady Hall
+Iowa State University
+Ames, IA 50011-1070, USA
+hhjensen@iastate.edu
+
+Stanley R. Johnson
+Vice-Provost for Extension
+2150 Beardshear Hall
+lowa State University
+Ames, IA 50011, USA
+vpforext@iastate.edu
+
+Anne Joseph
+Commission Européenne
+Europeaid Office de Coopéeration
+Unité Sécurité Alimentaire
+J54-8/73
+B-1049
+Bruxelles, Belgique
+Anne.Joseph@cec.eu.int
+
+Allan Jury
+Chief, Policy Service
+WFP
+Via Cesare Giulio Viola 68/70, Parco de' Medici
+00148 Rome, Italy
+Allan.Jury@wfp.org
+
+E. Zehra Kasnakoglu
+Professor, Middle East Technical University
+Ankara, Turkey
+zkasnaka@metu.edu.tr
+
+Haluk Kasnakoglu
+Director, ESS
+Statistics Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Haluk.Kasnakoglu@fao.org
+
+Eileen Kennedy
+Global Executive Director
+International Life Sciences Institute
+One Thomas Circle, N.W., 9^th floor
+Washington, DC 2005-5802,
+USA
+ekennedy@ilsi.org
+
+Gina Kennedy
+Nutrition Consultant
+Via San Giovanni in Laterano, 22
+00184 Rome, Italy
+Tel: (39) 06-7045-3336
+gina.kennedy@ecologyfund.net
+
+Sean Kennedy
+Technical Advisor
+Human Health Nutrition
+IFAD - Via del Serafico, 107
+00142 Rome, Italy
+S.Kennedy@ifad.org
+
+Werner Kiene
+WFP Representative to the Bretton Woods Institutions
+2175 K Street, NW; Suite 350
+Washington, DC 2043, USA
+Werner.Kiene@wfp.org
+
+Lynnda Kiess
+Regional Advisor
+Helen Keller Inernational
+23A-B JI. Bungur Dalam
+Jakarta, Indonesia
+lkiess@hki-indonesia.org
+
+Dorjee Kinlay
+Economist, ESAF
+Agriculture and Economic Development Analysis Division FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Dorjee.Kinlay@fao.org
+
+Stephan Klasen
+Professor of Economics
+University of Munich
+Ludwigstrasse 28, Rg.
+80539 München, Germany
+Klasen@lrz.uni-muenchen.de
+
+Betsey Kuhn
+Director of the Food and Rural Economics Division
+USDA/Economic Research Service
+1800 M Street, NW
+Washington, DC 20036, USA
+bkuhn@ers.usda.gov
+
+Harriet Kuhnlein
+Professor of Human Nutrition
+Acting Director/Founding
+Director
+Centre of Indigenous Peoples'
+Nutrition and Environment (CINE)
+McGill University, Macdonald Campus
+21, 111 Lakeshore
+Ste. Anne de Bellevue, Quebec,
+Canada H9X3V9
+Harriet.kuhnlein@mcgill.ca
+
+David P. Lambert
+Alternate Permanent Representative Counselor for Agricultural Affairs
+United States Mission to the UN Agencies for Food and Agriculture
+Rome, Italy
+LambertD@fas.usda.gov
+
+Rachel Lambert
+Food Security Advisor
+Rural Livelihoods Department
+DFID 1Palace Street London SW1E 5HE, UK
+r-lambert@dfid.gov.uk
+
+Sergio Lence
+Associate Professor
+Department of Economics
+Iowa State University
+Ames, IA 50011-1070,
+USA
+shlence@iastate.edu
+
+Lauren Lissner
+Professor
+Department of Community Medicine
+Göteborg University
+Vasa Hospital, Pavillon 11,
+Level 3
+411 33 Göteborg, Sweden
+Lauren.Lissner@medfak.gu.se
+
+Thomas Marchione
+Nutrition Advisor and Evaluation Officer
+U.S. Agency for International Development
+1300 Pennsylvania Avenue, NW
+Washington, D.C. 20523,
+USA
+TMarchione@USAID.gov
+
+Jeffrey Marzilli
+WFP
+Via Cesare Giulio Viola, 68/70, Parco dé Medici
+00148 Rome, Italy,
+Jeffrey.Marzilli@wfp.org
+
+John Mason
+Professor
+Tulane School of Public Health and Tropical Medicine
+Community Health Sciences
+1440 Canal Street
+New Orleans, LA 70112,
+USA
+masonj@tulane.edu
+
+Peter Matlon
+Deputy Director
+The Rockefeller Foundation
+420 5^th Ave., New York, NY 10018, USA, PMatlon@rockfound.org
+
+Irela Mazar
+Nutrition Officer, ESN
+Food and Nutrition Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Irela.Mazar@fao.org
+
+Ian McFarlane
+Research Student
+The University of Reading, Whiteknights, PO Box 217, Reading, Berkshire RG6 6AH, UK
+i.d.mcfarlane@reading.ac.uk
+
+Jorge Mernies
+Chief, ESSA
+Statistics Division, FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Jorge.Mernies@fao.org
+
+William H. Meyers
+(Former Director, ESA, FAO)
+Professor
+269 Heady Hall
+Iowa State University
+Ames, IA 50011, USA
+wmeyers@iastate.edu
+
+Naoki Minamiguchi
+Vulnerability Analysis Coordinator, ESCG
+Commodities and Trade Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Nacki.Minamiguchi@fao.org
+
+Regina Moench-Pfanner
+Regional Coordinator
+Helen Keller International
+23A-B JI. Bungur dalam
+Jakarta, Indonesia
+remoench@cbn.net.id
+
+Sylvie Montembault
+Food Security Department
+Action contre la faim
+4, Rue Niepce
+75014 Paris, France
+sm@acf.imaginet.fr
+
+Gladys Moreno Garcia
+Statistician, ESSB
+Statistics Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+GladysMoreno.Garcia@fao.org
+
+Altrena G. Mukuria
+Nutrition Specialist
+Macro International Inc. 11785 Beltsville Drive Calverton, MD 20705, USA
+amukuria@macroint.com
+
+Philip Musgrove
+Lead Economist,
+Health, Nutrition and Population
+The World Bank
+Room G-7-015
+1818 H Street NW,
+Washington, DC 20433, USA
+pmusgrove@worldbank.org
+
+Loganaden Naiken
+Former Chief, ESSA, FAO
+10 Volcy Goupille Street, Beau Bassin
+Mauritius
+logan.naiken@intnet.mu
+
+Biplab Kanti Nandi
+Senior Food and Nutrition Officer
+FAO Regional Office for Asia and the Pacific
+39 Phra Atit Road
+Bangkok 10200, Thailand
+Biplab.Nandi@fao.org
+
+Guy Nantel
+Senior Officer, ESNA
+Food and Nutrition Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Guy.Nantel@fao.org
+
+Pratap Narain
+Senior Officer, ESSA
+Statistics Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Pratap.Narain@fao.org
+
+Peggy Nelson
+Chief, Office of Development Activities
+WFP
+Via Cesare Giulio Viola, 68/70
+Parco dé Medici,
+00148 Rome, Italy
+Peggy.Nelson@wfp.org
+
+Harriet Neuling
+Agriculture and Economic Development Analysis Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Harriet.Neuling@fao.org
+
+Chizuru Nishida
+Technical Officer
+Department of Nutrition for Health and Development
+World Health Organization
+20 Avenue Appia
+CH-1211 Geneva 27,
+Switzerland
+NISHIDAC@WHO.INT
+
+Mark Nord
+Team Leader for Food Stamp and Food Security Research
+U.S. Department of Agriculture
+Economic Research Service
+1800 M St NW, Room 2180
+Washington, DC 20036-5831, USA
+marknord@ers.usda.gov
+
+Maarten Nubé
+Nutritionist
+Centre for World Food Studies (SOW-VU), Vrije Universiteit
+De Boelelaan 1105
+1081 HV Amsterdam,
+The Netherlands
+m.nube@sow.vu.nl
+
+Kate Ogden
+Food Security Department
+Action Contre la Faim
+4, Rue Niepce
+75014 Paris, France
+ko@acf.imaginet.fr
+
+Siddiqur R. Osmani
+Professor
+School of Economics and Politics
+University of Ulster at Jordanstown
+Shore Road, Newtownabbey
+Co. Antrim BT37 0QB,
+UK
+sosmani@eudoramail.com
+
+John Owuor
+National FIVIMS Coordinator
+Office of the President/ALRMP
+KICC 13^thFloor (Room 1303)
+PO Box 53547, GPO
+Nairobi, Kenya
+alrmphg@africaonline.co.ke
+
+Kofi Owusu-Tieku
+Strategic Planner
+Strategy and Policy Division
+WFP
+Vai Cesare Giulio Viola 68/70
+Parco de Medici,
+00148 Rome, Italy
+Kofi.Owusu-Tieku@WFP.ORG
+
+Suleka Patel
+World Bank
+Office MC2-759
+MSN MC2.208
+1818 H Street, N.W.
+Washington, DC 20433, USA
+Spatel1@worldbank.org
+
+Jean Pennington
+Research Nutritionist
+Division of Nutrition Research Coordination
+National Institutes of Health
+6707 Democracy Boulevard, Room 629
+Bethesda, Maryland 20892-5461,
+USA
+PenningtonJ@extra.niddk.nhi.gov
+
+Cristiano Pesaresi
+Assistant Researcher
+INRAN-National Institute for Food and Nutrition Research Via Ardeatina 546
+00179 Roma, Italy
+pesaresi@inzan.it
+
+Noreen Prendiville
+Project Coordinator
+FAO
+c/o FAO Kenya
+Somalia
+noreen.prendiville@fsau.or.ke
+
+Sonya Rabeneck
+Technical Secretary
+UN Standing Committee on Nutrition
+20 Avenue Appia
+CH-1211 Geneva 27, Switzerland
+scn@who.int
+
+Kathy Radimer
+Nutritional Epidemiologist
+National Center for Health Statistics
+6525 Belcrest Rd, Room 1000
+Hyattsville MD 20782, USA
+kir5@cdc.gov
+
+Seevalingum Ramasawmy
+Statistician, ESSA
+Statistics Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Seevalingum.Ramasawmy@fao.org
+
+Parvathy Ramaswami
+Office of Development Activities (ODA)
+WFP
+Via Cesare Giulio Viola, 68/70
+Parco dé Medici
+00148 Rome, Italy
+Parvathy.Ramaswami@wfp.org
+
+Terri Raney
+Senior Economist, ESAC
+Agriculture and Economic Development Analysis Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Terri.Raney@fao.org
+
+Stacey Rosen
+Economist, USDA
+USDA/ERS/MTED/EAME
+1800 M Street, NW
+Room 5169N
+Washington, DC 20036, USA
+slrosen@ers.usda.gov
+
+Salek Ahmed
+Health Research Coordinator
+UBINIG
+5/3 Barabo, Mahanpur,
+Ringroad Shamoli
+Dhaka 1207, Bangladesh
+nkrishi@bdmail.net
+
+Yukako Sato
+Programme Officer
+Office of Development Activities (ODA)
+WFP
+Via Cesare Guilio Viola, 68/70
+Parco de' Medici
+00148 Rome, Italy
+Yukako.Sato@WFP.ORG
+
+Martina Schmid
+Hofenacker 64,
+8262 Ramsen,
+Switzerland
+schmidtina72@hotmail.com
+
+Josef Schmidhuber
+Senior Economist, ESD
+Food Insecurity and Vulnerability Information and Mapping System
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Josef.Schmidhuber@fao.org
+
+Hans Schöneberger
+Federal Ministry of Economic Cooperation and Development
+Germany
+
+John Seaman
+Development Director Food Security & Livelihoods Unit
+Save the Children
+17, Grove Lane
+London SE5 8RD,
+UK
+J.Seaman@scfuk.org.uk
+
+Benjamin Senauer
+Professor
+Department of Applied Economics
+University of Minnesota
+St. Paul, MN 55108,
+USA
+bsenauer@dept.agecon.umn.edu
+
+Lluis Serra-Majern
+Professor of Public Health and Chairman,
+Dept. of Clinical Sciences
+PO Box 550
+35080 Las Palmas de Gran Canaria, Spain
+lserra@dcc.ulpgc.es
+
+Shala Shapouri
+Senior Economist
+USDA
+1800 M Street, NW
+USDA/ERS, Room 5169N
+Washington, DC 20036, USA
+SHAPOURI@ers.usda.gov
+
+Prakash Shetty
+Chief, ESNA
+Food and Nutrition Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+prakash.shetty@fao.org
+
+Flora Sibanda-Mulder
+WFP/UNICEF Partnership CoordinatorSchool Feeding Unit
+WFP
+Via Cesare Giulio Viola, 68/70
+Parco dé Medici
+00148 Rome, Italy
+Flora.Sibanda-Mulder@WFP.ORG
+
+Ricardo Sibrian
+Statistician, ESSA
+Statistics Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Ricardo.Sibrian@fao.org
+
+George Simon
+Chief INTERFAIS
+WFP
+Via Cesare Giulio Viola, 68/70
+Parco dé Medici
+00148 Rome, Italy
+george.simon@wfp.org
+
+Jakob Skoet
+Economist, ESAF
+Agriculture and Economic Development Analysis Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Jakob.Skoet@fao.org
+
+Lisa C. Smith
+Research Fellow
+International Food Policy Research Institute
+2033 K. Street, N.W.
+Washington, DC 20006-1002,
+USA
+L.C.SMITH@CGIAR.ORG
+
+Mark Smulders
+Senior Economist, ESAF
+Agriculture and Economic Development Analysis Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Mark.Smulders@fao.org
+
+Soekirman
+Prof.of Nutrition/Director Center for Food and Nutrition Policy Study
+Bogor Agriculture University
+Jl.Siaga Raya, Bappenas No.A-1,
+Pejaten Barat, Jakarta 12510, Indonesia
+skirman@rad.net.id
+
+Dianne Spearman
+Director, Strategy and Policy Division
+WFP
+Via Cesare Giulio Viola, 68/70
+Parco dé Medici
+00148 Rome, Italy
+Dianne.Spearman@wfp.org
+
+Arun Kumar Srivastava
+Joint Director
+Indian Agricultural Statistics
+Research Institute
+Library Avenue,
+New Delhi 110012, India
+arunonnet@indiatimes.com
+
+Jane Stanley
+Program Specialist
+U.S. Mission to the FAO agencies
+Italy
+StanleyJE@state.gov
+
+Caroline Svedberg-Wibling
+Translator
+Säertäppan 1, 3 tr
+S-113 30 Stockholm, Sweden
+caroline.s.wibling@telia.com
+
+Peter Svedberg
+Professor
+Institute for International Economic Studies
+University of Stockholm
+S-10691 Stockholm, Sweden
+peter.svedberg1@iies.su.se
+
+Kiyoshi Taniguchi
+APO, ESAE
+Agriculture and Economic Development Analysis Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Kiyoshi.Taniguchi@fao.org
+
+Slobodanka Teodosijevic
+ESAC
+Agriculture and Economic Development Analysis Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy Slobodanka.Teodosijevic@fao.org
+
+Andrew Thorne Lyman
+Public Nutrition Officer, Strategy and Policy WFP
+Via Cesare Giulio Viola, 68/70
+Parco dé Medici
+00148 Rome, Italy
+Andrew.ThorneLyman@wfp.org
+
+Alison Tierney
+Consultant Anthropologist
+Overseas Development Institute
+70, Queens Park Rise, Brighton, BN2 9ZF, UK
+alison@pavilion.co.uk
+
+Charisse Tillmann
+Assessment Officer, OHA
+WFP
+Via Cesare Giulio Viola, 68/70
+Parco dé Medici
+00148 Rome, Italy
+Charisse.Tillmann@wfp.org
+
+Antonia Trichopoulou
+Professor, University of Athens
+Dept. of Hygiene and Epidemiology
+Medical School, University of Athens
+75 Mikras Asias Str,
+Athens 11527, Greece
+antonia@nut.uoa.gr
+
+Francoise Trine
+Country Support Officer, ESDG
+Food Insecurity and Vulnerability Information and Mapping System
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Francoise.Trine@fao.org
+
+Kraisid Tontisirin
+Director, ESN
+Food and Nutrition Division, FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Kraisid.Tontisirin@fao.org
+
+Marti J. Van Liere
+Nutrition Advisor
+Royal Tropical Institute
+Postbus 95001 1090 HA Amsterdam,
+The Netherlands
+m.v.liere@kit.nl
+
+Christine Van Nieuwenhuyse
+WFP
+Via Cesare Giulio Viola, 68/70
+Parco dé Medici
+00148 Rome, Italy
+Christine.VanNieuwenhuyse@wfp.org
+
+Jacques Vercueil
+(Former Director, ESA, FAO)
+2 bis Impasse du Lido
+13012 Marseilles,
+France
+jacques.vercueil@wanadoo.fr
+
+René Verduijn
+Consultant, ESDG
+Food Insecurity and Vulnerability Information and Mapping System
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Rene.Verduijn@fao.org
+
+Marcela Villarreal
+Chief, SDWP
+Population and Development Service
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Marcela.Villarreal@fao.org
+
+Patrick Webb
+Professor
+Tufts University
+Friedman School of Nutrition Science and Policy
+126 Curtis Street
+Medford,
+MA 02155,
+USA
+Patrick.Webb@tufts.edu
+
+Hans-Peter Weikard
+Wageningen University
+Department of Social Sciences
+Hollandseweg
+NG - 6706 KN Wageningen,
+The Netherlands
+hans-peter.weikard@wur.nl
+
+Robert Weisell
+Nutrition Officer, ESNA
+Food and Nutrition Division
+FAO
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Bob.Weisell@fao.org
+
+William Whelan
+U.S. Agency for International Development
+1300 Pennsylvania Avenue, NW
+Washington, DC 20523, USA
+wwhelan@usaid.gov
+
+Sonali Wickrema
+Strategic Planning Service, WFP
+Via Cesare Giulio Viola, 68/70
+Parco dé Medici
+00148 Rome, Italy
+Sonali.Wickrema@wfp.org
+
+Doris Wiesmann
+Research Fellow
+Center for Development Research (ZEF)
+Department of Economic and Technological Change
+Walter-Flex-Str. 3
+53113 Bonn, Germany
+d.wiesmann@t-online.de
+
+David Wilcock
+(Former Coordinator, FIVIMS, FAO)
+Passwangstrasse 2
+4059-CH
+Basel, Switzerland
+david_wilcock@dai.com
+
+Walter Willett
+Professor
+Harvard School of Public Health
+651 Huntington Avenue
+Boston, MA 02115, USA
+dosulliv@hsph.harvard.edu
+
+Pattanee Winichagoon
+Associate Professor
+Head, Community Nutrition Division
+Institute of Nutrition
+Mahidol University (INMU)
+Salaya, Nakhon Pathom 73170,
+Thailand
+nupwn@mahidol.ac.th
+
+Tiba Zoltan
+Phd Candidate
+School of Oriental and African Studies London, 1044 Budapest, Vaci ut 119, Hungary
+tibadara@hotmail.com
+
+TC/D/Y4250F/1/1.03/500
+
+
+^[4] http://www.fivims.net/index.jsp
+^[5] P. Shetty. 2002. Mesure et évaluation des pénuries alimentaires et de la dénutrition à partir de données anthropométriques. Document principal pour le Colloque scientifique international sur la mesure et l'évaluation des pénuries alimentaires et de la dénutrition. FAO, Rome, 26-28 juin, 2002.
+
+
+Page précédente Début de page

@@ -1,0 +1,1766 @@
+FAO, Rapports sur les pêches, No. 192 FID/R192(Fr)
+
+Cover
+
+LUTTE CONTRE LES PRINCIPALES MALADIES TRANSMISSIBLES DES POISSONS
+
+Table des matières
+
+
+Rapport de la Consultation gouvernementale FAO/OIE sur une Convention internationale sur la lutte contre la propagation des principales maladies transmissibles des poissons
+
+Siège de l'OIE, Paris (France), 25-28 janvier 1977
+
+Les appellations employées dans cette publication et la présentation des données qui y figurent n'impliquent de la part de l'Organisation des Nations Unies pour l'alimentation et l'agriculture aucune prise de position quant au statut juridique des pays, territoires, villes ou zones, ou de leurs autorités, ni quant au tracé de leurs frontières ou limites.
+
+M-42
+ISBN 92-5-200275-8
+
+Reproduction interdite, en tout ou partie, par quelque procédé que ce soit, sans l'autorisation écrite de l'Organisation des Nations Unies pour l'alimentation et l'agriculture, seule détentrice des droits. Adresser une demande motivée au Directeur de la Division des publications, Organisation des Nations Unies pour l'alimentation et l'agriculture, Via delle Terme di Caracalla, 00100 Rome, Italie, en indiquant les passages ou illustrations en cause.
+
+PREPARATION DU PRESENT RAPPORT
+
+On trouvera ci-après la version définitive du rapport approuvé par la Consultation gouvernementale sur une Convention internationale sur la lutte contre la propagation des principales maladies transmissibles des poissons.
+
+Distribution: Référence bibliographique:
+
+Consultation gouvernementale FAO/OIE sur une Convention internationale sur la lutte contre la propagation des principales maladies transmissibles des poissons, Siège de l'OIE, Paris (France), 25-28 janvier 1977 (1977)
+
+Rapp.FAO Pêches, (192):46 p.
+Lutte contre les principales maladies transmissibles des poissons. Rapport de la .....
+Etats Membres intéressés
+Participants
+FAO, Département des pêches
+FAO, Fonctionnaires régionaux des pêches Conferences-Paris(France). Reports. Diseases. Disease control. International agreements.
+
+ORGANISATION DES NATIONS UNIES POUR L'ALIMENTATION ET L'AGRICULTURE
+Rome, © FAO 1977
+
+
+Les liens hypertextes vers d'autres sites de l'Internet ne signifient nullement que l'Organisation approuve officiellement les opinions, idées, données ou produits qui y sont présentés, qu'elle en assume la responsabilité ou qu'elle garantit la validité des informations qui s'y trouvent. Leur seul objectif est d'indiquer où trouver un complément d'informations sur des thèmes apparentés.
+
+Cette version numérique du document a été scannérisé en utilisant des logiciels de reconnaissance optique de texte (OCR). La FAO décline toute responsabilité pour les éventuelles différences pouvant apparaître dans ce document par rapport à la version imprimée originale.
+
+
+Table des matières
+
+Introduction
+
+Convocation de la consultation
+
+Ouverture de la consultation
+
+Adoption de l'ordre du jour
+
+Election du bureau
+
+Projet de convention internationale sur la lutte contre la propagation et les principales maladies transmissibles des poissons - Texte du projet de convention
+
+Texte révisé du projet de convention pour la lutte contre les maladies transmissibles des poissons
+
+ARTICLE 1 - Définitions
+
+2 - Obligations fondamentales
+
+3 - Trafic international de poissons et d'oeufs de poissons
+
+4 - Certificats ichtyosanitaires internationaux
+
+5 - Services officiels de certification
+
+6 - Secrétariat
+
+7 - Réunions des parties contractantes
+
+8 - Comité scientifique consultatif
+
+9 - Dispositions financières
+
+10 - Rapports à fournir par les parties contractantes
+
+11 - Coopération internationale en matière de lutte contre les maladies des poissons
+
+12 - [Règlement des différends]
+
+13 - Signature, ratification, acceptation, approbation et adhésion
+
+14 - Entrée en vigueur
+
+15 - Amendements à la Convention et à ses annexes
+
+16 - Retrait
+
+17 - Fonctions du dépositaire
+
+Aspects institutionnels
+
+Annexes techniques
+
+Annexes techniques - version révisée
+
+Annexe I Liste des espèces visées par la Convention
+
+Annexe II Certificat 1
+Certificat 2
+Certificat 3
+Certificat 4
+
+Annexe III Instructions générales
+
+Section 1. Introduction
+Section 2. Classification des établissements piscicoles - Tableaux 1 et 2
+Section 3. Instructions relatives à l'attribution de certificats sanitaires
+Section 4. Méthodes de certification pour les salmonidés et oeufs de salmonidés
+Section 5. Méthodes de certification pour les cyprinidés et oeufs de cyprinidés
+Section 6. Notes sur les inspections - Tableau 3
+Section 7. Echantillonnage
+Section 8. Histologie
+Section 9. Procédures relatives à l'isolation et à l'identification des agents pathogènes
+Section 10. Identification sérologique des virus
+Section 11. Méthodes de détection de la myxosomiase
+Section 12. Méthodes pour l'identification de la furonculose
+Section 13. Méthodes de désinfection des oeufs embryonnés des salmonidés d'élevage
+Section 14. Méthodes de désinfection pour les cuves et autres récipients utilisés pour transporter des poissons vivants
+Section 15. Méthodes de désinfection pour les récipients utilisés pour transporter des oeufs de poisson
+Section 16. Méthodes recommandées pour la désinfection des établissements piscicoles
+
+Annexe IV Liste des maladies des poissons visées par la Convention
+
+Code Zoo-sanitaire international
+
+Action future - recommandations spécifiques
+
+Clôture de la consultation
+
+Appendices A - Liste des délégués et observateurs
+
+B - Ordre du jour
+
+C - Liste des documents
+Table des matières Page suivante
+
+
+INTRODUCTION
+
+1 Faisant suite à une recommandation du "Symposium sur les principales maladies transmissibles des poissons en Europe et la lutte contre celles-ci", organisé conjointement avec la Septième session de la Commission consultative européenne pour les pêches dans les eaux intérieures (CECPI) en avril 1972, une première Consultation gouvernementale s'est tenue à Aviemore, Ecosse, en Avril-Mai 1974, pour étudier un projet de texte, établi par le Secrétariat de la FAO et relatif à une Convention internationale sur la lutte contre la propagation des principales maladies transmissibles.
+
+2 La première Consultation a exprimé son accord de principe quant au projet de convention et a recommandé qu'un projet révisé soit établi, compte tenu des opinions exprimées au cours de la Consultation. En conséquence, un nouveau projet a été soumis aux Gouvernements intéressés en août 1975.
+
+3 Des réponses des Gouvernements, généralement favorables au projet de Convention proposé, il ressortait néanmoins qu'un certain nombre de problèmes restaient à résoudre et qu'une nouvelle Consultation gouvernementale serait nécessaire. D'autre part, ces réponses exprimaient le sentiment que les Organisations compétentes en matière d'ichtyopathologie, et en particulier l'Office international des épizooties (OIE), et la FAO devraient coopérer pour faciliter la lutte contre les maladies des poissons au plan international.
+
+4 En conséquence, des réunions ont été organisées à l'échelon des Secrétariats entre l'OIE et la FAO, et il en est résulté un accord visant d'organiser conjointement une seconde Consultation gouvernementale pour poursuivre l'étude du projet de Convention.
+
+
+Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+CONVOCATION DE LA CONSULTATION
+
+5 La deuxième Consultation gouvernementale sur une Convention internationale sur la lutte contre la propagation des principales maladies transmissibles des poissons a été convoquée par la FAO et l'OIE au Siège de l'OIE, à Paris (France) du 25 au 28 janvier 1977, sur l'invitation conjointe du Directeur général de la FAO et du Directeur général de l'OIE. Ont participé à la Consultation des représentants des 25 pays suivants: Autriche, Belgique, Canada, Colombie, Tchécoslovaquie, Danemark, Finlande, France, Allemagne (République fédérale d'), Grèce, Hongrie, Islande, Irlande, Italie, Japon, Pays-Bas, Norvège, Pologne, Portugal, Espagne, Suède, Suisse, Royaume-Uni, Venezuela, Yougoslavie ainsi que de la Communauté économique européenne et des observateurs de la Fédération européenne de salmoniculture et du Conseil international pour l'exploration de la mer. Une liste des participants figure en Appendice A.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+OUVERTURE DE LA CONSULTATION
+
+6 Les débats de la Consultation gouvernementale ont été ouverts par M. A. Laaberki, Vice Président de l'OIE, qui a souligné que l'OIE, Organisation intergouvernementale créée en 1924 mettait à la disposition de la Consultation pour la réussite de ses travaux son immense patrimoine scientifique et technique. Il a également rappelé l'Accord conclu en 1952-1953 entre la FAO et l'OIE. M. R. Vittoz, Directeur général de l'OIE, a souhaité la bienvenue aux participants et rappelé le rôle que joue depuis longtemps l'OIE dans la lutte contre la propagation des maladies épizootiques, ainsi que les activités de la Commission permanente de l'OIE pour l'étude des maladies des poissons, créée en 1961 dans l'étude de l'ichtyopathologie et la lutte contre les maladies des poissons.
+
+7 En tant que représentant du Directeur général de la FAO, M. J.E. Carroz, Fonctionnaire principal juridique (Pêches internationales), a également souhaité la bienvenue aux participants et esquissé les étapes qui ont conduit à la présente Consultation ainsi que le développement de la collaboration entre la FAO et l'OIE. Il a d'autre part évoqué les difficultés de nature juridique et constitutionnelle que risque d'entraîner le fait que la FAO assumerait des fonctions de secrétariat au titre de la Convention proposée, qui sera conclue en dehors du cadre de la FAO. Il a également souligné un autre point important, à savoir que dans le contexte de la récente réorientation des programmes et des priorités de la FAO, proposée par le Directeur général et approuvée par le Conseil, le rôle de cette Organisation devrait essentiellement consister en activités de promotion et de préparation et ne devrait pas s'étendre des fonctions de secrétariat. Si les Gouvernements intéressés
+souhaitent établir un Secrétariat indépendant, la FAO est prête à coopérer étroitement avec celui-ci de façon à contribuer à la réalisation des objectifs du projet de Convention.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+ADOPTION DE L'ORDRE DU JOUR
+
+8 L'ordre du jour de la Consultation a été adopté à l'unanimité. L'ordre du jour est reproduit en Appendice B et la liste des documents figure en Appendice C.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+ELECTION DU BUREAU
+
+9 La Consultation a élu à l'unanimité deux Co-Présidents et deux Co-Vices-Présidents, représentant les gouvernements membres de la FAO et de l'OIE, les deux Organisations parrainant la Consultation. Ont été élus Présidents et Co-Vice-Présidents, respectivement MM. K. Tiews (République fédérale d'Allemagne), Président de la CECPI, P. Ghittino (Italie), Président de la Commission permanente de l'OIE pour l'étude des maladies des poissons et MM. T. Backiel (Pologne) et N. Fijan (Yougoslavie).
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+PROJET DE CONVENTION INTERNATIONALE SUR LA LUTTE CONTRE LA PROPAGATION DES PRINCIPALES MALADIES TRANSMISSIBLES DES POISSONS
+TEXTE DU PROJET DE CONVENTION
+
+10 La Consultation a tout d'abord examiné l'ensemble des commentaires des Gouvernements et des Organisations intéressés sur le projet de Convention; elle a ensuite étudié le document FID:CFD/74/3. - Projet révisé de Convention pour la lutte contre la propagation des principales maladies transmissibles des poissons, où se trouvent incorporés: le texte initial, des notes explicatives et la version révisée préparée par le Secrétariat de la FAO après consultations avec l'OIE. Le nouveau texte a été examiné Article par Article. Le texte révisé annexé au présent Rapport (Annexe 1) a été approuvé par la Consultation sans commentaires, réserves et variantes éventuelles contenues dans les notes relatives à certains des Articles révisés.
+
+11 Dès l'ouverture des débats sur le texte de la Convention, la délégation du Royaume-Uni, s'exprimant en sa qualité de Pays Membre de la Communauté économique européenne (CEE), a déclaré que la Commission économique européenne envisage d'adopter des directives CEE en matière de lutte contre les maladies des poissons. La CEE se réserve de prendre position à l'égard de la Convention proposée et de soumettre ultérieurement ses vues et ses commentaires. Les opinions et observations des Pays Membres de la CEE sur le projet de Convention et ses annexes devraient par conséquent être interprétées dans ce contexte.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+TEXTE REVISE DU PROJET DE CONVENTION POUR LA LUTTE CONTRE LES MALADIES TRANSMISSIBLES DES POISSONS
+
+LES PARTIES CONTRACTANTES
+
+CONSCIENTES des pertes économiques et des dégradations de l'environnement causées par la propagation des principales maladies transmissibles des poissons, ainsi que de la nécessité de prendre des mesures concertées pour combattre et, en dernier ressort faire disparaître ces maladies;
+
+CONSIDERANT qu'en l'absence de précautions suffisantes, l'intensification des échanges internationaux de poissons et d'oeufs de poissons fait courir de graves risques en la matière et implique notamment l'introduction de certaines maladies dans des pays qui en sont restés jusqu'ici indemnes;
+
+CONVAINCUES néanmoins qu'un certain trafic international de poissons et d'oeufs de poissons est nécessaire au développement de l'aquaculture et à l'amélioration des ressources halieutiques et du milieu aquatique;
+
+RECONNAISSANT la nécessité d'adopter des mesures pour faciliter le trafic international de poissons et d'oeufs de poissons, tout en prenant des garanties suffisantes contre la propagation des maladies transmissibles des poissons;
+
+PLEINEMENT CONSCIENTES que ces mesures devraient entrer dans le cadre de la coopération internationale, visant à étudier, prévenir, combattre et, en fin de compte, éliminer les principales maladies transmissibles des poissons, et que l'action internationale doit être fondée sur le développement des institutions et des programmes nationaux en vue de la prévention, du contrôle et de l'éradication des maladies transmissibles des poissons, dans les pays exportateurs aussi bien qu'importateurs;
+
+PRENANT EN CONSIDERATION les recommandations de la Commission européenne consultative pour les pêches dans les eaux intérieures (CECPI) et des autres Organisations internationales compétentes pour la lutte contre la propagation des principales maladies transmissibles des poissons;
+
+SONT CONVENUES DE CE QUI SUIT:
+
+ARTICLE 1 - Définitions
+
+Aux fins de la présente Convention, les termes ci-après s'entendent comme suit:
+
+"Certificat sanitaire" désigne le certificat ichtyosanitaire international faisant l'objet de l'Article 4.
+
+"Poissons ou oeufs de poissons" désigne les poissons vivants ou les oeufs de poissons vivants des espèces dont la liste figure en Annexe I à la présente Convention.
+
+"Service officiel de certification" désigne une autorité habilitée à délivrer les certificats et désignée ou constituée conformément aux dispositions de l'Article 5.
+
+"Fonctionnaire de certification" désigne un fonctionnaire ainsi désigné par un service officiel de certification.
+
+ARTICLE 2 - Obligations fondamentales
+
+Les parties contractantes s'engagent à prendre toutes les mesures, y compris des mesures législatives, pour prévenir et enrayer la propagation des maladies transmissibles de poissons via les échanges internationaux de poissons et d'oeufs de poissons, en conformité des dispositions de la présente Convention.
+
+ARTICLE 3 - Trafic international de poissons et d'oeufs de poissons
+
+Note: Certaines délégations se sont prononcées en faveur du maintien dans le texte, en tant que paragraphe (1), des dispositions suivantes:
+
+"Toute exportation de poissons ou d'oeufs de poissons hors du territoire d'une partie contractante dans le territoire d'une autre partie contractante est interdite, à moins que ces poissons ou oeufs de poissons ne soient accompagnés d'un certificat sanitaire valide délivré par un fonctionnaire de certification, conformément aux dispositions de l'Article 4 de la présente Convention".
+
+Toutefois, la majorité de délégations a jugé inutile de tels contrôles additionnels, susceptibles dans certains cas d'occasionner des difficultés administratives et juridiques.
+1. Toute importation de poissons ou d'oeufs de poissons dans le territoire d'une partie contractante est interdite, à moins qu'ils soient accompagnés d'un certificat sanitaire valide délivré par un fonctionnaire de certification pour le compte du service officiel de certification de la partie contractante exportatrice, ou, dans le cas de poissons ou d'oeufs de poissons provenant du territoire d'un Etat qui n'est pas partie à la présente Convention, qu'ils soient accompagnés d'un certificat ou autre document donnant au moins une garantie équivalente quant à l'état sanitaire des poissons ou oeufs de poissons.
+
+Variante A
+2. Toute exportation de poissons ou d'oeufs de poissons à partir d'établissements piscicoles ayant une même source d'alimentation en eau est interdite lorsqu'une maladie contagieuse (une entité pathogène) ne figurant pas à la liste de l'Annexe IV a été constatée officiellement sur les poissons ou les oeufs de poissons de l'un de ces établissements, jusqu'à ce que le service officiel de certification ait officiellement déclaré que l'établissement est indemne de cette maladie ou que la maladie ne présente pas un risque important.
+
+Variante B
+2. Lorsque l'apparition d'une maladie non identifiée des poissons ou des oeufs de poissons dans un établissement piscicole quelconque de sa juridiction est notifiée au service officiel de certification d'une partie contractante, ce service suspendra la délivrance des certificats sanitaires en ce qui concerne les exportations de poissons ou d'oeufs de poissons vers les autres parties contractantes, en provenance de ces établissements piscicoles ou de tous autres établissements piscicoles situés en aval de ces établissements, jusqu'à ce que le service officiel de certification atteste que cet établissement est indemne de cette maladie ou que la maladie ne présente pas un risque important.
+
+Variante C
+2. Aucun certificat ne sera délivré pour des poissons ou des oeufs de poissons provenant d'établissements piscicoles alimentés en eau par un système dans lequel a été constatée en amont, dans un établissement piscicole, une mortalité élevée, de nature présumée contagieuse, sur les poissons (et les oeufs de poissons), jusqu'à ce qu'il soit déclaré officiellement que la maladie n'est pas une des maladies codifiées ou que la maladie ne présente pas un risque important.
+3. Si le certificat relatif aux poissons ou oeufs de poissons n'est pas conforme aux dispositions de la présente Convention, la partie contractante de destination refusera l'entrée à cet envoi et notifiera à l'exportateur ou à son agent d'avoir à éliminer l'envoi dans un laps de temps raisonnable et précisé. Si l'envoi n'est pas éliminé de cette façon dans ce laps de temps, la partie contractante de destination peut détruire l'envoi sans aucune indemnisation.
+4. Les dispositions du paragraphe 1 du présent Article ne s'appliquent pas aux poissons ou oeufs de poissons en transit sur le territoire d'une partie contractante, sous réserve qu'ils ne quittent pas leurs conteneurs et qu'il n'y ait aucune libération d'eau ou de matériel d'emballage à partir de ces conteneurs autrement qu'en application d'une réglementation spécifiée par cette partie contractante, et, en outre, sous réserve du fait que toute partie contractante peut exiger que ces poissons ou oeufs de poissons soient accompagnés d'un certificat sanitaire approprié.
+5. Nonobstant les dispositions du paragraphe 1 ci-dessus, le service officiel de certification de toute partie contractante peut autoriser l'importation de spécimens de poissons ou d'oeufs de poissons à des fins de recherche scientifique bona fide, y compris la la recherche sur les maladies des poissons, sous réserve que soient prises toutes les mesures nécessaires pour empêcher toute propagation des maladies transmissibles des poissons et que l'établissement de recherche ait été agréé à cette fin par le service officiel de certification approprié.
+6. Les dispositions des paragraphes (1) et (2) du présent Article n'entreront en vigueur qu'après un délai de deux ans après l'entrée en vigueur de la présente Convention.
+
+Variante A
+7. Aucune des dispositions de la présente Convention n'affecte le droit d'une partie contractante à assujettir les poissons ou oeufs de poissons importés dans son territoire à des mesures supplémentaires de contrôle, et notamment à des conditions supplémentaires de certification et à des mesures supplémentaires d'inspection, de diagnostic et de quarantaine, qu'elle estimerait nécessaire d'instituer. Si une nouvelle maladie transmissible des poissons venait à apparaître dans le territoire d'une partie contractante ou si une maladie transmissible des poissons déjà présente venait à se propager rapidement dans ce territoire, les autres parties contractantes peuvent, à titre temporaire, interdire ou limiter l'importation de poissons ou d'oeufs de poissons à partir du territoire de cette partie contractante, ou n'autoriser une telle importation qu'à des conditions supplémentaires de certification. Chaque partie contractante s'engage à notifier au Secrétariat toutes les mesures
+supplémentaires de contrôle, y compris toute interdiction ou limitation temporaire des importations, imposées au titre du présent paragraphe, et à préciser dans cette notification les motifs de ces mesures et les maladies couvertes par elles. Ces notifications seront immédiatement communiquées par le Secrétariat aux autres parties contractantes.
+
+Variante B
+7. Aucune des dispositions de la présente Convention n'affecte le droit d'une partie contractante à appliquer des mesures supplémentaires de contrôle, y compris une interdiction totale des importations. Chaque partie contractante s'engage à notifier au Secrétariat toutes les mesures supplémentaires de contrôle, y compris toute interdiction ou limitation des importations, imposées au titre du présent paragraphe, et à préciser dans cette notification les motifs de ces mesures et les maladies couvertes par elles. Ces notifications seront immédiatement communiquées par le Secrétariat aux autres parties contractantes.
+
+Notes: (1) Une délégation a été d'avis que le paragraphe 7 devrait être entièrement supprimé. Cependant, la plupart des délégations ont estimé que les parties contractantes devraient avoir le droit d'imposer des mesures de contrôle plus strictes que celles prévues par la Convention.
+
+(2) Une délégation a réservé sa position quant à l'acceptabilité des différentes variantes possibles du paragraphe 2, en raison d'éventuelles difficultés juridiques et administratives pour son pays.
+
+ARTICLE 4 - Certificats ichtyosanitaires internationaux
+
+1. Les certificats sanitaires fourniront des informations sur l'état sanitaire des poissons ou des oeufs de poissons concernant les maladies énumérées à l'Annexe IV et susceptibles d'affecter les espèces en cause.
+2. Les certificats sanitaires seront remplis par un fonctionnaire de certification agréé et seront fondés sur des inspections ayant comporté des visites sur le lieu de production, sur des prélèvements et des diagnostics de laboratoire, conformément aux méthodes normalisées:
+
+Variante A
+
+Enoncée à l'Annexe III à la présente Convention.
+
+Variante B
+
+Approuvée par les parties contractantes.
+3. Seul un service officiel de certification de la partie contractante exportatrice ou un service agissant pour son compte est habilité à délivrer les certificats sanitaires.
+4. Les certificats sanitaires seront libellés conformément au modèle reproduit en Annexe II ou contiendront des dispositions qui y sont prévues selon l'espèce en cause. Les certificats sanitaires seront classés en fonction du degré de fiabilité assuré par la méthodologie utilisée pour certifier l'absence de maladie dans la source d'eau en cause, l'établissement et/ou la zone d'origine; ils contiendront les considérations relatives à l'exposition attestée aux maladies.
+5. Chaque partie contractante notifiera au Secrétariat les types de certificats et le degré de certification acceptables pour les importations de poissons ou d'oeufs de poissons sur son territoire. Ces notifications seront aussitôt communiquées par le Secrétariat aux autres parties contractantes et prendront effet trente jours après cette communication.
+6. Chaque partie contractante s'engage, sous réserve des dispositions du paragraphe 5, à s'assurer le prompt dédouanement, à la frontière, des importations de poissons et d'oeufs de poissons accompagnés d'un certificat valide satisfaisant aux conditions requises, notifiées en vertu du paragraphe précédent.
+
+ARTICLE 5 - Services officiels de certification
+
+1. Chaque partie contractante s'engage à désigner ou créer un (ou des) service(s) officiel(s) de certification chargé(s) de procéder aux inspections et de délivrer les certificats sanitaires conformément aux dispositions de la présente Convention.
+2. Chaque service officiel de certification devra être pourvu d'installations de laboratoire suffisantes et disposer de personnel qualifié, afin d'être à même de procéder aux inspections et d'établir des diagnostics, conformément aux dispositions de l'Annexe III.
+3. Chaque partie contractante s'engage à informer le Secrétariat de l'identité de son (ou de ses) service(s) officiel(s) de certification et le Secrétariat s'engage à communiquer cette information aux autres parties contractantes.
+
+ARTICLE 6 - Secrétariat
+
+Variante A
+1. Les fonctions de secrétariat au titre de la présente Convention seront assurées par l'Office International des Epizooties (OIE) dans les limites de ses attributions et en conformité des règlements sur lesquels se fondent les activités de l'Office.
+2. Le Secrétariat sera chargé de:
+a. convoquer des réunions périodiques des parties contractantes une fois tous les deux ans, ou à tout autre intervalle que celles-ci jugeraient approprié; des sessions extraordinaires peuvent être convoquées à tout moment à la demande écrite des deux tiers au moins des parties contractantes;
+b. convoquer des réunions du Comité scientifique consultatif, conformément aux dispositions de l'Article 8;
+c. préparer le projet de budget devant être examiné par la réunion des parties contractantes;
+d. transmettre aux parties contractantes intéressées toutes notifications et tous rapports reçus par le Secrétariat conformément aux Articles 4, 5 et 10;
+e. remplir toutes tâches qui pourraient se révéler nécessaires pour garantir l'application intégrale des dispositions de l'Article 11;
+f. s'acquitter de toutes autres fonctions qui pourraient lui être attribuées par la présente Convention ou assignées par une réunion des parties contractantes.
+3. Dans l'exercice des fonctions du Secrétariat, l'OIE s'engage à coopérer étroitement avec l'Organisation des Nations Unies pour l'Alimentation et l'Agriculture et les autres organismes internationaux compétents.
+
+Variante B
+1. Les parties contractantes désigneront un Secrétariat constitué par un Secrétariat exécutif, aux conditions qu'elles pourront déterminer pour s'acquitter des fonctions qui lui sont confiées par la présente Convention.
+2. Le Secrétaire Exécutif peut nommer le cas échéant, le personnel nécessaire pour lui permettre de s'acquitter des fonctions qui lui sont confiées par la présente Convention en conformité des règlements et conditions que les parties contractantes pourront déterminer.
+3. Le Secrétaire Exécutif sera chargé de:
+a. convoquer des réunions périodiques des parties contractantes une fois tous les deux ans, ou à tout autre intervalle que celles-ci jugeraient approprié; des sessions extraordinaires peuvent être convoquées à tout moment à la demande écrite des deux tiers au moins des parties contractantes;
+b. convoquer des réunions du Comité scientifique consultatif, conformément aux dispositions de l'Article 8;
+c. préparer le projet de budget devant être examiné par la réunion des parties contractantes;
+d. transmettre aux parties contractantes intéressées toutes notifications et tous rapports reçus par le Secrétariat conformément aux Articles 4, 5 et 10;
+e. remplir toutes tâches qui pourraient se révéler nécessaires pour garantir l'application intégrale des dispositions de l'Article 11;
+f. s'acquitter de toutes autres fonctions qui pourraient lui être attribuées par la présente Convention ou assignées par une réunion des parties contractantes.
+4. Dans l'exercice de ses fonctions, le Secrétaire Exécutif s'engage à coopérer étroitement avec l'Office International des Epizooties, l'Organisation des Nations Unies pour l'Alimentation et l'Agriculture et les autres organismes internationaux compétents.
+
+Note: Une grande majorité de délégués se sont prononcés en faveur de la Variante A; on a toutefois jugé qu'une Variante B prévoyant l'établissement d'un Secrétariat indépendant devrait être maintenue dans le texte de telle sorte qu'une décision définitive sur ce point puisse être prise par une Conférence de Plénipotentiaires. Cependant, si la Variante B était adoptée, il s'ensuivrait la nécessité d'apporter en d'autres endroits du texte certains amendements et adjonctions.
+
+ARTICLE 7 - Réunions des parties contractantes
+
+1. Les parties contractantes se réunissent dans les conditions prévues à l'Article 6, paragraphe 2 (a) pour faire le point des progrès réalisés dans l'application de la présente Convention; elles peuvent notamment:
+a. recevoir et examiner les rapports des parties contractantes conformément aux dispositions de l'Article 10;
+b. recevoir et examiner les recommandations du Comité scientifique consultatif conformément aux dispositions de l'Article 8;
+c. examiner et adopter le budget administratif;
+d. examiner et adopter des amendements à la présente Convention et à ses Annexes, conformément aux dispositions de l'Article 15;
+e. examiner et prendre toutes dispositions voulues pour atteindre les objectifs de la présente Convention.
+2. Le quorum pour les réunions des parties contractantes sera la moitié des parties contractantes.
+3. Variante A
+Sauf dispositions contraires de la présente Convention, les décisions des réunions des parties contractantes seront prises à la majorité simple des voix des parties contractantes présentes et prenant part au vote. Les décisions au titre du paragraphe 1 (c) seront prises à la majorité des deux tiers des parties contractantes présentes et prenant part au vote.
+Variante B
+Les décisions des réunions des parties contractantes seront prises à la majorité des deux tiers des parties contractantes présentes et prenant part au vote.
+4. Les réunions des parties contractantes seront conduites conformément au Règlement intérieur adopté au cours de la première réunion.
+
+ARTICLE 8 - Comité scientifique consultatif
+
+1. Lors de l'entrée en vigueur de la présente Convention, les parties contractantes établiront un Comité scientifique consultatif sur les maladies des poissons et la lutte contre ces maladies.
+2. a. Chaque partie contractante peut proposer au Directeur général de l'OIE des experts des maladies des poissons et de la lutte contre ces maladies, susceptibles d'appartenir au Comité scientifique consultatif. Le Comité sera composé de dix de ces experts, choisis par le Directeur général de l'OIE en tenant compte des propositions des parties contractantes. Ils resteront en fonction pendant une période de quatre ans.
+Note: Certaines délégations ont jugé nécessaire d'envisager une représentation régionale lors du choix des experts admis à siéger au Comité scientifique consultatif, et estimé que le choix des experts par le Directeur général de l'OIE devrait être soumis à l'approbation définitive des parties contractantes elles-mêmes.
+b. Les dispositions relatives aux réunions du Comité scientifique consultatif, les ordres du jour et les comptes rendus de ces réunions seront communiqués aux parties contractantes.
+c. Les réunions du Comité scientifique consultatif seront ouvertes à un observateur de chaque partie contractante; les observateurs peuvent participer aux débats mais ne pourront voter.
+d. Le Comité scientifique consultatif pour des questions particulières peut coopter temporairement des conseillers supplémentaires.
+3. Le Comité scientifique consultatif est chargé de donner des avis aux parties contractantes et au Secrétariat sur toutes les questions importantes ayant trait à la présente Convention, et notamment:
+a. de proposer des amendements aux Annexes à la présente Convention, conformément à l'Article 15;
+b. de recommander aux réunions des parties contractantes des programmes de recherche en commun conformément aux dispositions de l'Article 11.
+4. Les réunions du Comité scientifique consultatif seront convoquées par le Secrétariat, en consultation avec les parties contractantes, en temps et lieu jugés nécessaires pour atteindre les objectifs de la présente Convention.
+
+ARTICLE 9 - Dispositions financières
+
+1. Chaque partie contractante s'engage à verser une contribution annuelle au budget administratif, conformément à un barème adopté lors d'une réunion des parties contractantes, à la majorité des deux tiers des parties contractantes présentes et prenant part au vote. Le barème des contributions est établi:
+
+Variante A
+
+Sur la base d'une participation égale de chaque partie contractante.
+
+Variante B
+
+Conformément au barème utilisé pour les contributions au budget des Nations Unies.
+2. Les frais afférents à la participation des délégués, de leurs suppléants, experts et conseillers aux réunions des parties contractantes convoquées en vertu de l'Article 7, ou à des réunions du Comité scientifique consultatif convoquées en vertu de l'Article 8, sont à la charge de leurs gouvernements respectifs.
+
+Note: La Consultation a pris note du fait que les nouvelles méthodes de désignation du Comité scientifique consultatif envisagées par l'Article 8 révisé pourraient entraîner certains amendements du paragraphe 2 de l'Article 9 quant aux frais afférents à la participation des experts aux réunions du Comité scientifique consultatif. Il a été décidé de renvoyer ce problème à la future Conférence de Plénipotentiaires.
+
+ARTICLE 10 - Rapports à fournir par les parties contractantes
+
+1. Chaque partie contractante s'engage à faire parvenir au Secrétariat, par l'intermédiaire de son service officiel de certification:
+a. la notification, par la méthode la plus expéditive, sous une forme définie d'un commun accord par les parties contractantes, [dans les moindres délais et, si possible], dans les 24 heures suivant la confirmation de toute maladie nouvellement reconnue (ou identifiée) dans le pays. Cette notification comportera, si besoin est, des renseignements sur toutes les mesures de contrôle prises pour prévenir la propagation du foyer de la maladie;
+b. des rapports trimestriels, sous une forme décrite par les parties contractantes sur recommandation du Secrétariat, et contenant des renseignements sur la fréquence et l'évolution de l'une quelconque des maladies des poissons énumérées à l'Annexe IV à la présente Convention et, le cas échéant, sur toutes les mesures de contrôle prises pour prévenir la propagation de la maladie;
+c. chaque année, un rapport spécial sur la situation des maladies des poissons dans ses territoires, sur les mesures adoptées pour combattre les maladies des poissons, les méthodes utilisées pour l'inspection, le diagnostic et la certification, et toutes autres informations pouvant être utiles aux réunions des parties contractantes.
+2. Le Secrétariat communiquera aux parties contractantes, sous une forme appropriée, les informations reçues en application des paragraphes ci-dessus.
+3. Chaque service officiel de certification tiendra à jour des registres du nombre des établissements piscicoles reconnus indemnes des maladies couvertes par la présente Convention.
+
+Notes: (1) Certaines délégations ont réservé leur position quant au paragraphe 3 en raison des problèmes que pourraient éventuellement provoquer dans leur pays cette obligation.
+
+(2) Certaines délégations ont vivement souhaité la suppression des mots placés entre crochets au paragraphe 1 (a).
+
+(3) Une délégation a exprimé ses réserves concernant l'acceptabilité de la dernière phrase du paragraphe 1 (a), en raison des difficultés administratives qu'il y aurait à faire figurer les détails des mesures de contrôle dans la première, et urgente, notification de l'apparition d'une nouvelle maladie.
+
+ARTICLE 11 - Coopération internationale en matière de lutte contre les maladies des poissons
+
+Les parties contractantes se déclarent disposées à coopérer, dans toute la mesure possible, dans le domaine de la recherche sur les maladies des poissons, et à promouvoir des programmes de recherche en commun, les échanges d'expériences dans les domaines scientifique, technique, juridique et administratif de la lutte contre les maladies des poissons, ainsi que la recherche au plan national dans ces domaines.
+
+ARTICLE 12 - [Règlement des différends
+
+1. Tout différend entre deux ou plusieurs parties contractantes concernant l'interprétation ou l'application de la présente Convention sera, dans toute la mesure possible, réglé par voie de négociation entre ces parties. Tout différend de ce type qui ne peut être réglé par voie de négociation ou tout autre moyen choisi d'un commun accord, sera soumi pour décision, à la demande de l'une ou l'autre des parties en litige, à l'arbitrage de trois arbitres.
+2. Chacune des deux parties en litige désignera un arbitre et les deux parties désigneront ensemble le troisième arbitre, qui sera président. Si, dans les deux mois suivant réception de la notification de la soumission du différend à l'arbitrage, l'une des parties n'a pas désigné un arbitre, ou si, dans le mois suivant la désignation de deux arbitres, le troisième arbitre n'a pas été désigné, l'une ou l'autre peut demander au président de la Cour International de Justice de désigner un arbitre.
+3. La procédure d'arbitrage sera déterminée par les arbitres, mais le président aura tous pouvoirs pour régler toutes les questions de procédure dans tous les cas de désaccord à ce sujet.
+4. Un vote à la majorité des arbitres sera suffisant pour prendre une décision, laquelle sera définitive et obligatoire pour les parties en litige].
+
+Note: La majorité des délégués se sont prononcés en faveur de la suppression pure et simple de cet Article.
+
+ARTICLE 13 - Signature, ratification, acceptation, approbation et adhésion
+
+1. La présente Convention est ouverte à la signature du gouvernement de tout Etat membre de l'Organisation des Nations Unies ou de l'une quelconque de ses institutions spécialisées ou de l'Agence Internationale pour l'Energie Atomique ou de tout Etat partie au statut de la Cour Internationale de Justice.
+2. La présente Convention est soumise à la ratification, l'acceptabilité ou l'approbation des pays signataires.
+3. Tout Etat entrant dans les catégories citées au paragraphe 1 du présent Article, ou tout autre Etat invité par les parties contractantes à devenir partie à la Convention, est admis à adhérer à la Convention dès l'entrée en vigueur de celle-ci.
+4. Les instruments de ratification, d'acceptation, d'approbation ou d'adhésion, ainsi que les instruments d'acceptation relatifs aux amendements approuvés à la Convention en vertu de l'Article 15, sont déposés auprès du Directeur général de l'Organisation des Nations Unies pour l'Alimentation et l'Agriculture, ci-après désigné comme le "Dépositaire".
+
+ARTICLE 14 - Entrée en vigueur
+
+Sous réserve des dispositions du paragraphe 6 de l'Article 3, la présente Convention prend effet à compter du soixantième jour suivant la date du dépôt du dixième instrument de ratification, d'acceptation ou d'approbation. Elle entre en vigueur pour les autres Etats qui la ratifient, l'acceptent, l'approuvent ou y adhèrent à compter du soixantième jour suivant la date du dépôt de leur instrument de ratification, d'acceptation, d'approbation ou d'adhésion.
+
+ARTICLE 15 - Amendements à la Convention et à ses Annexes
+
+1. Toute partie contractante peut proposer des amendements aux Articles de la présente Convention. Toute proposition d'amendement introduite doit être présentée pour approbation à une réunion des parties contractantes et, si elle est adoptée à la majorité des deux tiers des membres présents et prenant part au vote, communiquée aux parties contractantes. Tout amendement entrera en vigueur, pour chaque partie contractante qui l'accepte, le soixantième jour après le dépôt par les deux tiers des parties contractantes de leurs instruments d'acceptation de l'amendement, puis, pour chaque partie contractante qui l'accepte, le soixantième jour à compter de la date du dépôt de son instrument d'acceptation de l'amendement.
+2.
+a. Les propositions d'amendement aux Annexes à la présente Convention peuvent être introduites, soit par une partie contractante, soit par le comité scientifique consultatif constitué en vertu de l'Article 8. Toute proposition de ce type formulée par une partie contractante sera renvoyée, dans les moindres délais, au Comité scientifique consultatif pour observations. Toute proposition d'amendement, assortie des observations du Comité scientifique consultatif, sera examinée par les parties contractantes et, si elle est approuvée par une majorité des deux tiers des parties contractantes ou, dans le cas d'une réunion des parties contractantes, par une majorité des deux tiers des parties présentes et prenant part au vote, elle sera communiquée aux parties contractantes.
+b. L'amendement prendra effet à l'expiration d'un délai de six mois à compter de la date de notification aux parties contractantes, ou après tout autre délai qui pourrait être fixé par une réunion des parties contractantes, pour toute partie contractante n'ayant pas communiqué une objection ou une notification indiquant que les conditions nécessaires à l'application de l'amendement proposé ne sont pas encore remplies dans son pays, à moins qu'une objection ne soit communiqué au Dépositaire par un tiers au moins des parties contractantes avant l'expiration de cette période.
+c. Toute partie contractante ayant communiqué une objection ou une notification en vertu des dispositions de l'alinéa (b) ci-dessus, peut retirer son objection ou notifier au Dépositaire qu'elle accepte l'amendement proposé. Dans ce cas, l'amendement prendra effet pour cette partie contractante la plus éloignée des deux dates ci-après: soit à l'expiration du délai mentionné à l'alinéa (b) ci-dessus, soit à la date du retrait de son objection ou de la notification de son acceptation de l'amendement proposé.
+
+ARTICLE 16 - Retrait
+
+Après un délai de deux ans à compter de la date d'entrée en vigueur de la présente Convention, toute partie contractante peut, à tout moment, notifier par écrit son retrait de la Convention. Ce retrait devient effectif douze mois après la date de réception de l'avis de retrait par le Dépositaire.
+
+ARTICLE 17 - Fonctions du Dépositaire
+
+1. Le Dépositaire informe les Gouvernements des Etats visés au paragraphe 1 de l'Article 13:
+a. des signatures de la présente Convention, ainsi que du dépôt des instruments de ratification, d'acceptation, d'approbation ou d'adhésion en vertu de l'Article 13;
+b. de la date d'entrée en vigueur de la présente Convention en vertu de l'Article 14;
+c. de toute notification de retrait reçue en vertu de l'Article 16..
+2. Le Dépositaire informe les parties contractantes:
+a. de la date d'entrée en vigueur des paragraphes 1 et 2 de l'Article 3;
+b. des propositions d'amendement au texte de la Convention [ ou à ses Annexes], des notifications relatives à ces amendements et de l'entrée en vigueur de ceux-ci en vertu de l'Article 15..
+3. L'original de la présente Convention est déposé auprès du Dépositaire, qui en fait tenir copie certifiée conforme aux Gouvernements de tous les Etats qui peuvent devenir Parties à la Convention en vertu des dispositions de l'Article 13.
+
+Fait à ce en un seul exemplaire en langues anglaise, française, allemande, russe et espagnole, chaque texte faisant également foi.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+ASPECTS INSTITUTIONNELS
+
+12 La Consultation a examiné les incidences de la déclaration du représentant du Directeur général de la FAO sur les fonctions du Secrétariat en vertu de la Convention proposée (cf. paragraphe 7 ci-dessus). Différentes possibilités ont été étudiées, y compris celles de la création d'un secrétariat indépendant et de la désignation d'une autre organisation internationale pour s'acquitter de ces fonctions de secrétariat. La Consultation a souligné qu'il était nécessaire d'éviter le chevauchement des fonctions et de maintenir les dépenses à un minimum. La grande majorité des délégations se sont exprimées en faveur de la désignation de l'OIE comme responsable des fonctions de secrétariat au titre de la Convention. Quelques délégations ont toutefois fait savoir qu'elles envisageaient de préférence la création d'un secrétariat indépendant. Le Directeur général de l'OIE a confirmé qu'il était en mesure d'accueillir au siège de son Organisation ledit secrétariat et de lui fournir
+toutes les facilités nécessaires: bureaux, matériel, frais de courrier, impression, tenue de réunions. Les frais de personnel et de missions devraient être couverts par les contributions spéciales des pays contractants. La Consultation a estimé que la FAO devrait être invitée à assumer les fonctions de dépositaire au titre de la Convention proposée, ainsi qu'il était envisagé dans les projets antérieurs. On a cependant noté que ces amendements ou modifications pourraient se révéler nécessaires pour que le dépositaire soit en mesure d'exercer pleinement les fonctions que l'on attend de lui au titre de la Convention.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+ANNEXES TECHNIQUES
+
+13 Les annexes techniques à la Convention avaient été examinées au cours d'une réunion préliminaire d'experts, tenue les 22, 24 et 25 janvier 1977 et en séance plénière de la Consultation, dans la matinée du 27 janvier 1977. Les principes sur lesquels se fondent ces annexes ont été approuvés par la Consultation; il a été convenu que les annexes seront adressées aux participants et à leurs gouvernements, sous leur forme actuelle, pour réexamen avec le rapport de la Consultation et le texte révisé du projet de Convention. Les commentaires relatifs aux annexes techniques seront adressés au secrétariat conjoint de la Consultation. On a noté que ces commentaires pourraient également être examinés à l'occasion de la réunion de la Commission permanente de l'OIE pour l'étude des maladies des poissons qui se réunira à Paris en mai 1977.
+
+Version révisée
+ANNEXES TECHNIQUES
+
+ANNEXE I
+LISTE DES ESPECES VISEES PAR LA CONVENTION
+
+1. Espèces de salmonidés
+2. Espèces de cyprinidés (non ornementaux)
+
+ANNEXE II
+CONVENTION INTERNATIONALE POUR LA LUTTE CONTRE LA PROPAGATION DES MALADIES TRANSMISSIBLES DES POISSONS
+
+CERTIFICAT ICHTYOSANITAIRE INTERNATIONAL POUR LES OEUFS EMBRYONNES OU LES POISSONS VIVANTS DE LA FAMILLE DES SALMONIDES ET LES OEUFS EMBRYONNES OU LES POISSONS VIVANTS DE LA FAMILLE DES CYPRINIDES (NON ORNEMENTAUX)
+CERTIFICAT 1
+
+[à remplir par le fonctionnaire de certification]
+
+Ière PARTIE Le soussigné CERTIFIE que:
+
+1. L'établissement d'origine du présent envoi a été inspecté conformément aux dispositions de l'Annexe III à la Convention internationale pour la lutte contre les maladies transmissibles des poissons, 19.. et a été classé établissement codé exempt d'agent pathogène, EXEMPT des agents pathogènes énumérés au Tableau 1 de l'Annexe III^1
+
+2. L'établissement d'origine du présent envoi satisfait aux impératifs minimums de certification notifiée par le pays de destination.
+
+Nom et cachet du Service officiel de l'établissement
+
+Signature et titre du fonctionnaire de certification
+
+Nom (en lettres d'IMPRIMERIE) du fonctionnaire de certification
+
+Lieu de délivrance Date de délivrance
+
+POUR INFORMATION SEULEMENT:
+
+Les symptômes des maladies ci-après sont absents:
+
+(a) Myxosomiase 
+(b) Furonculose 
+(c) Erythrodermatite
+
+POUR ETRE VALIDE, LE PRESENT CERTIFICAT DOIT AVOIR ETE DELIVRE ..... JOURS AU PLUS AVANT LA DATE DE PREMIERE EXPEDITION ET LES DEUX PARTIES DOIVENT AVOIR ETE DUMENT REMPLIES ET SIGNEES
+
+^1 Les agents pathogènes énumérés au Tableau 1, Section 2, de l'Annexe III à la Convention internationale pour la lutte contre les maladies transmissibles des poissons 19.. sont:
+pour les salmonidés: les virus de la NPI, de la FHI et de la SHV
+pour les cyprinidés: le virus de la virémie du printemps
+
+DECLARATION
+
+IIème PARTIE (à remplir par l'exportateur ou son agent)
+
+1. Espèces de poissons
+2. Pays d'origine ou pays exportateur
+3. Pays de destination
+4. Nom et adresse de l'exportateur
+
+
+5. Type^1 et adresse de l'établissement d'origine
+
+
+
+6. Nom et adresse de l'importateur
+
+
+7. Type^1 adresse de l'établissement d'origine
+
+
+
+8. Nombre total d'oeufs^2 /poissons^2 faisant l'objet du présent envoi
+
+9. Taille des poissons constituant le présent envoi
+
+Le soussigné DECLARE par la présente que:
+
+[pour les envois d'OEUFS seulement]
+
+1. Cet envoi d'oeufs a été désinfecté immédiatement avant d'être transporté, conformément aux procédures stipulées à l'Annexe III de la Convention internationale pour la lutte contre les maladies transmissibles des poissons 19..
+
+[pour tous les envois]
+
+2. Toutes les cuves et autres récipients autres que les cuves ou récipients à jeter, utilisés pour le présent envoi ont été désinfectés immédiatement avant d'être utilisés, conformément aux dispositions de l'Annexe III (pour les poissons vivants) de la Convention internationale pour la lutte contre les maladies transmissibles des poissons, 19..
+
+3. Aucune cuve ou récipient à jeter, utilisé dans le présent envoi, n'a été employé antérieurement.
+
+Certifié sincère et véritable
+
+Signature de l'exportateur ou de l'agent
+
+Date
+
+^1 Par exemple: Ecloserie gouvernementale ou publique ou privée ou établissement piscicole
+^2 Biffer la mention inutile
+
+CERTIFICAT ICHTYOSANITAIRE INTERNATIONAL POUR LES OEUFS EMBRYONNES OU LES POISSONS VIVANTS DE LA FAMILLE DES SALMONIDES ET LES OEUFS EMBRYONNES OU LES POISSONS VIVANTS DE LA FAMILLE DES CYPRINIDES
+CERTIFICAT 2
+
+[à remplir par le fonctionnaire de certification]
+
+Ière PARTIE Le soussigné CERTIFIE que:
+
+1. L'établissement d'origine du présent envoi a été inspecté conformément aux dispositions de l'Annexe III à la Convention internationale pour la lutte contre les maladies transmissibles des poissons, 19.., et a été classé établissement codé exempt de maladies, EXEMPT des maladies énumérées au Tableau 1 de l'Annexe III^1.
+
+2. L'établissement d'origine du présent envoi satisfait aux impératifs minimums de certification notifiée par le pays de destination.
+
+Nom et cachet du Service officiel de l'établissement
+
+Signature et titre du fonctionnaire de certification
+
+Nom (en lettres d'IMPRIMERIE) du fonctionnaire de certification
+
+Lieu de délivrance Date de délivrance
+
+POUR INFORMATION SEULEMENT:
+
+Les symptômes des maladies ci-après sont absents:
+
+(a) Myxosomiase 
+(b) Furonculose 
+(c) Erythrodermatite
+
+POUR ETRE VALIDE, LE PRESENT CERTIFICAT DOIT AVOIR ETE DELIVRE ..... JOURS AU PLUS AVANT LA DATE DE PREMIERE EXPEDITION ET LES DEUX PARTIES DOIVENT AVOIR ETE DUMENT REMPLIES ET SIGNEES
+
+^1 Les agents pathogènes énumérés au Tableau 1, Section 2, de l'Annexe III à la Convention internationale pour la lutte contre les maladies transmissibles des poissons, 19.. sont:
+pour les salmonidés: les virus de la NPI, de la FHI et de la SHV
+pour les cyprinidés: le virus de la virémie du printemps
+
+DECLARATION
+
+IIème PARTIE (à remplir par l'exportateur ou son agent)
+1. Espèces de poissons
+2. Pays d'origine ou pays exportateur
+3. Pays de destination
+4. Nom et adresse de l'exportateur
+
+
+5. Type^1 et adresse de l'établissement d'origine
+
+
+
+6. Nom et adresse de l'importateur
+
+
+7. Type^1 adresse de l'établissement d'origine
+
+
+
+8. Nombre total d'oeufs^2 /poissons^2 faisant l'objet du présent envoi
+
+9. Taille des poissons constituant le présent envoi
+
+Le soussigné DECLARE par la présente que:
+
+[pour les envois d'OEUFS seulement]
+
+1. Cet envoi d'oeufs a été désinfecté immédiatement avant d'être transporté, conformément aux procédures stipulées à l'Annexe III de la Convention internationale pour la lutte contre les maladies transmissibles des poissons, 19..
+
+[pour tous les envois]
+
+2. Toutes les cuves et autres récipients autres que les cuves ou récipients à jeter utilisés, conformément aux dispositions de l'Annexe III (pour les poissons vivants) de la Convention internationale pour la lutte contre les maladies transmissibles des poissons, 19..
+
+3. Aucune cuve ou récipient à jeter, utilisé dans le présent envoi, n'a été employé antérieurement.
+
+Certifié sincère et véritable
+
+Signature de l'exportateur ou de l'agent
+
+Date
+
+^1 Par exemple: Ecloserie gouvernementale ou publique ou privée ou établissement piscicole
+^2 Biffer la mention inutile
+
+CERTIFICAT ICHTYOSANITAIRE POUR LES OEUFS EMBRYONNES OU LES POISSONS VIVANTS DE LA FAMILLE DES SALMONIDES
+CERTIFICAT 3
+
+[à remplir par le fonctionnaire de certification]
+
+Ière PARTIE Le soussigné CERTIFIE que:
+
+1. L'établissement d'origine du présent envoi a été inspecté conformément aux dispositions de l'Annexe III à la Convention internationale pour la lutte contre les maladies transmissibles des poissons, et qu'il a été classé établissement indemne de certaines maladies. Sur la base de ces inspections, les maladies ci-après ont été jugées absentes:
+
+pour les SALMONIDES 1. SHV
+2. NHI
+3. NPI
+
+2. L'établissement d'origine du présent envoi satisfait aux impératifs minimums de certification notifiée par le pays de destination.
+
+Nom et cachet du service officiel de certification
+
+Signature et titre du fonctionnaire de certification
+
+Nom (en lettres d'IMPRIMERIE) du fonctionnaire de certification
+
+Lieu de délivrance Date de délivrance
+
+POUR INFORMATION SEULEMENT:
+
+Les symptômes des maladies ci-après sont absents:
+
+(a) Myxosomiase
+(b) Furonculose
+
+POUR ETRE VALIDE, LE PRESENT CERTIFICAT DOIT AVOIR ETE DELIVRE ..... JOURS OU PLUS AVANT LA DATE DE PREMIERE EXPEDITION ET LES DEUX PARTIES DOIVENT AVOIR ETE DUMENT REMPLIES ET SIGNEES
+
+IIème PARTIE DECLARATION
+
+[à remplir par l'exportateur ou son agent]
+1. Espèces de poissons
+2. Pays d'origine ou pays exportateur
+3. Pays de destination
+4. Nom et adresse de l'exportateur
+
+
+5. Type^1 et adresse de l'établissement d'origine
+
+
+
+6. Nom et adresse de l'importateur
+
+
+7. Type^1 et adresse de l'établissement d'origine
+
+8. Nombre total d'oeufs^2 /poissons^2 faisant l'objet du présent envoi
+
+9. Taille des poissons constituant le présent envoi
+
+Le soussigné DECLARE par la présente que:
+
+[pour les envois d'OEUFS seulement]
+
+1. Cet envoi d'oeufs a été désinfecté immédiatement avant d'être transporté, conformément aux procédures stipulées à l'Annexe III de la Convention internationale pour la lutte contre les maladies transmissibles des poissons, 19..
+
+[pour tous les envois]
+
+2. Toutes les cuves et autres récipients autres que les cuves ou récipients à jeter utilisés pour le présent envoi ont été désinfectés immédiatement avant d'être utilisés, conformément aux dispositions de l'Annexe III (pour les poissons vivants) de la Convention internationale pour la lutte contre les maladies transmissibles des poissons, 19..
+
+3. Aucune cuve ou récipient à jeter, utilisé dans le présent envoi, n'a été employé antérieurement.
+
+Certifié sincère et véritable
+
+Signature de l'exportateur ou de l'agent
+
+Date
+
+^1 Par exemple: Ecloserie gouvernementale ou publique ou privée ou établissement piscicole
+^2 Biffer la mention inutile
+
+CERTIFICAT ICHTYOSANITAIRE INTERNATIONAL POUR LES OEUFS EMBRYONNES OU LES POISSONS VIVANTS DE LA FAMILLE DES SALMONIDES ET LES OEUFS EMBRYONNES OU LES POISSONS VIVANTS DE LA FAMILLE DES CYPRINIDES
+CERTIFICAT 4
+
+[à remplir par le fonctionnaire de certification]
+
+Ière PARTIE Le soussigné CERTIFIE que:
+
+^11. L'établissement d'origine du présent envoi a été inspecté conformément aux dispositions de l'Annexe III à la Convention internationale pour la lutte contre les maladies transmissibles des poissons, 19.., et qu'il a été classé établissement à infections minimums. Sur la base de ces inspections, on a constaté que les maladies suivantes étaient absentes:
+
+^12. Les poissons ou oeufs constituant le présent envoi ont été prélevés dans des eaux inspectées conformément aux dispositions de la Section 4.4 (iii) de l'Annexe III et ne présentent aucun signe clinique des maladies ci-après:
+
+pour les SALMONIDES 1. SHV pour les CYPRINIDES 4. VP
+2. NHI
+3. NPI
+
+3. L'établissement d'origine du présent envoi satisfait aux impératifs minimums de certification notifiée par le pays de destination.
+
+Nom et cachet du service officiel de certification
+
+Signature et titre du fonctionnaire de certification
+
+Nom (en lettres d'IMPRIMERIE) du fonctionnaire de certification
+
+Lieu de délivrance Date de délivrance
+
+POUR INFORMATION SEULEMENT:
+
+Les symptômes des maladies ci-après sont absents:
+
+(a) Myxosomiase 
+(b) Furonculose 
+(c) Erythrodermatite
+
+POUR ETRE VALIDE, LE PRESENT CERTIFICAT DOIT AVOIR ETE DELIVRE ..... JOURS OU PLUS AVANT LA DATE DE PREMIERE EXPEDITION ET LES DEUX PARTIES DOIVENT AVOIR ETE DUMENT REMPLIES ET SIGNEES
+
+^1 Biffer la mention inutile
+
+IIème PARTIE DECLARATION
+
+[à remplir par l'exportateur ou son agent]
+1. Espèces de poissons
+2. Pays d'origine ou pays exportateur
+3. Pays de destination
+4. Nom et adresse de l'exportateur
+
+5. Type^1 et adresse de l'établissement d'origine
+
+6. Nom et adresse de l'importateur
+
+7. Type^1 et adresse de l'établissement du destinataire
+
+8. Nom des eaux d'origine des poissons ou oeufs sauvages
+9. Nom du principal cours d'eau dans lequel se jette ces eaux
+10. Nombre total d'oeufs^2 /poissons^2 faisant l'objet du présent envoi
+
+11. Taille des poissons constituant le présent envoi
+
+Le soussigné DECLARE par la présente que:
+
+[pour les envois d'OEUFS seulement]
+
+1. Cet envoi d'oeufs a été désinfecté immédiatement avant d'être transporté, conformément aux procédures stipulées à l'Annexe III de la Convention internationale pour la lutte contre les maladies transmissibles des poissons, 19..
+
+[pour TOUS les envois]
+
+2. Toutes les cuves et autres récipients autres que les cuves ou récipients à jeter utilisés pour le présent envoi ont été désinfectés immédiatement avant d'être utilisés, conformément aux dispositions de l'Annexe III (pour les poissons vivants) de la Convention internationale pour la lutte contre les maladies transmissibles des poissons, 19..
+
+3. Aucune cuve ou récipient à jeter, utilisé dans le présent envoi, n'a été employé antérieurement.
+
+Certifié sincère et véritable
+
+Signature de l'exportateur ou de l'agent
+
+Date
+
+^1 Par exemple: Ecloserie gouvernementale ou publique ou privée ou établissement piscicole
+^2 Biffer la mention inutile
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+ANNEXES TECHNIQUES (continuer)
+
+ANNEXE III
+INSTRUCTIONS GENERALES MODIFIEES
+
+1. INTRODUCTION
+
+Les certificats sont délivrés après classification de l'établissement et à la suite des examens cliniques et/ou essais de laboratoire ci-après.
+
+Les inspecteurs devraient tenir compte de la situation géographique et de l'état sanitaire de l'établissement, ainsi que des mesures d'hygiène et des techniques d'élevage appliquées et fonder leur évaluation relative à l'état de l'établissement sur ces facteurs, ainsi que sur des motifs cliniques d'ordre général. Ces précautions sont particulièrement importantes aux fins de la certification portant sur les établissements CEP (codé exempt pathogène) et CEM (codé exempt de maladie) ou encore ECM (exempt de certaines maladies).
+
+Des essais de laboratoire appropriés doivent être réalisés conformément aux dispositions de la section 14 de la présente annexe et l'échantillonnage devrait être effectué conformément à la section 10 de la présente annexe.
+
+2. CLASSIFICATION DES ETABLISSEMENTS PISCICOLES
+
+2.1 Etablissements CEP (cf. Tableaux 1 et 2)
+
+Ces établissements doivent être exempts de tous les agents pathogènes énumérés au Tableau 1 de la présente annexe et doivent être situés dans un milieu géographique et écologique tels que la contamination, de quelque source qu'elle provienne, soit tout à fait improbable. La station devrait être alimentée par une source, un forage, un puits ou toute autre source non contaminée de ce type, qui doit être classé sous le contrôle strict de l'exportateur ou de son agent et ne doit faire l'objet d'aucune contamination par suite du repeuplement ou des vecteurs de virus.
+
+Le repeuplement doit être assuré par des alevins provenant uniquement d'établissements CEP.
+
+2.2 Etablissements CEM (cf. Tableaux 1 et 2)
+
+Ces établissements doivent être exempts de toutes les maladies énumérées au Tableau 1 de la présente annexe; cependant, leur situation géographique et écologique ne fait pas l'objet d'un contrôle aussi strict que dans les établissements CEP (2.1 ci-dessus). Les établissements CEM devraient être approvisionnés en eaux par des cours d'eau ou des fleuves. Aucun établissement piscicole autre que des établissements CEP ou CEM ne doit être situé en amont et le repeuplement de l'établissement et de tous autres établissements situés en amont doit être contrôlé.
+
+2.4 Etablissements à infections minimums (IM) (cf. Tableaux 1 et 2)
+
+Ces établissements peuvent être alimentés par des eaux libres et ne doivent présenter aucun signe manifeste de maladie.
+
+3. INSTRUCTIONS RELATIVES A LA DELIVRANCE DES CERTIFICATS SANITAIRES
+
+3.1 Certificat 1
+
+Ce certificat ne peut être délivré que pour les établissements CEP et le fonctionnaire de certification doit s'assurer qu'il est satisfait aux critères relatifs à cette catégorie d'établissement.
+
+A. Pour les salmonidés ou les oeufs de salmonidés (cf. aussi section 4 de la présente annexe). L'établissement d'origine:
+i. doit avoir fait l'objet d'inspections cliniques deux fois au moins au cours de chacune des deux premières années et des échantillons appropriés devront avoir été prélevés lors de chacune de ces inspections, conformément à la section 7 de la présente annexe; d'autre part, des essais de laboratoire appropriés devront avoir été effectués, comme il est précisé dans les sections 9 et 10 de la présente annexe; il faut que l'on ait déterminé, sur la base des examens cliniques et des essais en laboratoire correspondants, que ces établissements étaient exempts des agents pathogènes codés au Tableau 1 de la présente annexe.
+ii. doit ultérieurement avoir fait l'objet d'inspections cliniques et essais de laboratoire appropriés, comme il est précisé à l'alinéa 3.1 A (i) ci-dessus, deux fois par an, à des époques appropriées.
+iii. dés qu'une maladie est suspectée, des essais de laboratoire appropriés devront être effectués comme il est précisé dans les sections 9 et 10 de la présente annexe.
+
+B. Pour les cyprinidés (cf. aussi section 5 de la présente annexe). L'établissement:
+i. doit avoir fait l'objet d'une inspection clinique au moins une fois par an, lorsque la température de l'eau se situe entre 13 et 18°C. Des échantillons doivent être prélevés, comme il est précisé à la section 7 de la présente annexe et doivent faire l'objet des essais de laboratoire décrits dans les sections 9 et 10 de la présente annexe.
+ii. par la suite, il doit faire l'objet d'une inspection clinique au moins une fois par an, à l'époque appropriée, et des échantillons appropriés doivent être prélevés, comme il est prévu en (i) ci-dessus dès que l'on suspecte la présence d'une maladie.
+
+3.2 Certificat 2
+i. Ce certificat peut être délivré aux établissements CEM EXEMPTS de toutes les maladies codées au Tableau 1 de la présente annexe.
+ii. Il doit être satisfait aux critères établis pour les établissements CEP; toutefois, les établissements CEM doivent être situés sur des fleuves ou autres eaux naturelles dans lesquelles la présence de maladies provoquées par les pathogènes codés n'a pas été attestée.
+iii. L'échantillonnage, l'examen clinique et les essais de laboratoire devront être effectués conformément aux dispositions relatives aux établissements CEP figurant aux paragraphes 3.1 A et 3.1 B (pour les cyprinidés), respectivement, de la présente annexe.
+iv. Si un autre établissement est situé en amont de l'établissement examiné, les maladies présentes dans cet établissement devront être déterminées et la catégorie de certification applicable à cet établissement doit être appliquée à l'établissement à l'étude.
+
+3.3 Certificat 3
+
+Ce certificat peut être délivré pour les poissons et oeufs de salmonidés provenant d'établissements ECM, en présence de certaines des maladies codées (cf. Tableau 1). Il n'est pas valide pour les cyprinidés.
+
+Il devrait être satisfait aux critères établis; il convient cependant de noter qu'une ou plusieurs maladies énumérées pourront être présentes dans ces établissements. Il importe que les cases soient cochées lorsque les maladies sont ABSENTES. Seules l'absence de maladie est indiquée et non sa présence.
+
+Si un autre établissement ECM est situé en amont de l'établissement à l'examen, les maladies affectant cet établissement devront être déterminées. Si l'une des maladies codées (cf. Tableau 1) est présente dans l'établissement ou les établissements situés en amont, il ne pourra être noté absent dans l'établissement à l'étude.
+
+Les certificats ne pourront être délivrés qu'après échéance des deux premières années d'inspection et ne pourront continuer à être délivrés que si l'inspection a eu lieu deux fois au moins au cours de chacune des années suivantes et si l'on ne suspecte aucune des maladies codées pour des motifs cliniques ou autres. Les essais de laboratoire doivent être effectués lors de chaque inspection et à tout autre moment, lorsque la présence de l'une des maladies codées est suspectée.
+
+3.4 Certificat 4
+i. Ce certificat pourra être délivré pour les établissements à infections minimums ou pour les poissons ou oeufs sauvages en provenance d'eaux libres.
+ii. Les établissements à infections minimums diffèrent des autres dans la situation écologique et en ce qu'ils sont sujets à des infections. L'établissement ne doit présenter aucun signe clinique de maladie. Le certificat peut être rempli à la suite d'une inspection clinique seulement; cependant, si l'on suspecte une maladie, des essais de laboratoire appropriés devront être réalisés comme il est spécifié dans les sections 9 et 10 de la présente annexe et le certificat devra porter les indications correspondantes.
+iii. Lorsque des poissons sauvages ou leurs oeufs ont été prélevés en eaux libres et doivent être inspectés aux fins de délivrance du Certificat 4, il est indispensable que les échantillons (conformément à la section 7 de la présente annexe) de poissons sauvages de la même espèce, provenant des mêmes eaux, aient été soumis à un examen clinique et à des essais de laboratoire conformément aux dispositions des sections 9 et 10 de la présente annexe pendant les deux années précédentes, en quatre occasions au moins, et qu'ils aient été trouvés exempts de ces maladies codées, telles qu'indiquées sur le certificat..
+
+4. PROCEDURES DE CERTIFICATION POUR LES SALMONIDES ET LES OEUFS DE SALMONIDES
+
+4.1 Pour les établissements CEP
+i. Le certificat initial ne peut être délivré que si, après deux années d'inspection continue, conformément aux dispositions figurant en 3.1 A (i), la présence des pathogènes codés n'a pas été attestée.
+ii. Des certificats ultérieurs peuvent être délivrés chaque année, si l'inspection prévue en 3.1 A (ii) n'a fait apparaître aucun des agents pathogènes codés.
+iii. Lorsque l'examen clinique fait soupçonner la présence de l'une des maladies codées, la certification doit être immédiatement suspendue et si les soupçons se trouvent confirmés par des essais de laboratoire, le certificat doit être immédiatement annulé et l'établissement n'est pas autorisé à exporter tant que la situation n'aura pas été rétablie.
+iv. Aux fins de nouvelles certifications, l'établissement doit être désinfecté (voir recommandations à la section 16 de la présente annexe) puis réempoissonné avec des alevins en provenance d'un autre établissement certifié CEP. Dans ce cas, au cours de la première année après le nouvel empoissonnement d'alevins, deux inspections doivent être effectuées conformément aux dispositions figurant en 3.1 A (i) et un nouveau certificat pourra être délivré si toutes les inspections et tous les essais ont été négatifs. Au cours des années suivantes, les inspections devront être réalisées conformément aux dispositions figurant en 3.1 A (ii).
+v. Si la présence d'une maladie suspectée d'après des signes cliniques n'est pas confirmée par des essais de laboratoire, une deuxième série d'essais de laboratoire devra être effectuée dès que possible: le certificat ne saurait être délivré à nouveau que lorsque les résultats d'un second essai de laboratoire ne seront révélés négatifs pour ce qui concerne ladite maladie.
+
+4.2 Etablissements CEM
+i. Dans les établissements CEM, toutes les procédures décrites pour les établissements CEP devront être appliquées. Il convient de noter que si une infection est détectée dans un établissement CEM, elle peut être provoquée par la présence de la maladie dans le fleuve ou dans une autre source incontrôlée; il faut alors examiner avec le pisciculteur si la désinfection se révèle rentable. Si elle est jugée peu économique, le certificat devra être ramené au niveau inférieur approprié.
+
+4.3 Etablissements ECM
+
+Les procédures d'inspection sont les mêmes que pour les établissements CEM.
+
+4.4 Réévaluation de la classification
+
+Si pour l'une ou l'autre des catégories d'établissements précités des circonstances se produisent, qui altèrent les conditions de l'adduction d'eau à l'établissement ou si le milieu écologique ou géographique est modifié de quelque façon que ce soit (par extraction minière ou travaux forestiers, par exemple), la situation devra être réexaminée par le fonctionnaire de certification.
+
+5. PROCEDURES DE CERTIFICATION RELATIVE AUX CYPRINIDES ET OEUFS DE CYPRINIDES
+
+i. Toute mortalité massive devra faire l'objet d'une enquête, et il conviendra de faire preuve d'une attention particulière au printemps, lorsque la température de l'eau est de 10 à 20°C. Si l'on suspecte la présence du virus de la VP, un examen virologique est obligatoire.
+ii. Si l'on ne constate aucune mortalité massive ou si elle ne semble pas avoir été provoquée par le virus de la VP, le nombre de poissons précisé à la section 7 de la présente annexe devra être prélevé au printemps, de préférence lorsque la température de l'eau est entre 13 et 18°C, et devra être soumis aux examens cliniques et essais de laboratoire décrits dans les sections 9 et 10 de la présente annexe. Il faudra réaliser un échantillonnage par an pendant deux années consécutives au moins, avant de pouvoir établir le certificat.
+iii. Aux fins de délivrance du certificat 1, l'inspecteur doit recevoir la preuve que le poisson a été élevé dans un milieu non contaminé par le virus de la virémie de printemps.
+iv. Si les critères applicables pour la nouvelle délivrance du Certificat 1 ne peuvent être satisfaits, le nombre de poissons constituant l'échantillon devra être augmenté, tel qu'il est précisé dans la présente annexe (section 7). Les certificats 2 ou 4 pourront être délivrés après les examens cliniques et essais de laboratoire prévus dans les sections 9 et 10 de la présente annexe.
+v. Lorsqu'on observe des signes cliniques de maladies, la validité des certificats doit être immédiatement suspendue: si les suspicions cliniques sont confirmées par les essais de laboratoire appropriés, le certificat doit être immédiatement annulé et l'établissement ne pourra exporter avant que la situation ne soit rétablie.
+vi. Si la présence de VP est confirmée, les établissements CEP pourront être désinfectés conformément aux instructions données dans la présente annexe (section 16); par contre, dans les autres catégories d'établissements, lorsque la désinfection n'est pas possible, on ne pourra redélivrer que le Certificat 4.
+vii. Si la présence de VP est confirmée et si les méthodes de désinfectation décrites à la section 16 de la présente annexe sont effectuées, les certificats pourront être délivrés lorsque les essais réalisés au cours de deux printemps successifs se seront révélés négatifs..
+
+6. NOTES RELATIVES AUX INSPECTIONS
+
+Au départ, des inspections sont effectués pendant deux ans pour tous les certificats et, par la suite, deux fois par an ou, de préférence, plus fréquemment (ou suivant les dispositions établies périodiquement en vertu d'un accord international).
+
+Il convient de noter que c'est l'Etablissement (décrit sur les certificats comme l'"Etablissement d'origine") dont la situation sanitaire est déterminée et non des lots individuels de poissons. La validité de la procédure de certification est par conséquent fonction, non seulement des diagnostics cliniques et des essais de laboratoire nécessaires mais également de la situation géographique et écologique de l'établissement, ainsi que de sa politique d'alevinage.
+
+Comme on l'a signalé précédemment, les établissements piscicoles ne devraient réempoissonner qu'avec des alevins certifiés au minimum de niveau identique à celui de l'établissement en cause. Si un établissement accepte des stocks ou des oeufs en provenance d'un établissement dont la catégorie de certification est inférieure à la sienne, il ne peut être certifié par la suite que dans cette catégorie, jusqu'à ce que les inspections et essais nécessaires pour le réintégrer dans la catégorie précédente aient été effectués pendant deux ans au moins. On trouvera au Tableau 3 de la présente annexe quelques indications sur la situation sanitaire des établissements piscicoles.
+
+Tableau 1
+AGENTS PATHOGENES ET MALADIES CODEES
+
+Les organismes pathogènes codés sont:
+
+1. virus de la NPI
+2. virus de la NHI
+3. virus de la SHV
+4. virus de la VP (pour les cyprinidés)
+
+Les maladies codées sont:
+
+1. NPI
+2. NHI
+3. SHV
+4. VP (pour les cyprinidés)
+
+Tableau 2
+CATEGORIES D'ETABLISSEMENTS
+
+Catégorie Description Certificat
+CEP Etablissement exempt des organismes pathogènes codés 1
+CEM Etablissement exempt des maladies codées 2
+ECM Etablissement exempt des maladies codées indiquées sur le certificat 3
+IM Etablissement exempt des maladies codées selon les inspections cliniques et essais de laboratoire effectués en cas de suspicion, et ne présentant pas les signes des maladies codées indiquées sur le certificat 4
+
+Tableau 3
+SITUATION SANITAIRE DES ETABLISSEMENTS
+
+Catégorie d'établissement signes cliniques Présence de agents pathogènes anticorps Milieu infecté Objectifs de production
+CEP - - - - Trafic international, reproduction, production d'oeufs
+CEM - - - ± -ditto-
+ECM - - ± ± Reproduction, repeuplement des eaux libres, consommation ou transformation
+IM - ± ± ± ou + Consommation immédiate et zones infectées
+
+7. ECHANTILLONNAGE
+
+7.1 Lorsqu'on choisit des spécimens aux fins d'échantillonnage, il faut prélever les poissons gravement malades, moribonds et faibles; les poissons apparemment en bonne santé ne serviront qu'à compléter l'échantillon, le cas échéant.
+
+7.2 Etablissements CEP et CEM (salmonidés)
+
+L'effectif minimum de l'échantillon pour chaque source d'eau dans l'établissement devrait se présenter comme suit: au cours de la première et de la deuxième année d'inspection, des échantillons de 40 poissons seront prélevés deux fois par an; au cours des années suivantes, l'effectif de l'échantillon sera ramené à 20 spécimens; la fréquence d'échantillonnage reste la même; pour la première inspection de l'année, des poissons de 4 à 7 cm (.... g) seront prélevés, tandis que pour la deuxième inspection (3 à 6 mois plus tard), on utilisera des poissons de la même année, soit une taille de 10 à 15 cm (.... g). Si les deux tailles sont disponibles au moment de l'inspection, l'échantillon prélevé devra comporter des poissons de chacun des deux groupes.
+
+7.3 Etablissements CEP et CEM pratiquant l'élevage des carpes
+
+Au printemps, lorsque la température de l'eau est de 10 à 20°C, on peut attirer dans chaque étang les carpes présentant des signes de faiblesse vers le point d'eau en faisant arriver une petite quantité d'eau. Tous les poissons capturés devraient faire l'objet d'un examen clinique. Aux fins d'examens virologiques, 80 poissons au total, provenant de tous les étangs, devront être prélevés. La procédure est répétée pour chaque inspection annuelle.
+
+7.4 Etablissements ECM pratiquant l'élevage des truites
+
+Les établissements de cette catégorie pourront être certifiés comme étant exempts d'une ou plusieurs maladies spécifiées.
+
+Quelque soit la maladie dont on certifie l'absence, l'inspection clinique et virologique doit porter sur deux années entières, en conformité des dispositions relatives aux établissements CEP et CEM pratiquant l'élevage des truites.
+
+Au cours des années suivantes, le type d'examen requis pour les différentes maladies varie:
+i. NPI: Comme pour les établissements CEP et CEM pratiquant l'élevage des truites, après la période initiale de deux ans.
+ii. SHV: Examen clinique au moins deux fois par an. Examen virologique chaque fois que des symptômes ressemblant à ceux de la maladie sont observés.
+iii. NHI: Comme pour SHV
+
+7.5 Etablissements IM
+
+Ces établissements obtiennent la certification minimum.
+
+On certifie qu'ils sont exempts de l'une au moins des maladies ci-après: SHV, NHI, VP, d'après des signes cliniques.
+
+L'inspection clinique est réalisée deux fois par an, à intervalles approximatifs de 6 mois. L'échantillonnage aux fins d'examens virologiques ne s'impose que si l'on suspecte la présence d'une maladie précise. La certification peut être entreprise au terme de deux inspections.
+
+8. HISTOLOGIE
+
+i. Bien que les examens histopathologiques soient de nature à fournir des informations diagnostiques extrêmement utiles, ils ne devraient pas être utilisés comme procédures de détermination mais uniquement afin d'indiquer des présomptions.
+ii. La myxosomiase fait exception; en effet, les trophozoïtes ne peuvent être détectés que par des méthodes histologiques. Les modifications histopathologiques associées à cette maladie sont fonction du stade d'infestation par le parasite.
+
+Au cours des 70 premiers jours, on constate une légère érosion du cartilage crânien. Seuls les trophozoïtes de Myxosoma cerebralis sont présents à ce stade.
+
+Trois à quatre mois après le début de l'infection, il s'est creusé dans le cartilage crânien une cavité de type lésionnel contenant des débris cellulaires; elle est due à l'érosion du tissu et il n'y a ni infection, ni prolifération tissulaire. Des spores de Myxosoma cerebralis sont présents à ce stade.
+
+Huit à douze mois après le début de l'infection, on observe une prolifération des tissus granuleux épithélioïdes tout autour de la masse des spores de Myxosoma cerebralis. Ce tissu épithélioïde remplace le tissu normal et donne naissance à un "kyste" qui ressemble à un granulome; ce processus affecte l'ostéogénèse normal.
+
+9. METHODES D'ISOLATION ET D'IDENTIFICATION DES AGENTS PATHOGENES
+
+9.1 Transport au laboratoire effectuant le diagnostic
+
+Il serait idéal de pouvoir livrer les poissons vivants moribonds en récipients aérés ou oxygénés ou, encore, en sacs de matière plastique renfermant de l'oxygène. Lorsque le transport du matériel vivant n'est pas possible, les spécimens devraient être transportés sous glace. Ils ne devraient être ni congelés, ni entreposés dans du glycérol.
+
+Tous les poissons devraient être transportés entiers et les poissons ne devraient être éviscérés que dans des circonstances exceptionnelles. Les échantillons de rein, de rate, de foie et d'autres organes devraient être réunis en lots de cinq spécimens au maximum et emballés convenablement.
+
+Dans le cas des stocks de reproducteurs, les ovaires ou le sperme sont recueillis à l'époque de la reproduction, dans des tubes stériles ou autres récipients appropriés.
+
+Fèces: 0,5-1,0 ml de fèces fraîches sont recueillies dans 5,0 ml de solution physiologique.
+
+On ne peut congeler ni les fèces, ni les fluides reproducteurs: il faudrait les entreposer pendant 24 h au maximum, dans de la glace ou à 4°C.
+
+Lorsqu'on recherche la myxosomiase, il ne faudrait pas employer de poissons de moins de 4 mois, étant donné que la formation de spores est peu probable. Les têtes devraient être prélevées sur des poissons plus âgés et jointes aux autres échantillons.
+
+Pour ce qui est de la furonculose, le matériel lésionnel devrait être incorporé dans du bouillon de culture de Trypticase Soy Agar (TSA) ou encore directement étalé sur du TSA et envoyé avec les autres échantillons. A l'arrivée au laboratoire, les frottis de reins devraient être colorés par la méthode Gram.
+
+9.2 Méthodes de laboratoire
+
+A l'arrivée des échantillons au laboratoire, le matériel destiné au diagnostic de la myxosomiase et de la furonculose devrait être mis à part. Le reste des spécimens rassemblés devrait être homogénéisé dans un volume égal de solution saline stabilisée (pH 7,6-7,8) (solutions de Earle ou de Hanks). Le liquide ovarien n'est pas dilué ou peut être dilué à 1:2 lorsqu'il y a turbidité. Les échantillons de tissus homogénéisés ou de liquide ovarien sont alors centrifugés à 1 000 ou 2 000 g pendant 10 à 15 minutes. Les bactéries et les champignons sont éliminés du liquide surnageant, soit par filtration, soit par traitement aux antibiotiques.
+
+Le cas échéant, le matériel peut être centrifugé à 5 000 g, pendant .... minutes dans un tube étroit et la couche supérieure du liquide surnageant éliminée, les niveaux inférieurs et la boulette étant jetés.
+
+Le pH peut, s'il y a lieu, ne pas être ajusté à 7, 6-7, 8 et le filtrat ou le liquide traité aux antibiotiques ou centrifugé devrait être inoculé dans des flacons doubles ou des tubes de cellules appropriées.
+
+Dans les essais de routine portant sur tous les virus sauf VP, il faudrait utiliser des cellules RTG2, l'incubation étant réalisée à 15°C. Cependant, les cellules RTG2 ne sont pas particulièrement sensibles au virus de NHI et si l'on suspecte la présence de cette maladie ou si l'on se propose précisément d'isoler le virus d'IHN, il faut employer des cellules de FHM. Pour isoler le virus de la VP, les cellules de FHM sont essentielles: le virus se développe mal dans les cellules RTG2.
+
+Dans tous les cas, les cellules FHM doivent être incubées à 20°C.
+
+Il convient de noter que certaines souches de cellules de RTG2 et de FHM ne sont pas nécessairement sensibles à la souche de virus inoculé. Il faudrait donc toujours faire appel à des témoins positifs.
+
+Après inoculation des cellules appropriées, il faudrait permettre l'absorption pendant 1 h à la température ambiante; on ajoute ensuite le volume normal de milieu d'entretien.
+
+Il importe de n'employer, pour les essais de virologie, que des cellules jeunes, se développant activement, ensemencées 1-4 jours auparavant et dont la confluence atteint 75-95 pour cent.
+
+L'incubation devrait être poursuivie pendant 10 jours, et l'on devrait rechercher régulièrement des preuves de la présence de ECP.
+
+Les cultures cellulaires inoculées ne faisant pas apparaître de ECP à la suite d'une incubation de 10 jours font l'objet d'une sous-culture (passage aveugle) et la sous-culture est incubée, comme décrite précédemment, pendant une nouvelle période de 10 jours durant laquelle on recherche régulièrement le ECP.
+
+L'absence de ECP dans les cultures cellulaires inoculées comme à la suite du passage aveugle, devra être interprétée comme une détermination négative aux fins de la certification.
+
+Si un effet cytopathogène important se développe au cours des premières 24 h d'incubation, il s'agit en général de l'indication du fait que l'extrait de poisson inoculé est toxique pour les cellules. Dans ces cas, les cellules devraient être recueillies en agitant vigoureusement le tube ou flacon et elles devraient être traitées aux ultra-sons pendant 10 secondes, diluées à 1:5 dans un milieu d'entretien et inoculées à de nouvelles cultures cellulaires.
+
+En présence de contamination bactérienne ou fongique de la culture cellulaire, celle-ci devrait être recueillie, traitée aux ultra-sons pendant 20 à 30 secondes, centrifugée à 1 000 g pendant 15 minutes et le liquide surnageant devrait être filtré à travers une membrane de 0,5 µ et inoculé à de nouvelles cultures.
+
+10. IDENTIFICATION SEROLOGIQUE DES VIRUS
+
+10.1 Il importe que l'identité des virus isolés dans les cultures tissulaires soit confirmée sans doute possible dans un minimum de temps. Les méthodes décrites ci-après sont les plus fréquemment utilisées actuellement. Quel que soit le test sérologique effectué, il faudra utiliser des anti-sérums^1 de spécificité commune, contre les différents virus des poissons. Etant donné les variations du groupe de virus de la NPI du point de vue sérologique, la confirmation de l'isolation d'un virus de la NPI par des méthodes sérologiques devrait être fondée sur une réaction positive avec un anti-sérum polyvalent, utilisé contre les principaux sérotypes du virus. On utilisera avec succès des tubes ou des plaques microtitres.
+
+Des cultures cellulaires présentant un ECP viral seront recueillies, traitées aux ultrasons pendant 10 secondes puis diluées à 1:1 000 dans un milieu d'entretien. Un aliquote de cette solution diluée devrait être mélangé à un volume égal d'anti-sérum spécifique, à un titre approprié (dont la dilution doit être fonction du titre de l'antisérum, mais en général à 10^-2 ou 10^-3); un second aliquote est mélangé à un volume égal de milieu d'entretien. On laisse incuber pendant une heure à 20°C. On inocule au volume normal du milieu d'entretien des cultures cellulaires fraîches et on laisse incuber à la température appropriée. Les cultures devront être examinées après 1, 2 et 3 jours, pour déterminer l'apparition d'ECP.
+
+Si un ECP apparaît dans les cultures ayant reçu de la solution recueillie mélangée à de l'anti-sérum, cela indique soit que l'identité du virus n'est pas celle que l'on soupçonnait, soit que la concentration de virus à la dilution 10^-3 était trop élevée pour être neutralisée par l'anti-sérum spécifique dilué à 10^-2. Cela ne devrait pas se produire en présence de la NPI étant donné qu'il est facile de préparer un anti-sérum très concentré; il peut cependant se poser un problème de neutralisation pour les trois Rhabdovirus (SHV, NHI et VP), pour lesquels il est difficile de préparer des anti-sérums très concentrés. Dans ces cas, la méthode de la réduction des plaques est recommandée. On peut se servir, pour identifier les virus, des techniques d'immunofluorescence.
+
+10.2 Essais de réduction des plaques - On peut, si on le souhaite, utiliser cette procédure pour tous les virus que l'on désire déterminer.
+
+Le liquide de culture provenant des cultures cellulaires présentant un ECP typique est dilué jusqu'à ce qu'il contienne environ 10^3 ou PF/ml. La solution est mélangée à un volume égal dans l'antisérum approprié dont la concentration est fonction du titre de l'antisérum employé mais non inférieure à 100. On mélange une nouvelle quantité du liquide de culture diluée avec un volume égal de milieu d'entretien. Des quantités égales d'antisérum et de témoin négatif, respectivement, sont mélangées avec une souche virale de référence, à titre de témoins positifs.
+
+Les mélanges préparés comme décrit ci-dessus sont maintenus à la température ambiante pendant environ 1 h. Des aliquotes de chacun des mélanges sont ajoutés à des cultures cellulaires en double de sensibilité connue, dans des plats de Petri. Après absorption pendant ½ h, les cultures cellulaires sont recouvertes d'un milieu contenant 0,5 pour cent d'agarose. Deux cultures cellulaires non inoculées sont utilisées à titre de témoins négatifs.
+
+Les plats de Petri contenant les cultures cellulaires sont mis à incuber pendant 48 à 72 h, à 15°C ou 20°C suivant le cas et les couches cellulaires colorées au rouge neutre (0,2 mgm/ml); on procède à la numération des plaques. Une réduction égale ou supérieure à 40 pour cent du nombre de plaques dans les plats de Petri inoculés avec le mélange virusantisérum est considérée comme la preuve de la présence du virus considéré dans le matériel examiné.
+
+^1 Les spécifications minimums relatives aux anti-sérums seront déterminées de temps à autre par le Comité scientifique consultatif
+
+11. METHODES DE DETECTION DE LA MYXOSOMIASE
+
+Les références ci-après donnent les méthodes recommandées pour la détection des spores de Myxosoma cerebralis:
+
+11.1 Techniques de digestion
+a. Markiw et Wolf (1974), J.Fish.Res.Bd Can., 31, pp. 15-20
+b. Markiw et Wolf (1974), J.Fish.Res.Bd Can., 31, pp. 1597-1600
+c. Rydlo, M. (1971), Österreichs Fisch., 24, pp. 97-9.
+
+11.2 Méthode de centrifugation du plancton
+a. O'Grodnick, J.J. (1975), J.Wildi.Dis., 11, pp. 54-7
+
+12. METHODES D'IDENTIFICATION DE LA FURONCULOSE
+
+12.1 Identification bactériologique de routine
+
+Le diagnostic présumé de la furonculose sur la base de signes cliniques et de conclusions histopathologiques doit être confirmé en laboratoire par isolation d'Aeromonas salmonicida, l'agent causatif de la maladie. Les méthodes ci-après sont acceptables aux fins de la détection de la bactérie.
+
+Le matériel infectieux prélevé dans les lésions et les tissus des poissons malades est examiné sous forme de préparations humides dans un milieu d'impregnation et de frottis colorés par la méthode de Gram. Le matériel lésionnel et tissulaire est également étalé sur des plaques d'agar-agar présentant la furonculose ou des TSA, sur lesquels la présence d'A. salmonicida provoque typiquement l'apparition d'un pigment hydro-soluble de coloration brunâtre au bout de 48 h d'incubation à 20-25°C. La présence de batonnets Gram-négatifs, asporogènes, dépourvus de motilité, dans le matériel infectieux et tissulaire provenant de poissons affectés et l'isolement de colonies brunâtres sur agar de furonculose ou TSA constituent une forte présomption de l'existence d'A. salmonicida dans les échantillons examinés. Il importe de noter qu'il existe des couches achromogéniques d'A. salmonicida.
+
+L'identification de toutes colonies soupçonnées d'appartenir à l'espèce A. salmonicida devrait être réalisée par l'une des méthodes suivantes:
+
+Epreuve à la cytochrome oxydase, sur des cultures préparées depuis 24-48 h (A. salmonicida) est cytochrome oxydase positif).
+
+12.2 Identification sérologique
+
+Epreuve d'agglutination sur lame: on mélange une colonie âgée de 24 h avec du soluté physiologique. On dépose des gouttes de la suspension obtenue sur une lame. Il faut maintenant examiner les deux gouttes avec une loupe pour déterminer si elles se sont agglutinées. Dans le cas contraire, on ajoute une goutte de sérum anti A. salmonicida à l'une des gouttes de la suspension et une goutte de soluté normal à la deuxième goutte de suspension. L'effet d'agglutination obtenu dans la suspension additionnée d'antisérum et non dans la suspension témoin additionnée de soluté physiologique constitue la preuve que la bactérie isolée est bien A. salmonicida. S'il y a auto-agglutination, l'essai n'est pas valable.
+
+Le sérum anti A. salmonicida n'est pas disponible dans le commerce mais peut être préparé en laboratoire. Suivant sa concentration, il peut demander à être dilué. Il faudrait prendre soin d'ajouter l'antisérum à la goutte et non la goutte à l'antisérum.
+
+On trouvera dans les documents ci-après deux épreuves recommandées pour la détection d' A. salmonicida:
+i. McCarthy and Rawle (1975), J.Gen.Microbiol., 86, pp. 185-7
+ii. McCarthy (1975), J.Gen.Microbiol., 88, pp. 384-6.
+
+La première est une épreuve d'hémo-agglutination passive et la seconde est une épreuve utilisant du latex recouvert d'anticorps.
+
+NOTE:
+1. Les tentatives d'isolement d' A. salmonicida en vue de poser un diagnostic de furonculose chez les sujets asymptomatiques porteurs de la maladie constituent une technique de valeur douteuse, notamment dans les cas où les bactéries ne sont présentes qu'en petit nombre; la prudence s'impose donc lorsqu'il s'agit de certifier que les salmonidés en apparence sains sont indemnes de furonculose.
+2. Dans tous les cas, l'identification d'Aeromonas salmonicida devrait être confirmée par des épreuves biochimiques classiques.
+
+13. METHODES DE DESINFECTATION DES OEUFS EMBRYONNES DES SALMONIDES D'ELEVAGE
+
+Conformément aux dispositions en matière de certification contenues à l'Annexe II de la Convention internationale pour la lutte contre les principales maladies transmissibles des poissons, 19.., tout envoi d'oeufs embryonnés de poissons d'élevage de la famille des salmonidés doit être désinfecté immédiatement avant l'expédition. Le désinfectant utilisé sera un composé organique approuvé de l'iode^1, dont l'efficacité dans la destruction des virus (NPI, NHI, SHV) et de certaines bactéries pathogènes des poissons (Aeromonas, vibrions, myxobactéries) susceptibles d'être transportés à la surface de ces oeufs embryonnés a été démontrée.
+
+Le composé organique approuvé de l'iode, fraîchement dilué dans l'eau, doit atteindre une concentration efficace finale de 75-100 ppm d'iode actif (comme I[2] libre)^2. Les oeufs embryonnés sont exposés pendant 5 minutes à ce désinfectant récemment préparé. Pour assurer le maximum d'efficacité contre le virus, le pH de l'eau avec laquelle le désinfectant est dilué est amené à une valeur pratiquement neutre (c'est-à-dire pH 7,0). La teneur de l'eau en matières organiques devrait être nulle ou minime durant l'immersion des oeufs dans la solution désinfectante.
+
+Lorsqu'on désinfecte des oeufs, il faut employer un volume suffisant de solution de désinfectant. En préparant la solution, il importe qu'en définitive la concentration du composé approuvé, par rapport au volume d'oeufs, soit de 50 litres de solution pour 5 000 oeufs (soit 10 volumes de désinfectant pour un volume d'oeufs).
+
+^1 Ou une substance équivalente
+^2 Ou de 50 ppm pendant 15 minutes
+
+NOTE:
+1. Un certain nombre de firmes commerciales vendent un composé organique approuvé de l'iode; il s'agit de la polyvinylpyrrolidonéiodine (PVP-I) dont la teneur d'iode libre est de 1 pour cent.
+2. Les solutions aqueuses fraîchement préparées de composé d'iode organique approuvé sont de couleur ambrée. Lorsque cette couleur ambrée s'atténue, par élimination ou inactivation de l'iode libre, on considère que la solution a perdu son efficacité en tant que désinfectant et ne devrait plus être utilisée.
+
+14. METHODES DE DESINFECTION DES CUVES ET AUTRES RECIPIENTS UTILISES POUR TRANSPORTER LES POISSONS VIVANTS
+
+Les cuves et autres récipients utilisés pour le transport des poissons vivants doivent être nettoyés à fond et désinfectés avant chaque envoi international par une méthode de désinfection efficace. Les procédures suivantes sont jugées efficaces:
+1. Nettoyage mécanique approfondi dans une machine à rincer sous pression, avec addition d'une solution à 0,2 pour cent d'hydroxyde de sodium;
+OU
+par récurage manuel à la brosse avec une solution à 0,2 pour cent d'hydroxyde de sodium;
+OU
+par d'autres méthodes également efficaces.
+2. Après nettoyage, la cuve ou autre récipient est désinfecté à fond par pulvérisation de formaline (du commerce) diluée dans de l'eau à 1:50.
+
+15. METHODES DE DESINFECTION DES CUVES ET AUTRES RECIPIENTS UTILISES POUR LE TRANSPORT DES OEUFS DE POISSONS
+
+Les récipients utilisés pour transporter des oeufs de poisson doivent être du type non réutilisable et doivent toujours être détruits par incinération immédiatement après usage. Lorsqu'on emploie des récipients non réutilisables, il est essentiel qu'ils soient neufs et n'aient jamais été utilisés.
+
+16. METHODES RECOMMANDEES POUR LA DESINFECTION DES ETABLISSEMENTS PISCICOLES
+
+1. L'établissement est drainé ou asséché et toute la vase et les autres détritus sont éliminés;
+2. Les étangs, bassins et autres installations de stockage sont abondamment couverts de chaux vive (1/2 kg/m^2 au minimum).
+3. Les bassins, les écluses, les écrans et tout le matériel d'écloserie, de même que l'intérieur de l'écloserie et les locaux servant à la préparation des aliments ou les autres locaux servant d'équipement à l'écloserie sont soigneusement nettoyés avec une solution à 2 pour cent de NaOH (20 g de NaOH/10 litres d'eau) avec une brosse ou, de préférence, avec un jet sous pression, employé à la température minimum de 60°C;
+4. Tout le matériel et les machines utilisés (cf. 1, 2 et 3) sont séchés et aspergés d'une solution à 2 pour cent de formaline (200 ml de formaline du commerce pour 10 litres d'eau) ou une solution d'iodophore, contenant 50 à 100 ppm d'iode libre;
+5. Lorsqu'il est impossible d'assécher totalement les installations de stockage, il faut les vider par pompage deux fois au moins au cours de la période de nettoyage et, chaque fois qu'ils sont asséchés par pompage, il faut répartir une quantité de chaux vive telle que décrite en(2) ci-dessus.
+6. Le matériel servant à transporter du poisson doit être nettoyé avant chaque emploi conformément aux instructions figurant à l'Annexe III (section 14).
+7. Lorsqu'on emploie des véhicules pour transporter les poissons et qu'il faut changer l'eau au cours du voyage, l'eau des récipients ne doit être jetée que dans des sites approuvés, susceptibles d'être ultérieurement désinfectés.
+
+ANNEXE IV
+LISTE DES MALADIES DES POISSONS VISES PAR LA CONVENTION
+
+A. Maladies des poissons incluses aux fins de certification
+a. Famille des salmonidés
+i. Nécrose pancréatique infectieuse (NPI)
+ii. Nécrose hématopoïétique infectieuse (NHI)
+iii. Septicémie hémorragique virale (SH)
+b. Famille des cyprinidés
+iv. Virémie de printemps (VP)
+B. Maladies des poissons et conditions morbides incluses aux seules fins d'information
+a. Famille des salmonidés
+i. Myxosomiase
+ii. Furonculose
+iii. Erythrodermatite
+
+(fin des annexes techniques modifiées)
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+CODE ZOO-SANITAIRE INTERNATIONAL
+
+14. Monsieur H. Gasse, Président de la Commission permanente du Code Zoo-sanitaire international de l'OIE, a été invité à exposer le fonctionnement du Code. Après avoir décrit l'origine, la genèse et les principes du Code, il a indiqué que sa mise en oeuvre n'était nullement incompatible avec l'existence de Conventions internationales.
+
+Il a précisé que les dispositions essentielles des annexes techniques, examinées au cours de la présente Conférence, pourront sans difficulté et dans un délai raisonnable, être introduites dans le Code Zoo-sanitaire international de l'OIE, de façon qu'elles puissent constituer des Recommandations pour les différents pays intéressés, leur permettant d'établir des programmes de lutte contre les maladies des poissons et les incitant à appliquer ces recommandations volontairement et sans délai.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+ACTION FUTURE - RECOMMANDATIONS SPECIFIQUES
+
+15. La Consultation a ensuite étudié les mesures susceptibles d'être entreprises ultérieurement en ce qui concerne le projet de Convention et les annexes techniques. Au cours de cet examen, la valeur potentielle d'une telle Convention a été mise en doute, compte tenu de l'intention de plusieurs pays d'adopter ou de continuer à appliquer à l'importation des impératifs plus stricts que ceux que prévoit le projet de Convention. Cependant, on a noté que la Convention était fondée sur le concept du passage progressif de normes plus facilement acceptables à des normes ultérieurement de plus en plus strictes. La Consultation a été d'avis qu'il ne serait ni nécessaire ni souhaitable de convoquer une autre Consultation sur le projet de Convention: ainsi qu'il a été noté précédemment dans ce Rapport, de nouveaux travaux pourraient cependant se révéler nécessaires sur les annexes techniques. L'objectif final doit donc être celui de l'adoption définitive de la Convention par une
+Conférence de Plénipotentiaires. On a jugé que la somme des travaux antérieurs consacrés à la préparation de la Convention ne devrait pas être perdue, aussi la Consultation a-t-elle demandé qu'un compte rendu de ses délibérations soit communiqué, dès que possible, aux Gouvernments, non seulement à ceux qui sont représentés à la Consultation mais aussi à ceux qui pourraient être intéressés aux travaux de la Consultation, et a adopté la Résolution suivante:
+
+La Consultation gouvernementale FAO/OIE, pleinement consciente que:
+1. Le développement de l'aquiculture en eau douce et en eau de mer sur une large échelle crée une augmentation du trafic des poissons vivants et des oeufs de poissons qui a pour résultat d'accroître la propagation des maladies transmissibles des poissons, si des méthodes scientifiques ne sont pas appliquées pour contrôler ces maladies.
+2. La Consultation FAO tenue à Aviemore (Ecosse) en 1974 et la présente Consultation ont montré la valeur de la coopération internationale en créant une connaissance accrue des problèmes de la santé des poissons, une amélioration des procédés de contrôle et de prévention des maladies des poissons et un plus grand engagement à prévenir ces maladies.
+
+C'est pourquoi la Consultation recommande que:
+1. Les Délégations devraient consulter leurs Gouvernements en vue d'obtenir l'invitation d'un Gouvernement intéressé à faire fonction de Pays-Hôte pour une Conférence de Plénipotentiaires.
+2. L'OIE et la FAO, Organisations de parrainage, soient invitées à contribuer aux travaux préparatoires d'une telle Conférence et en particulier à la préparation des documents de la Conférence.
+
+En raison des délais prévisibles pour la convocation d'une Conférence de Plénipotentiaires, la Consultation s'est penchée sur la question des éventuelles mesures transitoires pouvant être envisagées et a adopté la recommandation additionnelle suivante sur cette question:
+
+Recommandation 2
+
+La Consultation:
+
+consciente de la nécessité urgente d'adopter des mesures pour prévenir la propagation des maladies transmissibles des poissons,
+
+se rendant compte des délais pouvant retarder la convocation d'une Conférence de Plénipotentiaires et l'adoption d'une Convention,
+
+prenant en considération le travail effectué jusqu'à présent par les pays intéressés, la FAO/CECPI et l'OIE,
+
+Recommande:
+1. que le contenu de la Convention et en particulier, les certificats sanitaires et les procédures normalisées de certification, tels qu'ils auront été élaborés par la Consultation et amendés par les groupes de travail ultérieurs (envisagés par la Consultation), soient dès que possible adoptés et intégrés dans le Code Zoo-sanitaire international de l'OIE, et
+2. que les pays représentés à la présente Consultation prennent d'urgence les mesures appropriées afin de mettre en oeuvre le Code Zoo-sanitaire international de l'OIE ainsi amendé pour le contrôle du trafic international des poissons vivants et des oeufs de poissons.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+CLOTURE DE LA CONSULTATION
+
+16. Le Co-Président de la Consultation a adressé ses vifs remerciements à l'OIE et à la FAO, qui ont parrainé la Consultation, ainsi qu'à leurs collaborateurs, pour l'accomplissement des travaux de cette Consultation.
+
+Monsieur A. Laaberki, Vice-Président de l'OIE a exprimé la gratitude de l'OIE aux deux Secrétariats pour leur fructueuse coopération et a déclaré close la Consultation.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+APPENDICE A
+LISTE DES DELEGUES ET OBSERVATEURS
+
+Allemagne (République fédérale d')
+
+VOETZ, Dr N.
+Regierungsdirektor
+Bundesministerium für Ernährung, Landwirtschaft und Forsten
+Rochusstrasse 1
+D-5300 Bonn
+
+BORGER, Dr K.
+Regierungsdirektor
+Bundesministerium für Ernährung, Landwirtschaft und Forsten
+Rochusstrasse 1
+D-5300 Bonn
+
+TIEWS, Prof.Dr K.
+Direktor
+Institut für Küsten- und Binnenfischerei der Bundesforschungsanstalt für Fischerei
+Palmaille 9
+D-2000 Hamburg 50
+
+KOOPS, H.
+Biologist
+Institut für Küsten- und Binnenfischerei der Bundesforschungsanstalt für Fischerei
+Palmaille 9
+D-2000 Hamburg 50
+
+REICHENBACH-KLINKE, Prof.Dr H.H.
+Institut für Zoologie und Hydrobiologie der Universität München
+Kaulbachstrasse 37
+D-8000 München 22
+
+SCHULTZ, Frau Dr Dorothea
+Fish Pathologist, Fachtieranst für Fische
+Bundesgesundheitsamt, Institut für Veterinärmedizin (Rober von Ostertag Institut)
+Unter den Eichen 82-84
+D-1000 Berlin 33
+
+DANGSCHAT, Dr H.
+Tiergesundheitsdient Bayern e.V.
+Senator-Gerauer-Strasse 23 - Post Poing
+D-8011 Grub bei München
+
+SCHLOTFELDT, Dr H.J.
+Institut für Virologie der Tierärztlichen Hochschule Hannover
+Bünteweg 17
+3000 Hannover-Kirchrode
+
+v. LUKOWICZ, Dr M.
+Direktor
+Bayerische Landesanstalt für Fischerei
+Weilheimer Strasse 8a
+D-8130 Stranberg
+
+WEHRMANN, Dr L.
+Fishery Biologist
+Institut für Hydrobiologie und Fischereiwissenschaft
+Olbersweg 24
+Hamburg 50
+
+Canada
+
+PRITCHARD, Dr I.
+Associate Director
+Fisheries Research Branch
+Aquaculture and Cooperative Research
+Resource Services Directorate
+Department of Fisheries and Environment
+Ottawa, Ontario
+
+Colombia
+
+DEL REAL, E.
+Biólogo Pesquero
+Jefe División Pesca Continental
+INDERENA-Instituto Nacional de Recursos Naturales Renovables
+Apartado Aéreo 17798
+Bogotá
+
+Danemark
+
+LAURITSEN, T.
+Assistant Secretary/Head of Division
+Ministry of Fisheries
+Borgergade 16
+1300 Copenhagen K.
+
+CHRISTENSEN, Prof. N.O.
+Royal Veterinary and Agricultural University
+Buelowsvej 13
+1870 Copenhagen V
+
+GOTTLIEB, M.
+Federation of European Trout Producers
+7330 Brande
+
+KEHLET, N.P.
+Veterinary Officer
+Veterinary Services
+7361 Ejstrupholm
+
+KOFOED, T.
+Principal
+Ministry of Agriculture
+Slotsholmsgade 10
+1216 Copenhagen K.
+
+VESTERGARD JØRGENSEN, Dr P.E.
+Senior Research Officer
+Government Veterinary Serum Laboratory
+Hangoevej 2
+8200 Aarhus N.
+
+Espagne
+
+ZARZUELO, E.
+Doctor Veterinario
+Laboratorio Regional de Sanidad Animal
+Ministerio de Agricultura
+Av. Iranzo No. 6
+Zaragoza
+
+DIAZ YUBERO, M.A.
+Doctor Veterinario
+Jefe de la Sección de Epizootología y Zoonosis
+Instituto Nacional para la Conservación de la Naturaleza
+ICONA
+Gran Vía San Francisco 35
+Madrid
+
+Finlande
+
+VALTONEN, Dr M.
+State Veterinary Medicine Institute
+Box 368
+00101 Helsinki 10
+
+BERGER, Dr R.
+Veterinary Department
+Ministry of Agriculture and Forestry
+Halliserkaku 3
+Helsinki 17
+
+France
+
+LAGOIN, Y.P.C.
+Chef du Bureau d'Inspection des Produits de la Pêche et des Maladies des Poissons
+Service Vétérinaire de l'Inspection des denrées d'origine animale
+Direction de la Qualité
+5, rue Ernest Renan
+92130 Issy-les-Moulineaux
+
+TIXERANT, G.
+Directeur
+Laboratoire National de Pathologie des Animaux Aquatiques
+Centre océanologique de Bretagne (C.O.B.)
+Boîte postale 337
+29273 Brest Cedex
+
+TUFFERY, G.
+Chef du Service de Pathologie des élevages d'animaux sauvages et de la faune continentale
+Laboratoire central de recherches vétérinaires
+22, rue Pierre Curie
+94700 Maisons-Alfort
+
+Grèce
+
+PNEYMATICATOS, G.
+Directeur
+Service d'Inspection des Produits des Pêches et Ichtyopathologie
+Ministère de l'Agriculture
+Alcameynus 66 TT. 110
+Athènes
+
+Hongrie
+
+THURANSZKY, Dr Z.
+Adviser, Fisheries Research Institute
+Szarvas
+Belgrad rkp. 25
+Budapest V
+
+KOLTAI, Dr. L.
+Senior Officer
+Ministry of Agriculture and Food
+Ervin V8
+Budapest II
+
+Irlande
+
+O'BRIEN, Dr. D.J.
+Veterinarian
+Veterinary Research Laboratory
+Abbotstown
+Castleknock
+Co. Dublin
+
+DOYLE, Miss J.
+Assistant Inspector of Fisheries
+Fisheries Division
+Department of Agriculture and Fisheries
+3 Cathal Brugha Street
+Dublin
+
+Islande
+
+GUDJONSSON, T.
+Director
+Institute of Freshwater Fisheries
+Bustadaveg 9
+P.O. Box 754
+Reykjavik
+
+Japon
+
+TANABE, R.
+First Secretary
+Embassy of Japan
+Via Quintino Sella 60
+Rome, Italy
+
+HARA, T.
+Technical Officer
+Research Division
+Fishery Agency
+1-2-1 Kasumigaseki, Chiyoda-ku
+Tokyo
+
+SATTO, M.
+Premier Secrétaire
+Ambassade du Japon
+34, Rue du Docteur-Blanche
+75016 Paris, France
+
+EGUSA, S.
+Professor, Department of Fisheries
+University of Tokyo
+1-1-1 Yayoi, Bunkyo
+113 Tokyo
+
+Norvège
+
+HÅSTEIN, T.
+Veterinary Inspector in Fish Diseases
+National Veterinary Institute
+P.O. Box 8156 Dep.
+Oslo 1
+
+Pays-Bas
+
+JANSSEN, J.
+Veterinary Inspector
+Ministry of Agriculture and Fisheries
+The Hague
+
+VERSOL, K.J.
+Legal Adviser
+Ministry of Agriculture and Fisheries
+The Hague
+
+BOOTSMA, R.
+Fish Pathologist
+Department of Special Animal Pathology
+University of Utrecht
+Utrecht
+
+van der EIJK, Mme M.
+Fisheries Consultant
+Ministry of Agriculture and Fisheries
+The Hague
+
+Pologne
+
+BACKIEL, Prof.Dr. T.
+Inland Fisheries Institute
+Piaseczno
+05-500 Zabieniec
+
+Portugal
+
+MENEZES, Dr. J.
+Docteur vétérinaire
+Direcção Geral de Investigação das Pescas
+Alges-Praia
+Lisboa 3
+
+Royaume-Uni
+
+STRAY, P.B.C.
+Principal
+Fisheries Division
+Ministry of Agriculture, Fisheries and Food
+Great Westminster House
+Horseferry Road
+London SW1
+
+WARD, B.G.S.
+Principal
+Department of Agriculture and Fisheries for Scotland
+Chesser House
+500 Gorgie Road
+Edinburgh EH11 3AW
+
+HILL, Dr. B.J.
+Principal Scientific Officer
+Ministry of Agriculture, Fisheries and Food
+Fish Diseases Laboratory
+The Nothe
+Weymouth, Dorset DT4 8UB
+
+MUNRO, Dr. A.L.S.
+Team Leader of Research Diagnostics
+Department of Agriculture and Fisheries for Scotland
+Marine Laboratory
+Victoria Road, Torry
+Aberdeen
+
+LOWES, E.
+Assistant Chief Veterinary Officer
+Ministry of Agriculture, Fisheries and Food
+Hook Rise South, Tolworth
+Surbiton, Surrey KT6 7NF
+
+STEVENSON, Dr J.P.
+FAO Consultant
+Director
+Fish Diseases Laboratory
+The Nothe
+Weymouth, Dorset DT4 8UB
+
+Suède
+
+LJUNGBERG, O.
+Veterinarian
+Statens Veterinärmedicinska Anstalt
+S-10405
+Stockholm 50
+
+Suisse
+
+KLINGER, Dr K.
+Chef, Laboratoire fédéral de recherche sur les maladies des poissons
+Institut de bactériologie vétérinaire de l'Université de Berne
+Case postale 2735 Tierspital
+3001 Berne
+
+MEIER, Dr W.
+Laboratoire fédérale de recherche sur les maladies des poissons
+Institut de bactériologie vétérinaire de l'Université de Berne
+Case postale 2735 Tierspital
+3001 Berne
+
+Tchécoslovaquie
+
+MARJANKOVA, Miss Karla
+Veterinary doctor
+State Veterinary Institute
+Timiru 79
+37139 Ceske Budejovice
+
+Venezuela
+
+CONROY, Dr David A.
+Assistant to FAO Consultant
+Profesor
+Departmento de Ictiopatología
+Facultad de Ciencias Veterinarias
+Universidad Central de Venezuela
+Apartado de Correos No 4563
+Maracay 2 KO
+Edo. Aragua
+
+Yougoslavie
+
+FIJAN, Prof.Dr N.
+Veterinary Faculty
+P.O. Box 190
+41001 Zagreb
+
+Communité Economique Européenne
+
+BENDIXEN, H.
+Chef de Division
+Direction Générale de l'Agriculture
+200, rue de la Loi
+Bruxelles
+
+CONTARDO, F.
+Administrateur Principal
+Commission des Communautés Economiques Européennes
+200, rue de la Loi
+Bruxelles
+
+OBSERVATEURS
+
+Conseil International pour l'Exploration de la Mer
+
+TIEWS, Prof.Dr K.
+Direktor
+Institut für Küsten- und Binnenfischerei der Bundesforschungsanstalt für Fischerei
+Palmaille 9
+D-2000 Hamburg-50. Allemagne (Rép.Féd. d')
+
+KOLBL, Dr O.
+Veterinarian
+Bundesanstalt für Virüssendienbekampfung
+Emil Behringweg 3
+A-1231 Wien. Autriche
+
+CHAUVEHEID, A.
+Délégué technique du Syndicat des Pisciculteurs belges
+67, rue de l'Infanta
+Waterloo. Belgique
+
+EVRARD, Dr G.
+Inspecteur Vétérinaire
+Inspection Vétérinaire
+Administration de l'Elevage et du Service Vétérinaire
+Ministère de l'Agriculture
+18 Bld de Berlaimont
+1000 - Bruxelles. Belgique
+
+BARTMANN, K.
+Deutscher Fischerei-Verband
+German Inland Fishery Association
+Nüremberg. Allemagne (Rép.Féd d')
+
+GRAF CASTELL, W.D.
+Chairman
+German Inland Fishery Association
+Hugo Gunkerstrasse 6
+8022 München Grünwald. Allemagne (Rép. d')
+
+HOFER, P.
+German Inland Fishery Association
+B.P. 16
+D7238 Oberndorf 4. Allemagne (Rép.Féd. d')
+
+KEITZ, Dr Günter
+Bay. Staatsministerium für Ernährung, Landwirtschaft und Forsten
+Postfach 2182450
+D8 München 22. Allemagne (Rép.Féd. d')
+
+KUHLMANN, H.
+Scientific Cooperator
+Bundesforschungsanstalt für Fischerei
+Palmaille 9
+2 Hamburg-50. Allemagne (Rép.Féd. d')
+
+PFEIL, Frau Dr. Cornelia
+Veterinarian
+Tiergesundheitsdient Bayern e.v.
+Senator-Gerauer-Strasse 23 - Post Poing
+8011 Grub bei München. Allemagne (Rép.Féd d')
+
+GIORGETTI, G.
+Chef
+Istituto Zooprofilattico
+Laboratorio Ittiopatologia
+Via Petrarca 76
+Udine. Italie
+
+EGIDIUS, Dr Emmy
+Fish Pathologist
+Directorate of Fisheries
+Institute of Marine Research
+5011 Bergen-Nordnes. Norvège
+
+Fédération Européenne de la Salmoniculture
+
+TESSIER, A.
+Secrétaire
+11, rue Milton
+75009 Paris. France
+
+GOTTLIEB, M.
+Chairman, Danish Section
+Federation of European Trout Producers
+7330 Brande. Danemark
+
+SECRETARIAT CONJOINT
+
+Office International des Epizooties
+
+LAABERKI, Dr A.
+Vice Président de l'OIE
+Délégué permanent du Maroc auprès de l'OIE
+Directeur de l'Institut de Biologie Animale
+El Harhoura par Temara
+Maroc
+
+VITTOZ, Dr R.
+Directeur général de l'OIE
+12, rue de Prony
+75017 Paris. France
+
+GASSE, Dr H.
+Président de la Commission Permanente du Code Zoo-Sanitaire International
+7, Sentier des Jardins
+92190 Meudon, France
+
+Secrétariat de l'OIE
+
+Ghittino, Prof. P.
+Président de la Commission Permanente pour l'Etude des Maladies des Poissons
+Via Bologna 148
+Turin, Italie
+
+FIJAN, Prof. N.
+Vice Président
+Faculté Vétérinaire
+P.O. Box 190
+41001 Zagreb, Yougoslavie
+
+de KINKELIN, Dr P.
+Secrétaire général
+Directeur du Laboratoire d'Ichtyopathologie
+Institut National de la Recherche Agronomique
+78850 Thiverval-Grignon
+France
+
+Organisation des Nations Unies pour l'Alimentation et l'Agriculture
+
+CARROZ, J.E.
+Juriste Principal
+(Pêches internationales)
+FAO
+Rome
+
+MOORE, G.K.F.
+Juriste
+Bureau juridique
+FAO
+Rome
+
+GAUDET, J.L.
+Fonctionnaire des pêches, chargé de liaison
+Secrétaire de la CECPI
+Département des pêches
+FAO
+Rome
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+APPENDICE B
+ORDRE DU JOUR
+
+1. Réunion préparatoire d'experts techniques
+2. Ouverture de la Consultation
+3. Adoption de l'ordre du jour et organisation de la Consultation
+4. Election du Bureau
+5. Projet de convention internationale pour la lutte contre la propagation des principales maladies transmissibles des poissons, et annexes techniques
+6. Autres questions
+7. Adoption du rapport
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières
+
+
+APPENDICE C
+LISTE DES DOCUMENTS
+
+Documents de travail:
+FID:CFD/76/1 Ordre du jour provisoire
+FID:CFD/76/2 Calendrier provisoire
+FID:CFD/76/3 Projet remanié de Convention internationale pour la lutte contre la propagation des principales maladies transmissibles des poissons, incorporant le texte original, des notes explicatives et le texte nouveau
+FID:CFD/76/3 Sup.1 Annexes techniques au projet remanié de Convention
+FID:CFD/76/4 Analyse des observations des gouvernements et des organisations intéressées sur le projet de Convention
+Documents d'information:
+FID:CFD/76/Inf.1 Liste des documents
+FID:CFD/76/Inf.2 Rapport de la consultation gouvernementale sur une Convention internationale pour la lutte contre la propagation des principales maladies transmissibles des poissons (Aviemore, Ecosse, 30 avril-1er mai 1974)
+FID:CFD/76/Inf.3 Rapport du symposium sur les principales maladies transmissibles des poissons en Europe et la lutte contre celles-ci
+FID:CFD/76/Inf.4 Les principales maladies transmissibles des poissons en Europe et en Amérique du Nord
+FID:CFD/76/Inf.5 Informations à l'usage des participants
+FID:CFD/76/Inf.6 Liste des délégués et observateurs
+
+Back Cover
+
+
+Page précédente Début de page

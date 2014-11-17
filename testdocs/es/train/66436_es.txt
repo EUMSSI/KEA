@@ -1,0 +1,1865 @@
+Interpretación y Uso de la Información de Mercados
+
+
+
+2
+Guía de extensión en comercialización
+
+Por
+Andrew W. Shepherd
+
+Servicio de Mercadeo y Finanzas Rurales
+Dirección de Sistemas de Apoyo a la Agricultura
+
+ORGANIZACIÓN DE LAS NACIONES UNIDAS PARA LA AGRICULTURA Y LA ALIMENTACIÓN
+Roma 2001
+
+Indice
+
+
+Para obtener ejemplares de esta publicación, así como información sobre las actividades de la FAO relacionadas con la comercialización agrícola, dirigirse por escrito a:
+
+Servicio de Mercadeo y Finanzas Rurales
+Dirección de Sistemas de Apoyo a la Agricultura
+Organización de las Naciones Unidas para la Agricultura y la Alimentación
+Viale delle Terme di Caracalla
+00100 Roma, Italia
+
+Facsímil: (39) 0657056850
+Correo electrónico: AGS-Registry@fao.org
+Sitio web: http://www.fao.org/ag/ags/agsm/marksp.htm
+
+Las denominaciones empleadas en esta publicación y la forma en que aparecen presentados los datos que contiene no implican, de parte de la Organización de las Naciones Unidas para la Agricultura y la Alimentación, juicio alguno sobre la condición jurídica de países, territorios, ciudades o zonas, o de sus autoridades, ni respecto de la delimitación de sus fronteras o límites.
+
+Todos los derechos reservados. Se autoriza la reproducción y difusión de material contenido en este producto informativo para fines educativos u otros fines no comerciales sin previa autorización escrita de los titulares de los derechos de autor, siempre que se especifique claramente la fuente. Se prohibe la reproducción del material contenido en este producto informativo para reventa u otros fines comerciales sin previa autorización escrita de los titulares de los derechos de autor. Las peticiones para obtener tal autorización deberán dirigirse al Jefe del Servicio de Publicaciones y Multimedia de la Dirección de Información de la FAO, Viale delle Terme di Caracalla, 00100 Roma, Italia, o por correo electrónico a copyright@fao.org
+
+© FAO 2001
+
+
+Indice
+
+
+Prefacio
+
+Agradecimientos
+
+Introducción
+
+1 Uso de la información de mercados
+
+2 Cómo obtener información de mercados
+
+3 Por qué cambian los precios
+
+4 Interpretación de los precios suministrados por un servicio de información de mercados
+
+5 Cálculo de los costos de comercialización
+
+6 Uso de la información de mercados para obtener mejores precios
+
+7 Uso de la información de mercados para programar la producción
+
+Actividades de los extensionistas - Lista de verificación
+
+Notas finales
+
+Anexo - Análisis de margen bruto
+
+Cubierta posterior
+Indice Página siguiente
+
+
+Prefacio
+
+Esta Guía ha sido preparada para ayudar a extensionistas y demás trabajadores en contacto permanente con las comunidades agrícolas, en la labor de aconsejar a los agricultores para que hagan el mejor uso de la información de mercados. La Guía hace énfasis en la necesidad de entender por qué los agricultores necesitan información, cómo pueden usarla y sacar provecho de su empleo, y cuáles son las fuentes de información disponibles. También se cubren temas como por qué cambian los precios tanto a corto como a largo plazo, cómo interpretar los precios suministrados por un servicio de información de mercados, y cómo calcular los costos de comercialización entre la finca y el mercado. Además, la Guía suministra una serie de herramientas prácticas para que tanto extensionistas como otras personas a lo largo y ancho del mundo mejoren la efectividad de sus labores.
+
+
+Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+Agradecimientos
+
+El autor expresa agradecimientos a Christopher Grace, Kyaw Myint, Bridget Poon, Alexander Schalke, Edward Seidler y Michael Westlake quienes hicieron valiosos comentarios sobre la versión en borrador de esta Guía. Doyle Baker y David Norman colaboraron con el Anexo. Gracias también a "Yuss" por los dibujos y a Tom Laughlin por su trabajo en la planeación de esta serie.
+
+AWS
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+Introducción
+
+OBJETIVO
+
+Esta guía ha sido preparada para ayudar a extensionistas y demás trabajadores en contacto permanente con las comunidades agrícolas, en la labor de aconsejar a los agricultores para que hagan el mejor uso de la información de mercados, especialmente de aquella suministrada por los servicios públicos de información. Con el fin de cumplir con este cometido es necesario que los extensionistas entiendan:
+* por qué los agricultores y los comerciantes necesitan información y cómo pueden usarla;
+* cuáles son las fuentes disponibles de información;
+* por qué cambian los precios, tanto en el corto como en el largo plazo;
+* cómo interpretar los precios suministrados por un servicio de información de mercados;
+* cómo calcular los costos de mercadeo entre el agricultor y el mercado.
+
+La guía cubre todos estos aspectos y considera también las formas prácticas con que los extensionistas pueden ayudar a los agricultores. Se hace énfasis tanto en el empleo de información actual para decisiones sobre comercialización a corto y a largo plazo, como de información histórica para decisiones acerca de qué y cuándo producir.
+
+PRODUCCIÓN ORIENTADA HACIA EL MERCADO
+
+Los agricultores siempre han tenido que tomar decisiones en cuanto a qué sembrar, cuándo hacerlo y dónde vender. En el pasado, sin embargo, tales decisiones no eran, generalmente, muy complicadas. A menudo sembraban lo mismo que sus vecinos, al mismo tiempo que ellos lo hacían, y vendían al comprador o a los compradores a los que sus vecinos vendían. Esta situación está cambiando ahora. Muchos agricultores se están viendo obligados a orientarse hacia el mercado y a tomar decisiones individuales acerca de qué, cuándo y cómo comercializar. Algunas de las razones para estos cambios son:
+* reducción de actividades de comercialización por parte de las agencias gubernamentales;
+* reducción o eliminación total de subsidios del gobierno a la producción y de acuerdos en la determinación de precios;
+* mejoramiento de técnicas de cultivo;
+* aumento en la demanda como resultado de la mayor urbanización;
+* la creciente oportunidad para realizar operaciones de comercio internacional con productos perecederos.
+
+Estos cambios han sido considerados brevemente en las siguientes páginas. Todos ellos tienen efecto importante sobre la clase de información que requieren los agricultores.
+
+Reducción de las actividades de comercialización de las agencias gubernamentales
+
+Todos los gobiernos del mundo se han estado retirando de la vinculación directa con la comercialización agrícola. El ejemplo más inmediato de esta tendencia es el de la Europa Oriental y de los países de la antigua Unión Soviética. En estos países, el método de producción, procesamiento y distribución centralizada colapsó de un momento a otro. De repente, los agricultores se vieron enfrentados a tener que buscar gente o empresas que les compraran su producción. Con frecuencia tuvieron que aceptar el precio ofrecido sin saber si este era razonable o no.
+
+En el África subsahariana los gobiernos han estado clausurando gradualmente las distintas juntas de mercadeo incluyendo las de cereales. En muchos países los comerciantes privados han tomado completa posesión de tales juntas. En otros, las juntas continúan funcionado pero manejan solamente porcentajes reducidos de las cosechas. En el pasado, las juntas acostumbraban tener un único precio de compra, sin considerar la época del año, y, por tanto, los agricultores trataban de vender su producción tan pronto como fuera posible después de la cosecha. Ahora, están obligados a buscar gente o empresas que se las compren, y asegurarse de obtener un precio justo. También pueden necesitar decidir si sería mejor venderla inmediatamente después de la cosecha o almacenarla con la esperanza de que los precios reaccionen.
+
+En otras regiones del mundo los cambios en las prácticas de comercialización han sido menos dramáticos. Ha habido, sin embargo, una tendencia general a apartarse de las juntas de mercadeo establecidas para alimentos y para otros cultivos, hacia un papel de mayor participación por parte del sector privado. En todo el mundo, nunca han sido tan grandes las necesidades de información que tienen los agricultores para asegurar una comercialización efectiva y rentable.
+
+Reducción o eliminación de los subsidios a la producción
+
+En las economías con planificación centralizada las fincas recibían, simplemente, instrucciones de criar animales, cultivar forraje, trigo o papa, etc. A menudo, esto no tenía relación alguna con la demanda del mercado. Más aún, las fincas no tenían que preocuparse por comercializar sus productos ya que el comprador final o el procesador también eran decididos por el estado, el que se encargaba de igual forma, de organizar el transporte. Con el fin de la planeación central, tanto las grandes fincas como los pequeños agricultores individuales que en algunos países habían tomado posesión de las haciendas estatales se vieron obligadas a cambiar hacia el cultivo de productos de acuerdo con la demanda del mercado. Para lograrlo, necesitaron información de mercados confiable.
+
+En gran parte de África las juntas de mercadeo pagaban el mismo precio a lo largo de todo el país, lo que significaba que aquellos agricultores localizados en áreas remotas recibían precios que no consideraban los costos de transporte. En algunos casos estos costos superaban el valor real de la mercadería transportada. Hoy, después de la liberalización de la comercialización, muchos agricultores han concluido que la producción de bienes esenciales por encima de sus necesidades de subsistencia ya no es rentable. Quienes están localizados en zonas remotas o donde terminan los caminos de penetración han tenido que cambiar sus patrones de cultivo y buscar otros que tengan mayor relación valor comercial/peso con el fin de poder absorber los mayores costos de transporte.
+
+Técnicas mejoradas de cultivo
+
+A medida que progresan las técnicas de cultivo y que se dispone de nuevas variedades de semillas, los agricultores adquieren mayor capacidad de producir cultivos que antes no podían y de producir cultivos "de fuera de estación". Estos desarrollos tienen particular aplicación en el caso de la horticultura. Con el uso de técnicas modernas y semillas mejoradas, los agricultores verdaderamente orientados hacia el mercado pueden considerar la posibilidad de abastecer los mercados en épocas del año en las que los precios estén altos.
+
+Producción en temporada baja
+
+Los agricultores pueden extender la época de cosecha y sacar productos al mercado antes o después que otros agricultores
+
+Los agricultores pueden extender la época de cosecha y sacar productos al mercado antes o después que otros agricultores
+
+Para lograrlo, sin embargo, necesitan información de mercados con el fin de:
+* saber cuándo los precios del mercado están en su nivel máximo;
+* estar en capacidad de calcular si el precio más alto va a compensarles los mayores costos de producción en que hayan incurrido.
+
+Mayor grado de urbanización
+
+Las poblaciones urbanas están creciendo rápidamente en la mayor parte de las regiones del mundo. Esto quiere decir que una proporción creciente de la población mundial no está produciendo sus propios alimentos. Cada año, más y más gente se vuelve dependiente de una proporción menor de agricultores que abastezcan sus necesidades alimentarias a través del mercado. Los agricultores que ya han estado produciendo alimentos específicamente destinados para el mercado cada día se están volviendo "más comerciales"; aquellos que anteriormente solo vendían excedentes de sus consumos de subsistencia ahora se están orientando hacia el mercado. Una mayor confianza en el mercado significa que los agricultores enfrentan un mayor riesgo de que algo no funcione como se espera. Para minimizar el riesgo necesitan tomar decisiones bien fundamentadas, lo que significa que requieren la mayor y mejor información posible.
+
+Expansión del comercio internacional de productos perecederos
+
+La variedad de alimentos frescos comercializados internacionalmente ha crecido en forma rápida en las décadas recientes. Esto ha sido posible principalmente por la disponibilidad de capacidad de transporte aéreo veloz y frecuente. Los importadores en los mercados de los países desarrollados han aprovechado esta facilidad para:
+* poner los productos a disposición de los consumidores durante todas las épocas del año, en tanto que anteriormente podían hacerlo solamente durante la temporada doméstica;
+* ofrecer productos que antes no eran ofrecidos;
+* ofrecer productos que interesan a sus comunidades "étnicas" o de inmigrantes.
+
+A pesar de que en la mayor parte de los casos las cantidades de productos perecederos exportados son pequeñas comparadas con la producción total de un país, ellas representan un mercado importante y de alto valor potencial para los agricultores.
+
+INFORMACIÓN REQUERIDA
+
+Tal como se explicó antes, en muchos casos los agricultores se ven hoy enfrentados a mayores responsabilidades para comercializar su producción. Al mismo tiempo, también tienen la oportunidad de ofrecer una variedad más amplia de productos. Bien sea que busquen vender los productos tradicionales o que quieran comercializar nuevos productos, necesitan disponer de información relacionada con mercados y con precios. Pueden resumirse así las clases de información que necesitan:
+
+1. Quiénes son y dónde se encuentran los compradores, cómo pueden ser contactados, cuáles son sus condiciones para negociar, cuáles son sus variedades preferidas, cuáles los empaques demandados y cuáles los sistemas de entrega solicitados, etc.
+
+2. Precios actuales o inmediatos (y oferta), que les ayudarán a decidir entre vender su cosecha en un determinado día o esperar a que el precio reaccione, o que les permitirá determinar si el precio que les ofrece el comerciante local es razonable o no.
+
+3. Información de precios histórica o a largo plazo con cubrimiento de varios años, que les permitirá decidir, por ejemplo, si es rentable sembrar nuevos productos, cultivar por fuera de temporada los ya conocidos, o buscar producir cultivos de calidad superior.
+
+La manera de colaborar con los agricultores en la obtención de información sobre cómo y a quién vender será considerada brevemente en esta guía^1. Sin embargo, el mayor énfasis se hace en cómo los extensionistas pueden apoyar a los agricultores en el uso de la información suministrada por los servicios de información de mercados. Tradicionalmente, los servicios de extensión se han concentrado en dar a los agricultores únicamente asistencia sobre producción. Sin embargo, a medida que los agricultores se orientan más hacia el mercado, de igual forma deben hacerlo los extensionistas, porque:
+* la meta de los programas de extensión debe ser ayudar a los agricultores a lograr el máximo de la producción potencial y, por tanto, el máximo ingreso;
+* si los agricultores no pueden vender lo que producen quiere decir que la asesoría recibida sobre técnicas de producción se ha perdido.
+
+Nota: En la capitulo "Actividades de los extensionistas - Lista de verificación" de esta guía se suministra una lista de control de actividades para extensionistas.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+1 Uso de la información de mercados
+
+Principales asuntos tratados en el Capítulo 1
+
+Uso de la información de mercados
+
+Los agricultores pueden usar la información de mercados para ...
+* Reducir los riesgos asociados con la comercialización
++ Conocer los precios les ayuda a decidir si se justifica enviar sus productos al mercado
+* Decidir dónde vender
+
+* ¿En qué etapa de la cadena de comercialización? ¿En cuál mercado?
+
+
+
+Verificar los precios que están recibiendo
+* ¿Están negociando bien con los comerciantes?
+* ¿Es la calidad de sus productos igual a la de los de otros agricultores?
+* ¿Están obteniendo sus agentes en el mercado los mejores precios?
+
+
+
+Decidir si se almacena o no
+* Los agricultores pueden almacenar algunos productos durante varios meses si creen que el precio va a subir
+
+
+
+Decidir si se siembra para la temporada baja
+* Las técnicas agrícolas modernas ofrecen la oportunidad de cultivar productos cuando los precios están más altos
+
+
+
+Decidir si se cultivan productos diferentes
+* Los agricultores pueden sembrar nuevos productos pero necesitan calcular si ello les dará utilidades
+
+Cuando los agricultores envían sus productos a mercados distantes corren el riesgo de que el precio no alcance ni para cubrir los costos de comercialización. La información de mercados puede ayudar a evitar estas situaciones.
+
+
+La información de mercados puede ayudar a los agricultores a negociar con los comerciantes ... pero debe estar actualizada
+
+
+USOS DE LA INFORMACIÓN DE MERCADOS
+
+Tal como se dijo en la Introducción, la información es esencial para los agricultores que desean orientarse completamente hacia el mercado y asegurar que su producción esté de acuerdo con la demanda del mercado. En teoría, la disponibilidad de información de mercados confiable puede ayudar a los agricultores a:
+* reducir los riesgos asociados con la comercialización;
+* decidir dónde vender la producción;
+* verificar que los precios que se les ofrecen están de acuerdo con los precios de mercado;
+* decidir si se almacena o no;
+* decidir si se cultivan productos para "temporada baja";
+* decidir si se cultivan productos diferentes.
+
+Reducción de riesgos
+
+Todos los agricultores, dondequiera que se encuentren en el mundo, enfrentan numerosos riesgos. Obviamente, ellos están expuestos a que el mal tiempo dañe o destruya sus cosechas. También a que los precios de mercado no sean lo suficientemente buenos como para permitirles obtener utilidad. Aún peor que no poder cubrir los costos de producción, los agricultores descubren algunas veces que los precios que se les pagan no son siquiera suficientes para cubrir los costos de comercialización tales como transporte, manipulación, o cuotas de ingreso al mercado (ver Capítulo 5).
+
+Para dar un ejemplo, los cultivadores de tomate tienen costos de producción de $30 por 100 kg y costos de comercialización de $15 por kg. De esta forma, sus costos totales son $45:
+* si el precio de mercado es $60 ellos cubrirán tanto los costos de producción como los de comercialización y obtendrán utilidad. Es claro que enviarán su producción de tomate al mercado;
+* si el precio de mercado es $30 perderán dinero. Sin embargo, enviarán su producción al mercado porque estarán en capacidad de cubrir los costos de comercialización y de recuperar al menos parte de los costos de producción;
+* si el precio de mercado es de $10 los agricultores sensatos no enviarán su tomate a los mercados porque no solamente perderán todo el dinero invertido en producción sino que también perderán parte de los costos de comercialización. Será mejor retardar la cosecha hasta cuando mejoren los precios (suponiendo que la cosecha puede ser retardada). En el peor de los casos puede ser necesario dejar que los tomates se pudran en el campo.
+
+Nota: El signo $ es usado a lo largo de esta guía para referirse a dinero en general, y no a una moneda nacional en particular.
+
+La información sobre precios de mercado y sobre cantidades ofrecidas en ellos puede reducir este riesgo. Por supuesto, la buena información no puede reducir enteramente el riesgo porque los precios estacionales de los productos perecederos pueden fluctuar rápida y significativamente, dependiendo de cuánto producto llegue al mercado en un determinado día. Pero, disponer de alguna información es mucho mejor que no contar con ninguna.
+
+La disponibilidad de series históricas de precios puede ayudar también a reducir los riesgos de otras maneras. Por ejemplo, puede reducir los que están asociados con decidir si se almacena una cosecha para venderla más tarde o con decidir si se cultivan nuevos productos. Estos aspectos se consideran más adelante en este capítulo.
+
+Decidir dónde vender
+
+Es importante que el agricultor esté en capacidad de vender su producción en un lugar cómodo y conveniente. En algunos casos los agricultores tienen varias opciones. Ellos pueden:
+* vender en la puerta de la finca;
+* llevar a un mercado local de acopio;
+* abastecer directamente un mercado mayorista;
+* vender directamente a minoristas individuales o a grandes compañías propietarias de tiendas minoristas o supermercados;
+* vender a compañías con las cuales se tienen acuerdos o "contratos" para la compra de cosechas;
+* vender directamente a los consumidores urbanos.
+
+Recuadro 1
+
+El efecto de la información de mercados en Albania*
+
+En agosto de 1994 el nuevo servicio de información de mercados empezó recogiendo precios minoristas de mercado en los principales mercados de Albania, en los días de mayor comercialización, que eran los sábados.
+
+Como resultado de este nuevo servicio rápidamente se conoció que existían significativas diferencias en los precios para productos similares en los distintos mercados, aún en mercados tan cercanos distantes entre sí no más de 15 kilómetros. Algunas veces los precios en un mercado eran el doble de aquellos en mercados vecinos. Esta situación era debida al mal estado de las vías de comunicación terrestre y a que en esa época casi no existían comunicaciones telefónicas, lo que obligaba a los agricultores a preferir siempre abastecer el mercado más cercano a su finca y les impedía contactar otros mercados para conocer sus precios.
+
+Una vez se conocieron las diferencias en los precios de mercado como resultado del servicio, los agricultores empezaron a llevar sus productos a zonas más distantes, no obstante el mal estado de las carreteras.
+
+* C. Grace, comunicación personal
+
+TIPOS DE MERCADO
+
+Mercado de acopio es un término empleado para describir el lugar donde acuden los agricultores a vender sus productos a los comerciantes, quienes los llevarán hasta los mercados mayoristas. Es mucho más eficiente que los comerciantes compren a los productores en uno o dos lugares a que visiten a cada uno de ellos individualmente. En efecto, cuando las carreteras están en malas condiciones muchos productores no pueden ser visitados por los camiones. Los mercados de acopio pueden tener formas diferentes: en algunos casos pueden ser áreas reducidas en las que productores y compradores se reúnen durante un par de horas con periodicidad que puede ser regular o irregular; en otros los mercados pueden realizarse una o dos veces por semana. Normalmente los mercados de acopio están localizados en las zonas rurales, pero existen algunos mercados de acopio permanentes que con frecuencia funcionan en pequeñas poblaciones cercanas a los distritos agrícolas. En este caso, tales mercados
+también funcionan como mercados mayoristas locales y quizás también como mercados minoristas locales.
+
+Mercados mayoristas pueden ser descritos como lugares en donde minoristas y empresas pueden adquirir sus abastecimientos. Los despachos hasta los mercados mayoristas pueden ser hechos por los mismos productores o por comerciantes intermediarios que han comprado a los agricultores o a otros intermediarios menores. Aunque en algunos países las personas que transportan la producción agrícola directamente a los mercados mayoristas son responsables de vender a los minoristas, en la mayor parte de los casos sucede que un mayorista del mercado recibe el producto de parte de los productores o de los intermediarios y lo vende más tarde a los minoristas.
+
+Los mercados mayoristas cumplen funciones importantes porque:
+* los productores y los intermediarios pueden llevar su producción a un solo sitio en vez de tener que visitar muchos minoristas;
+* los minoristas pueden adquirir una amplia variedad de productos en un mismo lugar;
+* la comercialización de grandes cantidades de productos en un mismo lugar hace posible que surjan de precios de mercado que reflejan la oferta y la demanda. Esto no sería posible si los intermediarios vendieran a los minoristas y los precios variaran en forma significativa de extremo a extremo en una ciudad o población.
+
+Los mercados minoristas son mercados en donde los consumidores adquieren sus abastecimientos. El término "consumidor" incluye familias e individuos, así como pequeñas empresas tales como restaurantes y vendedores callejeros de alimentos (las empresas más grandes probablemente comprarán en los mercados mayoristas o directamente al productor). Quienes venden en un mercado minorista son generalmente minoristas especializados que adquieren la producción directamente de los agricultores o que son ellos mismos agricultores. Por supuesto que los mercados formales destinan hoy solamente una pequeña parte para la comercialización minorista, lo que permite a los consumidores tener una variedad de posibilidades en dónde comprar, desde los supermercados sofisticados hasta las pequeñas tiendas detallistas y los minoristas que venden en camiones, bicicletas o al lado de la vía.
+
+MIENTRAS MÁS AVANCEN LOS AGRICULTORES EN LA CADENA DE COMERCIALIZACIÓN MAYOR ES EL PRECIO QUE VAN A CONSEGUIR ... PERO SUS COSTOS PUEDEN CRECER MÁS QUE SUS PRECIOS
+
+Mientras más avancen los comerciantes en la cadena de comercialización, mayor será el precio que normalmente recibirán. Sin embargo, un precio de venta alto no necesariamente significa que los agricultores vayan a tener los máximos ingresos. Esto depende de los costos involucrados cuando deciden vender en la fase más próxima al consumidor final. Puede ser más costoso para un agricultor transportar pequeñas cantidades a lo largo de una gran distancia que para un comerciante transportar grandes cantidades en la misma distancia.
+
+De igual forma, vender directamente a los consumidores es costoso en términos de tiempo del agricultor. Estar sentado todo el día en un mercado probablemente permitirá a los agricultores obtener mayores precios, pero también pudiera pensarse que ellos podrían usar ese tiempo en forma más provechosa trabajando en sus huertos. Para escoger en donde comercializar es necesario disponer de información sobre las condiciones del mercado en diferentes localidades o en diferentes puntos de la cadena, así como la comprensión de los costos de comercialización involucrados (ver Capítulo 5).
+
+Verificación de los precios recibidos
+
+Con buena información, los agricultores pueden comparar los precios que están recibiendo con el nivel general de precios en el mercado. Este es el caso de Indonesia, donde los precios del mercado hortícola son transmitidos diariamente a todas las mayores áreas de producción. Si los agricultores reciben precios inferiores a los transmitidos, pueden, por ejemplo, concluir que deben buscar otros compradores para el futuro, ser más agresivos en el proceso de negociación o tratar de mejorar la calidad y presentación de sus productos. La transmisión de precios en Indonesia también es usada por los agricultores como un punto de partida para las negociaciones que se harán con los comerciantes al día siguiente.
+
+La verificación de precios es especialmente importante para los agricultores que acostumbran enviar su producción «en consignación» a agentes o a mayoristas en los mercados mayoristas. Los agricultores no tienen conocimiento anticipado de los precios que van a recibir y dependen de sus agentes para que les consigan el mejor pago por su producción. Estos arreglos exigen que los agricultores confíen en que sus agentes les van a conseguir los mejores precios posibles. Sin embargo, aún cuando tal confianza existe es conveniente que los agricultores puedan comparar los precios que reciben con los precios de mercado divulgados.
+
+Decidir si se almacena o no
+
+Es claro que los agricultores que cultivan productos perecederos tienen relativamente poca oportunidad de escoger cuándo venderlos. Ellos pueden tener la capacidad de adelantar o demorar la cosecha por unos pocos días pero, básicamente, tienen que vender sus productos cuando han llegado al punto de sazón. Por otra parte, los agricultores que producen granos tales como maíz y arroz en cáscara (paddy), productos como cebolla, papa y manzana, pueden almacenarlos a la espera de precios más altos en el futuro. Sin embargo, para poder hacerlo necesitan, por supuesto, contar con buenos depósitos.
+
+Los productos que se pueden almacenar pueden obtener mejores precios en el futuro
+
+Maíz - Zambia
+
+FAO/17831/A. Conti
+
+Papa - Ecuador
+
+FAO/16183
+
+Arroz - Myanmar
+
+FAO/19776/G. Bizzarri
+
+Ajo - Honduras
+
+FAO/18937/G. Bizzarri
+
+Cuando un servicio de información de mercados público ha estado funcionando por varios años debe estar en capacidad de ofrecer datos sobre las tendencias estacionales de los precios. Los agricultores, guiados por los extensionistas, pueden aprovecharlos para tener una idea del comportamiento estacional de los precios. Sin embargo, el patrón de comportamiento exacto en un año dado depende del tamaño de la cosecha. Cuando se tiene una buena cosecha es posible que los precios no crezcan mucho a lo largo del año y que el almacenamiento no resulte muy rentable. Por otra parte, cuando la cosecha es escasa los precios pueden elevarse bastante y los agricultores que almacenan pueden hacer un buen negocio. El Capítulo 8 da ejemplos de cómo calcular los rendimientos probables del almacenamiento.
+
+Decidir si se cultivan productos "en temporada baja"
+
+Una ulterior ventaja de contar con datos sobre la tendencia estacional de los precios es que los agricultores pueden tomar decisiones bien fundamentadas sobre cuándo producir. En el pasado, la mayoría de los agricultores se enfrentaban al problema de que cuando sus cultivos de temporada estaban listos para ser cosechados, igual sucedía con los cultivos de los demás productores. Como resultado de esto se veían obligados a aceptar bajos precios. Sin embargo, con técnicas modernas de agricultura y nuevas variedades es posible, con frecuencia, extender la temporada de cosecha y sacar producción tanto antes como después que la mayor parte de los otros agricultores.
+
+Los datos estacionales sobre precios darán a los agricultores una buena idea de los precios que probablemente vayan a recibir por su producción "de temporada baja". Sin embargo, el hecho de que casi con seguridad vayan a obtener precios significativamente altos en el mercado no quiere decir que ellos deban planear inmediatamente producir para la temporada baja. Si las cosas fueran así de simples todos los agricultores lo harían. Generalmente, esta producción representa más altos costos de inversión (por ejemplo, para cobertizos o recubrimiento de plástico); más altos costos de producción (por ejemplo, para pesticidas químicos) y bien pueden conducir a menores rendimientos. Los extensionistas necesitan, por tanto, estar en capacidad de ayudar a los agricultores a calcular sus probables costos de producción y a relacionarlos con los precios de venta esperados.
+
+Decidir si se cultivan productos diferentes
+
+Los agricultores se muestran ansiosos por tratar de cultivar nuevos productos cuando saben que con ellos pueden aumentar sus ingresos. En algunos casos, cambios recientes en política gubernamental han producido que sea casi esencial que los agricultores diversifiquen con nuevos cultivos. Por ejemplo, el cierre de las juntas de mercadeo en África, que en el pasado solían garantizar el mismo precio de compra a lo largo y ancho del país, puede conducir a que aquellos agricultores que viven en áreas en donde los costos de comercialización son altos encuentren que los rendimientos de cultivos tales como el maíz no alcancen a justificar los costos. Tales agricultores necesitan, con el apoyo de los extensionistas, estar en capacidad de calcular si vale la pena cultivar otros productos. La información sobre precios de mercado anteriores es esencial para que ellos puedan tomar tales decisiones.
+
+Cultivo de diferentes productos
+
+Los agricultores pueden escoger sembrar nuevos productos que les permitan competir por mejores precios
+
+W. Baudoin
+
+Los agricultores pueden escoger sembrar nuevos productos que les permitan competir por mejores precios
+
+H. Bammann
+
+Es posible que en otros casos los agricultores estén considerando la posibilidad de diversificar con nuevos cultivos para aprovechar algunas oportunidades del mercado. En Nepal, por ejemplo, la existencia de muchos microclimas en las zonas montañosas permite que nuevos cultivos que en el pasado eran de temporada sean cultivados en un lugar u otro durante buena parte del año. Un proyecto de la FAO adelantado en forma conjunta con el Gobierno nepalés, identificó oportunidades de mercado para varios productos y los relacionó con la capacidad de diferentes zonas para abastecer en distintas épocas del año, mediante el uso de nuevas variedades en donde fuera pertinente.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+2 Cómo obtener información de mercados
+
+Principales asuntos tratados en el Capítulo 2
+
+Cómo obtener información de mercados
+
+Posibles fuentes de información de mercados
+* Servicios de información de mercados administrados por el estado
++ Son independientes y probablemente no son sesgados
++ Ofrecen información que cubre varios años
++ Suministran información que puede usarse para ayudar a los agricultores a obtener mejores precios y a planear su producción, en asuntos tales como qué producir o cuándo puede ser conveniente la producción de temporada baja, pero ...
++ No siempre llega a los pequeños agricultores
++ Puede no ser actualizada o puede llegar al agricultor demasiado tarde para que se la pueda usar
++ Puede no ser muy exacta
++ Suministra poco análisis
+
+Los servicios oficiales de información de mercados no siempre están actualizados
+* Comerciantes
++ Con frecuencia tienen información actualizada, pero ...
++ Siempre querrán comprar la producción al precio más bajo posible
+* Otros agricultores
+
+* Pueden ser una fuente importante de información sobre los mercados locales, pero ...
+* Es posible que no tengan una idea exacta de los precios que les pagan
+* Pueden exagerar los precios que les pagan
+
+
+
+Otras fuentes. Incluyendo ...
+* Juntas de precios de los mercados
+* Extensionistas
+* Organizaciones no gubernamentales (ONG)
+* Agroindustria
+
+Los agricultores no siempre son la mejor fuente de información
+
+
+Los agricultores no siempre son la mejor fuente de información
+
+
+FUENTES DE INFORMACIÓN DE MERCADOS
+
+Es posible que en la mayor parte de los países en desarrollo o en proceso de transición, la principal fuente de información para los agricultores no sean los servicios de información de mercados administrados por el gobierno (SIM). Algunos países no disponen aún de esos servicios y, en donde funcionan, generalmente suministran información inadecuada. Con frecuencia, los pequeños agricultores confían más en información verbal de otros agricultores y de comerciantes. Comoquiera que las comunicaciones mejoran rápidamente, muchos agricultores grandes están comenzando a buscar información por teléfono, directamente de los mercados mayoristas.
+
+Servicios de información de mercados administrados por el gobierno
+
+Las principales fortalezas de un SIM administrado por el gobierno consisten en que es independiente y que probablemente no suministra en forma deliberada información sesgada, lo que puede no suceder con comerciantes y, por cierto, con otros agricultores. Una fortaleza mayor consiste, o al menos debe consistir, en que están en capacidad de reunir información sobre tendencias de precios a lo largo de varios años. Tal como se ha mencionado, esta información puede ser empleada para tomar decisiones sobre qué sembrar y sobre producción de temporada baja. Por otra parte, la información suministrada por agricultores o comerciantes es casi siempre transmitida en forma oral y olvidada en unos pocos días.
+
+Un tablero con noticias actualizadas de información de mercados puede ser de gran ayuda para los agricultores
+
+Los otros agricultores pueden constituir una fuente importante de información de mercados, especialmente sobre mercados locales
+
+Potencialmente, las mejores fuentes de información para los agricultores son los extensionistas
+
+Los agricultores modernos están en permanente contacto con los compradores. Aún cuando se encuentren en el campo
+
+La mayoría de los gobiernos reconocen la importancia de la información de mercados y tratan de suministrar al menos un servicio básico. Con ello pretenden:
+* crear "transparencia" de tal forma que todo aquel comprometido con producción y comercialización sepa cuáles son los precios de mercado;
+* reducir la probabilidad de escasez de alimentos en localidades o regiones mediante la actuación de los comerciantes para abastecer zonas deficitarias en respuesta a la información de precios;
+* dar a los agricultores mayor capacidad de negociación con comerciantes;
+* indicar a los agricultores posibles oportunidades de producción rentable;
+* mejorar la formulación de políticas mediante la disponibilidad de mejor información.
+
+Los servicios de información de mercados tienen distintas formas de llevar información a sus usuarios. La radio y, en donde se dispone de ella, la televisión constituyen las mejores formas de comunicación porque permiten a los agricultores enterarse rápidamente de los cambios en los precios, pero muchos SIM tienen dificultades para pagar por tales transmisiones. También se hace uso de periódicos locales y nacionales, y algunos SIM publican boletines y los distribuyen por correo, bien en forma gratuita o mediante el pago de un derecho, pero la circulación de tales boletines es usualmente limitada y lenta. Los servicios de extensión publican con frecuencia información, bien mediante la entrega de boletines a los agricultores o reproduciendo la información y fijándola en tableros. Ya a un nivel mucho más sofisticado, algunos países entregan información a través de sitios en el World Wide Web (www). Otros usan el servicio de teletexto, disponible por medio de estaciones locales
+de televisión.
+
+Las recomendaciones que se hacen en esta guía suponen que los agricultores y los extensionistas disponen de servicios de información de mercados en sus países. Sin embargo, es importante que los últimos estén al tanto de las limitaciones de muchos SIM y las tomen en cuenta cuando van a ayudar a los agricultores a interpretar y hacer uso de la información de precios. En el Recuadro 3 se incluye una lista de los principales problemas que se pueden tener con los SIM.
+
+En muchos países los servicios de información de mercados están cumpliendo una buena labor y en otros están trabajando con empeño para superar las dificultades. Casi todos sufren de escasez de dinero para cumplir adecuadamente con sus propósitos. Sin embargo, parece que existen pocas alternativas para las agencias gubernamentales que suministran información de mercados. No existen posibilidades reales para que los pequeños agricultores paguen por la información y, de todas formas, el recaudo de los pagos sería casi imposible. Son pocos los SIM puestos en funcionamiento por el sector privado, pero estos se concentran en vender información a los grandes productores, a comerciantes, y a procesadores. Otros SIM tratan de vender información detallada a los grandes agricultores al mismo tiempo que ponen a disposición de todos la información más elemental.
+
+Recuadro 2
+
+Servicio de información de mercados - Definición
+
+La FAO define un SIM como un servicio, administrado generalmente por el sector público, comprometido con la recolección regular y permanente de información sobre precios y, en algunos casos, sobre cantidades de productos ampliamente comercializados en mercados de acopio en áreas rurales, mayoristas, o minoristas, según sea el caso, y con su difusión oportuna y regular a través de distintos medios de comunicación entre productores, transportadores, comerciantes, funcionarios públicos, diseñadores de políticas económicas, y otros, como los consumidores.
+
+Recuadro 3
+
+Problemas comunes con los Servicios de Información de Mercados
+* A menudo prestan mucha atención a recolectar una gran cantidad de información pero poco hacen para llevarla hasta los agricultores.
+* Prestan escasa atención a la calidad de los datos recolectados, la que puede ser pobre y no reflejar adecuadamente los precios que predominan en el mercado.
+* Recogen y difunden información sobre precios en forma por demás intermitente. Los precios de productos hortícolas de los mercados mayoristas cambian constantemente y los SIM pueden llegar a recogerlos una vez por semana y aún cada dos semanas. Comoquiera que esa información puede ser usada para propósitos de planeación a largo plazo, realmente es poco lo que ayuda a los agricultores a decidir si envían o no los productos al mercado, o a negociar con los comerciantes.
+* Publican la información en forma inadecuada para algunos agricultores. Algunos SIM publican los precios en los diarios pero no los difunden por radio. En algunos países los diarios llegan muy escasamente a los campos: en muchos una alta proporción de agricultores no sabe leer.
+* Difunden información por radio pero lo hacen en lenguaje equivocado y en momentos en los que los agricultores no los pueden escuchar.
+* Instalan tableros de noticias en poblados o en mercados con el fin de indicar a los agricultores los precios vigentes, pero olvidan actualizar la información en los tableros, algunos de los cuales eventualmente son destruidos. En forma alternativa, dejan los precios en los tableros sin indicación de fecha, lo que lleva a que los agricultores no tengan idea alguna sobre la fecha a la que corresponden.
+* Reportan precios sobre un producto en particular sin hacer claridad sobre la variedad a la cual se refiere el precio.
+* En aquellos lugares en donde se usan unidades de medida (por ejemplo, "cajas", "latas", "sacos") reportan precios para tales medidas sin señalar que el tamaño de los contenedores varía aún dentro de un mismo país.
+* Convierten los precios a medidas estándar (generalmente a kilogramos) que en algunos países no son comprendidas por los agricultores.
+* Reportan información sobre precios en mercados urbanos, y los agricultores no tienen forma de entender lo que estos precios significan para ellos.
+* Suministran precios a los agricultores pero no les dan análisis de tendencias y raramente les entregan información sobre cantidades abastecidas u otra información comercial de importancia (tal como la de vías bloqueadas) que eventualmente pudiera afectar la oferta.
+
+Comerciantes
+
+Cuando los agricultores llevan directamente su producción a los mercados urbanos o la "consignan" a agentes que trabajan en esos mercados, estos y los comerciantes mayoristas de los mercados se constituyen en su principal fuente de información, lo que hace que esta sea completamente actualizada. Algunos agricultores pueden estar en capacidad de comunicarse por teléfono con anticipación para conocer los precios antes de acudir al mercado o de enviar sus productos. Todos los agricultores pueden, al llegar al mercado, verificar con otros productores los precios que allí prevalecen (sin embargo, como se indicó antes, esta práctica no siempre produce información confiable). Con frecuencia, los agricultores negocian durante muchos años con el mismo comerciante o agente mayorista y llegan a confiar en ellos como fuente de información segura. No obstante, es útil que los productores verifiquen ocasionalmente con otros comerciantes y productores con el fin de asegurarse de que el
+mayorista con quien trabajan es honesto.
+
+La información de que disponen los intermediarios rurales sobre precios en los mercados urbanos es casi con seguridad más actualizada que la que suministran los servicios de información de mercados. No solamente ellos visitan con regularidad estos mercados y toman directamente los precios, sino que también se informan con otros comerciantes sobre las condiciones del mercado. Cada día más los comerciantes e intermediarios están en contacto directo con los mercados a través de los teléfonos corrientes o de teléfonos celulares cuando hay disponibilidad de ellos.
+
+Es claro que los comerciantes quieren obtener utilidades. Una manera de lograrlo consiste en asegurarse de que existe gran diferencia entre el precio que ellos pagan a los agricultores y el que reciben cuando venden la producción. Es indudable que esta diferencia debe cubrir todos los costos de comercialización. Probablemente ellos negociarán con los agricultores alegando que los precios de los mercados urbanos son menores que lo que realmente son. Aún cuando un país tenga un buen servicio de información de mercados que suministre información diariamente, los comerciantes están en capacidad de argumentar que sus fuentes de información son más actualizadas que las del SIM. Los agricultores que no disponen de un radio, mucho menos de un teléfono celular, no están en capacidad de discutir.
+
+Sin embargo, cuando existen muchos comerciantes, la oportunidad que tienen los comerciantes pequeños de presionar los precios hacia la baja es limitada. Si la diferencia entre los precios de compra y de venta es muy alta, otros comerciantes encontrarán la oportunidad de aumentar sus utilidades no mediante el pago de precios inferiores sino mediante el manejo de mayores cantidades de producto.
+
+De este modo, cuando existe competencia entre los comerciantes se abre un espacio para que los agricultores aumenten los precios que van a recibir. Sin embargo, de todas formas los agricultores necesitan información no sesgada que les permita negociar con mayor fortaleza. Si bien los SIM pueden no ser capaces de suministrar a los agricultores información suficientemente actualizada para negociar diariamente, la información que entregan debe, al menos, permitirles saber cuáles son las tendencias de los precios. Si, por ejemplo, el comerciante con quien generalmente negocia el agricultor está ofreciendo el mismo precio de siempre, pero el último informe reportado por el SIM indica que el precio del tomate ha tendido al alza, entonces el agricultor se encontrará en una posición más fuerte para discutir.
+
+Otros agricultores
+
+Los otros agricultores también pueden ser fuente importante de información, especialmente de la relacionada con los mercados locales. Al mismo tiempo, no debe suponerse que la información que ellos entregan siempre es confiable. Entre las razones para ello se incluyen:
+* los agricultores recordarán siempre el precio total que han recibido, pero es posible que no sepan con claridad el peso exacto de la mercadería vendida (especialmente cuando hacen uso de contenedores no estandarizados), y por tanto es posible que no puedan suministrar información confiable sobre el precio por kilo;
+* los agricultores pueden tener la tendencia a exagerar los precios que reciben. Pueden querer que los otros agricultores piensen que ellos son o bien (1) muy hábiles para negociar con los comerciantes o (2) productores de bienes de alta calidad que logra los mejores precios.
+
+Otras fuentes de información
+
+Algunas de ellas se describen a continuación:
+
+Juntas de precios de mercado. En algunas oportunidades los mercados recolectan precios bien en forma independiente o en unión de los servicios de información de mercados, y los exhiben en tableros de noticias. Es claro que esta información es usada únicamente por aquellos agricultores que visitan los mercados y muy poco por los agricultores que prefieren vender en la puerta de la finca. No obstante, debería estimularse a los administradores de los mercados a que recojan precios de mercado dondequiera que sea posible y a ponerla a disposición de los agricultores.
+
+Extensionistas. Potencialmente, la mejor fuente de información para la mayoría de los agricultores son los extensionistas. Tal como se explicará más adelante en esta guía, un buen extensionista deberá estar en capacidad de identificar compradores locales para los distintos productos, y averiguar los precios que se están pagando, así como los plazos y demás condiciones. Si el servicio de extensión cuenta con especialistas en comercialización en su sede principal, el extensionista debe ponerse en contacto con ellos para conseguir la más amplia y detallada información sobre los mercados que sea posible. A largo plazo, los extensionistas pueden mantener registros de los precios reportados por los SIM y trasladarlos a gráficas para que cuando los agricultores les visiten puedan apreciar las variaciones estacionales. A corto plazo, con la colaboración de esta guía que tiene este aspecto como su principal objetivo, los extensionistas pueden ayudar a los agricultores a entender la
+información transmitida por el SIM.
+
+Organizaciones no gubernamentales. Con frecuencia se encuentran ONG comprometidas con actividades de mejoramiento de la comercialización. Sin embargo, estas organizaciones llegan, a menudo, solo hasta una pequeña parte de los agricultores. Las ONG, como muchas de las agencias gubernamentales, se obsesionan a veces con la idea de promover la producción sin prestar mucha atención a los mercados para la producción. No obstante, las ONG pueden cumplir con muchas de las actividades identificadas para los extensionistas en esta guía (ver también páginas 82 a 84).
+
+Agroindustria. La principal salida para muchas cosechas que no son vendidas está constituida, generalmente, por empresas elaboradoras. Normalmente ellas entregan información sobre precios de compra a quienes lo solicitan (personalmente o por teléfono) y, a menudo, colocan datos sobre precios de compra en tableros de noticias instalados en el exterior de sus locales.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+3 Por qué cambian los precios
+
+Principales asuntos tratados en el Capítulo 3
+
+Por qué cambian los precios
+
+Sobre todo, los precios dependen de ...
+* La oferta, lo que la gente está en capacidad de vender a determinado precio
+* La demanda, o lo que la gente está dispuesta a comprar a determinado precio
+
+Las fluctuaciones en los precios a corto plazo pueden ser causadas por ...
+
+* Qué cantidad de producto se pone a la venta en un día
+* Los cambios en la demanda a corto plazo
+* La disponibilidad en el mercado de los productos competitivos
+
+Las fluctuaciones en los precios a plazos mayores dependen de ...
+
+* La oferta, afectada por
++ Cuánto han sembrado los agricultores
++ El estado del tiempo
++ Las propias necesidades de consumo de los agricultores
++ Si los agricultores almacenan o no
+* La demanda, afectada por
+
+* El precio
+* El precio de los productos competitivos
+
+
+
+La época del año
+* Existe un comportamiento estacional de los precios de la mayor parte de los productos, especialmente de los cultivos anuales
+
+Los precios pueden fluctuar considerablemente en respuesta a cambios repentinos en la oferta
+
+
+En ciertas épocas del año aumenta la demanda por algunos productos ... y lo mismo ocurre con los precios
+
+
+CÓMO SE DETERMINA EL PRECIO
+
+En un sistema orientado hacia el mercado el precio de un producto es determinado por la oferta y la demanda. Básicamente, se logra un equilibrio entre lo que un sector está preparado para abastecer a un precio dado y lo que la otra parte desea comprar. Este fenómeno es conocido por los economistas como un precio de "mercado de equilibrio". A medida que el precio de un producto se eleva, aumenta la cantidad ofrecida y disminuye la cantidad demandada, y viceversa. El precio de mercado aumentará o disminuirá hasta cuando las cantidades ofrecidas y demandadas sean iguales, o sea, hasta cuando se alcance un "equilibrio".
+
+Es importante tener en cuenta que:
+* La oferta está formada por lo que la gente está preparada para vender a un precio dado. No obstante que la oferta es inducida por la producción no siempre es igual a la producción. Por ejemplo, tal como se indicó antes, algunas veces puede suceder que los agricultores siembren productos perecederos y que no los cosechen porque el precio en el mercado está muy bajo. Cuando se trata de productos menos perecibles, los agricultores o los comerciantes pueden tomar la decisión de almacenarlos con la esperanza de que los precios reaccionen, en vez de venderlos de inmediato. Cuando los precios aumentan, pueden sacar los productos y venderlos. En este momento, la oferta es igual a la producción cosechada para venta inmediata más los productos liberados de almacenamiento;
+* La demanda no es igual a cuánto quisiera comprar el público o a cuánto debiera adquirir para cumplir con una dieta de salud. Es igual a lo que el público está dispuesto a adquirir a un precio de mercado dado.
+
+Este capítulo revisa brevemente y en forma sencilla los factores que afectan los precios. Empieza considerando las variaciones de los precios a corto plazo, especialmente para productos bastante perecederos. Los precios pueden fluctuar en forma significativa de un día para otro y aún dentro del mismo día. Considera después los movimientos de los precios a largo plazo, para períodos de un año o mayores. Tal como ya se indicó, los servicios de información de mercados pueden ser valiosos en el suministro de información sobre ambas clases de movimientos o variaciones en los precios; primero, para habilitar a los agricultores para la toma inmediata de decisiones sobre cuándo cosechar y segundo, para ayudarles a programar sus siembras.
+
+FLUCTUACIONES DE PRECIOS A CORTO PLAZO
+
+Las principales causas de los cambio en los precios de productos frescos a corto plazo son:
+* la cantidad de producto ofrecida en venta en un mercado en un día en particular y las cantidades vendidas en los días inmediatamente anteriores;
+* los cambios en la demanda a corto plazo;
+* la influencia de los productos suplementarios sobre la demanda.
+
+Cantidades disponibles
+
+Por regla general, los precios en los mercados mayoristas estarán estrechamente relacionados con las cantidades que lleguen al mercado en un día en particular. De esta forma, si un mercado mayorista recibe 1 000 kg de naranjas un lunes y el precio mayorista de compra por kilogramo es de $1 puede esperarse que si el martes llegan al mercado 1 000 kg es muy probable que el precio de compra sea el mismo. Sin embargo, es posible que esta situación no sea siempre la misma. Por ejemplo, por una u otra razón (por ejemplo, mal tiempo o huelga de transportes) puede haber sucedido que al final de la semana anterior no hayan llegado naranjas al mercado. Esta situación creará una escasez del producto en el mercado y el lunes los precios se dispararán al tiempo que los minoristas competirán por la compra de naranjas con el fin de venderlas a los consumidores a quienes se les hayan agotado sus provisiones. Es claro que el martes se habrá normalizado la oferta, y que los precios de mercado
+descenderán aunque la cantidad ofrecida sea la misma.
+
+Aún cuando la producción de perecederos en un área determinada puede ser altamente estacional, muchos países tienen varias zonas de producción, cada una de las cuales puede tener temporadas ligeramente diferentes. De esta forma, puede suceder que los agricultores de una zona sean los únicos abastecedores de un producto específico en una determinada semana y ello hace que se genere un incremento en los precios de mercado. Sin embargo, puede ocurrir que en la semana siguiente lleguen al mercado algunos productos procedentes de otra zona de producción, y que se cause una disminución en los precios. Con el fin de maximizar las utilidades, los agricultores de la primera zona tratarán de llevar al máximo sus ventas durante la primera semana (por ejemplo, vendiendo productos que aún no están en punto de sazón) mientras que los productores de la segunda aplicarán las mismas técnicas para sacar adelante sus ventas.
+
+Cambios en la demanda a corto plazo
+
+Cuando los comerciantes tienen expectativas sobre aumentos en la oferta en los días venideros (por ejemplo, cuando saben que una nave de cabotaje cargada de naranjas tiene programado llegar pronto) se prepararán para pagar menos por la naranja a medida que se acerca la fecha de llegada de la nave. De esta manera, mientras que 1 000 kg de naranja pueden haber alcanzado un precio de $1 el lunes, para el miércoles el precio puede haber descendido hasta $0,75, debido a que la demanda ha disminuido a la espera de menores precios cuando llegue la embarcación. Por supuesto, muchos mercados disponen de instalaciones adecuadas para almacenar productos perecederos y ello permite reducir las fluctuaciones en sus precios.
+
+Generalmente, la demanda de los consumidores es mayor al comienzo de los fines de semana. Para empezar, en muchos países las tiendas o almacenes cierran un día de la semana y ello puede llevar al público que adquiere alimentos diariamente a querer compra el doble de productos frescos con un día de anticipación. Esto puede presionar un poco los precios al alza, no obstante que los agricultores y los comerciantes, debidamente prevenidos de esta situación, realicen ajustes en su oferta. Durante los fines de semana también cambian los patrones de consumo. La gente está más dispuesta a cocinar en sus hogares y muchas personas acostumbran tomar alimentos especiales solamente en los fines de semana. Por otra parte, aquellos negocios dedicados a vender almuerzos a los trabajadores bien pueden cerrar durante los fines de semana y por tanto no necesitarán adquirir productos frescos. Las fiestas patrias o religiosas pueden tener notorio efecto sobre la demanda. Algunos productos son
+cultivados especialmente para estas fiestas. Por ejemplo, en las Islas Maldivas se acostumbra consumir sandías en el Ramadán; en los Estados Unidos se cultivan las calabazas especialmente para la fiesta de las brujas. La demanda por frutas y hortalizas tiende a aumentar cuando las familias celebran los días festivos con comidas especiales.
+
+Productos competitivos
+
+Si en un mercado mayorista solo se dispone de naranjas, el precio de esta fruta aumentará bastante. Sin embargo, es posible que en los días siguientes lleguen otras frutas al mercado. Entonces, los minoristas, y por tanto los consumidores, podrán escoger entre, por ejemplo, naranjas, mangos, o piñas. Así, aunque la cantidad de naranjas llevadas al mercado permanezca constante, el precio bajará porque algunos clientes que hubieran comprado naranjas se decidirán ahora por otra fruta. Los mayoristas tendrán que reducir el precio de las naranjas para poder vender todas las que han ingresado al mercado.
+
+Un buen servicio de información de mercados deberá estar en capacidad de suministrar información no solo de precios sino también de cantidades ofrecidas. En la práctica, muy pocos SIM lo hacen. Por tanto, es importante que los extensionistas encargados de asesorar a los agricultores en temas relacionados con comercialización estén al tanto de que los precios de algunos cultivos, especialmente los de los más perecederos, pueden fluctuar en forma rápida y significativa.
+
+CAMBIOS EN LOS PRECIOS A LARGO PLAZO
+
+Los factores que mayormente afectan el desarrollo de los precios de mercado de los productos agrícolas a largo plazo son:
+* oferta;
+* demanda;
+* época del año.
+
+Oferta
+
+Mientras que las cantidades disponibles en un mercado en un día en particular pueden conducir a fluctuaciones en los precios en el corto plazo, otros factores afectan la tendencia de los precios a largo plazo. En el caso de los productos perecederos que no pueden ser almacenados por largo tiempo, o para los cuales no se dispone de almacenamiento adecuado, el factor que mayor efecto tiene sobre los precios es la estacionalidad o temporalidad de la producción. De esta forma, para un cultivo como el tomate la tendencia de los precios dependerá principalmente de cuándo el cultivo alcanza el punto de sazón en la más importante zona de producción.
+
+En el caso de alimentos básicos como el arroz en cáscara (paddy) o el maíz y otros cultivos que pueden ser almacenados por largo tiempo, tales como la papa, cebolla, ajo, y frutas como manzana, el precio de mercado no tiene mucha relación con la oferta diaria a los mercados como con el total de la producción en una temporada o en un año.
+
+La oferta al mercado puede ser afectada por:
+* Cuánto se sembró. Si en un año los precios son malos, los agricultores responderán sembrando menos en el año siguiente. De esto resultará menor producción y precios más altos, hechos que estimularán a sembrar más en el año siguiente, con una consecuente caída en los precios. Este ciclo natural de producción y de precios es bastante frecuente. Algunas veces, los agricultores que tienen éxito son aquellos que hacen lo contrario de lo que están haciendo otros agricultores.
+* El tiempo. Las lluvias impropias pueden tener efecto significativo sobre los niveles de producción de todos los productos no cultivados con riego artificial.
+* Las necesidades de la familia de los agricultores. Antes que todo, los agricultores deben atender las necesidades alimentarias propias y de sus familias. Esta necesidad puede exagerar los efectos de una mala cosecha sobre las cantidades ofrecidas al mercado. Por ejemplo, si un país produce un millón de toneladas de arroz en un año normal y los agricultores dejan la mitad para sus familias, entonces quedan disponibles 500 000 toneladas para ser vendidas en el mercado. Sin embargo, si la cosecha es mala y se reduce a 750 000 toneladas, puede suceder que los agricultores insistan en reservar para sus familias las 500 000 toneladas, dejando para vender en el mercado únicamente 250 000 toneladas. De esta forma, una caída en la producción del 25% podría generar, realmente, una baja del 50% en la cantidad vendida.
+* El precio. Cuando los agricultores cuentan con facilidades de almacenamiento adecuadas tienen la opción de vender de inmediato o de almacenar con la esperanza de que los precios se incrementen más tarde en la temporada. Su decisión sobre cuánto almacenar y cuánto vender dependerá de sus necesidades de dinero después de la cosecha, del precio y de su conocimiento de la probable tendencia de los precios. Si venden una porción importante de su producto inmediatamente después de la cosecha, inevitablemente se generarán precios más bajos en el mercado, aunque el efecto puede reducirse si comerciantes y molineros deciden almacenar grandes cantidades.
+
+Demanda
+
+La demanda es afectada por:
+* El precio. Cuando el precio de mercado es alto los consumidores reducen sus compras. En el caso de algunos productos tales como las frutas, las reducciones pueden, con frecuencia, ser significativas debido a que los consumidores no las consideran como componente esencial de sus dietas. Sin embargo, cuando se trata de alimentos básicos como arroz, maíz, tubérculos y raíces y otros productos importantes (por ejemplo, en algunas sociedades, ajíes y cebollas) es más difícil generar reducciones significativas en las cantidades consumidas. Si los precios se elevan, la gente puede comer ligeramente menos y, con el fin de desperdiciar menos alimentos, también puede llegar a ser más cuidadosa con las cantidades que prepara. Es posible también que continúen comprando las mismas cantidades pero que adquieran calidades inferiores, por ejemplo, arroz con un mayor porcentaje de granos quebrados o harina de maíz no cernida en vez de harina supercernida. También pueden inclinarse a
+comprar otros productos que consideren como de mayor valor nutritivo, si es que tales productos existen en el mercado.
+
+Si el precio de mercado de un producto es bajo es probable que los consumidores aumenten su consumo, compren mejor calidad, y si pueden hacerlo, sean menos cuidadosos con el control del desperdicio. Pero como una persona no puede consumir sino un tanto de arroz o maíz, los consumidores que ya consiguen proveerse de una cantidad adecuada de estos productos no aumentarán su consumo. En lugar de ello, probablemente usarán el dinero ahorrado en la compra de productos de consumo general para adquirir una cantidad de frutas y verduras mayor que la que normalmente consumirían.
+
+La correlación que existe entre oferta y demanda y los precios de los alimentos es, por tanto, absolutamente compleja. Un cambio en el precio de un producto puede afectar la demanda y, a su vez, el precio de un producto completamente diferente. En general, puede observarse que probablemente la oferta fluctúa mucho más que la demanda y que por tanto los cambios en la producción tendrán, normalmente, una repercusión más grande sobre los precios que los que tienen los cambios en la demanda.
+
+Época del año
+
+Usualmente los precios de los cultivos anuales se acomodarán a los mismos patrones estacionales, a pesar de que puede esperarse que el nivel general de precios varíe de año a año de acuerdo con el nivel general de inflación y el tamaño de la cosecha. Para un país que empieza sus cosechas en abril o mayo puede esperarse que los precios al consumidor se eleven en el período de diciembre a marzo. En abril pueden permanecer más o menos estables hasta el final del mes cuando empezarán a caer hasta cuando muchas de las nuevas cosechas estén disponibles. A partir de entonces se producirá una caída en los precios que se extenderá hasta junio o julio cuando empezarán a reaccionar ligeramente, produciéndose un alza más pronunciada hacia el final del año. Obviamente, algunas fluctuaciones serán menos marcadas en un país que tenga dos temporadas de cosecha de los principales alimentos básicos (por ejemplo, muchos países productores de arroz) pero aún así existe la probabilidad de que en
+ellos también se registren variaciones estacionales en los precios.
+
+Tal como ya se indicó, uno de los beneficios importantes de los servicios de información de mercados es que pueden suministrar información a largo plazo que permite a los agricultores conocer las tendencias estacionales de precios para varios cultivos. Puede que sean pocas las ventajas que esta información tenga para los agricultores de productos básicos como el arroz y el maíz, pero cuando se trata de productos hortícolas, especialmente de aquellos que el agricultor nunca ha sembrado, es muy importante estar al tanto de las variaciones estacionales de precios para poder tomar la decisión más acertada en relación con la rentabilidad de la producción.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+4 Interpretación de los precios suministrados por un servicio de información de mercados
+
+Principales asuntos tratados en el Capítulo 4
+
+Interpretación de los precios suministrados por un servicio de información de mercados
+
+Para aconsejar a los agricultores los extensionistas tienen que saber a qué etapa de la cadena de comercialización corresponden los precios suministrados ...
+
+A menudo se presenta confusión entre los precios de venta al por mayor y los precios de compra al por mayor
+
+
+Algunas veces en los mercados minoristas se venden cantidades al por mayor ... aquí también puede presentarse confusión con los precios
+
+* ¿A precio de mercado de acopio?
+* ¿A precio de compra de mercado mayorista?
+* ¿A precio de venta de mercado mayorista?
+* ¿A precio minorista?
+
+Es importante que los extensionistas tengan buen conocimiento de cómo funcionan los sistemas de comercialización y de los tipos de mercados que los agricultores pueden usar
+
+Vender directamente a los consumidores en el mercado minorista puede ser costoso en términos del tiempo del agricultor ... también es necesario disponer de información sobre las condiciones del mercado
+
+Para poder usar la información de precios, los agricultores necesitan saber cómo se comparan sus calidades con las del mercado
+
+Otros factores que influyen en la importancia de la información de precios para los agricultores son ...
+* Variedad del producto al que se refiere el precio
+* Calidad del producto en cuestión
+* Día y hora en que los precios fueron recogidos
+
+¿CUÁLES SON LOS PRECIOS SUMINISTRADOS?
+
+Los servicios de información de precios entregan información relacionada con precios en formas muy diversas. Con el fin de dar una idea a los agricultores de lo que significan para ellos los precios divulgados por radio o por los diarios, es importante saber con exactitud de qué precios se trata. Surgen al menos cuatro interrogantes que deben formularse:
+* ¿a qué etapa de la cadena de comercialización se refieren los precios entregados?
+* ¿a qué variedades y calidades se refieren los precios?
+* ¿en qué día fueron recogidos los precios?
+* ¿en qué hora del día fueron recogidos los precios?
+
+PRECIOS EN LAS DISTINTAS ETAPAS DE LA CADENA DE COMERCIALIZACIÓN
+
+Los precios indicados por un SIM deben ser:
+* precios de mercado de acopio;
+* precios de compra a nivel mayorista;
+* precios de venta a nivel mayorista;
+* precios minoristas.
+
+En algunos casos los SIM pueden incluir en una transmisión varios tipos diferentes de precios, dependiendo de los mercados y productos a los que hagan referencia. Algunas veces esto puede hacerse en forma deliberada para que refleje el real funcionamiento del sistema de comercialización. En otros casos, los SIM pueden tener confusión en el tema de los distintos tipos de precios que existen. Cuando haya alguna duda, los extensionistas deberán ponerse siempre en contacto con el SIM para obtener claridad sobre los precios que están siendo suministrados.
+
+Precios de mercado de acopio
+
+La mejor forma de describir los mercados de acopio es señalándolos como los lugares en donde los agricultores se reúnen para encontrarse con los comerciantes. En estos mercados los comerciantes pueden comprar productos a los agricultores y posteriormente enviarlos a los mercados mayoristas urbanos u, ocasionalmente, a los mercados minoristas o a los procesadores. Para los agricultores es de mucha utilidad conocer los precios a los cuales compran los comerciantes porque ellos se refieren a localidades situadas relativamente cerca de sus fincas y porque ello les permite evitar la obligación de hacer cálculos complicados para traducir los precios del mercado en precios a puerta de finca. Sin embargo, para un SIM es difícil y costoso recoger precios porque en muchos países existe gran cantidad de mercados de acopio y es frecuente que los SIM tengan limitaciones de fondos. Así, son pocos los países que recogen y difunden precios de mercados de acopio.
+
+Precios de compra a nivel mayorista
+
+Las prácticas de comercialización mayorista varían ampliamente alrededor del mundo y existen al menos cuatro métodos básicos de funcionamiento de los mercados mayoristas. Dentro de cada uno de estos métodos de comercialización mayorista existen numerosas variaciones en las prácticas reales de comercio. Algunas de estas se indican a continuación:
+* el producto es vendido por el agricultor o comerciante (intermediario), por un precio acordado, a un mayorista con asiento permanente en el mercado. Después, él o ella vende el producto (posiblemente mezclado con el de otros productores) a los minoristas, en forma ocasional a los consumidores y algunas veces a semi-mayoristas, quienes, a su vez, abastecerán a los minoristas;
+* el producto es entregado en consignación por un agricultor o comerciante (intermediario) a un agente mayorista con asiento permanente en el mercado. Este agente vende posteriormente el producto al mejor precio que logre conseguir, cobrando al agricultor o al comerciante (intermediario) una comisión por su trabajo (generalmente es un porcentaje del precio de venta);
+* el producto es entregado en consignación por el agricultor o comerciante (intermediario) a un agente mayorista o quizás a la organización propietaria u operadora del mercado. El agente o el operador del mercado procede a subastar el producto al mejor postor y cobra una comisión al productor o al comerciante por hacer ese trabajo;
+* El agricultor o comerciante (intermediario) lleva el producto directamente al mercado mayorista (generalmente a una zona de estacionamiento más que a un mercado) y lo vende desde la plataforma de su camión a semimayoristas, a minoristas, y ocasionalmente a los consumidores. En muchos de tales mercados, particularmente en los países árabes, existen agentes que no manejan directamente los productos pero que actúan como intermediarios itinerantes entre vendedores y compradores para arreglar las operaciones de venta. Por esta labor cobran una comisión.
+
+Quizás pueda concluirse de las descripciones anteriores que con frecuencia no existe un precio de compra mayorista debido a que el producto es vendido a comisión. En este caso, es relativamente fácil calcular una aproximación del precio de compra mayorista deduciendo del precio de venta mayorista la comisión cobrada por el agente mayorista. Cuando los mayoristas compran y venden puede ser difícil obtener los precios de compra mayoristas debido a que generalmente los comerciantes son reacios a dar información sobre los precios que pagan. Sin embargo, a menudo están dispuestos a dar información sobre los precios de venta y esta información puede ser constatada con los compradores.
+
+Gráfico 1: Una posible cadena de comercialización para los productos hortícolas
+
+Diferentes etapas de la cadena de comercialización
+
+Puerta de finca - Uganda
+
+FAO/17515/R, Faidutti
+
+Mercado de acopio - Indonesia
+
+A. Schlanke
+
+Mercado mayorista - Rumania
+
+Bucharest Wholesale Market
+
+Mercado minorista - Papua Nueva Guinea
+
+H. Bammann
+
+Centro de empaque - Corea
+
+R. Wills
+
+Exportaciones - Barbados
+
+Anon
+
+Precios de venta mayorista
+
+El precio que el minorista paga para adquirir el producto es el precio de venta mayorista. Este es el precio que con mayor frecuencia es mencionado por los servicios de información de mercados. Si un SIM indica el precio de venta mayorista para aquellos mercados en donde los mayoristas compran y venden los productos en vez de actuar como agentes, esta información es menos útil para los agricultores que el precio de compra mayorista porque ellos ignoran cuánta utilidad está obteniendo el comerciante. Así, donde funcione este sistema mayorista, los servicios de información de mercados deberán, en realidad, suministrar información sobre precios de compra mayorista, siempre y cuando ello sea posible. En donde esto no se haga, los extensionistas tendrán que contactar a los expertos en comercialización del ministerio de agricultura o a los administradores de los mercados para tener alguna idea de los márgenes obtenidos por los comerciantes. En la práctica, estos márgenes varían
+significativamente. Los mayoristas son dados a buscar márgenes más altos en productos perecederos que en productos que pueden almacenar durante algunos días.
+
+Precios minoristas
+
+Estos son los precios a los que compran los consumidores. Algunas veces los precios minoristas son obtenidos por los servicios de información de mercados pero en muchos casos esta información es usada principalmente para propósitos estadísticos tales como calcular el Indice de Precios al Consumidor (IPC), y es de poca utilidad para los agricultores. Si un agricultor vende su cosecha a un comerciante, quien a su vez la vende a un mayorista y este hace lo propio con un minorista, quien se encarga de venderlo al consumidor, es difícil para el agricultor hacer uso de ese precio minorista o al consumidor para estimar cuánto va a obtener del comerciante.
+
+Los precios minoristas están sujetos a variaciones amplias dependiendo del lugar de venta y del servicio prestado por el minorista. Generalmente, cuando un SIM indica un precio minorista, este hace referencia al precio en un importante mercado minorista urbano. Sin embargo, este precio puede ser bastante menor que el precio cobrado por un pequeño minorista en una zona sub- urbana, particularmente cuando existen en ella pocos minoristas, o por alguien que trabaje puerta a puerta vendiendo la producción al por menor.
+
+En términos de la facilidad para poder trasladar los productos desde el agricultor hasta el consumidor, en los sistemas de comercialización más desarrollados es menor la probabilidad de que los agricultores vendan directamente al detal a los consumidores. Generalmente, para el agricultor es mayor el costo de llevar el producto hasta el mercado que el beneficio que obtiene representado por precios más altos. En la mayor parte de los casos sólo aquellos agricultores que viven muy cerca de las poblaciones y ciudades pueden justificar, realmente, los costos y tiempo invertidos en viajar hasta los mercados.
+
+Sin embargo, en algunos casos es muy importante para los agricultores conocer los precios minoristas. Esto ocurre principalmente en los países de Europa central y oriental, que anteriormente estaban sujetos a planeación centralizada. Los sistemas de comercialización agrícola en muchos de ellos, especialmente para productos hortícolas, tienen aún que desarrollarse para poder reemplazar los sistemas anteriores. Existen pocos mercados mayoristas y con frecuencia los agricultores se ven obligados a llevar su producción directamente hasta los mercados minoristas urbanos. Sin embargo, una vez más aquí puede presentarse confusión sobre lo que exactamente indican los precios. Algunos agricultores pueden vender solamente cantidades mayores a otros minoristas, aunque se encuentren en un mercado "minorista", mientras que otros agricultores pueden vender pequeñas cantidades a consumidores individuales.
+
+OTROS FACTORES
+
+Variedad y calidad
+
+En un día cualquiera puede haber muchas variedades de un producto en particular en venta en los mercados urbanos. Cuando estas variedades difieren significativamente en términos de atractivo para el consumidor y de precio, el servicio de información de mercados debe reportar los precios para cada variedad. No siempre se hace esto. Aún más, aunque el SIM puede recoger precios para diferentes variedades, la falta de tiempo para difundirlos conduce a que no siempre sea posible transmitir todos los precios.
+
+Cuando el SIM entrega solamente un precio (por ejemplo, de tomate), los agricultores necesitan realmente saber a qué variedad se refiere ese precio y la acostumbrada relación que existe entre esa variedad y las variedades que ellos están cultivando. Es importante que el SIM sea consistente y que recoja información sobre la misma variedad o variedades cada día. Si no lo hace, la información que el Servicio suministre será de muy escasa utilidad para los agricultores.
+
+Es frecuente que los agricultores se enojen porque los precios que les son pagados por sus productos son muy inferiores a los de mercado que indican los SIM. A menudo, la razón para esto radica en que la calidad de su producción no es tan buena como la de aquella a la cual se refieren los precios. Desde luego, no es fácil para los servicios de información de mercados recoger precios cuando hay tanta variedad de calidades. En el pasado, los SIM generalmente recogían precios que correspondían a lo que se conocía como buena calidad promedia, aunque el significado de esta denominación ha sido, por lo general, difícil de definir. Más recientemente, los SIM han empezado a registrar un rango de precios para cada producto. Con frecuencia, el rango empleado excluye los precios de la peor y de la mejor calidad, si la oferta de esta última no es abundante, y cubre, quizás, el 90% de la producción vendida en un día determinado.
+
+En consecuencia, los agricultores necesitan tener una buena idea de la calidad de sus productos en relación con la oferta que existe en los mercados urbanos. Mediante la observación de lo que los vecinos producen, los agricultores pueden determinar cómo se compara la calidad de sus productos con la de los agricultores localizados en la zona inmediata. A través de visitas a los mercados urbanos pueden comparar sus calidades con las de agricultores en una zona más amplia. Cuando los mercados urbanos están algo alejados y son escasamente visitados por los agricultores, corresponde a los extensionistas ayudarles con la coordinación de las visitas (ver Capítulo 9).
+
+Otra manera que tienen los extensionistas de colaborar con los agricultores es la de estimularlos a clasificar su producción antes de la venta. Algunas veces los comerciantes compran a los productores calidades y tamaños mezclados, a precios que corresponden a los de mercado de las calidades y tamaños más bajos. Hecho esto proceden a clasificar el producto con el fin de buscar el mejor precio para parte de la producción que han adquirido. En el caso de los granos, con frecuencia los comerciantes tienen que proceder a limpiar el producto que han recibido de los agricultores antes de venderlo en el mercado mayorista o a los molineros. Es posible que los agricultores no comprendan cabalmente que este proceso ha sido realizado y que esa es la razón para que se les paguen precios inferiores a los que ellos esperaban.
+
+¿Cuándo fueron obtenidos los precios?
+
+Cuando los precios son transmitidos por radio o impresos en los diarios es indispensable que los agricultores sepan con claridad a que día corresponden. Algunas veces los SIM pueden ser bastante lentos para procesar y difundir la información. Por ejemplo, si los precios se transmiten diariamente a las 20:00 horas, ¿son estos precios de mercado de la mañana del mismo día o precios de mercado del día anterior?
+
+Es importante que los agricultores posean esta información cuando vayan a negociar con los comerciantes. Si se recogen los precios un lunes por la mañana y solo se transmiten el martes por la noche, ya el miércoles por la mañana, cuando los agricultores estarán vendiendo su producción, tendrán dos días de antigüedad. Mientras más actualizada sea la información de que disponen los agricultores mayor será su capacidad para hacer uso de los SIM con propósitos de negocios.
+
+Día de la semana
+
+Cuando los SIM suministran información uno o dos días por semana, es particularmente importante saber a qué día de la semana corresponden. Con frecuencia, los precios de mercado son más altos hacia el final de la semana ya que los consumidores acostumbran hacer compras para preparar alimentos en el fin de semana. Así, si un agricultor envía sus productos al mercado al comienzo de la semana con base en reportes de precios tomados por los SIM al final de la semana, seguramente se va a sentir frustrado.
+
+Cuadro 2
+
+Cálculo del promedio ponderado del precio de venta
+
+Supóngase un ejemplo que contemple la consignación de 100 kg de tomate, así ...
+
+50 kg vendidos a $2,00
+
+=
+
+$100
+
+20 kg vendidos a $1,40
+
+=
+
+28
+
+20 kg vendidos a $1,00
+
+=
+
+20
+
+5 kg vendidos a $0,40
+
+=
+
+2
+
+(5 kg que no se pudieron vender)
+
+-
+
+Total de Ingresos
+
+=
+
+$150
+
+Luego, el precio promedio de venta por kilogramo es ...
+
+$150 ÷ 100 kg
+
+=
+
+$1,50
+
+Hora del día
+
+Generalmente los servicios de información de mercados recogen los precios a la misma hora de cada día. A menudo, temprano en la mañana cuando los mercados mayoristas urbanos son, con frecuencia, más activos. Sin embargo, es posible que en algunos casos los SIM no recolecten los precios en el momento de mayor actividad, debido a que ello implica alguna dificultad para los reporteros de precios.
+
+Si el SIM recoge los precios en las horas de mayor actividad comercial, cuando los productos muestran la mayor frescura y la mejor apariencia, los precios recolectados y difundidos entre los agricultores serán, por lo general, los más altos registrados en el día. Sin embargo, el precio promedio recibido en ese día por el mayorista puede ser inferior. Por cierto, parte del producto puede estar en condiciones tales que hacen imposible que su venta. De esta forma, el precio reportado por radio o por los medios escritos puede ser el reflejo del precio de venta de alguna parte de la producción del agricultor, pero no necesariamente de toda la producción. El Cuadro 2 ilustra una situación posible.
+
+Un buen servicio de información de mercados debería asesorar periódicamente a los agricultores sobre la forma de interpretar los precios que difunde. Tal asesoría debería incluir una comparación aproximada entre los precios promedio de venta y los suministrados por el SIM. Los extensionistas pueden entonces ayudar a los agricultores a hacer los cálculos necesarios.
+
+Unidades a las cuales se refieren los precios
+
+En muchos países no se cuenta con unidades de medida estandarizadas para la realización de transacciones en el mercado. Las ventas se hacen con base en unidades de medida tales como "caja", "bolsa", "saco", "lata", etc. en vez de kilogramos o libras. En algunos países puede variar el tamaño de estos contenedores entre un lugar y otro. Por ejemplo, un "saco" puede contener 90 kg de maíz en una región del país y 50 kg en otra. Cuando los servicios de información suministran precios por contenedor o empaque, y no por peso, los agricultores necesitan tener la seguridad de que los contenedores o recipientes a que se hace referencia son iguales a los que ellos usan.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+5 Cálculo de los costos de comercialización
+
+Principales asuntos tratados en el Capítulo 5
+
+Cálculo de los costos de comercialización
+
+Los extensionistas y los agricultores necesitan entender los costos de comercialización para convertir los precios dados por el SIM en precios a puerta de finca que incluyen ...
+
+Los costos de transporte pueden establecer una gran diferencia entre el precio de mercado y el precio a puerta de finca.
+
+
+Algunas veces puede ser difícil calcular el costo de transporte por kilogramo
+
+* Preparación y empaque
+* Manipulación
+* Transporte
+* Pérdidas
+* Almacenamiento
+* Procesamiento
+* Costos de capital
+* Tarifas, comisiones, pagos extras
+
+Algunas veces las pérdidas pueden representar un costo de comercialización significativo.
+
+
+Además, los comerciantes tienen que tener una ganancia
+* Por lo tanto, el precio en la puerta de la finca es el precio de venta del comerciante menos ... los costos de mercadeo y la ganancia del comerciante
+
+Ejemplo de un cálculo de costos
+
+(ver Cuadro 3)
+
+Hay muchos costos que tienen que tenerse en cuenta en los cálculos de los costos de comercialización.
+
+
+Es probable que exista una diferencia significativa entre el precio de compra mayorista en el mercado y el precio que el agricultor recibe en su finca. Los productores necesitan entender las razones para que esto suceda. También necesitan hacer algunos cálculos básicos para convertir los precios suministrados por el SIM en precios reales equivalentes a puerta de finca.
+
+TIPOS DE COSTOS
+
+Con frecuencia los comerciantes son acusados por agricultores, extensionistas, políticos, etc. de explotar a los agricultores. Ocasionalmente tales acusaciones se justifican. Sin embargo, en muchas oportunidades las grandes diferencias que se presentan entre los precios de compra de los comerciantes y sus precios de venta se explican por sus costos de comercialización.
+
+Los siguientes son ejemplos de esos costos:
+* preparación y empaque;
+* manipulación;
+* transporte;
+* pérdidas;
+* almacenamiento;
+* procesamiento;
+* financieros;
+* tarifas, comisiones, o pagos no oficiales.
+
+Preparación y empaque. Una vez que los comerciantes compran a los agricultores la producción, a menudo tienen que limpiarla, clasificarla, y empacarla adecuadamente para transportarla hasta distancias lejanas y para venderla en el mercado mayorista o en otros lugares. Esto implica varios costos, incluyendo los costos de mano de obra y los costos de empaque. Algunas veces el comerciante es propietario de instalaciones para hacer el empaque, costo que también tiene que ser considerado.
+
+Manipulación. En todas las etapas del circuito de comercialización el producto es sometido a empaque y desempaque, cargue y descargue, almacenamiento y desalmacenamiento. Es posible que cada manipulación por sí misma no cueste mucho, pero el total de los costos de manipulación sí puede llegar a ser significativo.
+
+Transporte. En todas las etapas de la cadena de comercialización los costos variarán principalmente de acuerdo con la distancia que exista entre el agricultor y el mercado. Pero también estarán afectados por la calidad de las vías. Es probable que un agricultor que viva cerca de una autopista o ruta principal tenga menores costos de transporte que uno que viva al final de una carretera destapada, a menudo intransitable y que causa daños a los camiones o medios de transporte utilizados.
+
+Algunas veces, cuando el agricultor paga un precio fijo por kilogramo al transportador, los costos de transporte son fáciles de calcular. Cuando se cobra un precio por "bulto o contenedor" los cálculos se vuelven más complicados debido a que la cantidad transportada en cada bulto o contenedor puede variar. Los cálculos son aún más difíciles cuando los intermediarios usan su propio vehículo o cuando alquilan un camión y transportan distintos productos. Cuando los costos de transporte no pueden ser calculados directamente es mejor usar la tarifa por kilogramo determinada por los transportadores, suponiendo que exista tal tarifa.
+
+Pérdidas. Las pérdidas en los productos son frecuentes. Aunque se dé el caso de que nada se deseche, los productos pueden perder peso durante los procesos de almacenamiento y transporte (por ejemplo, por pérdida de humedad). De esta forma, no siempre puede compararse un kilogramo de un producto vendido a nivel minorista con un kilogramo vendido por el agricultor. Algunas veces pueden registrarse pérdidas muy altas, particularmente cuando se trata de productos perecederos como frutas y hortalizas. Probablemente las pérdidas serán más altas en la temporada principal cuando hay excedentes en el mercado que obligan a que buena parte no pueda ser vendida y deba botarse. En general, puede afirmarse que a mayor distancia entre el agricultor y el consumidor mayores serán las pérdidas probables.
+
+También puede haber pérdidas de calidad durante la comercialización. Sin embargo, estas no se estiman como costos de comercialización porque ellas serán reflejadas en el precio que se obtenga en el mercado. No obstante, es necesario que los agricultores tengan en cuenta tales pérdidas de calidad cuando establezcan los precios que sus productos esperan obtener en el mercado, en comparación con los precios reportados por el SIM.
+
+Almacenamiento. Este es un costo importante para muchos productos. Cuando un intermediario tiene que almacenar la producción en las etapas comprendidas entre el agricultor y el mercado, entonces es necesario tener en cuenta esos costos. El Capítulo 7 examina cómo los agricultores pueden estimar los costos de almacenamiento cuando deciden entre vender la producción inmediatamente después de la cosecha y conservarla con la esperanza de que los precios reaccionen.
+
+Procesamiento. Cuando los productores venden las cosechas a la agroindustria o a los intermediarios, quienes a su vez la venden a los procesadores, es difícil relacionar el precio del producto final con el de la materia prima vendida. Granos tales como el arroz y el maíz tienen que ser sometidos a procesos de molinería y en la determinación de los costos totales de comercialización se necesita considerar el factor de conversión de granos en bruto a granos molidos, así como el valor de cualquier subproducto. Realmente, los agricultores no deberían intentar hacer esto y más bien, deberían tener conocimiento de los costos de comercialización entre las fincas y las plantas procesadoras y relacionar estos costos con el precio de compra de estas últimas.
+
+Costos financieros. Es posible que un comerciante intermediario tenga que tomar dinero de los bancos en calidad de préstamo para poder funcionar. El interés pagado por ese dinero es un costo. No se puede afirmar que no hay costos cuando un comerciante hace uso de sus propios recursos ya que él podría haberlos dejado en el banco ganando intereses en vez de usarlos para el comercio. El costo que tienen los comerciantes cuando usan sus propios fondos está representado por los intereses que dejan de recibir (costos de oportunidad).
+
+Tarifas, comisiones y pagos extralegales. Los costos considerados antes son los principales que se enfrentan en la comercialización de productos agrícolas. Pero existen muchos otros que, agregados, pueden tener un impacto considerable. Por ejemplo, los comerciantes intermediarios están obligados a pagar tarifas de (ingreso al) mercado. Con frecuencia tienen que pagar para que sus productos sean pesados en la báscula. Normalmente, se exige a los comerciantes que tengan licencia y que paguen las tarifas oficiales por ella; en algunos países se ven obligados a pagar tarifas no oficiales o coimas en distintos retenes en la vía hacia el mercado. Los impuestos oficiales son exigidos algunas veces cuando la gente necesita atravesar un distrito administrativo. Todos estos costos tienen que ser tenidos en cuenta en los cálculos de costos de comercialización.
+
+Márgenes de ganancia
+
+Los comerciantes no hacen negocios a fin de prestar un servicio a los agricultores. Lo hacen para ganar dinero para ellos y para sus familias. De esta forma, están obligados a obtener una utilidad razonable en la mayoría de sus operaciones comerciales. Por supuesto, establecer qué es "razonable" es el objeto del debate. Quizás puede considerarse una cierta utilidad como "razonable" cuando constituye incentivo para que el comerciante se comprometa en negocios. Si las utilidades que se obtengan en la comercialización de productos agrícolas caen por debajo de cierto nivel, los comerciantes decidirán emplear su tiempo y recursos financieros en hacer algo diferente que les produzca más dinero. Si los extensionistas o los agricultores calculan sus costos de comercialización, pueden calcular la diferencia entre el precio de compra mayorista y el precio que les ofrece el mayorista más los costos de comercialización. ¿Es esta diferencia una cantidad "razonable" para el comerciante o
+debe el agricultor tratar de obtener un precio más alto?
+
+Cuadro 3
+
+Un ejemplo de cálculo de costos
+
+Supóngase que los comerciantes compran tomates a los agricultores a puerta de finca a $0,50 por kilogramo. Empacan los tomates en cajas de madera reutilizables con capacidad de 10 kg y las llevan al mercado mayorista donde son vendidas a los minoristas a un precio promedio ponderado de venta de $0,90 por kg. El comerciante pierde una cantidad igual al 10%, así que vende solamente 0,9 kg de cada kilogramo que compra.
+
+La utilidad bruta del comerciante se calcula como sigue ...
+
+Cada kg
+
+comprado
+
+Compra de tomate al agricultor (1 kg x $0,50)
+
+$0,50
+
+Empaque ($0,50 / caja de 10 kg) por caja:
+
+0,05
+
+Mano de obra empleada por el mayorista para empacar, cargar y descargar
+
+0,02
+
+Transporte hasta el mercado mayorista ($1,50/caja de 10 kg)
+
+0,15
+
+Costo en carreteras tales como retenes
+
+0,01
+
+Tarifas de ingreso al mercado
+
+0,01
+
+Comisiones para los agentes en el mercado
+
+0,02
+
+Costos totales
+
+$0,76
+
+Cantidad vendida
+
+(0,9 kg x precio promedio ponderado de venta de $0,90 por kg)
+
+0,81
+
+Utilidad bruta del comerciante
+
+$0,05
+
+Cálculo de los costos
+
+Una publicación anterior de FAO^2 profundiza en detalle acerca de cómo calcular los costos de comercialización y ella debería consultarse. El enfoque de muchos funcionarios y políticos cuando afirman que "los agricultores reciben únicamente el 30 por ciento del precio de mercado; por tanto, están siendo explotados" es totalmente errado. El porcentaje que el agricultor obtiene depende de los costos, del sistema de comercialización, y del precio. Es necesario examinar cada caso bajo sus propias circunstancias.
+
+Un cálculo típico de costos se indica en el Cuadro 3. En el ejemplo se supone que el comerciante intermediario compra a puerta de finca y lleva el producto al mercado mayorista para venderlo. El signo $ se emplea meramente para ilustrar los cálculos y no debe ser visto de ninguna manera como representativo de costos reales.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+6 Uso de la información de mercados para obtener mejores precios
+
+Principales asuntos tratados en el Capítulo 6
+
+Uso de la información de mercados para obtener mejores precios
+
+Los agricultores pueden usar la información de mercados para ...
+* Verificar los precios que reciben cuando envían la producción al mercado mayorista
++ ¿Está consiguiendo el mayorista un buen precio para el agricultor?
++ ¿Está siendo honesto el mayorista?
++ ¿Qué otras razones podrían existir para que el precio que recibe el agricultor sea inferior al reportado por el SIM?
+* Verificar los precios que reciben cuando venden los productos en los mercados locales
+
+* ¿Está el agricultor recibiendo los mismos o mejores precios que otros agricultores?
+
+Puede haber razones por las cuales el agricultor no reciba el precio anunciado por el SIM ... El agricultor necesita investigar este asunto.
+
+
+Los extensionistas deberían estar en capacidad de ayudar a los agricultores a calcular los costos de comercialización.
+
+* Hacer seguimiento a las tendencias de precios
++ Si el SIM informa que los precios están en alza, los agricultores están en una posición más firme para negociar con los comerciantes
+* Calcular los precios en la finca
+
+* Mediante el conocimiento de los costos de comercialización (ver Capítulo 5) los extensionistas y los agricultores pueden convertir los precios suministrados por el SIM en el equivalente realista del precio en la puerta de la finca del precio del mercado local
+
+OBTENCIÓN DE MEJORES PRECIOS
+
+La habilidad de un agricultor para negociar con los comerciantes depende principalmente del número de comerciantes en competencia que operan en la zona del agricultor. Si solamente hay un comerciante las posibilidades de negociación a corto plazo serán bastante limitadas. Si hay varios comerciantes, las posibilidades son mayores, especialmente si los comerciantes están reunidos en un mercado de acopio.
+
+Los agricultores pueden usar de distintas maneras la información de mercados para obtener mejores precios. Pueden:
+* verificar los precios reales recibidos;
+* seguir las tendencias de precios;
+* calcular los precios a puerta de finca.
+
+Verificación de los precios reales
+
+Los agricultores que envían sus productos directamente al mercado mayorista pueden, como se indicó en el Capítulo 2, hacer uso de los reportes entregados por el SIM para verificar que los precios que están recibiendo estén de acuerdo en un todo con los del mercado. Si eso no ocurre, necesitan averiguar el porqué y pedir explicaciones al agente mayorista. Diariamente pueden presentarse diferencias apreciables entre los precios que los agricultores obtienen y los precios de mercado reportados. Sin embargo, después de unas pocas semanas estas diferencias deben reducirse de forma tal que en promedio, un agricultor debería esperar recibir el mismo precio que el reportado por el SIM menos, por supuesto, los costos de comercialización.
+
+Cuando los precios al agricultor se mantienen constantemente por debajo de los reportados por el SIM, el mayorista debe dar varias explicaciones. Algunas posibles explicaciones fueron tratadas en el Capítulo 5. Puede suceder que el producto del agricultor llegue tarde y que se tenga que vender en la noche cuando los precios son inferiores o en la mañana siguiente cuando ya haya llegado producto más fresco para competir en el mercado. Quizás la variedad sea una que normalmente recibe un precio más bajo. Puede ocurrir que la calidad no sea buena o que el agricultor mezcle varias calidades diferentes en un mismo bulto. Quizás el producto se dañe en el viaje y el agricultor necesite realmente mejorar la calidad de su embalaje. También, por supuesto, es posible que el mayorista sea deshonesto. Sin embargo, un agricultor no puede formarse una opinión real sobre este asunto sin visitar el mercado, determinar la condición de su mercadería cuando llega al mercado, ver cómo y cuándo
+se vende su producto y compararlo con el que han enviado otros agricultores. También puede ayudar el conversar sobre asuntos propios de la comercialización con comerciantes del mercado distintos de aquel con quien el agricultor trabaja.
+
+Seguir la tendencia de precios
+
+Si un reporte radial del servicio de información de mercados, dígase, de un miércoles por la noche, indica que el precio en el mercado mayorista urbano se ha elevado, los agricultores que venden a los comerciantes en los centros de acopio deberían poder exigir que el precio que van a recibir por la venta en el mercado el jueves por la mañana también se incremente.
+
+Sin embargo, para que los agricultores reclamen mejores precios deben o haber vendido su producción en el mercado de acopio el martes (cuando probablemente los comerciantes estaban comprando la producción para la venta en el mercado mayorista el día miércoles) o tener una muy buena idea de los precios que los comerciantes estaban ofreciendo el martes y el miércoles. Los servicio locales de extensión quizás puedan colaborar con los agricultores mediante el monitoreo diario de los precios y su publicación en un tablero de noticias colocado a la entrada del mercado de acopio. Aunque tales actividades claramente representan demasiado trabajo para un extensionista, la oficina regional o principal del servicio de extensión, instalada en la misma ciudad donde funciona el centro de acopio, podría abocar esta tarea.
+
+Los precios diarios o semanales de los mercados de acopio podrían ser representados en gráficos y comparados con los precios diarios o semanales del mercado mayorista (ver ejemplo). De esta forma, los agricultores estarían en capacidad de tener una mejor idea sobre las relaciones entre los precios informados por radio y aquellos que probablemente reciban.
+
+Ejemplo
+
+Estimación de los precios en el mercado local
+
+Si el SIM anuncia que el precio en el mercado mayorista estuvo en $10 los agricultores podrían mirar el cuadro para ver cuál era el precio en el mercado de acopio cuando el precio en el mercado de la ciudad era de $10. Si, por ejemplo, estaba en $7 podrían tomar este como el precio mínimo que esperarían recibir en sus negociaciones con los comerciantes.
+
+
+Cálculo de los precios a puerta de finca
+
+Los agricultores que no tienen la oportunidad de vender directamente en los mercados mayoristas o en los mercados locales de acopio, pero que, en lugar de eso venden a comerciantes que visitan sus fincas, tienen que estar preparados para realizar algunos cálculos que les permitan negociar con éxito. Necesitan saber, primero, qué parte de su producción tiene posibilidades de ser vendida en el mercado mayorista y, segundo, en qué clase de costos de comercialización incurre el comerciante. Como se indicó en el Capítulo 5, esta es un área importante en la que los extensionistas pueden prestar asistencia.
+
+Desafortunadamente, a menudo no es posible elaborar cálculos detallados de los costos de comercialización y de los márgenes. Quizás sea posible desarrollar una idea general de los probables costos para el comerciante, pero siempre debe recordarse que estos costos pueden cambiar rápidamente. Por ejemplo, el costo principal es casi siempre el de transporte. Pero los costos de transporte dependen mucho de cuánto se transporte. Si un comerciante tiene que ir al mercado con un camión medio vacío, los costos de transporte por kilogramo serán el doble de los que se generan si el camión viaja completamente lleno. Así, cuando el producto está en baja oferta y los precios tienden al alza, puede ocurrir también que los costos de comercialización tiendan a incrementarse, y viceversa.
+
+No obstante, un agricultor que conozca el precio del mercado mayorista y que tenga una idea aproximada de los costos de comercialización del comerciante está en mucha mejor posición para negociar que aquel que no tiene idea alguna. Los extensionistas pueden ayudar a los agricultores indicándoles los márgenes probables que requiere el comerciante y actualizando esta información siempre que sea posible.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+7 Uso de la información de mercados para programar la producción
+
+Principales asuntos tratados en el Capítulo 7
+
+Uso de la información de mercados para planear la producción
+
+Las actividades que los extensionistas necesitan llevar a cabo para poder aconsejar a los agricultores incluyen ...
+* Representar en gráficas los movimientos en precios que muestre la información suministrada por el SIM
+* Información sobre los efectos de la tasa de inflación predominante
+
+Con esta información pueden ayudar a los agricultores a ...
+* Decidir si se siembran nuevos cultivos y cuándo hacerlo
+* Decidir si se trabaja con los cultivos tradicionales en diferentes épocas del año
+* Decidir si se almacena o no
+
+La información sobre los efectos de la tasa de inflación que predomina es esencial y con frecuencia puede mostrar un panorama diferente de las tendencias de precios
+
+
+La información sobre los efectos de la tasa de inflación que predomina es esencial y con frecuencia puede mostrar un panorama diferente de las tendencias de precios
+
+
+Antes de diversificar con nuevos cultivos es importante asegurarse de cómo se va comercializar la producción
+
+
+Los extensionistas también necesitarán aprender sobre ...
+* Cómo cultivar nuevos productos
+* Cálculos de costos de producción de estos nuevos cultivos
+* Fuentes de semillas para nuevas variedades
+* Cultivos adecuados para baja temporada
+* Técnicas de producción de baja temporada y costos involucrados
+* Costos de almacenamiento
+
+Aunque muchos agricultores pueden hacer uso de la información de mercados para negociar con los comerciantes, pocos agricultores pequeños, quizás ninguno, están en capacidad de hacer los cálculos necesarios para decidir si deben o no plantar diferentes cultivos o plantar los ya existentes en una época distinta. Para ello necesitan apoyo de los extensionistas. Quizás algunos de los cálculos sean demasiado complejos aún para los extensionistas y es preferible que sean realizados por el mismo SIM o por funcionarios de la sede principal del servicio de extensión.
+
+ACTIVIDADES DE APOYO A LA PLANEACIÓN DE LA PRODUCCIÓN
+
+Algunas de las actividades que deben ser llevadas a cabo, bien a nivel local o a nivel nacional, con el fin de que los agricultores usen la información de mercados para efectos de la planeación de la producción, son:
+* Representar los cambios de precios en gráficas;
+* Conseguir información sobre los efectos de la tasa de inflación predominante.
+
+Representar los cambios de precios en gráficas
+
+Los extensionistas pueden ayudar a los agricultores con la representación en gráficas de los cambios en los precios de los distintos productos cultivados en sus regiones. Esto puede hacerse semanalmente mediante el uso de los precios transmitidos por el SIM. Alternativamente, si el SIM publica reportes anuales esta tarea puede hacerse cada año cuando se disponga de estos informes. Existe un problema con esto y es que muchos SIM no publican informes anuales y, cuando lo hacen, con frecuencia los publican muy tarde.
+
+Con la creciente disponibilidad de computadores, fácilmente pueden prepararse los cuadros o gráficas de tendencias de precios. Sin embargo, es posible que transcurran varios años antes de que los computadores estén ampliamente disponibles en las oficinas de la mayoría de los extensionistas. En consecuencia, muchos de ellos tendrán que emplear los medios más tradicionales para elaborar los cuadros.
+
+La representación de los cambios en precios en gráficas en papel es tarea relativamente simple. Una línea dibujada a lo largo del fondo de la hoja de papel (conocida como el eje "X") puede ser dividida en 52 distancias iguales, una para cada semana del año. Una línea ascendente al lado izquierdo de la hoja (el eje "Y") puede usarse para indicar los precios. Para evitar lo que frecuentemente sucede, "que los precios se salgan de la página" los valores de los precios para este eje deben ser calculados como sigue. Tómese el precio máximo del año anterior e insértese una escala de precios en forma tal que el precio máximo quede representado en algún lugar entre la mitad y los tres cuartos superiores de la página, dejando espacio para el título y para los precios máximos más altos de este año. Si ha habido inflación significativa será necesario ajustar la escala (por ejemplo, si el precio más alto del último año fue $18 pero el país tuvo una inflación del 100 por ciento, entonces
+debe dejarse espacio en la gráfica para que permita representar el precio más alto para este año de al menos $36).
+
+La escala de precios para el eje "Y" debe escogerse de forma tal que permita representarlos en la forma más fácil posible. El precio máximo esperado deberá aproximarse a una cifra que, cuando se divida por la cantidad de líneas horizontales en la página, dé un número que pueda ser representado fácilmente. Por ejemplo, si hay 200 líneas en el eje izquierdo entonces:
+* si el precio máximo esperado es $360, determine $400 como el máximo sobre el eje "Y" de tal forma que cada línea represente $2.
+* si el precio máximo esperado es $1,35, determine $2,00 como el máximo sobre el eje "Y" de forma tal que cada línea represente $0,01.
+* si el precio máximo esperado es $27, determine $40 como el máximo en el eje "Y" de forma tal que cada línea represente $0,2.
+
+Los extensionistas pueden ayudar a los agricultores representando en gráficas las tendencias de los precios
+
+
+Nota: Cuando los cuadros de variaciones en precios se encuentran disponibles en las oficinas de extensión, ellos pueden ser consultados por agricultores que desean ver cómo se han comportado los precios en años anteriores y cómo se están comportando en el año presente.
+
+Gráfico 4: Representación de precios a lo largo de varios años
+
+Para los agricultores interesados en variaciones estacionales de precios puede ser de utilidad que los precios de varios años se representen en una misma gráfica (ver Gráfico 4). Para evitar confusión cuando unas líneas se cruzan con otras, se recomienda emplear diferentes colores para cada año. Los agricultores pueden tener esperanzas de que, ocasionalmente, debido a factores no usuales, van a recibir mayores ingresos que los esperados. Pero su planeación debe ser hecha con base en las experiencias de un año normal. Sin embargo, cuando los extensionistas analizan con los agricultores los precios anuales representados en una gráfica, no deben olvidar llamar la atención sobre aquellos años inusuales en que haya habido tendencias anormales de precios, para que de esta forma los agricultores entiendan los riesgos que pueden enfrentar. Por ejemplo, como resultado de condiciones del tiempo poco usuales o de otro factor anormal.
+
+Información sobre efectos de la tasa de inflación predominante
+
+Infortunadamente, muchos países continúan experimentando rápidos aumentos en los precios, situación que debe ser tenida en cuenta por los extensionistas cuando tienen que aconsejar a los agricultores sobre qué productos cultivar, cuánto deben almacenar o cuándo comercializar. Muchos agricultores tienen problemas para entender el concepto de inflación y para darse cuenta que aunque el precio que reciban por sus cosechas está aumentando ellos no necesariamente van a estar mejor. En efecto, la inflación puede convertir una actividad aparentemente rentable en una de pérdidas.
+
+Como ejemplo, considérese el caso de agricultores que tienen dos opciones para vender el arroz en cáscara (paddy). Pueden venderlo a un comerciante o a un molinero que les pagarán hoy en efectivo $100 por tonelada, o pueden venderlo a un comerciante que les pagará $110 a un plazo de dos meses. Sin embargo, si la tasa de inflación es del 5 por ciento por mes el precio "real", o ajustado por la inflación (ver Recuadro 5) en dos meses es ligeramente menor que $100. En consecuencia, no hay razón para que el agricultor venda al segundo comerciante cuando este no le está ofreciendo un precio más alto en términos reales.
+
+Los agricultores que planean entrar en la producción de la temporada baja pueden consultar una gráfica de precios en una oficina de extensión y advertir que el precio en enero 2000 fue de $4 por kilogramo mientras que el precio en julio del mismo año fue de $6 por kilogramo. Aunque saben que sus costos de producción serán levemente más altos en julio que en enero, pueden decidir, con base en las gráficas, que en el año 2001 deben plantar el cultivo para cosecharlo en julio, y no en enero. Sin embargo, si el ritmo de inflación en el país es tal que los precios se doblan cada año, entonces, los precios entre enero y julio se incrementarán aproximadamente en la mitad. En consecuencia, el precio "real" era el mismo y los agricultores hubieran perdido dinero debido a que sus costos de producción eran más altos.
+
+Para medir los efectos de la inflación (esto es, deflactar) es necesario tener cifras actualizadas del índice de precios al consumidor o, mejor aún, del índice de precios rurales. Normalmente estos son suministrados por los departamentos oficiales de estadística, pero se presenta el problema de que con frecuencia transcurren varios meses y aun varios años para que los índices se publiquen después de haber sido calculados. Aun en los casos en que la información se encuentre disponible en tiempo razonablemente rápido, los extensionistas pueden tener dificultades para conseguirla. Los servicios públicos de extensión deberían considerar la posibilidad de hacer circular esta información; alternativamente, los SIM podrían hacer lo propio.
+
+Es esencial que la información sobre inflación esté disponible mensualmente. Si las cifras sobre inflación anual se usan para deflactar mensualmente los precios se llegará a considerables inexactitudes y mientras más alta sea la tasa de inflación mayores serán las inexactitudes. Si los extensionistas disponen de información mensual sobre inflación y precios, están en capacidad de deflactar los precios sin mucha dificultad, con el uso de una calculadora de bolsillo. La técnica consiste en establecer un dato base, por ejemplo, Enero 1º de 1999 y deflactar todos los precios desde esta fecha en adelante. El Cuadro 5 muestra cómo se hace.
+
+Cuadro 5
+
+Información sobre la inflación predominante mediante el empleo del Índice de Precios al Consumidor (IPC)
+
+(a)
+Precio promedio mensual del producto
+
+(b)
+Índice de precios al consumidor
+(1980 = 100)
+
+(c)
+IPC
+dividido por el IPC de enero de 1999
+
+Precio promedio mensual ajustado
+(a ÷ c)
+
+Ene
+
+120
+
+500
+
+1.0
+
+120.0
+
+Feb
+
+130
+
+507
+
+1.014
+
+128.2
+
+Mar
+
+130
+
+515
+
+1.03
+
+126.2
+
+Abr
+
+110
+
+520
+
+1.04
+
+105.8
+
+May
+
+85
+
+528
+
+1.056
+
+80.5
+
+Jun
+
+50
+
+535
+
+1.07
+
+46.7
+
+Jul
+
+45
+
+540
+
+1.08
+
+41.7
+
+Ago
+
+55
+
+550
+
+1.1
+
+50.0
+
+Sep
+
+65
+
+557
+
+1.114
+
+58.3
+
+Oct
+
+85
+
+565
+
+1.13
+
+75.2
+
+Nov
+
+110
+
+575
+
+1.15
+
+95.7
+
+Dic
+
+120
+
+582
+
+1.164
+
+103.1
+
+Ene
+
+130
+
+590
+
+1.18
+
+110.2
+
+Feb
+
+135
+
+600
+
+1.2
+
+112.5
+
+Mar
+
+140
+
+615
+
+1.23
+
+113.8
+
+Apr
+
+115
+
+626
+
+1.252
+
+91.9
+
+May
+
+90
+
+640
+
+1.28
+
+70.3
+
+Jun
+
+55
+
+653
+
+1.306
+
+42.1
+
+Jul
+
+50
+
+665
+
+1.33
+
+37.6
+
+Ago
+
+60
+
+672
+
+1.344
+
+44.6
+
+Sep
+
+70
+
+675
+
+1.35
+
+51.9
+
+Oct
+
+95
+
+685
+
+1.37
+
+69.3
+
+Nov
+
+115
+
+695
+
+1.39
+
+82.7
+
+Dic
+
+125
+
+700
+
+1.4
+
+89.3
+
+Nota: Ver en Gráfica 6 el registro de precios promedios mensuales frente a precios promedios mensuales ajustados con la inflación
+
+Gráfico 6: Un ejemplo del impacto de la inflación sobre los precios
+
+Recuadro 4
+
+Cómo entender la inflación
+
+Comoquiera que con frecuencia los agricultores tienen dificultades para entender la idea de la inflación, los extensionistas pueden ayudarles en esa tarea comparando los precios en finca con los costos crecientes de otros bienes. Por ejemplo, si el agricultor vende su arroz en cáscara (paddy) por $100 en mayo, ¿cuántos sacos de fertilizante podrá comprar con ese dinero?, ¿cuántos podrá comprar en noviembre? Inflación significa que podrá comprar menos sacos en noviembre que en mayo.
+
+Recuadro 5
+
+Inflación y almacenamiento
+
+Considere la posición de un agricultor africano productor de maíz que cosecha el producto en mayo. Tiene la opción de venderlo inmediatamente, o de guardarlo hasta noviembre cuando se espera que los precios aumenten a niveles mucho más altos.
+
+El precio del maíz en mayo es:
+
+$100
+
+El precio del maíz en noviembre es:
+
+150
+
+El aumento en el precio es de:
+
+50
+
+El costo para el agricultor por almacenamiento durante seis meses es de:
+
+20
+
+La utilidad del agricultor por almacenar es de:
+
+$30
+
+En este ejemplo parece que almacenar es una buena idea. Sin embargo, si se calcula el precio "real" el panorama cambia radicalmente.
+
+Supóngase, por ejemplo, que la inflación está alrededor del 60 por ciento por año y que en el período mayo-nov los precios subirán un 30 por ciento. Entonces:
+
+El precio del maíz en mayo es:
+
+$100
+
+El precio del maíz en noviembre es:
+
+150
+
+El precio "real" del maíz en noviembre es:
+
+115
+
+El aumento "real" en el precio es de:
+
+15
+
+El costo para el agricultor por almacenamiento durante seis meses es de:
+
+20
+
+La pérdida para el agricultor por almacenar es de:
+
+$5
+
+De esta forma, es esencial tener en cuenta la inflación cuando se asesora a los agricultores en la decisión sobre si se debe almacenar.
+
+Nota: El precio "real" es calculado dividiendo el precio actual por el amontar de los precios que han subido más 100. El resultado es después multipicado por 100. Así es que, con el 30 por ciento de inflación el precio "real" es ($150 ÷ 130) × 100 o $115.
+
+ASESORAMIENTO A LOS AGRICULTORES SOBRE PRODUCCIÓN
+
+Para capacitar a los agricultores en la toma de decisiones sobre qué producir, cuándo cosechar, y si se debe almacenar, debe suministrarse a los mismos información segura (confiable) sobre precios de mercado a largo plazo.
+
+Sin embargo, toda esta información se perderá si los agricultores no cuentan también con información sobre:
+* cómo cultivar nuevos productos que pueden tener buenos precios en el mercado;
+* el costo de producción de estos cultivos;
+* dónde adquirir semillas para nuevos productos y nuevas variedades;
+* las técnicas y los costos adicionales exigidos por la producción de temporada baja;
+* los costos requeridos por la construcción y manejo de los lugares para almacenamiento;
+* manejo poscosecha y empaque para nuevos productos;
+* en el caso de cultivos con demanda limitada, tener idea de cuánto puede venderse.
+
+La información sobre los aspectos anteriores depende principalmente de circunstancias locales y no puede ser cubierta en esta guía. Sin embargo, los extensionistas necesitan asegurarse de que tienen esta información antes de estimular a los agricultores a embarcarse en negocios nuevos, posiblemente riesgosos.
+
+PLANEACIÓN DE LA PRODUCCIÓN Y DEL MERCADEO
+
+Cuando existen datos de precios para varios productos a lo largo de varios años los agricultores tienen la posibilidad de aprovecharla para ayudarse en:
+* decidir si se cultivan nuevos productos y cuándo hacerlo;
+* decidir si se siembran productos tradicionales en diferentes épocas del año;
+* decidir si el producto se vende inmediatamente después que ha sido cosechado o si se almacena con la esperanza de que su precio suba.
+
+Planeación del cultivo de nuevos productos
+
+Es posible que los agricultores consideren que los ingresos que les están generando los productos tradicionales no sean satisfactorios. Esto puede deberse a cambios en políticas gubernamentales que hayan eliminado los subsidios a la producción. Puede deberse también a que muchos otros agricultores han estado cultivando el producto y los precios están descendiendo. Puede ser debido a factores ambientales tales como reducción en la fertilidad del suelo o cambios en el clima, que hacen que un producto ya no pueda ser sembrado en condiciones de rentabilidad. Más probablemente aún, puede suceder simplemente que los agricultores quieran tener mayores ingresos para mejorar el bienestar de sus familias y deseen encontrar cultivos que les den mayores utilidades.
+
+Con la ayuda de los extensionistas y de otras personas, los agricultores pueden identificar los cultivos indicados para su región. Hecho esto deben resolver el problema de los costos de producción. Mediante la consulta de información sobre precios de mercado en los años precedentes podrán estimar lo que probablemente estarán en capacidad de vender de los nuevos productos. Deben entonces comparar estos precios con los costos de producción y ver si les resulta más rentable cultivar nuevos productos o continuar con los tradicionales. Esto puede ser hecho mediante el análisis de margen bruto, tal como se describe en el Anexo 1.
+
+Un problema que tiene este enfoque es que si los agricultores están pensando en cultivar productos que nunca han sido sembrados en sus regiones, van a tener poca información para calcular los costos de comercialización. Un problema más serio aún es que si los productos no han sido cultivados en la región con anterioridad es posible que no haya comerciantes dispuestos a comprarlos. En este caso, los extensionistas pueden jugar un importante papel poniéndose en contacto con los comerciantes; bien con aquellos que adquieren las cosechas en otras regiones o con compradores de productos tradicionales que puedan estar interesados en comprar los nuevos. De otra forma, los agricultores podrían encontrarse en situación de no tener a quien vender los nuevos productos.
+
+Producción de temporada baja
+
+La producción de cultivos en temporada baja es viable únicamente cuando estos no pueden ser almacenados. Poca duda existe cuando se trata de producir en temporadas diferentes a las de los demás agricultores cultivos esenciales como maíz y arroz, porque esta clase de productos siempre está disponible a todo lo largo del año. Así, generalmente la producción de temporada baja es la de productos hortícolas.
+
+Cuando los agricultores planean la producción de temporada baja, necesitan revisar las tendencias estacionales de precios de los años anteriores más recientes.
+
+Los servicios de extensión podrían apoyar a los agricultores poniendo a su disposición esta información, tal como se indica en el Gráfico 4 y, posiblemente, promediando precios deflactados mensualmente para períodos de 3 a 5 años. Esta información daría a los agricultores una indicación del movimiento estacional promedio de los precios. Sin embargo, es preciso tener cuidado cuando el comportamiento de los precios no muestra cambios significativos debido a que, por ejemplo, gran cantidad de otros agricultores están empezando a pasarse a la producción de temporada baja.
+
+Los agricultores necesitan decidir en qué época desean cosechar. Esta decisión puede ser orientada por la temporada en la que los precios son más atractivos, pero de todas formas ellos necesitan considerar también otros factores. Estos pueden incluir:
+* ¿es el clima (y las plagas y enfermedades que son características de cada estación) un factor que complica sembrar cultivos para cosechar en determinado momento?
+* ¿coincidirá la cosecha programada con la de otros cultivos?
+* ¿coincidirá la cosecha programada con una época de significativos compromisos sociales y familiares?
+
+Una vez que los agricultores han decidido la época de cosecha, entonces tienen que conseguir información sobre los costos probables de producción. Generalmente ellos saben cuánto son los costos de producción en la temporada principal pero no conocen mucho sobre los costos de temporada baja. Estos serán más altos debido a que:
+* los rendimientos serán menores;
+* puede ser necesario hacer inversión de capital en, por ejemplo, cerramientos o cobertizos plásticos o en riego;
+* las necesidades de mano de obra para la preparación de la tierra o para desmalezar, por ejemplo, pueden ser mayores;
+* puede ser necesario disponer de insumos adicionales tales como herbicidas y pesticidas.
+
+De acuerdo con lo anterior, los extensionistas necesitan estar en capacidad de suministrar, o al menos de saber en dónde obtener, información sobre los aspectos mencionados y de ayudar a calcular los nuevos costos de producción. Una vez estos han sido calculados, el extensionista y el agricultor pueden volver al cuadro de precios y hacer el análisis de margen bruto para verificar si es cierto que la producción de temporada baja va a resultar más productiva.
+
+Almacenamiento de productos para esperar precios más altos
+
+Si bien la producción de temporada baja es dedicada principalmente a la obtención de productos hortícolas, el almacenamiento en la finca se usa especialmente para productos procesables menos perecederos tales como arroz en cáscara (paddy), maíz, y papa, así como cebolla cabezona y ajo. La información de mercados puede ser usada para ayudar a los agricultores a decidir si almacenan o no en un determinado año. También puede usarse para ayudarles a decidir si invierten en la construcción de un depósito cuando no cuentan con él. Generalmente es una mala idea almacenar productos sin disponer de las capacidades suficientes para hacerlo, pues las pérdidas en cantidad y en calidad impedirán que el agricultor se beneficie de los mayores precios de la temporada.
+
+Con base en información sobre variaciones estacionales de precios en años anteriores puede estimarse cuánto puede ser el crecimiento probable del precio de la producción en un año promedio. Sin embargo, la decisión final sobre si se almacena debe estar basada en el conocimiento que se tenga acerca de la cosecha. Puede que la producción en algunos años sea tan grande que posiblemente no se justifique almacenarla con la esperanza de lograr un precio mayor. Más aún, un agricultor que venda su producción inmediatamente después de que esté lista podría poner el dinero en el banco y ganar intereses. Para tomar la decisión de almacenar es preciso que haciéndolo se gane más dinero que poniéndolo en el banco. Esto debe ser tenido en cuenta cuando se calcula la utilidad del almacenamiento y el impacto de la inflación.
+
+El Cuadro 7 muestra el cálculo de la utilidad de almacenamiento, y el mismo cálculo se muestra gráficamente en el Gráfico 8. Se supone aquí que el agricultor ya dispone de un depósito y que los costos de almacenamiento se limitan al mantenimiento de ese depósito, a la compra de material de empaque y pesticidas, si se necesitan, y a cualquier costo de mano de obra involucrado en los procesos de almacenar y desalmacenar.
+
+El Cuadro 7 y el Gráfico 8 están basados en el supuesto de que la cosecha de la producción empieza en mayo y continúa hasta fines de julio. Puede verse que el almacenamiento llega a ser más provechoso si el producto almacenado se vende a partir de enero, y que la mayor utilidad se obtiene en marzo. Sin embargo, a medida que se acerca la nueva temporada los precios empiezan a caer y los productores registrarían pérdidas si almacenaran sus productos hasta mayo.
+
+Cuadro 7
+
+Cálculo de la utilidad del almacenamiento en pesos por tonelada
+
+Ago
+
+Sep
+
+Oct
+
+Nov
+
+Dic
+
+Ene
+
+Feb
+
+Mar
+
+Abr
+
+May
+
+Costo
+
+Costo anual de mantenimiento e insecticidas
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+Intereses dejados de ganar en el banco
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+Valor de la cosecha en julio
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+Costo total del almacenamiento
+
+122
+
+124
+
+126
+
+128
+
+130
+
+132
+
+134
+
+136
+
+138
+
+140
+
+Precio de venta
+
+100
+
+100
+
+105
+
+115
+
+130
+
+145
+
+160
+
+165
+
+160
+
+120
+
+Utilidad del almacenamiento
+
+-22
+
+-24
+
+-21
+
+-13
+
+0
+
+13
+
+26
+
+29
+
+22
+
+-20
+
+Nota: Se supone que los intereses bancarios sobre depósitos son del 2% por mes
+
+Gráfico 8: Ejemplo de la utilidad del almacenamiento
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+Actividades de los extensionistas - Lista de verificación
+
+Los capítulos anteriores de esta guía han identificado algunas actividades que los funcionarios de los servicios de extensión pueden llevar a cabo para ayudar a los agricultores a interpretar la información de mercados. Estas, además de otras actividades relacionadas con la labor que pueden realizar los extensionistas, se resumen a continuación:
+* familiarizarse con la forma como funcionan los sistemas de comercialización de las diferentes producciones, de forma tal que tengan capacidad de aconsejar a los agricultores sobre la mejor manera de comercializar sus productos y sobre las diferentes clases de precios;
+* suscribirse a todos los informes escritos publicados por los servicios de información de mercados. En particular, conseguir material preparado por el SIM con explicaciones sobre la información que difunde y su significado para los agricultores;
+* estar al tanto de los horarios de la transmisión de los SIM en radio o televisión, y escucharlos con la mayor frecuencia posible;
+* identificar y, si es posible, establecer contactos con otras posibles fuentes de información de mercados, tales como la agroindustria;
+* identificar los compradores locales de la producción, informarse sobre los precios que están pagando y sus términos y condiciones de negociación. Para los agricultores puede ser de mucha utilidad una simple hoja de papel con un listado de los compradores locales, con información sobre sus precios, si pagan de contado o más tarde, si compran a granel o en sacos, etc.;
+* suministrar información sobre mercados más apartados. Los extensionistas pueden establecer contactos con las direcciones de estos mercados para obtener información similar sobre compradores potenciales en los más importantes mercados urbanos;
+* mantener registros de los precios reportados por los SIM, llevarlos a gráficas, y suministrar información sobre la tasa de inflación predominante. El Capítulo 7 proporciona sugerencias detalladas para hacer esto. Lo ideal es que este tipo de análisis sea entregado por el servicio de información de mercados. Cuando no se disponga de estos análisis, los extensionistas pueden hacerlos ellos mismos o solicitarle a los SIM que los haga;
+* ayudar a los agricultores a interpretar el significado de las transmisiones de precios. Esto significa que los extensionistas deben tener un conocimiento muy completo de cómo trabajan los sistemas de comercialización y de los factores que afectan los precios que los agricultores vayan a obtener;
+* organizar visitas de los agricultores a los mercados urbanos. Esto les permitiría ver cómo se venden sus productos y las condiciones en que estos llegan al mercado. También les daría la oportunidad de entender mejor el sistema de comercialización y de sostener conversaciones con los comerciantes;
+* monitorear los precios locales no reportados por los SIM. Los servicios nacionales de información de mercados pueden, generalmente, cubrir solo unos pocos mercados. Los servicios locales de extensión podrían considerar monitorear los precios en los mercados de acopio regionales en aquellos días en que estos mercados funcionen y exhibir estos precios en tableros de noticias colocados en sus oficinas y a la entrada de los mercados o, alternativamente, deberían persuadir a los administradores de los mercados a cumplir con esta tarea;
+* ayudar a los agricultores a comprender los costos de mercadeo y los márgenes del comerciante. En la mayoría de los casos los agricultores no van a estar en capacidad de hacer estimativos de los costos de mercadeo de los comerciantes. Utilizando la información de esta guía y de la Guía de la FAO sobre costos y márgenes de mercadeo^3, los agentes de extensión pueden hacer estimativos razonables de los costos de mercadeo e informar a los agricultores al respecto, a fin de ayudarles en sus negociaciones con los comerciantes;
+* comprender las razones por las cuales cambian los precios, tanto a corto como a largo plazo;
+* asesorar a los agricultores sobre tecnologías de producción y sobre variedades. Una vez que los agricultores han utilizado la información de mercados para decidir que cultivar nuevos productos o productos fuera de temporada es una buena idea, entonces necesitarán saber cómo cultivar dichos productos, cuál será el costo de los insumos y dónde conseguir estos;
+* asesorar a los agricultores sobre los costos de producción. Ellos no solamente necesitan saber cómo cultivar nuevos productos, también necesitan saber cuánto les va a costar. Los agentes de extensión deben poder ayudar a los agricultores a estimar los probables costos de producción para nuevos cultivos o para nuevas tecnologías, tales como las de productos de fuera de temporada;
+* identificar compradores de los nuevos productos. Si los agricultores se embarcan en nuevos productos, puede no haber comerciantes que compren estos. Los agentes de extensión deben identificar posibles compradores antes de aconsejar a los agricultores que cultiven nuevos productos;
+* ayudar a las comunidades a establecer sus propios servicios locales de información de mercados. Cuando se encuentra una gran cohesión social en un poblado y los agricultores se consideran más bien colaboradores que competidores, puede ser viable que las comunidades, con la ayuda de los agentes de extensión, organicen su propio servicio local de suministro de información de mercado;
+* trabajar con los medios masivos locales. Particularmente en países grandes donde puede haber estaciones de radio o diarios locales que no publican información nacional de mercados pero pueden estar interesados en transmitir o publicar en la prensa precios locales;
+* organizar visitas de comerciantes y mayoristas. También los agricultores deben visitar los mercados, como se indicó anteriormente. Sin embargo, organizar esto puede ser difícil y costoso. Una alternativa es estimular a los mayoristas y comerciantes a visitar los poblados para hacer reuniones con grupos de agricultores;
+* organizar ensayos de empaque. A menudo la razón por la cual los agricultores encuentran que los precios que reciben en el mercado son inferiores a los reportados por el SIM es porque utilizan empaques deficientes y sus productos llegan al mercado en mala condición. Si esto se confirmara mediante visitas al mercado, los agentes de extensión podrían aconsejar a los agricultores que trabajen junto con los comerciantes a fin de hacer ensayos utilizando diferentes tipos de empaques;
+* organizar demostraciones de clasificación. Suele suceder que los agricultores ganen más separando sus productos en lotes de diferentes calidades. Este punto puede ser subrayado cuando el SIM suministra información de precios sobre distintas calidades del mismo producto.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+Notas finales
+
+1 Este aspecto es cubierto en mayor detalle en, por ejemplo, La comercialización de productos hortícolas, manual de consulta e instrucción para extensionistas, Boletín de servicios agrícolas Nº 76, FAO, Roma y Guía de extensión en comercialización Nº 1, A guide to maize marketing for extension officers, Marketing and Rural Finance Service, FAO; Roma, y será cubierto con mayor profundidad en las próximas Guías de extensión en comercialización.
+
+2 El tema de los costos de comercialización es abarcado en mucho mayor detalle en una publicación anterior de FAO, Guía para el cálculo de los costos de comercialización preparada por Andrew W. Shepherd, del Servicio de Mercadeo y Finanzas Rurales, FAO, Roma, 1995. Este capítulo está basado en material que aparece en esa guía.
+
+3 Ver la anterior nota final 2.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+Anexo - Análisis de margen bruto
+
+El análisis de margen bruto puede ser usado para comparar la utilidad de emplear diferentes tecnologías; por ejemplo, la producción hortícola de temporada alta y de temporada baja. También puede usarse para calcular la utilidad de cultivar un producto totalmente nuevo cuando los agricultores están contemplando la posibilidad de diversificar con producciones nuevas. El margen bruto puede ser calculado por hectárea o como el rendimiento de la mano de obra, con base en la cantidad de días trabajados por un agricultor y su familia (lo que es importante cuando la nueva tecnología aumente la cantidad requerida de días de trabajo o cuando el trabajo es un factor más escaso que la tierra).
+
+Nota: Las páginas 86, 87, 88 contienen un bosquejo de un análisis de margen bruto que puede ser usado por los extensionistas para ayudar a los agricultores a calcular la utilidad de cultivar nuevos productos.
+
+El análisis de margen bruto no tiene en cuenta costos fijos, tales como la tierra, pagos de intereses sobre equipos, etc., ya que estos tienen que ser pagados de todos modos. El procedimiento para calcular el margen bruto por hectárea es el siguiente:
+* calcular un rendimiento promedio por hectárea esperado para el producto con la tecnología que se vaya a aplicar. Cuando el producto no haya sido producido antes, este cálculo se hará con base en información de otros agricultores o del servicio nacional de extensión agrícola o de servicios de investigación. Sin embargo, comoquiera que estos servicios acostumbran hacer referencia a fincas con condiciones ideales no siempre logradas por los pequeños agricultores, sería útil reducir los rendimientos esperados al hacer estos cálculos;
+* calcular el rendimiento bruto esperado por hectárea, que es igual a la producción esperada por hectárea multiplicada por el precio a puerta de finca. El agricultor o el extensionista necesitarán disponer de la información sobre precios proveniente del servicio de información de mercados y deducir todos los costos de comercialización, desde la puerta de la finca hasta el mercado al cual se refieren los precios;
+* calcular las necesidades por hectárea o para el área total del cultivo del material que es necesario sembrar, así como de los fertilizantes y pesticidas, y obtener el costo total de estos insumos puestos en la finca. El agricultor tendrá que agregar los costos de transporte y otros costos en que se incurra para llevar los productos desde el distribuidor hasta la finca;
+* calcular los costos de riego y de servicios de maquinaria necesarios por hectárea, cuando estos servicios se obtienen comercialmente;
+* calcular el costo de otros insumos a corto plazo exigidos específicamente por este cultivo (por ejemplo, cubiertas de plástico para producción hortícola), dividiendo el costo por el número de cultivos (o de años, cuando hay solo un cultivo por año) para los cuales se espera usar el insumo, incluyendo los cargos por concepto de intereses, o los intereses bancarios que hubieran podido ganarse si los insumos hubieran sido comprados en efectivo;
+* con base en la asesoría de los servicios de investigación o de otra fuente de información, estimar el número de personas/día necesarias por hectárea para la preparación de la tierra, sembrado, desmalezado y otras actividades propias del proceso de producción tales como cosecha, limpieza, clasificación y empaque. Se multiplica el número de días por el costo de la mano de obra (si se ha utilizado mano de obra remunerada);
+* cuando se emplea mano de obra familiar se multiplica el número de días por el costo de oportunidad (es decir, el salario diario que los miembros de la familia hubieran podido ganar si no estuvieran trabajando en la finca);
+* se restan los costos totales de los ingresos totales para obtener el margen bruto del cultivo por hectárea o de parcela de tierra que se pretende usar.
+
+El procedimiento para calcular los márgenes brutos en términos de rendimiento de la mano de obra o por día trabajado es similar al descrito antes, con la excepción de que el total del trabajo de la familia no se tiene en cuenta. Los rendimientos de la mano de obra se calculan tomando el total de ingresos menos los costos variables y dividiendo por el total de días de trabajo utilizados. enes brutos
+
+Unidad
+
+Cantidad
+
+Precio/unidad
+
+Valor total
+
+INSUMOS
+
+kg
+
+1)
+
+2)
+
+COSTOS
+
+Materiales de siembra
+
+Fertilizantes
+
+3)
+
+Tipo 1
+
+sacos
+
+Tipo 2
+
+sacos
+
+etc.
+
+sacos
+
+Total fertilizantes
+
+4)
+
+Pesticidas
+
+3)
+
+Tipo 1
+
+litros
+
+Tipo 2
+
+litros
+
+etc.
+
+litros
+
+Total pesticidas
+
+5)
+
+OTROS INSUMOS
+
+Riego
+
+litros
+
+Alquiler de maquinaria
+
+horas
+
+Otros
+
+Total otros insumos
+
+MANO DE OBRA
+
+6)
+
+Alquilada
+
+horas
+
+Familiar
+
+horas
+
+7)
+
+Total mano de obra
+
+COSTOS TOTALES (a)
+
+INGRESOS TOTALES (b)
+
+MARGEN BRUTO (b-a)
+
+8)
+
+Notas:
+
+1) Producción estimada por hectárea
+
+2) Precio SIM menos costos de comercialización de finca a mercado. El cálculo puede hacerse usando varios supuestos de precios diferentes con el fin de estimar el riesgo de que no se obtenga el precio esperado.
+
+3) Precios de compra más los costos de transporte de los fertilizantes de la tienda a la finca
+
+4) Costos totales de los fertilizantes que se vayan a usar en las áreas cultivadas.
+
+5) Costos totales de los pesticidas que se vayan a usar.
+
+6) Preparación de la tierra, siembra, fertilización, desmalezada, aspersiones, cosecha, limpieza de producto, clasificación y empaque.
+
+7) Costo de oportunidad de la mano de obra familiar
+
+8) Ingresos menos costos.
+
+Publicación:
+
+George Ellis
+
+Ilustración de la portada:
+
+Consuelo Marcías Duimich
+
+Lista de cuadernos publicados bajo la serie
+GUÍA DE EXTENSIÓN EN COMERCIALIZACIÓN:
+
+Guía para el
+CÁLCULO DE LOS COSTOS DE COMERCIALIZACIÓN
+1995, 59 pp. (E F I)
+
+A guide to MAIZE MARKETING
+for extension officers
+1999, 111 pp. (F I)
+
+Interpretación y uso
+de la INFORMACIÓN DE MERCADOS
+2001, 89 pp. (E F I)
+
+Se prevén otros títulos para estas series.
+Se agradecen sugerencias para otros títulos.
+
+Disponible en:
+
+E
+
+-
+
+Español
+
+F
+
+-
+
+Francés
+
+I
+
+-
+
+Inglés
+
+Para obtener ejemplares de esta publicación, así como información sobre las actividades de la FAO relacionadas con la comercialización agrícola, dirigirse por escrito a:
+
+Servicio de Mercadeo y Finanzas Rurales
+Dirección de Sistemas de Apoyo a la Agricultura
+Organización de las Naciones Unidas para la Agricultura y la Alimentación
+Viale delle Terme di Caracalla
+00100 Roma, Italia
+
+Facsímil: (39) 0657056850
+Correo electrónico: AGS-Registry@fao.org
+Sitio web: http://www.fao.org/ag/ags/agsm/marksp.htm
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice
+
+
+Cubierta posterior
+
+Esta guía ha sido preparada para ayudar a extensionistas y demás trabajadores en contacto permanente con las comunidades agrícolas en la labor de aconsejar a los agricultores para que hagan el mejor uso de la información de mercados. La guía hace énfasis en la necesidad de entender por qué los agricultores necesitan información, cómo pueden usarla y sacar provecho de su empleo, y cuáles son las fuentes de información disponibles. También se cubren temas como por qué cambian los precios tanto a corto como a largo plazo, cómo interpretar los precios suministrados por un servicio de información de mercados, y cómo calcular los costos de comercialización entre la finca y el mercado. Además, la guía suministra una serie de herramientas prácticas para que tanto extensionistas como otras personas a lo largo y ancho del mundo mejoren la efectividad de sus labores.
+
+
+Página precedente Inicìo de página

@@ -1,0 +1,3867 @@
+Regime fiscal forestier et depenses de l'etat en faveur du secteur forestier au Nigeria
+_
+
+COVER
+
+
+
+
+
+
+Table of Contents
+_
+
+Regime fiscale forestier et depenses de l'etat en faveur du secteur forestier au Nigeria
+
+Un rapport préparé pour le programme de FAO sur le financement de l'aménagement durable des forêts
+
+Document de travail: FSFM/WP/02
+
+REGIME FISCAL FORESTIER ET DEPENSES DE L'ETAT EN FAVEUR DU SECTEUR FORESTIER AU NIGERIA
+
+Département fédéral des forêts
+Ministère fédéral de l'environnement
+Abuja, Nigeria
+
+
+Division des politiques et de la planification forestières, Rome
+Bureau régional pour l'Afrique, Accra
+
+Avril 2001
+
+© FAO 2001
+_
+
+Table of Contents
+
+NOTE D'INFORMATION SUR LE PROGRAMME FAO SUR LE FINANCEMENT DES FORETS
+RÉSUMÉ
+SOMMAIRE EXÉCUTIF
+INTRODUCTION
+
+Informations de base
+Definition of a forest revenue system
+Bref historique de la perception des recettes forestières au Nigeria
+Objectifs du régime fiscal forestier
+Approche adoptée pour le rapport
+
+STRUCTURE DU REGIME FISCAL FORESTIER DU NIGERIA
+
+Redevances sur la production de bois
+Taxes des industries et des entreprises
+Redevances sur les produits non ligneux et mineurs et les services procurés par les forêts
+Sanctions légales
+Taxes prélevées sur le commerce des produits forestiers
+Etude des variations des taxes forestières
+
+ADMINISTRATION DU REGIME FISCAL FORESTIER
+
+Procédure de détermination des taxes forestières
+L'administration fiscale dans les forêts naturelles
+Le recouvrement des redevances et son suivi
+
+RECOUVREMENT ET DISTRIBUTION DES RECETTES
+
+Recouvrement et distribution de l'ensemble des redevances forestières
+
+DEPENSES FORESTIERES PUBLIQUES
+
+Dépenses des principales institutions forestières publiques
+Assistance extérieure au secteur forestier
+Dépenses effectuées par d'autres institutions forestières
+Dons et subventions au secteur forestier
+Recettes et dépenses des entreprises forestières d'Etat
+
+DISCUSSION ET CONCLUSIONS
+
+Evaluation du régime fiscal forestier nigerian
+Impact du régime fiscal forestier sur l'aménagement durable des forêts
+Dépenses publiques en matière d'aménagement des forêts
+Les effets des autres politiques fiscales sur l'aménagement durable des forêts
+Attitude face au changement
+
+BIBLIOGRAPHIE
+
+NOTE D'INFORMATION SUR LE PROGRAMME FAO SUR LE FINANCEMENT DES FORETS
+
+Il est généralement reconnu que les aspects financiers sont les facteurs les plus importants car ils peuvent avoir un impact sur la gestion durable des forêts. De ce fait, le Département Forestier de la FAO a mis en action un programme de travail sur le financement des forêts, pour examiner l'impact des politiques mises en place par les gouvernements (dans le secteur forestier et ailleurs) sur le financement du secteur forestier ainsi que sur l'aménagement durable des forêts.
+
+Le moyen le plus important qu'aient les gouvernements pour affecter le financement dans le secteur forestier est la politique fiscale, qu'ils imposent au secteur. En ce qui concerne les forêts appartenant ou gérées par l'état, il y une charge pour l'exploitation des ressources forestières, qui, quand mises en place, ont un impact sur les montants et les types d'investissement dans le secteur. Durant les dernières trente années, beaucoup de choses ont été écrites sur le sujet. De plus, d'autres politiques fiscales telles que les taxes et les subventions a l'intérieur ou en dehors du secteur, peuvent avoir un très grand impact sur le domaine forestier.
+
+Le but de cet document de travail est de revoir l'impact des politiques fiscales sur l'aménagement durable des forêts, ainsi que sur d'autres domaines tels que les régimes fonciers, qui ont un impact sur le financement des forêts. Cependant, ce travail essaiera d'aller au-delà de la simple analyse financière des politiques actuelles (qui ont déjà été traitées) pour examiner plus généralement les aspects sociaux, institutionnels, ainsi que politiques de ces reformes. Il est souhaité que cet programme de travail assiste les administrateurs forestiers dans l'identification des manières plus pratiques pour revoir leurs politiques fiscales et par conséquent, les aider à poursuivre leur but dans le cadre de l'aménagement durable des forêts.
+
+Cet programme de travail a été financé par le Programme Ordinaire de FAO et le Programme de Partenariat CE-FAO pour l'Aménagement Durable des Forêts dans les pays ACP. Une grande partie du travail a été fait par des experts et des institutions locaux mais supervisés et assistés par la FAO.
+
+Les rapports sont édités et émis dés leur arrivé. Cependant, le contenu et le style sont très légèrement modifiés afin de rendre les rapports plus clairs. Par ailleurs, la présentation des rapports est aussi uniformisée. FAO invite les lecteurs à soumettre des informations qu'ils croient utiles dans le cadre de ce travail. Ces informations peuvent être envoyées aux responsables de l'étude cités ci-dessous, qui pourront fournir davantage d'informations sur le sujet :
+Mr Adrian Whiteman
+Fonctionnaire forestier (etudes sectorielles)
+Division des politiques et de la
+planification forestières
+Département des forêts
+Organisation des Nations Unies pour
+l'alimentation et l'agriculture
+Viale delle Terme di Caracalla
+Rome, 00100, ITALY
+Tél: (39-06) 5705 5055
+Fax: (39-06) 5705 5137
+Email: adrian.whiteman@fao.org Mr Peter Lowe
+Fonctionnaire forestier régional
+Bureau régional de la FAO pour
+l'Afrique
+Gamel Abdul Nasser Road
+PO Box 1628
+Accra, GHANA
+Tél: (233-21) 675000 ext. 3404
+Fax: (233-21) 668427
+Email: peter.lowe@fao.org
+
+
+
+
+
+RÉSUMÉ
+
+Le présent rapport passe en revue la formulation du régime fiscal forestier, et le recouvrement et l'utilisation des recettes forestières, au Nigeria. Il commence par dresser un bref historique des recettes forestières du pays, puis décrit leur structure, les modèles adoptés pour l'évaluation des redevances forestières, les types de droits, leur montant et les arrangements relatifs aux concessions. Il examine l'influence qu'ont les politiques budgétaires du secteur et les politiques extrasectorielles sur les pratiques d'aménagement durable des forêts. Il montre que, bien que la ressource forestière soit cruciale pour la subsistance de la population rurale et économiquement importante pour l'ensemble de la population, le secteur ne contribue pas suffisamment à l'économie du pays. Ceci est la conséquence de défaillances du régime fiscal forestier et du manque d'attention pour les recettes provenant des produits forestiers non ligneux. Ces problèmes font que les crédits
+budgétaires alloués au secteur sont insuffisants, et que les recettes ne sont pas partagées comme il convient entre toutes les parties prenantes. Le régime fiscal forestier est caractérisé par les bas prix des produits et un suivi imparfait, entraînant une généralisation de l'évasion fiscale, de l'exploitation illicite et du gaspillage. La fiscalité doit être réformée pour créer un environnement propice à l'aménagement durable des forêts. Le rapport recommande d'associer toutes les parties prenantes aux décisions concernant la formulation du régime fiscal forestier, le recouvrement et le partage des recettes. Il recommande également la levée de toutes les formes de restrictions à l'exportation du bois, ainsi qu'une refonte du régime fiscal forestier.
+
+
+
+SOMMAIRE EXÉCUTIF
+
+Au Nigeria, les premières taxes forestières remontent à la période coloniale, où diverses mesures fiscales furent introduites pour dissuader les agriculteurs d'arracher des arbres dans le cadre de leurs activités d'agriculture itinérante. Le temps passant, divers éléments sont venus compléter le régime fiscal forestier du pays, notamment: une nouvelle législation pour la désignation officielle des responsables de l'évaluation des taxes et redevances forestières; l'élaboration de modèles d'évaluation des taxes, l'introduction de nouveaux types de droits, des révisions des barèmes des redevances, la mise au point d'un arrangement d'exploitation des forêts par concession; et des formules de partage des recettes.
+
+Les différents Etats du Nigeria gèrent différents types de taxes, les principaux étant: les redevances d'exploitation sous forme de droits de coupe, les redevances sur le volume bois abattu, et les redevances par unité de surface. Des taxes sont aussi prélevées sur différents types de machines utilisées par les industries forestières, et sur les produits forestiers non ligneux et mineurs. Le montant de ces redevances et de ces taxes varie d'un Etat et d'une espèce à l'autre. L'essentiel des recettes des Etats du Sud proviennent de redevances d'exploitation/droits de coupe, de redevances basées sur le volume bois abattu ou sur l'unité de surface et de taxes sur les machines. En revanche, dans presque tous les Etats du Nord, les recettes forestières proviennent principalement de redevances sur les produits forestiers non ligneux et mineurs.
+
+Les droits de coupe, qui sont les types les plus courants de redevances d'exploitation forestière, varient dans une ample fourchette allant d'un maximum de 1 500 N par arbre, pour des espèces comme le Teck, à un minimum de 50 N pour des espèces comme Brachystegia, suivant la qualité, les disponibilités et la demande du bois coupé. Les redevances basées sur le volume de bois abattu oscillent entre 2 N par pied cube pour Gmelina dans l'Etat de Kogi, et 70 N par pied cube pour le Teck et Afzelia. La redevance par unité de surface dépend de la densité relative de la forêt et va de 2 500 N à 4 200 N par hectare exploité. D'autres taxes sont appliquées dans le secteur forestier, notamment des prélèvements pour le développement, les taxes d'enregistrement des entrepreneurs, les frais de dossier, les rentes foncières et les taxes d'enregistrement des marteaux de martelage (ou de codage). Les amendes et la vente aux enchères des produits confisqués sont aussi une source de revenu
+pour le gouvernement.
+
+Les redevances sur les produits forestiers non ligneux et mineurs sont moins élevées que celles sur le bois. Elles s'échelonnent entre 10 N par mois et par personne pour la production d'ardoises scolaires et 200 N par personne et par mois pour le ramassage du bois de feu dans l'Etat de Taraba.
+
+L'administration des taxes forestières relève des Services forestiers des Etats, le gouvernement ayant un pouvoir d'approbation. En raison de la dualité de la propriété des forêts naturelles, les services forestiers décident du type d'activités d'exploitation et de l'intensité de coupe qui seront autorisées. Toutefois ces décisions dépendent moins des principes d'aménagement rationnel des forêts que des pressions exercées par le gouvernement pour maximiser ses recettes. Par exemple, les objectifs de recettes d'une année sont souvent déterminés par le niveau des recettes obtenues l'année précédente. Si les recettes perçues au cours d'une année sont importantes, l'objectif de l'année suivante est généralement relevé, et vice versa. Les redevances forestières sont collectées au siège régional, par des gardes forestiers, à des barrages routiers, et par des équipes de contrôle.
+
+Dans la majorité des Etats, les recettes dégagées ont considérablement augmenté durant la dernière décennie, en particulier au cours des trois dernières années (1997 à 1999). Les principales sources de recettes forestières sont les redevances sur le bois des forêts ombrophiles des Etats d'Ondo, Oyo, Osun, Edo, Ekiti et Ogun qui représentent en tout environ 63 pour cent du montant total des recettes perçues dans le pays. Les autres sources de recettes forestières sont les redevances sur la production de perches (18 pour cent), sur les produits forestiers non ligneux et mineurs (13 pour cent), sur le bois de feu (3,5 pour cent), les droits de permis (2 pour cent), les droits relatifs aux activités récréatives et les amendes sanctionnant les violations du règlement forestier (moins de 1 pour cent chacun).
+
+Le secteur forestier est financé par l'intermédiaire d'un certain nombre d'institutions gouvernementales, comme le Département fédéral des forêts, l'institut nigérian de recherche forestière, les départements forestiers des différentes universités et divers établissements d'enseignement et centres de formation professionnelle forestiers. Chaque institution a des responsabilités qui lui sont propres et mène à bien des activités différentes. Toutefois les performances de toutes les institutions ont été limitées par le manque de fonds, au cours de la dernière décennie.
+
+Au cours des dix années écoulées, plusieurs projets forestiers ont reçu une aide extérieure d'institutions comme l'Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO), le Programme des Nations Unies pour le développement (PNUD), le Gouvernement finlandais, la Banque mondiale, la Banque africaine de développement (BafD, l'Union européenne (UE), l'Association internationale de développement (IDA) et le Fonds pour l'environnement mondial (FEM).
+
+Le régime fiscal forestier nigérian est imparfait et inefficace et sa conception ne permet pas de tirer pleinement profit des nombreux avantages que pourraient procurer les forêts du pays. Les activités de braconnage et d'exploitation illicite des forêts se multiplient, privant le gouvernement d'une énorme part des recettes qu'il pourrait retirer du secteur. L'administration actuelle semble bien disposée envers la foresterie, ce qui laisse espérer que des fonds suffisants seront mis à la disposition du secteur dans les années à venir. Cette attitude pourrait conduire à la résolution de certains problèmes auxquels est aujourd'hui confronté le secteur, avec la levée de toutes les formes de restrictions à l'exportation du bois, une refonte du régime fiscal forestier et la participation de toutes les parties prenantes à la formulation du régime fiscal et au recouvrement et au partage des recettes.
+
+
+
+
+INTRODUCTION
+
+Informations de base
+
+Les forêts du Nigeria contiennent une multitude de ressources, notamment le sol et ses gisements minéraux, des sources d'eau, des affleurements rocheux, des paysages rares et, sur le plan biologique, toutes sortes de plantes et d'animaux. Elles constituent donc une réserve précieuse de ressources et peuvent si elles sont gérées de façon rationnelle, subvenir éternellement aux besoins des populations (Hissain, 1987). L'importance de ces ressources tient à la valeur que la société leur attache. Le bois d'oeuvre, par exemple, est universellement apprécié pour ses diverses fonctions. Les fruits, les champignons, les herbes, les abeilles et les autres produits non ligneux sont eux aussi importants, même s'ils ne sont pas aussi universels et polyvalents que le bois. Ces ressources font donc l'objet d'une demande très diversifiée, qui explique les variations des niveaux de vente et des taxes auxquelles elles sont assujetties.
+
+
+Definition of a forest revenue system
+
+La vente des ressources forestières est l'un des principaux moyens d'interaction étroite entre le gouvernement et les populations, grâce aux activités économiques, sociales et culturelles qu'elle engendre. Ces activités deviennent une source d'emploi pour toute une kyrielle d'entrepreneurs forestiers, de bûcherons, de gérants de scieries, de chauffeurs de camions de transport du bois, d'opérateurs de machines, d'équipes de manutention forestière, de commis forestiers et de récolteurs de produits non ligneux. C'est sur la base de ces multiples activités que le gouvernement élabore la politique qui lui permettra d'atteindre des objectifs forestiers spécifiques et de mettre en oeuvre des activités de développement économique. L'une des principales composantes de cette politique concerne les recettes fiscales forestières, essentiellement basées sur la vente des biens et des services des forêts.
+
+Le régime fiscal forestier est donc un instrument qu'utilise le gouvernement pour atteindre divers buts et objectifs de l'aménagement des forêts. La fiscalité est aussi un outil qui sert à maximiser les avantages dérivant de l'aménagement des ressources forestières (ex : stimulation du développement industriel, efficacité de l'utilisation du bois, promotion d'activités du secteur privé en matière de gestion des forêts naturelles et de développement des plantations forestières selon les principes de la libre entreprise, renforcement de la commercialisation des produits forestiers et maintien de la diversité des forêts).
+
+
+Bref historique de la perception des recettes forestières au Nigeria
+
+Durant la période coloniale, diverses taxes forestières ont été introduites sur tout le territoire nigérian. La première loi forestière, promulguée en 1908, condamnait les auteurs d'infractions, en particulier les agriculteurs, à payer diverses amendes, pour les dissuader de pratiquer l'agriculture itinérante. Par exemple, les agriculteurs évitaient d'arracher des arbres, par crainte des sanctions auxquelles ils s'exposaient. A l'origine, les taxes forestières avaient donc une fonction de dissuasion, en vue de préserver la forêt. Toutefois, malgré la multiplication des réserves forestières sur tout le territoire national, les taxes sont restées en vigueur car elles procurent des recettes au gouvernement. De plus, les taxes et redevances forestières ont été acceptées dans le monde entier, ce qui montre que l'on se préoccupe des forêts et que la valeur de leurs ressources est reconnue.
+
+Depuis l'indépendance, l'évolution du régime fiscal forestier est une source de problèmes constants pour le secteur. Premièrement, une fiscalité efficace doit être révisée de temps à autre pour tenir compte des changements qui surviennent dans l'économie. Deuxièmement, les modèles utilisés dans le passé pour déterminer le montant des redevances à percevoir n'étaient pas clairs, ce qui a conduit les responsables de l'aménagement des forêts à demander que la fiscalité du secteur soit mieux définie. En 1981, une étude sur le régime fiscal forestier a été réalisée et en 1993, l'Unité forestière d'aménagement, d'évaluation et de coordination (FORMECU) a organisé un atelier national sur l'évolution du régime fiscal forestier au Nigeria. L'atelier s'est interrogé sur la manière dont la fiscalité pouvait être améliorée pour aborder et atteindre les objectifs du secteur, et analyser les problèmes qui entravent son développement au Nigeria.
+
+
+Objectifs du régime fiscal forestier
+
+Au Nigeria, les domaines forestiers sont sous la responsabilité des gouvernements des Etats qui les gèrent au nom des populations. Or l'objectif d'un régime fiscal forestier dépend de la structure de la propriété et de la complexité des ressources forestières. Toutefois, tout régime fiscal forestier quel qu'il soit, vise ordinairement à promouvoir l'aménagement durable des forêts, un partage équitable des avantages procurés par les forêts avec les communautés, le développement rural et la stabilité de la ressource forestière.
+
+Les objectifs de la fiscalité forestière jouent un rôle important dans le choix des modèles adoptés pour fixer les redevances applicables aux produits et aux services procurés par les forêts. Il faut aussi tenir compte d'autres facteurs, notamment des préférences des différents professionnels du secteur quant au modèle à retenir. Au Nigeria, l'autorité compétente pour formuler le modèle est le gouvernement d'Etat. Or, comme chaque Etat a une politique qui lui est propre, divers modèles sont utilisés dans le pays et ils ne sont pas harmonisés comme il convient pour le Nigeria, qui est une fédération d'Etats. De plus, certaines variables, comme les modalités de partage des recettes et la périodicité des révisions devraient aussi entrer en jeu dans le choix du modèle.
+
+L'objectif de ce rapport est de faire le point sur la fiscalité forestière au Nigeria, et plus particulièrement sur le financement des institutions forestières à partir des recettes collectées auprès du secteur et des recettes versées au gouvernement par des individus et d'autres secteurs de l'économie. Il analyse les flux monétaires du secteur forestier au gouvernement et du gouvernement au secteur forestier.
+
+Tableau 1 Etats du Nigeria, par zone géopolitique
+
+Zone géopolitique
+
+Etats
+
+Centre-Nord
+
+Kaduna, Kogi, Plateau. Benue, Niger, Nasarawa, Kwara
+
+Nord-Est
+
+Borno, Yobe, Bauchi, Adamawa, Taraba, Gombe
+
+Nord-Ouest
+
+Sokoto, Kebbi, Zamfara, Katsina, Kano, Jigawa
+
+Sud-Est
+
+Abia, Ebonyi, Anambra, Imo, Enugu
+
+Sud-Sud
+
+Edo, Delta, Rivers, Cross River, Akwa-Ibim, Bayelsa
+
+Sud-Ouest
+
+Lagos, Ekiti, Osun, Ondo, Oyo, Ogun
+
+
+Approche adoptée pour le rapport
+
+Pour faciliter la rédaction de ce rapport, les Services forestiers des 36 Etats du Nigeria ont reçu la visite de six équipes, dont chacune couvrait tous les Etats situés à l'intérieur d'une zone géopolitique. Les six zones géopolitiques et les Etats visités sont indiqués dans le Tableau 1.
+
+Les équipes ont rassemblé des données sur les recettes de chaque Etat, suivant un plan conforme au cadre de référence prévu pour la préparation du rapport de pays. Sept Etats (Yobe, Gombe, Kaduna, Nasarawa, Adamawa, Niger et Plateau) n'ont pas été en mesure de fournir des données au moment de la préparation du rapport, malgré les visites des équipes. Les Etats qui ont mis à disposition des informations sur les recettes forestières sont ombrés de gris sur la Figure 1 ci-dessous.
+
+Les rapports les plus complets et détaillés couvrant les taux applicables aux espèces forestières individuelles sont ceux des Etats du Sud-Ouest et d'autres Etats comme Edo, Taraba, Kwara, Kogi et Benue. Les autres Etats, en particulier dans la région du Nord, ont fourni des informations insuffisantes. Dans l'Etat de Kano, où la foresterie est considérée comme un service social, le solde des recettes et des dépenses est nul.
+
+Ces lacunes d'information ont quelque peu limité la portée du rapport.
+
+Figure 1 Carte du Nigeria montrant les Etats pour lesquels on dispose de données sur les recettes forestières
+
+Note: cette carte, établie par la FAO, pour montrer l'emplacement de tous les Etats du Nigeria, n'a qu'une valeur indicative.
+
+
+STRUCTURE DU REGIME FISCAL FORESTIER DU NIGERIA
+
+Depuis la fin des années 70, le recouvrement des taxes et redevances forestières relève essentiellement des Départements forestiers des Etats du Nigeria. La structure du régime fiscal forestier du Nigeria doit donc être examinée d'après les différentes politiques des trente-six (36) Etats et du Territoire de la capitale fédérale (TCF). Chaque Etat est libre, sur le plan juridique et administratif, de gérer ses forêts comme il l'entend. Toutefois, la structure du régime fiscal forestier a certains éléments qui sont communs à la plupart des Etats :
+* autorité compétente en matière de réglementation et de recouvrement des recettes forestières ;
+* divers modèles pour l'évaluation des redevances forestières;
+* diversité des types de droits ou redevances ;
+* niveaux des taxes différenciés en fonction des conditions locales ;
+* systèmes d'exploitation des forêts par concessions à long et à court terme ;
+* formules de partage des recettes.
+
+Les services forestiers des Etats et le TCF ont des sources de recettes diversifiées, pouvant être résumées comme suit :
+1. Redevances sur la production du bois d'oeuvre. Des redevances sur la production de bois d'oeuvre sont perçues lors du prélèvement de divers produits tels que : sciages, billes de placage, perches, bois de trituration et bois de feu. Les redevances sur ces produits sont dérivées de modèles basés sur les variables suivantes:
++ valeurs du bois sur pied;
++ volume bois abattu (VBA) ;
++ unité de surface;
++ poids (bois de trituration), et
++ temps (pour le bois de feu).
+2. Taxes des industries et des entreprises, comprenant :
++ Taxes destinées à des fonds de développement spéciaux ou prélèvements pour le boisement;
++ Taxes d'enregistrement d'industrie;
++ taxes d'enregistrement des marteaux de martelage
++ taxes d'enregistrement des entrepreneurs forestiers;
++ taxes de renouvellement pour les industries;
++ taxes d'enregistrement des machines forestières
++ taxes de réimplantation d'usine.
+3. Redevances sur les produits forestiers non ligneux et mineurs. Les redevances sur les produits forestiers non ligneux et mineurs varient en fonction des besoins des individus ou des ménages et du temps et sont prélevées sur les activités suivantes:
++ Cueillette de feuilles;
++ exploitation de palmiers, et fabrication de vin de palme
++ récolte de bâtons à mâcher ;
++ récolte de lianes ;
++ cueillette de fruits.
+4. Droits de chasse et droits liés aux utilisations récréatives des forêts. Les droits de chasse et les droits liés aux utilisations récréatives des forêts concernent :
++ les permis de chasse
++ les permis de chasse spéciaux (ex :buffle) ;
++ les permis de résider dans la forêt.
+5. Sanctions des infractions à la loi. Les recettes provenant des sanctions sont :
++ Les amendes ;
++ Le produit de la vente des produits forestiers confisqués (habituellement par adjudication).
+
+Redevances sur la production de bois
+
+Les modèles adoptés pour évaluer les redevances forestières varient suivant les Etats, mais ils sont comparables à ceux qui sont utilisés dans d'autres pays d'Afrique de l'Ouest. Chaque Etat choisit ses modèles en fonction de la richesse de ses forêts et de ses capacités administratives. D'une manière générale, plus les Etats ont un couvert forestier étendu et des forêts prisées, plus les modèles qu'ils utilisent sont diversifiés.
+Les variables de base des trois principaux modèles de détermination des redevances forestières au Nigeria sont les valeurs du bois sur pied, le volume bois abattu (VBA) et l'unité de surface. Le Tableau 2 montre la diffusion de chacun de ces modèles dans les différents Etats du Nigeria.
+Tableau 2 Modèles utilisés pour la détermination des redevances forestières dans chaque état du Nigeria
+
+Etats
+Forêts naturelles
+Plantations forestières
+Bois sur pied
+VBA
+Surface
+Bois sur pied
+VBA
+Surface
+Abia
+x
+-
+-
+x
+-
+-
+Adamawa
+x
+-
+x
+-
+-
+-
+Akwa Ibom
+x
+x
+-
+x
+x
+-
+Anambra
+x
+x
+-
+x
+x
+-
+Bauchi
+x
+x
+-
+x
+-
+-
+Bayelsa
+x
+x
+-
+x
+-
+-
+Benue
+x
+x
+-
+-
+x
+-
+Borno
+x
+-
+-
+x
+-
+-
+Cross River
+x
+x
+-
+x
+x
+-
+Delta
+x
+-
+x
+x
+-
+-
+Ebonyi
+x
+x
+-
+x
+x
+-
+Edo
+x
+-
+x
+x
+-
+-
+Ekiti
+x
+x
+x
+-
+x
+-
+Enugu
+x
+-
+-
+x
+x
+-
+Gombe
+x
+x
+-
+x
+-
+-
+Imo
+x
+-
+-
+x
+-
+-
+Jigawa
+x
+-
+x
+x
+-
+-
+Kaduna
+x
+x
+-
+x
+x
+-
+Kano
+x
+-
+x
+x
+-
+-
+Katsina
+x
+-
+-
+x
+-
+-
+Kebbi
+x
+-
+-
+x
+-
+-
+Kogi
+x
+-
+-
+x
+-
+-
+Kwara
+x
+-
+-
+x
+-
+-
+Lagos
+x
+-
+-
+x
+-
+-
+Nasarawa
+x
+-
+-
+x
+x
+-
+Niger
+x
+-
+-
+x
+-
+-
+Ogun
+x
+x
+x
+-
+x
+-
+Ondo
+x
+x
+x
+-
+x
+-
+Osun
+x
+x
+-
+x
+x
+-
+Oyo
+x
+x
+-
+x
+x
+-
+Plateau
+x
+-
+-
+x
+x
+-
+Rivers
+x
+-
+-
+x
+-
+-
+Sokoto
+x
+-
+-
+x
+-
+-
+Taraba
+x
+-
+x
+-
+-
+-
+Yobe
+x
+-
+-
+-
+-
+-
+Zamfara
+x
+-
+-
+-
+-
+-
+TCF
+-
+-
+-
+-
+-
+-
+Source: Skoup (1989).
+Redevances basées sur les valeurs du bois sur pied
+Lorsque le bois est vendu avant d'être coupé, on parle de " vente de bois sur pied ". C'est la méthode la plus précoce pour évaluer les redevances d'exploitation forestière au Nigeria, et elle se calcule in situ. Pour déterminer la valeur du bois sur pied, on déduit les frais de coupe et de commercialisation de la valeur du bois rond. Le solde obtenu se répartit entre une prime de profit et de risque (versée au producteur) et la redevance d'exploitation/ droit de coupe (versée au propriétaire de la forêt).
+Dans chaque Etat, le service forestier a une liste des barèmes applicables à toutes les essences forestières commerciales, qui est périodiquement révisée (pour plus de détails, voir les tableaux et les figures qui suivent).
+Cette méthode est utilisée dans tous les Etats situés dans la zone forestière du sud du Nigeria, pour les arbres coupés à l'intérieur et à l'extérieur du domaine forestier. Le taux du droit de coupe varie d'un Etat à l'autre, en fonction de la valeur économique et de la disponibilité des espèces, mais aussi du montant des recettes escompté. En outre, les taux varient suivant que les arbres sont prélevés à l'intérieur ou à l'extérieur du domaine forestier, des réserves ou des concessions. Par exemple, la redevance applicable à Afzelia africana va de 26 N par arbre dans l'Etat d'Enugu à 750 N par arbre dans l'Etat d'Ondo. Cette différence est due au fait que dans un Etat (Enugu), cette espèce est relativement abondante et peu demandée, alors que dans l'autre (Ondo) elle n'est pas disponible et très demandée.
+En outre, le montant du droit de coupe varie aussi en fonction de l'espèce. Par exemple, dans l'Etat d'Oyo, il est d'à peine 55 N par arbre pour C. odorata, mais atteint 250 N par arbre pour Afzelia africana, Mitrygina et Triplochiton, la variation étant imputable à la qualité et la demande de l'espèce concernée. Le montant du droit varie aussi dans le temps et en fonction de la qualité du bois (voir Tableau 5 et Tableau 6). Dans tous les cas, on fixe des droits de coupe élevés pour protéger des arbres de première catégorie, comme Melicia excelsa et Entandrophragma spp, qui sont particulièrement menacés dans les forêts ombrophiles des basses terres arides, comme celles que l'on trouve dans les Etats d'Enugu et d'Anambra.
+Tableau 3 Redevances d'exploitation/droits de coupe applicables à certaines espèces, dans certains Etats au Nigeria, en l'an 2000 (en Nairas/ arbre)
+
+Espèce
+Ekiti
+Ondo
+Ogun
+Kwara
+Kogi
+Lagos
+Taraba
+Benue
+Edo
+Osun
+Teck
+1,500
+1,000
+-
+-
+1,500
+300
+-
+1,500
+100
+-
+Diospyros
+1,200
+750
+500
+500
+180
+200
+70
+144
+100
+500
+Gmelina
+1,000
+500
+-
+1,200
+200
+-
+-
+1,000
+200
+-
+Masonia
+1,000
+750
+500
+2,000
+225
+300
+-
+288
+300
+500
+Lophira
+900
+500
+350
+1,000
+-
+300
+-
+-
+300
+150
+Cordeia spp
+700
+600
+350
+-
+-
+300
+-
+-
+200
+350
+Brachystegia
+600
+500
+250
+400
+200
+250
+50
+-
+200
+250
+Sterculia oblonga
+500
+-
+250
+1,000
+-
+200
+70
+480
+100
+250
+Pterygota
+450
+200
+150
+800
+150
+-
+-
+288
+100
+150
+Alstonia
+400
+200
+150
+400
+250
+250
+150
+288
+100
+150
+Vitallaria
+350
+200
+-
+-
+250
+-
+120
+240
+-
+-
+Entandrophragma
+500
+375
+900
+1,000
+600
+300
+-
+1,008
+300
+300
+Khaya
+650
+500
+1,200
+800
+600
+300
+240
+1,008
+300
+300
+Melicia
+900
+500
+1,200
+1,000
+600
+300
+240
+1,103
+400
+500
+Source: données de terrain.
+Tableau 4 Redevances d'exploitation/droits de coupe applicables à certaines espèces, dans certains Etats au Nigeria, en l'an 2000 (en dollars E-U/arbre)
+
+Espèce
+Ekiti
+Ondo
+Ogun
+Kwara
+Kogi
+Lagos
+Taraba
+Benue
+Edo
+Osun
+Teck
+13.27
+8.85
+-
+0.00
+13.27
+2.65
+-
+13.27
+0.88
+-
+Diospyros
+10.62
+6.64
+4.42
+4.42
+1.59
+1.77
+0.62
+1.27
+0.88
+4.42
+Gmelina
+8.85
+4.42
+-
+10.62
+1.77
+-
+-
+8.85
+1.77
+-
+Masonia
+8.85
+6.64
+4.42
+17.70
+1.99
+2.65
+-
+2.55
+2.65
+4.42
+Lophira
+7.96
+4.42
+3.10
+8.85
+-
+2.65
+-
+-
+2.65
+1.33
+Cordeia spp
+6.19
+5.31
+3.10
+-
+-
+2.65
+-
+-
+1.77
+3.10
+Brachystegia
+5.31
+4.42
+2.21
+3.54
+1.77
+2.21
+0.44
+-
+1.77
+2.21
+Sterculia oblonga
+4.42
+-
+2.21
+8.85
+-
+1.77
+0.62
+4.25
+0.88
+2.21
+Pterygota
+3.98
+1.77
+1.33
+7.08
+1.33
+-
+-
+2.55
+0.88
+1.33
+Alstonia
+3.54
+1.77
+1.33
+3.54
+2.21
+2.21
+1.33
+2.55
+0.88
+1.33
+Vitallaria
+3.10
+1.77
+-
+-
+2.21
+-
+1.06
+2.12
+-
+-
+Entandrophragma
+4.42
+3.32
+7.96
+8.85
+5.31
+2.65
+-
+8.92
+2.65
+2.65
+Khaya
+5.75
+4.42
+10.62
+7.08
+5.31
+2.65
+2.12
+8.92
+2.65
+2.65
+Melicia
+7.96
+4.42
+10.62
+8.85
+5.31
+2.65
+2.12
+9.76
+3.54
+4.42
+Source: données de terrain.
+Figure 2 Redevances d'exploitation/droits de coupe moyens, minimaux et maximaux applicables à certaines espèces au Nigeria, en l'an 2000 (en Nairas et en dollars E-U/ arbre)
+Source: données de terrain.
+Figure 3 Redevances d'exploitation moyennes, minimales et maximales à payer dans certains Etats, au Nigeria en l'an 2000 (en Naira et en dollars E-U par arbre)
+Source: données de terrain.
+On trouvera dans les deux tableaux qui suivent quelques données historiques sur les montants des redevances d'exploitation/droits de coupe au Nigeria:
+Tableau 5 Tarifs moyens des redevances d'exploitation (par arbre) pour différentes qualités d'arbres de la forêt naturelle au Nigeria, en 1993
+
+Etat
+Espèce de catégorie 1
+(Espèce de haute valeur)
+Espèce de catégorie 2
+(espèce de valeur moyenne)
+Naira
+$EU
+Naira
+$EU
+Oyo
+120
+5.23
+30
+1.31
+Ogun
+120
+5.23
+45
+1.96
+Ondo
+80
+3.49
+20
+0.87
+Osun
+250
+10.89
+100
+4.36
+Edo
+400
+17.44
+100
+4.36
+Cross River
+420
+18.30
+120
+5.23
+Benue
+138
+6.01
+56
+2.44
+Lagos
+50
+2.18
+20
+0.87
+Source: FORMECU (1993).
+Tableau 6 Tarifs des redevances d'exploitation (par arbre) applicables aux Teck et aux Gmelina des plantations, dans certains Etats du Sud du Nigeria, en 1993
+
+Etat
+Teck
+Gmelina
+Naira
+$EU
+Naira
+$EU
+Oyo
+120
+5.23
+43
+1.87
+Ondo
+150
+6.54
+80
+3.49
+Edo
+400
+17.43
+100
+4.36
+Benue
+138
+6.01
+60
+2.61
+Lagos
+30
+1.31
+20
+0.87
+Ogun
+400
+17.43
+n.d.
+n.d.
+Cross River
+50
+2.18
+80
+3.49
+Source: FORMECU (1993).
+Cette méthode de vente du bois peut être efficace pour sensibiliser le public, surtout dans les zones où il n'y a pas de domaine forestier. En outre, elle encourage à utiliser toutes les parties des arbres car, comme l'acheteur paye l'arbre entier, il cherche à maximiser son profit en l'utilisant au maximum. Ce système est aussi relativement avantageux pour l'environnement, car il réduit l'intensité d'exploitation de la forêt. La tendance à protéger l'environnement est encore renforcée par l'imposition d'une circonférence limite pour restreindre le nombre d'arbres coupés et éviter de détruire inutilement la végétation.
+Les ventes du bois sur pied sont moins coûteuses et plus faciles à administrer que d'autres méthodes, et il faut relativement peu de personnes-heures pour conclure un contrat de vente. Elles permettent aussi la participation directe du public à la procédure, car le consentement écrit des propriétaires est une condition préalable de la délivrance du permis d'exploitation. Toutefois, cette méthode demande une grande honnêteté tant de la part de l'acheteur que des fonctionnaires du gouvernement chargés d'administrer la vente.
+Redevances basées sur le volume de bois abattu (VBA)
+Ce système est réservé aux exploitants qui abattent les arbres de leurs concessions sans avoir besoin de permis. La méthode VBA oblige à mesurer et à estimer le volume réel de bois prélevé dans la forêt et, en tant que telle, elle est plus précise qu'une redevance par arbre, qui ne tient pas compte des différences de hauteur et de circonférence. La redevance est basée sur le volume estimé de chaque grume (et calculée à l'aide de tables de barèmes) dans certains Etats comme Ogun, Ondo, Oyo et Osun. La méthode est également appréciée comme système de paiement anticipé dans certains Etats, où le montant total des redevances est payé " bord de route " avant que le bois ne sorte de la forêt, pour prévenir les fraudes et un manque à gagner pour le gouvernement.
+Inconvénients. Le principal inconvénient de cette méthode est qu'elle demande beaucoup de main d'oeuvre et de temps. Il faut par exemple, une équipe de treize hommes et plusieurs personnes-jours pour mener à bien une vente VBA (Wamugimda, 1971). Le système encourage aussi la surexploitation des essences forestières commercialement prisées et la sous-exploitation des essences moins connues, de sorte qu'elle n'incite guère l'aménagement et l'utilisation rationnels des forêts. Les producteurs qui adoptent le système d'exploitation VBA sont très sélectifs, quant aux espèces, à la taille et à la forme des arbres qu'ils prennent, de sorte que la forêt est sous-utilisée. De plus, les factures des redevances totales (basées sur les mesures et les estimations des volumes) sont envoyées à l'office forestier, d'où le superviseur peut difficilement se déplacer pour aller vérifier les informations sur le terrain, faute de moyen de transport. Ceci laisse aux fonctionnaires de terrain
+et aux entrepreneurs une possibilité de s'entendre pour rouler le gouvernement. En outre, ce système entraîne la destruction de nombreux gaulis, car il est généralement de type extensif (faible intensité d'exploitation).
+Avantages. Malgré ses défaillances, le système VBA est facilement compris par le vendeur et l'acheteur, et très usité dans la zone de forêts de haute futaie du Nigeria. Par exemple, en 1987, 66 pour cent du flux de recettes totales du secteur forestier au gouvernement provenait d'opérations de ventes VBA (Adeyoju et Enabor, 1988). En 1990, ce pourcentage est tombé à 60 pour cent, en raison de la découverte d'autres sources de recettes et d'une réduction de la superficie des réserves forestières exploitées. De plus, comme les superficies exploitées selon ce système ont généralement un couvert relativement peu dense, les dégâts causés aux habitats de faune sont souvent minimes. En outre, les arbres laissés en place après une vente de ce type, en particulier les espèces secondaires ou moins connues, sont utiles pour lutter contre l'érosion et protéger les bassins versants dans les marécages et dans d'autres terrains difficiles.
+Evolution des redevances VBA. Dans le passé, en particulier entre 1960 et 1979, les taux des redevances forestières n'ont été relevés que par paliers dans le Sud-Ouest, avec des révisions en 1969, 1974, 1979 et 1988. Toutefois, au cours des dernières années, les redevances VBA ont connu une augmentation plus marquée, probablement sous l'effet combiné de l'interdiction frappant les exportations de grumes non transformées et de la forte demande intérieure de bois de construction. Les Tableau 7 et Tableau 8 montrent que si les redevances VBA ont tendu à augmenter en monnaie locale (Nairas), elles ont baissé, en dollars E-U On en déduit que leur montant devrait être relevé pour refléter avec plus de précision la valeur du bois, en dollars.
+Les redevances VBA varient en fonction des espèces et de la qualité du bois (voir Tableau 7 et Tableau 8). Les bois de première catégorie , tels que Afzelia spp, le Teck (Tectona grandis) et Cordeia, sont assujettis à des redevances élevées, alors que Triplochiton, Gmelina et Diospyros se vendent à plus bas prix dans tous les Etats. Le montant des redevances varie aussi d'un Etat à l'autre pour une même espèce. Par exemple, la redevance afférente au Teck atteint 70 N par pied cube dans les Etats d'Ekiti et de Taraba, contre à peine 1, 50 N par pied cube dans l'Etat de Kogi. La redevance applicable au Triplochiton atteint 56 N par pied cube dans l'Etat de Taraba, mais tombe à 3, 50 N par pied cube dans l'Etat de Kogi. Même à l'intérieur d'un même Etat, les redevances varient d'une espèce à l'autre ; ainsi l'Etat d'Ondo prélève une redevance différente pour chaque principal groupe d'espèces, dans une fourchette allant de 19 N par pied cube pour Diospyros, à 68 N par pied
+cube pour le Teck (voir Tableau 9 et Tableau 10).
+Tableau 7 Evolution des redevances basées sur le volume bois abattu (VBA), par catégorie d'espèce, 1962 - 2000 (en Nairas par pied cube)
+
+Années
+Espèce catégorie I
+Espèce catégorie II
+Espèce catégorie III
+1962
+2.08
+1.73
+0.55
+1969
+2.54
+1.77
+0.35
+1974
+2.50
+2.77
+0.69
+1979
+14.00
+14.00
+5.60
+1988
+78.50
+44.00
+33.66
+1993
+82.00
+52.00
+40.00
+2000
+94.50
+65.60
+51.70
+Sources : FORMECU, 1993) et enquête de terrain.
+Tableau 8 Evolution des redevances basées sur le volume bois abattu (VBA), par catégorie d'espèce, 1962 - 2000 (en dollars E-U par pied cube)
+
+Années
+Espèce catégorie I
+Espèce catégorie II
+Espèce catégorie III
+1962
+1.04
+0.87
+0.18
+1969
+1.27
+1.39
+0.15
+1974
+1.32
+1.46
+0.36
+1979
+7.65
+7.65
+3.06
+1988
+15.70
+8.80
+6.73
+1993
+2.73
+1.73
+1.33
+2000
+0.84
+0.58
+0.46
+Sources: FORMECU (1993) et enquête de terrain
+Tableau 9 Redevances basées sur le volume bois abattu (VBA), par espèce et par Etat, en 2000 (en Nairas par pied cube)
+
+Etat
+Teck
+Gmelina
+Khaya
+Triplochiton
+Diospyros
+Cordeia
+Afzelia
+M excelsa
+Ondo
+68.00
+26.00
+40.00
+38.00
+19.00
+50.00
+28.00
+38.00
+Ekiti
+70.00
+30.00
+40.00
+40.00
+30.00
+55.00
+30.00
+40.00
+Kogi
+1.50
+2.00
+4.50
+3.50
+1.50
+-
+4.50
+4.50
+Osun
+-
+-
+-
+15.00
+15.00
+15.00
+15.00
+15.00
+Taraba
+70.00
+42.00
+56.00
+56.00
+56.00
+70.00
+70.00
+70.00
+Ogun
+-
+-
+25.00
+45.00
+-
+25.00
+60.00
+40.00
+Source: données de terrain.
+Tableau 10 Redevances basées sur le volume bois abattu (VBA), par espèce et par Etat, en 2000 (en dollars E-U par pied cube)
+
+Etat
+Teck
+Gmelina
+Khaya
+Triplochiton
+Diospyros
+Cordeia
+Afzelia
+M excelsa
+Ondo
+0.60
+0.23
+0.35
+0.34
+0.17
+0.44
+0.25
+0.37
+Ekiti
+0.62
+0.27
+0.35
+0.35
+0.27
+0.49
+0.27
+0.35
+Kogi
+0.01
+0.02
+0.04
+0.031
+0.01
+-
+0.04
+0.04
+Osun
+-
+-
+-
+0.13
+0.13
+0.13
+0.13
+0.13
+Taraba
+0.62
+0.37
+0.50
+0.50
+0.50
+0.62
+0.62
+0.62
+Ogun
+-
+-
+0.22
+0.40
+-
+0.22
+0.53
+0.35
+Source : données de terrain
+Redevances par unité de surface
+Les redevances par unité de surface sont couramment appliquées dans les forêts de haute futaie des Etats d'Ogun, Ondo, Edo, Ekiti et de Delta. Pour déterminer les barèmes des redevances sur la base de la surface, on classe les forêts dans différentes zones en fonction de leur richesse définie par la composition spécifique, la densité de peuplement, la proximité des marchés ou de ports et la nature du terrain (Obaseki, 1970). Un taux forfaitaire par hectare coupé est imputé à chaque zone. Ces taux peuvent être dérivés du volume moyen de bois abattu par hectare au cours des années précédentes (Mervart, 1972).
+Dans l'Etat d'Oyo, les réserves forestières sont classées dans deux zones : la Zone 1, à forêts riches, comprend les réserves de Shasha, Ago-Owu et Ipetu-Ikeji, et a des redevances de 600 N par hectare ; les autres réserves forestières sont classées dans la Zone 2, à forêts pauvres et à redevances beaucoup plus basses, s'échelonnant entre 250 N et 350 N par hectare. Dans l'Etat d'Ondo, les réserves forestières sont classées en fonction du rendement et les redevances par unité de surface varient dans une fourchette de 220 N à 420 N par hectare. Ces montants s'ajoutent aux versements destinés à couvrir les coûts du reboisement (prélèvement pour le reboisement), fixés à 30 N par hectare.
+Cette méthode de vente permet d'obtenir des recettes plus élevées et de réduire l'incidence de la fraude, mais elle exige des informations fiables sur la gestion et une main d'oeuvre efficace.
+Tableau 11 Evolution des redevances par unité de surface (hectare) dans les réserves forestières de l'Etat d'Ekiti
+
+Réserve forestière
+Année
+1996
+1997
+1998
+1999
+2000
+Naira
+$EU
+Naira
+$EU
+Naira
+$EU
+Naira
+$EU
+Naira
+$EU
+Ikere
+2,500
+30.30
+2,500
+29.76
+3,500
+38.89
+3,700
+35.24
+3,700
+32.74
+Ogbese
+2,500
+30.30
+2,500
+29.76
+3,500
+38.89
+3,700
+35.24
+3,700
+32.74
+Ogotun
+2,500
+30.30
+2,500
+29.76
+3,500
+38.89
+3,800
+36.19
+3,800
+33.28
+Ise
+2,500
+30.30
+2,500
+29.76
+4,000
+44.44
+4,200
+40.00
+4,200
+37.17
+Aramoko
+2,500
+30.30
+2,500
+29.76
+3,500
+38.89
+3,700
+35.24
+3,700
+32.74
+Little Ose
+2,500
+30.30
+2,500
+29.76
+3,500
+38.89
+3,700
+35.24
+3,700
+32.74
+Source: Données de terrain.
+Les redevances basées sur l'unité de surface ont connu une augmentation régulière (Tableau 11). Par exemple, dans la réserve forestière d'Ikere, dans l'Etat d'Ekiti, la redevance a été relevée de 2 500 N à 3 500 N par hectare en 1998, puis à nouveau relevée à 3 700 N par hectare en 1999. De même, la redevance par unité de surface est passée de 2 500 N par hectare en 1996, à 4 200 N par hectare en 2000 dans la réserve forestière d'Ise. Comme le montre le Tableau 11, la redevance varie d'une réserve à l'autre dans un même Etat.
+Ce système a peu de succès dans les Etats richement boisés, comme celui de Cross River, qui préfèrent collecter des recettes sur la base du VBA et de la valeur du bois sur pied.
+Rente foncière
+Dans les Etats d'Ekiti et d'Ondo, des rentes foncières sont versées chaque année pour l'allocation des réserves forestières. Leur montant est fixé à 200 N par hectare et par an dans l'Etat d'Ekiti et à 150 N par hectare et par an dans l'Etat d'Ondo.
+Redevances sur la récolte du bois de feu
+Dans la plupart des Etats du Sud du Nigeria, le bois de feu des plantations urbaines ou à vocation énergétique se vend à des prix compris entre 40 et 50 N la corde (pile de bois de 1, 3 m x 1,3 m x 2,6 m). Le bois d'éclaircie des plantations se vend aussi à la corde. Toutefois, lorsque la récolte du bois de feu est autorisée dans des zones utilisées pour la production de perches et de bois d'oeuvre, la redevance à payer est ordinairement basée sur le temps (par exemple 120 N par mois dans l'Etat d'Oyo). Il s'agit d'un montant forfaitaire, qui ne tient compte ni de la quantité ni de la qualité de bois prélevé, ni de la valeur marchande du bois de feu.
+A Benue, la redevance est de 100 N par camion de bois de feu, alors qu'à Kwara elle est fixée à 1 500 N par camion, 500 N par corde et 100 N par fagot.
+Le ramassage des branches, des brindilles et des grumes laissées en place après la coupe, contribue à prévenir les incendies, et à réduire leur intensité et leur impact. Récolter des débris forestiers pour en faire du bois de feu est donc une bonne pratique d'aménagement forestier.
+
+Taxes des industries et des entreprises
+Prélèvement spécial pour le développement
+Le prélèvement spécial pour le développement, également appelé prélèvement pour le fonds de boisement ou prélèvement pour le boisement, est une taxe fixe non remboursable à laquelle sont assujetties les grosses concessions. Cette taxe est une contribution des concessionnaires au développement des ressources forestières. Ces prélèvements ont d'abord été introduits dans le Sud-Ouest en 1968, et ultérieurement dans les Etats d'Edo et de Delta. La taxe est payée en une seule fois, ordinairement avant le début des opérations d'exploitation, sous forme de rente foncière ou de redevance.
+La taxe se monte actuellement à 800 N par hectare dans l'Etat d'Ekiti et à 650 N par hectare dans l'Etat d'Ondo, et est prélevée pour l'attribution d'une concession dans une réserve forestière. Dans les Etats d'Edo et de Delta, le prélèvement spécial pour le développement est de 500 N par compartiment.
+Cette taxe s'ajoute aux éventuels droits de dossier. Par exemple, dans l'Etat d'Ekiti, un droit de dossier non remboursable est facturé pour toute demande de concession forestière. Ce droit est de 20 000 N dans les réserves forestières et de 50 000 N dans les plantations de Teck et de Gmelina. Dans l'Etat d'Ondo, les droits de dossier sont de 20 000 N pour les réserves forestières, 30 000 N pour les plantations de Gmelina et 75 000 N pour les plantations de teck.
+Taxes d'enregistrement des industries et des machines
+Dans certains Etats du Nigeria, les propriétaires d'usines de transformation du bois sont tenus de payer une taxe avant de mettre leur usine en service, plus une taxe de renouvellement annuelle. Les principaux types d'industries concernés sont les scieries de toutes tailles ; les usines de panneaux dérivés du bois ; les fabriques d'allumettes et de cure-dents. Dans l'Etat de Lagos, par exemple, le propriétaire d'une scierie de taille moyenne doit payer une taxe d'enregistrement de 50 000 N, et une taxe de renouvellement annuelle de 5 000 N, contre 65 000 N et 20 000 N pour une scierie de même taille, dans l'Etat d'Ondo.
+Tableau 12 Taxes des industries et des entreprises dans certains Etats du Nigeria, en 2000 (en Nairas)
+
+Type d'industrie/entreprise
+Etat
+Ekiti
+Ondo
+Osun
+Ogun
+Lagos
+Petite scierie (Enr.)
+Petite scierie (Ren)
+Frais de dossier
+30,000
+7,000
+20,000
+30,000
+10,000
+20,000
+25,000
+15,000
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+Scierie moyenne (Enr)
+Scierie moyenne (Ren)
+Frais de dossier
+65,000
+20,000
+20,000
+65,000
+20,000
+20,000
+n.d.
+n.d.
+n.d.
+50,000
+10,000
+n.d.
+50,000
+5,000
+n.d.
+Grande scierie (Enr)
+Grande scierie (Ren)
+Frais de dossier
+100,000
+40,000
+20,000
+100,000
+40,000
+20,000
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+Dégauchisseuse (Enr)
+Dégauchisseuse (Ren)
+20,000
+10,000
+20,000
+10,000
+1,200
+600
+n.d.
+n.d.
+5,000
+750
+Multilames (Enr)
+Multilames (Ren)
+25,000
+12,500
+25,000
+12,500
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+Fabrique de contre-plaqués ou placages (Enr)
+Fabrique de contre-plaqués ou placages (Ren)
+100,000
+50,000
+100,000
+50,000
+n.d.
+n.d.
+n.d.
+n.d.
+50,000
+35,000
+Fabrique de panneaux de fibres (Enr)
+Fabrique de panneaux de fibres (Ren)
+100,000
+50,000
+100,000
+50,000
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+Fabrique d'agglomérés (Enr)
+Fabrique d'agglomérés (Ren)
+100,000
+50,000
+100,000
+50,000
+n.d.
+n.d
+n.d.
+n.d.
+50,000
+35,000
+Scie circulaire de recoupe (Enr.)
+Scie circulaire de recoupe (Ren)
+10,000
+5,000
+10,000
+5,000
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+Tronçonneuse (Enr.)
+Tronçonneuse (Ren)
+10,000
+3,000
+10,000
+4,000
+1,000
+500
+1,000
+1,000
+500
+250
+Usine de pâtes et papiers (Enr)
+Usine de pâtes et papiers (Ren)
+n.d
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+50,000
+35,000
+Fabrique d'allumettes (Enr)
+Fabrique d'allumettes (Ren)
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+10,000
+5,000
+Entrepôt (Enr)
+Entrepôt (Ren)
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+100,000
+50,000
+Four de séchage (enr)
+Four de séchage (Ren)
+n.d.
+n.d.
+20,000
+10,000
+n.d.
+n.d.
+n.d.
+n.d.
+20,000
+10,000
+Usine de traitement du bois (Enr)
+Usine de traitement du bois (Ren)
+10,000
+5,000
+15,000
+7,500
+n.d.
+n.d.
+n.d.
+n.d.
+20,000
+15,000
+Marteau de martelage individuel (Enr)
+Marteau de martelage individuel (Ren)
+12,500
+7,500
+15,000
+7,500
+8,500
+5,000
+30,000
+10,000
+5,000
+1,000
+Marteau.des concessions (Enr)
+Marteau des concessions (Ren)
+Frais de dossier
+30,000
+10,000
+n.d.
+30,000
+10,000
+5,000
+20,000
+6,500
+1,500
+30,000
+10,000
+n.d.
+n.d.
+n.d.
+n.d.
+Scie circulaire <40cm (Enr)
+Scie circulaire <40cm (Ren)
+100,000
+50,000
+n.d.
+n.d.
+500
+100
+n.d.
+n.d.
+2,500
+500
+Scie circulaire >40cm (Enr)
+Scie circulaire >40cm (Ren)
+n.d.
+n.d.
+n.d.
+n.d.
+1,000
+500
+n.d.
+n.d.
+50,000
+35,000
+Grosse industrie du meuble (Enr)
+Grosse industrie du meuble(Ren)
+n.d.
+n.d.
+n.d.
+n.d.
+5,000
+2,500
+n.d.
+n.d.
+25,000
+15,000
+Moyenne industrie du meuble (Enr)
+Moyenne industrie du meuble (Ren)
+n.d.
+n.d.
+n.d.
+n.d.
+2,500
+1,250
+n.d.
+n.d.
+25,000
+15,000
+Petite industrie du meuble (Enr)
+Petite industrie du meuble (Ren)
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+15,000
+10,000
+Fabrique de cure-dents (Enr)
+Fabrique de cure-dents (Ren)
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+35,000
+15,000
+Réimplantation de machines
+n.d..
+n.d
+n.d.
+n.d.
+10% de la taxe initiale
+Notes: Enr= enregistrement; Ren = renouvellement. Source: données de terrain
+Des informations fournies par quelques Etats du Nigeria sont présentées au Tableau 12. On ne dispose de renseignements sur l'évolution de ces taxes au fil du temps que pour quelques Etats et quelques articles. Par exemple, les taxes d'enregistrement des grosses scieries dans l'Etat d'Ekiti sont passées de 80 000 N en 1996 à 100 000 N en 2000, alors que la taxe de renouvellement est restée inchangée. Les taxes d'enregistrement de certaines autres machines et entreprises comme les dégauchisseuses, les multilames et les fabriques d'agglomérés, sont également restées stables pendant cette période.
+Taxes d'enregistrement des marteaux de martelage
+Les Etats d'Osun, Oyo, Ondo, Ogun, Lagos et Ekiti prélèvent des frais de dossier pour l'enregistrement et le renouvellement des marteaux de martelage individuels (voir Tableau 12). Pour les particuliers, les droits d'enregistrement se montent respectivement à 12 500 N, 15 000 N et 8 500 N dans les Etats d'Ekiti, Ondo et Osun, alors que les taxes de renouvellement se montent respectivement à 7 500 N, 7 500 N et 5000 N. Les concessionnaires, payent jusqu'à 30 000 N dans certains Etats, avec une taxe de renouvellement annuelle d'environ 10 000 N.
+Taxe d'enregistrement des entrepreneurs forestiers
+Au début de chaque année (ou à tout autre moment suivant les besoins), toute personne souhaitant opérer dans le secteur est tenue de s'enregistrer, comme entrepreneur forestier. Les enregistrements effectués au cours d'une année expirent à la fin de l'exercice (31 décembre), et doivent être renouvelés pour l'année suivante, à défaut de quoi l'entrepreneur perd son droit d'exercer sa profession.
+A titre d'exemple, la taxe d'enregistrement est de 5 000 N dans l'Etat de Kwara, alors que la taxe de renouvellement annuelle est de 2000 N.
+
+Redevances sur les produits non ligneux et mineurs et les services procurés par les forêts
+Les recettes provenant des produits forestiers non ligneux et mineurs sont le plus souvent réalisées à travers la délivrance de permis de prélèvement ou de récolte. Les permis de récolte concernent le bois de feu, les fruits, les semences, les feuilles, les perches, les résines, le latex et le miel. Le Tableau 13 présente les droits de permis de prélèvement ou de récolte de divers articles, dans différents Etats du Nigeria, en 2000.
+La périodicité des révisions de ces redevances varie d'un Etat à l'autre. Par exemple, dans l'Etat d'Ekiti, les redevances afférentes à la récolte des feuilles et des fruits et au prélèvement du sable, ont été révisées une fois au cours des cinq années écoulées (voir Tableau 14). Toutefois, dans certains Etats (ex : Oyo et Taraba), les redevances applicables à ces produits non ligneux ou mineurs sont restées inchangées depuis dix ans. A Taraba en particulier, les redevances annuelles afférentes à la récolte des feuilles, au tirage du vin, à la récolte des lianes et à la cueillette des fruits sont restées à 600 N, 2 400 N, 5 000 N et 150 N respectivement, depuis 1991. Ceci montre que les gouvernements des Etats accordent moins d'importance à ces produits, pourtant disponibles en abondance.
+Tableau 13 Redevances afférentes aux produits forestiers mineurs, dans certains Etats du Nigeria, en 2000
+
+Articles
+Etat
+Kwara
+Osun
+Ogun
+Ondo
+Ekiti
+Kogi
+Taraba
+Benue
+Sable, gravier etc...
+1,000
+n.d.
+n.d.
+4,800/p/sem
+3,500/p/sem
+10/camion
+n.d.
+100/camion
+Feuilles
+100/m
+500/p/m
+n.d.
+2,500/p/sem
+2,500/p/sem
+30/m
+600/p/an
+n.d.
+Lianes
+n.d..
+n.d..
+n.d.
+250/p/sem
+300/p/sem
+n.d.
+5,000/p/an
+n.d.
+Bâton à mâcher
+50/m
+n.d.
+250/p/sem
+320/p/sem
+300/p/sem
+15/m
+2,400/p/an
+n.d.
+Fruits
+100/m
+200/p/m
+n.d.
+1,875/p/sem
+1,200/p/sem
+20/m
+150/p/an
+n.d.
+Chaume
+n.d.
+n.d.
+n.d.
+70/p/sem
+100/p/sem
+n.d.
+n.d
+n.d.
+Bois de feu
+500/cordee
+1,000/m
+n.d.
+1,875/p/sem
+1,200/cordee
+40/cordee
+n.d.
+720/cordee
+Chasse
+n.d.
+n.d.
+2,500/p/sem
+500/p/sem
+2,500/p/sem
+300
+n.d.
+n.d.
+Permis de résidence (Partic)
+10,000
+n.d.
+3000
+n.d.
+n.d.
+200
+n.d.
+n.d.
+Permis de résidence (Soc.)
+20,000
+n.d.
+n.d.
+n.d.
+n.d.
+1,500
+n.d.
+n.d.
+Perches (Teck)
+1500
+n.d.
+n.d.
+1,500
+n.d.
+750
+n.d.
+500
+Taungya
+n.d.
+250/ha/yr
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+2,400/p/an
+Miel
+n.d.
+n.d.
+T/bâton
+n.d.
+n.d.
+n.d.
+n.d.
+1,000/p/an
+Tirage du vin
+200/m
+n.d.
+n.d.
+250/p/sem
+250/p/sem
+30/m
+2,400/p/an
+2,400/p/an
+Trophées
+50/m
+n.d.
+n.d.
+n.d.
+n.d.
+5/m
+n.d.
+2,000/p/an
+Notes: m = mois; p = personne; sem = semaine. Source : données de terrain.
+Tableau 14 Evolution des redevances afférentes à quelques produits forestiers mineurs, dans l'Etat d'Ekiti - 1996-2000
+
+Produit
+Année
+1996
+1997
+1998
+1999
+2000
+Sable
+2,500/p/sem
+2,500/p/sem
+3,500/p/sem
+3,500/p/sem
+3,500/p/sem
+Feuilles
+2,000/p/sem
+2,000/p/sem
+2,500/p/sem
+2,500/p/sem
+2,500/p/sem
+Fruits
+250/p/sem
+250/p/sem
+1,200/p/sem
+1,200/p/sem
+1,200/p/sem
+Notes: p = personne ; sem = semaine. Source: Données de terrain.
+On note aussi que dans certains Etats (ex : Edo, Kwara et Osun), les personnes physiques et morales qui en font la demande peuvent occuper une réserve forestière pour des activités récréatives, à condition de payer des droits de permis allant de 300 N par an (pour les particuliers) à 20 000 N par an (pour les sociétés) et de ne pas endommager la forêt.
+L'Etat de Taraba est celui qui a la plus vaste gamme de produits forestiers mineurs (environ 25) pour lesquels le gouvernement délivre des permis et perçoit des recettes (Tableau 15). Le
+commerce de ces produits est également taxé (Tableau 16). Tous, ou presque, sont disponibles dans d'autres Etats du pays, mais on ne leur accorde guère d'attention, sauf dans l'Etat de Cross River, qui suit de près l'Etat de Taraba, et tire lui aussi profit des produits forestiers mineurs pour accroître ses recettes forestières.
+
+Sanctions légales
+
+Amendes
+Les amendes sont des sommes versées à l'Etat en cas d'infractions aux lois et aux règlements forestiers. Dans l'Etat d'Ekiti, le renouvellement tardif de l'enregistrement d'un marteau de martelage individuel (après le 31 mars) est passible d'une majoration de 25 pour cent de la taxe de renouvellement. Le déplacement d'une scierie sans autorisation est passible d'une amende égale au double de la taxe de réimplantation. En cas de non-enregistrement des intrants et des extrants, l'amende est de 2000 N pour la première infraction, 5000 N pour la deuxième infraction, et de 10 000 N pour la troisième infraction.
+Tableau 15 Droits de permis relatifs aux produits forestiers mineurs, dans l'Etat de Taraba, en l'an 2000 (en Nairas)
+
+Type de permis
+Droit
+Permis de ramasser du bois de feu
+50.00 personne/mois
+Redevance de production, par corde de bois de feu (1 m x 1 m x 2 m)
+200.00 personne/mois
+Permis de vendre le bois de feu
+150.00 personne/mois
+Permis d'emporter le bois de feu à bicyclette/à dos d'âne
+50.00 personne/mois
+Permis d'emporter du bois de feu (sur la tête)
+10.00 personne/mois
+Permis d'emporter du bois de feu en voiture
+150.00/voyage
+Permis de ramasser des branches
+50.00 personne/mois
+Permis de ramasser des perches de moins de 25 m
+70.00 personne/mois
+Permis de récolter les tiges de raphia
+50.00 personne/mois
+Permis de récolter le bambou
+50.00 personne/mois
+Permis de tirer du vin de palme
+200.00 personne/mois
+Permis de récolter les feuilles de Phoenix
+50.00 personne/mois
+Permis de récolter le miel
+50.00 personne/mois
+Permis de ramasser du bois à charbon
+70.00 personne/mois
+Permis de fabriquer des nattes de Zana
+50.00 personne/mois
+Permis de récolter le Zana
+50.00 personne/mois
+Permis de récolter diverses feuilles
+50.00 personne/mois
+Permis de récolter le Muruchi
+30.00 personne/mois
+Permis de cueillir les fruits du Termarindus indica
+50.00 personne/mois
+Permis de récolter les graines de Parkia clappertoniana
+100.00 personne/mois
+Permis de cueillir le fruit du Butyrospermum
+50.00 personne/mois
+Permis de tirer du caoutchouc du ficus et d'autres arbres
+50.00 personne/mois
+Permis de tirer de la gomme de l Acacia spp
+50.00 personne/mois
+Permis de fabriquer des pilons et mortiers
+As per Stump fee
+Permis de fabriquer des ardoises scolaires
+10.00 personne/mois
+Source: données de terrain.
+Dans l'Etat d'Ondo, les véhicules qui quittent l'Etat sans être en possession du reçu attestant le paiement du droit au point de chargement dans la scierie, s'exposent à devoir payer le double de la taxe applicable à la taille du véhicule. Le propriétaire de la scierie en faute doit aussi payer le double de la taxe due. La coupe d'arbres de taille inférieure à la circonférence minimale est passible d'une amende de 5 000 N par arbre. En cas de blessures d'arbres commerciaux à hauteur de souche (si autorisées), le droit de permis est majoré de 1000 N par arbre. En cas d'infraction à ce règlement, l'amende est de 10 000 N par arbre (même sanction dans l'Etat d'Ekiti). La coupe de peuplements de teck ou de Gmelina hauts de moins de 12 pieds entraîne un droit additionnel de 100 N par billon. En cas de violation à cette règle, l'amende est de 10 000 N par camion et de 25 000 N par remorque.
+Les infractions aux règles d'habillage des grumes, par exemple les défauts d'inscription, de marquage à la peinture, ou au marteau (illisible), et la mesure inexacte des grumes, sont sanctionnées par une amende de 500 N par grume dans les Etats d'Ondo et d'Ekiti. En cas de non présentation d'un certificat à la demande, l'amende est de 500 N par grume.
+L'Etat d'Osun, sanctionne par des amendes les infractions indiquées ci-dessous:
++ Transport de grumes non marquées, quel que soit le type de camion : 50 000 N;
++ Transport de grumes sans les papiers requis : 25 000 N ;
++ Transport de grumes en dehors de la date ou de l'horaire stipulé sur le permis de transport : 25 000 N par camion ;
++ Sciage nocturne des grumes : 25 000 N par scierie.
+
+Vente aux enchères de bois
+
+Des ventes aux enchères (appel d'offre oral ouvert) sont organisées pour les grumes qui ont été récoltées illégalement et ne sont pas réclamées. La vente aux enchères est soumise à l'autorisation préalable du tribunal et la loi autorise à déduire les frais de vente des recettes avant de payer le solde au Trésor public.
+
+Dans le prix de réserve du bois qui va être vendu aux enchères, les organisateurs de la vente incluent les frais (abattage et autres) qu'aurait dû payer l'exploitant qui a commis l'infraction. Le prix de vente final reflète la valeur réelle des grumes, car les soumissionnaires offrent librement les prix qu'ils sont disposés à payer.
+
+Comme l'acheteur paie le bois à sa valeur réelle, il s'efforce en général d'éviter le gaspillage. Cette méthode de vente encourage donc une utilisation maximale du bois. En outre, les ventes aux enchères de bois permettent au public de s'informer sur les cours du marché et, si les prix sont intéressants, le secteur privé peut être incité à planter des arbres.
+
+
+Taxes prélevées sur le commerce des produits forestiers
+
+Taxes sur le commerce intérieur du bois et de ses dérivés
+
+En ce qui concerne le commerce intérieur des produits forestiers, les principales sources de recettes publiques sont les taxes prélevées sur le transport du bois d'un Etat à l'autre du pays. Un certain nombre d'Etats collectent des taxes sur le bois transporté vers d'autres Etats, notamment :
+
+Etat d'Ondo. Dans cet Etat, pour les camions de 0 à 10 tonnes, le droit est de 50 N par grume prélevé légalement qui franchit la frontière vers un autre Etat. Pour les poids lourds de plus de 10 tonnes, la taxe est de 100 N par madrier et par bille de sciage.
+
+Etat d'Oyo. La taxe est de 50 N par grume sortant de l'Etat. La taxe sur les madriers va de 25 N à 50 N la pièce, suivant la capacité du véhicule.
+
+Etat d'Osun. Le transport de grumes hors de l'Etat d'Osun est interdit, mais une taxe de 25 N à 50 N la pièce est prélevée sur les sciages transportés hors de l'Etat.
+
+Etat d'Ogun. Les taxes sur le transport vers d'autres Etats sont les suivantes. 100 N par perche ; 1 500 N par remorque de madriers ; 500 N par camion de madriers ; et 150 N par chargement de 10 tonnes de madriers.
+
+Etats de Lagos. Les taxes sur le transport vers d'autres Etats sont les suivantes : 1 000 N par camions de planches ; 2 500 N par remorque de planches ; 500 N par camion de billons ; et 1 000 N par remorque de billons. Les taxes sur le bois de feu sont de 250 N par camion et de 500 N par remorque.
+
+Etat d'Ekiti. Dans l'Etat d'Ekiti, la taxe à payer pour le transport vers d'autres Etats est de 1 000 N pour les grumes de moins de 12 pieds de long, et de 2 000 N pour les grumes de plus de 12 pieds. Pour les madriers, la taxe est de 1 000 N par camion de 10 tonnes, et de 3 000 N par remorque.
+
+Etat de Taraba. Dans l'Etat de Taraba, les taxes à payer pour le transport de sciages vers d'autres Etats sont les suivantes :
+
+2" x 2" x 12'
+
+-
+
+50 N
+
+2" x 3" x 12'
+
+-
+
+80 N
+
+2" x 4" x 12'
+
+-
+
+100 N
+
+2" x 6" x 12'
+
+-
+
+140 N
+
+1" x 12" x 12'
+
+-
+
+350 N
+
+Taxes sur le commerce intérieur des produits forestiers non ligneux et mineurs
+
+D'une manière générale, les Etats du Nigeria ne perçoivent aucune taxe sur le commerce des produits forestiers non ligneux et mineurs. La seule exception significative est l'Etat de Taraba. Outre les redevances sur la récolte de certains produits forestiers non ligneux et mineurs, cet l'Etat perçoit en effet aussi des recettes sur le commerce de ces produits. Les produits visés sont les suivants : lattes de rônier, vin de palme, feuilles de phoenix, miel, charbon de bois et fruits. Comme ces produits sont extrêmement nombreux, ils pourraient constituer une excellente source de revenus pour le gouvernement.
+
+Tableau 16 Variation des taxes sur le commerce intérieur des produits forestiers non ligneux et mineurs, dans l'Etat de Taraba, en 1993 et en 2000 (taxes par personne et par mois)
+
+Produit
+
+Année
+
+Variation totale
+
+1993 - 2000
+
+1993
+
+2000
+
+Nairas
+
+Dollars E- U
+
+Nairas
+
+Dollars E- U
+
+Nairas
+
+Dollars E- U
+
+Lattes de rônier
+
+100
+
+4.36
+
+250
+
+2.15
+
++150
+
+-2.21
+
+Vin de palme
+
+100
+
+4.36
+
+250
+
+2.15
+
++150
+
+-2.21
+
+Feuilles de phoenix
+
+50
+
+2.18
+
+70
+
+0.58
+
++20
+
+-1.60
+
+Miel
+
+25
+
+1.09
+
+100
+
+0.85
+
++75
+
+-0.24
+
+Charbon de bois
+
+30
+
+1.30
+
+100
+
+0.85
+
++70
+
+-0.45
+
+Nattes de Zana
+
+50
+
+2.18
+
+50
+
+0.43
+
+0
+
+-1.75
+
+Fruits du Termarindus
+
+50
+
+2.18
+
+50
+
+0.43
+
+0
+
+-1.75
+
+Fruits du Parkia
+
+100
+
+4.36
+
+100
+
+0.85
+
+0
+
+-3.51
+
+Fruits du Butyrospermum
+
+20
+
+0.87
+
+70
+
+0.58
+
++50
+
+-0.29
+
+Hévéa
+
+50
+
+2.18
+
+100
+
+0.85
+
++50
+
+-1.33
+
+Gomme arabique
+
+100
+
+4.36
+
+150
+
+1.25
+
++50
+
+-3.11
+
+Source: données de terrain.
+
+Dans l'Etat de Taraba, les taxes sur le commerce intérieur des produits forestiers non ligneux et mineurs prennent la forme d'un prélèvement mensuel sur les recettes du négociant. Ces taxes sont dues que ces produits soient vendus à l'extérieur de l'Etat ou non. Le tableau 16 indique des taxes perçues en 1993 et en 2000.
+
+Le tableau montre qu'en 7 ans, les taxes sur le commerce de ces produits ont considérablement augmenté, puisque la hausse a atteint 150 pour cent pour les lattes de rônier et le vin de palme et 400 pour cent pour le miel. Toutefois, on note qu'alors que pour la majorité des produits, les taxes ont augmenté, en monnaie locale (Nairas) au cours de la période, elles ont carrément baissé, si elles sont exprimées en dollars E-U Ceci montre qu'il est nécessaire de les relever pour refléter leur valeur réelle et tenir compte de l'effondrement du cours du Naira au cours des dernières années.
+
+Taxes sur le commerce international
+
+Le Nigeria exporte depuis longtemps du bois et des produits dérivés, (principalement bois rond) vers le Royaume-Uni, les Etats-Unis d'Amérique, l'Allemagne, l'Italie, la Belgique, la Norvège, l'Espagne, le Niger, le Ghana et la Gambie. La Figure 4 illustre l' évolution des exportations du Nigeria, en volume et en valeur.
+
+Figure 4 Evolution des exportations nigérianes de billes de sciages et de sciages, de 1961 à 1999
+
+
+Source: FAO.
+
+Les exportations de billes ont été élevées dans les années 60, avec un pic de 773 mille mètres cubes en 1964, pour une valeur de 18 millions de dollars E-U En 1970, le secteur forestier a contribué pour environ 2,5 pour cent au Produit intérieur brut du Nigeria (PIB), et les exportations de bois et de produits dérivés représentaient environ 1 pour cent des recettes totales en devises (Okorie et al., 1981). Selon Adeyoju (1975), en 1966, le Nigeria était le deuxième des sept premiers producteurs de bois tropicaux d'Afrique, tant pour le volume total de grumes produites et exportées que pour le pourcentage de bois transformé, par rapport à la production de grumes.
+
+Toutefois, l'avènement du commerce de pétrole s'est traduit par un déclin des exportations de bois d'oeuvre au cours des années suivantes. Umeh (1981) a observé que, bien que la production de bois rond industriel ait doublé entre 1962 et 1971, la valeur des exportations de grumes, de bois de construction et de contre-plaqué est tombée de 13, 8 millions de N à 6, 8 millions de N. Or, au cours de la même période, la valeur des importations de produits forestiers passait de 12,4 millions de N à 31,8 millions de N, ce qui montre que le Nigeria était devenu importateur net de produits forestiers.
+
+En 1976, le gouvernement a prohibé l'exportation de grumes non transformées pour garantir l'offre de bois rond sur le marché local, qui se développait rapidement en raison de hausses du pouvoir d'achat local et d'une expansion de l'industrie du bâtiment. Ceci explique la réduction des exportations que l'on note à la Figure 4.
+
+En 1985, une nouvelle interdiction frappait toutes les exportations de bois (transformé ou non), à l'exclusion des éléments de meuble et du bois de Gmelina. Toutefois, au début des années 90, les prélèvements et les exportations de tecks ont connu une brusque poussée. Une grande partie de ces échanges n'ont pas été contrôlés comme il convient, de sorte qu'il est difficile d'évaluer avec précision les volumes produits et exportés.
+
+Les taxes sur les exportations de bois sont recouvrées au port d'expédition, par le Département des douanes du Gouvernement fédéral du Nigeria. La taxe varie suivant l'espèce et le Gouvernement fédéral en reverse ordinairement la moitié à l'Etat de provenance. Seules les anciennes régions de l'Ouest et du Centre-Ouest ont bénéficié de cette source de revenus.
+
+
+Etude des variations des taxes forestières
+
+Les variations des taxes forestières d'un Etat à l'autre illustrées par les figures et les tableaux qui précèdent, dérivent principalement de deux facteurs.
+
+Premièrement, les taxes diffèrent parce que les forêts sont gérées par les services forestiers des gouvernements autonomes des Etats (ou des administrations locales, dans les Etats du Nord-Est). Chaque organe responsable de l'aménagement est libre de déterminer le niveau et la structure des taxes forestières et peut les modifier comme il l'entend au fil du temps. Ceci explique les écarts considérables entre les taxes appliquées à certaines espèces. Par exemple, le montant du droit de coupe applicable à Mansonia altissima a été fixé à des niveaux très différents suivants les Etats : 225 N à Kogi, 500 N à Ogun, 750 N à Ondo, 300 N à Lagos et 1 000 N à Ekiti. De même, l'espèce Alstonia spp est assujettie à des droits de coupe de 150 N dans l'Etat d'Ogun ; 200 N à Ondo, 250 N à Lagos, 250 N à Kogi et 400 N à Kwara et Ekiti.
+
+Un droit de coupe uniforme est cependant appliqué sur tout le territoire d'un même Etat. Cette règle, qui vise à simplifier le travail administratif, fait abstraction du fait que les variations des facteurs physiologiques et des frais de transport devraient entraîner une variation géographique du droit de coupe afférent à une espèce, au sein d'un Etat. Le droit varie cependant un peu avec la taille. Par exemple, Mansonia n'est coupée que lorsque la circonférence minimale atteint 1,5 m à hauteur d'homme dans l'Etat de Lagos (où le droit de coupe est de 300 N), alors que dans l'Etat d'Ekiti, la même espèce est exploitable à une circonférence minimale à hauteur d'homme de 1,8 m.
+
+Les redevances sur le volume bois abattu (VBA) varient aussi suivant la qualité du bois. Par exemple, dans l'Etat d'Osun leur montant est basé sur la catégorie du bois. Les bois de catégorie I (qui comprennent Triplochiton, Mansonia et Afzelia spp) sont soumis à une redevance de 15 N par pied cube. Les bois de catégorie II comprennent : Pterygota, Lophira et Cylicodiscus, assujettis à une redevance de 10 N par pied cube, alors que pour d'autres essences moins connues, comme Celtis spp, la redevance n'est que de 6 N par pied cube.
+
+La deuxième raison qui explique les écarts entre les redevances fixées dans les différents Etats est la densité de peuplement, en particulier pour les espèces commerciales. Ainsi, les résultats des inventaires forestiers les plus récents constituent généralement les paramètres d'imposition des " redevances par unité de surface ". Par exemple, six des douze principales réserves forestières de l'Etat d'Ondo (à savoir Akure, Oluwa-OA2, Oluwa-OA3, Okeluse, Ipele et Idoani), constituent une zone où les concessionnaires payent une redevance de 4 000 N par hectare. Les réserves d'Onishere, Oluwa A-41, Ala, Irele et Ore font partie d'une autre zone, où la redevance est de 3 200 N par hectare. Akure-Ofosu et Idanre-OA5 forment une troisième zone, où la redevance est de 4 500 N par hectare.
+
+
+ADMINISTRATION DU REGIME FISCAL FORESTIER
+
+
+
+Procédure de détermination des taxes forestières
+
+Les services forestiers de nombreux Etats du Nigeria n'ont pas de mécanisme bien défini pour la détermination des taxes forestières. Les taxes sont fixées par des voies administratives et la périodicité des révisions n'est pas spécifiée. Toutefois, l'autorité compétente est le Conseil exécutif de l'Etat, qui reçoit des avis techniques des Départements des forêts. Selon Skoup (1987), la procédure est un peu différente pour les écosystèmes de savane du Nord, où les administrations locales sont habilitées pour toutes les questions ayant trait à la fiscalité forestière.
+
+Un exemple des dispositions légales sur lesquelles se fondent les régimes fiscaux forestiers des Etats est donné dans la section 53 du Règlement forestier de 1976 relatif à l'Etat de Bendel, dont on trouvera un extrait dans l'Encadré 1 ci-dessous.
+
+Encadré 1 Exemple du texte de loi sur lequel se fonde la détermination des taxes forestières au Nigeria
+
+
+Les taxes forestières ne sont pas mises à jour régulièrement. Les départements forestiers des Etats font fortement pression sur leurs gouvernements pour obtenir des relèvements périodiques des redevances, mais sans succès car les négociants en bois font pression en sens contraire et exhortent les gouvernements à refuser les révisions en hausse.
+
+Contrairement à ce qui se passe dans de nombreux autres secteurs d'activité, les informations sur les redevances forestières ne sont pas ouvertes au public, de même qu'elles ne sont pas diffusées dans les quotidiens ou par d'autres médias. Ces informations ne sont disponibles que dans les offices forestiers des divisions et tous les marchands des produits forestiers les connaissent parfaitement. La détermination des redevances forestières ne prévoit pratiquement aucune consultation.
+
+L'autorité compétente, désignée par la loi forestière, en matière de détermination des redevances, à savoir l'exécutif, est aussi chargée de leur mise en application. D'une manière générale, il n'existe pas de formule bien définie pour fixer ou calculer les redevances forestières, qui ne sont pas indexées en fonction de l'inflation.
+
+
+L'administration fiscale dans les forêts naturelles
+
+En raison de la dualité de la propriété des forêts naturelles (autorités locales et gouvernements des Etats), il incombe aux services forestiers des Etats de prendre les décisions quant au niveau et au type d'activités d'exploitation forestières à autoriser à l'intérieur et à l'extérieur des réserves forestières. Ils décident aussi de la superficie de terres forestières à réserver à des activités autres que la production de bois, telles que : activités récréatives, protection de la faune et de la flore sauvage, chasse, pâturage et exploitation minière. Toutefois, leurs décisions dépendent moins de la valeur des différentes activités ou des quantités de bois immédiatement disponibles que des pressions politiques.
+
+Dans de nombreux Etats, les services forestiers sont contraints de viser des objectifs de recettes incompatibles avec de bonnes pratiques d'aménagement forestier ou avec les intérêts des communautés. Les objectifs sont fixés de manière arbitraire, le plus souvent d'après les performances de l'année précédente. Lorsqu'un objectif ne peut pas être atteint au cours d'une année, il est réduit l'année suivante et vice versa. Par exemple, dans l'Etat de Cross River, l'objectif de recettes brut pour 1975/76 était de 698 000 N, mais le pourcentage de réalisation n'a été que de 12, 01 pour cent. L'objectif de l'année suivante a donc été abaissé à 580 000 N (Udo, 1982). Toutefois, en 1977/78 l'objectif a à nouveau été relevé à 605 000 N , mais le pourcentage de réalisation a été de 27, 4 pour cent, ce qui a conduit à rabaisser l'objectif à 590 000 N pour 1978/79. Cette année-là, le pourcentage de réalisation a été de 75, 54 pour cent de l'objectif, qui a à nouveau été relevé à 370 500
+pour 1979/80.
+
+Ces dernières années, la plupart des Etats situés dans la zone de hautes forêts ont cependant dépassé leurs objectifs, grâce à l'exploitation extensive des plantations de tecks. Toutefois, dans des Etats comme Ondo, Ogun, Ekiti, Edo et Oyo depuis 1995, ces bonnes performances n'ont certes pas été obtenues grâce à une administration judicieuse, elles dérivent plutôt d'une exploitation débridée, par suite de la détermination arbitraire des objectifs et d'une course effrénée au revenu.
+
+L'assignation d'objectifs de recettes est une stratégie couramment employée au Nigeria, pour le recouvrement des taxes. Toutefois, ce n'est pas une méthode appropriée pour la production forestière, qui varie en fonction des conditions géographiques et écologiques, de l'âge d'exploitabilité ou des conditions d'exploitation.
+
+Durant la période coloniale, les conservateurs en chef des forêts (actuels Directeurs des services forestiers des Etats) étaient chargés de réviser et de publier les barèmes des redevances. Bien que cette loi d'habilitation soit toujours en vigueur dans la plupart des Etats, elle n'est plus appliquée qu'à Anambra et Enugu.
+
+Les redevances sur les produits forestiers non ligneux et mineurs, ou sur le bois et les autres services sont rarement basées sur des mesures précises et sur la valeur économique relative des produits disponibles dans chaque Etat. Les superviseurs administratifs et les percepteurs peuvent prétendre qu'ils ne sont pas au courant des différentes taxes applicables aux produits forestiers non ligneux. C'est du reste ce que font les fonctionnaires des services forestiers de l'Etat d'Edo, qui ne perçoit pratiquement aucune recette sur les taxes d'enregistrement des marteaux de martelage individuels, qui rapportent pourtant beaucoup d'argent dans les Etats d'Ondo, Ekiti et Ogun.
+
+
+
+Le recouvrement des redevances et son suivi
+
+Les méthodes employées pour évaluer les redevances forestières sont aussi très variables suivant les Etats du pays. La méthode adoptée dépend du produit et dans une certaine mesure aussi de l'écologie de la zone. La méthode basée sur le volume bois abattu (VBA) est privilégiée dans beaucoup d'Etats qui possèdent des forêts de haute futaie contenant de nombreuses essences commerciales de grande taille. Ce système, avec lequel les négociants en bois ne payent que le volume réel de bois prélevé dans la forêt, oblige à prendre des mesures et à calculer (par estimation) le volume de chaque grume prélevée. Sur la base du volume estimé, on calcule la valeur monétaire de chaque grume, conformément au barème approuvé par l'Etat.
+
+Dans les Etats d'Edo et de Delta, le système VBA est progressivement remplacé par les redevances par unité de surface. Ce système suppose de classer la forêt dans des zones, en fonction de sa richesse, qui est mesurée par les espèces qui la composent, la densité de peuplement, la proximité des marchés et la nature du terrain. Un taux fixe est assigné à chaque catégorie de surface ou de zone. Dans l'Etat d'Oyo, les réserves forestières sont simplement classées dans deux zones (forêt riche, forêt pauvre) pour la détermination de la redevance par unité de surface. Pour les zones de forêt riche, la redevance est de 600 N par hectare, contre 200 N pour les zones de forêts pauvres. La redevance par unité de surface, pourtant basée sur une évaluation subjective, semble avoir éliminé certains problèmes associés à la méthode VBA ; elle a notamment réduit les lenteurs administratives.
+
+L'Etat de Cross River et la plupart des autres Etats à forêts de haute futaie préfèrent avoir recours à la méthode des droits de coupe pour déterminer la valeur des redevances forestières. Contrairement au système VBA, qui couvre aussi bien les arbres des réserves forestières que ceux qui se trouvent à l'extérieur, la méthode des droits de coupe n'est appliquée que dans les zones libres, c'est-à-dire en dehors des réserves forestières.
+
+Les redevances sur les produits forestiers non ligneux sont aussi une source de recettes. Dans les Etats d'Ogun et d'Oyo, des permis sont délivrés chaque année à ceux qui cueillent des feuilles et qui chassent à l'intérieur des réserves forestières. Les départements forestiers des Etats emploient et forment un corps de cadres de rang intermédiaire, appelés gardes forestiers. Ils gravissent les échelons de la hiérarchie jusqu'au rang de gardes forestiers en chef, et reçoivent une formation aux techniques d'évaluation et de classement des produits forestiers. Les membres des communautés rurales connaissent encore mieux ces gardes en uniformes que leurs superviseurs en civil, car ils les voient souvent et savent qu'ils ont pour tâches d'inspecter les arbres et d'autoriser le prélèvement des grumes.
+
+Le système des redevances basées sur l'unité de surface est avantageux en ce sens que les versements sont effectués à l'avance, avant la coupe. Au contraire, les redevances VBA sont payées en différé et en espèces.
+
+On l'a déjà dit, le recouvrement des recettes forestières est décentralisé au Nigeria. Les recettes forestières sont perçues par :
+
+1. Des employés du Trésor dans les offices forestiers de zone sous administration locale, et au siège des services forestiers.
+2. Des fonctionnaires des forêts en uniforme (gardes forestiers et gardes chasse) dans les différentes zones forestières.
+
+Les utilisateurs doivent se faire délivrer des permis ou des licences payants par les offices forestiers, et présenter les reçus du Trésor correspondants, pour pouvoir accéder aux produits dans la forêt, où ils seront contrôlés par les fonctionnaires responsables des redevances forestières. De plus, les gardes forestiers recouvrent aussi certains types de redevances et de taxes, à des barrages routiers installés pour surveiller et contrôler la production de grumes. Les reçus correspondants sont remis aux utilisateurs en guise de lettres de voiture.
+
+Les droits de coupe, les redevances sur les produits forestiers non ligneux et les redevances basées sur le VBA sont recouvrées aussi bien au siège du service forestier que dans les offices forestiers de zone ou des administrations locales. Les taxes sur la vente des produits forestiers sont perçues au niveau des divisons. Chaque province a un office forestier de division dirigé par un fonctionnaire forestier de division ou de province, responsable de l'ensemble des activités forestières de sa division.
+
+Dans la majorité des Etats, un compte bancaire spécial est ouvert pour recevoir les recettes provenant de toutes les transactions forestières. Des récépissés du Trésor sont délivrés pour tous les versements, pour prouver que le négociant a payé ce qu'il devait et peut accéder aux produits. A la fin de chaque année, les montants inscrits sur les souches des carnets de reçus sont confrontés au montant effectivement versé sur le compte et envoyés au siège du service forestier.
+
+Dans certains Etats, les communautés locales sont associées au recouvrement des redevances. A Sokoto et à Kebbi, des permis autorisant la récolte du bois de feu sont délivrés par les chefs de district et de village pour le compte des administrations locales. Ces chefs traditionnels rendent compte chaque mois des recettes perçues. La plupart des communautés, notamment dans l'Etat d'Edo, se font payer des redevances avant l'abattage des arbres situés dans leurs fermes ou aux alentours de leurs villages. Les recettes ainsi dégagées ne vont pas au gouvernement, elles sont conservées par les communautés pour des activités de développement rural. Dans l'Etat de Cross River, la communauté d'Ekuri fait payer une redevance pour tout le bois prélevé dans la forêt. Cette méthode a été inaugurée par une Organisation non gouvernementale (ONG) dans le but de promouvoir et de maintenir l'aménagement durable des forêts. Toutefois, dans la plupart des Etats, les fonctionnaires du
+gouvernement recouvrent toutes les recettes forestières.
+
+Des contrôles sont effectués sur les routes pour s'assurer que le matériel prélevé a été payé. Des équipes se postent aussi à l'entrée des scieries pour vérifier si les grumes sont marquées comme il convient et si elles ont été payées. Sur certaines routes, des barrages sont installés pour vérifier tous les véhicules transportant des grumes et s'assurer que celles-ci ont été acquises légalement. Lorsqu'elles ont été produites légalement, elles ont un timbre valide aux deux extrémités (le tampon indique le numéro du fonctionnaire qui a donné l'autorisation) et les reçus officiels doivent accompagner le chargement sur tout son trajet. Toutefois, malgré tous ces contrôles, l'abattage illicite est encore monnaie courante dans toutes les forêts du Nigeria.
+
+Les échelons centralisés et décentralisés du gouvernement et l'administration des recettes
+
+L'organe central du gouvernement, au niveau national, est le Département forestier fédéral. Ses principales fonctions sont les suivantes : formulation des politiques forestières nationales ; planification de l'utilisation des terres, développement du secteur forestier et aménagement de l'environnement ; promotion et financement de projets d'intérêt national ; coordination et suivi d'activités forestières découlant de projets financés au niveau international ; et développement des institutions. Le gouvernement fédéral intervient aussi dans l'administration des recettes forestières dans les huit parcs nationaux du pays, où les touristes paient des droits d'entrée et où quelques espèces animales en surnombre sont chassées.
+
+Les forêts naturelles et les plantations sont gérées par les départements forestiers des Etats, au nom du gouvernement dont ils dépendent. L'Etat, qui est propriétaire de toutes les réserves forestières, formule et met en oeuvre les politiques et gère les activités forestières. Les administrations locales n'ont aucune responsabilité en matière de gestion des forêts. L'organisation des Départements forestiers des Etats prévoit que le siège formule les politiques (y compris pour la création de revenus), coordonne les programmes de terrain et administre les pratiques forestières, alors que les offices forestiers de zone ou de division sont responsables d'une ou plusieurs zones sous administration locale, dans lesquelles ils interprètent et appliquent les politiques de l'Etat et coordonnent les activités de terrain.
+
+Les gouvernements de plusieurs Etats ont compris les défaillances des systèmes actuels d'administration des recettes forestières et se sont efforcés d'y remédier. Plusieurs nouveaux types de redevances ont été introduits pour compléter les crédits alloués au secteur forestier. A cet égard on peut citer les fonds de boisement ; le prélèvement pour le développement du secteur forestier, les fonds fiduciaires forestiers etc... Ces programmes sont certes louables mais pas un seul Etat n'a mis en pratique ces bonnes intentions jusqu'au bout.
+
+Les perspectives de développement du secteur forestier suscitent de sérieuses préoccupations dans le pays, mais la bureaucratie constitue un goulot d'étranglement majeur qui empêche de planifier rationnellement le secteur en vue d'améliorer l'aménagement. Toutes les recettes doivent être versées sur les comptes des Etats d'où il est très difficile de les débloquer pour des politiques et des programmes forestiers. Les fonds qui sont censés être réinvestis dans le secteur pour améliorer l'aménagement des forêts n'arrivent jamais. Le secteur forestier attend toujours des siècles que le gouvernement se décide à allouer des crédits, a lors des recettes affluent continuellement dans ses caisses. Voici ce qu'a conclu à juste titre Cnossen (1979):
+
+"D'une manière générale on se préoccupe de ce qui devrait être fait plutôt que de la manière d'agir ; on recherche les réformes et des ajustements plus spectaculaires des politiques au lieu de se concentrer sur la mécanique plus ennuyeuse mais indispensable, de la mise en oeuvre. "
+
+Toutefois, dans le pays le vrai problème en matière d'administration des recettes vient du fait que chaque Etat de la fédération a son propre cadre institutionnel, et que la ressource forestière est essentiellement considérée comme une source de fonds constante pour le Trésor, au lieu d'être vue comme une importante ressource naturelle dont le développement devrait être encouragé par des investissements.
+
+
+
+
+RECOUVREMENT ET DISTRIBUTION DES RECETTES
+
+Recouvrement et distribution de l'ensemble des redevances forestières
+
+En 1993, le Gouvernement fédéral a décrété que les gouvernements de tous les Etats verseraient 10 pour cent des recettes dégagées dans un Fonds fiduciaire, en faveur de l'aménagement des ressources forestières. Bon nombre de gouvernements n'ont pas appliqué cette directive. Ainsi, dans l'Etat de Kano, qui se préoccupe plus de promouvoir le secteur forestier que d'en tirer des revenus, aucune recette n'a été dégagée depuis plus de cinq ans. Dans la plupart des Etats du Nord, un système dualiste est en place pour la gestion ou la propriété des forêts. Les départements forestiers des Etats gèrent le domaine forestier alors que les administrations locales recouvrent les recettes provenant de l'exploitation des ressources forestières.
+
+Au Nigeria, les principales sources de recettes forestières diffèrent dans les deux principales zones écologiques du sud humide et du nord aride. Les Etats du sud tirent entre 70 et 80 pour cent de leurs recettes forestières des redevances sur l'exploitation et la transformation du bois, en particulier des droits de coupe, des redevances VBA, et des taxes d'enregistrement ou de renouvellement des scieries, des scies circulaires de recoupe, des marteaux de martelage et des tronçonneuses, qui sont les principales sources de revenu dans cette zone. Les Etats arides du Nord tirent une part importante de leurs recettes forestières des redevances sur le bois de feu, les perches, la gomme arabique, le miel, les caroubes et la chasse.
+
+Tableau 17 Niveau moyen des redevances applicables aux produits et aux services procurés par les forêts, au Nigeria, en 2000
+
+Produit/service forestier
+
+Unité de base
+
+Redevance moyenne
+
+en Nairas
+
+En $EU
+
+Bois d'oeuvre
+
+Redevance par unité de surface
+
+Hectare
+
+200 - 600
+
+1.72 - 5.17
+
+Droit de coupe
+
+Arbre
+
+50 - 420
+
+0.43 - 3.62
+
+VBA Espèce catégorie I
+
+pied cube
+
+94.50
+
+0.84
+
+Espèce catégorie II
+
+Pied cube
+
+65.50
+
+0.58
+
+Espèce catégorie III
+
+Pied cube
+
+51.70
+
+0.46
+
+Perches
+
+perche
+
+150 - 180
+
+1.29 - 1.55
+
+Bois de feu
+
+Mètre cube
+
+80
+
+0.69
+
+Produits forestiers non ligneux et mineurs
+
+(lianes, feuilles, roseaux etc...)
+
+mois
+
+100 - 300
+
+0.86 - 2.59
+
+Taxes d'enregistrement des industries
+
+Scie à ruban
+
+unité
+
+10,000
+
+86.21
+
+Scie à câble
+
+unité
+
+5,000
+
+43.10
+
+Scie circulaire à câble
+
+unité
+
+2,500
+
+21.55
+
+scierie
+
+unité
+
+2,500
+
+21.55
+
+dégauchisseuse
+
+unité
+
+2,500
+
+21.55
+
+Préservation/séchage du bois
+
+unité
+
+2,500
+
+21.55
+
+Droits d'entrée dans les aires de récréation
+
+(zoos, jardins botaniques...)
+
+personne
+
+5 - 10
+
+0.04 - 0.09
+
+Chasse
+
+animal
+
+20 - 5,000
+
+0.17 - 43.10
+
+Source: données de terrain
+
+Le Tableau 17 présente le niveau moyen des redevances et des taxes versées pour les produits et les services forestiers au Nigeria, en l'an 2000. Le tableau indique des fourchettes pour les taxes afférentes à certains produits et services, dans les cas où les variations entre les états sont si grandes qu'un niveau moyen ne serait pas représentatif. Toutes ces taxes varient selon l'Etat et le produit, mais les écarts sont parfois considérables.
+
+Tableau 18 Recettes forestières totales perçues dans certains Etats du Nigeria, 1991 - 1999 (en milliers de Nairas)
+
+Etats
+
+Année
+
+1991
+
+1992
+
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+Abia
+
+n.d.
+
+219
+
+131
+
+161
+
+395
+
+301
+
+239
+
+379
+
+396
+
+Adamawa
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+Akwa Ibom
+
+277
+
+230
+
+204
+
+276
+
+728
+
+346
+
+553
+
+672
+
+890
+
+Anambra
+
+n.d.
+
+159
+
+270
+
+212
+
+287
+
+250
+
+192
+
+379
+
+353
+
+Bauchi
+
+15
+
+21
+
+20
+
+27
+
+5
+
+8
+
+23
+
+5
+
+21
+
+Bayelsa
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+141
+
+117
+
+144
+
+Benue
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+369
+
+625
+
+781
+
+1,094
+
+Borno
+
+801
+
+864
+
+1,061
+
+1,118
+
+1,502
+
+1,804
+
+1,991
+
+8,247
+
+2,745
+
+Cross River
+
+2,000
+
+2,000
+
+2,000
+
+8,000
+
+14,000
+
+11,000
+
+14,000
+
+14,000
+
+13,000
+
+Delta
+
+n.d.
+
+1,882
+
+1,756
+
+1,654
+
+1,478
+
+1,539
+
+1,426
+
+966
+
+1,571
+
+Ebonyi
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+71
+
+115
+
+302
+
+Edo
+
+1,819
+
+4,892
+
+5,535
+
+16,007
+
+25,439
+
+11,802
+
+71,481
+
+25,955
+
+30,650
+
+Ekiti
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+7,907
+
+20,836
+
+13,009
+
+17,717
+
+Enugu
+
+n.d.
+
+72
+
+74
+
+137
+
+1,555
+
+94
+
+252
+
+214
+
+350
+
+Gombe
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+Imo
+
+n.d.
+
+183
+
+422
+
+428
+
+584
+
+520
+
+503
+
+469
+
+632
+
+Jigawa
+
+n.d.
+
+n.d.
+
+n.d.
+
+30
+
+33
+
+27
+
+41
+
+52
+
+47
+
+Kaduna
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+Kano
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Katsina
+
+36
+
+43
+
+76
+
+98
+
+120
+
+342
+
+336
+
+105
+
+494
+
+Kebbi
+
+n.d.
+
+25
+
+2
+
+3
+
+9
+
+2
+
+93
+
+837
+
+214
+
+Kogi
+
+n.d.
+
+1,500
+
+1,100
+
+4,970
+
+6,560
+
+3,000
+
+6,500
+
+7,540
+
+4,730
+
+Kwara
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+Lagos
+
+83
+
+n.d.
+
+n.d.
+
+414
+
+793
+
+1,052
+
+899
+
+806
+
+2,360
+
+Nasarawa
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+Niger
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+Ogun
+
+n.d.
+
+n.d.
+
+2,177
+
+4,057
+
+9,448
+
+14,684
+
+44,895
+
+34,609
+
+41,329
+
+Ondo
+
+101,016
+
+76,219
+
+72,009
+
+96,441
+
+101,016
+
+76,009
+
+72,009
+
+96,441
+
+86,412
+
+Osun
+
+183
+
+2,008
+
+3,974
+
+5,559
+
+30,071
+
+13,878
+
+52,228
+
+63,218
+
+35,714
+
+Oyo
+
+990
+
+618
+
+1,468
+
+1,880
+
+1,892
+
+12,469
+
+18,823
+
+448
+
+5,011
+
+Plateau
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+Rivers
+
+n.d.
+
+n.d.
+
+n.d.
+
+94
+
+258
+
+101
+
+118
+
+109
+
+n.d.
+
+Sokoto
+
+298
+
+332
+
+378
+
+437
+
+463
+
+353
+
+475
+
+568
+
+484
+
+Taraba
+
+9
+
+20
+
+19
+
+22
+
+34
+
+72
+
+208
+
+128
+
+277
+
+Yobe
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+Zamfara
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+55
+
+57
+
+n.d.
+
+FCT
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+n.d.
+
+Total
+
+107,526
+
+91,288
+
+92,674
+
+142,026
+
+196,670
+
+157,928
+
+309,014
+
+270,228
+
+246,936
+
+(en milliers de $EU)
+
+(10,851)
+
+(5,277)
+
+(4,203)
+
+(6,488)
+
+(6,226)
+
+(1,929)
+
+(3,760)
+
+(3,125)
+
+(2,572)
+
+Source: données de terrain.
+
+Pour résumer, les taxes des industries forestières et les redevances sur le bois sont les plus élevées, devant celles sur les produits forestiers non ligneux et mineurs. Les droits concernant la chasse aux fauves, en particulier aux grands mammifères, sont aussi relativement élevés. Les droits les plus faibles sont ceux relatifs au ramassage du bois de feu et aux activités récréatives. Toutefois, le montant total des recettes perçues ne dépend pas seulement du niveau des taxes ou redevances. L'ampleur des activités de production illégale a aussi un impact majeur.
+
+Le Tableau 18 récapitule le montant total des recettes forestières des gouvernements du Nigeria, au cours de la dernière décennie. On note une amélioration significative des recettes perçues, en particulier durant les trois dernières années (1997 à 1999). Cette augmentation dérive probablement des facteurs suivants :
+
+1. Relèvement récents des barèmes;
+2. Effet de la création des nouveaux Etats, qui a conduit à une intensification des activités forestières dans certains cas (par exemple à Sokoto, Zamfara, Ondo, Ekiti, Oyo et Osun) ; et
+3. Politique d'exportation du bois d'oeuvre, introduite par le gouvernement en 1995.
+
+Le niveau moyen des recettes forestières collectées dans chaque Etat au cours de la période 1991-1999 est également visible sur la carte de la Figure 5. On remarque qu'une grande partie des recettes forestières sont recouvrées dans les Etats du sud-ouest (Oyo, Osun, Ondo, Ogun, Ekiti, Edo et Kogi) ainsi que dans l'Etat de Cross River. Chaque point représente 250 000 Nairas, soit un peu plus de 2 000 dollars E-U (au taux de change actuel).
+
+Figure 5 Montant annuel moyen des recettes perçues au Nigeria ( par Etat) au cours de la période 1991-2000
+
+
+Le Tableau 19 montre les sources des recettes forestières du pays. Ces sources peuvent être résumées comme suit : bois (62,8 pour cent), perches (17,69 pour cent), produits forestiers non ligneux et mineurs (13,17 pour cent), bois de feu (3,50 pour cent), taxes des industries forestières (2.26 pour cent), droits relatifs aux activités récréatives (0, 49 pour cent), amendes en cas d'infractions forestières (0, 09 pour cent).
+
+Une analyse plus détaillée de ces données montre que le bois d'oeuvre est la principale source de revenu dans les Etats à forêts ombrophiles d'Ondo, Ogun, Osun, Edo, et Ekiti, qui fournissent une part significative des 63 pour cent des recettes provenant du bois d'oeuvre. Presque toutes les recettes provenant des perches sont tirées des plantations de Teck et de Nauclea diderichii. Le bois de feu, pourtant considéré comme un produit forestier mineur, constitue une source de recettes significative dans les zones de savane. Les produits forestiers non ligneux sont d'un rapport moins évident, vu la difficulté de recouvrer des redevances sur ces produits, et la longue durée (3 mois) sur laquelle se déroule la récolte de certains d'entre eux.
+
+Tableau 19 Pourcentage moyen des recettes forestières totales, procuré par les diverses sources, sur la période 1991-1999
+
+Sources des recettes
+
+Pourcentage des recettes
+
+Redevances sur le bois (sciages compris)
+
+62.80
+
+Redevances sur les perches (ex : pour les poteaux d'électricité et de téléphone)
+
+17.69
+
+Redevances sur le bois de feu
+
+3.50
+
+Redevances sur les produits forestiers non ligneux et mineurs (sans le bois de feu)
+
+13.17
+
+Amendes sanctionnant les infractions forestières
+
+0.09
+
+Taxes des industries forestières
+
+2.26
+
+Redevances relatives aux activités récréatives (droits d'entrée dans les zoos et les jardins botaniques)
+
+0.49
+
+Total
+
+100.00
+
+Source: données de terrain
+
+Quelques Etats du Nigeria ont adopté des modèles pour le partage des recettes forestières entre les gouvernements des Etats, les administrations locales et les fonds forestiers. Les différents modèles en place dans un certain nombre d'Etats sont décrits au Tableau 20. Chaque Etat est indépendant des autres, et a une politique forestière qui lui est propre. Toutefois, sur la base de leurs relations historiques, certains Etats se sont regroupés et ont adopté des modèles communs de partage des recettes. On notera toutefois que, bien que ces modèles soient définis dans la législation, ils ne sont pas toujours appliqués de façon stricte.
+
+Tableau 20 Modèles de partage des recettes forestières en usage dans certains Etats du Nigeria
+
+Etats
+
+Modèles de partage des recettes
+
+Edo
+
+Gouvernement de l'Etat
+
+Gouvernement local
+
+Fonds forestier
+
+55.0%
+
+25.0%
+
+20.0%
+
+Cross River
+
+Gouvernement de l'Etat
+
+Communautés locales
+
+80.0%
+
+20.0%
+
+Ondo et Ekiti
+
+Gouvernement de l'Etat
+
+Fonds forestier
+
+75.0%
+
+25.0%
+
+Oyo et Osun
+
+Gouvernement de l'Etat
+
+Fonds forestier Gouvernement local
+
+58.3%
+
+25.0%
+
+16.7%
+
+Ogun
+
+Gouvernement de l'Etat
+
+Fonds forestier
+
+Communautés locales
+
+50.0%
+
+25.0%
+
+25.0%
+
+Kaduna (et quelques autres Etats de la zone de savane boisée)
+
+Gouvernement de l'Etat
+
+Communautés locales
+
+40.0%
+
+60.0%
+
+Source: données de terrain
+
+
+DEPENSES FORESTIERES PUBLIQUES
+
+Le financement public du développement du secteur forestier repose entièrement sur des allocations annuelles du gouvernement. Les départements forestiers des Etats reçoivent des fonds chaque année pour couvrir les salaires, les traitements et d'autres frais généraux d'exploitation. Dans tout le pays, les crédits alloués au secteur sont très bas, mais dans quelques Etats, leur niveau est si faible qu'il représente à peine 1 pour cent de leur budget annuel. Le ministère fédéral de l'agriculture ne reverse parfois au département des forêts que 2 à 4 pour cent des fonds qui lui sont alloués chaque année par le gouvernement.
+
+Ces dernières années, le gouvernement fédéral et les gouvernements des Etats n'ont pas pu répondre aux besoins dans le domaine du développement forestier, faute de crédits. Ceci est en contraste avec les années précédentes où les Etats pouvaient faire face aux besoins, grâce à une assistance extérieure sous forme de prêts. Ils ont notamment reçu un appui du Projet Forestier II de la Banque mondiale, de programmes de développement forestier de la Banque africaine de développement, et du projet de boisement de Katsina CEE/FGN. Ce soutien a pris fin ou est sur le point de s'achever.
+
+
+Dépenses des principales institutions forestières publiques
+
+Au Nigeria, plusieurs institutions gouvernementales mettent en oeuvre des projets et des programmes forestiers, notamment: le Département forestier fédéral; le Forestry Research Institute of Nigeria, les départements forestiers de diverses universités et plusieurs écoles de sylviculture ou centres de formation professionnelle spécialisés.
+
+Chacune de ces institutions met en oeuvre des aspects spécifiques de la politique forestière gouvernementale. Par exemple, le Département forestier fédéral a pour fonction de consolider et de développer le domaine forestier au Nigeria et de le gérer conformément aux principes du rendement constant. Il s'acquitte de ces fonctions dans le cadre de projets spécifiques, notamment les projets de développement des plantations forestières et le projet relatif à la production de bois à fibre longue pour l'industrie des pâtes et papiers. Ces projets sont exécutés par l'intermédiaire des services forestiers des Etats, auxquels le Département transfère des fonds, par l'entremise de ses bureaux de terrain dans les Etats. La mise en oeuvre de ces projets est souvent étalée sur plusieurs années et ceux qui sont encore en cours d'exécution sont financés d'année en année par le gouvernement.
+
+Le Ministère des finances prépare le budget national sur la base des activités menées par le gouvernement dans tous les secteurs de l'économie. Ce budget est présenté à l'Assemblée nationale qui doit l'approuver, puis le soumettre pour acceptation au Président, en tant que Projet de loi de crédits. Le budget est ensuite réparti entre les différents ministères et départements qui peuvent commencer à dépenser la part qui leur a été allouée.
+
+Au Nigeria, les fonds publics alloués aux projets et programmes forestiers ont toujours été insuffisants et débloqués en retard, tant au niveau du gouvernement fédéral que des gouvernements des Etats. Comme le montre le Tableau 21, les crédits alloués ont été particulièrement faibles au cours de la dernière décennie où ils ont représenté seulement entre 1 et 8 pour cent du budget fédéral total de l'agriculture (sans compter les crédits pour les achats d'engrais). Cette situation défavorable a compromis la bonne exécution des programmes forestiers prévus, et, partant, l'aménagement durable du domaine forestier.
+
+Tableau 21 Allocation budgétaire du gouvernement fédéral au département des forêts, de 1991 à 1999 (en Nairas)
+
+Année
+
+Allocation au Ministère fédéral de l'agriculture et des ressources naturelles
+
+Allocation au département des forêts
+
+Allocation au Département forestier en pourcentage de l'allocation totale au ministère
+
+1991
+
+265,569,690
+
+10,649,240
+
+4.00
+
+1992
+
+305,055,000
+
+12,000,000
+
+2.45
+
+1993
+
+656,891,000
+
+10,966,080
+
+1.67
+
+1994
+
+425,200,000
+
+20,460,000
+
+4.80
+
+1995
+
+1,432,203,218
+
+39,000,000
+
+2.72
+
+1996
+
+1,986,451,500
+
+27,495,000
+
+1.38
+
+1997
+
+3,800,000,000
+
+100,000,000
+
+2.65
+
+1998
+
+N/D
+
+N/D
+
+N/D
+
+1999
+
+828,265,000
+
+66,000,000
+
+7.96
+
+Source: Ministère fédéral de l'agriculture et des ressources naturelles (2000).
+
+On a vu dans les sections précédentes que des recettes forestières sont prélevées sur les produits forestiers corporels et incorporels. Ces recettes prennent la forme de droits, de redevances, de prélèvements et de taxes. Toutefois, les tarifs actuels des produits forestiers sont d'une manière générale fixés à des niveaux excessivement bas pratiquement sans rapport avec le coût du renouvellement de la ressource forestière. En outre, beaucoup d'autres biens et services produits dans les forêts du Nigeria sont aussi sous-évalués (voire, pas évalués), de sorte que la contribution du secteur forestier au Produit intérieur brut (PIB) est extrêmement basse et paraît insignifiante par rapport à d'autres secteurs, comme celui du pétrole.
+
+L'établissement de Fonds fiduciaires forestiers (FFF) n'a pas arrangé les choses car les recettes qui y sont versées ne sont jamais conservées et réinvesties dans le secteur pour des activités de développement, alors qu'ils avaient été conçus pour cela. La plupart du temps au contraire, les gouvernements des Etats ont utilisé ces fonds à d'autres fins (ex : pour payer les salaires de la fonction publique en général, et pour régler des dépenses relatives à d'autres projets de développement). Le problème s'est posé avec une acuïté particulière sous le régime militaire.
+
+
+Assistance extérieure au secteur forestier
+
+Au Nigeria, les efforts de développement du secteur ont dans un premier temps été orientés vers la création de réserves forestières. La période suivante a été caractérisée par une période d'exploitation anarchique des ressources en bois, en raison de la forte demande de produits forestiers. Durant cette période, la ressource forestière était soumise à une pression considérable. La situation a été aggravée par une pression croissante de la population en milieu rural, qui s'est traduite par une augmentation de la demande de terres arables, et par un
+
+appauvrissement des forêts. Toutefois depuis 1970, une assistance technique a été fournie en plusieurs occasions, en vue d'aider la pays à étendre son domaine forestier et à gérer l'environnement de manière plus durable. Voici quelques exemples de ces projets d'assistance:
+
+1. L'Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO) et le Programme des Nations Unies pour le développement (PNUD) ont parrainé un vaste projet d'inventaire forestier, entre 1974 et 1976. L'opération a été un succès et le rapport du projet a été une source d'informations utiles pour le développement du secteur, au Nigeria.
+2. Au début des années 70, le Gouvernement finlandais et la FAO ont accordé une subvention pour construire une scierie et un centre d'exploitation des forêts à Benin City, au Nigeria.
+3. La Banque mondiale a financé, par un prêt de 31 millions de dollars E-U le Projet forestier I, entre 1980 et 1984 dans les Etats d'Ogun et d'Ondo. L'objectif était d'améliorer la production de bois industriel et le projet a été un grand succès.
+4. Le projet de boisement de l'Etat de Katsina (KSAP), d'une valeur de 13, 56 millions de dollars E-U a été financé par la Communauté économique européenne (CEE), actuelle Union européenne (UE), entre 1987 et 1993. Le pourcentage de réalisation des objectifs du projet a été très satisfaisant.
+5. Entre 1987 et 1996, la Banque mondiale a financé le Programme forestier II, d'une valeur 71, 00 millions de dollars E-U au Nigeria. Le projet a été mis en oeuvre dans 16 Etats du pays. Les principaux objectifs étaient de renforcer les infrastructures du secteur, de stabiliser les conditions édaphiques dans le Nord semi aride et aride et de développer l'offre de bois industriel. Ce projet a été achevé le 30 juin 1996 et sa composante boisement a été jugée l'une des plus réussies du monde (le prix " Saving the Dryland " lui a décerné par le Programme des Nations Unies pour l'environnement (PNUE) et le Fonds international de développement agricole (FIDA). En termes généraux, les réalisations du programme comprennent :
++ Amélioration de la politique forestière, principalement dans les domaines suivants : fiscalité ; intégration d'arbres fruitiers dans les systèmes de culture ; intervention accrue du secteur privé dans la foresterie et les industries basées sur le bois ; et établissement de Fonds fiduciaires forestiers pour soutenir le financement de projet(s) forestier(s).
++ Améliorations des capacités de planification et de formulation des politiques, de l'aménagement forestier, de la vulgarisation, du suivi et de la gestion financière (démontrées par la qualité des réalisations du projet).
++ Sensibilisation des individus et des communautés à leurs responsabilités, en matière de plantation d'arbres et d'amélioration de l'aménagement des forêts. Plus de 350 000 familles d'agriculteurs ont été associées à des activités de foresterie sociale
++ Intensification du développement des plantations et gestion d'environ 40 000 hectares de plantations forestières.
+6. En 1991, le Nigeria a reçu une aide du PNUD de 690 000 dollars E-U, pour l'élaboration du Plan d'action forestier nigérian.
+7. Entre 1994 et 1996, la FAO a fourni une assistance technique, évaluée à 155 000 dollars E-U, pour lutter contre une infestation de cochenilles sur des margousiers, au Nigeria. L'objectif du projet était de mettre au point un système de protection intégrée basé sur l'introduction d'ennemis naturels de la cochenille, en utilisant du matériel génétique exotique pour évaluer la tolérance ou la résistance de la cochenille orientale et en mettant en place une stratégie à long terme pour la lutte intégrée contre les ravageurs au Nigeria. Un manuel de détection des infestations a été préparé dans le cadre du projet.
+8. De 1992 à 1997, la Banque mondiale a accordé un prêt de 3,5 millions de dollars E-U en faveur du projet d'aménagement de l'environnement. Ce projet, mis en oeuvre à l'échelle nationale, utilisait les techniques de télédétection et les SIG, pour établir ou mettre à jour des cartes de l'utilisation des terres et de la végétation, qui ont été une source de données et d'informations utiles pour la planification de l'utilisation des terres.
+9. En outre, entre 1993 et 1998, la Banque internationale pour la reconstruction et le développement (BIRD) a parrainé par un don un projet d'aménagement de l'environnement, avec une composante d'aménagement de réserves forestières, dont les résultats ont été satisfaisants.
+10. En 1986, la Banque africaine de développement (BafD) a fait un prêt de 69,55 millions de UA au Nigeria pour le développement du secteur forestier dans les Etats d'Ogun et d'Ondo (Projet de développement forestier - PDF). Les projets financés par ce prêt ont établi plus de 6 000 hectares de plantations de Gmelina pour accroître les approvisionnements en matières premières de l'usine de pâtes et de papiers de Iwopin. Chaque zone du projet devait aussi établir 600 hectares de parcelles témoins d'espèces indigènes et d'espèces de pins pour compléter les disponibilités de sciages, de perches et de bois de feu provenant des plantations de Gmelina existant dans les deux Etats, qui couvrent au moins 50 000 hectares. Les projets dont l'une des principales composantes était la conversion et l'utilisation du bois, ont démarré avec un peu de retard en 1989 et devaient s'achever en 1992. Toutefois, le démarrage tardif du projet s'est répercuté sur les achats d'équipement par appels
+d'offre internationaux, de sorte que ces projets ont dû être prolongés jusqu'en décembre 2000.
+11. En 1995, la BafD a accordé une subvention de 2, 717 millions de UA au Nigeria pour l'étude des ressources forestières (Forest Resource Study FRS). L'étude consistait essentiellement à explorer les ressources forestières du Nigeria et à produire une base de données pour l'aménagement des forêts du pays. Le projet a été un succès. L'étude a également identifié des projets prioritaires pour aider le pays à aménager les ressources naturelles dans une optique de durabilité. Le projet a également débouché sur la production de données d'inventaire sur les ressources forestières pour 28 Etats sur les 36 que compte le pays et d'un Système d'information forestier (SIF) pour le pays.
+12. Récemment, un micro-projet d'aménagement des bassins versants et de l'environnement a été mis au point. Il est encore en phase d'élaboration et dépendra du succès des initiatives qui viennent d'être décrites. Ce projet multi-sectoriel dicté par les communautés, est basé sur le concept d'aménagement des ressources naturelles. Il sera financé à la fois par un crédit de l'Association internationale de développement (IDA) et par le Fonds pour l'environnement mondial (FEM). La composante financée par l'IDA sera focalisée sur un investissement dic té par les communautés et comprend des activités d'examen des politiques et de la législation, de renforcement des institutions et des capacités, et de communication. La Composante financée par le FEM sera centrée sur la gestion de deux parcs nationaux, de leurs zones tampons, et d'autres zones riches en biodiversité. Le projet fera l'objet d'une évaluation préalable en février 2001 et devrait coûter environ 100 millions de dollars
+E-U dont 15 millions de dollars E-U seront financés par le FEM.
+
+Le Tableau 22 récapitule les principaux projets assistés par des donateurs dans le secteur forestier au Nigeria depuis 1987.
+
+Tableau 22 Principaux projets assistés par des donateurs dans le secteur forestier au Nigeria, 1987-2000
+
+Organisme de financement
+
+Montant de l'aide
+
+Période couverte
+
+Etats couverts
+
+Type d' assistance
+
+CEE-FGN (KSAP)
+
+13, 56 millions N
+
+1987 - 1993
+
+Katsina
+
+Assistance technique
+
+BIRD (Foresterie II)
+
+71 millions $EU
+
+1987 - 1996
+
+Bauchi, Borno, Jigawa, Kogi, Kaduna, Kano, Katsina, Ogun, Ondo, Plateau, Sokoto, Yobe et Zamfara
+
+Prêt
+
+PNUD (PAFN)
+
+690 000 $EU
+
+1991 - 1997
+
+Tout le pays
+
+Don
+
+FAO (traitement des margousiers)
+
+155 000 $EU
+
+1994 - 1996
+
+Centre Nord, Nord Ouest, Nord Est
+
+Don
+
+BIRD (PAE)
+
+3, 5 millions $EU
+
+1992 - 1997
+
+Tout le pays
+
+Crédit
+
+BafD (PDF)
+
+69, 55 millions de UA
+
+1989 - 2000
+
+Ogun et Ondo
+
+Prêt
+
+BAfD (ERF)
+
+2, 717 millions UA
+
+1995 - 1999
+
+28 Etats sur 36
+
+Don
+
+Source: FDF (1999).
+
+
+
+Dépenses effectuées par d'autres institutions forestières
+
+L'institut nigerian de recherche forestière (FRIN) est l'organisme qui est chargé d'entreprendre des recherches sur tout ce qui a trait à la foresterie dans le pays. Le financement de l'institut, transféré depuis peu du ministère fédéral de l'agriculture et des ressources naturelles, dépend aussi d'un vote du gouvernement central (ce qui revient à dire que l'institut est directement financé par le Gouvernement fédéral du Nigeria). Le plus souvent, les crédits budgétaires alloués à cet organisme sont très insuffisants pour couvrir les besoins du secteur. Ces crédits sont censés couvrir les travaux de recherche de base suivants :
+
+1. identification et traitement des ravageurs et des maladies des forêts;
+2. amélioration de la croissance et du rendement potentiel des essences forestières indigènes et exotiques;
+3. identification du potentiel pour l'intégration d'arbres dans les systèmes agricoles, et pour la régénération naturelle;
+4. recherche sur des questions spécifiques identifiées par diverses institutions de formation forestière.
+
+Il existe trois grandes catégories d'institutions de formation forestière au Nigeria, à savoir :
+
+1. les institutions de formation supérieure (départements forestiers des universités)
+2. les institutions de formation technique (lycées spécialisés dans la sylviculture et la gestion de la faune sauvage)
+3. les instituts de formation professionnelle, qui forment des forestiers non spécialisés ou semi-spécialisés.
+
+Les institutions qui précèdent sont financées à la fois par des allocations budgétaires du gouvernement fédéral et des Etats, mais elles reçoivent aussi des ressources insuffisantes. Il nous a été impossible d'obtenir des informations précises sur le financement de ces institutions de recherche et de formation pour ce rapport de pays. Toutefois, le fait est que ces institutions survivent depuis des années et que les instituts d'enseignement professionnel ont formé de nombreux forestiers au cours des 50 à 60 dernières années.
+
+
+Dons et subventions au secteur forestier
+
+Au Nigeria, le gouvernement a pris en main l'aménagement des forêts pendant plus d'un siècle. Ceci a eu plusieurs conséquences : déboisement effréné de la forêt naturelle, empiétement des agriculteurs pratiquant l'agriculture itinérante et avancée catastrophique de la désertification. Faute d'incitations, les parties prenantes n'ont aucun intérêt à investir dans l'aménagement forestier durable, ce qui n'a rien arrangé. Le secteur privé intervient dans le développement du secteur forestier uniquement au niveau de la transformation (scieries, usines de panneaux dérivés du bois et autres producteurs de bois), et ses activités dans ce secteur sont assez modestes et centrées sur la production plutôt que sur l'aménagement. Seuls quelques hectares de forêts ont été plantés par des compagnies privées et des particuliers.
+
+
+Recettes et dépenses des entreprises forestières d'Etat
+
+Il y a au Nigeria trois gros producteurs de pâtes et papiers, à Iowin, Jebba et Oku-Iboku. Ces compagnies contrôlées par l'Etat se trouvent dans la zone de haute forêt. Malheureusement, elles ont dû fermer leurs portes pendant plus de quatre ans, car leurs fonds de roulement étaient insuffisants. L'administration nigériane actuelle envisage de privatiser ces compagnies, selon des modalités dont les détails sont encore à l'étude.
+
+
+
+DISCUSSION ET CONCLUSIONS
+
+Evaluation du régime fiscal forestier nigerian
+
+Les régimes fiscaux forestiers en vigueur dans les différents Etats du Nigeria sont inefficaces car, en dépit de leur diversité, ils ne reflètent pas bien les caractéristiques spécifiques qui existent dans et entre les Etats. Globalement, les défaillances des régimes fiscaux forestiers sont dus aux facteurs suivants :
+
+1. Attention insuffisante accordée au suivi de la production, pourtant indispensable pour maximiser le recouvrement des recettes ;
+2. Coûts d'application élevés pour les utilisateurs, qui sont censés se rendre dans les offices forestiers pour payer les redevances (de sorte que très peu de personnes obtiennent des permis, en particulier pour les produits non ligneux et mineurs, malgré la faiblesse des droits à payer). Résultats : les activités illicites sont encouragées et les recettes perçues sont insuffisantes ;
+3. Ce sont les utilisateurs, et non le gouvernement, qui supportent les coûts du recouvrement des recettes, ce qui fait qu'il est impossible d'établir une comparaison entre le coût total du recouvrement et les sommes perçues.
+
+En raison de carences administratives évidentes, l'exploitation illicite des produits forestiers est un fléau et l'on estime que plus de 90 pour cent des producteurs de produits forestiers mineurs et 40 pour cent des producteurs de bois d'oeuvre ne paient pas les redevances forestières. Le régime fiscal forestier est donc inefficace.
+
+Par exemple, le système de surveillance des forêts, qui a pour but de contrôler l'exploitation et le transport des produits a périclité, faute de véhicules de patrouille et de personnel. En outre, les fonctionnaires des forêts en uniforme n'ont ni la motivation ni l'équipement voulus pour faire appliquer le règlement forestier. Très souvent, les produits forestiers sont exploités par des communautés rurales qui vivent à la lisière des forêts et ne payent pas les droits des permis de récolte.
+
+Le niveau élevé des frais généraux payés par les utilisateurs contribue aussi à l'insuffisance des recettes perçues. La procédure à suivre pour le paiement des redevances forestières peut être un véritable casse-tête. Par exemple, un producteur qui veut couper une espèce forestière en bénéficiant du tarif applicable à une exploitation privée, doit d'abord obtenir le consentement de la communauté qui a la jouissance de la terre, puis de l'agriculteur qui exploite la terre sur laquelle se trouve l'arbre. Lorsque les deux parties acceptent que l'arbre soit abattu, le producteur paye l'agriculteur, mais il doit ensuite se faire délivrer un permis par l'office forestier local, avant de pouvoir couper l'arbre.
+
+En général, les membres des communautés rurales connaissent bien les taux des redevances et les règles concernant le paiement et l'exploitation. Cependant, les communautés dont les terres ont été classées comme réserves, ou qui sont nées sur des terres dont les ressources forestières sont exploitées, voient d'un mauvais oeil le recouvrement des recettes forestières, pour plusieurs raisons :
+
+1. Les communautés se sentent frustrées de leurs terres ancestrales lorsqu'on les oblige à payer pour des ressources qui, selon elles, leur ont été données par Dieu ;
+2. Les recettes provenant de l'exploitation des forêts ne sont pas partagées avec les communautés dans de nombreux Etats ;
+3. le gouvernement conserve les sommes qu'il perçoit en règlement des redevances forestières et les met rarement à disposition pour régénérer et remettre en Etat la ressource forestière ;
+4. Les populations acceptent mal que des " étrangers " (qui n'ont pas de titres de propriété sur leurs terres) soient autorisés à exploiter les ressources qui leur ont été données par Dieu, alors que le libre accès à ces ressources est refusé aux propriétaires des terres.
+
+Le recouvrement des recettes forestières sera plus facile si les barèmes des redevances sont plus réalistes et si un dispositif efficace est mis en place pour dégager des recettes. A l'heure actuelle, le montant des redevances d'exploitation n'est pas déterminé d'après les conditions du marché, et il est sans rapport avec l'offre et la demande de produits forestiers et le coût de production des ressources forestières. Par exemple, les tarifs sont trop bas dans les plantations forestières. Ainsi, alors que le coût d'établissement d'une plantation de Gmelina dans la zone de haute forêt du Nigeria est de 26 N par mètre cube , les Etats propriétaires des terres fixent la redevance d'exploitation à 22 N par mètre cube de bois.
+
+Les redevances basées sur le volume bois abattu (VBA) oscillent entre 8, 40 N le mètre cube, pour les essences les moins connues, et 16, 80 N le mètre cube pour les espèces à haute valeur marchande, alors que le bois rond se vend entre 185 N et plus de 268 N le mètre cube en dehors des forêts protégées (prix rendu). Dans les zones qui privilégient le système de taxation par unité de surface, les redevances payées par les utilisateurs s'échelonnent entre 200 N par hectare dans les forêts secondaires et 600 N par hectare dans les forêts riches. Toutefois l'utilisateur peut facilement obtenir entre 30 000 N et 100 000N par hectare, même si le bois est vendu " bord de route ".
+
+Ainsi, un relèvement des redevances prélevées dans le cadre des différents régimes fiscaux forestiers (droits de coupe, redevances VBA et redevances par unité de surface) accompagné d'un contrôle et d'un suivi intensifs de la production, devrait permettre d'améliorer la base de recettes forestières. L'introduction d'un système de recouvrement des redevances forestières automatiquement indexées, conformément à la politique de fixation des prix des produits forestiers et aux conditions de l'offre et de la demande dans chaque Etat, pourrait améliorer les sommes perçues et sonner le glas de la fixation des droits au petit bonheur. L'évasion fiscale pourrait être minimisée ou supprimée, si la fixation des redevances, le suivi de la production, le recouvrement et le partage des recettes étaient basés sur des approches participatives, associant les communautés rurales dont les terres ont été mises hors production (réserves) ou dont les ressources forestières sont utilisées par les
+gouvernements, comme source de revenu.
+
+
+Impact du régime fiscal forestier sur l'aménagement durable des forêts
+
+Dans le cadre des régimes fiscaux forestiers et des systèmes de licences employés au Nigeria, les mesures visant à promouvoir l'aménagement durable des forêts sont les suivantes :
+
+1. Versement de redevances aux propriétaires des terres ;
+2. Obligation de remplacer chaque arbre abattu par une plantule ;
+3. Prohibition de revenir dans les concessions après la coupe ;
+4. Fixation de circonférences limites pour l'abattage des arbres ;
+5. Commencement de la coupe immédiatement après que les surfaces de forêt aient été déclarées exploitables (éviter que les opérations ne soient retardées pour des raisons administratives),
+6. Interdiction de tuer des femelles pleines ou des bébés animaux et de prélever des oeufs;
+7. Utilisation de marteaux (imprimant des numéros de série sur les grumes) pour contrôler le suivi et s'assurer que les règles d'exploitation ont été respectées.
+
+Toutefois, comme les redevances sont très inférieures à la valeur des produits forestiers sur le marché, le régime fiscal finit par se retourner contre lui-même. Il a favorisé une augmentation spectaculaire du nombre d'entrepreneurs forestiers, en raison des revenus énormes que peut procurer le secteur. Ainsi, la fixation de redevances beaucoup trop basses a encouragé une expansion de l'exploitation des forêts incompatible avec le niveau de rendement constant.
+
+Le problème du régime fiscal forestier au Nigeria tient essentiellement au fait que les mécanismes du marché ne jouent pas. Le montant des redevances forestières est déterminé par le gouvernement, au lieu d'être basé sur le jeu de l'offre et de la demande. Ainsi, comme les mécanismes du marché ne sont pas utilisés pour fixer des taux de droits appropriés, les redevances sur l'exploitation des forêts ne se traduisent pas par des prix propres à équilibrer la demande de bois avec un niveau durable de l'offre.
+
+Un autre problème concerne le partage des recettes forestières. Théoriquement, le gouvernement devrait partager un certain pourcentage des recettes ne provenant pas des réserves forestières avec les communautés locales (25 à 40 pour cent dans les zones de savane et 30 à 35 % dans les zones de forêt principale), mais dans la pratique, les parties prenantes ne reçoivent rien.
+
+De plus, dans la plupart des Etats, au lieu d'être administrées par une Commission des forêts indépendante, les recettes forestières sont versées sur le fonds de recettes consolidées du gouvernement. Or, cet argent est rarement mis à la disposition du secteur aux fins de l'aménagement et du développement des forêts.
+
+L'absence d'un régime fiscal forestier unifié pour tout le pays peut aussi être un problème. Par exemple, l'écart considérable des redevances applicables aux produits forestiers, d'un Etat à l'autre, pourrait se traduire par une répartition inéquitable des taxes et des subventions accordées au secteur forestier, dans le pays.
+
+Compte tenu des taux actuels des redevances forestières et des niveaux des recettes perçues dans le secteur, il n'est pas du tout certain que le régime fiscal forestier favorise l'aménagement durable des forêts au Nigeria. En effet les deux principaux effets de la fiscalité sur l'aménagement des forêts sont la surexploitation de la ressource et le manque de coopération entre les services forestiers et les communautés rurales, qui ne sont associées ni au recouvrement des recettes, ni au suivi ni au partage des avantages.
+
+Pour s'assurer la coopération des communautés rurales au recouvrement des recettes forestières, il faudrait leur permettre de prendre part à la détermination des redevances, au recouvrement et au partage des recettes. En outre, les principaux utilisateurs des forêts devraient être obligés, non seulement de payer des redevances pour exploiter la ressource, mais aussi d'investir dans l'aménagement et la régénération des forêts. Enfin, toutes les parties prenantes devraient être encouragées à participer activement à tous les aspects de la gestion des forêts et le développement du secteur ne devrait pas être considéré comme relevant de la seule responsabilité du gouvernement.
+
+
+Dépenses publiques en matière d'aménagement des forêts
+
+Comme on l'a déjà signalé, au Nigeria l'aménagement des forêts est sous la responsabilité des gouvernements des Etats et de l'Autorité du Territoire de la capitale fédérale. Le rôle du gouvernement fédéral consiste principalement à coordonner les politiques et à acheminer l'argent versé dans certains fonds vers les services forestiers des Etats. Malheureusement, au cours de la dernière décennie, les flux de capitaux des budgets des Etats vers le secteur forestier ont été de l'ordre de zéro à moins de deux pour cent du budget total des investissements agricoles.
+
+Le Tableau 23 présente une analyse des budgets prévisionnels des dépenses d'investissement relatives à l'aménagement des forêts, à répartir entre le gouvernement fédéral et les gouvernements des Etats, durant la dernière décennie. Les chiffres du tableau ne disent rien sur le montant des investissements effectivement réalisés par le gouvernement dans ce domaine, mais ils donnent une estimation des dépenses d'investissement qui seraient nécessaires pour réaliser les objectifs de l'aménagement durable des forêts dans le secteur.
+
+Tableau 23 Budgets prévisionnels indicatifs des dépenses d'investissement dans le secteur forestier, au Nigeria, pour la période 1990-2000
+
+Activités forestières
+
+Budget prévisionnel total
+
+(en millions de N)
+
+(en %)
+
+Boisement
+
+1,002
+
+47.6
+
+Gestion de la faune sauvage
+
+424
+
+20.2
+
+Conservation in situ des ressources forestières et protection
+
+404
+
+19.2
+
+Renforcement des capacités
+
+210
+
+10.0
+
+Recherche
+
+63
+
+3.0
+
+Total
+
+2,103
+
+100.0
+
+Sources: Département forestier fédéral (1995 et 1999).
+
+En matière d'aménagement durable des forêts, le principal souci du gouvernement est de remettre en état les forêts dégradées par le développement agricole, la surexploitation et la création d'infrastructures. Les pouvoirs publics sont en effets conscients du fait que, si la ressource forestière n'est pas préservée, la majorité des réserves forestières du pays finiront par devenir des " parcs de papier ". Le service forestier s'occupe donc avant tout de boisement, activité qui absorbe une grande partie (47,6 pour cent) des dépenses envisagées.
+
+La gestion de la faune sauvage représente environ 20,2 pour cent des dépenses d'investissement proposées. Ces fonds sont utilisés pour la création et l'entretien de zones de conservation ex situ (jardins zoologiques et centres de sauvetage), et pour des activités de protection. La conservation in situ représente quant à elle 10,2 pour cent du budget prévisionnel et couvre la protection du domaine forestier ainsi que les opérations d'aménagement et de planification, dans les réserves forestières. Le renforcement des capacités représente 10 pour cent du budget prévisionnel.
+
+La recherche est la composante la plus faible du budget d'investissement prévisionnel (3 pour cent). Au Nigeria, la recherche forestière se fait à deux niveaux : à l'institut nigerian de recherche forestière, qui effectue les recherches en rapport avec le développement durable de la ressource forestière et dans les instituts d'enseignement supérieur (polytechnique et universités) du pays. Malheureusement, les financements alloués au secteur forestier sont si bas que les résultats de ces recherches sont pour l'instant le plus souvent insignifiants.
+
+Les difficultés de financement des diverses institutions gouvernementales compétentes en matière d'aménagement forestier sont dues aux facteurs suivants :
+
+1. Les hommes politiques et les décideurs ne sont pas conscients de l'importance de la foresterie pour le développement du pays. Le montant des crédits à allouer au secteur est ordinairement déterminé sur la base d'une comparaison avec l'agriculture, en termes de contribution au PIB. Malheureusement, la plupart des produits des forêts (autres que le bois) sont exclus de ces calculs, de sorte que le secteur forestier paraît jouer un rôle insignifiant dans l'économie.
+2. Le financement insuffisant et le retard ou l'absence de déblocage des crédits budgétaires convenus pour le secteur.
+3. Le désintérêt du secteur privé : l'aménagement des forêts est considéré comme l'affaire du gouvernement, ce qui n'incite pas le secteur privé à investir pour développer le secteur.
+4. L'absence de volonté politique du gouvernement, qui ne se préoccupe pas de soutenir le développement du secteur forestier.
+
+Plusieurs options sont possibles pour améliorer le financement public de l'aménagement des forêts:
+1. Les administrateurs des forêts devraient intervenir activement dans des questions intersectorielles qui ont une incidence sur le développement du secteur forestier. Par exemple, si la contribution des forêts aux approvisionnements en énergie domestique du pays est reconnue comme significative, le financement des programmes énergétiques devrait être examiné en tenant compte, non seulement du secteur pétrolier, mais aussi du sous-secteur des forêts.
+2. Les administrateurs des forêts devraient sensibiliser les législateurs, les membres du pouvoir exécutif et le grand public au rôle de la foresterie dans la stabilité de l'environnement et le bien-être socio-économique des populations.
+3. Les principaux utilisateurs des produits forestiers devraient être encouragés à investir dans l'aménagement des forêts.
+4. Le gouvernement devrait continuer à mobiliser une aide extérieure pour des secteurs spécifiques de l'aménagement des forêts. Les dons et les prêts déjà obtenus en faveur du développement du secteur forestier ont eu un impact positif significatif dans des secteurs comme la conservation de la faune sauvage, le renforcement des capacités et le développement des infrastructures forestières.
+5. Les recettes provenant des forêts devraient être mises à disposition pour l'aménagement des forêts.
+
+
+Les effets des autres politiques fiscales sur l'aménagement durable des forêts
+
+Les autres politiques fiscales qui ont une incidence sur l'aménagement durable des forêts se sont caractérisées par leur instabilité et leur fréquents remaniements. Les cadres de politique et les stratégies qui ont été définis pour atteindre les objectifs ont très rarement été ancrés dans les valeurs et les objectifs fondamentaux de la société nigériane ou largement acceptés par la population. Les politiques passées qui ont eu un impact sur le secteur forestier ont découlé dans une large mesure de l'agitation qui a régné durant les trois dernières décennies.
+
+Dans le passé, les fréquentes modifications des politiques fiscales et budgétaires ont dans une large mesure été la conséquence de changements de gouvernement, pour la plupart peu favorables au secteur forestier. Par exemple, entre 1973 et 1985, les politiques budgétaires étaient caractérisées par un taux d'expansion relativement stable et un niveau élevé des dépenses dans le secteur agricole. Mais entre 1986 et 1988, un programme d'ajustement structurel s'est traduit par une politique d'austérité, visant à réduire les déficits budgétaires et à réorienter les dépenses d'investissement et le crédit vers l'agriculture, le développement rural et la transformation. Durant la période 1989-1992, cette discipline budgétaire s'est relâchée et des déficits considérables ont commencé à s'accumuler à un rythme croissant. Ces revirements politiques ont mis le secteur forestier à rude épreuve.
+
+Les principales politiques fiscales extra-sectorielles qui ont une influence sur le secteur forestier ont trait à la sécurité alimentaire, aux approvisionnements en énergie domestique, au logement, au commerce, et au développement industriel, et chacune a eu un impact différent sur la durabilité de l'aménagement des forêts.
+
+Politiques fiscales visant à soutenir la sécurité alimentaire
+
+Ces politiques ont principalement soutenu la production alimentaire, par des prix élevés et par une extension des cultures sur des terres forestières. Or, les prix élevés des denrées ont obligé les communautés rurales à devenir trop dépendantes des forêts naturelles pour leur subsistance. Premièrement, les membres des communautés rurales économiquement tributaires des forêts, les ont exploité de manière plus intensive, notamment pour obtenir des produits mineurs, afin d'accroître leurs revenus. Deuxièmement, les individus trop pauvres pour pratiquer l'élevage ont été pratiquement contraints de chasser et de pêcher à l'intérieur des domaines forestiers, pour assurer leur consommation de protéines animales. Troisièmement, la multiplication des mauvaises pratiques d'exploitation des produits forestiers non ligneux, à des fins alimentaires, a nui a la conservation de la diversité biologique.
+
+La brusque poussée des prix des produits alimentaires a aussi incité les petits paysans à développer leurs exploitations agricoles. Or, comme plus de 95 pour cent des approvisionnements alimentaires proviennent de petites exploitations, l'expansion de l'agriculture artisanale basée sur des méthodes traditionnelles (ex : agriculture itinérante) s'est faite au détriment de la forêt naturelle. Ainsi la superficie totale de terres cultivées a été en expansion continue : 8,9 millions d'hectares en 1957, 9,1 millions d'hectares en 1960, 21,8 millions d'hectares en 1970, et 59, 9 millions d'hectares en 1995 (Federal Office of Statistics (1972), mise à jour avec des données plus récentes).
+
+Par suite de l'expansion de la superficie de terres consacrées à la production agricole, environ 2,4 pour cent des réserves forestières officielles du pays ont disparu. Pourtant, la demande intérieure de produits forestiers n'a fait qu'augmenter et reste supérieure à l'offre. Un proportion importante des forêts communautaires ayant une valeur culturelle (ex : bois sacrés) et la majorité des sites de conservation in situ situés en dehors des réserves forestières du gouvernement, ont par exemple été défrichées en raison des prix élevés des produits alimentaires. Le Projet de développement agricole et l'Autorité nationale pour le développement agricole soutiennent aussi la production alimentaire, par une expansion des surfaces cultivées.
+
+Politiques budgétaires dans le secteur de l'énergie
+
+Les efforts déployés par le gouvernement pour intégrer l'offre de bois de feu dans le secteur de l'énergie ont aussi été une cause majeure de la dégradation des forêts et de perte de biodiversité. Le Nigeria est fortement tributaire du bois pour ses approvisionnements en énergie domestique, car les ménages utilisent traditionnellement le bois comme combustible. Le bois de feu représente 80 pour cent de la consommation d'énergie domestique, soit plus de 109 millions de mètres cubes de bois par an (Cleaver et Schreiber, 1994).
+
+En zone urbaine comme en zone rurale, le principal substitut du bois de feu est le kérosène, qui reste toutefois hors de la portée des pauvres, en raison de son prix volatile et élevé, de problèmes de distribution et de pénuries locales. Ceci se traduit par une dépendance croissante à l'égard de la forêt naturelle pour les approvisionnements en énergie domestique. L'exploitation massive des forêts pour l'approvisionnement en bois de feu contribue à la dégradation de l'environnement, à l'érosion du sol, à la désertification et à la perte croissante de la biodiversité et d'habitats naturels à l'intérieur des réserves créées par le gouvernement.
+
+En intégrant mieux les approvisionnements en bois de feu dans le secteur de l'énergie, la production extensive de bois de feu issu des plantations forestières pourrait satisfaire les besoins en énergie domestique en zone rurale, sans accroître la pression sur la forêt naturelle.
+
+Les politiques fiscales dans le secteur du logement
+
+Le Gouvernement nigérian s'est fixé pour objectif de donner à chacun un logement d'ici 2005. Ceci a encouragé la surexploitation des forêts pour fournir au secteur du logement les produits des forêts et de la terre nécessaires à son expansion. Comme le secteur du logement couvre 98 pour cent de ses besoins en bois (toitures, huisseries, volets, mobilier etc...), avec les ressources des forêts du pays, les volumes de bois prélevés ont dépassé les possibilités de coupe annuelles et compromis les activités proposées dans les plans d'aménagement pour régénérer et préserver les forêts.
+
+Politiques commerciales et industrielles
+
+Au Nigeria, la politique relative au commerce des produits forestiers est instable depuis les années 80. En 1985, le gouvernement a interdit les exportations de bois ronds, pour lever la prohibition en 1986. En 1995, la demande de perches de Teck était forte sur les marchés internationaux, ce qui a conduit les entrepreneurs à exploiter massivement les plantations de Teck, car ils pouvaient exporter le bois à un bon prix.
+
+Craignant les effets négatifs des exportations massives de Teck sur l'environnement, le gouvernement a à nouveau sévèrement interdit ces exportations en 1997. Toutefois, la réintroduction de la prohibition s'est traduite par le rejet (en mer) de bois de teck prisé qui avait déjà été coupé. Vu le faible niveau des redevances sur le bois, qui étaient inférieures au coût de production dans les plantations forestières, et de toutes façons versées sur les comptes consolidés des Etats, les exportations de bois d'oeuvre n'ont rien rapporté au secteur forestier.
+
+Soucieux d'améliorer le niveau de vie de la population, le gouvernement a été amené à développer les infrastructures de transport et à promouvoir la croissance industrielle. Ces politiques se sont traduites par la construction de nouvelles routes, l'expansion du réseau routier existant et la création d'industries pour fournir des emplois à la population en augmentation. Ces activités ont accru la demande de terres, ce qui a compromis l'aménagement des forêts.
+
+Politiques environnementales
+
+La création de huit parcs nationaux dans le pays (Old Oyo, Yankari, Bassin du Tchad, lac de Kainji, Cross River, Gashaka-Gumti, Okomu et Kamuku), a obligé le gouvernement à accorder un soutien financier accru à des activités d' aménagement durable des forêts ne relevant pas du secteur forestier. Par exemple, entre 1992 et 1999, le budget d'investissement dans les parcs nationaux était supérieur d'environ 60 pour cent aux sommes mises à disposition pour d'autres projets forestiers, au cours de la même période.
+
+L'établissement du Ministère fédéral de l'environnement a aussi élargi le champ d'application de l'aménagement forestier durable. Par exemple, trois départements (forêts, conservation de l'environnement et lutte contre la sécheresse et la désertification) s'occupent à présent ensemble de questions en rapport avec l'aménagement forestier durable, comme la régénération des forêts, la conservation de la diversité biologique et la conservation des sols. Ainsi, en plus des activités spécifiques que mène le gouvernement dans le secteur forestier, davantage de fonds sont aujourd'hui mis à la disposition du secteur, dans le cadre des activités d'autres secteurs.
+
+
+Attitude face au changement
+
+Arrangements politiques et institutionnels généraux
+
+Soucieux d'enrayer les processus de désertification rapide des zones semi-arides, d'érosion du sol, de déforestation généralisée, de pollution de l'environnement ainsi que la perte progressive de la biodiversité, le Président du Nigeria a chargé le Département forestier fédéral d'entreprendre sans attendre un programme énergique de remise en état de l'environnement. La directive, publiée en 1999, précisait quels devaient être les principaux axes des initiatives de développement forestier:
+
+1. élaboration de programmes forestiers pour chaque zone écologique ;
+2. création de réserves forestières dans chaque zone sous administration locale du pays ;
+3. mise en place d'un programme de développement rural et d'aménagement des terres arides aux fins de la conservation des forêts et de la faune sauvage;
+4. examen complet de la politique forestière nationale.
+
+La création du Ministère fédéral de l'environnement, doté de trois départements techniques responsables de problèmes spécifiques (désertification, dégradation de l'environnement, aménagement et conservation des forêts), montre l'importance qu'accorde le gouvernement fédéral au secteur forestier. L'aménagement forestier a été réorienté vers l'examen de la politique nationale forestière, l'introduction d'une législation nationale sur les forêts et la faune sauvage, l'examen de la législation forestière des Etats, la formation et le recyclage en matière d'aménagement des forêts, le développement de la recherche forestière, la formation et le recyclage de techniciens forestiers et l'amélioration des ressources forestières et des centres de soutien nationaux.
+
+L'administration actuelle s'intéresse de très près au développement du secteur forestier, qu'elle a classé en tête de ses priorités. Le principal souci du gouvernement est de préserver l'environnement grâce à des programmes de boisement, à la fois pour lutter contre l'avancée du désert et l'érosion du sol, et pour que les forêts continuent à fournir des biens et des services à l'économie.
+
+Questions intersectorielles
+
+Le gouvernement a toutefois tendance à prescrire des solutions sans chercher à analyser les causes des problèmes. C'est ainsi que ses actions ne sont pas basées sur une approche participative et semblent occulter les causes profondes qui entravent la croissance du secteur forestier.
+
+Au Nigeria, beaucoup de problèmes affectant le secteur forestier, ne peuvent être résolus que par des politiques concernant d'autres secteurs. Par exemple, même si toutes les terres publiques classées comme réserves étaient plantées en forêts et exploitées de manière intensive, leurs rendements en bois et en produits non ligneux ne seraient pas suffisants pour faire vivre la population qui s'accroît. Ainsi, pour résoudre ce problème, il faut premièrement, que le gouvernement crée de nouvelles réserves forestières et remette en état celles qui existent déjà. L'objectif de convertir 25 pour cent de la superficie totale de terres du pays en réserves forestières est crucial à cet égard. Deuxièmement, les activités des programmes forestiers doivent être étendues au-delà des limites des réserves forestières. Il est important d'introduire des arbres cultivés dans les fermes pour accroître la base de ressources nécessaire à la production de bois et de produits forestiers non ligneux
+et pour créer de nouveaux habitats pour les petits animaux (oiseaux, rongeurs et reptiles).
+
+Le gouvernement devrait aussi se pencher sur les problèmes que pose l'accroissement d'une population tributaire des forêts pour sa subsistance, et tenter de le résoudre en introduisant, par le biais d'une réforme des politiques, des programmes qui atténueront la pression sur les forêts pour l'approvisionnement en biens et services. Ces programmes devraient fournir à la population d'autres sources d'énergie domestique et garantir aux communautés rurales et urbaines un accès équitable et à des prix abordables au kérosène, tout en améliorant la distribution de ce produit. Le go uvernement devrait faire en sorte de sensibiliser les populations afin qu'elles acceptent et adoptent d'autres modes d'utilisation des terres, pour réduire leur dépendance à l'égard des forêts.
+
+L'agriculture est le premier mode d'utilisation des terres au Nigeria, avec environ 59, 9 millions d'hectares, ou 64 pour cent de la superficie totale des terres du pays. L'agriculture constitue donc la principale menace pour le développement forestier. Toutefois, le Nigeria n'a probablement pas besoin de 59, 9 millions d'hectares de terres agricoles pour nourrir 120 millions de personnes. Si la production agricole supérieure n'est pas intensifiée à un rythme supérieur à celui de la croissance de la population, il sera impossible d'éviter que l'agriculture ne continue à grignoter les réserves forestières du pays, et le Nigeria sera confronté à l'insécurité alimentaire, même si toutes les terres restantes sont mises en culture (Cleaver et Schreiber, 1994).
+
+Pour que le secteur forestier progresse, le gouvernement devrait réexaminer la politique du secteur, et celle d'autres secteurs qui ont une incidence sur son développement. Un projet de loi nationale sur les forêts (à soumettre à l'examen de l'Assemblée nationale), vient d'être déposé et pourrait influencer l'attitude du gouvernement si elle est votée et mise en oeuvre dans de bonnes conditions. Toutefois les services forestiers des Etats, responsables dans une large mesure du développement forestier, ne semblent pas comprendre comment améliorer les performances économiques, sociales et environnementales du secteur. Le principe hérité du régime militaire de 1979 à 1999, à savoir que les forêts sont une ressource qui se régénère naturellement et dont les biens et services peuvent être exploités sans qu'il soit nécessaire de réinvestir, semble avoir la vie dure, mais le gouvernement s'efforce d'améliorer cette situation.
+
+Mettre en oeuvre le changement dans un système décentralisé
+
+En matière de développement forestier, le gouvernement fédéral a essentiellement un rôle de conseil. Les barèmes des redevances forestières qui ne reflètent pas les conditions économiques qui prévalent depuis plusieurs années, risquent de rester bas pendant un certain temps, car chaque Etat exerce sa prérogative de décider de son propre régime fiscal forestier. En outre, dans les Etats du Nord, il est difficile de réviser la fiscalité forestière car les statuts prévoient que les gouvernements locaux interviennent dans l'administration et le recouvrement des recettes du secteur.
+
+Les gouvernements des Etats n'ont pas été en mesure de fournir les fonds nécessaires au secteur, ce qui explique le manque de dynamisme des activités dans tous les Etats, sauf dans ceux qui avaient des projets financés par des ressources extérieures. Le personnel des services forestiers des Etats n'est pas motivé, l'équipement de terrain et les vêtements de protection ne sont pas fournis et les indemnités ne sont pas payées.
+
+La politique forestière en vigueur doit aussi être revue pour associer les communautés aux décisions concernant l'aménagement, le partage des recettes provenant des forêts naturelles, le développement des forêts privées et la réglementation de l'exploitation dans les réserves forestières. Dans le cadre de ce processus, les responsables des politiques forestières doivent tenir compte des droits de jouissance traditionnels des communautés dans les zones forestières, lorsqu'ils examinent les modèles d'utilisation des forêts et de partage des bénéfices.
+
+Remaniements du régime fiscal
+
+Le régime fiscal forestier se caractérise par une très grande hétérogénéité entre les Etats et à l'intérieur d'un même Etat. Une révision s'impose pour améliorer la base de recettes. Toutefois une politique de prix différenciée devrait être introduite pour protéger les pauvres qui sont tributaires des produits forestiers non ligneux pour leur subsistance et pour protéger des essences forestières gravement menacées (Département forestier fédéral, 1995). Les droits de coupe et les redevances VBA devraient refléter plus fidèlement les prix du bois rond sur le marché et les redevances par unité de surface devraient être basées sur le matériel sur pied et sur la superficie de terre.
+
+Les recettes forestières représentent un enjeu pour le gouvernement (gouvernements des Etats et administrations locales) et pour les communautés locales, qui ont un droit de jouissance coutumier sur les terres qui procurent les recettes. Les recettes sont distribuées aux administrations locales sur la base de la formule de partage des recettes appliquée dans l'Etat. Cette part va de 20 pour cent dans la zone de forêt ombrophile, à 40 pour cent dans les zones de savane. Les communautés rurales reçoivent quant à elles entre 20 et 25 pour cent des recettes. Le bien-fondé des formules de partage existantes ne peut être déterminé que si les parties prenantes sont pleinement associées au processus décisionnel.
+
+Les produits forestiers du pays sont fortement sous-évalués sur le marché intérieur. Ceci s'explique en partie par la forte variabilité des redevances forestières, qui tient au fait que chaque Etat est indépendant et libre de fixer ses propres tarifs forestiers. A qualité et quantité égale, les utilisateurs paient donc des prix très différents, suivant les Etats, même si ceux-ci ont une frontière commune. Le prix du bois d'oeuvre sur le marché est sans rapport avec les redevances forestières ou avec le coût de régénération de la forêt (Département forestier fédéral, 1995). Dans de telles conditions, toute tentative d'encourager la plantation d'arbres est vouée à l'échec. C'est pourquoi il faudrait concevoir une politique appropriée pour déterminer les redevances ou les taxes forestières, afin de garantir une utilisation durable à long terme des produits forestiers. A court terme, on ne peut guère faire plus que de lancer une campagne de sensibilisation, pour montrer aux
+populations où mène la fixation de redevances forestières exagérément faibles (déforestation et dégradation des terres).
+
+Comme la majorité des produits forestiers qui arrivent sur le marché intérieur échappent au paiement de toute redevance (augmentation des activités illicites), les prix pratiqués sur le marché intérieur ne reflètent pas leur valeur réelle, et encore moins les coûts et les avantages environnementaux et sociaux plus généraux associés à leur production. Cette situation favorise les gaspillages, l'inefficacité au stade de la production et de la consommation, et dissuade les entrepreneurs privés de cultiver des arbres pour leur consommation personnelle ou à des fins commerciales. Ainsi, l'écart considérable entre les régimes fiscaux et les règlements forestiers des différents Etats nuit aux investissements dans le secteur. Voici quelques propositions pour résoudre ce problème :
+1. Le gouvernement devrait lever toute forme de restriction à l'exportation du bois;
+2. Les régimes fiscaux forestiers devraient être révisés, sur la base d'une étude nationale des recettes forestières, de directives globales sur l'aménagement des forêts et d'une base de données complète et détaillée sur les coûts d'établissement et d'aménagement des forêts ;
+3. Le gouvernement devrait associer toutes les parties prenantes à la formulation des régimes fiscaux forestiers, au recouvrement et au partage des recettes.
+
+
+
+
+
+
+
+BIBLIOGRAPHIE
+
+Adeyoju, S K, 1975, Forestry development in the new Economic Community of West African States, paper to the African Forestry Commission, Session 4, Bangui (Central African Republic - 22 March 1976), Food and Agriculture Organization of the United Nations, Rome.
+
+Adeyoju, S K, and Enabor, E, 1988, Nigeria forest revenue system II: a review of the tariff structure and proposal for charges on timber, poles, fuelwood and minor produce, FORMECU, Abuja.
+
+Cleaver, K M, and Schreiber, G A, 1994, Reversing the spiral: the population, agriculture and environment nexus in sub-Saharan Africa, World Bank, Washington DC.
+
+Cnossen, S, 1979, Excise Systems: a global study of the selective taxation of goods and services, John Hopkins University Press, Baltimore.
+
+Federal Department of Forestry, 1995, Nigerian forestry action programme, main report, vol II, part I, Federal Department of Forestry, Abuja.
+
+FDF, 1999, Proposed forestry development programme, Federal Department of Forestry, Abuja.
+
+Federal Office of Statistics, 1972, Rural economic survey of Nigeria: results of crop estimation survey 1968 - 71, Federal Office of Statistics, Lagos.
+
+FORMECU, 1993, Forestry revenue system development in Nigeria, FORMECU, Abuja.
+
+FORMECU, 1994, Review of wood based sector in Nigeria - a report by General Woods and Veneers Consultants Ltd (Canada) and the Department of Forest Resources Management, University of Ibadan (Nigeria), FORMECU, Abuja.
+
+FORMECU, 1998, The assessment of vegetation and landuse changes in Nigeria 1976 - 95, FORMECU, Abuja.
+
+FORMECU, 1999a, Forest resources study: Nigeria market assessment and pricing policies, FORMECU, Abuja.
+
+FORMECU, 1999b, Forest resources study, Delta State forest management plan, FORMECU, Abuja.
+
+Gray, J A, 1981, Nigeria forest revenue systems, FORMECU, Federal Department of Forestry, Lagos.
+
+Mervart, J, 1972, Nigeria: aspects of forest management: report to the government.
+
+Udo, R K, 1982, Food production and agricultural development strategies in Nigeria, in: Joint Research Program Series (Japan), no 31, Institute of Developing Economies, Tokyo.
+
+
+
+
+LISTE DE DOCUMENTS PUBLIES DANS LE CADRE DU PROGRAMME DE LA FAO SUR LE FINANCEMENT DE L'AMENAGEMENT DURABLE DES FORETS
+
+
+Whiteman, A, 2001, Le financement de l'aménagement durable des forêts : contraintes et opportunités, Document de travail sur le financement de l'aménagement durable des forêts : FSFM/WP/01, Organisation des Nations Unies pour l'alimentation et l'agriculture, Rome.
+
+Federal Department of Forestry, Nigeria, 2001, Régime fiscal forestier et dépenses de l'état en faveur du secteur forestier au Nigeria, Document de travail sur le financement de l'aménagement durable des forêts : FSFM/WP/02, Organisation des Nations Unies pour l'alimentation et l'agriculture, Rome.
+
+
+

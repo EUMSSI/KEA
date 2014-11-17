@@ -1,0 +1,1134 @@
+Directrices sobre Buenas Prácticas en los Contratos de Arrendamiento Agrario
+
+
+
+FAO ESTUDIOS SOBRE TENENCIA DE LA TIERRA
+2
+
+ORGANIZACIÓN DE LAS NACIONES UNIDAS PARA LA AGRICULTURA Y LA ALIMENTACIÓN
+Roma, 2002
+
+Indice
+
+
+Las denominaciones empleadas en esta publicación y la forma en que aparecen presentados los datos que contiene no implican, de parte de la Organización de las Naciones Unidas para la Agricultura y la Alimentación, juicio alguno sobre la condición jurídica de países, territorios, ciudades o zonas, o de sus autoridades, ni respecto de la delimitación de sus fronteras o límites.
+
+ISBN 92-5-304667-8
+
+Todos los derechos reservados. Se autoriza la reproducción y difusión de material contenido en este producto informativo para fines educativos u otros fines no comerciales sin previa autorización escrita de los titulares de los derechos de autor, siempre que se especifique claramente la fuente. Se prohíbe la reproducción de material contenido en este producto informativo para reventa u otros fines comerciales sin previa autorización escrita de los titulares de los derechos de autor. Las peticiones para obtener tal autorización deberán dirigirse al Jefe del Servicio de Gestión de las Publicaciones de la Dirección de Información de la FAO, Viale delle Terme di Caracalla, 00100 Roma, Italia, o por correo electrónico a copyright@fao.org
+
+© FAO 2002
+
+
+Indice
+
+
+PREFACIO
+
+AGRADECIMIENTOS
+
+PARTE 1: INTRODUCCIÓN Y PRINCIPIOS GENERALES
+
+1 Introducción
+
+Antecedentes y contexto
+Objetivos de las Directrices
+Esquema de la Directrices
+
+2 Naturaleza y contexto de los contratos de arrendamiento
+
+Introducción
+Variedad de los contratos de arrendamiento
+Acuerdos de licencia contractual
+Arrendamiento a cambio de mano de obra
+Aparcería y otros contratos análogos
+Arrendamientos a cambio de una renta fija
+Acuerdos a la inversa
+
+3 Cuestiones principales para el propietario de la tierra y el arrendatario
+
+Introducción
+Conciliación de las necesidades del propietario de la tierra y el arrendatario
+Duración del contrato de arrendamiento
+Los arrendatarios y la sucesión familiar
+Renovación del contrato
+
+PARTE 2: BUENAS PRÁCTICAS EN LOS CONTRATOS DE ARRENDAMIENTO
+
+4 Elementos de un contrato de arrendamiento
+
+Introducción
+Nombres de las partes
+Fecha de comienzo y duración del acuerdo
+Descripción de la propiedad
+Constancia del acuerdo
+Derechos y obligaciones de uso
+Derecho de rescisión
+Cláusulas principales del acuerdo
+Cláusulas relativas al mantenimiento de la tierra
+Cláusula relativa a la devolución de la tierra en el mismo estado al término del arrendamiento
+Disposiciones sobre mejoras o cambios de uso
+Obligaciones financieras respecto de recursos compartidos
+Renta u otro tipo de compensación
+Disposiciones sobre indemnización
+Solución de controversias
+
+5 Buenas prácticas en relación con las acuerdos de licencia y de aparcería
+
+Introducción
+Nombres de las partes
+Acuerdo sobre la distribución de la tierra
+Comienzo, duración y terminación del acuerdo
+Distribución de los insumos
+Distribución de los productos
+Evitación y solución de controversias
+
+6 Recomendaciones para aplicar buenas prácticas en los contratos de arrendamiento
+
+Introducción
+Preparación de un modelo de arrendamiento
+Compromiso de remitirse a un modelo de acuerdo en caso de controversia sobre las condiciones de arrendamiento
+Aumento de la transparencia
+Acceso a información apropiada
+
+PARTE 3: BUENAS PRÁCTICAS EN RELACIÓN CON FACTORES CONTEXTUALES
+
+7 Factores contextuales
+
+Introducción
+Políticas de tenencia de la tierra
+Políticas fiscales y financieras
+Políticas de uso de la tierra
+Marco jurídico
+
+NOTAS
+
+BIBLIOGRAFÍA
+
+CUBIERTA POSTERIOR
+Indice Página siguiente
+
+
+PREFACIO
+
+El presente volumen forma parte de la colección Estudios sobre Tenencia de la Tierra, publicada por la FAO desde 1951. La tenencia de la tierra es de vital importancia para conseguir un desarrollo rural sostenible. El cambio tecnológico y la integración económica en aumento están obligando a los encargados de formular políticas, los planificadores, los expertos en desarrollo y los productores rurales a reexaminar los mecanismos institucionales utilizados para determinar quién tiene derecho a qué recursos, con qué fines y por cuánto tiempo. Algunos estudios de esta colección tienen por objeto aclarar ciertos aspectos de la compleja y polémica cuestión de la reforma agraria. Otros proporcionan a quienes trabajan en programas agrarios orientación sobre metodología y empleo de términos técnicos.
+
+Este volumen pertenece al segundo grupo, y en él se exponen los principios básicos que rigen los intereses temporales y de parte relacionados con los recursos dentro de las economías rurales modernas. Se presentan enseñanzas extraídas de un amplio examen de la bibliografía sobre este tema, a las que se añaden las experiencias adquiridas en muchos años de observación de las prácticas de arrendamiento agrario. El estudio fue dirigido por el Sr. Simon Keith, que fue Oficial Superior de Tenencia de la Tierra hasta su jubilación. Forma parte de un programa del Servicio de Tenencia de la Tierra concebido para responder a la preocupación general de la FAO por la seguridad alimentaria y la mitigación de la pobreza. Los Estados Miembros recurren cada vez más a los sistemas modernos de tenencia de la tierra para mejorar el acceso a ésta de las personas pobres (a menudo mujeres) que desean acometer actividades agrícolas y corregir situaciones en las que los regímenes vigentes de
+tenencia de la tierra no favorecen su uso sostenible. Unas buenas prácticas de arrendamiento de la tierra pueden desempeñar una importante función en los sistemas modernos de tenencia de la tierra. Este libro, como otros de la colección, no trata de ser exhaustivo, sino más bien de consignar lo que, según las conclusiones a que han llegado la FAO y sus numerosos colaboradores internacionales, es una "buena práctica" para un aspecto concreto de la administración de tierras. Se pretende que sea útil para los oficiales de campo de la FAO, los funcionarios de los Estados Miembros que realizan tareas similares y los ministros y otras autoridades superiores encargados de formular políticas agrarias. El Servicio de Tenencia de la Tierra de la FAO espera con interés proseguir la colaboración con su público más amplio.
+
+Maximiliano Cox
+Director, Dirección de Desarrollo Rural
+
+
+Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+AGRADECIMIENTOS
+
+Directrices preparadas por
+
+Neil Ravenscroft
+
+Equipo de Investigación
+
+Richard Benny
+Roger Gibbard
+Susana Lastarria-Cornhiel
+Susan Markwell
+Jolyne Melmed-Sanjak
+Jo Reeves
+
+Grupo de Examen
+
+Tom Konyimbih
+Brian Waldy
+Gene Wunderlich
+
+Comité Directivo
+
+Simon Keith (Chair)
+Sukumar Das
+Frithjof Kuhnen
+Jonathan Lindsay
+Paul Munro-Faure
+Sue Nichols
+David Palmer
+Jim Riddell
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+PARTE 1: INTRODUCCIÓN Y PRINCIPIOS GENERALES
+
+1 Introducción
+
+Antecedentes y contexto
+
+1.1 El arrendamiento de la tierra es un elemento importante del entorno en que se desarrolla la agricultura en todo el mundo. El contrato de arrendamiento agrario es una realidad que ha de tenerse en cuenta. Existe una gran variedad de tipos de contrato, que van desde los arrendamientos a cambio de mano de obra y los acuerdos de aparcería en pequeña escala, frecuentes en África, Asia y América Latina, hasta los arrendamientos de tierras de Europa septentrional y otras zonas de la OCDE^1, donde el cultivo esta sumamente mecanizado. Aunque sus contextos son muy diferentes, todos ellos presentan una forma similar, que se caracteriza por una separación entre propiedad y uso de la tierra.
+
+1.2 El arrendamiento es un medio para que las familias de agricultores que no poseen tierras o capital, o los poseen en pequeña cantidad, tengan acceso a la tierra. En ese sentido, el contrato de arrendamiento constituye una parte tan consabida de la estructura del sector agrícola que a menudo su importancia es pasada por alto, subestimada o mal interpretada. De hecho, la persistencia de esos contratos es motivo de preocupación en las regiones donde están asociados con la concentración de la propiedad de la tierra y desequilibrios de poder a favor de los terratenientes.
+
+1.3 En lugar de tratar de corregir esos desequilibrios estructurales mediante un examen de los contratos de arrendamiento, algunos Estados han intentado reemplazar el arrendamiento por la explotación personal y directa (véase el Recuadro 1.1). Sin embargo, como se observa en el ejemplo del Recuadro 1.1, el fomento de la explotación personal y directa no se ha traducido necesariamente en la desaparición del arrendamiento ni en un mayor equilibrio de poder en la agricultura. El arrendamiento sigue siendo importante, incluso donde ha habido intentos oficiales de reemplazarlo. Esta discrepancia entre la normativa y la práctica es una característica destacada del sector agrícola aun en aquellos lugares donde los contratos de arrendamiento están sancionados oficialmente.
+
+Recuadro 1.1
+
+LOS EFECTOS DE LA REFORMA DE LA TENENCIA DE LA TIERRA EN LA INDIA
+
+Durante la década de los cincuenta, todos los estados de la India abolieron los derechos e intereses de los intermediarios sobre la tierra. Se otorgó la condición de riyati, es decir propietario que cultiva directamente la tierra, a quienes estaban de facto en posesión de ella en esos momentos, incluidos los arrendatarios y subarrendatarios. De este modo 8,8 millones de beneficiarios tuvieron acceso a unos 7,3 millones de hectáreas.
+
+A pesar de ello, para la década de los sesenta era evidente que gran parte de la tierra que los terratenientes habían conservado legalmente en calidad de riyati se cultivaba en ese entonces mediante acuerdos extraoficiales, predominantemente de aparcería. Una nueva legislación sobre reforma agraria, de alcance provincial, intentó otorgar a esos arrendatarios y aparceros derechos de riyati, ofreciéndoles títulos de propiedad de la tierra a cambio de una cantidad fijada oficialmente y pagadera en diez plazos.
+
+Sin embargo, tampoco esta medida impidió que se concertaran contratos de arrendamiento. Según datos recientes del Gobierno de la India (informe de la 48ª Ronda de NSS, 1996), en la actualidad hay 17,1 millones de hogares (el 15 por ciento de todos los hogares rurales) con tierras en arriendo o aparcería cuya superficie asciende a 9,4 millones de hectáreas (el 8 por ciento de todas las tierras de cultivo). Se estima que el 84 por ciento aproximadamente de esos 17,1 millones de arrendatarios y aparceros no disponen de un registro oficial de sus intereses ni están protegidos contra el desahucio, y por consiguiente no tienen acceso al crédito institucional ni a otros insumos que suelen obtenerse a través de cooperativas u otros cauces convencionales.
+
+1.4 El renovado interés por el arrendamiento de la tierra que se ha observado recientemente forma parte del reconocimiento más generalizado de la necesidad de promover una agricultura intensiva de carácter familiar como medio de aprovechar la abundancia en todo el mundo de tierras de cultivo no utilizadas o explotadas insuficientemente (incluida la tierra que se cultiva actualmente con ayuda de maquinaria). En estas circunstancias, surgen constantemente nuevas situaciones y oportunidades, con formas de arrendamiento que permiten beneficiarse tanto a los terratenientes como a los propietarios de tierras improductivas, según se indica en el Recuadro 1.2.
+
+1.5 Además, muchos aparceros que son propietarios de tierras improductivas o que no disponen de capital para comprar tierra, aun en el caso de que la hubiera, han expresado su deseo de tener más libertad en el uso de las tierras que cultivan. En los antiguos países comunistas, la resistencia de muchas familias a vender las tierras que han adquirido recientemente está obstaculizando la concentración de las parcelas pequeñas y dispersas resultantes del proceso de restitución y privatización de la tierra para crear explotaciones más viables. En todos estos casos, una mejora en los acuerdos de arrendamiento puede ofrecer posibles soluciones.
+
+Recuadro 1.2
+
+EL ARRENDAMIENTO DE LA TIERRA COMO ELEMENTO DE IGUALACIÓN DEL TAMAÑO DE LAS EXPLOTACIONES AGRÍCOLAS EN JAVA OCCIDENTAL
+
+La tenencia de la tierra en Java occidental está en gran medida libre de restricciones legales. Aunque aproximadamente el 70 por ciento de las parcelas cultivadas son explotadas directamente por el propietario, hay datos que indican que el arrendamiento de la tierra actúa como un elemento de igualación del tamaño de las explotaciones agrícolas. Esto ha sucedido en las zonas de tierras altas, donde la reorientación de los cultivos tradicionales hacia las hortalizas se ha realizado a través de una agricultura contractual organizada por intermediarios. Ese mercado de arrendamientos ha permitido que aumentara el acceso a tierras apropiadas para el cultivo de hortalizas, mientras que, antes de que se cultivaran, no había tierras en arriendo en esas zonas. En lugar de arrendar directamente la tierra, los agricultores con tierras improductivas la subarriendan a los intermediarios, con la condición de que sean éstos quienes vendan las hortalizas cosechadas. Durante la campaña en que
+las tierras no se utilizan para cultivar hortalizas, los intermediarios suelen arrendarlas como arrozales. Este tipo de acuerdo se considera beneficioso para todas las partes. El agricultor sale ganando porque tiene acceso a más tierras fuera de la aldea. El terrateniente sale ganando porque se reducen sus costos de transacción, al ser el intermediario quien se ocupa de todas las operaciones de subarriendo.
+
+[Yokoyama, S. 1995. 'Agricultural diversification and institutional change: a case study of tenancy contract in Indonesia', Developing Economies 33(4): 374-396]
+
+1.6 El arrendamiento brinda también posibilidades para la gestión de la agricultura en gran escala en los países desarrollados. Aunque no se enfrentan con las situaciones extremas de concentración de la tierra y falta de acceso a ella que se registran en los países en desarrollo, casi todos los países desarrollados siguen reconociendo las ventajas del arrendamiento. Estas ventajas consisten, en particular, en la separación entre el costo de la compra de la tierra y las necesidades de capital para llevar a cabo una actividad económica cada vez más intensiva y mecanizada. También se esgrime el argumento -que está aún por ser demostrado en gran medida- de que un sistema saneado de arrendamientos permite a los agricultores jóvenes y competentes ampliar y desarrollar sus capacidades potenciales, con los consiguientes beneficios para el sector en su totalidad^2.
+
+1.7 Como resultado de ello, el arrendamiento de la tierra ha pasado a ser una cuestión importante para la FAO, como una de las muchas formas que le permiten afrontar su preocupación general por la seguridad alimentaria y la mitigación de la pobreza. El interés de la FAO por el arrendamiento de la tierra abarca diversos aspectos. En el plano operativo, el objetivo de promover un equilibrio y una equidad crecientes en las relaciones entre propietarios de la tierra y arrendatarios requiere una mayor comprensión de los elementos que han de tenerse en cuenta al concertar un arrendamiento. A nivel de políticas generales, es necesario examinar las condiciones en que puede ser apropiado un arrendamiento y la medida en que puede utilizarse para mejorar el acceso a la tierra en caso de concentración o fragmentación de ésta.
+
+1.8 Aunque el arrendamiento constituye un medio de mejorar el acceso a la tierra, los conocimientos sobre él son todavía relativamente escasos, especialmente cuando se refiere a tierras privadas. Esta falta relativa de conocimientos ha hecho que se cometieran errores importantes y que se desaprovecharan muchas oportunidades. Los posibles efectos de ello han sido numerosos, y han consistido especialmente en frenar el desarrollo económico y social y mantener sistemas de cultivo anticuados. Aunque existen fuentes de información sobre los regímenes de arrendamiento, es evidente que ninguna de ellas permite responder a preguntas básicas y fundamentales como las siguientes: ¿Qué es un arrendamiento? ¿Cuándo puede y debe utilizarse? ¿Qué es necesario hacer para concertar un arrendamiento? ¿Qué marco social, político y económico debe crearse para facilitar la introducción de arrendamientos? ¿Qué medidas son necesarias para aplicar de manera satisfactoria un régimen de arrendamiento?
+
+Objetivos de las Directrices
+
+1.9 A través de estas directrices, la FAO desea informar a los gobiernos y otros interesados sobre los principales beneficios que puede reportar el arrendamiento. El objetivo que se persigue es proporcionar información y ejemplos para la elaboración de políticas y programas que faciliten el acceso a la tierra de los agricultores con tierras improductivas, a fin de mejorar tanto la productividad como la sostenibilidad de los sistemas de cultivo. Las directrices se han preparado partiendo del principio de que:
+
+... es posible formular contratos satisfactorios que establezcan un equilibrio entre los intereses del propietario de la tierra y los del arrendatario y que permitan mejorar el acceso a las explotaciones agrícolas y redunden en una mejora de la producción agrícola y de la administración de la tierra.
+
+1.10 Las directrices están dirigidas a un público muy amplio, compuesto por todos los que están interesados en los contratos de arrendamiento. Este público incluye a los encargados de formular políticas, los funcionarios u otros empleados de la administración pública, los oficiales y asesores de campo, las ONG y las asociaciones de propietarios de la tierra y de arrendatarios.
+
+1.11 Estas directrices han sido concebidas como una revisión del "estado de los conocimientos" de las mejores prácticas existentes en lo que concierne al arrendamiento de tierras. Al igual que otras orientaciones de la FAO, estas directrices no constituyen un plan maestro, sino que tratan de promover una reflexión y un análisis sobre los problemas con que se enfrentan quienes se ocupan de la tenencia de tierras. También proporcionan un conjunto de conocimientos prácticos para la toma de decisiones. Al reconocer que el carácter de los arrendamientos varía según las circunstancias de cada caso, las Directrices tienen como objetivo principal promover un mayor conocimiento de los procesos por los que es necesario pasar para establecer contratos de arrendamiento satisfactorios.
+
+1.12 Para que los contratos de arrendamiento promuevan unos medios de subsistencia sostenibles en las zonas rurales y un acceso más equitativo a los recursos, es necesario que presenten las características que se indican a continuación:
+* justicia y equidad entre las partes
+* transparencia
+* preservación de los intereses legales de ambas partes en relación con la propiedad
+* sencillez
+* bajos costos de transacción
+* certidumbre
+* sostenibilidad
+* promoción del sistema de arrendamiento como medio para fomentar la flexibilidad en el mercado
+* reglamentación e intervención mínimas del Estado
+
+1.13 Estas directrices interesan directamente a los países donde se están promoviendo reformas que favorecen tales características, por ejemplo, mediante la adhesión al imperio de la ley. Como estas condiciones suelen darse en países con mercados bien desarrollados, varios de los ejemplos que se presentan en las directrices corresponden a contratos de arrendamiento de Europa occidental, donde se han probado muchos modelos de arrendamiento en el curso de los dos últimos siglos.
+
+1.14 Sin embargo, también se utiliza el arrendamiento en ordenamientos jurídicos donde puede que una de las partes en él tenga mucho más poder que la otra y que se conceda poca importancia al imperio de la ley. En tales casos, el fomento de buenas prácticas en relación con el contenido técnico de los contratos de arrendamiento no corregirá los desequilibrios básicos de poder en la relación entre el propietario de la tierra y el arrendatario. De hecho, la estructura de los contratos tiende a indicar que el problema no es tanto el acuerdo en sí como el mantenimiento de esa disparidad de poder entre el propietario de la tierra y el arrendatario. En esas circunstancias, cabe considerar que las presentes directrices tienen más bien un carácter indicativo que normativo.
+
+Esquema de la Directrices
+
+1.15 En el resto de la Parte 1 se describen el carácter y el contexto de los contratos de arrendamiento y se señalan cuestiones de principio para los propietarios de la tierra y los arrendatarios. En el Capítulo 2 se describe el carácter de los arrendamientos y se indican los distintos contextos en que probablemente serían apropiados. En el Capítulo 3 se examina la necesidad de mantener un equilibrio entre las exigencias de los propietarios de la tierra y las de los arrendatarios. Se señala la necesidad de que los contratos de arrendamiento sean flexibles, para evitar los efectos negativos que acarrea una reglamentación excesiva o insuficiente, ya que ambas pueden dar lugar a unas relaciones sumamente abusivas entre propietarios de la tierra y arrendatarios.
+
+1.16 En la Parte 2 las directrices se ocupan de las buenas prácticas para establecer los elementos de un acuerdo de arrendamiento, es decir los elementos fundamentales que han tenerse en cuenta en todo contrato de arrendamiento. En el Capítulo 4 se presentan los diversos factores que deberían incluirse en un contrato típico de arrendamiento, mientras que en el Capítulo 5 se describen otras disposiciones que deberían aplicarse a los acuerdos de licencia como por ejemplo la aparcería. En el Capítulo 6 se formulan recomendaciones sobre la aplicación de los contratos de arrendamiento.
+
+1.17 En la Parte 3 de las directrices se señala la necesidad de buenas prácticas en relación con cuestiones contextuales que son necesarias para establecer y mantener de forma satisfactoria los contratos de arrendamiento. En algunos ordenamientos jurídicos existirán ya muchos de los elementos de este contexto (como por ejemplo la adhesión al imperio de la ley) o todos ellos. Para otros, esta sección tendrá un carácter principalmente indicativo.
+
+2 Naturaleza y contexto de los contratos de arrendamiento
+
+Introducción
+
+2.1 Al examinar los arrendamientos y los contratos de arrendamiento, estas Directrices se ocupan de una gran variedad de prácticas y terminologías que tienen su origen tanto en el derecho como en la costumbre. Por ejemplo, tanto el derecho civil como el common law establecen una distinción entre arrendamiento (que crea un derecho jurídico sobre la tierra a favor del arrendatario) y licencia (que es un contrato de compra de servicios y da derecho a ocupar la tierra).
+
+2.2 En el caso del contrato de arrendamiento, el propietario de la tierra otorga al arrendatario el derecho de ocupación (normalmente por un período determinado), efectuándose el pago en forma de renta fija o variable. A menudo se prevé que el arrendatario asumirá la responsabilidad general de las operaciones agrícolas que se realicen en la tierra. Este modelo suele estar asociado con países desarrollados, donde se ha implantado una estructura que rige el equilibrio de poder entre el propietario de la tierra y el arrendatario. Tradicionalmente se ha aplicado al arrendamiento de una finca completa, que constituye el único ingreso del arrendatario. Sin embargo, la liberalización de las relaciones entre propietarios de la tierra y arrendatarios en muchos países ha hecho que ésta no sea ya la situación predominante, y cada vez con más frecuencia los arrendatarios, y en ocasiones los mismos propietarios de la tierra, arriendan una parte de la finca para conseguir que sus
+operaciones agrícolas sean más eficaces^3.
+
+2.3 Por el contrario, los contratos de licencia, como la aparcería, prevén que el propietario siga ocupando legalmente la tierra, mientras que el aparcero o el arrendatario a cambio de mano de obra llevan a cabo las operaciones agrícolas. El propietario de la tierra otorga ciertos derechos sobre la tierra, por lo general en forma de derecho a ocuparla para llevar a cabo una determinada operación agrícola. En estos contratos, se supone que el propietario de la tierra seguirá tomando todas las decisiones importantes. Aunque, desde el punto de vista jurídico, el propietario de la tierra compra al aparcero un servicio (consistente en mano de obra y, a menudo, en semillas, maquinaria o animales de tiro), el equilibrio de poder es tal que el aparcero en realidad paga al propietario de la tierra el derecho a utilizarla.
+
+2.4 La distinción entre arrendamiento y licencia tiene aspectos jurídicos importantes, especialmente por lo que concierne a cuestiones de seguridad, indemnización y capacidad para obtener préstamos de fuentes distintas del propietario de la tierra o el prestamista local. Sin embargo, ante la ausencia o el mal funcionamiento (en muchos países) del marco político y jurídico, a menudo esta distinción deja de tener importancia en la práctica. Por consiguiente, para los efectos de estas directrices, todas las relaciones entre los propietarios de tierras y otras personas que las arriendan se designarán a partir de ahora arrendamientos y las partes en ellos propietario de la tierra y arrendatario respectivamente. Cuando lo exija el texto -y especialmente en la Parte 2- se distinguirá entre los diversos tipos de acuerdo.
+
+2.5 Suele darse el caso de que una persona desempeñe las funciones de propietario de la tierra y arrendatario simultáneamente. Puede suceder que un pequeño propietario trabaje sus propias tierras, arriende tierras cercanas y participe en contratos de aparcería relativos a otras tierras. Por otra parte, en muchos casos quienes recurren al "arrendamiento a cambio de mano de obra" son agricultores con tierras improductivas que concluyen un contrato con el propietario de la tierra, en calidad de aparceros o asalariados, a cambio de una pequeña parcela que pueden cultivar por su propia cuenta, como si de hecho fueran arrendatarios. En otras partes, la comunidad sigue siendo la unidad dominante y las familias utilizan la tierra con arreglo a sus necesidades^4.
+
+Variedad de los contratos de arrendamiento
+
+2.6 Los arrendatarios recurren a los contratos de arrendamiento cuando no pueden comprar la tierra, o cuando prefieren no inmovilizar el capital en una inversión a largo plazo como lo es la compra de tierras. También pueden recurrir a ellos los propietarios de la tierra que no quieren pagar el costo de la mano de obra asalariada. Algunos agricultores tienen mano de obra y/o capital, pero no tienen la tierra para sacar pleno provecho de esos recursos. Otros tienen una tierra que no cultivan, por ejemplo debido a la falta de mano de obra o de capital o porque no están interesados en dedicarse directamente a la producción agrícola. El resultado de ello, como se observa en el Recuadro 2.1, es una gran variedad de contratos que van desde las relaciones personales basadas en los derechos de usufructo sobre pequeñas parcelas de tierra hasta contratos de arrendamiento de fincas en toda regla que dan derechos sobre la propiedad.
+
+2.7 En todo caso, estos diferentes tipos de contrato de arrendamiento permiten que la tierra sea cultivada por alguien que no es su propietario. Los modos de conseguirlo responden a diversos atributos concretos que están vinculados tanto con la relación entre las partes como con el entorno social, cultural y económico más amplio en el que operan estos contratos. Tal vez la razón más importante que explica el desarrollo de diferentes tipos de contrato sea la estructura de propiedad de la tierra. Por ejemplo, en muchas partes de Europa y América Latina, las fincas de grandes dimensiones (que son a menudo propiedad de terratenientes absentistas) ha hecho necesario el desarrollo de los contratos de arrendamiento. Por el contrario, en los sistemas consuetudinarios de tenencia de África, la escasez de tierras a nivel comunitario puede obligar a los agricultores con tierras improductivas a abandonar la comunidad para tratar de conseguir contratos de arrendamiento en otras
+comunidades donde la tierra no escasea.
+
+2.8 Además de las estructuras de propiedad de la tierra y la costumbre, uno de los factores más importantes que determinan el tipo de contrato utilizado es el desarrollo relativo de los mercados, que se evidencia sobre todo en la solidez y la orientación de las relaciones de poder entre el propietario de la tierra y el arrendatario. En las regiones donde los mercados (especialmente los de tierra y productos) funcionan relativamente bien -como sucede en Europa- los arrendatarios han adquirido cierta independencia que ha sido reconocida y protegida en la legislación. En otros lugares, especialmente en ciertas partes de Asia, los arrendatarios han seguido dependiendo en gran medida de los propietarios de la tierra, por lo que están en condiciones desfavorables para proteger sus derechos. Uno de los principales resultados de esto es que casi todos los países europeos tienen un sistema de arrendamientos sumamente estructurado, que se encuadra en un estado de derecho bien
+desarrollado y susceptible de sanción legal e incorpora salvaguardias tanto para el arrendatario como para el propietario de la tierra. En cambio, muchos países de América Latina, Asia y el Cercano Oriente tienen normas que regulan los arrendamientos, pero con frecuencia carecen de estructuras institucionales lo suficientemente sólidas para asegurar su cumplimiento.
+
+Recuadro 2.1 - VARIEDAD DE LOS CONTRATOS DE ARRENDAMIENTO
+
+2.9 Los contratos de arrendamiento que predominan en un determinado contexto no siempre siguen unos patrones lineales de evolución (por ejemplo del arrendamiento a cambio de mano de obra a la aparcería, y de ésta a la renta fija en efectivo) sino que tienden a pasar de un tipo a otro conforme cambian las condiciones. Por consiguiente, al presentar de esta manera la variedad de los arrendamientos, no se pretende dar a entender que los contratos que figuran a la derecha son en algún modo superiores a los que aparecen a la izquierda, o están más estructurados que éstos. Más bien, la representación gráfica sirve para mostrar el lugar que ocupa cada tipo de contrato en la legislación y en relación con los recursos que aportan respectivamente el propietario de la tierra y el arrendatario. Los acuerdos que figuran en el extremo de la izquierda se consideran contratos estrictamente personales, siendo de prever que todas las decisiones importantes sean tomadas por el propietario de
+la tierra. Por el contrario, los que figuran en el extremo de la derecha implican una transferencia de los derechos de propiedad, siendo de prever que el arrendatario asuma la responsabilidad general en lo que respecta a las actividades agrícolas que se lleven a cabo en la tierra.
+
+2.10 Las posiciones más destacadas dentro de esta variedad son las siguientes:
+
+1. acuerdos de licencia contractual, en el que el propietario de la tierra toma todas las decisiones relativas a las operaciones agrícolas y en gran medida las aplica, pero concede una licencia a otra persona para que desempeñe ciertas funciones, relacionadas a menudo con la siembra y la recolección.
+
+2. arrendamiento a cambio de mano de obra, en el que el jornalero recibe un salario simbólico o una parte de la producción, junto con derechos de usufructo sobre una pequeña parcela de tierra para que la cultive en su propio beneficio (habitualmente con fines de subsistencia);
+
+3. aparcería u otros contratos similares, en los que cabe prever que el propietario de la tierra y el arrendatario compartirán el costo de los insumos y recibirán una parte de los productos. Esta modalidad comprende desde regímenes muy similares a las relaciones contractuales de trabajo hasta sistemas que, por la escala de la empresa, se asemejan más a un arrendamiento propiamente dicho; y
+
+4. arrendamientos, en los que existe una separación fundamental entre los intereses del propietario de la tierra (que la da en arriendo) y el arrendatario (que la toma en arriendo). Como se indica en el Recuadro 2.1, el contrato de arrendamiento es muy diferente de los demás tipos de contrato, principalmente porque entraña la transferencia de ciertos derechos de propiedad.
+
+2.11 Suele suponerse que el equilibrio de poder actúa en favor del propietario de la tierra, es decir, que uno de los factores fundamentales para determinar dónde se sitúa un determinado acuerdo dentro de la variedad de contratos es el grado de control directo que ejerce el propietario de la tierra. Sin embargo, en un número creciente de casos, se da la situación contraria. Esto sucede, por ejemplo, cuando el propietario tiene poca tierra y/o poco capital (y, por tanto, poco poder), mientras que el arrendatario opera en gran escala, bien porque es una empresa agrícola o porque es un agricultor con acceso a un capital suficiente para crear una unidad viable y sostenible. La importancia de estas situaciones radica en que pone en entredicho la ortodoxia de las relaciones de fuerza en los contratos de arrendamiento, y en las repercusiones que esto tiene para la orientación sobre los elementos esenciales de un contrato de arrendamiento. Por consiguiente, los denominados "acuerdos
+a la inversa" se examinarán por separado al final de este capítulo.
+
+Acuerdos de licencia contractual
+
+2.12 Los acuerdos de licencia contractual, en sus diversas formas, se encuentran en todo el mundo, especialmente donde escasean recursos como capital o gestión especializada. En su forma más básica, la licencia contractual es un acuerdo por el que el propietario de la tierra contrata (en lugar de dar en arriendo) la totalidad o parte de las operaciones agrícolas. Este tipo de acuerdo puede aplicarse a todas las operaciones agrícolas (incluida la comercialización de la producción) o limitarse a ciertas actividades (véase el Recuadro 2.2, Indonesia). Aunque oficialmente no se trata de un acuerdo de arrendamiento, casi todos los contratos incluyen algunos derechos sobre la tierra, por lo general en forma de derecho ocuparla para llevar a cabo las operaciones agrícolas estipuladas^5.
+
+Recuadro 2.2
+
+Contratos de licencia para cultivos en pie en Indonesia
+
+El sistema de tebasan, practicado en Indonesia, se basa en la concesión, por parte de un empresario agrícola, de una licencia a un agricultor para que coseche un cultivo en pie. De este modo el empresario se asegura el control sobre las actividades de recolección, evitándose de hecho tanto el trabajo como el riesgo que conlleva el cultivo pero pudiendo al mismo tiempo determinar su calidad antes de la compra. La suma acordada por el cultivo (incluida la licencia) suele pagarse en parte por adelantado. La cuantía de este pago anticipado dependerá de la medida en que el agricultor y el empresario estén de acuerdo en la valoración, así como del descuento que el agricultor esté dispuesto a aceptar para recibir ingresos antes de la recolección. El resto se paga a plazos después de la cosecha. Este sistema permite al agricultor tener acceso al almacenamiento poscosecha, así como a crédito del sector no estructurado.
+
+(Lastarria-Cornhiel, S. y Melmed-Sanjak, J. 1999. Land tenancy in Asia, Africa and Latin America: A look at the past and a view to the future, Documento de trabajo n° 27. Centro de Tenencia de la Tierra, Universidad de Wisconsin-Madison)
+
+Arrendamiento a cambio de mano de obra
+
+2.13 El arrendamiento a cambio de mano de obra se encuentra en las zona rurales de muchos países de África y Asia. Se asemeja en muchos aspectos a la licencia contractual, aunque en lugar de recibir un pago directo, el jornalero con tierras improductivas recibe derechos de usufructo sobre una pequeña parcela de tierra (y en ocasiones una vivienda). El jornalero suele tener cierta libertad para utilizar la tierra bien con fines de subsistencia (que era el propósito original), o bien para producir un cultivo comercial destinado a la venta. Sin embargo, se reconoce también que esas formas de arrendamiento suelen representar poco más que un trabajo en condiciones de servidumbre, ya que los trabajadores no pueden nunca obtener de sus pequeñas parcelas ganancias suficientes para liberarse de una relación en la que a menudo son explotados.
+
+Aparcería y otros contratos análogos
+
+2.14 A lo largo de la historia se ha favorecido la aparcería como medio para cultivar grandes fincas sin tener que afrontar los riesgos y los problemas administrativos que lleva consigo la contratación de trabajadores asalariados. Además, las familias de aparceros, sobre todo en América Latina, han proporcionado también mano de obra para el cultivo de las partes del fundo ocupadas por el propietario. Por esas razones, la aparcería ha sido bien acogida por los propietarios de la tierra, como forma flexible de trabajo que se crea y se disuelve según las condiciones de producción. También se considera que la aparecería tiene costos y riesgos relativamente bajos para el propietario de la tierra, siempre que haya una oferta suficiente de posibles aparceros.
+
+Recuadro 2.3
+
+LA APARCERÍA EN EL PERÚ
+
+Un ejemplo clásico de aparcería es la introducción del yanaconaje para la producción de algodón y otros cultivos comerciales en la costa del Perú tras la abolición de la esclavitud y de los contratos de cumplimiento forzoso de los trabajadores chinos. Inicialmente la aparcería resultaba ventajosa para el propietario de la tierra porque requería poco desembolso de capital, los riesgos recaían en su mayor parte sobre el aparcero y la familia de éste proporcionaba mano de obra suplementaria, especialmente durante la época de la cosecha en que la actividad era mayor. En virtud de esos contratos de aparcería, el propietario suministraba la tierra, semillas, bueyes y herramientas a cambio de un porcentaje de la cosecha. También ofrecía préstamos a tipos de interés elevados. El aparcero estaba obligado a vender su parte de la cosecha de algodón al propietario de la tierra a un precio inferior al del mercado. Este desequilibrio condujo a las reformas agrarias de 1962 y 1969, que
+brindaron a los yanaconas la oportunidad de comprar la tierra que habían cultivado en régimen de aparcería.
+
+(Lastarria-Cornhiel, S. and Melmed-Sanjak, J. 1999. Land tenancy in Asia, Africa and Latin America: A look at the past and a view to the future. Documento de trabajo n° 27. Centro de Tenencia de la Tierra, Universidad de Wisconsin-Madison)
+
+2.15 Por consiguiente, está muy extendida la opinión de que los propietarios de la tierra han estado en condiciones de utilizar los contratos de aparcería como medio para obtener mano de obra barata de los campesinos con tierras improductivas. De hecho, dada la situación existente en muchos países en los que los propietarios de la tierra son los únicos prestamistas, así como los principales funcionarios locales encargados de hacer cumplir la ley, los aparceros han tenido que aceptar las condiciones que les ofrecían, sabiendo de cierto que en caso de no acatarlas serían reemplazados (para un ejemplo, véase el Recuadro 2.3).
+
+2.16 En su forma más básica, la aparcería es un acuerdo para producir productos agrícolas por el que el propietario de la tierra suministra ésta (y en ocasiones los demás insumos) y el aparcero suministra mano de obra (y en ocasiones insumos tales como semillas). Al final del ciclo agrícola, la cosecha se divide entre las partes según lo acordado previamente. Este tipo de contrato permite tanto al que tiene poca tierra como al que tiene poco dinero en efectivo (sea o no propietario de la tierra) dedicarse al cultivo, según se muestra en el Recuadro 2.4. Aunque puede haber acuerdos más complejos que entrañen responsabilidades suplementarias, todos ellos siguen estas pautas básicas.
+
+RECUADRO 2.4
+
+LA APARCERÍA EN CHILE
+
+Los contratos de aparcería en Chile se desarrollan en un contexto en el que:
+* los propietarios de fundos de tamaño medio y pequeño no tienen capital o crédito suficiente para comprar insumos y herramientas ni para pagar mano de obra asalariada;
+* los cultivos comerciales son de alto riesgo (se necesita mucha mano de obra y los precios son bajos o fluctúan);
+* los minifundistas o campesinos sin tierras carecen de tierra suficiente para su subsistencia, pero tienen mano de obra para vender. Estas familias sin tierras o con tierras improductivas no disponen de capital para tomar la tierra en arriendo (las rentas en efectivo suelen pagarse por anticipado, mientras que las 'rentas' de la aparcería se pagan después de la cosecha).
+
+La ventaja que ofrecen los contratos de aparcería, tanto para el propietario de la tierra como para el aparcero, es que requieren una cantidad mínima de dinero en efectivo (ya sea para contratar mano de obra asalariada o para pagar la renta en efectivo). El propietario suministra algunos insumos además de la tierra, mientras que el aparcero aporta el resto de los insumos, incluida mano de obra asalariada además de la de su propia familia. En la región de los valles centrales de Chile, la aparcería está aumentando como resultado de:
+* la descapitalización de los propietarios de la tierra tradicionales;
+* el incremento de los pequeños propietarios de la tierra sin capital adicional;
+* los bajos precios de los cultivos;
+* el número creciente de minifundios.
+
+(Lastarria-Cornhiel, S. y Melmed-Sanjak, J. 1999. Land tenancy in Asia, Africa and Latin America: A look at the past and a view to the future. Documento de trabajo N° 27. Centro de Tenencia de la Tierra, Universidad de Wisconsin-Madison)
+
+2.17 Aparte del acuerdo de aparcería convencional, en América Latina y África hay también muchos casos de acuerdos sobre aportación de insumos en 'partes iguales'. La característica de estos acuerdos es que los interesados aportan una parte más o menos igual (que suele consistir en tierra y otros tipos de capital) y reciben una parte más o menos igual de los productos. Se trata a menudo de acuerdos internos de las familias que colocan de hecho varios pequeños fundos bajo una única gestión.
+
+2.18 Aunque no es frecuente en muchas partes del mundo, el 'cultivo en asociación' está arraigado en Europa como medio de combinar en una sola empresa el acceso a los recursos con una serie de conocimientos especializados. En lugar de la separación habitual entre los intereses del propietario de la tierra y los del aparcero, la asociación implica una empresa en común, en la que los asociados (habitualmente el propietario de la tierra y el arrendatario) colaboran en beneficio mutuo. El resultado de ello es que los recursos se mancomunan dentro de la asociación y toda la producción se comercializa como una única entidad. Puede que las aportaciones a la asociación (por lo general tierra y conocimientos especializados) sean desiguales, y que lo sean también los ingresos debido a las diferentes aportaciones de los asociados.
+
+2.19 Aunque la asociación da al asociado que cultiva la tierra mayor seguridad que el régimen de aparcería y permite al asociado que posee la tierra desinteresarse más de la gestión diaria de la empresa, las deudas de una de las partes son por lo general responsabilidad también de la otra. Además de un contrato oficial, la asociación requiere por lo tanto confianza y, teóricamente, continuidad durante un período más largo para poder prosperar.
+
+Arrendamientos a cambio de una renta fija
+
+2.20 Los arrendamientos a cambio de una renta fija pueden ser a corto o a largo plazo y tener una duración fija o variable. Estos acuerdos son más utilizados que la aparcería o la asociación cuando el propietario de la tierra está ausente de sus propiedades y necesita que durante su ausencia se genere una corriente de ingresos. Estos tipos de arrendamientos suelen limitarse a arrendatarios de cierta posición socioeconómica (y con acceso al capital), y por lo general no están a disposición de todos los agricultores con pocos recursos.
+
+2.21 En los mercados agrícolas más desarrollados de Europa y América del Norte, el arrendamiento a cambio de una renta fija es el medio habitual para que el propietario de una finca delegue la gestión de ésta a un arrendatario que practica la agricultura comercial. Aunque la duración efectiva del arrendamiento puede variar, la cuantía del capital que ha de invertirse es tal que muchos arrendatarios mantienen la tierra arrendada durante varios años, adoptando sistemas de cultivo y de gestión que no se diferencian de los empleados por los propietarios que cultivan directamente la tierra.
+
+2.22 Los arrendamientos a cambio de una renta fija pueden aplicarse también a superficies libres, con carácter anual. En esos casos, se supone que los arrendatarios tienen ya una finca y acceso a otras tierras, por lo que utilizan la tierra arrendada a cambio de una renta fija para complementar sus actividades agrícolas, en teoría a corto plazo. Aquí también la experiencia indica que los arrendatarios que obtienen resultados satisfactorios tienden a mantener esa tierra arrendada durante un período de tiempo considerable, aunque la duración del contrato de arrendamiento sea breve.
+
+Acuerdos a la inversa
+
+2.23 El modelo convencional de contrato de arrendamiento supone la participación de un propietario con muchas tierras y un agricultor con pocas tierras. Sin embargo, se pueden encontrar ejemplos de la situación inversa, en la que propietarios de pequeñas fincas dan en arriendo su tierra para que se realicen en ellas operaciones agrícolas en mayor escala, al tiempo que aceptan un empleo remunerado, ya sea en su propia tierra o en otro lugar (véase el Recuadro 2.5).
+
+Recuadro 2.5
+
+ARRENDAMIENTO A LA INVERSA EN MÉXICO
+
+Los ejidatarios mexicanos son pequeños agricultores que tienen derechos garantizados de usufructo sobre las tierras comunales adjudicadas al ejido en virtud de la legislación sobre reforma agraria. Por lo general carecen de capital y tienen poco acceso al crédito. Aunque hasta hace poco era ilegal arrendar las tierras del ejido, su arrendamiento se produce desde hace decenios. En las zonas agrícolas más fértiles, los ejidatarios han arrendado sus parcelas a empresas agrícolas que aportan capital, maquinaria y otros insumos para producir cultivos comerciales. Estas empresas agroindustriales están en condiciones de concentrar muchas parcelas del ejido para crear una única parcela de mediano tamaño. A menudo los ejidatarios trabajan como asalariados en la tierra que han dado en arriendo.
+
+(Lastarria-Cornhiel, S. y Melmed-Sanjak, J. 1999. Land tenancy in Asia, Africa and Latin America: A look at the past and a view to the future. Documento de trabajo N° 27. Centro de Tenencia de la Tierra, Universidad de Wisconsin-Madison)
+
+Recuadro 2.6
+
+APARCERÍA A LA INVERSA EN EUROPA CENTRAL
+
+Es sabido que en algunos países de Europa central los cambios en los derechos de propiedad, especialmente los relacionados con la tierra, constituyen la base de la transición a una economía de mercado. Sin embargo, después de 70 años de agricultura colectiva y dirigida por el Estado, la simple restitución de la tierra, independientemente de la decisión en que se base, no creará automáticamente una economía de pequeños agricultores comerciales. De hecho, muchos de los que reclaman tierras han tratado al mismo tiempo de proteger su propiedad frente a las fuerzas de la contracción ya sea dando en arriendo su tierra a una cooperativa o concertando con ésta un acuerdo de aparcería a la inversa. En Rumania, por ejemplo, es posible vender inmediatamente la tierra recibida mediante la restitución o comprar más tierra, hasta un máximo de 100 ha. Sin embargo, el tamaño medio de las parcelas restituidas es de solo 4-5 ha, y la mayoría de los nuevos propietarios se incorporan a
+cooperativas de productores en régimen de arrendamiento o de aparcería. De este modo se ha creado una forma de gestión colectiva mediante contratos de arrendamiento y de aparcería a la inversa, lo que ha introducido un cambio gradual en la gestión, aun cuando la redistribución de la propiedad haya sido rápida.
+
+(Brooks, K.M. 1993. 'Property rights in land', pp. 125-136 en Braverman, A., Brooks, K.M. y Csaki, C. (eds.) The agricultural transition in Central and Eastern Europe and the former USSR. Washington, DC: Banco Mundial).
+
+2.24 También se pueden encontrar casos de aparcería a la inversa en los que muchos pequeños propietarios de la tierra, que no tienen acceso a capital suficiente para cultivarla eficientemente, concluyen un acuerdo con un único aparcero en gran escala. Igualmente, en algunas partes de Europa central se practica una forma de aparcería a la inversa en la que quienes reciben tierras restituidas optan por dejar que la cooperativa local las administre, a cambio de un empleo y de una parte de los productos obtenidos en ellas (véase el Recuadro 2.6).
+
+3 Cuestiones principales para el propietario de la tierra y el arrendatario
+
+Introducción
+
+3.1 Un contrato satisfactorio de arrendamiento se basa en el supuesto de una relación tripartita entre el propietario de la tierra, el arrendatario y el Estado. Se trata esencialmente de una relación de responsabilidad mutua, en la que cada una de las partes tiene que cumplir ciertas obligaciones. La más fundamental de estas obligaciones, consistente en crear un marco apropiado dentro del cual puedan actuar el propietario de la tierra y el arrendatario, recae sobre el Estado.
+
+3.2 A pesar de la variedad de los arrendamientos, todos los contratos tienen mucho en común. En el centro de casi todos ellos están las cuestiones del riesgo, la seguridad y la confianza. Incluso en los sistemas más reglamentados, la relación entre el propietario de la tierra y el arrendatario sigue dependiendo del grado de confianza que pueda establecerse entre las partes. Si hay confianza, el arrendatario, en particular, tendrá más libertad y más incentivos para actuar, independientemente del carácter del contrato de arrendamiento en cuestión. Igualmente, si no hay confianza, será difícil sostener la idea de una 'empresa en participación'.
+
+Conciliación de las necesidades del propietario de la tierra y el arrendatario
+
+3.3 Aun reconociendo el aislamiento relativo y la posición precaria de negociación de muchos arrendatarios, la orientación sobre unas buenas prácticas debe basarse en el establecimiento de un equilibrio más sólido de poder que permita a ambas partes conseguir objetivos que sean aceptables para ellas (aunque no sean los ideales)^6. Dentro de este marco, las principales cuestiones que han de tener en cuenta tanto los propietarios de la tierra como los arrendatarios son las siguientes:
+* duración del arrendamiento, junto con la seguridad que éste proporciona;
+* grado de libertad y de control de que dispone cada una de las partes; y
+* flexibilidad y repercusiones financieras de esta combinación de duración, seguridad, libertad y control.
+
+3.4 Por tanto, las dos cuestiones fundamentales en todos los contratos de arrendamiento son la seguridad para el arrendatario y la flexibilidad para el propietario de la tierra. Esto significa que la elaboración de unas buenas prácticas está relacionada fundamentalmente con la consecución de un equilibrio sostenible entre esas exigencias contrapuestas^7. Cuando los arrendamientos están muy reglamentados y protegidos, son por lo general mal acogidos por los propietarios de la tierra, que estiman que el Estado limita su poder y flexibilidad^8. Sin embargo, cuando no tienen carácter oficial o no están suficientemente reglamentados, se considera que no proporcionan la seguridad que desean los arrendatarios^9. También se sostiene que los contratos que no tienen carácter oficial o que no están suficientemente reglamentados impiden al propietario de la tierra estipular o hacer cumplir las condiciones para el uso sostenible de la tierra, denominado en ocasiones 'ocupación útil'^10.
+
+3.5 Estas cuestiones no forman parte de un proceso continuo, en el que el propietario de la tierra trata de conseguir plazos más breves y dar a los contratos un carácter menos oficial mientras que el arrendatario trata de conseguir lo contrario, sino que tienen un carácter más complejo y polifacético. En la figura que se ofrece a continuación se representan de manera simplificada. En todos los casos, la matriz indica la duración del arrendamiento en comparación con el grado de oficialidad de los contratos. Por consiguiente el cuadrante superior de la izquierda se refiere a los contratos a corto plazo de carácter extraoficial, mientras que el cuadrante opuesto, en la parte inferior de la derecha, se refiere a los contratos oficiales a largo plazo.
+
+
+3.6 Para cada cuadrante se muestran, en el Recuadro 3.1, los factores positivos y negativos correspondientes a los propietarios de la tierra y, en el Recuadro 3.2, los correspondientes a los arrendatarios.
+
+Recuadro 3.1
+
+PROBLEMAS Y POSIBILIDADES DE LOS ARRENDAMIENTOS: LOS PROPIETARIOS DE LA TIERRA
+
+Positivo
+
+Negativo
+
+EXTRAOFICIAL A CORTO PLAZO
+
+· Flexibilidad para a provechar los mercados de arrendamiento
+
+· Bajo costo
+
+· Elevado grado de control
+
+· Parte considerable de los productos agrícolas
+
+· Incertidumbre
+
+· Mayor exigencia de participación del propietario de la tierra en el cultivo
+
+· Posible incapacidad para encontrar y retener buenos arrendatarios
+
+· Necesidad de pagar los insumos
+
+EXTRAOFICIAL A LARGO PLAZO
+
+· Cierta flexibilidad
+
+· Costo relativamente bajo
+
+· Mantenimiento del control
+
+· Parte considerable de los productos agrícolas
+
+· Incertidumbre
+
+· Necesidad de un buen arrendatario, preferiblemente un agricultor vecino
+
+· Necesidad de insumos a largo plazo
+
+OFICIAL A CORTO PLAZO
+
+· Certidumbre
+
+· Ingresos previsibles
+
+· Cierta liberación de las actividades cotidianas
+
+· Mantenimiento de la flexibilidad en un plazo entre medio y largo
+
+· Costo del establecimiento del acuerdo
+
+· Posible alto costo de encontrar nuevos arrendatarios
+
+OFICIAL A LARGO PLAZO
+
+· Certidumbre
+
+· Seguridad
+
+· Ingresos constantes y previsibles
+
+· Cierta liberación de las actividades agrícolas cotidianas
+
+· Liberación de las actividades agrícolas cotidianas
+
+· Ingresos más bajos
+
+· Falta de flexibilidad
+
+· Falta de control
+
+· Antecedentes de intervención y control del Estado
+
+· Terminación posiblemente costosa
+
+3.7 En los Recuadros 3.1 y 3.2 se observa que, si bien parece que los propietarios de la tierra se benefician más de los arrendamientos extraoficiales a corto plazo y los arrendatarios de los arrendamientos oficiales a largo plazo, cada uno de esos tipos de contrato presenta aspectos positivos y negativos. Por ejemplo, los arrendamientos extraoficiales a corto plazo proporcionan a los propietarios de la tierra flexibilidad, control y una parte mayor de la producción agrícola. Sin embargo, estas ventajas se contrarrestan con la necesidad de participar en mayor medida en las actividades agrícolas, la incertidumbre en cuanto a la parte neta de la producción que les corresponde (puesto que ya han suministrado la mayor parte de los insumos no agrícolas), y la dificultad de retener a un buen arrendatario. En la situación alternativa, la reducción de los ingresos brutos, la pérdida de control y la falta de flexibilidad que caracterizan a los contratos oficiales a largo plazo se
+contrarrestan con la seguridad y certidumbre de unos ingresos previsibles proporcionadas por un buen arrendatario que tiene incentivos para invertir en la tierra.
+
+Recuadro 3.2
+
+PROBLEMAS Y POSIBILIDADES DE LOS ARRENDAMIENTOS: LOS ARRENDATARIOS
+
+Positivo
+
+Negativo
+
+EXTRAOFICIAL A CORTO PLAZO
+
+· Bajo costo de transacción
+
+· Acceso a la tierra
+
+· Posible acceso al capital y a otros insumos del propietario de la tierra
+
+· Flexibilidad para aprovechar los mercados de productos
+
+· Poca certidumbre
+
+· Poca o ninguna libertad Inexistencia de incentivos para invertir
+
+· Poco estatus
+
+· Bajos ingresos
+
+EXTRAOFICIAL A LARGO PLAZO
+
+· Bajo costo
+
+· Acceso a la tierra
+
+· Posible acceso a otros factores de producción Bajos ingresos
+
+· Poca libertad
+
+· Poca certidumbre
+
+· Pocos incentivos para invertir
+
+OFICIAL A CORTO PLAZO
+
+· Cierta seguridad
+
+· Certidumbre
+
+· Posible costo del establecimiento del acuerdo
+
+· Falta de incentivos para invertir
+
+· Libertad limitada
+
+· Incertidumbre acerca del futuro
+
+OFICIAL A LARGO PLAZO
+
+· Seguridad (para el arrendatario y su familia)
+
+· Acceso independiente al capital
+
+· Incentivos para invertir
+
+· Libertad para cultivar
+
+· Certidumbre
+
+· Transparencia
+
+· Vinculado a la ubicación
+
+3.8 Los arrendatarios se enfrentan a un conjunto diferente de resultados. Por lo general, se beneficiarán sobre todo de la seguridad, certidumbre y transparencia de un arrendamiento oficial a largo plazo. Sin embargo, un arrendamiento extraoficial a corto plazo puede constituir una vía de acceso a la tierra con un costo relativamente bajo para un agricultor con tierras improductivas. De hecho, suele ser la única vía posible. Dada la probable participación del propietario de la tierra en el sistema de cultivo, esta forma de tenencia puede proporcionar también el acceso al capital necesario para cultivar la tierra. Los arrendamientos extraoficiales a corto plazo proporcionan además un grado de flexibilidad que no ofrecen los arrendamientos a más largo plazo, lo que permite a los agricultores, en particular los que tienen una posición sólida, aprovechar las oportunidades del mercado o compensar una cosecha relativamente escasa u otro déficit en su propia tierra. Esto fue lo que
+sucedió en Inglaterra y Gales a raíz de la liberalización en 1995 del régimen de arrendamientos, que favoreció los contratos a corto plazo^11.
+
+3.9 En ultimo término, la cuestión de qué duración y qué grado de oficialidad son más convenientes para una determinada persona dependerá de las circunstancias. Por ejemplo, la aparente predisposición de los propietarios de la tierra a los arrendamientos a corto plazo se basa en el supuesto de que abundan los arrendatarios deseosos y en condiciones de competir por dichos arrendamientos. Cuando esto no sucede, como en el caso de una depresión agrícola en un país desarrollado, puede que el propietario de la tierra esté más dispuesto a alentar al terrateniente a que se quede, en parte ofreciéndole seguridad a largo plazo. Asimismo, la aparente predisposición de los arrendatarios a obtener arrendamientos a largo plazo se basa en el supuesto que todos ellos están deseosos y en condiciones de asumir ese compromiso.
+
+3.10 Los Recuadros 3.1 y 3.2 parecen indicar que tanto los propietarios de la tierra como los arrendatarios se benefician más de los contratos a largo plazo que de los de breve duración. En particular, los contratos a largo plazo tienden a proporcionar un grado mayor de certidumbre y sosteniblidad que los de breve duración. También tiende a haber una mayor separación entre los intereses y la influencia del propietario de la tierra y el arrendatario, lo que otorga a éste mayor libertad al tiempo que garantiza al propietario de la tierra ganancias con un riesgo relativamente bajo. En estas circunstancias, los propietarios de la tierra suelen sostener que los contratos a largo plazo son inaceptables si reducen la flexibilidad de que disponen para aprovechar las oportunidades del mercado, que a menudo están específicamente relacionadas con el desarrollo no agrícola^12. Independientemente de las cuestiones relativas a la conveniencia de detraer tierras a la agricultura, es
+posible añadir a los contratos de arrendamiento cláusulas de rescisión^13, por las que el propietario de la tierra está autorizado a recuperar la posesión de ésta para llevar a cabo ciertas actividades, por ejemplo en materia de desarrollo no agrícola.
+
+3.11 Sin embargo, hay que reconocer que esta perspectiva orientada al mercado no tiene en cuenta los desequilibrios de poder entre el propietario de la tierra y el arrendatario (aun admitiendo que esos desequilibrios no siempre son a favor del primero). En situaciones extremas, esos desequilibrios de poder pueden hacer que la idea misma de elección, así como la de compensación entre los aspectos positivos y negativos de la duración y el grado de oficialidad del arrendamiento, resulten irrelevantes. Esto puede dar lugar una falta duradera de estabilidad en las relaciones entre el propietario de la tierra y el arrendatario, especialmente en caso de que haya una seguridad limitada para la parte que se encuentra en la posición relativa más débil.
+
+3.12 Cuestiones como la duración del arrendamiento, la sucesión de familiares en caso de fallecimiento del arrendatario y la renovación del contrato son elementos importantes de la política que ha de adoptarse para alcanzar un equilibrio entre las necesidades del propietario de la tierra y las del arrendatario. Hay muchos ejemplos de controles reglamentarios para fijar la duración mínima del contrato, mientras que en otros casos se ha establecido una tradición firmemente arraigada en la costumbre. Sin embargo, no parece haber mucha concordancia de opiniones con respecto a lo que constituye una buena práctica.
+
+Duración del contrato de arrendamiento
+
+3.13 Cuando se impone una duración a los contratos, como sucede por ejemplo en gran parte de Europa septentrional, esa duración suele referirse a un período mínimo que puede prorrogarse por más tiempo o renovarse antes de la terminación del contrato. En todos esos casos, la duración mínima es larga (del orden de 10 años), aunque no son raros los contratos acordados por un período de 18 a 25 años. En casi todos los casos, la renovación del contrato de arrendamiento es automática a menos que una de las partes pida su terminación, con arreglo a unas condiciones previamente estipuladas [para un ejemplo de renovación automática del contrato de arrendamiento en Inglaterra y Gales, véase el Recuadro 3.3]. Pocos países imponen una duración máxima a los contratos de arrendamiento, aunque en Dinamarca éstos terminan al cabo de 30 años^14.
+
+3.14 A raíz de la reforma de la tenencia en Inglaterra y Gales mediante la Ley de Arrendamientos Agrarios de 1995, los nuevos arrendamientos de fincas gozan de libertad de contratación, inclusive en lo que se refiere a la duración y la renovación de los contratos. Los datos disponibles indican que, si bien se sigue aplicando el sistema de arrendamiento convencional (es decir, el que existía anteriormente), casi todos los nuevos arrendamientos se conciertan por períodos relativamente breves y no contienen disposiciones relativas a la renovación al final del período. Por lo general, los arrendamientos privados de superficies libres se realizan por períodos de tres años, mientras que los relativos a fincas enteras (menos del 10 por ciento de todos los contratos de arrendamiento) tienen una duración media de 7 años^15.
+
+Los arrendatarios y la sucesión familiar
+
+3.15 Se ha escrito relativamente poco sobre buenas prácticas en relación con los arrendatarios y la sucesión. Cuando existen disposiciones relativas a la sucesión, esos derechos suelen limitarse a las personas que viven en la tierra y la trabajan, y por lo general no son transferibles a terceros. Sin embargo, en aquellos casos en que no existen tales disposiciones, suscita preocupación la posibilidad de que la muerte del arrendatario dé pie al desahucio de toda la familia, incluso si algunos de sus miembros o todos ellos estaban trabajando la tierra y eran agricultores competentes. En muchos países, la mujer desempeña una función decisiva en la agricultura y existe una conciencia cada vez mayor de la importancia de asegurar su acceso a la tierra a través de la herencia^16.
+
+Recuadro 3.3
+
+RENOVACIÓN DE LOS CONTRATOS DE ARRENDAMIENTO EN INGLATERRA Y GALES
+
+Agricultural Holdings Act 1948, section 2 (Ley de explotaciones agrícolas de 1948, sección 2).
+
+Restricción de la posibilidad de arrendar tierras agrícolas por un período inferior a un año
+
+Cuando se arriende tierra a una persona para que la utilice con fines agrícolas mediante un contrato de duración inferior a un arrendamiento anual, el acuerdo surtirá efecto, con cualesquiera modificaciones que sean necesarias, como si fuera un acuerdo para arrendar la tierra mediante un arrendamiento anual.
+
+Agricultural Holdings Act 1948, section 3 (Ley de explotaciones agrícolas de 1948, sección 3).
+
+Prosecución de los contratos de arrendamiento por dos años o más como arrendamientos anuales, a no ser que se terminen mediante notificación
+
+Un contrato de arrendamiento de una explotación agrícola por un período de dos años o más no terminará al expirar el período para el que se concedió, sino que proseguirá (a partir de la expiración de ese período) como arrendamiento anual, a no ser que, con un plazo no inferior a un año ni superior a dos años después de la fecha fijada para la expiración del contrato, una de las partes haya recibido notificación por escrito de la otra de su intención de poner fin al arrendamiento.
+
+Agricultural Holdings (Notices to Quit) Act 1977, section 2[1] (Ley de explotaciones agrícolas de 1977 (Notificación de desalojo), sección 2[1]).
+
+Envío de una contranotificación
+
+Un arrendatario que haya recibido una notificación de desalojo podrá, en el plazo de un mes a partir de la recepción de dicha notificación, enviar al propietario de la tierra una contranotificación por escrito pidiendo que la cuestión se someta al Tribunal de Tierras Agrícolas competente para la zona en que está situada la explotación. A partir de ese momento, la notificación de desalojo solo será válida si dicho Tribunal autoriza su ejecución por una de las razones que se especifican en la Sección 3 de la Ley de 1977.
+
+3.16 Esto plantea cuestiones relativas a la política oficial con respecto a en qué medida los arrendatarios y sus familias deben estar protegidos por ley contra el desahucio y durante qué período de tiempo. En caso de muerte del arrendamiento, está muy generalizada la opinión de que debe permitirse que la familia de éste permanezca en la tierra, al menos durante el resto del contrato de arrendamiento o hasta que puedan establecerse acuerdos de carácter más duradero. Sin embargo, en muchos casos no es probable que esa permanencia sea por un largo período de tiempo.
+
+3.17 Cuando los familiares del arrendatario viven en la tierra que trabajan, el desahucio causa especiales dificultades. Sin embargo, son relativamente pocos los países que tratan de ofrecer una protección por más tiempo, ya sea mediante la ley o la costumbre (aunque en el Recuadro 3.4 se ofrece un ejemplo de sucesión consuetudinaria en Uganda). A menudo se afirma que los 'buenos' arrendatarios y sus familias no suelen ser desahuciados, ya que es improbable que el propietario de la tierra encuentre otros mejores. Sin embargo, aunque puede que esto suceda en algunos casos, especialmente cuando los posibles arrendatarios son relativamente pocos, los datos existentes no parecen indicar que esto sea lo que ocurre en general.
+
+Recuadro 3.4
+
+LA SUCESIÓN CONSUETUDINARIA EN UGANDA
+
+Al comienzo del decenio de 1900, el régimen de tenencia de la tierra en la zona de Buganda, en la Uganda colonial, dejó de ser un sistema consuetudinario basado en el dominio de un jefe sobre la tierra y los derechos a cultivarla de los miembros de la comunidad para transformarse en un sistema similar a la tenencia en régimen de libre disposición. Las explotaciones agrícolas resultantes, conocidas como mailo y controladas por los jefes, eran ya cultivadas por los campesinos. Estos campesinos fueron autorizados a permanecer en ellas, con lo que de hecho pasaron de ser usufructuarios consuetudinarios a ser arrendatarios de una propiedad privada.
+
+En un intento de impedir el desahucio de esos arrendatarios, en el decenio de 1920 se aprobó una legislación que les daba cierta seguridad en la tenencia, al tiempo que establecía el importe de la renta que había de pagarse y los derechos y obligaciones de las partes. Como resultado de ello, las causas de desahucio (que sólo se produce mediante mandamiento judicial) están limitadas actualmente a unas pocas, como por ejemplo el impago de la renta durante tres años. Al igual que en el sistema de usufructo, este derecho puede heredarse, pero no venderse ni transferirse de algún otro modo sin autorización del propietario. El sistema resultante es por tanto una mezcla de derechos de propiedad privada con normas y prácticas consuetudinarias.
+
+(Lastarria-Cornhiel, S. y Melmed-Sanjak, J. 1999. Land tenancy in Asia, Africa and Latin America: A look at the past and a view to the future. Documento de trabajo n°. 27. Centro de Tenencia de la Tierra, Universidad de Wisconsin-Madison)
+
+Renovación del contrato
+
+3.18 Con arreglo a unas buenas prácticas, para llegar a una decisión equitativa han de tenerse en cuenta diversos factores, en lugar de proceder automáticamente a la renovación o no del contrato de arrendamiento. Los factores que se indican a continuación se refieren a una combinación de prácticas y no guardan relación con países o situaciones concretos. Sin embargo, en cualquier país unas buenas prácticas consistirían en asegurar que tanto el propietario de la tierra como el arrendatario tengan claras las bases para la renovación y la reanudación.
+
+3.19 Un factor que tienen en cuenta muchos sistemas es la medida en que el arrendatario se ha ajustado a las condiciones básicas del contrato de arrendamiento. Si el arrendatario no ha cumplido sus obligaciones, el propietario de la tierra debería poder recuperar la posesión de ésta.
+
+3.20 Otro factor que suele tomarse en consideración es el relativo a la situación y las necesidades del propietario de la tierra y su familia. Un argumento convincente que se esgrime a menudo es que el propietario de la tierra debe ser libre de reemprender el cultivo de ésta al término del contrato de arrendamiento. En otros casos, se acepta que el propietario de la tierra debería poder recuperar la posesión de ésta si la necesita para que un familiar comience (o reanude) su cultivo. En la India, el período de arrendamiento precedente se considera un período de 'incapacidad', durante el cual la siguiente generación de familiares del propietario de la tierra se prepara para cultivarla. También se pueden exponer argumentos en favor de conceder al propietario de la tierra el derecho a recuperar la posesión de ésta con el fin de unirla a otras tierras.
+
+3.21 Otro factor más que ha de tenerse en cuenta es si el arrendatario necesita o no la tierra para permanecer en el hogar familiar. Esto puede suceder cuando el arrendamiento incluye un hogar familiar, que tendría que ser desalojado si no se renovara dicho arrendamiento. La vinculación de la renovación del contrato de arrendamiento a la existencia del hogar del arrendatario ofrece al propietario de la tierra un incentivo para prohibir a los arrendatarios que construyan hogares, por temporales y frágiles que sean, y a eliminar los que ya existen. Como resultado de ello, el término 'hogar' debería interpretarse de forma muy amplia, para incluir no solo las estructuras materiales sino también las parcelas de tierra que constituyen el único medio de subsistencia para el arrendatario y sus familiares, vivan allí o no. Otro factor en favor del arrendatario es que debería concederse la renovación en caso de que el no hacerlo fuera injusto o inicuo.
+
+3.22 Al evaluar los factores antes mencionados, es evidente que la política de renovación de los arrendamientos debería regirse en gran medida por consideraciones de equidad, es decir por lo que el propietario de la tierra y el arrendatario estiman que es justo. Aun manteniendo el principio de que el propietario de la tierra debería poder recuperar la posesión de ésta, hay que reconocer que este orden de prioridades sólo debería aplicarse en el caso concreto de que el propietario de la tierra o su familia necesiten utilizarla con fines de explotación directa. Además de este caso, muchos países reconocen el derecho del arrendatario a seguir ocupando la tierra. Sin embargo, especialmente en los países desarrollados, los propietarios de la tierra han tratado de conseguir derechos de recuperación suplementarios, asociados en gran medida a su capacidad para aprovechar el potencial comercial de la conversión a fines no agrícolas.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+PARTE 2: BUENAS PRÁCTICAS EN LOS CONTRATOS DE ARRENDAMIENTO
+
+4 Elementos de un contrato de arrendamiento
+
+Introducción
+
+4.1 En la Parte 2 de estas Directrices se presentan los distintos factores que deberían incluirse en los contratos de arrendamiento. En general, los arrendamientos se tratan de modo genérico, al igual que se hizo en la Parte 1. Por consiguiente, se pasará en gran medida por alto la diferencia fundamental entre los derechos sobre la tierra y los derechos personales, presente en muchos ordenamientos jurídicos. Aunque en este capítulo los arrendamientos se abordan desde una perspectiva genérica, y no jurídica, se reconoce que, en ciertos momentos, será necesario hacer una distinción entre arrendamientos y licencias. En el Capítulo 5 se examinan disposiciones adicionales, o diferentes, que son buenas prácticas esenciales en los contratos de licencia, prestando especial atención a los acuerdos de aparcería debido a su importancia a escala mundial. En el Capítulo 6 se formulan recomendaciones para poner en práctica los contratos de arrendamiento.
+
+4.2 Hay que señalar que el examen que se hace en la Parte 2 está relacionado con buenas prácticas que pueden encontrarse en las sociedades que respetan el imperio de la ley o que aspiran a hacerlo, y en las que las partes están en condiciones de concertar acuerdos voluntarios que sean relativamente equitativos. Más que tratar de cambiar el equilibrio de poder entre las partes, estas prácticas contribuyen a aclarar los contratos de arrendamiento concertados por ellas. Sin embargo, incluso en los ordenamientos jurídicos donde existen desequilibrios de poder, unas recomendaciones que aumenten la transparencia pueden contribuir a proteger los derechos de la parte más débil.
+
+4.3 En el Recuadro 4.1 se enumeran los elementos genéricos de unas buenas prácticas en los contratos de arrendamiento. Si bien no es necesario que todo contrato de arrendamiento incluya todos esos elementos, cualquier contrato que se desviara en exceso de ellos no daría los mejores resultados posibles.
+
+Recuadro 4.1
+
+BUENAS PRÁCTICAS EN LOS CONTRATOS DE ARRENDAMIENTO AGRARIO
+* nombres de las partes
+* fecha de comienzo
+* duración del acuerdo
+* descripción de la propiedad
+* constancia del acuerdo
+* derecho del arrendatario a la posesión mientras dure el arrendamiento
+* derechos y obligaciones de uso
+* principales cláusulas del acuerdo
+* renta u otra compensación
+* disposiciones sobre indemnización
+* procedimiento de solución de controversias
+
+Nombres de las partes
+
+4.4 La identidad de las partes en un arrendamiento agrario se sitúa en el centro mismo del acuerdo, al que proporciona cierta protección y una base para la creación de un clima de confianza entre los interesados^17. La identidad de las partes es también una preocupación esencial para quienes formulan políticas en esta esfera. Es posible que los acuerdos entre un propietario de la tierra y un arrendatario presenten pocos problemas en lo que respecta a la identidad, pero la presencia de copropietarios y coarrendatarios puede plantear algunas dudas que es necesario aclarar. Cuando hay copropietarios, hay que especificar si son propietarios conjuntamente de toda la finca (y por consiguiente proponen un único contrato) o si cada uno de ellos es propietario de una parte (y de hecho se dividen el acuerdo). Cuando en la finca hay coarrendatarios, unas buenas prácticas asegurarían la continuidad del arrendamiento incluso en el caso de que uno de ellos falleciera.
+
+4.5 Un problema más arduo surge cuando no todos los arrendatarios reales figuran como partes en el acuerdo. Esto suele suceder en el caso de la agricultura familiar, donde solo figura un único arrendatario (el agricultor, que es normalmente un varón), aunque es probable que toda la familia cultive la tierra. Puede que esto no tenga consecuencias jurídicas mientras viva el agricultor. Sin embargo, en caso de que éste muera prematuramente, podría rescindirse el contrato de arrendamiento, lo que privaría a los familiares supervivientes de la tierra que han estado cultivando. Algunos ordenamientos jurídicos han afrontado este problema otorgando derechos limitados de sucesión a ciertos miembros de la familia^18. La mayoría de las veces estos derechos consisten simplemente en permitir que el cónyuge (habitualmente la mujer) permanezca en la tierra hasta el final del período de arrendamiento. En algunos casos, esos derechos se amplían para permitir que el cónyuge asuma todos los
+derechos que correspondían al arrendatario original (entre los cuales podrían incluirse, por ejemplo, el derecho a un nuevo contrato de arrendamiento, a la prórroga del existente o a una indemnización al término de éste).
+
+Fecha de comienzo y duración del acuerdo
+
+4.6 Es necesaria una fecha convenida de comienzo (fecha del contrato) para que tanto el propietario de la tierra como el arrendatario sepan cuando pasa de uno a otro la responsabilidad en cuanto a la propiedad. También es importante para convenir la duración del acuerdo. Esta duración puede consistir en un plazo fijo (por ejemplo, un año), con o sin opción a la renovación, o puede ser periódica (por ejemplo, mensual o anual), y a menudo está sujeta a un plazo mínimo inicial. Algunos acuerdos prevén una 'prolongación' para que el arrendatario se quede en la tierra al término del contrato. Esta disposición se ha formalizado en algunos sistemas mediante la introducción de procedimientos oficiales por los que se acuerda (o se impone) la renovación del contrato de arrendamiento.
+
+4.7 Aunque la duración del contrato pueda ser objeto de intervención y control reglamentarios (véase la Parte 3), es una buena práctica en todos los casos adecuar la duración del contrato a los resultados previsibles que se exigen en el acuerdo^19. Esa duración puede estar relacionada con el tipo de productos que han de cultivarse. Mientras que, por ejemplo, el ciclo completo de algunos cultivos de hortalizas es de dos a tres meses, para cultivar cocoteros haría falta un arrendamiento de 50 años de duración como mínimo. Asimismo, la duración del acuerdo puede estar relacionada con las necesidades de la familia, como por ejemplo, el período de tiempo necesario para que la siguiente generación de familiares del propietario de la tierra esté en condiciones de cultivarla.
+
+Descripción de la propiedad
+
+4.8 En todos los casos, es conveniente describir de forma clara e inequívoca la propiedad que ha de arrendarse. En el caso de una pequeña parcela que vaya a arrendarse anualmente para pastoreo, normalmente bastará un acuerdo verbal^20 (insistir en un acuerdo por escrito para transacciones extraoficiales de este tipo estaría totalmente en contra de la práctica habitual, y sería además excesivamente burocrático). Sin embargo, independientemente de si el acuerdo se consigna o no por escrito, debe hacerse referencia al modo en que se ha determinado la superficie de la tierra. Cuando se trata de períodos más largos, parcelas más extensas o tierras y edificios, es preferible hacer un plan y una descripción por escrito. Esos documentos no solo indicarán lo que se incluye o no en el acuerdo, sino que además constituirán la base de acuerdos y cláusulas posteriores.
+
+Constancia del acuerdo
+
+4.9 Aunque los contratos relativos a la ocupación de la propiedad pueden ser -y a menudo son de hecho-verbales, es una buena práctica asegurarse de quede constancia por escrito de los acuerdos a más largo plazo. En Dinamarca, por ejemplo, todos los arrendamientos agrarios han de hacerse por escrito, indicando expresamente la renta y la duración del acuerdo^21. Una situación análoga existe en Alemania^22. Además, en ciertos ordenamientos jurídicos estos acuerdos por escrito han de ajustarse a una determinada forma de redacción o presentación o han de llevar un sello oficial. Por ejemplo, los arrendatarios consuetudinarios de Botswana reciben un certificado de concesión consuetudinaria de la tierra como prueba de sus derechos. En otros casos la versión escrita del acuerdo simplemente añade claridad y certidumbre a un acuerdo verbal. En el caso de acuerdos por un período de tiempo más largo, puede que sea conveniente el registro obligatorio del contrato de arrendamiento (véase
+la Parte 3). En muchos ordenamientos jurídicos, este registro solo se aplica a los contratos de arrendamiento a largo plazo, por ejemplo los que tienen una duración mínima de 20 años.
+
+Derechos y obligaciones de uso
+
+4.10 El grado de exclusividad en que se concede la posesión al arrendatario es uno de los elementos fundamentales de los arrendamientos y las licencias. En el caso de un arrendamiento en toda regla, es de prever que el arrendatario goce de una posesión total y exclusiva. Esto significa que posiblemente el propietario de la tierra tendrá que formular reservas específicas con respecto al acceso a la tierra, por ejemplo reservándose el derecho a inspeccionar la propiedad a intervalos periódicos. Estos intervalos dependerán del tipo de propiedad y de los fines para los que ésta se utilice. Cuando se esté preparando una declaración anual relativa al estado de la propiedad como parte del acuerdo, puede que sea conveniente programar las inspecciones de manera que coincidan. Asimismo, si el propietario de la tierra tiene obligaciones concretas en cuanto al mantenimiento o las reparaciones, será necesario que se reserve el derecho a emprender las actividades correspondientes. En tal
+caso, puede que el arrendatario tenga derecho a excluir a otras personas, como si la tierra fuera de su plena propiedad. Esta situación, además de conllevar un traspaso de obligaciones del propietario de la tierra al arrendatario, concede a éste la máxima libertad de gestión, incluida la capacidad para otorgar derechos de menor cuantía, como por ejemplo licencias y (en ocasiones) subarriendos, a fin de llevar a la propiedad contratistas y otros especialistas.
+
+4.11 Esa exclusividad no se transfiere al titular de una licencia. Por el contrario, éste recibe autorización para emprender determinadas operaciones agrícolas (tales como la labranza o el pastoreo), mientras que el propietario de la tierra conserva todos los derechos y obligaciones relativos a la ocupación. Por consiguiente, en caso de licencia el propietario de la tierra no tiene necesidad de reservarse derechos de acceso u otros requisitos jurídicos, ya que el titular de la licencia no goza de plena posesión legal.
+
+4.12 Una buena práctica sería que los arrendatarios tuvieran libertad para elegir los cultivos dentro de unos límites apropiados. Hay que reconocer que este tipo de libertad no pasa de ser una aspiración en muchas partes del mundo, especialmente en lo que respecta a los acuerdos de breve duración. En el Recuadro 4.2 se describe la forma en que los arrendatarios de Colombia consiguieron ciertos derechos sobre el uso de su tierra después de luchar por ellos.
+
+Derecho de rescisión
+
+4.13 Al establecer la duración del acuerdo, ambas partes deben tener el propósito de completar el período fijado. Si el contrato es anual, o de una duración relativamente breve, puede que esto no sea un problema. Sin embargo, en el caso de un período más largo, es posible que haya ciertas circunstancias en las que el propietario de la tierra desee recuperar la posesión de ésta (debido a la quiebra de su empresa o a la necesidad del arrendatario de trasladarse a una finca o parcela mayor o menor).
+
+Recuadro 4.2
+
+LIBERTAD DE CULTIVO EN EL SISTEMA DE VIVIENTES DE COLOMBIA
+
+Los vivientes eran campesinos sin tierras que vivían y trabajaban en las haciendas y recibían a cambio una pequeña parcela en la que podían cultivar sus propios productos. Al principio el control de los vivientes sobre sus parcelas era mínimo, pero gradualmente obtuvieron ciertos derechos, mediante una serie de medidas legislativas. En virtud de la Ley n° 200 de 1944, la Ley n° 290 de 1957 y la Ley Sexta de 1975, los vivientes adquirieron el derecho a una parcela con una superficie mínima de 0,5 ha, al uso sin restricciones de esa tierra (lo que les permitía cultivar cafetos, además de productos alimenticios), sin obligación alguna de dar una parte de su cosecha al propietario de la tierra, y a una indemnización por las mejoras realizadas en ésta. Si bien los derechos de los vivientes sobre esas pequeñas parcelas se han reforzado, los propietarios de la tierra se han mostrado cada vez más reacios a continuar con este sistema, prefiriendo en cambio recurrir a aparceros cuyos
+contratos pueden rescindirse fácilmente.
+
+(Raymond, P. 1986. 'La aparcería en las haciendas charaleñas.' Cuadernos de agroindustria y economía rural 17(2): 105-156).
+
+Para hacer frente a estas situaciones, puede incluirse en el acuerdo una cláusula que autorice a cualquiera de las partes a rescindir el contrato en determinadas fechas y por determinadas razones. Por ejemplo, la concesión consuetudinaria de tierras en Botswana solo puede ser rescindida por el propietario de la tierra contra la voluntad del arrendatario en cuatro casos específicos^23:
+* Que el arrendatario no observe las restricciones previstas en el contrato de arrendamiento;
+* Que haya un cambio no autorizado de uso o de usuario;
+* Que la tierra no se utilice durante un período considerable; o
+* Que se necesite la tierra con fines de interés público, incluido el de su redistribución.
+
+Cláusulas principales del acuerdo
+
+4.14 Sea cual fuere tipo de arrendamiento, es siempre importante establecer la base sobre la cual se realiza el acuerdo, expuesta en una serie de cláusulas o disposiciones. La lista de las posibles cláusulas relativas a los arrendamientos es larga. Sin embargo, entre las habituales cabe citar las relativas al mantenimiento de la tierra y a la garantía de que la tierra se devolverá en el mismo estado al término del período, las disposiciones sobre mejoras, las cláusulas contra la asignación o subarriendo de la tierra o propiedad sin autorización del propietario y las cláusulas sobre el pago de impuestos. Los tipos y formas de cláusulas apropiadas para una licencia pueden variar, dado que no se transfiere al titular de ella la posesión exclusiva. Es interesante señalar que la desreglamentación de los arrendamientos en Inglaterra y Gales ha dado lugar a la imposición generalizada de condiciones sobre protección del medio ambiente en los nuevos arrendamientos^24.
+
+Cláusulas relativas al mantenimiento de la tierra
+
+4.15 Aunque puede que haya una cláusula u otro tipo de disposición sobre el mantenimiento de la tierra en buen estado, unas buenas prácticas -sin duda en lo que concierne al arrendamiento de explotaciones agrícolas- incluirían también la distribución de las obligaciones en cuanto a mantenimiento y reparaciones entre el propietario de la tierra y el arrendatario. Los detalles de esta distribución dependerán de la duración y otras condiciones del contrato de arrendamiento; un período más prolongado tiende a ir acompañado de una mayor obligación por parte del arrendatario. Estos tipos de cláusulas deben incluirse aunque los acuerdos solo se refieran a una pequeña parcela, porque incluso en esos casos seguirá siendo necesario prestar atención a los canales de avenamiento y las cercas.
+
+4.16 El carácter y la duración de los arrendamientos de fincas completas parecen indicar que previsiblemente los arrendatarios se encargarán de casi todas las operaciones de mantenimiento. Sin embargo, no es razonable, ni constituye una buena práctica, prever que reparen la estructura de los edificios u otros bienes de capital^25. Aunque no es una formula frecuente, sería una buena práctica mantener la división de obligaciones entre el propietario de la tierra y el arrendatario, en virtud de la cual aquél se ocupara de la estructura de los edificios y éste del equipo y las instalaciones internas.
+
+Cláusula relativa a la devolución de la tierra en el mismo estado al término del arrendamiento
+
+4.17 Independientemente de la división de las obligaciones relacionadas con el mantenimiento entre el propietario de la tierra y el arrendatario, todos los arrendamientos deberían incluir una cláusula por la que el arrendatario se comprometiera a devolver la tierra en buen estado. Cabe señalar que este tipo de cláusula se refiere al 'buen estado', y no al mismo estado en que se encontraba cuando se arrendó. La razón de esto es que en muchos ordenamientos jurídicos las cláusulas relativas al mantenimiento en buen estado incluyen también la obligación de poner primero la tierra en buen estado.
+
+4.18 Un acuerdo verbal puede ser suficiente para que se aplique esta cláusula en pequeñas parcelas o en contratos de breve duración. En el caso de parcelas mayores, de una finca completa o de un arrendamiento por un período más largo, puede ser también una buena práctica preparar una declaración completa sobre el estado material de la propiedad en el momento en que se otorga el arrendamiento. Aunque el mal estado inicial no sería una excusa para no dejar la propiedad en buen estado al término del contrato, debe fijarse siempre un objetivo razonable para lo que cabe conseguir en un período determinado. Esta necesidad se satisface dejando continua constancia del estado da la tierra o propiedad. Además, el nivel aceptable para una reparación debería ser el que suele encontrarse en esa zona. También en este caso, esa comparación se vería facilitada si hubiera constancia del estado.
+
+Disposiciones sobre mejoras o cambios de uso
+
+4.19 Además de establecer las obligaciones respectivas en cuanto al mantenimiento y las reparaciones, es una buena práctica asegurar que el arrendatario no emprenda modificaciones o cambios de uso sin el consentimiento expreso del propietario de la tierra. Puede que haya que admitir excepciones a esta regla, por ejemplo para construir cercas resistentes al ganado en torno a una parcela.
+
+Obligaciones financieras respecto de recursos compartidos
+
+4.20 En los acuerdos más largos, especialmente cuando se concede al arrendatario la posesión exclusiva, puede que el propietario de la tierra tenga que señalar la obligación de pagar las diversas cargas asociadas con el uso y la ocupación de la propiedad. Estas cargas pueden incluir impuestos y gravámenes locales (como por ejemplo un canon por consumo de agua), una parte de los costos de mantenimiento de los recursos compartidos (como por ejemplo vías de servicio y avenamiento) y una prima de seguro suficiente para cubrir los daños causados por incendios, robo y otras causas. Una vez más, el carácter y la magnitud de estas obligaciones compartidas dependerán del tipo de tierra que se arriende y de la duración prevista del acuerdo.
+
+Renta u otro tipo de compensación
+
+4.21 Es fundamental que el arrendatario pague al propietario de la tierra una renta u otra compensación (como por ejemplo una parte de la cosecha u otros productos). Puede que al comienzo del acuerdo no se conozca el valor real de la compensación (como sucedería si se tratara de una parte de la producción con arreglo a un acuerdo de aparcería). No obstante, debería especificarse con claridad en el arrendamiento cómo se calculará la compensación y cuándo habrá de pagarse (para un ejemplo de Nigeria, véase el Recuadro 4.3).
+
+4.22 El factor principal que hay que tener presente al establecer la compensación es que debe especificarse claramente y conocerse con certidumbre. Esto no impide que haya elementos 'gratuitos', como las disposiciones consuetudinarias vigentes sobre 'ayuda mutua', que son frecuentes en muchos países. Sin embargo, lo que sí deben excluir los acuerdos de arrendamiento son las disposiciones abusivas que estipulan que los arrendatarios y sus familias han de proporcionar elementos 'no especificados' de la renta, como por ejemplo mano de obra no remunerada.
+
+4.23 Además de establecer el valor de la compensación y las fechas en que ha de pagarse, puede que también sea necesario reservarse el derecho a revisarla en el futuro, en una o más ocasiones especificadas. Las cláusulas de revisión suelen ser más frecuentes (y más necesarias) en los arrendamientos de larga duración, en los que el arrendatario paga normalmente una renta en efectivo. En estos casos en que el valor real de la renta puede variar a causa de la inflación o de las fluctuaciones monetarias y en que el valor relativo de los productos agrícolas puede cambiar en el curso del tiempo, revisiones periódicas protegerán los intereses financieros del propietario de la tierra y la capacidad de pagar del arrendatario.
+
+Recuadro 4.3
+
+COMPENSACIÓN POR LA TIERRA EN IBOLAND (NIGERIA)
+
+Como en muchos países africanos, en Iboland era costumbre pagar por una sola vez un 'tributo' o cantidad simbólica como compensación por el uso de la tierra. Una vez pagado el tributo, los agricultores eran libres de utilizar toda la tierra que pudieran cultivar. Este sistema, conocido como arrendamiento Kola, suponía de hecho el pago de una única prima por la ocupación permanente. En muchos casos, los arrendamientos Kola se complementan con una referencia a la cantidad de tierra utilizada y al volumen de la cosecha anual.
+
+Disposiciones sobre indemnización
+
+4.24 Aunque muchos acuerdos no se ocupan de cuestiones de indemnización, éstas pueden ser especialmente importantes para la agricultura. Esto se debe a que con frecuencia se necesita o se pide introducir mejoras o modificaciones en la tierra, con objeto de hacer que sea idónea para el fin a que está destinada. En algunos casos, esas mejoras acarrearán gastos que no pueden recuperarse al término del arrendamiento, aun cuando hayan agregado valor a la tierra. En esas circunstancias, el arrendatario debería poder reclamar una indemnización por este incremento del valor.
+
+4.25 A la inversa, las modificaciones pueden haber perjudicado a la tierra, reduciendo de ese modo su valor. En tal caso debería ser el propietario de la tierra el que reclamara una indemnización por la pérdida de valor. Con el fin de evitar esta situación, algunos ordenamientos jurídicos insisten en que esas inversiones se amorticen mientras dura el arrendamiento. Sin embargo, esto puede desalentar inversiones importantes, especialmente cuando se acerca la fecha de expiración del arrendamiento y el tiempo disponible se reduce.
+
+4.26 En todos los casos, una buena práctica es negociar tanto las condiciones en que ha de pagarse la indemnización como el modo en que ha de calcularse el valor de ésta. Es muy importante establecer esto, teniendo en cuenta las posibles diferencias en cuanto al equilibrio de poder entre el propietario de la tierra y el arrendatario una vez que ha comenzado el arrendamiento. En lo que respecta al cálculo de la cantidad adeudada, puede hacerse mediante un ajuste de la renta u otros tipos de compensación, o reflejarse en el valor capitalizado de la tierra.
+
+Solución de controversias
+
+4.27 Deberá preverse un procedimiento para solucionar las controversias que pudieran surgir. Este procedimiento se aplicaría tanto a las controversias de carácter general entre las partes como a las controversias específicas relacionadas con cuestiones tales como las revisiones de la renta, las obligaciones en materia de mantenimiento y las peticiones de mejoras. Evitar las controversias es tan importante como solucionarlas. Por consiguiente, los acuerdos deben tratar siempre de prever dónde es probable que surjan controversias, de manera que puedan tomarse medidas para evitarlas.
+
+5 Buenas prácticas en relación con las acuerdos de licencia y de aparcería
+
+Introducción
+
+5.1 Mientras que en el Capítulo 4 se trató la situación general de los arrendamientos, en el presente capítulo se describen los elementos de las relaciones entre el propietario de la tierra y el arrendatario que, desde el punto de vista jurídico, es más apropiado considerar como licencias o acuerdos personales para el uso de la tierra. De hecho, la ubicuidad de los acuerdos de aparcería en gran parte de África, Asia y América del Sur indica que sigue siendo la forma dominante de arrendamiento en la agricultura. La aparcería y otros acuerdos de licencia dan lugar a una distribución de las obligaciones en lo que concierne al cultivo entre el propietario de la tierra y el aparcero o titular de la licencia, por lo que tienen un estatus y unas repercusiones diferentes. Mientras que el arrendamiento implica una situación en la que una de las partes da la tierra en arriendo a la otra, un acuerdo de aparcería o de licencia implica una situación en la que una de las partes concede
+una licencia a la otra. En el acuerdo de licencia se supone que el propietario de la tierra participará más activamente en su cultivo. Sin embargo, en muchas regiones (especialmente en aquellas donde hay grandes explotaciones agrícolas) rara vez participan activamente en el cultivo, salvo para proporcionar acceso a la tierra y unos pocos insumos al aparcero.
+
+5.2 Puede que los derechos a la tierra que transfiere su propietario en virtud de un acuerdo de licencia sean inferiores a los que se transfieren mediante un arrendamiento. Sin embargo, de esto no se desprende necesariamente que un acuerdo de licencia deba ser menos amplio que un acuerdo de arrendamiento. De hecho, asegurándose de que el acuerdo de licencia tiene debidamente en cuenta los insumos y productos compartidos, se puede conseguir que sea tan complejo como el de arrendamiento, aunque en diferentes formas.
+
+Recuadro 5.1
+
+BUENAS PRÁCTICAS EN ACUERDOS DE LICENCIA
+* nombres de las partes;
+* acuerdo sobre la distribución de la tierra;
+* comienzo, duración y método de terminación;
+* distribución de los insumos;
+* distribución de los productos;
+* solución de controversias.
+
+5.3 Como en el caso de los arrendamientos, hay varias disposiciones esenciales que deben tenerse en cuenta en todos los acuerdos de licencia. En los acuerdos de licencia sencillos, las disposiciones esenciales están relacionadas con la certidumbre y la claridad, especialmente en lo que concierne a las partes, la razón por la que se concede la licencia, la duración del acuerdo y la contrapartida por la licencia que se ha acordado. Las licencias de aparcería pueden ser más complejas, ya que han de tener plenamente en cuenta la relación entre el propietario de la tierra y el aparcero en cuanto a la parte que les corresponde. Por consiguiente, esta sección se ocupará de los acuerdos de aparcería en particular, y no de los acuerdos de licencia en general. En el Recuadro 5.1 se indican las disposiciones esenciales de los acuerdos de aparcería. De conformidad con lo expuesto en el Capítulo 4, estas prácticas no cambian el equilibrio de poder entre las partes, sino que aclaran el
+acuerdo. Sin embargo, incluso en los ordenamientos jurídicos en los que existen desequilibrios, recomendaciones tales como la de introducir transparencia en la evaluación de los productos de la cosecha puede contribuir a evitar controversias.
+
+Nombres de las partes
+
+5.4 Al igual que el acuerdo de arrendamiento, el de aparcería debe referirse a las partes por su nombre, dado especialmente que se trata de un acuerdo personal entre un propietario y un aparcero.
+
+Acuerdo sobre la distribución de la tierra
+
+5.5 Esta distribución puede concernir a la totalidad de la tierra, a una parte de ésta o a una explotación agrícola. Esta cuestión es fundamental para la relación entre el propietario de la tierra y el aparcero, ya que establece la razón por la que se llega al acuerdo (e, indirectamente, el motivo por el que no se efectúa un arrendamiento) y el modo en que se administrará la tierra. Como el acuerdo no implica la transferencia de los derechos de propiedad, será necesario especificar el derecho de acceso del aparcero a la tierra para llevar a cabo las operaciones agrícolas.
+
+Comienzo, duración y terminación del acuerdo
+
+5.6 Como en el caso del acuerdo de arrendamiento, se deberá determinar de antemano la fecha de comienzo y la duración del acuerdo. En un acuerdo de aparcería es fundamental asegurar que las partes tengan suficientes oportunidades para cumplir el acuerdo previsto. El tiempo necesario para lograr ese propósito puede variar desde unos pocos meses, en el caso del cultivo durante una sola campaña agrícola, hasta varios años, en el caso de la ganadería. Puede suceder también que cualquiera de las partes desee añadir cláusulas de rescisión. Estas cláusulas podrían estar relacionadas con acontecimientos externos concretos, como que la tierra sea necesaria para otros fines especificados, o con el incumplimiento del acuerdo por una de las partes.
+
+Distribución de los insumos
+
+5.7 Esta disposición se refiere a cuál de los interesados se encargará de suministrar cuáles de los insumos necesarios para cultivar la tierra. Aunque en la práctica ambas partes suelen suministrar insumos, el acuerdo puede comprender desde una simple división entre la totalidad del capital fijo y variable (propietario de la tierra) y de la mano de obra (aparcero), hasta un acuerdo sumamente complejo. En el primer caso puede que sea suficiente una breve referencia a la división. En el segundo caso, podría ser necesario hacer un inventario de todo el capital y equipo, asignando a cada partida un porcentaje concreto. Si resulta apropiado para la escala del acuerdo, se deberá mencionar también cuál de las partes se hace cargo de cuáles costos, seguros, reparaciones y mantenimiento, y a cuál de las partes incumbe sufragar los gastos relacionados con la explotación agrícola.
+
+Distribución de los productos
+
+5.8 En lugar de referirse a la renta, como en el caso del contrato de arrendamiento, el acuerdo de aparcería deberá referirse a la distribución de la producción material bruta de la tierra. Esto puede hacerse mediante una simple división con arreglo a la distribución de los insumos convenida entre las partes. Otra posibilidad sería utilizar una división más compleja que no sólo respondiera a la distribución relativa de los insumos sino también a cómo han influido esos insumos en los productos. Un ejemplo de ello sería la división de una primera porción de productos -normalmente hasta un límite acordado- con arreglo al valor estricto de los insumos, seguida de la asignación del resto de los productos con arreglo a la aportación (insumos) en materia de administración. Teniendo en cuenta el valor de la tierra, es probable que el propietario de ésta consiga una parte mayor de los productos iniciales, mientras que la aportación más importante del agricultor en lo que respecta a
+la administración justificaría una parte mayor de los productos finales.
+
+Evitación y solución de controversias
+
+5.9 Las controversias pueden estar relacionadas con cualquier aspecto del acuerdo, pero las más habituales son las relativas a la parte de la producción que corresponde a cada uno. Estas controversias suelen deberse a una falta de confianza entre el propietario de la tierra y el agricultor. Por ejemplo, es frecuente que el propietario considere que la producción bruta total es mayor de lo que manifiesta el agricultor, lo que implica que éste último se ha quedado con una parte mayor de lo convenido en un principio.
+
+5.10 Aunque para tales casos deberían especificarse procedimientos de solución de controversias análogos a los que se utilizan en los arrendamientos, una buena práctica sería evitar de entrada las controversias de esta índole. Esto puede conseguirse incluyendo en el acuerdo la condición de que el agricultor comunique al propietario de la tierra cuándo tendrá lugar la recolección. De este modo el propietario tendrá la oportunidad de verificar la producción bruta, ya sea personalmente o delegando ese derecho en un tercero independiente.
+
+6 Recomendaciones para aplicar buenas prácticas en los contratos de arrendamiento
+
+Introducción
+
+6.1 Este capítulo se centra en las buenas prácticas para asegurar la ejecución satisfactoria de los arrendamientos agrícolas. A este respecto, cabe hacer una distinción entre los factores técnicos, que están directamente relacionados con las condiciones del arrendamiento, y los factores contextuales, que están relacionados con el entorno en el que se desarrolla el arrendamiento y que se examinarán en la Parte 3. A fin de lograr unas buenas prácticas es fundamental elaborar un mecanismo eficaz para mejorar los contratos de arrendamiento agrario. Al estudiar mejoras relacionadas con los factores técnicos, se hará hincapié en promover medidas factibles.
+
+Preparación de un modelo de arrendamiento
+
+6.2 En muchos países es fácil disponer de modelos de arrendamiento. Estos modelos son preparados a veces por el gobierno, como formas de acuerdo reconocidas oficialmente, por el propietario de la tierra o por grupos de agricultores, como servicio a sus miembros. También pueden solicitarse a menudo modelos de arrendamiento a abogados u otras personas que intervienen en la redacción de los contratos. Si bien este procedimiento tiene necesariamente un carácter general, asegura de hecho que al redactar el contrato se tengan en cuenta todas las cuestiones fundamentales, incluso si se toma la decisión de modificarlas o pasarlas por alto.
+
+6.3 Puede parecer que la elaboración de un modelo de arrendamiento suprime la flexibilidad que suele exigirse en las relaciones entre el propietario de la tierra y el arrendatario^26. Sin embargo, no es necesario que esto suceda. Si se utilizan los elementos esenciales del arrendamiento esbozados en estas Directrices, la forma más sencilla de contrato puede tener una longitud poco superior a una página en la que se traten únicamente los aspectos fundamentales, a saber las partes, la tierra, las fechas de comienzo y de terminación y la cantidad que ha de pagarse. Para los contratos más complejos, especialmente los relativos a acuerdos de aparcería, o para el arrendamiento de una explotación agrícola, podrían añadirse otras páginas en las que se incluyan los demás elementos que han de tenerse en cuenta. Así pues, un modelo de arrendamiento puede de hecho comprender un número variable de páginas, según la complejidad del acuerdo y los deseos de las partes.
+
+Compromiso de remitirse a un modelo de acuerdo en caso de controversia sobre las condiciones de arrendamiento
+
+6.4 La elaboración de un modelo de arrendamiento puede estar relacionada con lo que oficialmente se prevé que ha de incluirse en tales acuerdos, como por ejemplo una división típica o ideal de derechos y obligaciones en lo que concierne tanto a los insumos como a los productos. Estas previsiones normativas no son vinculantes ni limitan los derechos de las partes a decidir sus propias condiciones, pero pueden utilizarse en caso de controversia para denotar los tipos de derechos y obligaciones que suelen encontrarse en tales acuerdos. Uno de estos derechos se refiere a la previsión de que todos los acuerdos relativos al arrendamiento de una explotación agrícola entera se harán por escrito. De este modo cualquiera de las partes en un acuerdo que no conste por escrito podrá hacer valer su derecho a un acuerdo escrito, con sujeción a las condiciones de arrendamiento que se hayan convenido previamente.
+
+Aumento de la transparencia
+
+6.5 Además de promover buenas prácticas al acordar las condiciones del arrendamiento, deberían tomarse también las disposiciones necesarias para asegurar que los acuerdos de arrendamiento, especialmente los de larga duración, se conserven en lugar seguro, de manera que, en caso de controversia, cualquiera de las partes pueda tener acceso al texto convenido originalmente. Algunos ordenamientos jurídicos exigen el registro de los arrendamientos a largo plazo (por ejemplo, de más de 20 años de duración), para dar publicidad al hecho. De esta manera se asegura que cualquiera de las partes que tenga la intención de entablar negociaciones con el propietario de la tierra esté al corriente de que hay otras personas que tienen derechos importantes sobre la propiedad. Habida cuenta de que en algunos ordenamientos jurídicos el cumplimiento de este requisito podría entrañar dificultades y costos considerables, una medida provisional o alternativa podría ser la de delegar la función de
+registrador en un miembro de alta categoría de la comunidad local.
+
+Acceso a información apropiada
+
+6.6 Uno de los factores principales que impiden el desarrollo de los contratos de arrendamiento en todas las partes del mundo es la falta de información apropiada sobre las tendencias y prácticas vigentes en esa materia. Por ejemplo, el establecimiento de un sistema sencillo para dejar constancia de las rentas, las tasas y la distribución de los insumos y los productos puede hacer que los arrendatarios estén en una posición mucho más firme para negociar un arrendamiento. Asimismo, un sistema de este tipo permite a los propietarios de la tierra informarse de si están obteniendo o no el rendimiento adecuado de su tierra. Teniendo en cuenta la multitud de variables que pueden influir en las rentas y otros pagos, es a nivel local donde mejor suelen comprobarse los sistemas de esta índole, que podrían combinarse con el registro de la documentación relativa a los contratos de arrendamiento. Sistemas más complejos podrían incluir asimismo listas de obligaciones comunes respecto de
+los arrendamientos y una referencia a los precios de los productos básicos y a otras fuentes de información útil, como el costo del crédito y su disponibilidad.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+PARTE 3: BUENAS PRÁCTICAS EN RELACIÓN CON FACTORES CONTEXTUALES
+
+7 Factores contextuales
+
+Introducción
+
+7.1 La Parte 3 se ocupa de los factores contextuales relacionados con el entorno en que puede utilizarse un arrendamiento para cultivar la tierra aplicando unos criterios básicos de equidad. Además del acuerdo en sí, que se describió en la Parte 2, hay algunas cuestiones de carácter más amplio y en este capítulo se presentan algunos modos de tratarlas.
+
+7.2 La necesidad de crear un entorno estable en el que los agricultores -sean o no arrendatarios- puedan desempeñar sus tareas con eficacia ocupa un lugar central en la esfera normativa y a menudo se da por descontada en los países desarrollados. Aunque esta cuestión es compleja y puede ser difícil de definir, depende esencialmente de la capacidad para imponer, mantener y hacer respetar instituciones políticas como el imperio de la ley de manera que creen un clima de claridad y certidumbre. Aparte de esto, unas operaciones agrícolas sostenibles se basan en la capacidad para adquirir los insumos apropiados (y por consiguiente exigen la disponibilidad de fondos asequibles) y para vender los productos (y por consiguiente exigen redes idóneas de distribución y comercialización de alimentos).
+
+7.3 Hay que reconocer que las reformas del régimen de arrendamientos pueden influir en las relaciones de poder dentro de las comunidades. Al proponer una serie de 'indicadores' de buenas prácticas, no hay que olvidar que la aplicación de estas prácticas debe reflejar una clara percepción del delicado equilibrio que entrañan. Aunque los factores aquí esbozados requieren que la aplicación de los contratos de arrendamiento se lleve a cabo satisfactoriamente, muchos de esos factores implican también una redistribución del poder para hacer que pase del propietario de la tierra al arrendatario. Si considera que la escala de esta redistribución del poder es demasiado grande, o que las responsabilidades consiguientes son demasiado onerosas, el propietario de la tierra puede dejar de arrendarla. Otra posibilidad es que empiece a estudiar nuevos sistemas de arrendamiento que eviten esas responsabilidades reglamentarias. Ninguna de esas eventualidades favorecería la causa de los
+arrendamientos del sector privado a más largo plazo. Por consiguiente, en todos los casos la aplicación de buenas prácticas debe tener en cuenta este equilibrio entre las necesidades y deseos del propietario de la tierra y el arrendatario.
+
+Políticas de tenencia de la tierra
+
+7.4 La naturaleza de la propiedad de la tierra es uno de los factores más importantes para el desarrollo de los contratos de arrendamiento. El arrendamiento tenderá a ser diferente cuando predominan las explotaciones agrícolas familiares que cuando la tierra está concentrada. También influyen en el arrendamiento las disposiciones institucionales para fomentar o reglamentar la utilización eficiente de la tierra. En su forma más básica, la eficiencia mejorará haciendo producir la tierra no utilizada o abandonada. Esto será especialmente importante cerca de los asentamientos urbanos, donde habrá necesidad de productos agrícolas, así como un mercado consolidado para ellos.
+
+Recuadro 7.1
+
+REGLAMENTACIÓN DEL MERCADO DE TIERRAS EN FRANCIA
+
+Las veintisiete Sociétés pour l'aménagement foncier et l'établissement rural (SAFER) (Sociedades para la ordenación territorial y los asentamientos rurales) creadas mediante la Ley de Orientación Agrícola de 1960, son empresas públicas sin fines de lucro que están controladas por el gobierno y son propiedad de sindicatos de agricultores, mutualidades y otras entidades agrícolas o administrativas. Pueden comprar tierras agrícolas, si es que las hay en el mercado. Desde 1962, tienen una opción legal de compra. Deben vender estas tierras a agricultores jóvenes o recién incorporados o a unidades sostenibles de propiedad familiar; desde la promulgación de una nueva ley en enero de 1990, pueden arrendar tierras. Las SAFER son muy activas y controlan eficazmente el mercado de tierras agrícolas. Sin embargo, no pueden ejercer su opción legal de compra de tierras agrícolas cuando el uso de éstas vaya a destinarse a fines residenciales, industriales o comerciales (Ley del 8 de agosto
+de 1962, Artículo 7-IV-5).
+
+(Lorvellec, L. 1992. 'Agrarian land law in France', pp. 51-70 en Grossman, M.R. y Brussaard, W. (eds.) Agrarian land law in the western world. Wallingford, Oxon: CAB International).
+
+7.5 Ha habido muchos debates sobre la función y la influencia de la propiedad en la administración de las tierras agrícolas. En muchos países se considera conveniente, por ejemplo, promover y mantener la propiedad a escala de las explotaciones agrícolas familiares. Los sistemas de tenencia de la tierra que promueven explotaciones de tamaño familiar permiten a las familias de agricultores cultivar la misma tierra durante generaciones. Esto crea sin duda un grado de estabilidad que tiende a asegurar el empleo basado en la familia y constituye el fundamento de la economía rural, aun si pone en peligro la productividad y rentabilidad de las explotaciones agrícolas^27. Ejemplos de este tipo de régimen pueden encontrarse en muchas partes del mundo, especialmente en Europa continental y Asia. En esos casos, el arrendamiento funciona en gran medida como un vehículo a corto plazo para la transferencia de la tierra entre generaciones. Además de mantener la explotación agrícola
+familiar, el arrendamiento dentro de la familia ofrece incentivos para la cooperación, con lo que el grado de aportación de recursos (mano de obra) es mayor de lo habitual en las explotaciones agrícolas que se arriendan fuera del ámbito familiar.
+
+Recuadro 7.2
+
+Propiedad y administración de plantaciones de caña de azúcar en Brasil
+
+La plantación de caña de azúcar de Usina Sierra Grande ocupa 260 km^2 en el estado de Alagoas y en ella residen 10.000 personas. Los trabajadores, que no tienen derecho a tierras, cortan la caña a mano durante siete días a la semana por un salario comprendido entre 15 y 30 dólares. Además de una vivienda básica y la garantía de trabajo durante todo el año, la plantación proporciona a sus trabajadores escolarización y cierta atención sanitaria. En esta plantación y en otros latifundios similares viven aproximadamente un millón de personas bajo el control de unos pocos terratenientes.
+
+(Bellos, A. 1999. 'The fat-cat controllers of Brazil's landless peasants. The Guardian, 6 de marzo de 1999, p. 18)
+
+7.6 Algunos ordenamientos jurídicos fomentan la agricultura familiar al limitar la superficie de la tierra que puede cultivarse como explotación agrícola independiente. Un ejemplo de ello se encuentra en Dinamarca, donde el tamaño máximo de una finca está fijado actualmente en 125 ha. Aunque este tamaño es relativamente pequeño en comparación con el de las grandes explotaciones agrícolas de otras partes del norte de Europa, este límite representa un aumento con respecto al tamaño máximo anterior, para ofrecer a los agricultores una mayor viabilidad comercial. En otras regiones existen también limitaciones a la creación de minifundios.
+
+7.7 Varios países, entre ellos Francia, utilizan sistemas de control de la propiedad de carácter 'orientativo' o 'preferente' para asegurar la continuidad de la agricultura familiar (véase el Recuadro 7.1). Al controlar los mercados locales de tierras, el sistema francés de comités de las SAFER desalienta, por ejemplo, la compra de tierras agrícolas con fines de inversión o especulación (en la escala que sea). De este modo se favorece efectivamente la propiedad por parte de familias de agricultores^28. El sistema de las SAFER tiene un alto costo de funcionamiento y unas actividades a menudo desiguales (debido en gran medida a las variaciones regionales en las prácticas y condiciones agrícolas), pero ha respaldado la continuidad de la agricultura familiar en toda Francia. Sin embargo, hay indicaciones de que ese control puede ocasionar una falta de inversión en la agricultura, así como impedir que se cultiven todas las tierras idóneas.
+
+7.8 Algunos países aplican a la propiedad de la tierra una política menos reglamentada que fomenta de hecho la concentración de tierras y el absentismo de sus propietarios. En esos casos, el arrendamiento es el medio principal para administrar y cultivar la tierra^29. Cuando la propiedad de la tierra está concentrada en las manos de unos pocos, puede asumir muchas de las funciones del Estado, entre ellas las relativas a la educación y la atención sanitaria (véase el Recuadro 7.2).
+
+7.9 Uno de los costos principales de esas operaciones es la sustitución progresiva de mano de obra por capital. A esto se une la preocupación constante porque el hecho de 'permitir' que la propiedad se independice excesivamente de la explotación directa contribuya en último término a una falta de flexibilidad en el sector agrícola. Así pues, la concentración de la propiedad, en lugar de promover el mercado de tierras, puede limitar de hecho ese mercado para los agricultores con tierras improductivas, dando origen a un aumento del número de campesinos sin tierras y una disminución de las tierras disponibles para la agricultura. Cuando la tierra está concentrada, puede que la reforma agraria sea una política más apropiada que la mejora de los contratos de arrendamiento. Cuando la concentración de la tierra no es excesiva, los campesinos sin tierras pueden tener acceso a ellas mediante el arrendamiento. Lo que constituye un cambio excesivo varía de una sociedad a otra en
+función de la importancia de la tierra para la creación de riqueza. En los países más ricos, donde la población puede obtener riqueza de fuentes distintas de la tierra, una distribución equitativa de la tierra no suele tener una gran importancia política, mientras que en los países donde la mayor parte de la población se dedica a la agricultura (ya sea comercial o de subsistencia) la creación de explotaciones agrícolas más equitativas es de vital importancia.
+
+Recuadro 7.3
+
+DESARROLLO DE NUEVAS APTITUDES PROFESIONALES
+
+"Lo que [los países en desarrollo] no han conseguido [a menudo] es importar nuevas aptitudes, o más bien nuevos conceptos, para atender las necesidades de asesoramiento de los nuevos propietarios sobre los ingredientes básicos de apreciación de las transacciones de mercado, tales como estimaciones del valor presente y futuro, asesoramiento sobre otras líneas de acción, aptitudes de negociación y solución de controversias, y dictámenes objetivos sobre los puntos débiles y fuertes de los fallos administrativos que parecen limitar o incluso impedir el uso beneficioso de los derechos de propiedad".
+
+Arnison, C. (1999) Land tenure and land markets in the transitional economies of Eastern Europe: a review of progress to date. Documento presentado en la Conferencia de Investigación de la RICS ROOTS '98. Londres: Fundación de Investigación de la RICS.
+
+7.10 Cuando la concentración de la tierra no es excesiva, una reforma de su tenencia para mejorar los contratos de arrendamiento puede ser una solución atractiva para los países que desean desarrollar su potencial agrícola, especialmente con miras a los mercados de exportación. Por ejemplo, antes de la reforma de la tenencia de 1995 en Inglaterra y Gales, se estimaba que la desreglamentación podría hacer que un millón más de hectáreas de tierras agrícolas estuviera disponible para su arrendamiento^30.
+
+7.11 Cuando la distribución de la tierra se efectúa a través del mercado, es posible introducir mejoras en diversos ámbitos. A un nivel básico, mejorando los sistemas de información sobre rentas y precios se puede mejorar el funcionamiento del mercado, aunque también es importante la disponibilidad de crédito. Además de estos factores, existen aspectos catastrales, como por ejemplo la mejora de la certidumbre en la identificación de las fincas, y aspectos jurídicos, relacionados con la facilidad con que pueden realizarse las transacciones. En ambos casos, pequeñas mejoras adicionales pueden tener efectos positivos sobre la eficacia relativa del mercado.
+
+7.12 La mejora del apoyo profesional al funcionamiento de los mercados de tierras es un elemento decisivo de estas reformas. Un estudio sobre Europa oriental^31 ha comprobado que, en comparación con los países desarrollados, en esa región escasean los profesionales del sector de servicios, como abogados, tasadores, arquitectos, ingenieros y corredores de tierras. Aunque estos profesionales no participan directamente en la producción, constituyen una parte muy valiosa de la nueva infraestructura del sistema de gobierno, tanto desde el punto de vista de la administración como de la apreciación, en lo que respecta al valor de los diferentes intereses con frecuencia contrapuestos (véase el Recuadro 7.3).
+
+Recuadro 7.4
+
+ASOCIACIONES "MAATSCHAPS" EN LOS PAÍSES BAJOS
+
+En los Países Bajos se ha creado un proceso singular de transición entre generaciones de arrendatarios denominado 'Maatschaps'. Se trata de asociaciones entre progenitores y sucesores para pasar la organización y el control de la empresa agrícola de una generación a otra. El 70 por ciento aproximadamente de las incorporaciones a las explotaciones agrícolas se basan en ese tipo de asociaciones, que permiten a la familia ejercer un alto grado de control sobre el proceso sucesorio. Las explotaciones agrícolas de los Países Bajos están sumamente capitalizadas, y el carácter gradual de los traspasos permite que ese capital se transfiera de manera que quede prácticamente exento de impuestos, que los gastos sean relativamente pocos y que la valoración sea baja. Esto confirma sin lugar a dudas el carácter corporativista de la agricultura en los Países Bajos. Por tanto, en ese país las personas no pertenecientes a la familia que se incorporan a una explotación agrícola están en clara
+desventaja. El Estado ha optado por no injerirse en el proceso y considera inútil toda política para ayudar a los jóvenes agricultores que se incorporan a las explotaciones agrícolas. Tradicionalmente no ayuda a los jóvenes agricultores, aunque de hecho gasta casi la mitad del presupuesto para la agricultura en apoyar la capacitación y enseñanza agrícolas.
+
+(Tomado de Brussaard, W. 1992. 'Agrarian land law in the Netherlands' en Grossman, M.R. and Brussaard, W. (eds.) Agrarian land law in the western world. Wallingford, Oxon: CAB International).
+
+Políticas fiscales y financieras
+
+7.13 Desde hace tiempo se reconoce que la política fiscal desempeña un papel muy importante en el funcionamiento del sector agrícola^32, tanto si la tierra es arrendada como si es cultivada por el propietario. De hecho, constituye a menudo, una parte integrante de la política agraria y rural, especialmente en la medida en que las donaciones, préstamos y beneficios o sanciones fiscales se aplican de manera discriminatoria. En Irlanda, por ejemplo, los agricultores sólo quedaron sujetos al impuesto sobre la renta a partir de 1974, y la tarifa que se les ha aplicado desde entonces es muy inferior a la de otros sectores. Análogamente, en Francia las personas que dan en arriendo tierras durante un largo período (más de 18 años) pueden obtener importantes beneficios fiscales, mientras que en Italia se aplican desgravaciones fiscales a la compra de tierras agrícolas.
+
+7.14 Además, en ocasiones los agricultores (ya sean arrendatarios o propietarios que cultivan directamente la tierra) consiguen un trato fiscal preferente en comparación con los terratenientes, como en el caso de los Países Bajos, donde se aplican tarifas diferenciadas para el agua a los arrendatarios y propietarios que practican el cultivo directo. También en los Países Bajos, los acuerdos de asociación denominados 'Maatschaps' permiten una transferencia de capital prácticamente exenta de impuestos cuando las explotaciones agrícolas pasan de una generación a otra (véase el Recuadro 7.4).
+
+7.15 En otras partes, se ha acusado a la elevada cuantía de los impuestos sucesorios de perjudicar la estructura de las zonas rurales. Esto se debe a que los agricultores de más edad se niegan a invertir en sus fincas, sabiendo que el aumento del valor en capital incrementará los impuestos sucesorios a que estarán sujetos sus herederos.
+
+7.16 Es evidente que en muchas regiones los contratos de arrendamiento (especialmente los que entrañan acuerdos de aparcería) están en gran medida vinculados a la única fuente de crédito de que dispone el arrendatario. Esta fuente es o bien el propietario de la tierra o bien un prestamista local, y ambos pueden exigir unos tipos de interés excesivamente altos por sus préstamos. Por consiguiente, el acceso a crédito independiente es muy importante porque permite al arrendatario invertir su dinero en la agricultura, y no en las cargas del préstamo, al tiempo que le da cierta independencia al negociar el contrato de arrendamiento. La necesidad de atraer capital financiero y crédito externos para la agricultura han impulsado pues muchos programas de reforma del régimen de tenencia. Existe la firme convicción de que el resultado dependerá en gran medida de un régimen de tenencia estable y sólido en el que los acreedores tengan la seguridad de que la tierra constituye una forma de
+garantía aceptable y duradera. Esto ha favorecido sin duda intervenciones técnicas como por ejemplo la codificación del derecho consuetudinario en Botswana, puesto que anteriormente no era posible utilizar como garantía la tierra en régimen de tenencia consuetudinaria^33. En otros casos, el acceso al crédito se basa en los títulos y el registro de las tierras, así como en la claridad de las relaciones de tenencia y los procedimientos de solución de conflictos^34. Sin embargo, hay que reconocer que probablemente los intentos de promover fuentes externas de capital y crédito no serán bien acogidos por los propietarios de tierras, ya que hacen que disminuya una de sus fuentes habituales de ingresos.
+
+Políticas de uso de la tierra
+
+7.17 Las políticas de arrendamiento dependen de las políticas que tienen como finalidad hacer producir las tierras agrícolas disponibles, por ejemplo reduciendo o eliminando los efectos de la especulación de la tierra con fines no agrícolas. Se pueden encontrar ejemplos de medidas concebidas para conseguirlo, consistentes en controlar la enajenación de la tierra ya sea prohibiendo su venta, limitando el precio de venta de las tierras agrícolas^35 o restringiendo su utilización con fines no agrícolas. También es necesario tener en cuenta las políticas tanto macroeconómicas como sectoriales que favorecen actualmente a la industria y la población urbana en detrimento de los agricultores y el sector primario.
+
+7.18 Aunque en zonas muy rurales puede que la presión que ejerce el desarrollo no agrícola sobre la tierra sea insignificante, la situación cambia notablemente en las zonas muy pobladas. Un estudio reciente de la FAO^36 ha puesto de relieve los problemas (y las posibilidades) que tiene ante sí la agricultura en las periferias urbanas, especialmente por lo que respecta a la competencia de otros usos de la tierra. Esto sucede también en los pequeños estados insulares y en las zonas donde hay competencia de otros usos de la tierra, como el turismo (Chipre y el Caribe, por ejemplo).
+
+7.19 El grado de resistencia a este tipo de fuerza externa en favor del cambio es una cuestión de política. Existen varios modos de lograr que la tierra se siga utilizando con fines agrícolas, siendo el más directo de ellos la limitación del cambio de uso. Esto puede conseguirse mediante una prohibición general del aprovechamiento no agrícola (como sucedió en muchos países de la ex Unión Soviética con arreglo a las condiciones de restitución), mediante formas de planificación y control del desarrollo o mediante sistemas de carácter voluntario.
+
+Marco jurídico
+
+7.20 Como se expuso detalladamente en la Parte II, el arrendamiento (o un contrato análogo) es el principal instrumento para plasmar el acuerdo alcanzado entre un propietario de tierras y un arrendatario y la distribución entre ellos de diversos derechos y obligaciones con respecto a la propiedad arrendada. Sin embargo, es importante recordar que, por complejo y detallado que pueda ser el contrato de arrendamiento, define solo parcialmente la relación jurídica entre las propias partes y entre éstas y el mundo exterior.
+
+7.21 En otras palabras, un arrendamiento no existe nunca en forma aislada, sino en un entorno jurídico concreto. Es probable que ese entorno influya profundamente en las características del contrato de arrendamiento aunque en éste no se adviertan esas formas de influencia. Un mismo contrato de arrendamiento, considerado dentro de distintos marcos jurídicos nacionales, puede presentar diferencias espectaculares en cuanto a su validez y fuerza obligatoria.
+
+7.22 Los modos en que las leyes y las instituciones jurídicas pueden influir en los arrendamientos agrarios son numerosos y variados, y aquí sólo podemos mencionar algunos de ellos. Lo que tratamos de destacar es más bien que el análisis -y a veces la reforma- del marco jurídico constituye un factor ineludible para conseguir unas "prácticas idóneas" en un determinado contexto.
+
+7.23 Al analizar un marco jurídico, es conveniente distinguir entre las normas substantivas y de procedimiento que forman parte del cuerpo legal. En términos generales, las normas sustantivas definen los derechos, responsabilidades y oportunidades de los diferentes actores. Detallan las consecuencias de la infracción de la ley y los recursos a disposición de quien sufre un daño como consecuencia de una acción ilegal. Las normas de procedimiento son las que rigen los diversos componentes institucionales del propio sistema jurídico y los procesos mediante los cuales los funcionarios u otras personas pueden tratar de hacer cumplir las leyes o de conseguir un resarcimiento en caso de daños.
+
+7.24 Las fuentes del derecho sustantivo y procesal aplicable variarán de un ordenamiento jurídico a otro, pudiendo tomar la forma de legislación, decretos administrativos, sentencias de los tribunales, textos religiosos, normas consuetudinarias reconocidas o distintas combinaciones de estos elementos. También es probable que las leyes que tienen consecuencias directas e indirectas para las relaciones de arrendamiento se encuentren dispersas entre muchas categorías de asuntos, algunas de las cuales pueden ser más evidentes que otras. Las leyes sobre la propiedad son, sin lugar a dudas, las que tienen una repercusión más directa, especialmente cuando se han promulgado leyes concretas sobre cuestiones relativas al arrendamiento. Pero será necesario tener en cuenta las leyes que regulan una amplia variedad de asuntos, desde el derecho contractual y la tributación en general hasta la herencia y el uso de la tierra.
+
+7.25 Las leyes pueden afectar a un contrato de arrendamiento al complementar, derogar o modificar sus condiciones. Por ejemplo, las leyes sobre el control de la renta pueden invalidar la renta establecida en el arrendamiento. La legislación sobre el registro de tierras puede exigir que los arrendamientos con una duración superior a un número determinado de años sean registrados, e imponer además ciertas condiciones en lo que respecta a la forma y el contenido que deban cumplirse para poder proceder al registro. Puede darse el caso de que otras leyes prescriban ciertas medidas -destinadas a proteger a los arrendatarios- que ha de tomar el propietario de la tierra antes de reclamar ésta en caso de incumplimiento, y de que la capacidad de las partes para eludir dichos procedimientos sea limitada. Cuando un acuerdo no dice nada sobre un determinado punto, la ley puede imponer una "presunción" o fornir el detalle que falta, a veces sin que las partes sean conscientes de ello. Por
+ejemplo, si un contrato de arrendamiento requiere el consentimiento del propietario de la tierra antes de que pueda producirse la cesión, en ciertos ordenamientos jurídicos la ley puede imponer que la decisión del propietario para oponerse a la cesión propuesta sea "razonable", limitando de hecho su discrecionalidad en dicha decisión.
+
+7.26 Un aspecto más fundamental es que las leyes pueden guardar relación con la capacidad de las partes para establecer relaciones de arrendamiento. Los ejemplos más notables de esto se observan en los ordenamientos jurídicos donde la ley niega el derecho a arrendar o lo reduce considerablemente. Como se señaló anteriormente en estas Directrices, varios ordenamientos jurídicos prohíben en esencia el arrendamiento de tierras agrícolas. En el estado de Madhya Pradesh , en la India, el Código de Renta Agraria establece que, con ciertas excepciones limitadas, los bhumiswamis (titulares de la tierra) no pueden arrendar ninguna de sus tierras por más de un año durante un período de tres años consecutivos. Cuando el arriendo infringe las disposiciones del Código, la ley prevé que el arrendatario podrá adquirir a su vez la condición de bhumiswami, desbancando en la práctica al propietario de la tierra.
+
+7.27 Las cuestiones relativas a la capacidad pueden asumir también diversas formas. Una norma básica del derecho de propiedad es que el propietario de la tierra no puede transferir derechos sobre ésta que sean superiores a los que tenía en un principio. La fuerza obligatoria de un contrato de arrendamiento, y de los derechos del arrendatario en virtud de ese contrato, depende pues de la fuerza obligatoria de los derechos del propietario sobre la tierra en cuestión. Una pregunta importante que se deriva de esto es la de si el marco jurídico constituye o no un método eficaz para determinar con seguridad la cuantía de los derechos del propietario de la tierra sobre ésta. Los distintos modos en que los diferentes sistemas jurídicos y sociedades han tratado de garantizar y acrecentar la seguridad de la tenencia quedan fuera del alcance de las presentes Directrices. Lo importante para los fines que aquí se persiguen es subrayar que, cuando los derechos del propietario de la tierra
+son inciertos o inseguros, lo serán también cualesquiera derechos que ese propietario pretenda transferir mediante un arrendamiento.
+
+7.28 Una cuestión conexa es que, en algunos sistemas, el hecho de que una persona sea considerada el propietario "legítimo" de determinados bienes no aclara necesariamente la duda de si esa persona, actuando por cuenta propia, tiene capacidad para arrendar los bienes en cuestión. Por ejemplo, puede que el "propietario" tenga, en virtud del derecho consuetudinario, la obligación de solicitar el asentimiento de miembros de su familia o de autoridades tradicionales, requisitos que tal vez no estén siempre claros en el documento que afirma su carácter de propietario pero que sin embargo pueden ser aplicados por los tribunales si el arrendamiento es impugnado posteriormente.
+
+7.29 Por supuesto, es frecuente que haya discrepancias considerables entre el contenido formal de las leyes y el modo en que éstas se aplican en la práctica. Esto sucede en alguna medida en todos los países del mundo, pero en particular allí donde el "imperio de la ley" está menos arraigado, donde las instituciones jurídicas y administrativas son débiles, donde el acceso a una reparación legal está de hecho fuera del alcance de muchas personas y donde las relaciones de poder entre las partes en un acuerdo son sumamente desiguales. Estos factores limitan el grado en que pueden conseguirse "prácticas idóneas" mediante la introducción de mejoras técnicas en los contratos de arrendamiento o el marco jurídico del que forman parte.
+
+7.30 Fortalecer de forma sustancial el imperio de la ley en un contexto particular puede ser una tarea ingente que entraña factores políticos, económicos y sociales que no es posible examinar aquí. Sin embargo, hay mejoras adicionales que se pueden realizar aplicando principios sencillos en la reforma jurídica y la redacción de textos jurídicos.
+
+7.31 Uno de esos principios es que las disposiciones legislativas (y, por analogía, las disposiciones contenidas en los distintos instrumentos jurídicos, como los contratos de arrendamiento) han de basarse en una evaluación realista de que lo que puede conseguirse de hecho en un lugar y un período determinados. Las leyes que requieren una brusca reorientación del comportamiento institucional o social en contextos en que los incentivos para ese cambio son insuficientes serán probablemente pasadas por alto.
+
+7.32 Ejemplos clásicos de este fenómeno son los intentos legislativos de prohibir por completo la práctica de arrendar tierras agrícolas, mencionados anteriormente. Hay, como hemos visto, numerosas razones normativas para oponerse a ese método. Sin embargo, nuestro planteamiento a este respecto es diferente: aparte de carecer de bases sólidas, esas leyes no funcionan por el simple hecho de que el arrendamiento es una actividad que no puede ser abandonada, ya que es demasiado importante para demasiadas personas. Estas prohibiciones no tienen más efecto que el de llevar esa práctica a la clandestinidad, donde sigue floreciendo al margen de la ley. Esto hace que el imperio de la ley se debilite ulteriormente y que el Estado se halle en una posición aún más débil para mediar en una relación cuya existencia ha dejado de reconocer.
+
+7.33 Desde una perspectiva más amplia, aunque es posible que los gobiernos tengan un interés legítimo en reglamentar la relación de arrendamiento, es importante pero difícil determinar el nivel óptimo de esa reglamentación. Las reglamentaciones farragosas con objetivos de política mal concebidos, los procedimientos difíciles de comprender o largos y costosos de seguir y las normas que no se basan en la realidad alientan el incumplimiento y la corrupción y aumentan los costos de transacción.
+
+7.34 En cualquier marco jurídico, el respeto del imperio de la ley y de los compromisos contractuales dependerá en gran medida del grado en que haya mecanismos fiables, justos y accesibles para solucionar controversias y proveer a reparaciones cuando las promesas se incumplen. Un problema en muchos países es que esos mecanismos son débiles o incluso inexistentes. Muchos sistemas judiciales están sobrecargados de trabajo y no tienen personal y conocimientos técnicos suficientes para tramitar el enorme número de casos que les llegan. Y en algunos países la mayoría de los casos que llegan a los tribunales, y que suelen ser los más difíciles de resolver con rapidez, son precisamente litigios relacionados con la tierra, que se arrastran durante muchos años. Muchas personas normales consideran que los tribunales son costosos, exigen mucho tiempo, son imprevisibles y en ocasiones incluso corruptos. La jerga de abogados y jueces aparece como algo ajeno y complicado.
+
+7.35 Estos problemas son de carácter general y sobrepasan los límites de las presentes Directrices. Sin embargo, se pueden adoptar medidas que aumentan la capacidad tanto de las instituciones jurídicas oficiales como de las instituciones de la sociedad civil para resolver las controversias relacionadas con la tierra. En lo que concierne a los tribunales, es necesario que los gobiernos estudien si existen deficiencias técnicas concretas o fallos en la formación de los jueces que puedan explicar las dificultades para tramitar asuntos relacionados con la tierra. Se está estudiando con creciente atención la creación de tribunales especializados, con competencia en cuestiones relativas a la tierra y en la aplicación de otras técnicas de solución de controversias.
+
+7.36 Por ultimo, cada vez se aprecia más la importancia de reconocer y fortalecer los mecanismos no estatales de solución de controversias. En los países occidentales, esos mecanismos pueden adoptar la forma de los diversos sistemas de arbitraje y solución de controversias mencionados anteriormente en estas Directrices. En otros contextos, es posible que se deba recurrir a modelos comunitarios vigentes, algunos de los cuales pueden estar funcionando desde hace mucho tiempo en paralelo con sistemas judiciales gubernamentales que en ocasiones tienen un origen más reciente. Estudiar estas opciones que ofrece la sociedad civil y basarse en ellas de manera creativa es tal vez el medio más alentador para reducir el volumen de trabajo de los sistemas judiciales y asegurar unos mecanismos accesibles de solución de litigios que estén en consonancia con las normas, las costumbres y el lenguaje de los litigantes.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+NOTAS
+
+^1 Para los antecedentes y detalles técnicos, véase la documentación complementaria preparada para la FAO, la cual puede obtenerse a través del Centro de Tenencia de la Tierra, Universidad de Wisconsin-Madison: Lastarria-Cornheil, S. y Melmed-Sanjak, J. (1999) Land tenancy in Asia, Africa and Latin America: a look at the past and a view to the future. Documento de trabajo n° 27. Centro sobre Tenencia de la Tierra, Universidad de Wisconsin-Madison; Ravenscroft, N., Gibbard, G. y Markwell, S. (1999) Private sector tenancy arrangements in Europe: themes and dimensions - a critical review of current literature. Documento de trabajo n° 28. Centro sobre Tenencia de la Tierra, Universidad de Wisconsin-Madison.
+
+^2 Perrier-Cornet, P., Blanc, M., Cavailhes, J., Dauce, P. y Le Hy, A. (1991) Farm take-over and farm entrance within the EEC. Informe interno. Bruselas: CECA-CEE-CEEA; Comité Económico y Social de la CE (1994) Opinion of young farmers and the problem of succession in agriculture. Informe 573/94. Bruselas: CES.
+
+^3 Datos procedentes de Inglaterra y Gales, donde la Ley de Arrendamientos Agrarios de 1995 redujo considerablemente la reglamentación de los nuevos arrendamientos, demuestran que muchos arrendatarios buscan tierras marginales suplementarias, y no fincas enteras, para que sus empresas agrícolas sean más eficaces. Casi todos los nuevos arrendamientos (más del 90 por ciento) se conciertan con quienes son ya arrendatarios, y no con otros nuevos [véase Errington, A., Millard, N. y Whitehead, I. (1998) The emerging shape of farm business tenancies. Documento presentado en la Conferencia de Investigación de la RICS: ROOTS '98. Londres: Fundación de Investigación de la RICS].
+
+^4 En Botswana, una reforma del régimen de tenencia adaptada a las circunstancias locales ha conservado elementos del sistema consuetudinario, incluido el derecho de libre disposición. Con arreglo a este sistema, el jefe de la tribu distribuye entre los hogares la tierra, que permanece en su posesión mientras la cultiven. Sin embargo, el jefe puede revocar este derecho de usufructo, reasignando la totalidad o parte de la tierra según las circunstancias. 'Lo que se pretendía con ello era que los derechos individuales sobre la tierra estuvieran supeditados a los derechos comunitarios sobre la tierra que cualquiera pudiera ejercer y ejerciera de hecho en caso necesario' [Kalabamu, F.T. (2000) land tenure and management reforms in East and Southern Africa - the case of Botswana. Land Use Policy 17(4): pp. 305-319].
+
+^5 En Stratton, R., Gregory, M. y Williams, R. (1983) Share farming: a guide for farmers and landowners. Londres: Country Landowners' Association; Midland Bank (1985) Practical share farming. Londres: Midland Bank; y Spicer y Pegler (1983) Joint ventures in farming. Londres: Spicer and Pegler, se citan ejemplos de acuerdos de licencia en Inglaterra y Gales.
+
+^6 Este análisis forma parte de la documentación cada vez más amplia sobre los factores adversos y el riesgo moral en las transacciones J. Agricultural land leases and the development of effective land registration systems: Reference to FAO Central and Eastern European Member Nations, en Structural changes in the farming sectors of central and eastern Europe, eds. C. Csaki y Z. Lermanrelacionadas con la tenencia de la tierra (véase Riddell,. Washington, D.C.: Banco Mundial). Las relaciones entre el agricultor (agente) y el propietario de la tierra (mandante) diferirán según la cantidad y la calidad de la información que cada uno de ellos tenga sobre el otro al negociar el acuerdo contractual (por ejemplo, aparcería o arrendamiento).
+
+^7 'Unos buenos sistemas de tenencia de la tierra son el fundamento necesario para unas prácticas agrícolas sostenibles. La liberalización en curso de la economía política mundial ha puesto de manifiesto la necesidad de unos mercados de la tierra y unas transacciones de mercado abiertos y transparentes' [Riddell, J.C. (2000) Emerging trends in land tenure reform: progress towards a unified theory. Estudio de la colección Aspectos del Desarrollo Sostenible. Roma: FAO. (www.fao.org/WAICENT/FAOINFO/SUSTDEV/Ltdirect/Ltan0038.htm).
+
+^8 El grado de protección de los arrendatarios en Escocia, por ejemplo, se considera un obstáculo importante al aumento de los contratos de arrendamiento (Grupo de Política de Reforma Agraria, 1998, Identifying the problems. Edimburgo: Oficina de Escocia).
+
+^9 Lastarria-Cornheil, S. y Melmed-Sanjak, J. (1999) Land tenancy in Asia, Africa and Latin America: a look at the past and a view to the future. Documento de trabajo n° 27. Centro de Tenencia de la Tierra, Universidad de Wisconsin-Madison.
+
+^10 Aunque recibe diferentes nombres en diferentes regímenes jurídicos, la ocupación útil define de hecho las normas que han de cumplirse en relación con el cuidado y el estado de la tierra. Para evitar sanciones (como por ejemplo la revocación de un contrato de arrendamiento) el arrendatario debe atenerse a esas normas. Esto implica al mismo tiempo la responsabilidad para el propietario de la tierra de velar porque el arrendatario tenga el equipo fijo necesario para cumplir esa obligación.
+
+^11 En su examen de las consecuencias de la liberalización de los arrendamientos en Inglaterra y Gales, Errington et al. (1998) comprobaron que los principales beneficiarios habían sido los agricultores ya existentes deseosos de aumentar el tamaño de sus explotaciones. La conclusión que sacaron de esto fue que la liberalización había favorecido el mercado 'de tierras marginales suplementarias' (véase la nota 3 supra).
+
+^12 Esto quedó de manifiesto en los debates que condujeron a la promulgación de la Ley de Arrendamientos Agrarios de 1995 en Inglaterra y Gales, en la que se redujeron de hecho las restricciones a la libertad de los propietarios de la tierra (véase Gibbard, R. y Ravenscroft, N., 1997, 'The reform of agricultural holdings law' en Jackson, P. & Wilde, D.C. (eds.) The reform of property law. Aldershot: Dartmouth Publishing Co. Ltd. pp. 111-126)
+
+^13 Las cláusulas de rescisión son estipulaciones del contrato de arrendamiento en virtud de las cuales éste puede rescindirse en determinados momentos con determinados fines (como por ejemplo la necesidad por parte del propietario de la tierra de reanudar su explotación directa).
+
+^14 Véase Wulff, H. (1992) 'Agrarian land law in Denmark', en Grossman, M.R. y Brussaard, W. (eds.) Agrarian land law in the western world. Wallingford, Oxon: CAB International.
+
+^15 Véase Country Landowners' Association (1997) CLA farm business tenancy survey 1996. Londres: Country Landowners' Association; Millard, N., Whitehead, I. y Errington, A. (1999). Flexibility and farm business tenancies: to what extent is the industry making full use of the new-found freedom? Documento presentado en la Conferencia de Investigación de la RICS: ROOTS '99. Londres: Fundación de Investigación de la RICS.
+
+^16 Wily (2000) pone de relieve la función de la mujer en la agricultura y la necesidad de proteger sus intereses al llevar a cabo una reforma agraria.
+
+^17 En su trabajo sobre el registro de la tierra, Palmer (1999) observa que al dejar constancia de los detalles básicos de las transacciones relativas a la tierra se proporciona a todos los interesados información y seguridad. Por supuesto, el grado de protección que se ofrece depende por completo de la medida en que las partes en un arrendamiento puedan hacer cumplir las disposiciones de éste, lo que a su vez depende de la capacidad de hacer cumplir el imperio de la ley [véase Palmer, D. (1999) Making land registration more effective. Land Reform, Land Settlement and Cooperatives 1999/1-2].
+
+^18 Véase, por ejemplo, la Ley de Explotaciones Agrícolas de 1976 (Disposiciones varias) en Inglaterra y Gales, que concedía derechos de arrendamiento al cónyuge y a los hijos del arrendatario fallecido, siempre que cumplieran determinados criterios.
+
+^19 En Inglaterra y Gales, la desreglamentación ha permitido a las partes en un arrendamiento concertar contratos de duración adecuada a sus necesidades. En el caso de los arrendamientos de superficies libres marginales suplementarias, la duración suele ser breve (por lo general de 1 a 3 años). En el caso de las fincas enteras, la duración es mayor, debido al mayor período de tiempo que es necesario para que el arrendatario consolide y desarrolle su empresa agrícola [Millard, N., Whitehead, I. y Errington, A. (1999). Flexibility and farm business tenancies: to what extent is the industry making full use of the new-found freedom? Documento presentado en la Conferencia de Investigación de la RICS: ROOTS '99. Londres: Fundación de Investigación de la RICS].
+
+^20 Al señalar que un acuerdo verbal es por lo general recomendable para las pequeñas parcelas que se arriendan anualmente, se reconoce que los problemas de ubicación pueden exigir un planteamiento distinto. En particular, las parcelas urbanas y peri-urbanas pueden tener un valor no agrícola importante, lo que significa que los propietarios de la tierra necesitan que se proteja ese valor para poder arrendarla por breve plazo con fines agrícolas. En casos como éstos, es probable que lo adecuado sea un acuerdo por escrito.
+
+^21 Véase Wulff, H. (1992) 'Agrarian land law in Denmark' en Grossman, M.R. y Brussaard, W. (eds.) Agrarian land law in the western world. Wallingford, Oxon: CAB International.
+
+^22 Grossman, M.R. y Brussaard, W. (eds.) Agrarian land law in the western world. Wallingford, Oxon: CAB International.
+
+^23 Véase Kalabamu, F.T. (2000) Land tenure and management reforms in East and Southern Africa - the case of Botswana. Land Use Policy 17(4): pp. 305-319.
+
+^24 Véase Millard, N., Whitehead, I. y Errington, A. (1999). Flexibility and farm business tenancies: to what extent is the industry making full use of the new-found freedom? Documento presentado en la Conferencia de Investigación de la RICS: ROOTS '99. Londres: Fundación de Investigación de la RICS.
+
+^25 A pesar de que es sensato y justo separar las obligaciones relativas a la reparación y al mantenimiento, en muchas regiones se tiende a intentar que toda la responsabilidad recaiga sobre el arrendatario. Para la situación en Inglaterra y Gales a raíz de la des reglamentación de los arrendamientos, véase Millard, et al. (1999).
+
+^26 Aunque los arrendamientos de empresas agrícolas de Inglaterra y Gales han sido elogiados por su flexibilidad, un seguimiento inicial de las reformas indicó que casi todos los acuerdos de arrendamiento seguían basándose en el sistema tradicional de arrendamiento agrario [véase Millard, N., Whitehead, I. y Errington, A. (1999). Flexibility and farm business tenancies: to what extent is the industry making full use of the new-found freedom? Documento presentado en la Conferencia de Investigación de la RICS: ROOTS '99. Londres: Fundación de Investigación de la RICS].
+
+^27 Este argumento se expone detalladamente en Ravenscroft, N., Gibbard, R. y Markwell, S. (1998) Private sector tenancy arrangements in Europe, volume 3: position paper. Informe inédito para la FAO. Escuela de Estudios de Gestión para el Sector de Servicios, Universidad de Surrey, Reino Unido. Véase también Ravenscroft, N., Gibbard, G. y Markwell, S. (1999) Private sector tenancy arrangements in Europe: themes and dimensions - a critical review of current literature. Documento de trabajo n° 28. Centro de Tenencia de la Tierra, Universidad de Wisconsin-Madison.
+
+^28 Véase Lorvellec, L. 1992. 'Agrarian land law in France', pp. 51-70 en Grossman, M.R. y Brussaard, W. (eds.) Agrarian land law in the western world. Wallingford, Oxon: CAB International.
+
+^29 Hay que reconocer que la propiedad de la tierra tiene también aspectos económicos, especialmente en muchos países desarrollados donde la agricultura familiar en pequeña escala acaba por ser antieconómica.
+
+^30 Véase Kerr, J. (1994) Farm business tenancies: new farms and land 1995-97. Londres: Institución Real de Geómetras Titulados.
+
+^31 Véase Arnison, C. (1999) Land tenure and land markets in the transitional economies of Eastern Europe: a review of progress to date. Documento presentado en la Conferencia de Investigación de la RICS: ROOTS '99. Londres: Fundación de Investigación de la RICS.
+
+^32 Véase Comisión de las Comunidades Europeas (1982) Factors influencing ownership, tenancy, mobility and use of farmland in the member states of the European Community. Luxemburgo: Comisión de las Comunidades Europeas; Lipinsky, E. (1992) 'The functions of taxation and farm credit in agrarian reforms and land tenure systems in EEC member countries', pp. 241-279 en Kern, E.S. (ed.) International seminar on land reform and the problems of land legislation. Moscú y Roma: Academia de Ciencias Agrarias de toda la Unión y FAO.
+
+^33 Véase Kalabamu, F.T. (2000) Land tenure and management reforms in East and Southern Africa - the case of Botswana. Land Use Policy 17(4): pp. 305-319.
+
+^34 Véanse Melmed-Sanjak, J. y Lastarria-Cornhiel, S. (1998) Land access, off-farm income and capital access in relation to the reduction of rural poverty. Land Reform, Land Settlement and Co-operatives 1998/1: pp. 5-18; Riddell, J.C. (2000) Emerging trends in land tenure reform: progress towards a unified theory. Documento de la Colección Aspectos del Desarrollo Sostenible. Roma: FAO. (www.fao.org/WAICENT/FAOINFO/SUSTDEV/Ltdirect/Ltan0038.htm).
+
+^35 Por ejemplo, la Ley de Transferencia de la Tierra en Alemania limita el precio de venta de las tierras agrícolas al 150 por ciento del precio medio de venta de la tierra de calidad comparable.
+
+^36 Ciparisse, G. (1997) 'Dynamiques foncières et agriculture en zones périurbaines'. Land Reform, Land Settlement and Co-operatives 1997/1: pp. 67-73.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+BIBLIOGRAFÍA
+
+Anderson, H., (1995) 'Landowners and farmers: implications of disparities in bargaining power for tenancy in agriculture', Agricultural Economics 12: pp. 151-162,
+
+Arkleton Trust (Research) Ltd (1992) Farm household adjustment in western Europe 1987-1991. Luxembourg: Office for Official Publications of the European Communities.
+
+Biesele, M.A., Hubbard, D. y Ford, J. (1991) Land issues in Nyae Nyae: a communal areas example in Namibia. Windhoek: Nyae Nyae Development Foundation of Namibia.
+
+Blanc, M., y Perrier-Cornet, P. (1993) 'Farm transfer and farm entry in the European community', Sociologica Ruralis XXXIII (3/4): pp. 319-335.
+
+Braverman, A., Brooks, K.M. y Csaki, C. (eds.) (1993) The agricultural transition in central and eastern Europe and the former USSR. Washington, DC: World Bank.
+
+Bruce, J. (1998) Learning from comparative experience with agrarian reform. In Barry, J. (ed.) Proceedings of the International Conference on Land Tenure in the Developing World. Cape Town: University of Cape Town.
+
+Commission of the European Communities (1982) Factors influencing ownership, tenancy, mobility and use of farmland in the member states of the European Community. Luxembourg: Office for Official Publications of the European Communities.
+
+Commission of the European Communities (1987) Survey on farm structures. Luxembourg: Office for Official Publications of the European Communities.
+
+Commission of the European Communities (1991) Report on the Agricultural situation in the community. Luxembourg: Office for Official Publications of the European Communities.
+
+Cruz, J.R. y Muñoz, M.G. (1997) Situación actual de la coinversióny el arrendamiento de tierras en grupos del sector reformado de cuatro regiones de Honduras. Tegucigalpa: Secretaría de Recursos Naturales, Unidad de Planeamiento y Evaluación de Gestión: Instituto Nacional Agrario.
+
+Dulley, R.D. y Santos de Souza, Z.A.P. (1991) 'A questão da decisão do proprietário em arrendamento agrícola: estudo de casos de Ituverava e Miguelópolis, São Paulo', Agricultura em Sao Paulo 38(3): pp. 137-147.
+
+Duran, E. (1985) La mediería de tierras en una localidad de Ñuble. Serie Documentos de Trabajo, No. 24. Santiago: Grupo de Investigaciones Agrarias, Academia de Humanismo Cristiano.
+
+Economic and Social Committee of European Commission (1994) Opinion of young farmers and the problem of succession in agriculture. Report 573/94. Strasbourg: Office for Official Publications of the European Communities.
+
+European Commission (1996) Young farmers and the problem of succession in European agriculture. Brussels: Office for Official Publications of the European Communities.
+
+Gibbard, R. y Ravenscroft, N. (1997) 'The reform of agricultural holdings law', in Jackson, P. & Wilde, D.C. (eds) The reform of property law. Aldershot: Dartmouth Publishing Co. Ltd., pp. 111-126.
+
+Goodale, M.R.G. y Sky, P.K. (2001) A comparative study of land tenure, property boundaries and dispute resolution: case studies from Bolivia and Norway. Journal of Rural Studies 17(2): pp. 183-200.
+
+Grossman, M.R. y Brussaard, W. (eds) Agrarian land law in the western world. Wallingford, Oxon: CAB International.
+
+Hagedorn, K. y Klare, K. (1986) 'Farm cessation programs and tax problems', Landbauforschung Volkenrode, 36, Jahgang, Heft 1: pp. 7-27.
+
+Herrera, A., Riddell, J. y Toselli, P. (1997) 'Experiencias recientes de la FAO en relación con la reforma agraria y la tenencia de la tierra', Land Reform, Land Settlement and Co-operatives 1997/1: pp. 52-64.
+
+Horowitz, A. (1996) 'Wage-homestead tenancies: technological dualism and tenant household size', Land Economics 72(3): pp. 370-380.
+
+International Bank of Reconstruction & Development and Euroconsult (1995) Farm restructuring and land tenure in reforming socialist economies. A comparative analysis of Eastern and Central Europe. Washington, DC: World Bank.
+
+Kalabamu, F.T. (2000) Land tenure and management reforms in East and Southern Africa - the case of Botswana. Land Use Policy 17(4): pp. 305-319.
+
+Kern, E.S. (ed) International seminar on land reform and the problems of land legislation. Moscow and Rome: All-Union Academy of Agricultural Sciences and FAO.
+
+Keily, G. y Reyniers, J. (1996) 'Report on young farmers in the European Union', Spokesman's Service, Publication IP/96/819. Brussels: European Commission.
+
+Klare, K (1985) 'Current market tension for farm land tenancy from farmers view and possibilities for government intervention', Landbauforschung Volkenrode 35, Jahgang, Heft 3: pp. 114-126.
+
+Lastarria-Cornheil, S. y Melmed-Sanjak, J. (1999) Land tenancy in Asia, Africa and Latin America: a look at the past and a view to the future. Working Paper No. 27. Land Tenure Center, University of Wisconsin-Madison.
+
+Laxton, H., Hodge, I., y Davidson, G., (1987) Smallholdings under pressure. Cambridge: Granta Editions Ltd.
+
+Lerman, Z., Brooks, K. y Csaki, C. (1994) Land reform and farm restructuring in Ukraine. Discussion Paper No. 270. Washington, DC: World Bank.
+
+Mathuba, B.M. (1989) Report of the review of the Tribal Lands Act, land policies and related issues. Gaborone, Botswana: Government Printer.
+
+Mueller, B. (1997) 'Property rights and the evolution of a frontier', Land Economics 73(1): pp. 42-57.
+
+Ng'ong'ola, C. (1996) Customary law, land tenure and policy in some African countries at the threshold of the twenty-first century. In van Maanen, G.E. and van der Walt, A.J. (eds) Property law on the threshold of the twenty-first century. Antwerp: Maklu.
+
+Northfield, Lord (1979) Report of the Committee of Inquiry into the acquisition and occupancy of agricultural land. HMSO, London.
+
+Palmer, D. (1999) Making land registration more effective. Land Reform, Land Settlement and Co-operatives 1999/1-2.
+
+Perrier-Cornet, P., Blanc, M., Cavailhes, J., Dauce, P., Le Hy, A. (1991) Farm take-over and farm entrance within the EEC. Internal to European Commission, ECSC-EEC-EAEC, Brussels.
+
+Ravenscroft, N., Gibbard, G. y Markwell, S. (1999) Private sector tenancy arrangements in Europe: themes and dimensions - a critical review of current literature. Working Paper No 28. Land Tenure Center, University of Wisconsin-Madison.
+
+Riddell, J. (2000) 'Agricultural land leases and the development of effective land registration systems: Reference to FAO Central and Eastern European Member Nations'. Proceedings of the Second EU Accession Workshop (Warsaw 1999). Washington DC: World Bank.
+
+Shivji, I.G. (1998) Not yet democracy: reforming land tenure in Tanzania. Discussion Paper. Dar Es Salaam: Faculty of Law, University of Dar Es Salaam.
+
+Stockdale, A., Lang, A.J. y Jackson, R.E. (1996) 'Changing land tenure patterns in Scotland: a time for reform?', Journal of Rural Studies, 12(4): pp. 439-449.
+
+Symes, D. and Anton, J.J. (eds.) (1994) Agricultural restructuring and rural change in Europe. Agricultural University, Wageningen, The Netherlands.
+
+United Nations Economic Commission for Europe (1996) Land administration guidelines with special reference to countries in transformation. New York: United Nations.
+
+United Nations Economic Commission for Europe/Food & Agriculture Organization (1992) Specific problems of the transformation of collective farms into viable market oriented units. Bonn: United Nations Regional Office for Europe.
+
+Wegren, S. (1998) Russian agrarian reform and rural capitalism reconsidered. Journal of Peasant Studies 26(1): pp. 82-111.
+
+Werczberger, E. . Borukhov, E. (1999) The Israel Land Authority: relic or necessity? Land Use Policy 16(2): pp. 129-138.
+
+Winter, M., Richardson, C., Short, C. . Watkins, C. (1990) Agricultural land tenure in England and Wales. London: Royal Institution of Chartered Surveyors.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice
+
+
+CUBIERTA POSTERIOR
+
+Las Directrices sobre buenas prácticas en los contratos de arrendamiento agrario se han formulado para ayudar a los gobiernos y a la sociedad civil a comprender el funcionamiento del arrendamiento agrario y los acuerdos relacionados con él, así como para poner de manifiesto las ventajas de un marco de arrendamiento equitativo que regule los Intereses de las partes involucradas, que por lo general son el arrendatario y el terrateniente. Estas directrices tratan por consiguiente de los elementos contextuales y de las políticas relativas al arrendamiento agrario, y son también una guía práctica y actualizada en la cual se analizan las cuestiones que terratenientes y arrendatarios deben considerar al llevar a cabo las negociaciones de arrendamiento de la tierra de cultivo. A pesar de que las directrices no proporcionan asesoramiento de carácter jurisdiccional, los temas generales y las recomendaciones que contienen son válidos en muchos lugares del mundo. Entre los asuntos
+estudiados están las «buenas prácticas» de arrendamiento y las recomendaciones para utilizarlas, amén de los componentes de los contratos de arrendamiento, aparcería y licencia. Sin embargo, no se puede considerar el arrendamiento de forma aislada, por lo que el libro concluye con un examen de factores contextuales que comprenden las políticas de tenencia de la tierra, el sistema fiscal y financiero, las políticas de uso de la tierra y el marco legal general.
+
+
+Página precedente Inicìo de página

@@ -1,0 +1,1359 @@
+Directrices para el Manejo, Transporte y Sacrificio Humanitario del Ganado
+
+
+
+Recopilado por:
+Philip G. Chambers
+Temple Grandin
+Editado por:
+Gunter Heinz
+Thinnarat Srisuvan
+Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific
+
+Indice
+
+
+Ni la terminología ni el contenido de esta publicación representan la posición de la FAO (Organización de las Nacionales Unidas para la Agricultura y la Alimentación), con respecto al estado legal de cualquier país, territorio, ciudad o región, ni tampoco aquella de las autoridades locales con respecto a la delimitación de sus fronteras. La palabra "países" que aparece en el texto, se refiere a países, territorios y regiones sin distinción. Las designaciones "desarrollado" y "en vías de desarrollo", tienen como finalidad una conveniencia estadística y no necesariamente expresan un juicio acerca de la etapa alcanzada por determinado país o región en su proceso de desarrollo. Las opiniones expresadas en este artículo son de los autores contribuyentes y no necesariamente son compartidas por la FAO.
+
+Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, guardada en un sistema de almacenamiento ni transmitida de ninguna manera, ni por ningún medio, ya sea electrónico, mecánico, fotocopia u otro, sin la debida autorización del dueño del copyright. La solicitud de tal permiso, indicando el propósito y el alcance de la reproducción, se debe dirigir al Oficial de Producción Animal, FAO, Oficina Regional de Asia y el Pacífico (RAP), 39 Maliwan Mansion, Phara-Atit Road, Bangkok 10200, Tailandia.
+
+© FAO 2001
+
+
+Indice
+
+
+PRÓLOGO
+
+INTRODUCCIÓN
+
+CAPITULO 1: El estrés y el dolor en los animales
+
+CAPITULO 2: Efectos del estrés y de las lesiones en la calidad de la carne y de los subproductos
+
+A. Calidad de la carne
+
+Carne pálida, blanda y exudativa (PSE)
+Carne oscura, firme y seca (DFD)
+Deterioro de la carne
+Los hematomas y las lesiones
+
+B. Calidad de pieles y cueros
+
+CAPITULO 3: Sistemas de mercadeo y pérdidas
+
+Identificar a las personas responsables de las pérdidas
+Mercados segmentados y trabajo a destajo
+
+CAPITULO 4: Principios de comportamiento animal
+
+Relación de la vista, oído y olfato del animal con el estrés y las lesiones
+
+CAPITULO 5: Manejo del ganado
+
+Principios generales
+Manejo en los corrales de acopio y mangas
+Zona de fuga y punto de equilibrio
+Diseño de las instalaciones para el manejo
+
+CAPITULO 6: Transporte del ganado
+
+Efectos del transporte
+Métodos de transporte
+Tipos de vehículo
+Precauciones antes de la carga
+Operaciones de transporte
+
+CAPITULO 7: Sacrificio del ganado
+
+Preparación del ganado para el sacrificio
+Dispositivos de inmovilización
+Métodos de aturdimiento
+Aturdimiento de percusión
+Aturdimiento eléctrico
+Aturdimiento con dióxido de carbono
+Malas prácticas de inmovilización del ganado
+Sacrificio ritual o religioso (halal y kosher)
+Desangrado
+Determinación del grado de insensibilidad en el momento del sacrificio
+
+CAPITULO 8: Mantenimiento de buenas normas de bienestar animal
+
+Cinco puntos críticos de control
+Calificación objetiva de normas de eficacia en los puntos críticos de control
+
+CONCLUSIONES
+Indice Página siguiente
+
+
+PRÓLOGO
+
+Muchos países en vías de desarrollo manifiestan problemas con respecto al bienestar animal, y en especial con respecto al sacrificio del ganado. Tales problemas incluyen el manejo del ganado, su transporte, su estancia en los corrales de acopio o espera antes del sacrificio, el aturdimiento y el desangrado.
+
+El trato humanitario de animales destinados a ser sacrificados en estos países es de gran importancia por los siguientes motivos:
+* En las últimas décadas, ha habido una demanda cada vez mayor de productos de origen animal, y en especial de la carne;
+
+* La producción de carne en los países en desarrollo ya excede considerablemente a la de los países desarrollados, lo cual conduce a un mayor número de animales sacrificados;
+
+* Los países en desarrollo, con el potencial de exportar carne pero sin prácticas adecuadas para el trato humanitario, deberán cumplir con los requisitos sanitarios y de bienestar animal de los países importadores;
+
+* Además de reducir el sufrimiento innecesario, el trato humanitario de animales también reduce pérdidas en la calidad y en el valor de las carnes y de los subproductos, contribuyendo así a la mayor seguridad alimentaria y a mejores ingresos en los países más necesitados;
+
+* Muchos países en desarrollo tienen una legislación de bienestar animal poco desarrollada y mal implementada, lo cual resulta en condiciones inadecuadas para el ganado y en su sufrimiento excesivo.
+
+Los recursos del presupuesto de la FAO, destinados a maximizar la producción de los sectores alimentario, agrícola y ganadero de los países en desarrollo, tienen fondos muy limitados para el bienestar del ganado. Por lo tanto, el cambio en el trato humanitario de los animales destinados al sacrificio debe realizarse por medio de iniciativas conjuntas entre el gobierno, los productores, la industria cárnica y las organizaciones no gubernamentales (ONG). Sin embargo, la FAO, en colaboración con las ONG, podría coordinar estos esfuerzos, como también proporcionar recomendaciones y asistencia técnica.
+
+Esta publicación representa un esfuerzo conjunto entre la FAO y la Sociedad Humanitaria Internacional (HSI). Tiene como finalidad ofrecer recomendaciones al personal encargado del bienestar animal, a transportistas, agricultores, personal de los mataderos, etc., para mejorar las técnicas de sacrificio, la productividad del ganado y su bienestar.
+
+Los autores son Philip G. Chambers, (antiguo Subdirector de Salud Pública Veterinaria, Departamento de Servicios Veterinarios, Bulawayo, Zimbabwe), Temple Grandin (Profesor Ayudante, Departamento de Ciencias Animales de Colorado State University), Gunter Heinz (Oficial Principal de Producción Animal, Oficina Regional de la FAO para Asia y el Pacífico, Bangkok, Tailandia), y Thinnarat Srisuvan (Oficial Veterinario, Departamento de Desarrollo de Ganado, Bangkok, Tailandia).
+
+Las ilustraciones son una contribución de PG Chambers (Figuras. 2, 3, 4, 5, 7, 8, 9, 10, 12, 14, 15, 17, 19, 20, 21, 23, 29, 31, 32, 34, 35, 36, 37, 38, 43, 45, 47, 49, 53, 55, 56, 58, 59, 60, 61, 73, 74), T. Grandin (Figuras. 11, 13), G. Heinz (Figuras. 1, 6, 16, 18, 22, 24, 25, 26, 27, 28, 30, 33, 39, 40, 41, 42, 44, 46, 48, 50, 52, 54, 57, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 75, 76, 77) y HSI (Figura 51).
+
+
+Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+INTRODUCCIÓN
+
+El ganado al cual se refiere este manual comprende todo animal destinado a la producción de carne. Estos animales varían en los diferentes lugares del mundo. El manual se refiere principalmente al ganado vacuno, caprino, ovino y porcino, así como también a las aves. Otros animales importantes, especialmente en los países en desarrollo, son los búfalos, los camellos y los conejos. La transformación de los animales en carne comprende una cadena de procesos que incluyen su manejo en la finca, el transporte al mercado, corral o matadero, el acopio en corrales y finalmente su sacrificio. Durante estos procesos, unas deficientes técnicas pueden repercutir en sufrimiento innecesario, lesiones y pérdidas en la producción.
+
+Son muchos los beneficios obtenidos al mejorar las condiciones del ganado destinado al sacrificio. Estos incluyen una mejor productividad, el bienestar animal y la seguridad del personal.
+
+Además de asegurar una mayor producción, el trato humanitario de los animales destinados al sacrificio repercute en los siguientes beneficios:
+* Menos daños en las canales, menos pérdidas y mayor valor debido a menos defectos y lesiones;
+* Menor mortalidad de animales;
+* Mejor calidad de la carne, gracias a la reducción del estrés del animal;
+* Mejor calidad y valor del cuero y de la piel.
+
+Para reducir el sufrimiento de los animales destinados al sacrificio, es necesario mejorar las normas de bienestar animal de acuerdo a las exigencias de los gobiernos, las ONG y los consumidores, quienes están cada vez más preocupados con el trato dado a los animales criados para la producción de alimentos. Las buenas prácticas en la ganadería también mejorarán la seguridad de los trabajadores y beneficiarán al sector cárnico.
+
+
+Página precedente Inicìo de página Página siguiente
+Directrices para el Manejo, Transporte y Sacrificio Humanitario del Ganado
+
+
+
+Recopilado por:
+Philip G. Chambers
+Temple Grandin
+Editado por:
+Gunter Heinz
+Thinnarat Srisuvan
+Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific
+
+Indice
+
+
+Ni la terminología ni el contenido de esta publicación representan la posición de la FAO (Organización de las Nacionales Unidas para la Agricultura y la Alimentación), con respecto al estado legal de cualquier país, territorio, ciudad o región, ni tampoco aquella de las autoridades locales con respecto a la delimitación de sus fronteras. La palabra "países" que aparece en el texto, se refiere a países, territorios y regiones sin distinción. Las designaciones "desarrollado" y "en vías de desarrollo", tienen como finalidad una conveniencia estadística y no necesariamente expresan un juicio acerca de la etapa alcanzada por determinado país o región en su proceso de desarrollo. Las opiniones expresadas en este artículo son de los autores contribuyentes y no necesariamente son compartidas por la FAO.
+
+Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, guardada en un sistema de almacenamiento ni transmitida de ninguna manera, ni por ningún medio, ya sea electrónico, mecánico, fotocopia u otro, sin la debida autorización del dueño del copyright. La solicitud de tal permiso, indicando el propósito y el alcance de la reproducción, se debe dirigir al Oficial de Producción Animal, FAO, Oficina Regional de Asia y el Pacífico (RAP), 39 Maliwan Mansion, Phara-Atit Road, Bangkok 10200, Tailandia.
+
+© FAO 2001
+
+
+Indice
+
+
+PRÓLOGO
+
+INTRODUCCIÓN
+
+CAPITULO 1: El estrés y el dolor en los animales
+
+CAPITULO 2: Efectos del estrés y de las lesiones en la calidad de la carne y de los subproductos
+
+A. Calidad de la carne
+
+Carne pálida, blanda y exudativa (PSE)
+Carne oscura, firme y seca (DFD)
+Deterioro de la carne
+Los hematomas y las lesiones
+
+B. Calidad de pieles y cueros
+
+CAPITULO 3: Sistemas de mercadeo y pérdidas
+
+Identificar a las personas responsables de las pérdidas
+Mercados segmentados y trabajo a destajo
+
+CAPITULO 4: Principios de comportamiento animal
+
+Relación de la vista, oído y olfato del animal con el estrés y las lesiones
+
+CAPITULO 5: Manejo del ganado
+
+Principios generales
+Manejo en los corrales de acopio y mangas
+Zona de fuga y punto de equilibrio
+Diseño de las instalaciones para el manejo
+
+CAPITULO 6: Transporte del ganado
+
+Efectos del transporte
+Métodos de transporte
+Tipos de vehículo
+Precauciones antes de la carga
+Operaciones de transporte
+
+CAPITULO 7: Sacrificio del ganado
+
+Preparación del ganado para el sacrificio
+Dispositivos de inmovilización
+Métodos de aturdimiento
+Aturdimiento de percusión
+Aturdimiento eléctrico
+Aturdimiento con dióxido de carbono
+Malas prácticas de inmovilización del ganado
+Sacrificio ritual o religioso (halal y kosher)
+Desangrado
+Determinación del grado de insensibilidad en el momento del sacrificio
+
+CAPITULO 8: Mantenimiento de buenas normas de bienestar animal
+
+Cinco puntos críticos de control
+Calificación objetiva de normas de eficacia en los puntos críticos de control
+
+CONCLUSIONES
+Indice Página siguiente
+
+
+PRÓLOGO
+
+Muchos países en vías de desarrollo manifiestan problemas con respecto al bienestar animal, y en especial con respecto al sacrificio del ganado. Tales problemas incluyen el manejo del ganado, su transporte, su estancia en los corrales de acopio o espera antes del sacrificio, el aturdimiento y el desangrado.
+
+El trato humanitario de animales destinados a ser sacrificados en estos países es de gran importancia por los siguientes motivos:
+* En las últimas décadas, ha habido una demanda cada vez mayor de productos de origen animal, y en especial de la carne;
+
+* La producción de carne en los países en desarrollo ya excede considerablemente a la de los países desarrollados, lo cual conduce a un mayor número de animales sacrificados;
+
+* Los países en desarrollo, con el potencial de exportar carne pero sin prácticas adecuadas para el trato humanitario, deberán cumplir con los requisitos sanitarios y de bienestar animal de los países importadores;
+
+* Además de reducir el sufrimiento innecesario, el trato humanitario de animales también reduce pérdidas en la calidad y en el valor de las carnes y de los subproductos, contribuyendo así a la mayor seguridad alimentaria y a mejores ingresos en los países más necesitados;
+
+* Muchos países en desarrollo tienen una legislación de bienestar animal poco desarrollada y mal implementada, lo cual resulta en condiciones inadecuadas para el ganado y en su sufrimiento excesivo.
+
+Los recursos del presupuesto de la FAO, destinados a maximizar la producción de los sectores alimentario, agrícola y ganadero de los países en desarrollo, tienen fondos muy limitados para el bienestar del ganado. Por lo tanto, el cambio en el trato humanitario de los animales destinados al sacrificio debe realizarse por medio de iniciativas conjuntas entre el gobierno, los productores, la industria cárnica y las organizaciones no gubernamentales (ONG). Sin embargo, la FAO, en colaboración con las ONG, podría coordinar estos esfuerzos, como también proporcionar recomendaciones y asistencia técnica.
+
+Esta publicación representa un esfuerzo conjunto entre la FAO y la Sociedad Humanitaria Internacional (HSI). Tiene como finalidad ofrecer recomendaciones al personal encargado del bienestar animal, a transportistas, agricultores, personal de los mataderos, etc., para mejorar las técnicas de sacrificio, la productividad del ganado y su bienestar.
+
+Los autores son Philip G. Chambers, (antiguo Subdirector de Salud Pública Veterinaria, Departamento de Servicios Veterinarios, Bulawayo, Zimbabwe), Temple Grandin (Profesor Ayudante, Departamento de Ciencias Animales de Colorado State University), Gunter Heinz (Oficial Principal de Producción Animal, Oficina Regional de la FAO para Asia y el Pacífico, Bangkok, Tailandia), y Thinnarat Srisuvan (Oficial Veterinario, Departamento de Desarrollo de Ganado, Bangkok, Tailandia).
+
+Las ilustraciones son una contribución de PG Chambers (Figuras. 2, 3, 4, 5, 7, 8, 9, 10, 12, 14, 15, 17, 19, 20, 21, 23, 29, 31, 32, 34, 35, 36, 37, 38, 43, 45, 47, 49, 53, 55, 56, 58, 59, 60, 61, 73, 74), T. Grandin (Figuras. 11, 13), G. Heinz (Figuras. 1, 6, 16, 18, 22, 24, 25, 26, 27, 28, 30, 33, 39, 40, 41, 42, 44, 46, 48, 50, 52, 54, 57, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 75, 76, 77) y HSI (Figura 51).
+
+
+Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+INTRODUCCIÓN
+
+El ganado al cual se refiere este manual comprende todo animal destinado a la producción de carne. Estos animales varían en los diferentes lugares del mundo. El manual se refiere principalmente al ganado vacuno, caprino, ovino y porcino, así como también a las aves. Otros animales importantes, especialmente en los países en desarrollo, son los búfalos, los camellos y los conejos. La transformación de los animales en carne comprende una cadena de procesos que incluyen su manejo en la finca, el transporte al mercado, corral o matadero, el acopio en corrales y finalmente su sacrificio. Durante estos procesos, unas deficientes técnicas pueden repercutir en sufrimiento innecesario, lesiones y pérdidas en la producción.
+
+Son muchos los beneficios obtenidos al mejorar las condiciones del ganado destinado al sacrificio. Estos incluyen una mejor productividad, el bienestar animal y la seguridad del personal.
+
+Además de asegurar una mayor producción, el trato humanitario de los animales destinados al sacrificio repercute en los siguientes beneficios:
+* Menos daños en las canales, menos pérdidas y mayor valor debido a menos defectos y lesiones;
+* Menor mortalidad de animales;
+* Mejor calidad de la carne, gracias a la reducción del estrés del animal;
+* Mejor calidad y valor del cuero y de la piel.
+
+Para reducir el sufrimiento de los animales destinados al sacrificio, es necesario mejorar las normas de bienestar animal de acuerdo a las exigencias de los gobiernos, las ONG y los consumidores, quienes están cada vez más preocupados con el trato dado a los animales criados para la producción de alimentos. Las buenas prácticas en la ganadería también mejorarán la seguridad de los trabajadores y beneficiarán al sector cárnico.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPITULO 1: El estrés y el dolor en los animales
+
+La investigación científica ha demostrado que los animales de sangre caliente (incluyendo el ganado), sienten dolor y miedo. En particular los mamíferos, incluyendo los destinados a la producción de alimentos tienen una estructura cerebral que les permite sentir el temor y el dolor, y es muy probable que sufran dolor de la misma manera que los humanos. El temor y el dolor son causas muy importantes de estrés en el ganado, y el estrés afecta a la calidad de la carne. El dolor generalmente es la consecuencia de una lesión o del maltrato, que a su vez influye en la calidad de la carne de los animales afectados.
+
+Cuando los animales están sujetos a condiciones o circunstancias inusuales por las acciones deliberadas de las personas, es la responsabilidad moral de las personas el asegurar su bienestar, y evitar que sufran incomodidades, estrés o lesiones innecesarias.
+
+El manejo del ganado en forma eficiente, experta y calmada utilizando las técnicas e instalaciones recomendadas y tomando medidas para evitar el dolor y las lesiones accidentales, reducirá el estrés en los animales y se evitarán así deficiencias en la calidad de las carnes y de sus productos derivados.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPITULO 2: Efectos del estrés y de las lesiones en la calidad de la carne y de los subproductos
+
+A. Calidad de la carne
+
+La energía requerida para la actividad muscular en un animal vivo se obtiene de los azúcares (glucógeno) presentes en el músculo. En un animal sano y descansado, el nivel de glucógeno de sus músculos es alto. Una vez sacrificado el animal, este glucógeno se convierte en ácido láctico y el músculo y la canal se vuelven rígidos (rigor mortis). Este ácido láctico es necesario para producir carne tierna, y de buen sabor, calidad y color. Pero si el animal está estresado antes y durante el sacrificio, se consume todo el glucógeno y se reduce el nivel de ácido láctico que se desarrolla en la carne luego de su sacrificio. Esto puede tener efectos adversos muy graves en la calidad de la carne.
+
+Carne pálida, blanda y exudativa (PSE)
+
+La condición PSE en los cerdos es causada por un estrés severo, inmediatamente antes de su sacrificio - por ejemplo, al descargar a los animales, al manejarlos, al encerrarlos en los corrales o al inmovilizarlos y aturdirlos. En esas circunstancias, los animales están sujetos a una fuerte ansiedad y miedo por el manejo que le proporciona el hombre, por las peleas en los corrales o por las malas técnicas de aturdimiento. Todo ello resulta en una serie de procesos bioquímicos en el músculo - en especial, la rápida descomposición del glucógeno. La carne entonces se vuelve muy pálida y adquiere una acidez muy pronunciada (valores de pH de 5,4 - 5,6 inmediatamente después del sacrificio), y con poco sabor. Este tipo de carne es difícil de aprovechar, y de hecho no la pueden usar los carniceros o los procesadores de carne. En casos extremos se desperdicia. Si se permite que los cerdos descansen una hora antes de su sacrificio, y se les da un buen manejo, se reduce
+considerablemente el riesgo de PSE.
+
+Carne oscura, firme y seca (DFD)
+
+Esta condición puede presentarse en canales de ganado vacuno u ovino, y ocasionalmente en cerdos y pavos, al poco tiempo de su sacrificio. La carne de la canal es más oscura y más seca de lo normal, y tiene una textura más firme. El glucógeno muscular se consume durante el transporte y el manejo en el período anterior al sacrificio. Por consiguiente, hay poca generación de ácido láctico luego del sacrificio, produciéndose así una carne DFD. Esta carne es de una calidad inferior, ya que el sabor menos acentuado y su color oscuro son poco apetecidos por el consumidor. Tiene una menor vida útil por sus niveles de pH anormalmente altos (6,4 - 6,8). La carne con la condición DFD implica que la canal procedió de un animal estresado lesionado o enfermo antes de su sacrificio.
+
+Figura 1.A Carne blanda, pálida y exudativa
+
+Figura 1.B Carne normal
+
+Figura 1.C Carne oscura, firme y seca
+
+Deterioro de la carne
+
+Es necesario que el animal no esté estresado ni lesionado durante las operaciones anteriores al sacrificio, para no consumir innecesariamente las reservas de glucógeno muscular. También es importante que el animal esté bien descansado durante las 24 horas anteriores a su sacrificio, con el fin de permitir que el organismo vaya reponiendo el glucógeno muscular lo más posible. Los cerdos son una excepción a la anterior regla. Deben viajar y ser sacrificados de la manera menos estresante posible, pero sin descansar durante largos períodos antes de su sacrificio. También es importante que los niveles de glucógeno en los músculos de la canal sean los más altos posibles, con el fin de desarrollar la máxima cantidad de ácido láctico en la carne. Este ácido le da a la carne un pH ideal - medido 24 horas después del sacrificio - de 6,2 o menos. Un pH a las 24 horas superior a 6,2 indica que el animal estuvo estresado, lesionado o enfermo antes del sacrificio.
+
+El ácido láctico en el músculo tiene el efecto de retardar el desarrollo de bacterias que contaminan la canal durante el sacrificio y el faenado. Estas bacterias deterioran la carne durante su almacenamiento, especialmente en ambientes cálidos y la carne desarrolla olores desagradables, cambios de color y rancidez. En esto consiste el deterioro que disminuye la vida útil de la carne y que conduce al desperdicio de un valioso alimento. Si las bacterias contaminantes son aquellas que producen intoxicaciones los consumidores de la carne se enferman, lo cual resulta en costosos tratos y horas de trabajo perdidas en las economías nacionales. Por lo tanto, la carne que procede de animales que han padecido de estrés o de lesiones antes y durante su manejo, transporte y sacrificio, probablemente tenga una menor vida útil debido a su deterioro. Este es posiblemente la principal causa del deterioro de la carne en el proceso de producción.
+
+Los hematomas y las lesiones
+
+(Figuras 2 y 3)
+
+Los hematomas son la pérdida de sangre de vasos sanguíneos lesionados hacia los tejidos musculares adyacentes. Pueden producirse por un golpe físico de un palo o una piedra, por el cuerno de otro animal, por algún saliente metálico, o por una caída. Se pueden presentar en cualquier momento durante el manejo, el transporte, el encierro en los corrales o el aturdimiento. Los hematomas pueden variar desde los leves (aproximadamente 10 centímetros de diámetro) y superficiales, hasta los grandes y severos que involucran toda una extremidad, partes de la canal, o hasta la canal entera. La carne con hematomas supone una pérdida ya que no es apta como alimento porque:
+* No es aceptada por el consumidor;
+* No se puede usar en la preparación de carnes procesadas;
+
+* Se descompone y se daña rápidamente, ya que la carne ensangrentada es un medio ideal para el crecimiento de bacterias contaminantes;
+
+* Por los anteriores motivos debe ser decomisada durante la inspección.
+
+Figura 2: Hematoma severo en la canal
+
+El hematoma es una causa común de desperdicio de carne, pero se puede reducir significativamente su incidencia siguiendo las técnicas apropiadas de manejo, transporte y sacrificio.
+
+Las lesiones (Figura 4), como los huesos rotos y los músculos desgarrados y hemorrágicos, causados durante el manejo, el transporte y el encierro en los corrales, reducen considerablemente el valor de la canal porque las partes lesionadas, o en casos extremos la totalidad de la canal, no se pueden utilizar como alimento y deben decomisarse. De presentarse una infección bacteriana secundaria en las heridas, ello puede ocasionar la formación de abscesos y septicemia, comprometiendo así a toda la canal.
+
+Figura 3. Hematoma severo en la cabeza de una res
+
+Figura 4. Lesión por transporte
+
+B. Calidad de pieles y cueros
+
+Las pieles y cueros tienen el mayor valor de todos los productos del animal sacrificado, con la excepción de la canal. Esto es especialmente cierto en cuanto a las pieles del ganado vacuno, pequeños rumiantes y avestruces. En el caso de los cerdos y las aves, la piel forma parte de la carne comestible.
+
+Se pueden aprovechar únicamente las pieles no lesionadas y correctamente tratadas. El manejo correcto de estos elementos es importante pues para contar con un producto valioso. Los descuidos que ocasionan lesiones en pieles y cueros resultan en grandes pérdidas para la industria.
+
+Los cueros y pieles del ganado sacrificado (Figura 5) pueden ser dañados por el mal manejo y trato de los animales de las siguientes formas:
+
+Figura 5. Daños en las pieles - marcado y lesiones
+
+1. Antes del sacrificio:
+* Marcado indiscriminado;
+* Lesiones causadas por espinas, látigos, palos, alambres de púas y cuernos;
+* Instalaciones de manejo inadecuadas;
+* Vehículos de transporte mal diseñados y construidos.
+
+2. Durante el sacrificio:
+* Dejando que el animal se altere y se lesione;
+* Pegando al animal o forzándolo al suelo;
+* Arrastrando el cuerpo vivo o muerto del animal por el piso.
+
+Una mayor atención al bienestar del animal durante el transporte y el manejo mejorará el valor de estos subproductos.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPITULO 3: Sistemas de mercadeo y pérdidas
+
+Identificar a las personas responsables de las pérdidas
+
+Durante la cadena de producción, desde la finca a los mercados, puede haber pérdidas considerables de calidad y de cantidad de carne y de subproductos. Estas pérdidas pueden presentarse de las siguientes formas:
+* Decomiso de la canal y de la carne por lesiones, hematomas o muerte;
+* Disminución de la calidad de cueros y pieles por lesiones;
+* Pérdida de calidad de la carne por DFD o PSE;
+* Deterioro de la carne por estrés o bajo nivel de bienestar animal.
+
+En muchos países en desarrollo, estas pérdidas son altas porque el sistema de mercadeo no siempre proporciona un incentivo económico para reducirlas. Una de las maneras más eficientes de mejorar el bienestar y reducir las pérdidas es diseñando un sistema de comercialización y pago que responsabilice a las personas y a los actores involucrados en la cadena de mercadeo del ganado por las pérdidas ocasionadas.
+
+Uno de los peores sistemas de mercadeo, tanto del punto de vista económico como del de bienestar animal, es vender animales en pie para el sacrificio, por cabeza o de acuerdo a su peso vivo. Este sistema no ofrece ningún incentivo económico para prevenir las lesiones, los hematomas, el estrés, daños en las pieles u otros problemas que contribuyan a la pérdida de calidad de la carne. Cuando se venden animales de acuerdo a su peso vivo a un matadero, ni el ganadero ni el transportista son responsables de las pérdidas por hematomas, lesiones o heridas. Estas pérdidas las paga el matadero. Es una observación común que el ganado vendido de acuerdo a su peso vivo tiene dos veces la cantidad de hematomas que el ganado vendido de acuerdo a su peso en canal.
+
+Al vender el ganado según su calidad y su peso en canal, tanto el productor como el transportista sí tienen un incentivo económico para reducir hematomas y lesiones, para tomar precauciones en el manejo y para asegurar condiciones de bienestar. Un simple cambio en el sistema de pago es una de las maneras más efectivas de mejorar las prácticas de manejo y transporte.
+
+Lo mismo ocurre en cuanto al seguro de transporte. Si los animales están asegurados, entonces la póliza se debe diseñar de tal manera que se promuevan buenas prácticas de manejo y se desmotiven las malas. Si una póliza indemniza toda pérdida - incluyendo aquellas ocasionadas por animales lesionados, lisiados o muertos - el transportista no tendrá ningún incentivo para transportar y manejar los animales con cuidado. Por lo tanto, debería haber una cláusula deducible para indemnizar únicamente las pérdidas catastróficas, como sería el accidente de un camión, pero sin reconocer las pérdidas por animales lesionados o cerdos que mueren por calor. Bajo otro esquema, los productores pagarían un impuesto por lesiones leves, el cual se depositaría en un fondo para sufragar pérdidas por lesiones graves - de más de 2 kilogramos, por ejemplo - o aquellas que repercutan en una fuerte disminución de la puntuación de calidad.
+
+Sólo pieles y cueros de primera categoría se pueden utilizar para fabricar productos de alta calidad. Los cueros y pieles se catalogan de acuerdo al alcance y distribución de las lesiones. Se debería ofrecer una bonificación a dueños y transportistas por pieles de buena calidad, incentivándolos a garantizar que las lesiones se mantengan al mínimo. Además, a las personas encargadas de desollar el animal se les debe cobrar una multa por las pieles cortadas al realizar su trabajo.
+
+Mercados segmentados y trabajo a destajo
+
+Los sistemas de mercadeo con uno o más intermediarios entre el productor y el matadero generalmente resultan en mayor número de lesiones al ganado que aquellos sistemas de mercadeo en los cuales los animales se venden directamente del productor al matadero o al carnicero. Esto obedece a dos motivos:
+* Primero, los intermediarios tienen poco incentivo para mantener al mínimo las lesiones que sufra el ganado;
+
+* Segundo, cada vez que los animales se manejan por diferentes intermediarios, se incrementa la posibilidad de lesiones y de estrés. Los animales transportados a una subasta antes de ir al matadero son cargados y descargados más veces.
+
+Los sistemas de pago pueden incidir enormemente en la forma de tratar a los animales. El manejo de animales basado en el trabajo a destajo incentiva el manejo más rápido posible, con un incremento en el abuso y una disminución en los cuidados. Los productores se han dado cuenta que se reducen sus pérdidas al ofrecer incentivos a los transportistas para reducir la incidencia de lesiones. En conclusión, se debe enfatizar que, al realizar cambios apropiados en el sistema de pago y mercadeo, se reducen las lesiones al ganado y se mejora su bienestar durante el manejo y el transporte. Cualquiera que lesione un animal, causándole hematomas o la muerte, debe quedar económicamente responsable de la pérdida.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPITULO 4: Principios de comportamiento animal
+
+El ganado se comporta de diferentes maneras según las circunstancias, y en gran medida según la especie. Un entendimiento básico del comportamiento animal en circunstancias típicas, desde la finca hasta el matadero, ayudará a los encargados del manejo del ganado a prevenir el estrés y las lesiones innecesarias.
+
+Por ejemplo, animales que no están acostumbrados al contacto frecuente con los humanos, como el ganado de las haciendas criado extensivamente, no permitirán el acercamiento ni el contacto con las personas. Estos animales requerirán de rampas, corrales y mangas más amplios que los animales domesticados. Las personas que cargan animales que han sido criados extensivamente deben entender su psicología para evitar cualquier accidente. Por otro lado, los bueyes y demás animales de tiro, así como también los que han tenido mucho contacto con el hombre, como ocurre en las áreas rurales o los que han sido bañados frecuentemente (para el control de garrapatas), generalmente son más mansos y fáciles de manejar.
+
+Relación de la vista, oído y olfato del animal con el estrés y las lesiones
+
+Los rumiantes pueden diferenciar los colores. El ojo del rumiante es más sensible a la luz verde-amarillo y al azul. La experiencia demuestra que el ganado, y en especial el vacuno y porcino, como también los avestruces, son muy sensibles a los contrastes de luz. Por lo tanto, temen a los desagües, a las puertas y a los cambios de suelos húmedos a secos o de los de hormigón a los metálicos La iluminación debe ser uniforme y difusa y se deben evitar grandes contrastes de luz y sombra. La luz ultravioleta o difusa tiene un efecto calmante en las aves.
+
+Algunas especies, como bovinos y avestruces, tienen un amplio ángulo de visión. Para evitar que se asusten por distracciones externas, los corrales, mangas, cajones de aturdimiento y puertas, deben tener lados sólidos. Los animales también rehuyen a la oscuridad y a cosas en movimiento y rehúsan entrar en lugares oscuros. Tienden a desplazarse de sitios oscuros hacia los más iluminados. Agregar una luz para iluminar una manga, o retirar una luz que dé reflejos brillantes muchas veces puede facilitar el arreo. También es importante retirar cualquier luz que dé reflejos brillantes. Todas las especies pueden vacilar y negarse a caminar cuando ven cosas en la manga que los asusta, como reflejos brillantes, cadenas colgantes, personas o equipos en movimiento, sombras o goteras de agua. Los animales se detienen y se fijan en la distracción que los asusta. Hay que evitar que el viento sople hacia los animales. Si continúan deteniéndose, la distracción debe ser eliminada. No se debe
+incrementar la fuerza utilizada para moverlos. Los animales también huyen de los objetos que se mueven rápidamente. Si se les obliga a acercarse con rapidez a un corral, camión o edificio, pueden entrar en pánico.
+
+El ganado bovino, el ovino y los avestruces tienen un oído muy sensible, especialmente a las frecuencias más altas. Los sonidos que no perturban a los humanos, como los ruidos intermitentes de altas frecuencias, pueden ser dolorosos para los oídos de estos animales. Al reducir los ruidos ocasionados por los equipos y las personas, se mejora el movimiento voluntario de los animales y se reduce el estrés y el riesgo de accidentes. La gente no debe gritar, silbar ni hacer ruido. Para atenuar el golpeteo y el ruido de los equipos, se pueden instalar topes de caucho. El zumbido del aire es uno de los peores ruidos, aunque también uno de los más fáciles de eliminar. Sin embargo, cabe anotar que en los ambientes rurales, donde los animales viven en contacto con la gente, se agrupan en el corral todas las noches y reciben un baño periódico contra las garrapatas, algunos de estos ruidos les son familiares y pueden ser muy útiles para lograr que se muevan. Por ejemplo, en ciertos
+lugares del África rural, donde el ganado está acostumbrado a los gritos y a ruidos fuertes, éstos estimulan su movimiento.
+
+Sin embargo, es obvio que el ruido incrementa los niveles de estrés fisiológico, tanto antes como durante el sacrificio. Los mataderos pequeños y silenciosos no generan tanto estrés en los animales como los mataderos comerciales, grandes y ruidosos.
+
+Los olores, especialmente los extraños, pueden inquietar a los animales. Esto se manifiesta al mezclar animales que se desconocen. Es una buena costumbre mezclar tales animales de antemano, o en el caso de los cerdos, restregarlos con paja de la misma pocilga, para reducir la tensión y las peleas. Las personas interesadas en el bienestar animal han expresado su preocupación por el olor a sangre en los mataderos. El ganado puede detenerse y hasta negarse a entrar en un cajón de aturdimiento o inmovilización, si el sistema de ventilación emana olor a sangre. Un extractor que saque todos los olores agilizará la entrada de los animales en el cajón de aturdimiento. Si un animal se agita y se inquieta durante el sacrificio, los animales que le siguen probablemente también lo harán y todo el proceso se puede convertir en una continua reacción en cadena de animales excitados. Al día siguiente, una vez lavados los equipos y áreas circundantes, los animales estarán calmados
+nuevamente. La feromona del estrés en la sangre de los animales muy estresados puede ser olida por los demás, causando gran inquietud. La sangre de animales poco estresados tiene menos efecto en los demás. La investigación en ganado vacuno y porcino indica que las hormonas del estrés son secretadas en la saliva y la orina. Los cerdos y el ganado bovino tienden a evitar objetos o lugares contaminados con orina de animales estresados.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPITULO 5: Manejo del ganado
+
+Principios generales
+
+Un principio básico del manejo de animales es evitar su excitación. Luego de un manejo brusco, pueden pasar hasta 30 minutos antes de que un animal se calme y se normalice su ritmo cardiaco. Los animales calmados se desplazan más fácilmente y están menos dispuestos a agruparse, lo que dificulta su salida del corral. Los trabajadores deben desplazarse con movimientos lentos y deliberados, evitando los gritos.
+
+Los animales se pueden agitar cuando son aislados de los demás de su especie. Si un animal aislado se agita, se debe colocar con otros de su misma especie. Los punzones eléctricos se deben usar lo menos posible o únicamente con los más tercos. Sin embargo, es más humanitario darle una descarga eléctrica leve que golpearlo con un palo o torcerle la cola. Los punzones de batería (Figura 6), son mejores que los de corriente (Figura 7). El voltaje utilizado no debe exceder los 32 voltios y nunca se debe usar en lugares sensibles como los ojos, el hocico, el ano o la vulva.
+
+Figura 6: Un punzón eléctrico de batería
+
+
+
+Figura 7: Punzón eléctrico operado por corriente casera (no recomendado)
+
+En vez de punzones eléctricos, se deben usar otras ayudas para mover los animales, como correas planas (Figura 8), periódicos o plásticos enrollados, palos con banderas o tablas para cerdos^[1]. Los animales que vacilan pueden ser conducidos hacia los corrales o vehículos, llevando primero a uno manso, para que los otros lo sigan.
+
+Figura 8: Correa plana para arriar el ganado
+
+Los avestruces son especialmente nerviosos y se les debe acercar con cuidado, debido a las patadas que pegan. Las aves mansas pueden ser conducidas tranquilamente por los operarios (Figura 9). Un cayado (Figura 10) alrededor del cuello es una herramienta muy útil para conducir al ave, o también colocarle una caperuza en la cabeza para que sea más dócil.
+
+Figura 9: Conduciendo avestruces mansas al área de aturdimiento
+
+Figura 10: Cayado usado para ayudar a guiar las avestruces
+
+Manejo en los corrales de acopio y mangas
+
+El hacinamiento excesivo en el corral de acopio es uno de los errores más comunes en el manejo de animales. El corral de acopio y el pasillo que conduce hasta allí se deben mantener apenas lleno al 50%. Los operarios deben tener cuidado de no obligar a los animales a desplazarse mediante puertas de empuje. Los animales deben caminar por el corredor sin ser empujados a la fuerza. Si se los hacina demasiado por medio de una puerta que los empuja, el manejo se vuelve más difícil. Los animales muy hacinados no se pueden voltear para ingresar a la manga. Si los animales se niegan a entrar a la manga uno por uno, puede deberse a alguna distracción que encuentran enfrente de ellos, como una persona en movimiento.
+
+Zona de fuga y punto de equilibrio
+
+La zona de fuga de un animal es su zona de seguridad. Los operarios deben mantenerse en el límite de esta zona. Si un animal da la vuelta y se enfrenta a una persona, significa que la persona está afuera de su zona de fuga. Cuando la persona ingresa a la zona de fuga, el animal da la vuelta. Si un animal en un corral o corredor se agita en presencia de alguien, significa que la persona está en su zona de fuga, y por tanto debe alejarse. La instalación de lados sólidos en las mangas (Figura 12) y en las cajas de aturdimiento (Figura 25), ayuda a calmar a los animales porque proporcionan una barrera entre ellos y las personas que se acerquen demasiado. El tamaño de la zona de fuga depende de lo salvaje o manso que sea el animal. Los animales de temperamento muy inestable tienen una zona de fuga más amplia. Los animales que viven en contacto con la gente tienen una zona de fuga más estrecha que aquellos que rara vez se encuentran con los seres humanos. Un animal excitado tiene
+una zona de fuga más amplia que uno calmado. Un animal amaestrado no tiene ninguna zona de fuga, y puede ser difícil de conducir.
+
+Figura 11: Zona de fuga y punto de equilibrio
+
+
+Figura 12: Corredor curvo para ganado vacuno, con laterales
+
+Para obligar al animal a desplazarse hacia adelante, el operario debe estar por detrás del punto de equilibrio a la altura de los cuartos delanteros. Para obligar al animal a moverse hacia atrás, el operario debe situarse enfrente del punto de equilibrio. La Figura 13 ilustra los patrones de movimiento del operario, los cuales hacen posible reducir el uso de punzones eléctricos. Bovinos, ovinos o cerdos se desplazarán hacia adelante en una manga, al pasar el operario en la dirección opuesta. El operario debe moverse rápidamente para pasar el punto de equilibrio en los cuartos delanteros, y hacer que el animal se desplace hacia adelante. El animal no se desplazará hacia adelante hasta que el operario no sobrepase la altura de sus cuartos delanteros y llegue a sus cuartos traseros.
+
+Figura 13: El movimiento del operario para que el ganado vacuno siga su camino por una manga.
+
+
+Los bovinos se desplazarán hacia adelante cuando el operario pase el punto de equilibrio en los cuartos delanteros de cada animal. El operario debe caminar en la dirección opuesta a lo largo del corredor.
+
+Diseño de las instalaciones para el manejo
+
+El riesgo de lesiones y estrés durante el manejo del ganado puede ser muy alto, causando pérdidas financieras al productor, al transportista y al matadero. Ejemplos son cercas mal diseñadas (Figura 14), rampas de carga muy bajas o inestables, exposición del ganado al calor o al sol intenso (Figura 19). Instalaciones correctamente diseñadas y construidas en fincas, en patios de ventas de subasta y en mataderos (Figuras 15, 16, 17, 18, 20, 21), etc., contribuyen significativamente al manejo seguro del ganado, reduciendo así el riesgo de lesiones y estrés tanto para animales como para operarios.
+
+Figura 14: Cercas mal diseñadas
+
+Figura 15: Corrales y plataformas bien construidos para descargar y mantener bovinos.
+
+Figura 16: Rampa para cerdos y plataforma de descarga para vehículos, conduciendo a los corrales de acopio para cerdos.
+
+Figura 17: Corrales de acopio para bovinos esperando el sacrificio.
+
+Corrales - Los corrales en fincas, lotes de engorde, subastas y mataderos, deben contar con suficiente espacio para que los animales se puedan tumbar (Tabla 1, Figuras 17, 18)
+
+TABLA 1 Espacio de la superficie (m^2) requerido por cabeza, según la especie
+
+Vacunos
+
+Sueltos
+
+2.0-2.8
+
+Amarrados
+
+3.0
+
+Cerdos
+
+Tipo Bacon y pequeños cerdos
+
+0.6
+
+Cerdas
+
+0.9
+
+Terneros/Ovinos
+
+-
+
+0.7
+
+Avestruces
+
+-
+
+0.9
+
+Los toros y los cerdos machos deben alojarse individualmente, y si están amarrados, deben poder recostarse. El agua debe estar disponible fácilmente. Los bebederos deben ser lo suficientemente altos o estar protegidos para impedir que el animal se caiga adentro y se ahogue. En climas fríos, los corrales deben tener paredes y techos para protegerlos del estrés del clima. En el trópico es necesario un techo en los corrales de acopio, especialmente para los cerdos, para protegerlos del calor y de las quemaduras del sol. Son de gran utilidad los aspersores de agua en los corrales de los cerdos para enfriarlos. (Figura 18). En los corrales abiertos, sin techo ni sombra, inclusive el ganado vacuno acostumbrado al aire libre puede sufrir (Figura 19). Los corrales de los avestruces se pueden encerrar parcialmente para que estén más oscuros, ya que esto las mantiene más dóciles.
+
+Figura 18: Aspersores para refrescar cerdos
+
+Figura 19: Corrales abiertos sin sombra
+
+Figura 20: Corrales cerrados para avestruces, con el fin de evitar la luz.
+
+Figura 21: Barandas de tubos lisos para separar los corrales.
+
+Separaciones - Las barandas deben ser de hierro tubular (Figura 20), madera u hormigón (Figuras 21 - 22), lisas y sin salientes como bisagras, puntas rotas o alambres. Se deben ajustar los espacios para impedir que el animal se atasque y se lesione, o que pase de un lado al otro (Tabla 2).
+
+TABLA 2 Alturas y distancias entre barandas, según la especie
+
+Separación
+
+Altura de barandas
+
+Vacunos
+
+20 cm aparte
+
+Riel superior 1.5 m de alto
+
+Ovinos/Caprinos
+
+15 cm aparte
+
+Riel superior 0.9 m de alto
+
+Cerdos
+
+15 cm aparte
+
+Riel superior 0.9 m de alto
+
+Avestruces
+
+20 cm aparte
+
+Riel superior 1.5 m de alto
+
+Pisos - (Figuras 22, 23). Los pisos de los corrales deben ser antideslizantes y tener una inclinación no superior a 1:10. Si un animal se resbala puede lastimarse o causarse una fractura, luxación o lesiones de piel. Los pisos de hormigón deben tener marcas incrustadas o estar cubiertos con mallas para facilitar la tracción y la limpieza. De no tener estos materiales, unas piedras planas pueden ser suficientes.
+
+Figura 22: Rieles tubulares y paredes de hormigón para separar los corrales con un piso antideslizante.
+
+Figura 23: Separación de corral con piso de concreto antideslizante.
+
+Mangas - Las mangas son necesarias para que los animales puedan caminar o ser conducidos hacia o desde los camiones y plataformas hasta los corrales de acopio, las instalaciones de sacrificio, etc. Estas mangas deben ser lo suficientemente angostas para que el animal no pueda dar la vuelta ni permitir que se atoren dos, lo cual resultaría en lesiones cuando son forzados o en caso de producirse pánico. El ancho del corredor para el ganado bovino debe ser de aproximadamente 76 cm, dependiendo de la raza y del tamaño (Figuras 24, 25, 26, 27).
+
+Cada vez que sea posible, las mangas deben ser curvas para agilizar el movimiento de los animales (Figura 12). Las mangas de mataderos y áreas de aturdimiento deben tener lados sólidos para que los animales no se detengan.
+
+Rampas y plataformas - Ambas estructuras son necesarias para cargar y descargar ganado de los vehículos de transporte o conducirlos hacia las instalaciones de sacrificio. Las rampas deben tener piezas transversales o peldaños (10 cm de alto por 30 cm de profundidad), para agilizar el movimiento e impedir los resbalones. La rampa debe de tener una inclinación máxima de 20 grados (Figuras 15, 16).
+
+Figura 24: Manga para conducir el ganado vacuno de los corrales de acopio al área de aturdimiento.
+
+Figura 25: Bovino esperando enfrente del cajón de aturdimiento, con otro ya dentro.
+
+Figura 26: Los cerdos de los corrales de acopio entran en la manga hacia el matadero.
+
+Figura 27 Manga que conduce a los cerdos al área de aturdimiento.
+
+
+^[1] Las tablas para ayudar al movimiento de los cerdos, son tablas de cualquier material sólido, como madera, plástico, etc., de aproximadamente un metro cuadrado, que el arriero tiene en alto para bloquear la vista y movimiento de los cerdos, y así guiarlos en la dirección deseada. Sin tales tablas, sería imposible arriar los cerdos de manera conveniente por medio de banderas, periódicos enrollados o agitando las manos como se hace con el ovino o el bovino.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPITULO 6: Transporte del ganado
+
+La necesidad de transportar animales destinados al sacrificio se presenta esencialmente en las operaciones comerciales y en menor grado en el sector rural o de subsistencia. Estos animales tienen que ser desplazados por diferentes motivos, incluyendo el transporte a los mercados, a los mataderos, a las áreas de reabastecimiento o de pastoreo, o simplemente por haber cambiado de propietario. Los animales pueden ser transportados a pie, por camión, por tren, por barco, o por avión.
+
+En los países en desarrollo, se acostumbra desplazar el ganado a pie, en camiones o en trenes. El método tradicional ha sido a pie, pero con la urbanización de la población y la comercialización de la producción pecuaria, el transporte de ganado por carretera y por ferrocarril ha superado este método.
+
+El transporte de ganado es sin lugar a dudas la etapa más estresante y peligrosa en toda la cadena de operaciones entre la finca y el matadero, y contribuye significativamente al maltrato del animal y a las pérdidas de producción.
+
+Efectos del transporte
+
+Un mal transporte puede tener efectos muy graves y dañinos para el bienestar del ganado, y repercutir en una pérdida significativa de calidad y producción.
+
+Los efectos del transporte y movimiento incluyen:
+
+a.
+
+Estrés
+
+Resulta en DFD en carne de res y en PSE en carne de cerdo (Figura 1)
+
+b.
+
+Hematomas
+
+Posiblemente la pérdida de producción más significativa e insidiosa en la industria cárnica (Figuras 2, 3)
+
+c.
+
+Pisotones
+
+Se presentan cuando los animales se caen debido a pisos resbaladizos, o por hacinamiento (Figuras 36 - 39)
+
+d.
+
+Asfixia
+
+Esto generalmente es la consecuencia del hacinamiento.
+
+e.
+
+Fallo cardiaco
+
+Se presenta más en cerdos que han comido demasiado antes de ser cargados y transportados.
+
+f.
+
+Estrés por calor
+
+Los cerdos son muy susceptibles a altas temperaturas y a la humedad.
+
+g.
+
+Insolación
+
+La exposición al sol afecta gravemente a los cerdos.
+
+h.
+
+Distensión estomacal
+
+Es causada por la práctica de amarrar las patas de los rumiantes sin darles la vuelta.
+
+i.
+
+Envenenamiento
+
+Los animales pueden morir por envenenamiento al comer plantas venenosas durante el transporte a pie.
+
+j.
+
+Depredación
+
+Los animales no vigilados y transportados a pie pueden ser atacados por depredadores.
+
+k.
+
+Deshidratación
+
+Los animales obligados a caminar largas distancias sin suficiente agua tendrán pérdida de peso y hasta pueden morir.
+
+l.
+
+Extenuación
+
+Puede presentarse por muchos motivos, incluyendo animales gestantes o muy débiles.
+
+m.
+
+Lesiones
+
+Patas y cuernos rotos (Figura 4).
+
+n.
+
+Peleas
+
+Se presentan en su mayor parte entre ganado bovino con cuernos y sin cuernos, o cuando se detiene un vehículo cargado de cerdos.
+
+Métodos de transporte
+
+Ganado Bovino
+
+Los métodos más apropiados para mover el ganado bovino son a pie, en camiones o en vagones de ferrocarril. Mover ganado a pie (desplazamientos a pie) (Figura 28) es apropiado únicamente donde no exista una infraestructura de carreteras y vías férreas, o cuando la distancia entre la finca y su destino es muy corta. Este método es lento, y lleno de riesgos para el bienestar y valor de los animales. El transporte en vagones de tren es práctico en viajes cortos, cuando hay buenas rampas de carga disponibles en las paradas, y una vía directa hasta el destino. El transporte en camiones es mucho más versátil, y es el método de preferencia.
+
+El método más satisfactorio para transportar ganado bovino es por camión (Figuras 29, 30). Desplazarlos en vagones de ferrocarril requiere de un manejo más cuidadoso. En cuanto al transporte a pie, es satisfactorio siempre y cuando los tramos estén bien planificados.
+
+Figura 28: Transporte de ganado vacuno a pie.
+
+Figura 29: El vehículo automotor para el transporte de ganado vacuno (con piezas transversales en el piso del camión para impedir que se resbalen).
+
+Figura 30: Camión grande para el transporte de ganado vacuno en la plataforma de descargue
+
+Figura 31: Vagón de tren para el transporte de ganado vacuno
+
+Ovinos/Caprinos
+
+De todos los animales destinados al sacrificio, estos son los más fáciles de transportar y generalmente viajan bien a pie, en ferrocarril o en camión. Los camiones de dos pisos también son apropiados. (Figura 32).
+
+Figura 32: Camión de dos pisos para el transporte de ovinos/caprinos
+
+Cerdos
+
+Los cerdos son difíciles de transportar y la única manera indicada es por carretera, aunque el vagón de ferrocarril también se puede usar si se siguen ciertas precauciones.
+
+Aves
+
+Las aves de corral, incluyendo los pavos, gansos y patos, se deben transportar por carretera. Las aves se colocan en cajas (Figura 33). Se recomiendan cajas de plástico, las cuales pueden apilarse unas encima de las otras en un vehículo, y son fáciles de lavar después del uso. La tapa de las cajas se aprovecha para cargar las aves, mientras que la apertura en el costado de la caja permite sacarlas fácilmente.
+
+Figura 33: Caja para el transporte de aves
+
+Avestruces
+
+La piel y la carne del avestruz son especialmente valiosas. Por lo tanto, un cuidadoso transporte por carretera es la única opción apropiada.
+
+Habiendo seleccionado el método preferido de transportar los animales destinados al sacrificio, es necesario tener en cuenta numerosos factores para garantizar su salud y bienestar.
+
+Tipos de vehículo
+
+Todo vehículo utilizado para el transporte de ganado destinado al sacrificio debe tener una ventilación adecuada, un piso antideslizante y un drenaje apropiado. Además, debe tener algún tipo de protección contra el sol y la lluvia, especialmente en el caso de los cerdos. Las superficies de los costados deben ser lisas, y sin protuberancias ni bordes afilados. Ningún vehículo debe ser completamente cerrado.
+
+Ventilación - Los vehículos de transporte jamás deben ser completamente cerrados, ya que la falta de ventilación causa un estrés indebido y hasta la asfixia, especialmente en climas calientes. Una mala ventilación puede permitir la acumulación de los gases del escape del motor, con el posible envenenamiento de los animales. Los cerdos son especialmente susceptibles al calor excesivo, a la mala circulación de aire, al exceso de humedad y al estrés respiratorio. Requieren de vehículos bien ventilados (Figuras 29, 30, 34). El flujo libre de aire a nivel del piso es importante para agilizar el retiro del amoníaco de la orina.
+
+Figura 34: Camión bien ventilado para el transporte de cerdos. El calor y los rayos solares hacen necesaria una cubierta (techo) para el vehículo.
+
+Pisos - Se requieren pisos antideslizantes para reducir el riesgo de caídas. Lo más apropiado es una rejilla de madera o metal (Figura 29). Esta rejilla se puede retirar cuando se usa el vehículo para otros propósitos. Otros tipos de superficies antideslizantes, como la paja o el aserrín, no son apropiados. Para facilitar el equilibrio de los animales, se subdivide el interior del vehículo, ya sea con postes de madera o metal, o tablas sólidas. Las hendiduras y fracturas del piso pueden causar lesiones en las patas (Figura 35). Los pisos del vehículo deben estar al nivel de las plataformas de descarga (Figura 16). De lo contrario, los animales se pueden lesionar al bajar del vehículo o ser tratados bruscamente con el fin de hacerlos bajar (Figura 36).
+
+Espacio en el piso - El ganado requiere de suficiente espacio en el piso para que cada animal pueda estar de pie cómodamente, sin hacinamiento. De lo contrario, se pueden presentar lesiones o inclusive la muerte (Tabla 3, Figuras 37, 38 y 39).
+
+Figura 35: Pata de una vaca saliendo a través del piso roto de un camión.
+
+Figura 36: Instalaciones de descargue mal diseñadas causan lesiones a los animales.
+
+Figura 37: Hacinamiento de caprinos en un camión
+
+Figura 38: Caprinos pisados por otros en el cajón de un camión.
+
+Figura 39: Sobrecarga de búfalos de agua en un camión.
+
+TABLA 3 Espacio del piso aproximado para el transporte de diferentes tipos de animales
+
+Clase de animal
+
+Área de piso/animal (m^2)
+
+Vacunos adultos
+
+1.0 - 1.4*
+
+Terneros pequeños
+
+0.3
+
+Cerdos
+
+Porker
+
+0.3
+
+Baconer
+
+0.4
+
+Hembra/macho adulto
+
+0.8
+
+Ovinos/caprinos
+
+0.4
+
+Avestruces
+
+0.8
+
+*50-60 cm del largo del vehículo/cabeza, cargados transversalmente.
+
+Se debe tener en cuenta la especie del animal y el tamaño de su cuerpo. Si el área del piso es excesiva para el número de animales, se deben colocar divisiones para que los animales no se desplacen de un lugar a otro.
+
+Barandas - Los costados de los vehículos deben ser lo suficientemente altos para impedir que los animales, en especial, los cerdos, salten por encima y se lastimen. Se debe proteger el interior de la caja a nivel de los cuartos traseros, con llantas viejas, por ejemplo, para evitar golpes al ganado y a los avestruces. No se deben dejar hendijas o huecos a través de los cuales pueda caber una pata y se quiebre. Las puertas de entrada muy angostas pueden lesionar los cuartos traseros. Los vagones de ferrocarril deben tener un acoplamiento con amortiguador con el fin de suavizar los movimientos bruscos.
+
+Techo - No hacen falta techos en los vehículos de transporte para bovinos y pequeños rumiantes, siempre y cuando los animales no estén expuestos al sol por muchas horas. (Figura 29, 30). Los vehículos para transportar cerdos deben tener techos, a no ser que los cerdos se transporten a primera hora de la mañana, o en las horas de la tarde. Las aves deben estar protegidas del sol y de la lluvia. Su transporte en cajas o jaulas (Figura. 33) las protegerá de lesiones traumáticas. Las jaulas deben ser lo suficientemente grandes para permitir que todas las aves puedan echar y mover libremente sus cabezas. La ventilación debe ser adecuada.
+
+En las operaciones de pequeña escala en condiciones primitivas, los animales a menudo se transportan de manera muy inapropiada. Pueden sufrir mucho dolor y hasta la muerte por asfixia, estrés por calor, deshidratación, etc. (Figuras 40, 41, 42, 71)
+
+Figura 40: Manera inapropiada de transportar un cerdo en un canasto
+
+Figura 41: Manera inapropiada de transportar patos en una moto
+
+Figura 42: Manera inapropiada de transportar pollos en una carretilla
+
+Precauciones antes de la carga
+
+Hay diversos procedimientos sencillos que se pueden implementar antes de cargar el ganado, y que reducirán considerablemente el riesgo de lesiones o estrés.
+
+1. Mezclar previamente los bovinos o cerdos que viajarán juntos. Al familiarizarse, viajarán mejor que aquellos animales que no han sido mezclados. El ganado se debe mezclar en un corral, 24 horas antes de ser cargado. Los animales maltratados o demasiado ariscos se deben retirar durante este período. Es muy común que se presenten peleas entre cerdos extraños, lo cual resulta en lesiones de piel, heridas y estrés. Se deben mezclar los cerdos de diferentes corrales antes de cargarlos, embadurnándolos con paja o excrementos del mismo corral para que los olores sean similares.
+
+2. La mayoría de los animales puede beber agua y ser alimentados antes de transportarlos, ya que esto tiene un efecto calmante. No obstante, los cerdos no se deben alimentar antes del transporte porque su comida se fermenta y los gases les oprimen el corazón dentro de la cavidad torácica, lo cual puede conducir a infartos y a la muerte.
+
+3. No hay que mezclar los animales con y sin cuernos, ya que éstos últimos les pueden causar hematomas y lesiones a los primeros. Tampoco se deben mezclar diferentes especies, aunque los ovinos, los caprinos y los terneros menores de seis meses sí se pueden mezclar o transportar individualmente en un costal amplio amarrado en el cuello. Las patas no se deben atar, y los animales se deben voltear cada 30 minutos. Los cerdos no deben viajar con otras especies, a no ser que estén separados por divisiones (Figura 43). Los toros no se deben transportar con otros animales, a no ser que los separe una divisoria robusta.
+
+4. No se deben transportar animales enfermos o lesionados, a los que sufran emaciación o en avanzado estado de gestación. Tampoco se deben transportar largas distancias a los animales débiles o a los muy pesados, ya que no podrían aguantar los rigores del viaje.
+
+5. Los vehículos deben estar provistos de una rampa portátil para agilizar la descarga de emergencia en caso de averías.
+
+Figura 43: Forma inadecuada de cargar cerdos, caprinos y ovinos en el mismo camión
+
+Operaciones de transporte
+
+Se han de tener en cuenta diversas precauciones durante el viaje con el fin de que los animales no sufran lesiones o se mueran.
+
+1. Desplazamientos a pie - Tan sólo el ganado vacuno, el ovino y el caprino se pueden desplazar con éxito a pie, aunque también hay ciertos riesgos. El viaje se debe planear con especial atención a las distancias, las oportunidades de pastoreo, disponibilidad de agua y descanso nocturno. Los animales sólo deben caminar durante las horas más frescas del día. Si tienen que caminar cierta distancia hasta la estación del ferrocarril, deben llegar con suficiente tiempo para descansar y tomar agua antes de cargarlos. La distancia máxima que pueden caminar depende de diversos factores como el tiempo, la condición de los animales, su edad, etc. En ningún caso se deben exceder las distancias dadas en la Tabla 4.
+
+TABLA 4 Distancias máximas para los desplazamientos a pie
+
+Especie
+
+Desplazamientos a pie de un sólo día
+
+Desplazamientos a pie de más de un día
+
+Primer día
+
+Días siguientes
+
+Vacunos
+
+30 km
+
+24 km
+
+22 km
+
+Ovinos/caprinos
+
+24 km
+
+24 km
+
+16 km
+
+2. Hora del día - Las altas temperaturas ambientales incrementan el riesgo de estrés de calor y mortalidad durante el transporte. Es importante transportarlos durante las horas más frescas de la mañana o la tarde, o inclusive en la noche. Esto es especialmente importante en el caso de los cerdos. La combinación de altas temperaturas y demasiada humedad es particularmente nociva para los cerdos. El calor se puede acumular hasta alcanzar niveles mortales en un vehículo estacionado. Rociarlos con agua ayuda a mantenerlos frescos.
+
+3. Duración de la jornada^[2] - Toda vez que sea posible, los viajes deben ser cortos, directos y sin paradas. Si el vehículo se detiene, los cerdos tienden a pelear. Bovinos, ovinos y caprinos no deben viajar por más de 36 horas y se deben bajar después de 24 horas para alimentarlos y que tomen agua, en caso de que el viaje se prolongue. Los cerdos deben tener acceso al agua frecuentemente durante viajes largos, especialmente en condiciones calientes y húmedas.
+
+4. Conducción - Los vehículos deben ser conducidos suavemente, sin movimientos ni paradas bruscas. Las curvas se deben tomar suave y lentamente. Debe haber una segunda persona pendiente de los animales que se caigan, para que el vehículo se detenga y se puedan volver a cargar. Los conductores de tren deben evitar los movimientos bruscos de los vagones con ganado.
+
+5. Enfriamiento por el viento - El viento que sopla sobre animales mojados, transportados en clima frío, causa un enfriamiento excesivo. La temperatura del cuerpo baja considerablemente, resultando en un estrés severo y hasta la muerte.
+
+
+^[2] Ha habido iniciativas recientes en países desarrollados, buscando limitar la duración del transporte del ganado a 8 horas o menos.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPITULO 7: Sacrificio del ganado
+
+Es una obligación el sacrificar de una forma humanitaria a los animales destinados al suministro de productos comestibles y de subproductos útiles. Luego, se debe procesar la canal higiénicamente y de manera eficiente.
+
+Preparación del ganado para el sacrificio
+
+En el momento del sacrificio los animales deben estar sanos y fisiológicamente normales. Los animales que se van a sacrificar deben haber descansado adecuadamente, en lo posible toda la noche, y especialmente si han viajado durante muchas horas o largas distancias. Sin embargo, los cerdos y las aves se sacrifican generalmente a su llegada, ya que las horas de viaje y las distancias suelen ser más cortas y el encierro en los corrales de acopio muy estresantes. Los animales deben recibir agua durante este tiempo y pueden ser alimentados en caso necesario. El período de espera permite identificar a los animales lesionados o que han sufrido, y poner en cuarentena a los enfermos.
+
+Los animales deben ser conducidos al área de aturdimiento tranquilamente, sin hacer mucho ruido (Figura 8, 9, 26). Para agilizar el movimiento de los animales se pueden utilizar unas correas planas de lona (Figura 8), un plástico o periódico enrollado y en el caso de animales muy tercos, un punzón eléctrico (Figura 6). Jamás se debe golpear al animal, ni torcerle la cola. Los animales deben entrar en el área de aturdimiento en una sola fila (Figura 24, 25, 27) para colocarlos en un dispositivo apropiado de inmovilización antes del aturdimiento.
+
+Dispositivos de inmovilización
+
+Es muy importante que los animales destinados al sacrificio sean inmovilizados apropiadamente antes del aturdimiento o el desangrado. Esto tiene como objetivo asegurar la estabilidad del animal para que el aturdimiento se realice correctamente. Según la especie hay diferentes tipos de inmovilización:
+
+Vacunos
+
+El cajón de aturdimiento es el método más común para inmovilizar al ganado (Figuras 25, 44). El cajón debe ser lo suficientemente angosto para evitar que el animal dé la vuelta, lo cual dificultaría su aturdimiento. El piso de la caja debe ser antideslizante. El simple dispositivo de sujeción del cuello, usado por los ganaderos al pesar el ganado, es apropiado para operaciones de pequeña escala (Figura 45). Para inmovilizar ganado manso fuera del cajón de aturdimiento, se amarra la cabeza con una soga y luego se tira del extremo a través de una argolla metálica en un piso de hormigón. Se recomienda que el operario se coloque por detrás de las barras protectoras de acero (Figura 46).
+
+Figura 44: Caja de aturdimiento para bovinos
+
+Figura 45: Manga sencilla y eficaz, y amarre de cuello para inmovilizar al ganado vacuno.
+
+Figura 46: Operación de pequeña escala. Posición del operario antes del aturdimiento, detrás de las barras protectoras de acero.
+
+Ovinos/caprinos
+
+Es apropiada una caja de aturdimiento metálica, construida adecuadamente (Figura 47). Sin embargo, se pueden inmovilizar manualmente de manera bastante satisfactoria.
+
+Figura 47: Cajón de aturdimiento para ovinos/caprinos.
+
+Cerdos
+
+La caja de aturdimiento también es apropiada para los cerdos (Figura 48). Se pueden colocar varios cerdos juntos en un pequeño encierro, pero únicamente para el aturdimiento eléctrico (Figuras 57, 58). De ninguna manera se deben inmovilizar manualmente.
+
+Aves
+
+Las aves se amarran de las patas en una banda de transporte (Figura 49). Se debe hacer con cuidado para evitar lesiones y estrés. En los pequeños mataderos las aves se pueden colocar cabeza abajo en unos troncos de cono invertidos y huecos.
+
+Avestruces
+
+Estas aves son muy temperamentales. Como pueden patalear, se deben inmovilizar en forma segura. Se conducen a un corral acolchado y en forma de V con la cabeza mirando al vértice del corral. Las patas también se pueden sujetar inmediatamente después de iniciarse el aturdimiento eléctrico (Figura 59).
+
+Los animales jamás se deben dejar de pie durante períodos prolongados en un dispositivo de inmovilización, y se deben aturdir inmediatamente se hayan sujetado. El operario debe ser entrenado y supervisado adecuadamente. En algunos países los que manejan las pistolas de aturdimiento han de estar entrenados y tener una licencia que los faculte.
+
+Figura 48: Cajón de aturdimiento e inmovilización para cerdos.
+
+Figura 49: Aves sujetadas por las patas en una banda de transporte antes del aturdimiento eléctrico.
+
+Figura 50: Conos de aturdimiento/desangrado para el sacrificio de aves a pequeña escala.
+
+Métodos de aturdimiento
+
+Se recomienda dejar inconsciente al animal antes de su sacrificio, con el fin de evitar el dolor, el estrés y la incomodidad del procedimiento. La mayoría de los países desarrollados, y muchos en vías de desarrollo, cuentan con leyes que exigen el aturdimiento anterior al sacrificio, con la excepción del sacrificio ritual autorizado como kosher y halal. En algunas circunstancias, el sacrificio tradicional puede estar exento de un aturdimiento anterior al sacrificio. Pero sea cual fuere el método de aturdimiento, el animal debe estar insensible por un tiempo suficiente y así que el desangrado ocasione una muerte rápida por pérdida de oxígeno al cerebro (anoxia cerebral). En otras palabras, la muerte debe presentarse antes de que el animal recobre el conocimiento. Hay tres tecnologías básicas para lograr el aturdimiento - la percusión, la electricidad y el gas. Solamente las dos primeras son comunes en los países en vías de desarrollo.
+
+Aturdimiento de percusión
+
+Este método produce un shock en el cerebro (Figura 51).
+
+Perno cautivo
+
+Consiste en una pistola que dispara un cartucho de fogueo, empujando un pequeño perno metálico por el cañón. El perno penetra el cráneo, produciendo una conmoción, al lesionar el cerebro o incrementar la presión intracraneal, al causar un hematoma (Figura 52). La pistola de perno cautivo es probablemente el instrumento de aturdimiento más versátil, ya que es apropiado para el ganado vacuno, porcino, ovino y caprino, como también para caballos y camellos. Se puede utilizar en cualquier parte del mundo, aunque para cerdos y ovinos es preferible el aturdimiento eléctrico. Hay diferentes fabricantes de pistolas de perno cautivo. Una vez hecha la inversión inicial, sus costos de operación son mínimos. Los usuarios se deben asegurar un abastecimiento adecuado de cartuchos, los cuales son de diferente calibre, según el fabricante de la pistola. Estas características hacen que la pistola de perno cautivo sea el instrumento de aturdimiento preferido, especialmente en países en vías
+de desarrollo.
+
+Hay dos variantes de esta pistola. Una cuenta con una manija y un gatillo, mientras que la otra tan sólo es un cañón que se tiene en la mano. Para usarlo, se coloca contra el cráneo, lo cual hace disparar el cartucho (Figura 52, 53).
+
+Otro tipo de perno tiene un extremo plano y en forma de hongo (Figura 55). Mediante un fuerte golpe al cráneo, se logra la pérdida del conocimiento. El cerebro en sí no se penetra. Ya que el animal no está muerto, es un método aceptable en muchos países para el sacrificio ritual del halal. Cuando se utiliza el perno cautivo, la pistola se coloca en un punto exacto de la cabeza del animal (Figuras 51, 53, 54). Fallos en el aturdimiento son generalmente debidos a un mal mantenimiento del equipo. Las pistolas se deben limpiar regularmente, siguiendo las instrucciones del fabricante.
+
+Figura 51: Ubicación correcta de la pistola de aturdimiento para diferentes especies (equinos, bovinos, caprinas, ovinos y cerdos).
+
+Figura 52: El uso de una pistola de perno cautivo.
+
+A. La parte inferior se retira de la parte principal de la pistola para introducir el cartucho.
+
+B. Pistola en posición de disparo (se suelta el percutor por medio del gatillo).
+
+C. El perno es expulsada luego de disparar (los anillos de caucho detienen la expulsión y retiran parcialmente el perno).
+
+Figura 53: Pistola de perno cautivo, en la mano
+
+Figura 54: Mala posición de la pistola de perno cautivo (ver también Figura 51).
+
+Figura 55: Pistola de aturdimiento con perno en hongo.
+
+Para un aturdimiento efectivo es importante que el operario esté bien entrenado en el uso de la pistola de aturdimiento. Si el operario se cansa, se reduce su precisión. Por lo tanto, en los mataderos grandes se recomienda la rotación de dos operarios. El aturdimiento de cerdos grandes puede requerir de un cartucho más fuerte, ya que las cavidades de los senos craneales son más grandes. Los toros grandes tienen una formación ósea en la frente, lo cual dificulta su penetración. En este caso, es recomendable un disparo algo ladeado, no exactamente en el centro. La pistola de perno cautivo no es apropiada para aturdir avestruces. Su cerebro es pequeño y lobular, y por lo tanto el perno no produce los efectos debidos.
+
+Disparo con arma de fuego
+
+Cuando los animales son demasiado difíciles de manejar en la forma usual, como en los casos donde no se dejan subir al camión, ni transportar al lugar de aturdimiento, es efectivo un disparo de una bala libre de punta blanda. El calibre 22 es adecuado para la mayoría de los animales. No obstante, tal disparo puede ser peligroso para los operarios. Si se va a sacrificar al animal en una finca, se debe hacer el disparo estando el animal de pie o acostado en un piso blando para evitar que la bala rebote.
+
+Aturdimiento eléctrico
+
+Este método de aturdimiento es muy apropiado para cerdos, ovinos o caprinos y aves de corral, incluidas las avestruces. (Su uso en ganado vacuno y otras especies grandes está en fase de desarrollo, pero si no se aplica apropiadamente puede resultar en hemorragia excesiva de los músculos o de fracturas de la espina dorsal). El aturdimiento eléctrico induce un estado epiléptico en el cerebro. Este estado debe durar lo suficiente para realizar el desangrado, ocasionando la muerte por anoxia cerebral. Se aplica una corriente alterna de bajo voltaje a través de dos electrodos colocados de lado y lado del cerebro, por medio de unas tenazas. Ya que el cerebro de los animales es pequeño, los electrodos se deben colocar con precisión y tenerse firmemente a los lados de la cabeza de cerdos, ovinos, caprinos y avestruces. (Figuras 56, 57, 58, 59).
+
+Figura 56: Tenazas para el aturdimiento eléctrico de ovinos y caprinos.
+
+Otra manera de aturdimiento consiste en colocar uno de los electrodos bajo la mandíbula y el otro en el lado del cuello, detrás de las orejas. Este tipo de aturdimiento, en la cabeza únicamente, es reversible y el animal recupera el conocimiento. Por esta razón, los animales aturdidos deben ser desangrados inmediatamente después del aturdimiento. (Figura 77)
+
+Un aturdimiento irreversible causa una parada cardiaca. En este sistema se coloca un tercer electrodo en otra parte del cuerpo. Los electrodos se aplican en forma de tenazas. Jamás deben colocarse en áreas sensibles como los ojos, ni dentro del oído ni en el recto.
+
+Figura 57: Tenazas para el aturdimiento eléctrico de cerdos.
+
+Figura 58: Tenazas para el aturdimiento eléctrico de cerdos
+
+Figura 59: Tenazas para el aturdimiento eléctrico de avestruces.
+
+Los avestruces deben aturdirse tan sólo eléctricamente. Las tenazas se colocan de ambos lados de la cabeza, por debajo y por detrás de los ojos, o por encima y por debajo de la cabeza. (Figura 59). Las aves de corral se pueden aturdir eléctricamente por medio de un dispositivo manual (Figura 60), o mediante un baño de agua automatizado (Figura 61). En este sistema las aves se arrastran a través de un recipiente con agua cargada con una corriente de bajo voltaje.
+
+Figura 60: Caja de aturdimiento eléctrico, operada manualmente para los mataderos pequeños de aves.
+
+Figura 61: Baño de agua para el aturdimiento eléctrico automático de aves.
+
+La intensidad de la corriente a aplicar es la combinación de amperaje y voltaje apropiado para la especie. Los equipos deben tener un medidor para establecer la corriente correcta. A continuación se dan las indicaciones aproximadas de corriente/tiempo para las diferentes especies:
+
+TABLA 5 Corriente recomendada y tiempo de aplicación para el aturdimiento eléctrico
+
+Especie
+
+M/Amperios
+
+Amperios
+
+Voltios
+
+Tiempo (segundos)
+
+Cerdos (Baconer/Porker)
+
+min. 125
+
+min. 1.25
+
+max. 125
+
+max. 10 (hasta EPS*)
+
+Ovinos/caprinos
+
+100-125
+
+1.0-1.25
+
+75-125
+
+max. 10 (hasta EPS*)
+
+Aves^[3]
+
+Pollo de 1,5-2 kg.
+
+200
+
+2.0
+
+50-70
+
+5
+
+pavos
+
+200
+
+2.0
+
+90
+
+10
+
+Avestruces
+
+150-200
+
+1.5-2.0
+
+90
+
+10-15
+
+*EPS es un choque epiléptico
+
+Al aturdir ovinos, caprinos, cerdos y avestruces, las extremidades se extienden, la espalda y la cabeza se arquean y los ojos se cierran. Luego de 10 segundos o más, los músculos se relajan paulatinamente, y esto es seguido por espasmos. Los electrodos se deben retirar en esta etapa, ya que se ha completado el aturdimiento.
+
+Los electrodos deben estar en buenas condiciones, y sin corrosión. Se deben limpiar a diario. El operario debe ser competente para garantizar una buena posición y buen contacto de los electrodos. Para facilitar el paso de la corriente eléctrica a través del cerebro se rapan los pelos del lugar de aplicación de los electrodos o se mojan éstos. Si toda la cara o el cuerpo está mojado, la corriente puede hacer cortocircuito en el cerebro.
+
+Si el operario aplica el aparato en un punto equivocado, es posible que el animal no pierda el conocimiento. Esto se conoce como un shock perdido o "estado de pesadilla de Leduc". El animal se paraliza y no puede emitir ningún sonido, mas está del completamente consciente. Las unidades de aturdimiento más sencillas y disponibles comercialmente, deben contar con un transformador u otros circuitos eléctricos que suministren el amperaje mínimo recomendado y el voltaje requerido para producir la insensibilización.
+
+Desgraciadamente, en muchos países en vías de desarrollo aún se utilizan dispositivos caseros para el aturdimiento eléctrico. Estos pueden ser simplemente cables en contacto con el animal, o unas tenazas caseras pero sin transformadores que den los parámetros correctos de corriente. (Figura 70). Los aturdidores caseros enchufados directamente a la toma de corriente casera son dolorosos para el animal y muy peligrosos para el operario por la presencia de cables que no reúnan las condiciones adecuadas de seguridad.
+
+En términos generales, el aturdimiento eléctrico del ganado vacuno y otras especies grandes puede resultar en hemorragias excesivas o en fracturas de la espina dorsal causadas por grandes espasmos musculares. Esto se presenta especialmente en el caso de tecnología poco sofisticada. Nueva Zelanda y algunos otros países han desarrollado modernos métodos de aturdimiento eléctrico de ganado bovino para superar estos problemas. Se utilizan mayormente en la exportación de carne de res hacia algunos países musulmanes, o para la instalación de mataderos en dichos países, donde este método es aceptado (Figuras 62, 63). La técnica de Nueva Zelanda es el "Sistema Ranguiru"^[4] o "Proceso Wairoa"^[5], y es únicamente para el aturdimiento de la cabeza.
+
+Figuras 62 y 63: Aturdimiento eléctrico de ganado vacuno para mataderos a gran escala. El dispositivo es activado por medio de un control remoto, una vez que el animal entra en la caja de aturdimiento.
+
+
+
+Aturdimiento con dióxido de carbono
+
+(Figuras 64, 65)
+
+El uso del gas dióxido de carbono (CO[2]) es un método relativamente nuevo para aturdir, apropiado en cerdos y aves. Sin embargo, es aplicable únicamente en mataderos industriales grandes, ya que este sofisticado equipo es relativamente costoso. Básicamente se aturden los animales por medio de diversas concentraciones de CO[2] en el aire. Las concentraciones de CO[2] para el aturdimiento de cerdos son de por lo menos 80% en aire durante 45 segundos, mientras que de aves es de un 65% durante 15 segundos. Sin embargo, la aceptabilidad de este método desde el punto de vista humanitario ha sido cuestionada. Para algunos tipos de cerdos puede ser satisfactoria, pero para otros puede ser muy estresante.
+
+Actualmente, el gas argón está siendo evaluado con propósitos de aturdimiento. Se supone que el argón tiene algunas ventajas sobre el CO[2], pero los costos pueden ser más altos.
+
+Malas prácticas de inmovilización del ganado
+
+Es una buena práctica en los mataderos lograr la pérdida de conocimiento de los animales antes del desangrado. El aturdimiento se puede realizar por medio de una pistola de perno cautivo, tenazas eléctricas o gas CO[2]. Para la insensibilización de bovinos y cerdos, un golpe en el cráneo con un martillo de buen tamaño solía ser el método tradicional y sigue siendo usado, especialmente en países en vías de desarrollo. Además de ser barato, el método requiere tan sólo de la fuerza manual, sin mantenimiento de equipos, piezas de recambio o cartuchos (Figura 66).
+
+De hecho, un buen golpe de martillo es preferible a ningún aturdimiento, pero se requiere de mucha habilidad. A menudo son necesarios varios golpes si no se hace correctamente la primera vez. Este método tiene una tasa de fallas muy elevada. En lo posible, se debe reemplazar por alguno de los métodos de aturdimiento mencionados anteriormente. Se puede observar una gran incidencia de malas prácticas en el sacrificio de cerdos. Se acostumbra a encerrar varios cerdos a la vez en el corral de aturdimiento, y golpearlos indiscriminadamente con un martillo. Ya que se están moviendo continuamente, muchos no reciben el golpe de manera eficiente, requiriendo de golpes adicionales o llegan totalmente conscientes al desangrado (Figura 66, 67).
+
+Figura 64: Vista esquemática del aturdimiento de cerdos con CO[2]. En un proceso discontinuo, el animal ingresa al túnel de CO[2] (a), se baja a la cámara con una alta concentración de CO[2], donde pierde el conocimiento (b), y luego es izado nuevamente (c) y expulsado del túnel (d).
+
+Figura 65: Corredor y entrada a un túnel de CO[2].
+
+Figura 66: Aturdimiento de un búfalo con un golpe de martillo.
+
+En muchos países en vías de desarrollo, la inmovilización de grandes rumiantes (vacas, búfalos), aún se realiza con un cuchillo afilado y puntiagudo, a veces llamado puntilla o puntilla española (Figura 68, 69). El cuchillo se usa para cortar la médula espinal a través del foramen mágnum entre el cráneo y el cuello, donde se conecta a la espina dorsal. Al insertar el cuchillo y cortar la médula, el animal se desploma. Permanece inmovilizado y el operario tiene un fácil acceso. Sin embargo, el animal continúa consciente hasta que se termina el sangrado. Esta práctica se debe discontinuar ya que no es humanitaria.
+
+Un método que tampoco es humanitario para inmovilizar a grandes animales consiste en cortar los tendones de Aquiles, causando el colapso del animal. Esta práctica se observa en muchos mataderos de camellos. En el sacrificio de camellos también se observa que los animales se inmovilizan doblando las articulaciones de las patas delanteras y traseras, amarrándolas con alambres. Esto obliga al animal a una posición sentada muy dolorosa. Pueden permanecer así muchas horas antes de su sacrificio.
+
+También se observan malas prácticas en el uso de electricidad con propósitos de aturdimiento. En los países en desarrollo, ciertamente se pueden fabricar tenazas eléctricas en talleres locales, pero es imprescindible que se respeten los parámetros eléctricos requeridos para lograr un aturdimiento eficiente y humanitario. Las tenazas de aturdimiento sin transformadores, usando el voltaje del tomacorriente, causan mucho sufrimiento. Además, se produce una carne de muy baja calidad (Figura 70).
+
+Totalmente inaceptables son aquellas prácticas como el uso de cables eléctricos conectados a las extremidades y al cuello de los animales, dándoles un choque eléctrico mediante su conexión a la línea. También son inaceptables los dispositivos parecidos al punzón eléctrico (Figura 7), usando un alto voltaje. Además, se daña la carne y se estropean las pieles.
+
+En algunos países asiáticos, aún se practica un método de inmovilización de cerdos que los atormenta. Para transportarlos de la finca al matadero, los introducen en jaulas construidas de barras de acero. Estas jaulas acomodan a un solo animal, sin permitirle ningún movimiento en absoluto. Al llegar al matadero, se amontonan las jaulas, una encima de la otra. Los cerdos permanecen dentro de sus jaulas durante varias horas sin agua ni ventilación. Al final, se realiza el desangrado sin aturdimiento, con los cerdos aún en esta posición (Figura 71).
+
+Figura 67: Grupo de cerdos aturdidos con golpe de martillo e izados para el desangrado. Algunos de los animales pueden estar totalmente conscientes.
+
+Figura 68, 69: Puntilla para la inmovilización de ganado grande.
+
+
+
+Figura 70: Tenazas eléctricas caseras para el aturdimiento.
+
+Figura 71: Desangrado de cerdos en jaulas, con un cuchillo al extremo de un palo largo.
+
+Sacrificio ritual o religioso (halal y kosher)
+
+La mayoría de los países desarrollados y muchos de los países en vías de desarrollo requieren por ley que el animal esté inconsciente antes del sacrificio. Así se asegura que el animal no sienta dolor durante el sacrificio. No obstante, se hacen algunas excepciones para el sacrificio de animales por el rito judío (kosher) y musulmán (halal). Generalmente no es permitido el aturdimiento y el animal es desangrado directamente con un cuchillo afilado, usado para cortar la garganta y los principales vasos. Se produce una hemorragia masiva, con pérdida de conocimiento y por último la muerte. Sin embargo, muchas autoridades consideran que el sacrificio religioso no es satisfactorio, ya que el animal posiblemente no quede inconsciente y sufra mucho dolor.
+
+Se debe prestar mucha atención a diversos factores antes de aceptar este tipo de sacrificio:
+
+1. Los animales sacrificados de acuerdo a los requisitos kosher o halal deben estar inmovilizados, especialmente la cabeza y el cuello, antes de cortarles la garganta. El movimiento puede causar un mal corte, mal desangrado, pérdida lenta del conocimiento (si es que se presenta) y dolor. Esto tiene serias implicaciones para el bienestar del animal. El cuchillo usado para cortar la arteria carótida y la vena yugular debe estar muy afilado, liso y sin imperfectos. De esta manera se asegura un corte rápido y completo de la garganta, por debajo de la mandíbula, con una pérdida masiva y repentina de sangre. Un mal desangrado conduce a una pérdida muy lenta de conocimiento y reduce la calidad de la carne.
+
+2. Los animales no se deben sujetar por las patas, ni se deben izar antes del desangrado, ya que les causa gran incomodidad y estrés. Tan sólo se deben izar después de haber perdido el conocimiento. Los equipos de inmovilización deben ser cómodos para el animal.
+
+3. Para realizar un sacrificio religioso satisfactorio, es de gran importancia la habilidad del operario. Todo el personal de sacrificio debe de estar debidamente autorizado por las autoridades competentes ya que las malas técnicas generan mucho sufrimiento para el animal. El sacrificio religioso se debe realizar con especial atención a los detalles y asegurando que el método, los equipos y los operarios sean los indicados. El proceso de sacrificio es lento.
+
+La pistola de perno cautivo, provista de cabeza de hongo, también es apropiada para el aturdimiento (Figura 55). De hecho, la pistola de hongo es una versión mejorada de del perno común, ya que no se penetra el cerebro para ocasionar la muerte. Esto debe ser más aceptable para las autoridades religiosas y su uso promovería un sacrificio más humanitario en los países musulmanes en desarrollo, mejorando así el bienestar del animal.
+
+Afortunadamente, muchas autoridades musulmanas aceptan algunos tipos de aturdimiento antes del sacrificio. Permiten el aturdimiento eléctrico del ganado vacuno y ovino, así como también el de aves, cuya carne está destinada a las comunidad musulmana, ya que los animales aturdidos se recuperarían de no hacerse ningún desangrado. El aturdimiento eléctrico también es el método preferido en los países, donde este método es exigido por la ley y exportan carne a los países musulmanes. De igual manera, las minorías musulmanas en países con reglamentos estrictos de bienestar animal, pueden usar los métodos de sacrificio del halal, pero en combinación con el aturdimiento eléctrico.
+
+Aún no es aceptado ningún tipo de aturdimiento de ganado destinado al sacrificio de acuerdo al método kosher.
+
+Desangrado
+
+El desangrado es la parte del sacrificio en que se cortan los principales vasos sanguíneos del cuello para permitir que la sangre drene del cuerpo, produciéndose la muerte por anoxia cerebral. El cuchillo del desangrado se debe afilar continuamente. Un cuchillo romo agranda la incisión y los extremos cortados de los vasos sanguíneos quedan lesionados, ocasionando la coagulación prematura y el bloqueo de los vasos sanguíneos. Por consiguiente, el desangrado se alarga y se prolonga el comienzo de la inconsciencia y de la insensibilidad, si no ha habido un aturdimiento previo. Las incisiones deben ser rápidas y precisas. En aves de corral, ovinos, caprinos y avestruces, la garganta se corta detrás de la mandíbula (Figuras 72, 73, 74).
+
+Figura 72: Incisión para el sangrado de aves (patos). El animal está inmóvil e inconsciente a medida que pasa por el baño de agua para el aturdimiento eléctrico automático.
+
+Figura 73: Incisión para el desangrado de ovejas.
+
+Figura 74: Incisión para el desangrado de avestruces.
+
+El método de aturdimiento para desangrar ganado vacuno es abrir la piel en el cuello entre la mandíbula y el pecho, a lo largo de un corte longitudinal de 30 cm. Luego, por motivos de higiene, se debe usar otro cuchillo limpio, insertándolo en un ángulo de 45 grados (Figura 75) y cortando la vena yugular y la arteria carótida.
+
+En los cerdos, se usa un palo longitudinal de desangrado, insertándolo en el pecho para cortar los vasos profundos (Figura 76).
+
+En todos los cortes, la yugular y la carótida se deben cortar por completo. Si algunos vasos no se cortan, el desangrado será incompleto, quedando retenida gran cantidad de sangre en los tejidos, ocasionando que la carne se eche a perder antes de tiempo.
+
+Es necesario un lapso mínimo entre el aturdimiento y el desangrado por dos razones:
+
+a. Si se demora el desangrado, el animal puede recuperar el conocimiento, especialmente en el caso del aturdimiento eléctrico. Por ejemplo, las aves aturdidas eléctricamente pueden recuperar el conocimiento en uno a tres minutos. Por lo general, el desangrado de aves debe comenzar a los 15 segundos luego del aturdimiento. En el caso de otros animales, el intervalo entre el aturdimiento y el desangrado también debe ser muy corto. Periodos de menos de un minuto es lo ideal. (Figura 77).
+
+b. Si se demora el desangrado, se aumenta la presión sanguínea y la ruptura de vasos, produciéndose hemorragias musculares. Esta sangre adicional en los tejidos contribuye a la rápida descomposición de la carne y a su consiguiente falta de aprovechamiento.
+
+Figura 75: Incisión para desangrar ganado
+
+Figura 76: Incisión para desangrar cerdos
+
+Figura 77: Una buena organización de elementos para el aturdimiento y desangrado inmediato de cerdos en un matadero de tamaño mediano.
+
+Determinación del grado de insensibilidad en el momento del sacrificio
+
+Es importante poder determinar si el animal está insensible luego del aturdimiento, ya que el desangrado y el faenado de la canal no pueden comenzar sin haber realizado completamente el aturdimiento.
+
+Cuando bovinos, ovinos, caprinos y cerdos se aturden por medio de una pistola de perno cautivo, el animal debe desplomarse inmediatamente. La respiración regular debe detenerse. No debe haber ningún reflejo de la córnea ni de parpadeo al tocar el ojo. Se deben buscar estos signos de insensibilidad antes de iniciar el desangrado, generalmente estando el animal colgado en el riel de desangrado.
+
+En ovinos, caprinos, cerdos y avestruces aturdidos eléctricamente, se induce el ataque de "grand mal"^[6], el cual causa la pérdida instantánea del conocimiento. Se presentan espasmos rígidos, los cuales pueden durar hasta 30 segundos. No se puede evaluar la insensibilidad del animal sin haber pasado por lo menos 30 segundos de su aturdimiento. En ningún momento debe emitir sonidos (chillidos, mugidos o rugidos) luego del aturdimiento. La vocalización es un signo de que el animal aún puede sentir dolor. Es normal tener reflejos de patadas en un animal bien aturdido con electricidad, perno cautivo o disparo con arma de fuego. Aunque el animal tenga reflejos de patalear, su cabeza debe descolgarse como la de un muñeco de trapo. Si intenta levantar la cabeza significa que todavía puede estar sensible. El animal que trata de enderezarse se debe aturdir nuevamente de inmediato.
+
+La persona que evalúe la insensibilidad se debe concentrar en la cabeza, e ignorar las patadas de las extremidades. El jadeo es permisible, ya que es un signo de un cerebro moribundo. Si la lengua se descuelga directamente hacia abajo, flácida y suelta, el animal definitivamente está aturdido. Si está enroscada, es un signo de posible sensibilidad.
+
+Luego del aturdimiento con electricidad, las cabezas de las aves deben quedar caídas directamente hacia abajo. Las aves que no quedan bien aturdidas tienen un fuerte reflejo de enderezarse y de levantar la cabeza.
+
+
+^[3] Una forma alternativa de aturdir eléctricamente a las aves es mediante la utilización de alto voltaje (300-500 Voltios), que causa una parada cardiaca inmediata. Se señala que con este método se evita el aturdimiento insuficiente que puede ocurrir algunas veces cuando se utilizan bajos voltajes
+^[4] El sistema Ranguiru consiste en una pistola eléctrica modificada para el sacrificio de ganado de tipo occidental, donde el animal se aturde a través del cerebro y el corazón deja de latir. No es aceptado como halal por los musulmanes.
+^[5] El proceso Wairoa es una técnica de sacrificio desarrollada en Nueva Zelanda, que conlleva el aturdimiento eléctrico en la cabeza únicamente. Esto insensibiliza al animal, pero éste es capaz de recuperarse si no se prosigue con el sacrificio. El corazón sigue latiendo. El sistema es humanitario, seguro para el operario, y generalmente aceptado como halal por los musulmanes.
+^[6] Un ataque de gran mal es una forma severa de epilepsia, caracterizada por los paroxismos pasajeros y convulsiones recurrentes que caracterizan un ataque epiléptico.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+CAPITULO 8: Mantenimiento de buenas normas de bienestar animal
+
+Las personas que manejan o sacrifican centenares de animales se vuelven insensibles al sufrimiento y tienden a ser bruscas y descuidadas, a no ser que se supervise su trabajo diario. Los administradores deben mantener altas normas operativas de bienestar animal.
+
+Cinco puntos críticos de control
+
+Se recomienda enfáticamente la implementación de un sistema tipo HACCP para monitorear la efectividad y rendimiento de los operarios que sacrifican ganado. HACCP - Hazard Analysis and Critical Control Points (Análisis de riesgos y puntos críticos de control) - es un sistema usado principalmente en los mataderos y carnicerías para garantizar la inocuidad de los alimentos. Al adaptar este sistema para medir regularmente los puntos críticos de control en el proceso, se logra una supervisión adecuada de las diversas operaciones críticas realizadas por los empleados que sacrifican el ganado, asegurando así una mejor calidad operativa y mayor nivel de bienestar animal. A continuación se describe un sistema objetivo de puntuación para determinadas operaciones. Se pueden realizar pruebas de bienestar animal mediante comparaciones con normas aceptables, y también entre un evaluador y otro. También se esbozan los cinco principales puntos de control crítico del manejo y sacrificio de
+animales.
+
+Los puntos de control sugeridos para la supervisión y la evaluación son:
+
+1. Efectividad del aturdimiento - El porcentaje de animales insensibilizados al primer intento.
+
+a. aturdimiento con perno cautivo - disparo correcto
+
+b. aturdimiento con tenazas eléctricas - colocación correcta
+
+2. Insensibilidad en el riel de desangrado - El porcentaje de animales que permanecen insensibles antes y después del desangrado (usando los mismos criterios que en el punto 1).
+
+3. Vocalización - El porcentaje de ganado vacuno o de cerdos que vocalizan (mugen, rugen o chillan) por algún acontecimiento desagradable, como un aturdimiento mal realizado, el uso excesivo de punzones eléctricos, una falla del dispositivo de inmovilización, o por caídas y deslizamientos. Cada animal es calificado según vocalicen o no durante el manejo y aturdimiento, no en los corrales de acopio. La calificación de vocalización no se usa con ovinos, ya que balan de todas maneras.
+
+4. Resbalones y caídas - El porcentaje de animales que cae durante el manejo o aturdimiento. Se deben seleccionar diversos puntos para este monitoreo.
+
+5. Punzones eléctricos - El porcentaje de animales que se deben arrear con punzones eléctricos.
+
+Se debe hacer una supervisión y monitoreo periódico de estos puntos críticos de control.
+
+Calificación objetiva de normas de eficacia en los puntos críticos de control
+
+1.a. Perno cautivo - efectividad de aturdimiento
+
+(Calificar diariamente un mínimo de 20 animales, o el 20% de los animales en mataderos grandes).
+* Excelente - 99 -100 % insensibilizados instantáneamente con un solo disparo.
+* Aceptable - 95 - 98%
+* No aceptable - 90 - 94%
+* Problemas graves - menos del 90%
+
+Acción: Si la eficiencia de un solo disparo decae por debajo del 95%, se deben tomar las medidas necesarias inmediatamente para mejorar el porcentaje.
+
+1.b. Aturdimiento eléctrico - efectividad de colocación de tenazas
+
+(Calificar a todos los cerdos, ovinos y avestruces, o un mínimo de 100 animales en mataderos grandes).
+* Excelente - 99,5 -100 % de colocación correcta de tenazas de aturdimiento.
+* Aceptable - 99,4 - 99%
+* No aceptable - 98 - 95%
+* Problemas graves- menos del 95%
+
+2. Insensibilidad luego del aturdimiento
+
+(Calificar un mínimo de 20 animales, o el 20% de los animales en mataderos grandes).
+
+- Si el animal es izado inmediatamente después del aturdimiento, evaluar después de ser izado (a no ser que muestre signos obvios de sensibilidad).
+
+- Si el animal queda en el piso, espere unos 15 - 30 segundos antes de evaluarlo, hasta que se detengan los espasmos (especialmente en el caso del aturdimiento eléctrico).
+
+- Cualquier animal que muestre signos de sensibilidad se debe volver a aturdir inmediatamente.
+
+* Excelente - Bovinos - menos de 1 por 1.000 o el 0,1%.
+
+Cerdos - menos de 1 en 2.000 o el 0,05%
+
+* Aceptable - Bovinos - menos del 1 por 500 o el 0,2%
+
+Cerdos - menos del 1 por 1.000 o el 0,1%
+
+3.a. Criterios para la vocalización de ganado vacuno.
+
+- En los corrales, mangas, cajas de aturdimiento, o dispositivos de inmovilización.
+
+(Calificar por lo menos 20 animales, o el 20% de los animales en mataderos grandes).
+
+Calificar a cada animal "Sí" por vocalizador, o "No" por no vocalizador.
+* Excelente - 0,05 % o menos, Sí
+* Aceptable - 3% o menos, Sí
+* No aceptable - 4 -10%, Sí
+* Problemas graves - más del 10%, Sí
+
+3.b. Criterios para la vocalización de cerdos
+
+- En inmovilización, corral de aturdimiento o durante el aturdimiento.
+
+(Calificar por lo menos 20 cerdos o el 10% de los animales en mataderos grandes).
+
+Calificar a cada animal "Sí" por vocalizador, o "No" por no vocalizador.
+* Excelente - 0% Sí
+* Aceptable - 1% o menos, Sí en dispositivo de inmovilización, 0% por tenazas mal colocadas.
+* No aceptable - 2% o más, Sí en inmovilización o corral
+* Problemas graves - 5% o más, Sí en inmovilización o corral.
+
+Al reducir el nivel de chillido de los cerdos se mejora la calidad de la carne y se disminuye el PSE.
+
+No usar calificaciones de vocalización para ovinos.
+
+1. Resbalones y fallas en el área de aturdimiento
+
+- Incluye entradas a inmovilización, mangas, corrales y rampas de descarga.
+
+(Calificar un mínimo de 20 animales o el 10% de los animales en mataderos grandes)
+
+Calificar a cada animal "Sí" en caso de resbalar, y "No" por no resbalar.
+* Excelente - Ningún resbalamiento ni caída;
+* Aceptable - menos del 3% de animales se resbalan.
+* No aceptable - se cae el 1% (cuerpo tocando el piso)
+* Problemas graves - se cae el 5% o se resbala el 15%.
+2. Efectividad del punzón eléctrico
+
+Si el punzón hace que el animal vocalice, entonces la corriente es demasiado fuerte.
+
+(Calificar un mínimo de 20 animales, o el 10% de los animales en mataderos grandes)
+
+Calificar "Sí" si vocalizan y "No" si no vocalizan
+
+a. Criterios de calificación de punzones eléctricos para vacunos:
+
+Corrales y mangas
+
+Entrada al cajón de aturdimiento
+
+Porcentaje de ganado movido con punzón
+
+· Excelente
+
+No vocalización
+
+5% o menos
+
+5% o menos
+
+· Aceptable
+
+No vocalización
+
+10% o menos
+
+10% o menos
+
+· No aceptable
+
+20% o menos
+
+20% o menos
+
+· Problemas graves
+
+50% o menos
+
+Criterios de punzones eléctricos para cerdos:
+
+Corrales y mangas
+
+Entrada a caja de aturdimiento
+
+Porcentaje total de ganado movido con punzón
+
+· Excelente
+
+No vocalización
+
+10% o menos
+
+10% o menos
+
+· Aceptable
+
+No vocalización
+
+-
+
+15% o menos
+
+· No aceptable
+
+No vocalización
+
+-
+
+25% o menos
+
+· Problemas graves
+
+-
+
+50% o más
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice
+
+
+CONCLUSIONES
+
+Se debe estimular al sector cárnico internacional para que adopte prácticas cada vez mejores de manejo y de bienestar de animales destinados al sacrificio. Esto es especialmente importante en los países en desarrollo, ya que mejoraría su producción. Se requiere con urgencia la introducción de mejores prácticas de aturdimiento y mejores métodos previos al aturdimiento en el sacrificio ritual.
+
+En los países en desarrollo, se pueden implementar buenas normas de bienestar animal en el transporte y el sacrificio sin el uso de equipos costosos de alta tecnología. Estos países deben recibir asistencia para realizar, local o regionalmente, mejoramientos sencillos, como rejillas metálicas en el piso resbaladizo de vehículos o cajones de aturdimiento, así como la producción de materiales para construir mangas y dispositivos de inmovilización, y equipos de aturdimiento adecuados como tenazas eléctricas y cartuchos para las pistolas de perno cautivo. El costo de importar equipos caros y la dificultad de garantizar la disponibilidad de cartuchos induce a muchos mataderos a abandonar los métodos recomendados de aturdimiento y a recurrir a métodos no humanitarios.
+
+También existe una necesidad a nivel mundial de cambiar los actuales sistemas de mercadeo, los cuales permiten endosar las pérdidas, como las ocasionadas por hematomas, al siguiente eslabón de la cadena de producción. Cada persona debe ser responsable de las pérdidas que ocasione - ya sean por hematomas, daños a las pieles, marcado en las pieles o la muerte de los animales. Una de las mejores maneras de asegurar el bienestar animal y reducir las pérdidas económicas es efectuar cambios en los sistemas de mercadeo, y en las formas de remuneración, no debiendo el personal trabajar nunca a destajo. Por el contrario, se deben ofrecer bonificaciones por lograr una menor incidencia de hematomas y un mejor aturdimiento.
+
+El establecimiento de cooperativas de productores ayudaría a eliminar a los intermediarios. Tales cooperativas podrían emprender programas de capacitación para el personal encargado del transporte y del sacrificio del ganado, mejorando así el nivel de bienestar animal e incrementando los beneficios económicos.
+
+
+Página precedente Inicìo de página

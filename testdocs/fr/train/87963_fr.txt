@@ -1,0 +1,1158 @@
+Directives concernant les bonnes pratiques en matière de baux agricoles
+
+
+FAO ÉTUDES SUR LES RÉGIMES FONCIERS - 2
+ORGANISATION DES NATIONS UNIES POUR L'ALIMENTATION ET L'AGRICULTURE
+Rome, 2002
+
+Table des matières
+
+
+Les appellations employées dans cette publication et la présentation des données qui y figurent n'impliquent de la part de l'Organisation des Nations Unies pour l'alimentation et l'agriculture aucune prise de position quant au statut juridique des pays, territoires, villes ou zones ou de leurs autorités, ni quant au tracé de leurs frontières ou limites
+
+ISBN 92-5-204667-4
+
+Tous droits réservés. Les informations ci-après peuvent être reproduites ou diffusées à des fins éducatives et non commerciales sans autorisation préalable du détenteur des droits d'auteur à condition que la source des informations soit clairement indiquée. Ces informations ne peuvent toutefois pas être reproduites pour la revente ou d'autres fins commerciales sans l'autorisation écrite du détenteur des droits d'auteur. Les demandes d'autorisation devront être adressées au Chef du Service des publications, Division de l'information, FAO, Viale délie Terme di Caracalla, 00100 Rome, Italie ou, par courrier électronique, à copyright@fao.org
+
+© FAO 2002
+
+
+Table des matières
+
+
+AVANT-PROPOS
+
+REMERCIEMENTS
+
+PREMIÈRE PARTIE: INTRODUCTION ET PRINCIPES GÉNÉRAUX
+
+1 Introduction
+
+Historique et contexte
+Buts du Guide
+Structure du Guide
+
+2 Nature et contexte des baux agricoles
+
+Introduction
+Diversité des types de baux
+Contrats de licence
+Contrat de louage de services
+Métayage et autres arrangements semblables
+Fermages à loyer fixe
+Contrats inversés
+
+3 Principaux intérêts des propriétaires et des fermiers
+
+Introduction
+Conciliation des besoins des propriétaires et des fermiers
+Durée du contrat de fermage
+Subrogation dans le bail de membres de la famille du fermier
+Reconduction
+
+DEUXIÈME PARTIE: PRATIQUES OPTIMALES EN MATIÈRE DE CONTRATS DE FERMAGE
+
+4 Éléments d'un contrat de fermage
+
+Introduction
+Nom des parties
+Entrée en vigueur et durée de l'accord
+Description des biens
+Contenu de l'accord intervenu
+Droits et responsabilités en matière d'utilisation de la terre
+Droit de résiliation
+Principaux éléments de l'accord
+Clauses relatives à l'entretien de la terre
+Restitution de la terre dans le même état à l'expiration du bail
+Arrangements concernant les améliorations à apporter à la terre ou les changements d'utilisation
+Responsabilités financières concernant les ressources partagées
+Loyer ou autre contrepartie
+Clauses d'indemnisation
+Règlement des différends
+
+5 Pratiques optimales en matière de contrats de licence et de métayage
+
+Introduction
+Noms des parties
+Accord de partage de la terre
+Entrée en vigueur, durée et modalités de résiliation
+Part des intrants
+Part des produits
+Prévention et règlement des conflits
+
+6 Recommandations concernant l'exécution des contrats de fermage
+
+Introduction
+Préparation d'un bail ou de clauses types
+Engagement d'appliquer un contrat type lorsque les conditions du bail sont contestées
+Effort de transparence
+Accès aux informations appropriées
+
+TROISIÉME PARTIE: CRÉATION D'UN ENVIRONNEMENT FAVORABLE
+
+7 Facteurs liés à l'environnement
+
+Introduction
+Politiques foncières
+Politiques budgétaires et financières
+Politiques relatives à l'utilisation des sols
+Cadre juridique
+
+NOTES
+
+BIBLIOGRAPHIE
+
+COUVERTURE ARRIERE
+Table des matières Page suivante
+
+
+AVANT-PROPOS
+
+La présente publication fait partie d'une série d'études sur le régime foncier produites par la FAO depuis 1951. Le régime foncier joue un rôle vital dans la réalisation d'un développement rural durable. Du fait de l'accélération du progrès technologique et de l'intégration économique, les décideurs, planificateurs, experts du développement et producteurs ruraux ont été amenés à repenser les arrangements institutionnels utilisés pour déterminer qui a des droits sur quelles ressources, à quelles fins et pendant combien de temps. Certaines des études de cette série tendent à élucider différents aspects du thème complexe et controversé qu'est la réforme foncière, tandis que d'autres ont pour objet d'éclairer, pour ceux qui travaillent à des programmes agraires, les méthodes et expressions techniques employées.
+
+Ce volume, qui fait partie du deuxième groupe d'études, expose les principes fondamentaux qui régissent les droits temporaires et partiels sur les ressources dans le contexte des économies rurales contemporaines. Il reflète les enseignements tirés d'une vaste analyse bibliographique ainsi que l'expérience acquise pendant de nombreuses années d'observation des pratiques suivies en matière de baux agricoles. L'étude a été dirigée par M. Simon Keith, spécialiste principal des régimes fonciers jusqu'à sa retraite. L'étude fait partie du programme mis au point par le Service des régimes fonciers pour appuyer les efforts déployés par la FAO pour renforcer la sécurité alimentaire et atténuer la pauvreté. De plus en plus, en effet, les États Membres s'emploient à introduire des systèmes fonciers modernes pour améliorer l'accès à la terre des pauvres (souvent des femmes) qui veulent entreprendre des activités agricoles, ainsi que pour remédier aux situations dans lesquelles les
+régimes fonciers existants ne sont pas de nature à promouvoir des utilisations durables des sols. Des pratiques rationnelles en matière de baux agricoles peuvent jouer un rôle important dans les systèmes fonciers modernes. Cet ouvrage, comme les autres volumes de la série, n'entend pas être exhaustif et vise seulement à exposer certaines des «pratiques optimales» identifiées par la FAO et les nombreuses organisations internationales avec lesquelles celle-ci collabore. Il s'adresse aux agents de la FAO sur le terrain, à leurs homologues des États Membres et aux ministres et autorités responsables de la formulation des politiques agraires. Le Service des régimes fonciers de la FAO espère pouvoir continuer à collaborer avec eux à l'avenir.
+
+Maximiliano Cox
+
+Directeur de la Division du développement rural
+
+
+Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+REMERCIEMENTS
+
+Préparation du Guide
+
+Neil Ravenscroft
+
+Équipe de recherche
+
+Richard Benny
+
+Roger Gibbard
+
+Susana Lastarria-Cornhiel
+
+Susan Markwell
+
+Jolyne Melmed-Sanjak
+
+Jo Reeves
+
+Groupe d'édition
+
+Tom Konyimbih
+
+Brian Waldy
+
+Gene Wunderlich
+
+Comité directeur
+
+Simon Keith (Président)
+
+Sukumar Das
+
+Frithjof Kuhnen
+
+Jonathan Lindsay
+
+Paul Munro-Faure
+
+Sue Nichols
+
+David Palmer
+
+Jim Riddell
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+PREMIÈRE PARTIE: INTRODUCTION ET PRINCIPES GÉNÉRAUX
+
+1 Introduction
+
+Historique et contexte
+
+1.1 La location de la terre est un élément important de l'environnement agricole partout dans le monde. Les baux agricoles constituent une réalité extrêmement diverse, des systèmes de fermage et de métayage à petite échelle qui sont communs en Afrique, en Asie et en Amérique latine aux baux des grandes exploitations mécanisées du nord de l'Europe et d'autres régions de l'OCDE^1. Bien qu'extrêmement différents dans leurs contextes, ces arrangements sont tous caractérisés par un élément commun qui est la dissociation de la propriété et de l'utilisation de la terre.
+
+1.2 La location offre aux familles d'agriculteurs qui n'ont guère de terre ou de capital, voire pas du tout, la possibilité d'y avoir accès. De ce fait, les baux agricoles constituent depuis longtemps un élément qui fait partie inhérente du secteur agricole, mais leur importance a souvent été négligée, minimisée ou mal comprise. En fait, la persistance de tels arrangements est menacée dans les régions où ils sont associés à une concentration de la propriété des terres et à un déséquilibre des rapports de forces en faveur des propriétaires fonciers.
+
+1.3 Plutôt que de chercher à redresser ces déséquilibres structurels au moyen d'une révision des baux agricoles, quelques États ont essayé de les remplacer par un système d'occupation des terres par leurs propriétaires (voir encadré 1.1). Néanmoins, comme le montre l'exemple donné dans l'encadré 1.1, le régime d'occupation directe n'a pas nécessairement débouché sur la disparition des baux ni sur un meilleur équilibre des forces dans le secteur agricole. Les baux demeurent un élément important, même lorsque les pouvoirs publics ont essayé de les remplacer par d'autres arrangements. Ce décalage entre la politique officielle et la pratique réelle est l'une des caractéristiques majeures du secteur agricole, même là où les baux sont officiellement sanctionnés.
+
+Encadré 1.1
+
+IMPACT DE LA RÉFORME DES SYSTÈMES FONCIERS EN INDE
+
+Pendant les années 50, tous les États de l'Inde ont aboli les droits et intérêts intermédiaires sur la terre. Ceux qui avaient effectivement la jouissance de la terre à l'époque, y compris les métayers et sous-métayers, avaient reçu le statut de riyati (propriétaire-cultivateur). Ainsi, 8,8 millions d'agriculteurs ont eu accès à quelque 7,3 millions d'hectares de terre.
+
+Malgré tout, il est apparu clairement, dès les années 60, que, pour une large part, les terres que les propriétaires avaient juridiquement conservées comme riyati étaient cultivées sur la base d'arrangements informels fondés principalement sur le métayage. Il a alors été adopté d'autres mesures de réformes foncières au niveau provincial pour essayer de donner le statut de riyati à ces fermiers et métayers en leur offrant un titre de propriété foncière en contrepartie d'un droit fixé par les pouvoirs publics payable en dix versements.
+
+Néanmoins, même cette mesure n'a pas empêché la location de la terre. Selon les données publiées récemment par le Gouvernement indien (48th Round of NSS Report, 1996), il existe à l'heure actuelle 17,1 millions de ménages - c'est-à-dire 15 pour cent du total des ménages ruraux - qui cultivent comme fermiers ou métayers 9,4 millions d'hectares, soit 8 pour cent du total des terres agricoles. Selon les estimations, 84 pour cent environ de ces 17,1 millions de fermiers et métayers n'ont aucun titre officiel de jouissance ni aucune protection contre l'expulsion et par conséquent aucune possibilité d'accès aux mécanismes de crédit ou autres intrants habituellement obtenus par le biais de coopératives ou d'autres circuits officiels.
+
+1.4 Le regain d'intérêt qu'ont suscité récemment les baux agricoles reflète, d'une manière plus générale, la prise de conscience de la nécessité de promouvoir une agriculture familiale intensive afin de mobiliser les superficies considérables de terres inutilisées ou sous-utilisées qui existent de par le monde (y compris les terres qui font actuellement l'objet d'une agriculture extensive mécanisée). Dans ce contexte, des situations et des opportunités nouvelles se présentent constamment, avec des formes de contrats et de locations potentiellement bénéfiques à la fois pour les propriétaires et les paysans manquant de terres, comme le montre l'exemple de l'encadré 1.2.
+
+1.5 En outre, nombre de métayers dépourvus de terre - et qui n'ont pas les capitaux nécessaires pour acheter de la terre même si elle était disponible - ont exprimé le souhait de disposer d'une plus grande latitude dans l'utilisation de la terre qu'ils exploitent. Dans les anciens pays communistes, le regroupement des petites exploitations fragmentées rendu possible par le processus de restitution et de privatisation des terres est freiné par la répugnance souvent manifestée par les familles de vendre la terre nouvellement acquise. Dans toutes ces situations, une amélioration du système de baux agricoles pourrait offrir une solution.
+
+Encadré 1.2
+
+La location de la terre comme moyen de péréquation de la superficie des exploitations dans l'ouest de Java
+
+Dans l'ouest de Java, le régime foncier n'est, pour l'essentiel, soumis à aucune restriction légale. Environ 70 pour cent des terres agricoles sont cultivées par leurs propriétaires, et les indications disponibles montrent que la location de la terre joue un rôle de péréquation de la superficie des exploitations. C'est ce que l'on a constaté dans les hautes terres, où les cultures traditionnelles ont été remplacées par l'horticulture dans le cadre d'une exploitation contractuelle organisée par des intermédiaires. Le marché des baux agricoles a élargi l'accès aux terres qui se prêtent à l'horticulture tandis que, précédemment, aucune terre agricole n'était louée dans ces régions. Plutôt que de louer la terre directement, les agriculteurs dépourvus de terre la sous-louent à des intermédiaires étant entendu que les légumes récoltés seront vendus par l'entremise de ces derniers. Lorsque la terre n'est pas utilisée pour la culture de légumes, les intermédiaires peuvent souvent la
+louer pour la culture de paddy. Ce type d'arrangement apparaît comme bénéfique pour toutes les parties intéressées: il profite à l'agriculteur qui a accès à un surcroît de terre en dehors du village, et le propriétaire bénéficie également de cet arrangement du fait que les coûts de transaction se trouvent réduits étant donné que la sous-location est organisée par l'intermédiaire.
+
+[Yokoyama, S. 1995. `Agricultural diversification and institutional change: a case study of tenancy contract in Indonesia', Developing Economies 33(4): 374-396]
+
+1.6 La location de la terre offre également des possibilités pour la gestion de grandes exploitations dans les pays développés. Bien qu'ils ne soient pas confrontés à la concentration extrême des terres et au manque d'accès à la terre qui caractérisent les pays en développement, la plupart des pays développés considèrent les baux agricoles comme avantageux, en particulier pour dissocier le coût de l'achat de la terre des investissements qu'exige une agriculture de plus en plus intensive et mécanisée. L'on a également avancé l'argument - qui, pour l'essentiel, n'a pas été prouvé - qu'un secteur dynamique des baux agricoles permet aux jeunes agriculteurs d'agrandir leurs exploitations et de développer leur potentiel, ce qui bénéficie à l'ensemble du secteur agricole^2.
+
+1.7 De ce fait, les baux agricoles sont devenus une question importante pour la FAO car ils constituent un des nombreux moyens utilisés pour renforcer la sécurité alimentaire et atténuer la pauvreté. Les baux agricoles intéressent la FAO pour différentes raisons. Au niveau opérationnel, il faut, si l'on veut promouvoir un meilleur équilibre et une plus grande équité dans les relations entre les bailleurs et preneurs de terres agricoles, mieux comprendre les éléments à prendre en considération lors de la conclusion d'un bail. Au niveau des politiques générales, il faut analyser les types de conditions dans lesquelles des baux peuvent être appropriés et la mesure dans laquelle ils peuvent être utilisés pour améliorer l'accès à la terre lorsque celle-ci est concentrée ou au contraire fragmentée.
+
+1.8 Les baux agricoles constituent un moyen d'améliorer l'accès à la terre mais les informations disponibles concernant les terres allouées, et surtout les terres privées, sont relativement limitées. Du fait de ce manque d'informations, de sérieuses erreurs ont été commises et l'on a laissé échapper des possibilités prometteuses, ce qui a eu un impact à différents égards, et a en particulier freiné le développement économique et social et encouragé la persistance de systèmes agricoles dépassés. S'il existe des sources d'information sur les baux, il n'en existe pas au sujet de questions aussi fondamentales que les suivantes: Que sont les baux? Quand peuvent-ils - et sans doute devraient-ils - être utilisés? Que faut-il faire pour créer un bail? Quel est le cadre social, politique et économique qui doit exister pour que l'on puisse introduire un système de location de la terre? Quelles sont les mesures qui doivent être adoptées pour qu'un bail puisse être exécuté efficacement?
+
+Buts du Guide
+
+1.9 Au moyen de ce Guide, la FAO souhaite informer les gouvernements et toutes les parties intéressées des principaux avantages que l'on peut attendre des baux agricoles, le but étant de diffuser des informations et de donner des exemples pour l'élaboration de politiques et de programmes de nature à faciliter l'accès à la terre des agriculteurs qui en sont dépourvus et d'améliorer aussi bien la productivité que la durabilité des systèmes agricoles. Ce Guide a été préparé sur la base de la prémisse selon laquelle:
+
+... il est possible de mettre au point des arrangements appropriés qui concilient les intérêts du bailleur et du preneur de la terre et qui puissent améliorer l'accès à une exploitation et déboucher sur une augmentation de la production agricole et une gestion plus rationnelle de la terre.
+
+1.10 Le Guide s'adresse à un très large public, c'est-à-dire à tous ceux qui s'intéressent aux baux agricoles: décideurs, fonctionnaires et agents publics, agents et conseillers sur le terrain, ONG et associations de propriétaires et de fermiers.
+
+1.11 L'on s'est efforcé de faire dans ce Guide une analyse «dans les règles de l'art» des pratiques optimales en matière de baux agricoles. Comme c'est le cas des autres guides de la FAO, il ne constitue pas une solution toute faite mais simplement une tentative d'encourager une réflexion sur les problèmes que suscitent les différents régimes fonciers. Ce Guide contient également toute une série de connaissances pratiques qui pourront être utiles pour la prise de décisions. Comme la nature des baux varie selon les circonstances, le Guide a essentiellement pour but de faire mieux comprendre le processus qu'il faut suivre pour élaborer des baux appropriés.
+
+1.12 Si l'on veut que la location de la terre puisse déboucher sur des moyens de subsistance plus durables en milieu rural et sur un accès plus équitable aux ressources, il faudra que les conditions ci-après, entre autres, soient réunies:
+* justice et équité entre les parties
+* transparence
+* sauvegarde des droits de propriété des deux parties
+* simplicité
+* modicité des coûts de transaction
+* certitude
+* durabilité
+* promotion des baux agricoles comme moyen d'éliminer les rigidités du marché
+* minimum de réglementation et d'intervention de l'État.
+
+1.13 Les informations fournies dans le Guide présentent un intérêt immédiat pour les pays qui ont introduit des réformes visant à réaliser ces objectifs, par exemple grâce à la promotion de l'état de droit. Comme ces conditions sont actuellement réunies dans les pays dotés de marchés bien développés, plusieurs des exemples donnés se rapportent à des types de baux qui existent en Europe occidentale, dont d'innombrables types ont été mis à l'essai au cours des deux siècles passés.
+
+1.14 Toutefois, la location de la terre existe aussi dans des pays où l'une des parties au bail risque d'être beaucoup plus puissante que l'autre et où le respect de la loi est une question à laquelle il n'est guère attaché d'importance. En pareils cas, l'adoption de pratiques optimales, pour ce qui est du contenu technique des baux agricoles, ne permettra pas de remédier au déséquilibre fondamental des rapports de forces entre bailleur et preneur. En fait, la structure des baux porte à penser que ce n'est pas tant l'accord proprement dit qui est en cause mais plutôt la disparité continue des pouvoirs des propriétaires et fermiers. Lorsque telle est la situation, les indications figurant dans ce Guide devront être considérées comme un objectif plutôt que comme la règle à suivre.
+
+Structure du Guide
+
+1.15 Le reste de la première partie décrit la nature et le contexte des baux agricoles et identifie les principaux problèmes que ceux-ci posent aux preneurs et bailleurs. Le chapitre 2 décrit la nature des baux ainsi que les contextes dans lesquels ils peuvent s'avérer appropriés. Le chapitre 3 traite de la nécessité de concilier les besoins des propriétaires terriens et des fermiers, et notamment de ménager une souplesse suffisante dans les baux agricoles pour éviter l'impact négatif que peut avoir une réglementation excessive ou insuffisante qui risque, dans l'un ou l'autre cas, de se traduire par des rapports d'exploitation entre bailleurs et preneurs.
+
+1.16 La deuxième partie est consacrée aux pratiques à suivre pour déterminer les éléments d'un bail, c'est-à-dire aux éléments essentiels à inclure dans tous types de baux. Le chapitre 4 décrit les types de facteurs à prendre en considération lors de la conclusion d'un bail et le chapitre 5 analyse les autres dispositions ou dispositions modifiées à inclure dans des accords comme des contrats de métayage. Le chapitre 6 contient des recommandations touchant l'exécution des baux agricoles.
+
+1.17 La troisième partie expose les pratiques optimales à suivre dans d'autres contextes si l'on veut que des baux agricoles puissent être conclus et exécutés efficacement. Dans certains pays, toutes les conditions requises dans ce domaine (comme le respect de la loi) ou la plupart d'entre elles sont déjà réunies. Dans d'autres, ces pratiques refléteront plutôt l'objectif à atteindre.
+
+2 Nature et contexte des baux agricoles
+
+Introduction
+
+2.1 L'analyse des divers types de baux fait intervenir une large gamme de pratiques et une terminologie très diverse qui constituent le reflet aussi bien du droit que de la coutume. Qu'il s'agisse des systèmes de common law ou des systèmes de tradition civiliste, par exemple, il est établi une distinction entre un bail (qui crée juridiquement un droit sur la terre au profit du preneur) et un accord de licence (qui est un contrat d'achat de services et qui donne le droit de pénétrer dans une propriété).
+
+2.2 Dans le cas d'un contrat de fermage, le bailleur accorde des droits d'occupation au fermier (habituellement pour une période spécifiée) en contrepartie d'un loyer fixe ou variable, le fermier étant souvent censé assumer la responsabilité d'ensemble des opérations agricoles. Ce modèle est habituellement celui utilisé dans les pays développés, où les structures qui régissent l'équilibre des forces entre bailleur et preneur sont solidement établies. Il a aussi été traditionnellement utilisé pour l'affermage d'exploitations complètes qui constitue la seule source de revenu du fermier. Toutefois, du fait de la libéralisation des relations de fermage dans de nombreux pays, ce modèle ne reflète plus le régime prédominant et, de plus en plus, les fermiers et parfois les propriétaires eux-mêmes louent une partie des exploitations pour améliorer l'efficacité de leurs exploitations agricoles^3.
+
+2.3 Dans le cas d'accords de licence comme les contrats de métayage, en revanche, le propriétaire continue juridiquement de s'occuper de la terre tandis que les opérations agricoles sont réalisées par un métayer ou un preneur qui fait l'apport de son travail. Le propriétaire accorde certains droits sur la terre, habituellement le droit d'y pénétrer pour y réaliser les opérations agricoles spécifiées. En pareil cas, c'est généralement le propriétaire qui continue de prendre toutes les décisions majeures. Si, juridiquement, le propriétaire achète un service au métayer (ce service se présentant sous la forme d'un travail et, souvent, de semences, de machines ou d'animaux de trait), le rapport de forces est tel qu'en réalité, le métayer paie au propriétaire le droit d'utiliser la terre.
+
+Encadré 2.1 DIVERSITÉ DES BAUX AGRICOLES
+
+2.4 Cette différence entre les contrats de fermage et les contrats de licence a d'importantes conséquences juridiques, particulièrement pour ce qui est de la sécurité de jouissance, des possibilités d'indemnisation et de la possibilité d'obtenir un crédit indépendamment du bailleur sans avoir recours au prêteur local. Néanmoins, étant donné l'absence ou le dysfonctionnement (dans de nombreux pays) du cadre politique ou juridique, les conséquences pratiques de cette séparation disparaissent souvent. De ce fait, aux fins du présent Guide, les types de rapport entre les propriétaires de la terre et les tiers qui la cultivent sont rangés dans la catégorie des fermages, les parties étant appelées respectivement propriétaire et fermier. Lorsque cela sera nécessaire dans le texte, particulièrement dans la deuxième partie, une distinction sera établie entre les différents types d'accords.
+
+2.5 Il arrive souvent que la même personne joue simultanément le rôle de propriétaire et de fermier. Les petits propriétaires peuvent exploiter leur propre terre, être fermiers sur des terres voisines et participer à des arrangements de métayage sur d'autres terres encore. Il y a également bien des formes de «fermage à façon», les agriculteurs dépourvus de terre concluant des accords de métayage ou de louage de services avec les propriétaires en contrepartie d'un petit lopin de terre qu'ils puissent exploiter indépendamment, comme s'ils étaient des fermiers. Ailleurs, il se peut que l'unité prédominante demeure la communauté, les familles utilisant la terre en fonction de leurs besoins^4.
+
+Diversité des types de baux
+
+2.6 Les fermiers ont recours aux baux agricoles lorsqu'ils ne peuvent pas acheter de terre ou lorsqu'ils préfèrent ne pas immobiliser leur capital dans des investissements à long terme comme l'achat d'une propriété foncière, et les propriétaires peuvent également utiliser des baux pour éviter d'avoir à payer une main-d'oeuvre agricole. Certains agriculteurs peuvent investir leur travail et/ou leur capital mais n'ont pas de terre dans laquelle ils puissent exploiter pleinement ces ressources. D'autres ont des terres qu'ils n'exploitent pas, par exemple s'ils manquent de capacité de travail ou de capital ou simplement parce qu'ils ne souhaitent pas se livrer directement à des activités agricoles. Le résultat, comme l'illustre l'encadré 2.1, est une grande diversité d'arrangements allant de rapports personnels fondés sur des droits d'usufruit sur de petits lopins de terre à des baux proprement dits qui créent des droits sur la terre.
+
+2.7 Dans tous les cas, ces divers types de baux permettent à quelqu'un d'autre que le propriétaire d'exploiter la terre. La façon dont ce résultat est atteint dépend de plusieurs caractéristiques spécifiques aussi bien des rapports entre les parties que, d'une manière plus générale, de l'environnement social, culturel et économique dans lequel ces baux fonctionnent. La raison qui explique sans doute le mieux l'évolution des divers types de baux est la structure de la propriété foncière. Dans de nombreuses régions d'Europe et d'Amérique latine, par exemple, l'existence de très vastes exploitations (appartenant souvent à des propriétaires absentéistes) a exigé le développement des arrangements contractuels. En Afrique, en revanche, où il existe des systèmes fonciers coutumiers, la pénurie de terre au niveau des communautés oblige parfois les agriculteurs sans terre à quitter leur localité d'origine et à travailler comme fermiers là où la terre est plus abondante.
+
+2.8 Indépendamment des structures foncières et des coutumes, l'un des éléments qui déterminent le plus directement les types d'arrangements utilisés a été le développement relatif des marchés tel qu'il se reflète surtout dans la solidité et le sens des rapports de forces entre propriétaire et fermier. Dans les régions où les marchés (particulièrement de la terre et des produits) fonctionnent assez bien, comme en Europe, les fermiers ont obtenu un degré d'indépendance qui est maintenant reconnu et protégé par la loi. Ailleurs, spécialement dans différentes régions d'Asie, les fermiers continuent de dépendre dans une large mesure des propriétaires, et ils se trouvent de ce fait dans une position de faiblesse lorsque le moment arrive de faire valoir leurs droits. L'un des principaux résultats de cet état de choses est qu'il existe dans la plupart des pays d'Europe une série de baux très formels qui s'intègrent à un cadre juridique bien développé comportant des garanties aussi
+bien pour les fermiers que pour les propriétaires. Dans de nombreux pays d'Amérique latine, d'Asie et du Proche-Orient, en revanche, il existe une réglementation des baux, mais pas de structures institutionnelles suffisamment puissantes pour les faire respecter.
+
+2.9 Les types de baux qui prédominent dans un contexte donné ne sont pas toujours l'aboutissement d'une évolution linéaire (par exemple d'un contrat de louage de services à un système de métayage puis à une location en contrepartie d'un loyer fixe) mais tendent à suivre un mouvement pendulaire d'un type de bail à un autre selon l'évolution des circonstances. Illustrer ainsi la gamme des baux existants ne signifie donc pas que ceux qui se trouvent à un extrême sont d'une manière ou d'une autre meilleurs ou plus formels que ceux qui se trouvent à l'autre extrême. L'illustration a simplement pour but de montrer quelle est la place occupée par chaque type de bail au regard de la loi ainsi que des apports respectifs de ressources des bailleurs et des preneurs. Les arrangements qui se trouvent à l'extrême gauche sont donc considérés clairement comme des contrats personnels, l'idée étant que toutes les décisions d'importance majeure seront prises par le propriétaire. En revanche,
+les arrangements se trouvant à l'extrême droite font intervenir un transfert de droits de propriété, l'hypothèse étant que le fermier assumera la responsabilité globale des opérations agricoles menées sur les terres louées.
+
+2.10 Les éléments les plus marquants de cette gamme d'arrangements sont les suivants:
+
+1. les contrats de licence, selon lesquels c'est le propriétaire qui détermine et pour l'essentiel exécute toutes les décisions et opérations mais accorde à des tiers le droit d'accomplir certaines tâches, souvent pour les semis et les récoltes;
+
+2. les contrats de louage de services, selon lesquels les travailleurs reçoivent un salaire symbolique ou une part de la production ainsi que des droits d'usufruit sur un petit lopin de terre qu'ils peuvent exploiter à leurs propres fins (habituellement à des fins de subsistance);
+
+3. les contrats de métayage et autres arrangements semblables, situations dans lesquelles aussi bien le propriétaire que le métayer partagent le coût des intrants et reçoivent une part des produits. Ces arrangements peuvent aller de systèmes ressemblant beaucoup à des contrats de louage de services à des arrangements qui, du fait de l'envergure de l'entreprise, ressemblent davantage à un métayage proprement dit; et
+
+4. les contrats de fermage, dans lesquels il y a une séparation fondamentale entre les droits du propriétaire, c'est-à-dire du bailleur, et du fermier, c'est-à-dire du preneur. Comme le montre l'encadré 2.1, le contrat de fermage est très différent des autres types d'arrangements, principalement en ce sens qu'ils supposent le transfert de certains droits de propriété.
+
+2.11 L'on pense habituellement que les rapports de forces privilégient le propriétaire, c'est-à-dire que l'un des éléments qui déterminent le plus la place occupée par tel ou tel arrangement dans la gamme des contrats existants est le degré de contrôle que le propriétaire peut exercer directement. De plus en plus souvent, cependant, c'est l'inverse qui est vrai. Tel est le cas, par exemple, lorsque le propriétaire n'a guère de terres et/ou de capitaux (et donc de pouvoirs) tandis que le fermier est un grand exploitant, qu'il s'agisse d'une société d'exploitation agricole ou d'un exploitant individuel ayant accès à des capitaux suffisants pour créer une unité viable et durable. Cette diversité de scénarios remet en question l'orthodoxie des rapports de forces dans le contexte des baux agricoles et les incidences qu'a une telle situation quant à ce que doivent être les éléments essentiels d'un contrat de bail. Les arrangements dits «inversés» seront par conséquent examinés
+séparément à la fin de ce chapitre.
+
+Encadré 2.2
+
+Les contrats de licence concernant les récoltes sur pied en Indonésie
+
+Le système Tebasan, tel qu'il est pratiqué en Indonésie, est fondé sur un accord de licence conclu entre un négociant de produits agricoles et un agriculteur en vue de la récolte d'une culture sur pied. Ce type d'arrangement a pour but de garantir que le négociant puisse contrôler la récolte et ainsi éviter à la fois le travail et les risques de la culture elle-même, et pour qu'il puisse déterminer la qualité de la récolte avant de l'acheter. La contrepartie payée pour la récolte (y compris la licence) est habituellement versée partiellement par anticipation. Le montant de cet acompte dépendra de la mesure dans laquelle l'agriculteur et le négociant se seront entendus sur la valeur de la récolte, ainsi que de la ristourne que l'exploitant est disposé à accepter pour pouvoir être payé avant la récolte. Le solde est payé en plusieurs versements après la récolte. Grâce à ce système, l'exploitant peut stocker des récoltes et avoir accès aux systèmes informels de crédit.
+
+(Lastarria-Cornhiel, S. et Melmed-Sanjak, J. 1999. Land tenancy in Asia, Africa and Latin America: A look at the past and a view to the future. Working Paper No. 27. Land Tenure Center, University of Wisconsin-Madison)
+
+Contrats de licence
+
+2.12 Les contrats de licence, sous leurs différentes formes, existent partout dans le monde, mais surtout là où l'on manque de ressources telles que le capital ou les compétences de gestion. Sous sa forme la plus rudimentaire, le contrat de licence est un arrangement conclu entre le propriétaire qui sous-traite (par opposition à une location) l'intégralité ou une partie des opérations agricoles. Ce type d'arrangement peut porter sur toutes les activités (y compris la vente de la production) ou être limité à certaines seulement (voir l'encadré 2.2 pour la situation en Indonésie). Bien qu'ils ne constituent pas formellement un bail agricole, la plupart des contrats reconnaissent certains droits sur la terre, habituellement celui d'y pénétrer pour y réaliser les opérations agricoles spécifiées^5.
+
+Contrat de louage de services
+
+2.13 Le contrat de louage de services est fréquent dans les régions rurales d'un grand nombre de pays d'Afrique et d'Asie. À bien des égards, il ressemble au contrat de licence, bien que le travailleur sans terre, plutôt que de recevoir directement un paiement ou une commission, reçoive des droits d'usufruit sur un petit lopin de terre (et parfois un logement). Le travailleur est souvent assez libre d'exploiter la terre soit à des fins de subsistance (ce qui était initialement l'objet de ce type d'arrangement), soit pour produire une récolte qui sera ensuite vendue. Néanmoins, il est généralement admis que de telles formes de contrats ne sont souvent autre chose qu'un contrat de servitude, les travailleurs étant tout à fait incapables de gagner assez d'argent en exploitant les petits lopins qui leur ont été accordés pour se libérer d'une relation souvent léonine.
+
+Métayage et autres arrangements semblables
+
+2.14 Historiquement, le métayage a été la modalité privilégiée pour mettre en exploitation de vastes exploitations foncières sans prendre en charge le risque et les problèmes administratifs liés au recrutement d'une main-d'oeuvre salariée. En outre, les familles de métayers, en tout cas en Amérique latine, ont également apporté le travail nécessaire à la culture des parties de l'exploitation occupées par le propriétaire. De ce fait, le métayage a été une modalité privilégiée par ces derniers dans la mesure où il offre une main-d'oeuvre souple qui peut être mobilisée ou démobilisée selon ce qu'exige la production. Le métayage est considéré aussi comme un arrangement bon marché et relativement exempt de risques pour le propriétaire, aussi longtemps qu'il existe un nombre suffisant de métayers potentiels.
+
+2.15 Cela étant, il est généralement admis que les propriétaires fonciers ont pu utiliser les arrangements de métayage comme un moyen d'extorquer un travail bon marché des paysans sans terre. En fait, comme, dans de nombreux pays, les propriétaires fonciers sont également les seuls prêteurs d'argent ainsi que les principaux responsables locaux de l'application des lois, les métayers ont dû accepter les conditions qui leur ont été offertes, sachant qu'ils seraient remplacés dans le cas contraire (voir l'encadré 2.3 pour un exemple).
+
+2.16 Sous sa forme la plus simple, le métayage est un accord concernant la production de denrées agricoles, le propriétaire fournissant la terre (et parfois les autres intrants) et le métayer le travail (et parfois des intrants comme des semences). À la fin du cycle agricole, la récolte est divisée entre les parties selon les proportions convenues entre elles. Ces types d'arrangements permettent aux ouvriers sans terre ou sans capitaux (qu'ils soient ou non propriétaires terriens) de se livrer à une exploitation agricole, comme illustré dans l'encadré 2.4. Bien que certains accords puissent être plus complexes et conférer aux parties des responsabilités supplémentaires, tous suivent ce modèle de base.
+
+Encadré 2.3
+
+LE MÉTAYAGE AU PÉROU
+
+Un exemple de métayage classique est l'introduction du système de yanaconaje pour la production de coton et d'autres cultures commerciales sur le littoral péruvien après l'abolition de l'esclavage et la disparition des travailleurs chinois asservis. Initialement, le métayage était commode pour les propriétaires fonciers car il n'exigeait guère d'investissement de capital, les risques étaient supportés surtout par les métayers et la famille des métayers offrait une main-d'oeuvre supplémentaire, particulièrement lorsque la récolte battait son plein. Selon ce type de métayage, les propriétaires fournissaient la terre, les semences, les boeufs et les outils en contrepartie d'un pourcentage de la récolte. Ils offraient également des prêts à des taux d'intérêt élevés. Les métayers étaient obligés de vendre leur part de la récolte de coton au propriétaire à des prix inférieurs à ceux du marché. Ce déséquilibre a motivé les réformes agraires de 1962 et de 1969, qui ont donné aux
+yanaconas la possibilité d'acheter la terre qu'ils travaillaient précédemment en qualité de métayers.
+
+(Lastarria-Cornhiel, S. et Melmed-Sanjak, J. 1999. Land tenancy in Asia, Africa and Latin America: A look at the past and a view to the future. Working Paper No. 27. Land Tenure Center, University of Wisconsin-Madison)
+
+2.17 Indépendamment du contrat de métayage classique, il existe aussi en Amérique latine et en Afrique bien des cas de contrats de «répartition égale des apports», dans lesquels les parties font l'apport d'une proportion égale des intrants (comportant souvent une part de terre et d'autres capitaux) et tirant des parts à peu près égales de la production. Il s'agit souvent d'accords familiaux qui ont pour effet de combiner sous une seule et même gestion plusieurs petites exploitations.
+
+2.18 Bien que cette pratique ne soit pas commune dans nombre de régions du monde, l'«exploitation en partenariat» s'est implantée en Europe pour conjuguer différentes compétences et la possibilité d'accès aux ressources. Plutôt que de reposer sur la séparation usuelle des droits du bailleur et du métayer, le partenariat implique une exploitation commune dans laquelle les associés (habituellement le propriétaire et le fermier) travaillent ensemble dans leur intérêt commun. De ce fait, les ressources sont mises en commun et toute la production est vendue par une exploitation unique. Les apports en partenariat peuvent être inégaux (habituellement terre et compétences) et tel est également le cas de la répartition des produits, généralement fonction des apports différents des associés.
+
+Encadré 2.4
+
+LE MÉTAYAGE AU CHILI
+
+Au Chili, les éléments qui sont à la base des accords de métayage sont les suivants:
+* les propriétaires d'exploitations de petites ou moyennes dimensions n'ont pas assez de capitaux ou accès au crédit pour acheter des intrants et des outils et payer une main-d'oeuvre salariée;
+* les cultures commerciales supposent des risques élevés (forts besoins en main-d'oeuvre et faiblesse ou fluctuations des prix);
+* les minifundistas ou paysans sans terre n'ont pas assez de terre pour assurer leur propre subsistance mais peuvent vendre leur travail. Ces familles sans terre n'ont pas de capitaux leur permettant de louer de la terre (les loyers devant normalement être payés à l'avance, tandis que la contrepartie due dans le contexte d'un métayage est payée après la récolte).
+
+L'avantage du métayage, aussi bien pour le propriétaire que pour le métayer, est qu'il n'exige qu'un minimum de liquidités (que ce soit pour recruter une main-d'oeuvre salariée ou pour payer un loyer en espèces). Les propriétaires fournissent non seulement la terre mais aussi certains intrants, les autres étant apportés par le métayer, y compris sous forme d'un travail salarié et du travail familial. Dans la vallée centrale du Chili, le métayage est une formule de plus en plus fréquente par suite:
+* de la décapitalisation des propriétaires terriens traditionnels;
+* de la multiplication des petits propriétaires n'ayant pas accès à des capitaux supplémentaires:
+* de la faiblesse des prix des récoltes;
+* du nombre croissant de minifundios [c'est-à-dire de petites exploitations].
+
+(Lastarria-Cornhiel, S. et Melmed-Sanjak, J. 1999. Land tenancy in Asia, Africa and Latin America: A look at the past and a view to the future. Working Paper No. 27. Land Tenure Center, University of Wisconsin-Madison)
+
+2.19 Si les partenariats donnent au fermier associé une plus grande certitude qu'un contrat de métayage et permettent au propriétaire d'être moins impliqué dans la gestion au jour le jour de l'exploitation, les dettes de l'un constituent une obligation solidaire de l'autre. Indépendamment d'un contrat en bonne et due forme, un partenariat exige par conséquent à la fois confiance et, idéalement, une plus grande continuité afin de prospérer.
+
+Fermages à loyer fixe
+
+2.20 Les fermages à loyer fixe ou contrats de gérance peuvent être à court ou à long terme et être conclus pour un terme fixe ou variable. De tels accords, plus que le métayage ou le partenariat, sont utilisés lorsque le propriétaire est absent de sa terre et a besoin de générer un revenu. Ces contrats sont généralement limités à des fermiers ayant une certaine assise socio-économique (et une possibilité d'accès à des capitaux) et ne constituent généralement pas une option pour tous les agriculteurs pauvres en ressources.
+
+2.21 Sur les marchés agricoles plus développés d'Europe et d'Amérique du Nord, le contrat de gérance constitue pour le propriétaire un moyen usuel de déléguer la gestion d'une exploitation à un fermier commercial. Bien que la durée effective du contrat puisse varier, l'investissement en capital est tel que la gérance dure souvent plusieurs années, l'agriculteur adoptant des pratiques d'exploitation et de gestion qui ne se distinguent aucunement de celles que suivrait un propriétaire.
+
+Encadré 2.5
+
+LES BAUX INVERSÉS AU MEXIQUE
+
+Les ejidatarios mexicains sont de petits exploitants qui ont des droits d'usufruit sur les terres allouées à l'ejido conformément à la législation relative à la réforme foncière. Habituellement, ils n'ont pas de capital, ni guère d'accès au crédit. Jusqu'à une date récente encore, il était illégal de louer les terres des ejidos, mais cette pratique existe depuis des décennies. Dans les régions agricoles fertiles, les ejidatarios ont loué leurs lopins de terre à des entreprises agricoles qui apportent les capitaux, les machines et les autres intrants nécessaires pour cultiver une récolte commerciale. Ces agro-entreprises peuvent ainsi regrouper un grand nombre de lopins en une exploitation de dimensions moyennes. Souvent, les ejidatarios travaillent en qualité de salariés sur la terre qu'ils ont louée.
+
+(Lastarria-Cornhiel, S. et Melmed-Sanjak, J. 1999. Land tenancy in Asia, Africa and Latin America: A look at the past and a view to the future. Working Paper No. 27. Land Tenure Center, University of Wisconsin-Madison)
+
+Encadré 2.6
+
+Les métayages inversés en Europe centrale
+
+Pour certains pays d'Europe centrale, la transformation des droits de propriété, et particulièrement des droits de propriété foncière, est au coeur de la transition vers une économie de marché. Toutefois, après 70 ans d'agriculture collective et étatique, la simple restitution des terres, quelles qu'en soient les modalités, ne débouchera pas automatiquement sur une économie constituée de petites exploitations commerciales familiales. En fait, nombre de ceux qui ont réclamé la restitution de leurs terres ont simultanément essayé de mettre leurs propriétés à l'abri des forces de la contraction soit en les louant à la coopérative, soit en concluant avec celle-ci un contrat de métayage inversé. En Roumanie, par exemple, les terres reçues dans le cadre du programme de restitution peuvent soit être vendues immédiatement mais il peut en être acheté davantage, jusqu'à une superficie maximum de 100 hectares. Toutefois, la superficie moyenne est seulement de l'ordre de 4 à 5 hectares,
+de sorte que la plupart des nouveaux propriétaires s'associent à des coopératives de producteurs sur la base de contrats de fermage ou de métayage. Il a ainsi été créé une forme de gestion collective fondée sur des contrats de fermage et de métayage inversé qui débouchent sur un changement de gestion progressif même si la redistribution des terres a été rapide.
+
+(Brooks, K.M. 1993. `Property rights in land', pp. 125-136 in Braverman, A., Brooks, K.M. et Csaki, C. (eds) The agricultural transition in Central and Eastern Europe and the former USSR. Washington: Banque mondiale).
+
+2.22 De même, ce type de contrat peut porter sur des terres nues, louées sur une base annuelle. En pareil cas, l'on suppose que le fermier a déjà une exploitation et a accès à d'autres terres, de sorte qu'un tel contrat a pour effet d'étendre leur exploitation, habituellement pour des périodes de courte durée. Dans ce cas également, il ressort de la pratique que, même si les contrats sont conclus pour de courtes durées, le fermier continue d'occuper la terre pendant de très longues périodes.
+
+Contrats inversés
+
+2.23 Le modèle classique de bail fait intervenir un propriétaire riche en terre et un ouvrier qui la travaille mais qui n'en a pas. L'on trouve cependant plusieurs exemples de scénarios inversés, des petits propriétaires louant leur terre à de grandes exploitations tout en accomplissant un travail rémunéré soit sur leur propre terre, soit ailleurs (voir l'encadré 2.5).
+
+2.25 Il existe également des contrats inversés de métayage selon lesquels un grand nombre de petits propriétaires, qui n'ont pas accès à des capitaux suffisants pour mener une exploitation efficace, concluent un accord avec un grand métayer. Cela existe aussi dans certaines régions d'Europe centrale, où les propriétaires qui ont recouvré leurs terres en confient parfois la gestion à la coopérative locale en contrepartie d'un emploi et d'une partie des produits de leurs terres (voir l'encadré 2.6).
+
+3 Principaux intérêts des propriétaires et des fermiers
+
+Introduction
+
+3.1 Les baux agricoles ne peuvent être efficaces que si certaines conditions touchant la relation tripartite entre les propriétaires, les fermiers et l'État sont remplies. Cette relation est essentiellement fondée sur une responsabilité réciproque, chacune des parties devant s'acquitter de certaines tâches, dont les plus fondamentales échoient à l'État, lequel doit créer un cadre approprié à l'intérieur duquel puissent opérer le propriétaire et le fermier.
+
+3.2 En dépit de la diversité qui caractérise les différents contrats, ceux-ci se ressemblent beaucoup par leur portée. La plupart des contrats tendent à résoudre les problèmes de risques, de sécurité et de confiance. Même dans les systèmes les plus étroitement réglementés, la relation entre bailleur et preneur n'en continue pas moins de dépendre du degré de confiance qui peut être créé entre eux. Lorsque cette confiance existe, le fermier, en particulier, aura une plus large marge de manoeuvre et sera encouragé à bien faire, quelle que soit la nature du contrat de bail proprement dit. De même, lorsque la confiance fait défaut, une «co-entreprise» est difficilement concevable.
+
+Conciliation des besoins des propriétaires et des fermiers
+
+3.3 Si force est d'admettre que, souvent, les fermiers sont relativement isolés et que leur position de négociation n'est pas solide, des pratiques optimales devraient tendre à établir un rapport de forces mieux équilibré qui permette aux deux parties de réaliser des objectifs qui soient acceptables (même s'ils ne sont pas l'idéal) pour elles^6. Cela étant, les principaux problèmes que doivent résoudre aussi bien les propriétaires que les fermiers sont les suivants:
+* la durée du terme ainsi que la sécurité de jouissance offerte par le bail;
+* le degré de liberté et de contrôle accordé à chacune des parties; et
+* la flexibilité des incidences financières de cette combinaison de entre échéanceterme, sécurité, liberté et contrôle.
+
+3.4 Les deux problèmes fondamentaux, quel que soit le type de bail agricole, sont par conséquent la sécurité de jouissance pour le locataire et la flexibilité pour le propriétaire. Cela signifie que des pratiques optimales doivent tendre à instaurer un équilibre durable entre ces intérêts concurrents^7. Lorsque les baux sont très réglementés et protégés, ils sont généralement peu populaires parmi les propriétaires, qui considèrent que l'État limite leur pouvoir et leur flexibilité^8. En revanche, lorsque les baux ne sont pas formalisés ou assez réglementés, ils n'accordent pas la sécurité de jouissance que recherchent les fermiers^9. L'on a fait valoir en outre que ces derniers types de baux empêchent le propriétaire de stipuler ou de faire respecter des règles tendant à garantir une utilisation durable de la terre, règles que l'on appelle parfois «règles d'occupation bénéfique»^10.
+
+3.5 Les problèmes qui se posent ne reflètent pas un continuum dans lequel le propriétaire rechercherait un terme plus court et moins de formalisme et le locataire l'inverse, mais sont plus complexes et multidimensionnels. Ces considérations sont représentées sous une forme simplifiée dans la figure ci-après. Dans chaque cas, la matrice oppose la durée du bail et le degré de formalisme des contrats. La partie qui se trouve en haut à gauche vise par conséquent les arrangements à court terme et non formels et la partie se trouvant en bas et à droite les arrangements formels de longue durée.
+
+
+3.6 Pour chaque carré, les facteurs positifs et négatifs pour les propriétaires sont indiqués dans l'encadré 3.1 et pour les locataires dans l'encadré 3.2.
+
+Encadré 3.1
+
+LES BAUX: PROBLÈMES ET POSSIBILITÉS POUR LES PROPRIÉTAIRES
+
+Facteurs positifs
+
+Facteurs négatifs
+
+COURT TERME INFORMEL
+
+· Possibilité d'exploiter les marchés des baux
+
+· Faible coût
+
+· Degré élevé de contrôle
+
+· Part importante des produits de la ferme
+
+· Incertitude
+
+· Nécessité accrue pour le propriétaire d'être impliqué dans l'exploitation
+
+· Risque de ne pas pouvoir trouver et fidéliser de bons fermiers
+
+· Nécessité de payer les intrants
+
+LONG TERME INFORMEL
+
+· Flexibilité moyenne
+
+· Coût relativement faible
+
+· Maintien du contrôle
+
+· Proportion importante de la production de l'exploitation
+
+· Incertitude
+
+· Nécessité de trouver un bon fermier, de préférence un voisin
+
+· Apport d'intrants à long terme
+
+COURT TERME FORMEL
+
+· Certitude
+
+· Prévisibilité du revenu
+
+· Exemption relative des tâches quotidiennes
+
+· Maintien de la flexibilité à moyen et à long terme
+
+· Coût de l'établissement de l'accord
+
+· Coût potentiellement élevé de la recherche de nouveaux fermiers
+
+LONG TERME FORMEL
+
+· Certitude
+
+· Sécurité
+
+· Régularité et prévisibilité des flux de revenus
+
+· Exemption des tâches quotidiennes
+
+· Faibles revenus
+
+· Manque de flexibilité
+
+· Manque de contrôle
+
+· Intervention et contrôle de l'État
+
+· Coût potentiellement élevé d'une résiliation
+
+Encadré 3.2
+
+LES BAUX: PROBLÈMES ET POSSIBILITÉS POUR LES FERMIERS
+
+Facteurs positifs
+
+Facteurs négatifs
+
+COURT TERME INFORMEL
+
+· Faible coût de transaction
+
+· Accès à la terre
+
+· Accès potentiel aux capitaux et autres intrants du propriétaire
+
+· Flexibilité d'exploitation des marchés des produits
+
+· Faible certitude
+
+· Guère de liberté, voire aucune
+
+· Pas d'encouragement à investir
+
+· Faible considération
+
+· Faibles revenus
+
+LONG TERME INFORMEL
+
+· Faible coût
+
+· Accès à la terre
+
+· Accès potentiel à d'autres facteurs de production
+
+· Liberté limitée
+
+· Faible certitude
+
+· Guère d'incitation à investir
+
+· Faibles revenus
+
+COURT TERME FORMEL
+
+· Certain degré de sécurité
+
+· Certitude
+
+· Coût potentiel de l'élaboration de l'accord
+
+· Guère d'incitation à investir
+
+· Liberté limitée
+
+· Incertitude quant à l'avenir
+
+LONG TERME FORMEL
+
+· Sécurité (pour le fermier et sa famille)
+
+· Accès indépendant au capital
+
+· Incitation à investir
+
+· Liberté d'exploitation
+
+· Certitude
+
+· Transparence
+
+· Assujettissement à une localité déterminée
+
+3.7 Les encadrés 3.1 et 3.2 montrent que, si les propriétaires ont apparemment plus à gagner de baux informels de courte durée et les fermiers de baux formels de longue durée, chacun des arrangements présente potentiellement des aspects positifs et négatifs. Des baux informels de courte durée, par exemple, ont pour les propriétaires terriens l'avantage de la flexibilité, d'un contrôle accru et d'une plus large part de la production de l'exploitation. Néanmoins, cela doit être pesé au regard de la nécessité d'être davantage impliqué dans l'exploitation, de l'incertitude qui entoure leur part nette de la production (comme ils ont déjà apporté la plupart des intrants autres que le travail) et de la difficulté de conserver un bon fermier. D'un autre côté, le moindre revenu brut, la perte de contrôle et l'absence de flexibilité qui caractérisent les arrangements formels de longue durée doivent être évalués à la lumière de la sécurité et de la certitude qu'offre un revenu
+prévisible généré par un bon fermier qui est encouragé à investir dans la terre.
+
+3.8 Pour les fermiers la combinaison des résultats du contrat se présente de façon différente. De manière générale, ils ont plus à gagner de la sécurité de jouissance, de la certitude et de la transparence qu'offre un bail formel de longue durée. Toutefois, un bail informel de courte durée peut constituer pour un agriculteur pauvre en terre un moyen relativement bon marché d'avoir accès à la terre. En fait, cela est souvent la seule option. Étant donné que le propriétaire sera généralement impliqué dans le régime d'exploitation, cette forme d'affermage peut également offrir l'accès nécessaire aux capitaux qu'exige l'exploitation. Des baux informels à court terme offrent également un degré de flexibilité qui n'existe pas dans les baux de plus longue durée et qui permet aux fermiers établis, en particulier, d'exploiter les possibilités qu'offre le marché ou de compenser une mauvaise récolte éventuelle au moyen de la production de leur propre terre. Tel a été le cas en
+Angleterre et au Pays de Galles après la libéralisation, en 1995, du régime des baux agricoles qui a facilité les contrats de fermage de courte durée^11.
+
+3.9 En définitive, la question de savoir quel sont les durées et niveaux de formalisation les mieux appropriés dans un cas particulier dépendra des circonstances. La prédilection que manifestent apparemment les propriétaires pour les baux de courte durée repose, par exemple, sur l'hypothèse qu'il y aura assez de fermiers disposés à se faire concurrence pour obtenir le bail. Lorsque tel n'est pas le cas, par exemple lorsque le secteur de l'agriculture est déprimé dans un pays développé, le propriétaire aura généralement tendance à encourager le fermier à rester, notamment en lui offrant une sécurité de jouissance à long terme. De même, la préférence apparente des fermiers pour des baux de longue durée repose sur l'hypothèse qu'ils sont tous capables d'assumer un tel engagement.
+
+3.10 Les encadrés 3.1 et 3.2 portent à penser que des baux de plus longue durée servent souvent mieux les intérêts aussi bien des propriétaires que des fermiers que des baux à court terme. En particulier, un terme plus long tend à assurer une certitude et une durabilité plus grandes. Il y a aussi souvent une dissociation plus marquée des intérêts et des pouvoirs entre le propriétaire et le fermier, ce qui donne à ce dernier une plus grande liberté tout en garantissant au propriétaire un rendement à assez peu de risques. Cela étant, les propriétaires prétendent souvent que des baux de plus longue durée sont inacceptables s'ils les empêchent d'exploiter les possibilités qui s'offrent sur le marché, très souvent pour valoriser les terres à des fins non agricoles^12. Indépendamment de la question de savoir si la réduction des superficies agricoles est souhaitable, il est possible d'insérer dans les baux des clauses de résiliation^13 qui permettent au propriétaire de reprendre
+possession des terres pour certaines activités bien déterminées, comme une exploitation non agricole.
+
+3.11 Il ne faut cependant pas oublier qu'une telle perspective axée sur le marché méconnaît le déséquilibre qui caractérise les rapports de forces entre les propriétaires et les fermiers (encore que ce ne soit pas toujours au détriment des premiers). À l'extrême, ce déséquilibre des forces peut priver de sens l'idée même d'un choix et d'un arbitrage entre les aspects positifs et négatifs de la durée et du degré de formalisme du bail. Cela peut entraîner un manque persistant de solidité dans les rapports entre bailleur et preneur, particulièrement si la partie qui se trouve dans la position la plus faible ne jouit que d'une sécurité limitée.
+
+3.12 Pour concilier les exigences des propriétaires et des fermiers, la politique en matière de baux agricoles doit tenir compte de questions comme la durée du bail, la subrogation dans le bail de membres de la famille en cas de décès du fermier et la reconduction du bail. Il existe de nombreux exemples de réglementation légale du terme minimum tandis que, dans d'autres cas, il existe de solides traditions coutumières. Il n'y a apparemment guère d'uniformité quant à ce que sont les pratiques optimales.
+
+Durée du contrat de fermage
+
+3.13 Lorsque le terme est imposé, comme dans de nombreux pays de l'Europe septentrionale, par exemple, il est généralement fixé une durée minimum qui peut être prolongée ou reconduite avant l'expiration. Dans tous les cas, le terme minimum est long (de l'ordre de 10 ans) et un terme de 18 à 25 ans n'est pas inhabituel. Le plus souvent, la reconduction du bail est automatique à moins que l'une ou l'autre des parties ne souhaite le résilier dans certaines conditions prédéterminées [voir l'encadré 3.3 pour un exemple de reconduction automatique du bail en Angleterre et au Pays de Galles]. Rares sont les pays qui imposent une durée maximum, bien qu'au Danemark, les baux prennent fin à l'expiration d'un délai de 30 ans^14.
+
+Encadré 3.3
+
+RECONDUCTION DES BAUX AGRICOLES EN ANGLETERRE ET AU PAYS DE GALLES
+
+Article 2 de la Loi de 1948 sur les exploitations agricoles. Restrictions concernant l'affermage de terres agricoles pour une durée inférieure à un an
+
+Lorsqu'une terre agricole est louée pour une durée inférieure à un an, le bail produit effet, sous réserve des modifications éventuellement nécessaires, comme si la terre avait été louée pour un terme reconductible d'année en année.
+
+Article 3 de la Loi de 1948 sur les exploitations agricoles. Les baux conclus pour un terme égal ou supérieur à deux ans, s'ils ne sont pas résiliés, sont reconduits d'année en année
+
+Tout bail agricole conclu pour un terme égal ou supérieur à deux ans ne prend pas fin à l'expiration du terme mais est reconduit d'année en année à moins que l'une des parties ne notifie à l'autre par écrit son intention de le dénoncer moyennant préavis compris entre un et deux ans avant la date prévue pour l'expiration du terme.
+
+Paragraphe 1 de l'article 2 de la Loi de 1977 relative aux notifications de déguerpissement. Signification d'une contre-notification
+
+Tout fermier auquel a été adressé un avis de déguerpissement peut, dans un délai d'un mois suivant la date dudit avis, signifier au propriétaire une contre-notification écrite demandant que la question soit soumise au Tribunal des terres agricoles du ressort où se trouve l'exploitation. L'avis de déguerpissement ne prend effet que si le Tribunal y consent pour l'un des motifs limités spécifiés à l'article 3 de la Loi de 1977.
+
+3.14 Depuis la réforme du régime foncier en Angleterre et au Pays de Galles introduite par la Loi de 1995 sur les baux agricoles, les nouveaux baux sont régis par le principe de l'autonomie de la volonté des parties, notamment pour ce qui est du terme et de la reconduction du bail. Il ressort des indications disponibles que si la pratique reflétée dans les baux classiques (c'est-à-dire préexistants) continue d'être suivie, la plupart des nouveaux baux sont conclus pour des périodes d'assez courte durée et ne contiennent aucune disposition concernant leur reconduction à l'expiration du terme. Habituellement, les baux privés de terres nues sont conclus pour une durée de trois ans tandis que, pour les baux portant sur des exploitations tout entières (qui représentent moins de 10 pour cent du total), la durée moyenne est de sept ans^15.
+
+Subrogation dans le bail de membres de la famille du fermier
+
+3.15 On a assez peu écrit sur les bonnes pratiques concernant la succession et les droits des tenanciers (ou locataires). Lorsque les droits des tenanciers peuvent être transmis par succession, ce droit est souvent limité à ceux qui vivent sur la terre et la travaillent et n'est habituellement pas cessible à un tiers. Toutefois, lorsque la subrogation n'existe pas, il est à craindre que le décès du fermier puisse entraîner l'expulsion de la famille entière, même si tous ses membres ou certains d'entre eux travaillaient la terre et sont eux-mêmes des agriculteurs compétents. Dans de nombreux pays, les femmes jouent un rôle vital dans l'agriculture et l'on se rend compte de plus en plus à quel point il importe de garantir leur accès à la terre par voie de succession^16.
+
+3.16 La mesure dans laquelle les fermiers et les membres de leur famille doivent être protégés par la loi contre l'expulsion et pendant combien de temps constitue par conséquent un aspect important de la politique des pouvoirs publics. L'on considère généralement qu'en cas de décès du fermier, la famille devrait pouvoir continuer à jouir de la terre, tout au moins pendant la durée du bail restant à courir ou jusqu'à ce que des arrangements plus permanents puissent être pris. Il arrive souvent, toutefois, que ce droit soit éphémère.
+
+3.17 Lorsque la famille du fermier vit sur la terre qu'elle travaille, l'expulsion entraîne de sérieuses difficultés. Les pays qui offrent une protection à plus long terme, par la loi ou par la coutume, sont cependant assez peu nombreux (voir cependant l'encadré 3.4 pour un exemple de succession coutumière en Ouganda). L'on dit souvent que de «bons» fermiers et leurs familles ne risquent guère d'être expulsés étant donné qu'il est peu probable que le propriétaire en trouvera de meilleurs. Toutefois, si tel peut être le cas pour certains propriétaires et certains fermiers, surtout lorsque les fermiers potentiels sont relativement rares, il ne semble pas que telle soit la situation en général.
+
+Reconduction
+
+3.18 Tout porte à penser que, plutôt que d'appliquer automatiquement un système de reconduction ou de non-reconduction des baux, il convient, pour parvenir à une décision équitable, de prendre en compte toute une série de facteurs. Les considérations exposées ci-dessous sont un amalgame des pratiques suivies et ne se rapportent pas spécifiquement à une situation donnée ou à un pays déterminé. Les pratiques suivies dans les divers pays devraient notamment tendre à garantir qu'aussi bien les propriétaires que les fermiers sachent clairement quels sont les motifs de reconduction du bail ou de reprise de possession de la terre.
+
+Encadré 3.4
+
+LA SUCCESSION COUTUMIÈRE EN OUGANDA
+
+Au début du XXème siècle, le régime foncier dans la région de Buganda, dans ce qui était alors la colonie de l'Ouganda, a été transformé d'un régime coutumier fondé sur la souveraineté du chef sur la terre et le droit des membres de la communauté de l'exploiter et est devenu un système proche d'une propriété pure et simple. Les terres soumises à ce type de droit de propriété, appelées domaines mailo, qui relevaient des chefs, étaient déjà exploitées par les paysans. Ces derniers ont été autorisés à continuer d'occuper la terre, ce qui a eu pour effet, dans la pratique, de les transformer de détenteurs de droit coutumier d'usufruit en fermiers de biens privés.
+
+Afin d'empêcher l'expulsion de ces fermiers, il a été adopté pendant les années 20 un certain nombre de lois leur donnant une certaine sécurité de jouissance tout en déterminant le montant du loyer à payer et les droits et responsabilités des parties. De ce fait, l'expulsion (qui ne peut intervenir que sur ordonnance judiciaire) est aujourd'hui limitée à un nombre très réduit de motifs, comme le non-paiement du loyer pendant trois ans. Comme c'était le cas du régime d'usufruit, ce droit peut être transmis par succession mais ne peut pas être vendu ou cédé d'une autre manière sans l'autorisation du propriétaire. Il s'agit par conséquent d'un système mixte qui conjugue des droits de propriété privée et des normes et pratiques coutumières.
+
+(Lastarria-Cornhiel, S. et Melmed-Sanjak, J. 1999. Land tenancy in Asia, Africa and Latin America: A look at the past and a view to the future. Working Paper No. 27. Land Tenure Center, University of Wisconsin-Madison)
+
+3.19 Dans de nombreux systèmes, l'un des éléments à prendre en considération est la mesure dans laquelle le fermier a respecté les clauses essentielles du bail. Si le fermier ne s'est pas acquitté de cette obligation, le propriétaire devrait pouvoir reprendre possession de la terre.
+
+3.20 Un autre élément dont il est souvent tenu compte est la situation et les besoins du propriétaire et de sa famille. L'on dit souvent que le propriétaire devrait pouvoir, à l'expiration du bail, reprendre l'exploitation. Dans d'autres cas, il est admis que le propriétaire devrait pouvoir reprendre possession de la terre pour qu'un membre de sa famille puisse commencer ou recommencer à l'exploiter. En Inde, la période couverte par le bail précédent est considérée comme une période d'«incapacité» durant laquelle les membres de la famille du propriétaire de la génération suivante se préparent à exploiter la terre. L'on peut également considérer que le propriétaire devrait être autorisé à reprendre possession de la terre à des fins de remembrement.
+
+3.21 Une autre considération encore est la question de savoir si le locataire a besoin de la terre pour rester dans le foyer familial, ce qui peut être le cas si le bail porte également sur un logement qui devra être évacué si le bail n'est pas reconduit. Établir un lien entre la reconduction du bail et la résidence du fermier encourage le propriétaire à interdire au fermier de construire une maison, pour temporaire et fragile qu'elle soit, et à détruire celle qui existe déjà. De ce fait, l'expression «résidence» devra être interprétée au sens large de manière à englober non seulement les édifices physiques mais aussi les lopins de terre qui constituent le seul moyen de subsistance pour le fermier et les membres de sa famille, s'ils y résident effectivement ou non. Une autre considération en faveur du fermier est que le bail devrait être reconduit s'il serait injuste ou inéquitable de ne pas le reconduire.
+
+3.22 Pour apprécier les considérations susmentionnées, il est clair que la politique concernant la reconduction des baux doit être fondée essentiellement sur l'équité et sur ce qui doit être considéré comme juste dans les rapports entre bailleur et preneur. Tout en admettant le principe que le propriétaire devrait pouvoir recouvrer possession de la terre, ce principe ne devrait prévaloir que dans des circonstances spécifiques, c'est-à-dire lorsque le propriétaire ou des membres de sa famille ont besoin de la terre pour l'exploiter directement. Dans les autres situations, de nombreux pays reconnaissent le droit du fermier de continuer d'occuper la terre. Dans les pays développés en particulier, cependant, les propriétaires ont cherché à élargir leurs droits de reprise de possession de la terre afin, le plus souvent, d'exploiter le potentiel commercial que représente la conversion de la terre à des usages non agricoles.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+DEUXIÈME PARTIE: PRATIQUES OPTIMALES EN MATIÈRE DE CONTRATS DE FERMAGE
+
+4 Éléments d'un contrat de fermage
+
+Introduction
+
+4.1 Cette deuxième partie du Guide expose les types d'éléments à inclure dans les contrats de fermage. Dans une large mesure, ces contrats sont traités d'une façon générique, comme cela a été le cas dans la première partie. Cela conduira à ignorer pour l'essentiel les différences fondamentales entre les droits réels et les droits personnels qui existent dans un certain nombre de systèmes juridiques. Bien qu'il ait été adopté une approche générique plutôt que juridique dans le présent chapitre, il faudra sous certains points établir des distinctions entre les baux proprement dits et les contrats de licence. Le chapitre 5 analyse les autres dispositions à insérer dans les contrats de licence, l'accent étant mis en particulier sur les accords de métayage, qui revêtent une grande importance au plan mondial. Le chapitre 6, enfin, contient un certain nombre de recommandations concernant l'exécution des contrats de fermage.
+
+Encadré 4.1
+
+PRATIQUES OPTIMALES EN MATIÈRE DE BAUX AGRICOLES
+
+· noms des parties
+
+· date d'entrée en vigueur
+
+· durée de l'accord
+
+· description des biens
+
+· contenu de l'accord intervenu
+
+· droit de possession du fermier pendant la durée du bail
+
+· utilisations et responsabilités en matière d'utilisation de la terre
+
+· principaux éléments de l'accord
+
+· loyer ou contrepartie
+
+· dispositions relatives à l'indemnisation
+
+· procédure de règlement des différends
+
+4.2 Il y a lieu de préciser que les considérations évoquées dans cette deuxième partie se rapportent aux pratiques optimales suivies dans les sociétés qui respectent ou aspirent à respecter la loi et où les parties peuvent conclure volontairement des accords relativement équitables. Ces pratiques aident à élucider le contenu des baux convenus par les parties plutôt que de vouloir modifier l'équilibre des forces entre elles. Cependant, même dans les pays où les rapports de forces sont inégaux, les recommandations tendant à introduire une transparence adéquate dans les baux agricoles peuvent aider à protéger les droits de la partie la plus faible.
+
+4.3 L'on trouvera dans l'encadré 4.1 une énumération des pratiques à suivre quant à ce que doivent être les éléments des contrats de fermage. Ces éléments ne seront pas indispensables dans tous les cas, mais tout écart significatif par rapport aux pratiques indiquées risque de déboucher sur un contrat de bail qui n'est pas aussi efficace qu'il pourrait l'être.
+
+Nom des parties
+
+4.4 L'identité des parties d'un contrat de bail agricole est une considération fondamentale dans la mesure où elle garantit un certain degré de protection et de confiance pour les intéressés^17. L'identité des parties représente également une importance capitale pour les responsables de la formulation des politiques dans ce domaine. Si les accords conclus individuellement entre propriétaires et fermiers peuvent ne guère susciter de problèmes pour ce qui est de leur identité, l'intervention de co-propriétaires ou de co-fermiers peut soulever des questions spécifiques qu'il importe de régler. S'il existe des co-propriétaires, s'agit-il d'une propriété conjointe (ce qui donnera lieu à la conclusion d'un seul accord) ou détiennent-ils chacun une partie de la terre (ce qui exigera la subdivision de l'accord avec chacun d'entre eux)? S'il y a des co-fermiers, il faudra veiller à ce que le bail continue de progresser en cas de décès de l'un d'entre eux.
+
+4.5 Un problème potentiellement plus sérieux se pose lorsque tous les fermiers effectifs ne sont pas identifiés comme parties à l'accord. Cela est souvent le cas dans des cultures familiales, où le contrat identifie un seul fermier (l'exploitant, habituellement de sexe masculin), tandis que c'est généralement la famille tout entière qui travaille la terre. Cela peut n'avoir aucune conséquence juridique du vivant du fermier mais, si celui-ci vient de disparaître, le bail risque d'être résilié, ce qui privera les survivants de la terre qu'ils exploitaient. Ce problème a été résolu dans certains pays en accordant à certains membres de la famille des fermiers des droits de succession limités^18. Ce droit est habituellement limité aux conjoints (habituellement l'épouse), qui sont autorisés à conserver la possession de la terre jusqu'à l'expiration du bail. Dans certains cas, ce droit est élargi pour permettre aux conjoints d'être subrogés dans tous les droits du fermier initial
+(ce qui peut comporter le droit à reconduction ou à prolongation du bail ou à une indemnisation à l'expiration du terme, par exemple).
+
+Entrée en vigueur et durée de l'accord
+
+4.6 S'il faut indiquer la date convenue d'entrée en vigueur du bail, c'est pour faire en sorte qu'aussi bien le bailleur que le preneur sachent à partir de quel moment la responsabilité de la terre passe de l'un à l'autre. Il importe aussi pour les parties de s'entendre sur la durée de l'accord, qui peut être déterminée (par exemple un an), avec ou sans faculté de renouvellement, ou périodique (par exemple mensuelle ou annuelle), sous la réserve, souvent, d'un terme initial minimum. Certains baux prévoient une extension automatique qui permet aux fermiers de demeurer en possession de la terre à l'expiration du bail, ce qui a été officialisé dans certains systèmes par l'introduction de procédures formelles de reconduction convenue ou imposée du bail.
+
+4.7 La durée des baux peut être réglementée par la loi (voir la troisième partie), mais il est bon, dans tous les cas, d'établir une correspondance entre le terme et les résultats qui peuvent être raisonnablement escomptés de l'accor^19, qui peuvent avoir trait par exemple aux types de récolte devant être cultivée. Si le cycle végétatif complet pour certains légumes peut être de deux à trois mois, par exemple, la cession à bail d'une plantation de cocotiers devrait durer au moins 50 ans. De même, la durée du bail pourra être reliée aux exigences de la famille, par exemple au délai à prévoir pour que les membres de la famille du propriétaire de la génération montante soient prêts à exploiter la terre.
+
+Description des biens
+
+4.8 Il est bon, dans tous les cas, que les biens loués soient décrits de façon claire et dépourvue d'ambiguïté. Dans le cas de petits lopins de terre loués sur une base annuelle pour y faire paître des animaux, un accord oral suffira généralement^20 (insister sur un accord écrit dans le cas de transactions aussi informelles serait tout à fait contraire à la plupart des pratiques établies et imposerait en outre une paperasserie inutile). Que les accords soient ou non établis par écrit, toutefois, il conviendra d'indiquer comment les limites de la propriété ont été déterminées. Dans le cas de baux de longue durée ou de baux portant sur des exploitations vastes ou à la fois sur des terres et des immeubles, il sera préférable d'inclure un plan et une description écrite qui non seulement permettront de déterminer quels sont les éléments inclus ou exclus mais pourront en outre constituer la base d'autres accords.
+
+Contenu de l'accord intervenu
+
+4.9 Bien que les contrats concernant l'occupation de biens fonciers puissent être et soient en fait souvent conclus oralement, il est préférable d'établir par écrit les contrats de longue durée. Au Danemark, par exemple, tous les baux agricoles doivent être faits par écrit et mentionner spécifiquement le loyer et le terme^21. Il en va de même en Allemagne^22. En outre, dans certains pays, ces contrats doivent être présentés sous une forme spécifique ou doivent être notariés. Les fermiers coutumiers au Botswana, par exemple, reçoivent un certificat de cession coutumière de terre comme preuve de leurs droits. Dans d'autres cas, le texte écrit de l'accord ne fait qu'ajouter clarté et certitude à l'accord intervenu oralement. Dans le cas de baux d'assez longue durée, il pourrait être bon d'imposer l'enregistrement du bail (voir la troisième partie). Dans de nombreux pays, l'exigence d'un enregistrement ne s'applique qu'aux baux de longue durée, par exemple ceux de 20 ans ou
+plus.
+
+Droits et responsabilités en matière d'utilisation de la terre
+
+4.10 La mesure dans laquelle les preneurs se voient accorder une possession exclusive est l'un des principaux éléments distinctifs des contrats de fermage et de licence. Dans le cas d'un contrat de fermage pur et simple, le fermier a généralement possession intégrale et exclusive de la terre, ce qui signifie que le propriétaire devra si besoin est mentionner spécifiquement dans le bail qu'il se réserve le droit d'accès à la terre, par exemple pour l'inspecter périodiquement, l'intervalle dépendant du type de bien dont il s'agit et de l'utilisation qui en est faite. Lorsque le contrat prévoit l'établissement d'un état annuel des lieux, l'on pourra prévoir une inspection au même moment. De même, si le bailleur a des obligations spécifiques en matière de maintenance ou de réparation, il faudra lui réserver le droit d'accès à la terre pour mener à bien ces activités. En pareils cas, le fermier pourra avoir le droit d'exclure tous les autres, comme si la terre lui appartenait
+intégralement. Outre qu'un tel système a pour effet de transférer les responsabilités découlant de l'occupation de la terre du bailleur au preneur, cette situation donne au fermier un maximum de liberté de gestion, y compris la possibilité de créer des droits accessoires, comme des licences et (parfois) des sous-locations, pour intégrer à l'exploitation des sous-traitants ou des spécialistes.
+
+4.11 Le titulaire d'une licence ne jouit pas de cette exclusivité. Il a seulement l'autorisation d'entreprendre sur la terre certaines activités (comme labourage ou pâturage), tandis que le propriétaire conserve tous les droits et toutes les responsabilités découlant de l'occupation de la terre. Dans le cas d'un contrat de licence, par conséquent, il n'est pas nécessaire pour le bailleur de se réserver le droit de pénétrer dans la propriété louée ou d'autres droits étant donné que, juridiquement, le titulaire de la licence n'a pas pleine possession de la terre.
+
+4.12 Il conviendra par conséquent de faire en sorte que le fermier ait, dans des limites appropriées, le droit de choisir le type de cultures qu'il entend exploiter. Il y a lieu de préciser à ce propos que, surtout dans le cas de baux de courte durée, ce type de liberté est dans une large mesure un v&#156;u pieux dans de nombreuses régions du monde. L'encadré 4.2 décrit comment, en Colombie, les ouvriers agricoles ont lutté avec succès pour obtenir certains droits sur l'utilisation de leur terre.
+
+Encadré 4.2
+
+LIBERTÉ DE CHOIX DES CULTURES DANS LE SYSTÈME DES VIVIENTES EN COLOMBIE
+
+Les vivientes étaient habituellement des paysans sans terre qui vivaient et travaillaient dans les haciendas en contrepartie de quoi il recevaient un petit lopin de terre sur lequel ils cultivaient leurs propres récoltes. Si, à l'origine, ils n'exerçaient généralement qu'un contrôle minime sur ce lopin de terre, les vivientes ont peu à peu acquis certains droits à une série de mesures législatives. Conformément à la loi No. 200 de 1944, à la loi No. 290 de 1957 et à la loi Sexta de 1975, les vivientes ont obtenu le droit à un lopin de terre d'une superficie minimum de 0,5 hectare, d'utiliser librement cette terre (ce qui leur a permis de cultiver non seulement des récoltes vivrières mais aussi des caféiers), le droit de conserver la récolte sans devoir en céder une partie quelconque au propriétaire et le droit à indemnisation pour les améliorations apportées à la terre. Parallèlement au renforcement progressif des droits des vivientes sur ces petits lopins de terre, les
+propriétaires ont de plus en plus répugné à appliquer ce système, préférant plutôt avoir des métayers, dans le cas desquels il était plus facile de mettre fin au bail.
+
+(Raymond, P. 1986. `La aparcería en las haciendas chara-leñas.' Cuadernos de agroindustria y economía rural 17(2): 105-156).
+
+Droit de résiliation
+
+4.13 En ce qui concerne la durée du contrat, les deux parties doivent être raisonnablement certaines d'arriver jusqu'à l'expiration du bail. Lorsqu'il s'agit d'un bail annuel ou d'assez courte durée, cela peut ne pas poser de problème. Pour des baux de plus longue durée, toutefois, il se peut que, dans certaines circonstances, le bailleur souhaite reprendre possession de la terre (par suite de la faillite de l'exploitation, par exemple, ou de la nécessité pour le fermier de passer à une exploitation ou à un lopin de terre de plus grandes ou de plus petites dimensions). Pour couvrir ce type de situations, l'on peut inclure dans le contrat une clause autorisant l'une ou l'autre des parties à dénoncer le bail à des moments spécifiés et pour des raisons précises. Au Botswana, par exemple, le propriétaire ne peut mettre fin à un bail coutumier contre la volonté du fermier que dans quatre cas spécifiques^23:
+* si le fermier n'a pas observé les restrictions auxquelles le bail est subordonné;
+* s'il y a eu un changement non autorisé d'usager;
+* si la terre n'a pas été utilisée pendant une période considérable; ou
+* si la terre est requise dans l'intérêt public, y compris à des fins de redistribution.
+
+Principaux éléments de l'accord
+
+4.14 Quel que soit le type de bail, il est toujours important d'établir les bases sur lesquelles l'accord est conclu et d'y inclure à cette fin une série de clauses en exposant le contenu. La liste des clauses qui peuvent être insérées dans un bail est très longue. Les plus usuelles sont néanmoins celles qui concernent l'entretien de la terre, l'obligation de restituer la terre dans le même état à la fin du bail, les dispositions concernant les améliorations à apporter à la propriété, l'interdiction de céder le bail ou de sous-louer la terre sans l'autorisation du propriétaire et l'obligation de payer les impôts fonciers. Les types et formes de clause à inclure dans un contrat de licence peuvent varier étant donné que le titulaire de la licence n'a pas la possession exclusive de la terre. Un aspect intéressant est que la déréglementation des baux en Angleterre et au Pays de Galles a conduit à la multiplication, dans les nouveaux baux, des clauses relatives à la protection de
+l'environnement^24.
+
+Clauses relatives à l'entretien de la terre
+
+4.15 Même si le bail contient une clause concernant l'obligation de maintenir la terre en bon état, il convient - en tous les cas dans le cas de la cession à bail d'exploitations tout entières - d'inclure une clause définissant la répartition détaillée des obligations de réparation et d'entretien du bailleur et du preneur. Cette répartition dépendra de la durée et des autres conditions du bail, les baux de longue durée allant généralement de pair avec l'imposition d'obligations plus lourdes à cet égard au fermier. Des clauses de ce type doivent être incluses dans le bail même si celui-ci ne porte que sur une terre de superficie réduite car, même en pareils cas, canaux de drainage et clôtures peuvent exiger un entretien.
+
+4.16 Du fait de la nature et de la durée des contrats d'affermage d'exploitations tout entières, la plupart des activités d'entretien sont généralement à la charge des fermiers. Toutefois, il n'est pas raisonnable ni approprié d'atteindre des fermiers qu'ils réparent le gros oeuvre des bâtiments ou le gros matériel^25. Bien qu'il n'existe aucune prescription de caractère général, il convient de conserver la répartition des responsabilités entre bailleur et preneur, le premier devant prendre soin du gros oeuvre des bâtiments et le locataire des accessoires et du matériel.
+
+Restitution de la terre dans le même état à l'expiration du bail
+
+4.17 Quelle que soit la façon dont les responsabilités touchant l'entretien soient réparties entre le bailleur et le preneur, tous les baux devraient comporter une clause selon laquelle le fermier doit restituer la terre en bon état. Il y a lieu de noter que ce type de clause prévoit que la terre doit être restituée en «bon état» plutôt que dans le même état que celui dans lequel elle se trouvait lors de sa location. En effet, dans un grand nombre de systèmes juridiques, l'obligation de conserver la terre en bon état comporte également celle de la mettre d'abord dans un tel état.
+
+4.18 Un accord oral peut suffire à cette fin lorsque la terre est de petites dimensions ou le bail de courte durée. Dans le cas d'une propriété de plus grande superficie, d'une exploitation complète ou d'un bail plus long, il pourra y avoir lieu aussi de rédiger une description détaillée de l'état physique de la propriété lors de la conclusion du bail. Si le mauvais état initial de la terre ne dispenserait pas de l'obligation de la laisser en bon état à l'expiration du bail, il faut dans tous les cas être raisonnable quant à ce qui peut être réalisé dans un délai déterminé. À cette fin, il sera bon de tenir un registre continu de l'état de la propriété. En outre, la qualité des réparations devra être acceptable à la lumière des usages locaux. Dans ce cas aussi, une description de l'état du matériel facilitera cette comparaison.
+
+Arrangements concernant les améliorations à apporter à la terre ou les changements d'utilisation
+
+4.19 Indépendamment d'une répartition adéquate des responsabilités en matière d'entretien et de réparation, il est bon de veiller à ce que le fermier ne puisse pas altérer la terre ou changer son utilisation sans le consentement exprès du bailleur. Il pourra y avoir des exceptions, par exemple s'il faut ériger une clôture pour empêcher que le bétail ne pénètre sur la terre.
+
+Responsabilités financières concernant les ressources partagées
+
+4.20 Dans le cas de baux de longue durée, particulièrement lorsque la possession exclusive de la terre est accordée aux familles, il pourra être nécessaire pour le propriétaire de définir les responsabilités respectives en ce qui concerne le paiement des divers droits liés à l'utilisation et à l'occupation du bien. Il pourra s'agir des impôts et droits locaux (comme les droits d'eau), d'une proportion du coût d'entretien des ressources communes (comme les routes d'accès et réseaux de drainage) et d'une prime d'assurance appropriée pour couvrir les risques de vol, d'incendie et de dégâts. Encore une fois, la nature et l'étendue de ces responsabilités partagées dépendront à la fois de la nature de la terre louée ainsi que de la durée escomptée du bail.
+
+Loyer ou autre contrepartie
+
+4.21 Il est essentiel que le fermier paie le loyer ou une autre contrepartie (comme une part de la récolte ou des fruits) au propriétaire. La valeur effective de cette contrepartie peut ne pas être connue au début du bail (comme c'est le cas lorsque le fermier doit payer une partie de la produc-tion conformément à un contrat de métayage). Néanmoins, le bail devra spécifier clairement comment cette contrepartie sera calculée et quand elle sera exigible (voir l'encadré 4.3 pour un exemple tiré du Nigéria).
+
+Encadré 4.3
+
+CONTREPARTIE VERSÉE EN ÉCHANGE DE LA TERRE DANS LA RÉGION DES IBO AU NIGÉRIA
+
+Comme bien d'autres pays d'Afrique, la coutume, chez les Ibo, consistait à payer un «tribut» ponctuel ou un paiement symbolique en contrepartie du droit d'utiliser la terre. Ayant acquitté ce tribut, le fermier était alors libre d'utiliser autant de terre qu'il pouvait exploiter. Ce système, appelé fermage Kola, prévoyait par conséquent le versement d'une prime unique pour une occupation permanente. Souvent, les fermages Kola sont complétés par une référence à la superficie des terres utilisées et au volume de la récolte annuelle.
+
+4.22 Le facteur primordial à avoir à l'esprit pour déterminer la contrepartie à payer est que celle-ci doit être spécifiée et certaine. Cela n'exclue pas des éléments non payés, comme les arrangements d'entraide d'usage, qui sont pratique commune dans de nombreux pays. Ce que les baux doivent exclure, toutefois, sont les pratiques léonines selon lesquelles les fermiers et leur famille doivent fournir des éléments de loyer «non spécifiés», comme un travail non rémunéré.
+
+4.23 Outre qu'il faudra déterminer la valeur de la contrepartie et les dates auxquelles elle devra être payée, il pourra s'avérer nécessaire aussi de prévoir la possibilité de la revoir à une ou plusieurs dates spécifiées à l'avenir. Les clauses de révision sont plus fréquentes (et plus nécessaires) dans le cas de baux de longue durée, lorsque le fermier paie habituellement un loyer en espèces. En pareils cas, lorsque la valeur réelle du loyer peut varier en raison de l'inflation ou de fluctuations monétaires et lorsque la valeur relative des produits agricoles peut changer avec le temps, des révisions périodiques protégeront les intérêts financiers du propriétaire ainsi que les capacités de payer du fermier.
+
+Clauses d'indemnisation
+
+4.24 Beaucoup de contrats ne contiennent aucune clause concernant l'indemnisation, mais cela peut être particulièrement important dans le cas de contrats de fermage. En effet, il faut souvent améliorer ou transformer la terre pour qu'elle puisse être utilisée, et cela est généralement une des obligations du fermier. Parfois, ces améliorations supposent des coûts qui ne peuvent pas être récupérés à l'expiration du bail mais qui ajoutent de la valeur à la terre. En pareil cas, le fermier doit pouvoir réclamer une indemnisation pour cette augmentation de valeur.
+
+4.25 Inversement, les altérations peuvent avoir endommagé la terre et ainsi l'avoir dévalorisée. En pareille situation, ce sera le propriétaire qui voudra réclamer une indemnisation pour cette réduction de la valeur de sa propriété. Pour l'éviter, certains systèmes juridiques exigent que ces investissements soient amortis pendant la période de validité du bail. Cela risque cependant de décourager des investissements majeurs, particulièrement lorsque l'expiration du bail approche et que l'horizon temporel se rétrécit.
+
+4.26 Dans tous les cas, il est bon de négocier à la fois les conditions dans lesquelles une indemnisation sera payée ainsi que les modalités selon lesquelles la valeur de l'indemnisation sera calculée. Cela est particulièrement important si l'on considère le déséquilibre des rapports de forces entre bailleurs et preneurs après le commencement du bail. Pour calculer le montant dû, l'on peut prévoir soit un ajustement du loyer ou de la contrepartie payée, soit refléter le montant correspondant dans la valeur en capital de la terre.
+
+Règlement des différends
+
+4.27 Le bail devrait également comporter des dispositions relatives au règlement des différends pouvant surgir. De telles dispositions devront couvrir aussi bien les différends de caractère général entre les parties que les différends spécifiques touchant des points comme la révision du loyer, l'obligation d'entretien et les demandes d'améliorations. Il est cependant tout aussi important d'éviter les différends que de les régler. Dans tous les cas, par conséquent, les contrats devront essayer de prévoir dans quel domaine des litiges pourront surgir afin de faire le nécessaire pour les éviter.
+
+5 Pratiques optimales en matière de contrats de licence et de métayage
+
+Introduction
+
+5.1 Le chapitre 4 a évoqué en termes génériques la situation du contrat de fermage, mais l'on examinera dans le présent chapitre les éléments des rapports entre bailleurs et preneurs qu'il convient plutôt de considérer, juridiquement, comme des contrats de licence ou contrats personnels d'utilisation de la terre. En fait, l'omniprésence des contrats de métayage dans de vastes régions d'Afrique, d'Asie et d'Amérique du Sud montre qu'ils demeurent la forme prédominante de baux agricoles. Les contrats de métayage et autres accords de licence ont pour effet de diviser les responsabilités associées à l'exploitation entre le bailleur et le métayer ou titulaire du droit de licence, de sorte qu'ils ont un statut et un impact différents. Dans le cas d'un contrat de fermage, l'une des parties loue la terre à une autre, tandis que dans celui d'un contrat de métayage ou d'un accord de licence, une partie accorde une licence à l'autre, l'idée étant que les propriétaires seront davantage
+impliqués dans l'exploitation de la terre. Cependant, dans de nombreuses régions (particulièrement là où il existe de grandes exploitations), il est rare que les propriétaires participent activement à l'exploitation, si ce n'est en donnant accès à la terre et à certains intrants minimes aux métayers.
+
+5.2 Les droits sur la terre qu'un propriétaire transfère par un accord de licence peuvent être moins étendus que ceux qui sont conférés par un contrat de fermage. Néanmoins, il n'en découle pas nécessairement qu'un contrat de licence doit être moins complet qu'un contrat de fermage. Au contraire, comme il faut veiller à ce qu'un contrat de licence définisse comme il convient quels sont les apports et les produits partagés, il peut être aussi complet qu'un contrat de fermage, même si c'est d'une façon différente.
+
+Encadré 5.1
+
+PRATIQUES OPTIMALES EN MATIÈRE D'ACCORDS DE LICENCE
+
+· noms des parties;
+
+· exposé de l'accord de partage de la terre;
+
+· entrée en vigueur, durée et modalités de résiliation du bail;
+
+· part des intrants;
+
+· part des produits;
+
+· règlement des différends.
+
+5.3 Comme dans le cas des contrats de fermage, plusieurs dispositions essentielles doivent figurer dans tous les accords de licence. Dans le cas des accords les plus simples, les dispositions essentielles sont celles qui ont pour objet de donner certitude et clarté aux relations entre les parties, et d'indiquer la raison pour laquelle le droit de licence a été accordé, la durée de l'accord et la contrepartie qui a été convenue. Les contrats de métayage doivent être plus complexes dans la mesure où ils doivent définir en détail les responsabilités et droits respectifs du propriétaire et du métayer. Aussi la présente section sera-t-elle consacrée aux contrats de métayage en particulier plutôt qu'aux accords de licence en général. Les dispositions essentielles des contrats de métayage sont indiquées dans l'encadré 5.1. Comme on l'a vu au chapitre 4, les dispositions en question précisent l'accord intervenu entre les parties plutôt que de modifier le rapport de forces entre
+elles. Toutefois, même dans les pays où les rapports de forces sont inégaux, des mesures permettant d'évaluer de manière transparente le volume de la récolte pourront contribuer à éviter des différends.
+
+Noms des parties
+
+5.4 Comme dans le cas d'un contrat de fermage, le contrat de métayage doit définir nommément les parties, d'autant qu'il s'agit d'un accord personnel entre propriétaire et métayer.
+
+Accord de partage de la terre
+
+5.5 Cette disposition peut se rapporter à tout ou partie d'une terre ou d'une exploitation. Cette disposition est un aspect fondamental de la relation entre propriétaire et métayer car elle indique la raison de l'accord (et indirectement la raison pour laquelle l'accord n'est pas un bail) et la façon dont la terre sera gérée. Comme l'accord ne fait pas intervenir de transfert de droits réels, le métayer devra spécifier qu'il a un droit d'accès à la terre à des fins d'exploitation.
+
+Entrée en vigueur, durée et modalités de résiliation
+
+5.6 Comme dans le cas d'un contrat de fermage, la date d'entrée en vigueur et la durée de l'accord doivent être déterminées à l'avance. La considération primordiale, dans le cas d'un contrat de métayage, est la nécessité de faire en sorte que les parties aient une possibilité suffisante de mettre en oeuvre l'accord qu'elles ont conclu, ce qui pourra prendre quelques mois s'il s'agit d'une seule campagne agricole ou plusieurs années s'il s'agit d'une exploitation d'élevage. Par ailleurs, l'une ou l'autre des parties pourra souhaiter insérer dans le contrat des clauses de résiliation qui pourront être liées à des événements externes spécifiés, comme la nécessité d'utiliser la terre à d'autres fins prédéterminées, ou l'inexécution de l'accord par l'une ou l'autre des parties.
+
+Part des intrants
+
+5.7 Cette disposition définit les responsabilités respectives des parties pour ce qui est de l'apport des intrants nécessaires à l'exploitation de la terre. Dans la pratique, les deux parties apportent habituellement des intrants, mais l'accord peut spécifier une simple répartition de tous les éléments fixes et variables du capital (propriétaire) et du travail (métayer) mais aussi des arrangements extrêmement complexes. Dans le premier cas, il pourra s'agir de se référer brièvement à la répartition des responsabilités. Dans le deuxième cas, en revanche, il pourra être nécessaire d'établir un inventaire de l'ensemble des biens en capital et du matériel, en indiquant pour chaque élément un pourcentage spécifique de répartition. Si cela est approprié eu égard à l'envergure de l'accord, l'on devrait également mentionner quelle est la partie qui devra prendre à sa charge les coûts de réparation et d'entretien et des primes d'assurance et la partie qui devra tenir la comptabilité
+des dépenses de l'exploitation.
+
+Part des produits
+
+5.8 Un contrat de métayage doit spécifier, non pas un loyer comme dans le cas d'un contrat de fermage, mais plutôt les parts des produits de la terre qui reviennent aux parties. Il pourra s'agir d'une répartition simple selon la part des intrants que chacune des parties s'est engagée à apporter. L'on peut également envisager une répartition plus complexe reflétant non seulement la part relative des intrants mais aussi la mesure dans laquelle ces derniers ont influé sur la production. L'on peut citer comme exemple la division d'une première tranche de la production - habituellement jusqu'à concurrence d'une limite convenue - et sur la base de la valeur pure et simple des intrants, le reste de la production étant répartie en fonction de l'apport de services de gestion. Étant donné la valeur de la terre, il est probable que le propriétaire obtiendra une proportion plus importante de la première tranche de la production, tandis que les services de gestion fournis par
+l'exploitant conduiront généralement à lui donner une plus grande proportion du reste.
+
+Prévention et règlement des conflits
+
+5.9 Bien qu'il puisse surgir des litiges à propos de n'importe quel aspect du contrat, les plus fréquents sont ceux qui concernent les parts respectives de la production. Ces différends sont généralement imputables au sentiment de méfiance qu'il existe entre le propriétaire et l'exploitant. Il arrive souvent, par exemple, que le propriétaire pense que la production brute est plus importante que ne le dit l'exploitant, ce qui sous-entend que ce dernier s'est approprié une part de la production plus importante que celle qui était initialement convenue.
+
+5.10 Il conviendra de spécifier des procédures de règlement des différends semblables à celles qui sont incorporées aux contrats de fermage, mais le mieux serait d'éviter ce type de litige, ce que l'on peut faire en stipulant dans l'accord que l'exploitant doit informer le propriétaire de la date de la récolte, ce qui lui donnera la possibilité de vérifier personnellement par l'entremise d'une tierce partie indépendante ce qu'est effectivement la production brute.
+
+6 Recommandations concernant l'exécution des contrats de fermage
+
+Introduction
+
+6.1 Le présent chapitre met l'accent sur les pratiques à suivre pour faire en sorte que les baux agricoles puissent être exécutés efficacement. L'on peut, à cet égard, établir une distinction entre les facteurs techniques, qui se rapportent directement aux relations découlant du bail, et le contexte, à savoir l'environnement dans lequel les baux sont exécutés, dont il est question dans la troisième partie. Il est indispensable de mettre au point un mécanisme efficace pour améliorer les baux agricoles et, dans ce contexte, l'accent est mis sur les améliorations qui peuvent raisonnablement être apportées aux facteurs techniques.
+
+Préparation d'un bail ou de clauses types
+
+6.2 Des baux types existent déjà dans plusieurs pays. Ils sont parfois rédigés par les pouvoirs publics, afin de fournir un type de contrat officiellement sanctionné, ou bien par des groupes de propriétaires ou de fermiers à l'intention de leurs membres. L'on peut également se procurer des baux types en s'adressant à des avocats ou aux autres personnes qui s'occupent de rédiger des baux. Bien que ces documents aient inévitablement un caractère général, ils permettent de tenir compte de tous les problèmes critiques lors de la conclusion de l'accord, même si les parties décident de modifier ou de supprimer certaines de leurs dispositions.
+
+6.3 L'élaboration d'un bail type pourrait à première vue éliminer les éléments de flexibilité qu'exigent souvent les relations entre bailleur et preneur^26. Toutefois, cela n'est pas nécessairement le cas. En s'inspirant des éléments essentiels exposés dans le présent Guide, un contrat, sous sa forme la plus simple, peut être un document d'une page tout au plus indiquant les aspects fondamentaux des relations entre les parties, la définition de la terre, les dates d'entre en vigueur et d'expiration du bail et la contrepartie. Dans le cas d'accords plus complexes, particulièrement ceux qui concernent une répartition des fruits ou la cession à bail d'une exploitation, l'on pourra ajouter des pages supplémentaires pour spécifier les autres éléments à convenir. Ainsi, un bail type pourrait en fait comprendre un nombre variable de pages standard, selon la complexité de l'accord et les souhaits des parties.
+
+Engagement d'appliquer un contrat type lorsque les conditions du bail sont contestées
+
+6.4 Une formule voisine de l'élaboration d'un bail type peut être une définition officielle des dispositions normalement incluses dans de tels accords, notamment une répartition standard ou idéale des droits et responsabilités concernant aussi bien les intrants que les produits. Bien qu'elle ne constitue pas un élément contraignant et ne limite pas le droit des parties d'arrêter leurs propres conditions, ce renvoi à une norme établie peut être utilisé en cas de différends pour déterminer indirectement quels sont les droits et responsabilités respectifs. L'un de ces droits peut être celui d'obtenir que tous les contrats de location à bail d'une exploitation tout entière fassent l'objet d'un écrit, ce qui pourra permettre à l'une ou l'autre des parties d'un accord conclu autrement que par écrit de faire valoir son droit à un contrat écrit reflétant les conditions précédemment convenues.
+
+Effort de transparence
+
+6.5 Il conviendra non seulement de suivre des pratiques optimales lors de la conclusion de baux mais aussi de faire en sorte que les baux, surtout de longue durée, soient conservés en lieu sûr de sorte que l'une ou l'autre des parties puissent vérifier les conditions initialement convenues en cas de différend. Certains systèmes imposent l'enregistrement de baux à long terme (par exemple de plus de 20 ans) afin de les rendre opposables aux tiers, ce qui garantit que quiconque conclut un contrat avec le propriétaire sait que d'autres ont des droits importants sur la terre. Sachant que cette obligation peut susciter des difficultés et entraîner des coûts considérables dans certains pays, l'on peut, à défaut ou à titre intérimaire, confier les tâches d'enregistrement à une personne respectée de la communauté locale.
+
+Accès aux informations appropriées
+
+6.6 L'un des éléments qui entravent le plus le développement des baux agricoles dans toutes les régions du monde est l'absence d'informations appropriées sur les pratiques et tendances actuelles. L'établissement d'un simple système d'enregistrement des loyers, commissions et parts des intrants et des produits, par exemple, pourrait mettre les fermiers mieux à même de négocier le bail. De même, un tel système permettrait également aux propriétaires de savoir s'ils tirent ou non de leur terre un rendement approprié. Étant donné la diversité des facteurs qui peuvent affecter les loyers et autres paiements dus, le mieux est de concevoir de tels systèmes au plan local et de les combiner avec l'enregistrement des baux. Des systèmes plus perfectionnés pourraient également comporter des listes des obligations habituellement prévues dans les baux, une référence aux prix des produits et aux autres sources d'information utile, comme le coût et la disponibilité du crédit.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+TROISIÉME PARTIE: CRÉATION D'UN ENVIRONNEMENT FAVORABLE
+
+7 Facteurs liés à l'environnement
+
+Introduction
+
+7.1 Cette troisième partie porte sur des facteurs pouvant déboucher sur un environnement dans lequel des baux agricoles peuvent être utilisés pour mettre des terres en exploitation tout en préservant un certain nombre de critères fondamentaux d'équité. Compte tenu de l'accord proprement dit, qui a été défini dans la deuxième partie, il prend en considération un certain nombre de problèmes de caractère plus général, et l'on trouvera ci-après quelques suggestions quant aux solutions qui peuvent y être apportées.
+
+7.2 Un aspect primordial, en matière de politiques générales, et souvent tenu pour acquis dans les pays développés, est la nécessité de créer un environnement stable dans lequel les exploitants - qu'ils soient ou non fermiers - puissent opérer efficacement. Bien qu'il s'agisse d'une question complexe et que cette stabilité soit parfois difficile à instaurer, il s'agit essentiellement d'introduire, d'appliquer et de faire respecter les institutions et les lois de nature à créer un climat de transparence et de certitude. En outre, la durabilité des opérations agricoles présuppose la possibilité d'acquérir les intrants appropriés (c'est-à-dire d'avoir accès à un financement dans des conditions abordables) et de vendre les produits (ce qui implique l'existence de réseaux de distribution et de commercialisation appropriés pour les denrées alimentaires).
+
+7.3 Un élément à ne pas perdre de vue est que les réformes des baux agricoles peuvent affecter les rapports de forces au niveau des communautés. Les pratiques optimales qui sont suggérées devront être appliquées dans la pleine conscience des équilibres délicats qui sont en jeu. Les éléments indiqués doivent être appliqués si l'on veut que les régimes de baux agricoles fonctionnent efficacement mais nombre d'entre eux supposent également une redistribution des pouvoirs du propriétaire en faveur du fermier. Si l'ampleur de cette redistribution des pouvoirs apparaît comme excessive ou si les responsabilités qui en résultent sont trop lourdes, les propriétaires risquent de ne plus louer leurs terres ou bien commenceront à envisager de nouvelles modalités de location qui leur épargnent les obligations imposées par la réglementation. Aucune de ces éventualités ne serait favorable au développement des baux agricoles dans le secteur privé à plus longue échéance. Il faudra par
+conséquent que, dans tous les cas, l'application des mesures suggérées tienne compte de la nécessité de concilier les besoins et les attentes aussi bien du bailleur que du preneur.
+
+Politiques foncières
+
+7.4 La nature de la propriété foncière est l'un des éléments déterminants dans le développement des baux agricoles. La nature de ces derniers, où les exploitations familiales prédominent, sera généralement différente des baux qui prévaudront là où les terres sont concentrées. Les baux sont également influencés par les arrangements institutionnels tendant à encourager ou réglementer une utilisation efficace de la terre. Au minimum, cette efficience sera accrue par la mise en exploitation de terres abandonnées ou inutilisées. Ceci sera particulièrement important à proximité des agglomérations où il existe à la fois des besoins et un marché des produits agricoles.
+
+7.5 Le rôle et l'influence de la propriété foncière dans la gestion des terres agricoles est une question qui a fait couler beaucoup d'encre. Dans de nombreux pays, il est jugé souhaitable, par exemple, de promouvoir et de maintenir la propriété à l'échelle des exploitations familiales. Les régimes fonciers qui encouragent ce type d'exploitation permettent aux familles d'agriculteurs de travailler la même terre pendant des générations, ce qui débouche indubitablement sur une stabilité qui tend à préserver un emploi familial et ainsi à soutenir l'économie rurale, même si le niveau de productivité et de rentabilité des exploitations peut s'en trouver compromis^27. Des exemples de ce type d'arrangements abondent dans de nombreuses régions du monde, particulièrement sur le continent européen et en Asie. Dans ces situations, les baux constituent essentiellement un moyen immédiat de transfert de la terre d'une génération à l'autre. Indépendamment de la préservation des
+exploitations familiales, les baux intra-familiaux constituent également une incitation à la coopération et un encouragement à un plus grand apport de ressources, c'est-à-dire de travail, que dans le cas d'exploitations louées en dehors de la famille.
+
+7.6 Différents pays encouragent l'exploitation familiale en limitant la superficie des terres pouvant être cultivées comme unités d'exploitation. Un exemple en est le Danemark, où la superficie maximum des exploitations est actuellement fixée à 125 ha. Cette superficie, tout en restant relativement exiguë en comparaison des grandes exploitations que l'on trouve dans d'autres pays d'Europe septentrionale, n'en marque pas moins un progrès par rapport au maximum précédent qui tend à améliorer la viabilité commerciale des exploitations. Dans d'autres régions, en revanche, il est imposé des restrictions concernant la création de petites exploitations ou minifundios.
+
+7.7 Plusieurs pays, dont la France, appliquent des système de contrôles «dirigés» ou «indicatifs» pour garantir la pérennité des exploitations familiales (voir l'encadré 7.1). En contrôlant les marchés locaux de la terre, le système français des Sociétés pour l'aménagement foncier et l'établissement rural (SAFER) décourage, par exemple, l'achat de terres agricoles à des fins d'investissement ou de spéculation (à quelque échelle que ce soit), ce qui a pour effet de privilégier la propriété familiale^28. Bien que son administration coûte cher et que les pratiques suivies soient très variables (par suite, principalement, des différences qui caractérisent les pratiques agricoles et la situation de l'agriculture d'une région à une autre), le système des SAFER a été la base du maintien des exploitations familiales partout en France. D'aucuns ont néanmoins fait valoir que de tels contrôles risquent de décourager les investissements dans l'agriculture et la mise en exploitation de
+toutes les terres appropriées.
+
+Encadré 7.1
+
+LA RÉGLEMENTATION DES MARCHÉS DE LA TERRE EN FRANCE
+
+Les 27 Sociétés pour l'aménagement foncier et l'établissement rural (SAFER) ont été créées par la loi de 1960 sur l'orientation de l'agriculture comme sociétés de droit public à but non lucratif contrôlées par l'État et appartenant à des syndicats d'agriculteurs, mutuelles et autres entités agricoles ou administratives. Les SAFER peuvent acheter des terres agricoles mises sur un marché et, depuis 1962, jouissent d'un droit de préemption. Les terres ainsi achetées doivent être vendues à de jeunes agriculteurs, à de nouveaux exploitants ou à des exploitations familiales viables; depuis la promulgation d'une nouvelle loi de janvier 1990, les SAFER peuvent aussi louer ces terres. Les SAFER sont extrêmement actives et contrôlent étroitement le marché des terres agricoles. Néanmoins, elles ne peuvent pas exercer leurs droits de préemption dans le cas de terres agricoles qui doivent être converties à usage résidentiel, industriel ou commercial (article 7-IV-5 de la loi du 8 août
+1962).
+
+(Lorvellec, L. 1992. `Agrarian land law in France', pp. 51-70 in Grossman, M.R. et Brussaard, W. (eds) Agrarian land law in the western world. Wallingford, Oxon: CAB International).
+
+Encadré 7.2
+
+LA PROPRIÉTÉ ET LA GESTION DES PLANTATIONS DE LA CANNE À SUCRE AU BRÉSIL
+
+La plantation de canne à sucre d'Usina Sierra Grande, dans l'État d'Alagoas, couvre une superficie de 256 kilomètres carrés et a une population stable de 10 000 personnes. Les ouvriers, qui n'ont aucun droit sur la terre, coupent la canne à la main pour un salaire de 15 à 30 dollars par semaine de sept jours de travail. Outre un logement rudimentaire et la garantie d'un travail tout au long de l'année, la plantation offre des services d'éducation et certains soins de santé. Sur cette plantation et d'autres latifundos semblables, environ un million de personnes vivent sous le contrôle d'une poignée de grands propriétaires.
+
+(Bellos, A. 1999. The fat-cat controllers of Brazil's landless peasants. The Guardian, 6 mars 1999, p. 18)
+
+7.8 Dans certains pays, en revanche, la propriété foncière est moins réglementée, ce qui encourage la concentration des terres et l'absentéisme des propriétaires. Dans de telles situations, les baux constituent le principal moyen de gestion et d'exploitation des terres^29. Lorsque la propriété foncière est concentrée entre les mains d'un petit nombre, elle peut remplir certaines des fonctions de l'État, notamment dans les domaines de l'éducation et des soins de santé (voir l'encadré 7.2).
+
+7.9 L'un des principaux coûts de ce type d'opérations tient à une substitution progressive du travail par le capital. En outre, il est à craindre qu'en «permettant» que la propriété se dissocie à l'excès de l'exploitation, l'on finisse par priver de flexibilité le secteur agricole. Plutôt que de promouvoir le marché de la terre, par conséquent, la concentration de la propriété peut en fait réduire les possibilités des agriculteurs d'avoir accès à la terre, multiplier le nombre des ouvriers agricoles sans terre et réduire les superficies de terre pouvant être exploitées. Lorsque les terres sont concentrées, la réforme foncière peut être un instrument d'intervention mieux approprié qu'une amélioration du régime des baux agricoles. Lorsque la concentration n'est pas excessive, ceux qui n'ont pas de terre peuvent y avoir accès en la louant. La réponse à la question de savoir si un changement va trop loin varie d'une société à une autre et dépend du rôle que joue la terre dans la
+création de richesse. Dans les pays plus aisés, où une richesse peut être tirée de sources autres que la terre, une répartition équitable de la terre ne revêt généralement pas une grande importance politique. Dans les pays où la majeure partie de la population est employée dans l'agriculture (de subsistance ou commerciale) en revanche, il importe au plus haut point de créer une plus grande équité dans la propriété foncière.
+
+Encadré 7.3
+
+LE DÉVELOPPEMENT DE NOUVELLES COMPÉTENCES PROFESSIONNELLES
+
+Ce que les pays en développement n'ont souvent pas réussi à faire, c'est importer de nouvelles compétences, ou plutôt de nouveaux concepts, pour donner aux nouveaux propriétaires les conseils dont ils ont besoin pour pouvoir porter un jugement sur les transactions qu'offre le marché: estimations de la valeur actuelle et future, conseils sur les conséquences de différentes démarches, compétences en matière de négociation et de règlement des différends et avis objectifs sur la force ou la faiblesse des décisions administratives qui semblent limiter ou même exclure la possibilité pour le propriétaire de jouir de ses droits de propriété.
+
+Arnison, C. (1999) Land tenure and land markets in the transitional economies of Eastern Europe: a review of progress to date. Étude présentée à la RICS Research Conference: ROOTS `99. Londres: RICS Research Foundation.
+
+7.10 Lorsque la concentration des terres n'est pas excessive, une réforme du régime foncier visant à améliorer le fonctionnement des baux agricoles peut être attrayante pour les pays qui souhaitent mettre en valeur leur potentiel agricole, particulièrement pour exploiter les marchés d'exportation. On estimait par exemple avant la réforme du régime foncier introduite en 1995 en Angleterre et au Pays de Galles qu'une déréglementation pourrait libérer à des fins de location un million d'hectares de terres agricoles de plus^30.
+
+7.11 Lorsque l'allocation de la terre se fait par le biais des forces du marché, des améliorations peuvent être introduites de différentes façons. Au niveau le plus simple, de meilleurs systèmes d'information sur les loyers et les prix peuvent améliorer le fonctionnement du marché, tandis que la disponibilité de crédit est importante aussi. D'autres types de facteurs sont par exemple ceux qui concernent le cadastre, notamment la possibilité d'identifier les propriétés foncières avec plus de certitude, et les questions juridiques, qui influent sur la facilité relative des transactions. Dans l'un et l'autre cas, des améliorations modestes mais progressives peuvent avoir un impact positif sur l'efficience relative du marché.
+
+7.12 Un élément clé de telles réformes est le développement des services professionnels d'appui au fonctionnement des marchés fonciers. Des études réalisées en Europe orientale^31 ont constaté qu'en comparaison des pays développés, l'on manque de services spécialisés, comme ceux d'avocats ou d'experts spécialisés dans les questions foncières, d'architectes, d'ingénieurs et de courtiers. Bien qu'ils ne participent pas directement à l'exploitation, ces spécialistes constituent un élément extrêmement nécessaire de la nouvelle infrastructure de gouvernance à des fins aussi bien d'administration que de conseil permettant d'apprécier la valeur d'intérêts différents et souvent concurrents (voir l'encadré 7.3).
+
+Politiques budgétaires et financières
+
+7.13 Il est depuis longtemps admis que la politique budgétaire joue un rôle très important dans le fonctionnement du secteur agricole^32, que les terres soient louées ou exploitées par leurs propriétaires. En fait, la politique budgétaire constitue souvent un élément faisant partie intégrante de la politique agricole et rurale, d'autant que les subventions, prêts et pénalités ou avantages fiscaux sont souvent appliqués de manière discriminatoire. En Irlande, par exemple, les agriculteurs ne sont soumis à l'impôt sur le revenu que depuis 1974, et encore à des taux bien inférieurs à ceux que paient les non agriculteurs. De même, en France, ceux qui louent leur terre pour des périodes de longue durée (plus de 18 ans) peuvent bénéficier d'avantages fiscaux, tandis qu'en Italie, des dégrèvements fiscaux sont accordés pour l'achat de terres agricoles.
+
+7.14 En outre, il arrive parfois que les exploitants agricoles, qu'ils soient fermiers ou propriétaires, bénéficient d'un traitement fiscal privilégié par rapport aux propriétaires. Un exemple est celui des Pays-Bas, où les droits d'eau sont différents selon que la terre est exploitée par le propriétaire ou un fermier. En outre, le transfert d'exploitations agricoles d'une génération à l'autre dans le cadre des accords de partenariat «maatschap» permet un transfert de capital en franchise presque totale d'impôts (voir l'encadré 7.4).
+
+7.15 Dans d'autres pays, le taux élevé des droits de succession a été accusé de détruire la trame des régions rurales, les fermiers âgés répugnant à investir dans leurs exploitations, sachant que la plus-value en résultant accroîtra les droits de succession que devront acquitter leurs héritiers.
+
+Encadré 7.4
+
+LES PARTENARIATS «MAATSCHAP» AUX PAYS-BAS
+
+Il a été crée aux Pays-Bas un système très particulier de transfert de la terre d'une génération de fermiers à l'autre appelé «maatschap». Les «maatschap»sont des partenariats entre parents et héritiers qui permettent de transférer d'une génération à l'autre l'organisation et le contrôle des exploitations agricoles. Environ 70 pour cent des nouvelles exploitations proviennent de ces partenariats, qui permettent à la famille d'exercer un degré élevé de contrôle sur le processus de succession. Aux Pays-Bas, les exploitations agricoles sont hautement capitalisées et la progressivité des transferts permet à ce capital d'être transmis à relativement peu de frais, sur la base d'une évaluation modeste et à une imposition très modérée. Cela confirme beaucoup le caractère corporatif de l'agriculture aux Pays-Bas. Dans ce pays, il est donc très difficile pour un nouvel exploitant de s'implanter sur un marché si ce n'est par voie de succession. L'État a décidé de ne pas s'immiscer dans
+ce processus et considère qu'il serait inutile d'intervenir pour aider les jeunes exploitants à s'établir sur le marché agricole. L'État n'a pas pour pratique d'aider les jeunes agriculteurs mais consacre près de la moitié de son budget des services à l'agriculture à l'appui à la formation et à l'éducation agricoles.
+
+(from Brussaard, W. 1992. `Agrarian land law in the Netherlands' in Grossman, M.R. et Brussaard, W. (eds) Agrarian land law in the western world. Wallingford, Oxon: CAB International).
+
+7.16 Il est clair que dans de nombreuses régions, les baux agricoles (et particulièrement les contrats de métayage) sont étroitement liés à la seule source de crédit à laquelle le fermier ait accès, à savoir soit le propriétaire, soit un prêteur local, l'un et l'autre pouvant exiger sur leurs prêts des taux d'intérêt usuraires. L'accès à un mécanisme indépendant de crédit revêt par conséquent la plus haute importance, si l'on veut que les fermiers puissent investir leur argent dans l'exploitation et non dans le service de leurs emprunts et qu'ils aient aussi quelque indépendance lorsqu'ils négocient leurs baux. Souvent, les programmes de réforme du régime foncier ont été notifiés par la nécessité d'attirer dans l'agriculture des capitaux et des crédits de l'extérieur, ce qui dépend très directement de l'existence d'un système de baux stables et solides qui puissent donner aux créanciers la garantie qu'une terre agricole constitue un gage acceptable et durable. Cela a
+incontestablement contribué à une certaine intervention technique, comme la codification du droit coutumier au Botswana, car il n'était précédemment pas possible d'utiliser comme gage des terres coutumières^33. Dans d'autres pays, l'accès au crédit dépend de l'obtention et l'enregistrement des titres de propriété de manière à éclaircir les rapports fonciers et les modalités de règlement des conflits^34. Il est probable cependant que les tentatives qui sont faites pour développer les sources extérieures de financement et de crédit seront mal accueillies par les propriétaires terriens étant donné que l'une de leurs sources de revenu risque ainsi de disparaître.
+
+Politiques relatives à l'utilisation des sols
+
+7.17 Les politiques concernant les baux dépendent des politiques tendant à mettre en exploitation les terres agricoles disponibles, par exemple en réduisant ou en éliminant l'impact de la spéculation foncière à des fins non agricoles. Plusieurs mesures ont été adoptées pour y parvenir en réglementant l'aliénation des terres en en interdisant la vente, en limitant le prix de vente des terres agricoles^35, ou en restreignant leur conversion à des fins non agricoles. Il faut également tenir compte des politiques macro-économiques et des politiques sectorielles qui privilégient actuellement l'industrie et les populations urbaines aux dépens des agriculteurs et du secteur primaire.
+
+7.18 Si, dans les régions très rurales, les pressions exercées par le développement non agricole peuvent être négligeables, la situation change du tout au tout dans les régions à forte densité de population. Des études récentes de la FAO^36 ont mis en relief les problèmes qui se posent et les possibilités qui s'offrent à l'agriculture à la périphérie des villes, eu égard en particulier à la concurrence provenant d'autres utilisations des sols. Tel est aussi le cas des petits États insulaires ainsi que des régions où l'agriculture doit faire concurrence à d'autres utilisations des sols, comme le tourisme (comme à Chypre et dans les Caraïbes).
+
+7.19 La mesure dans laquelle il y a lieu de résister à ce type de changement imposé de l'extérieur est une question de principe. Plusieurs approches peuvent être suivies pour maintenir les terres dans le secteur agricole, les plus directes étant les restrictions imposées à tout changement d'utilisation. L'on peut y parvenir en interdisant purement et simplement le développement non agricole (comme cela a été le cas dans de nombreux pays de l'ancienne Union soviétique conformément au programme de restitution), au moyen de systèmes de contrôle de l'urbanisme et de l'aménagement du territoire ou au moyen de systèmes volontaires.
+
+Cadre juridique
+
+7.20 Comme on l'a vu dans la deuxième partie, un bail (ou un accord analogue) est l'instrument qui reflète les arrangements intervenus entre le bailleur et le preneur et la répartition entre eux des droits et obligations afférents à la terre louée. Cependant, il ne faut pas oublier que, pour perfectionné et détaillé que soit le bail, il ne définit qu'en partie les rapports juridiques entre les parties elles-mêmes et entre ces dernières et le monde de l'extérieur.
+
+7.21 Autrement dit, un bail n'existe jamais dans le vide, mais plutôt dans un environnement juridique donné, lequel a généralement un impact marqué sur les caractéristiques du bail, d'une manière qui ne ressort peut-être pas directement de l'accord lui-même. Le même bail, envisagé sous l'angle de différents systèmes juridiques nationaux, peut avoir une validité et une force très différentes.
+
+7.22 Les législations et institutions juridiques peuvent influencer les baux agricoles de bien des façons différentes et l'on ne pourra mentionner ici que quelques-unes d'entre elles. Ce qu'il faut souligner, c'est que l'analyse - et parfois la réforme - du cadre juridique est indispensable si l'on veut instaurer des pratiques optimales dans un contexte donné.
+
+7.23 Pour analyser le cadre juridique, il y a lieu d'établir une distinction entre les règles de fond et les règles de procédure qui le constituent. Généralement parlant, les règles de fond définissent les droits, les responsabilités et les possibilités des différents acteurs. Elles déterminent les conséquences d'une violation de la loi et les recours disponibles lorsque quiconque subit un préjudice par suite d'un délit ou quasi-délit. Les règles de procédure sont celles qui régissent les différents éléments institutionnels du système juridique proprement dit et les processus suivant lesquels les agents publics ou d'autres personnes peuvent chercher à faire respecter la loi ou former un recours en cas de préjudice.
+
+7.24 Les sources des règles de fond et de procédure applicables varient d'un système juridique à l'autre; elles peuvent être la législation, des arrêtés administratifs, la jurisprudence des tribunaux, les textes religieux, des normes coutumières reconnues de longue date ou une combinaison de tous ces éléments. Les lois ayant directement ou indirectement des incidences sur les relations découlant d'un bail sont souvent aussi dispersées entre de nombreuses catégories thématiques différentes, dont certaines peuvent être plus évidentes que d'autres. Manifestement, les lois sur la propriété sont les plus pertinentes, particulièrement lorsque des lois spécifiques ont été promulguées à propos des baux. Cependant, il faudra tenir compte aussi des lois portant sur des sujets extrêmement divers allant du droit des contrats en général et de la fiscalité à la succession et à l'utilisation des terres.
+
+7.25 La législation peut affecter un bail en complétant, annulant ou altérant les dispositions de l'accord lui-même. Les lois qui réglementent les loyers, par exemple, peuvent prévaloir sur le loyer indiqué dans le bail. Il se peut que les lois relatives au registre foncier exigent l'enregistrement des baux de durée supérieure à un certain nombre d'années et imposent en outre certaines obligations de forme et de contenu qui doivent être respectées pour que les baux puissent être enregistrés. D'autres lois peuvent prescrire certaines mesures - visant à protéger les fermiers - que le propriétaire doit prendre avant de réclamer la propriété de sa terre en cas de défaillance du fermier, et la possibilité pour les parties de déroger à de telles procédures peut être limitée. Lorsqu'un bail est muet sur un point particulier, la loi peut imposer une présomption ou fournir le détail manquant, parfois sans que les parties s'en rendent compte. Par exemple, lorsqu'il est stipulé dans le
+bail qu'une cession n'est possible qu'avec l'assentiment du bailleur, la législation dans certains pays peut subordonner le pouvoir du bailleur de refuser l'utilisation proposée à la condition que sa décision soit «raisonnable».
+
+7.26 Plus fondamentalement, les lois peuvent affecter la capacité des parties ne serait-ce que de conclure un bail. Les exemples les plus frappants de cette situation se trouvent dans les pays où la loi interdit purement et simplement la location de la terre ou limite considérablement le droit de la louer. Comme indiqué plus haut, plusieurs pays, dans la pratique, interdisent la cession à bail de terres agricoles. Dans l'État indien de Madhya Pradesh, le Land Revenue Code stipule que, sous réserve de certaines exceptions limitées, les Bhumiswamis (propriétaires directs) ne peuvent pas louer leur terre pendant plus d'un an pendant une période de trois ans consécutifs. Si un propriétaire loue sa terre en violation des interdictions du Code, la loi stipule que les fermiers peuvent acquérir eux-mêmes le statut de Bhumiswami, ce qui équivaut, dans la pratique, à évincer le bailleur.
+
+7.27 Il peut aussi se poser plusieurs autres types de problèmes de capacité. L'une des règles fondamentales du droit de la propriété, applicable dans presque tous les pays, est que le bailleur ne peut conférer sur sa terre des droits plus étendus que ceux qu'il possède lui-même. La solidité d'un bail et des droits qui en découlent pour le fermier dépendent par conséquent des droits du bailleur lui-même. Cela soulève une question importante, qui est de savoir si le cadre juridique existant offre une méthode efficace permettant de déterminer fiablement l'étendue des droits d'un bailleur sur la terre. L'on ne peut pas, dans le présent Guide, évoquer les différentes façons dont les divers systèmes juridiques ont essayé de garantir et de renforcer la sécurité des droits fonciers. Ce qui est important, en l'occurrence, c'est de souligner que lorsque les droits du bailleur ne sont pas certains ou solides, tel sera également le cas des droits que le bailleur entend transférer au
+moyen d'un bail.
+
+7.28 Un problème connexe tient au fait que, dans certains systèmes, le fait qu'une personne est considérée comme étant juridiquement le propriétaire de la terre ne résout pas nécessairement le point de savoir si l'intéressé, agissant seul, a la capacité de la louer. Il se peut par exemple que le propriétaire soit tenu, en vertu du droit coutumier, de solliciter l'autorisation des membres de la famille ou des autorités traditionnelles, conditions qui peuvent ne pas toujours ressortir clairement du libellé du document confirmant sa propriété mais qui peuvent néanmoins être invoquées par les tribunaux si le bail est un jour contesté.
+
+7.29 Il y a bien entendu souvent un écart substantiel entre le contenu formel de la loi et la façon dont celle-ci est en fait appliquée dans la pratique. Cela est vrai à des degrés divers dans tous les pays du monde, mais surtout dans ceux où le respect de la loi n'est pas une attitude aussi solidement enracinée, où les institutions juridiques et administratives sont faibles, où un recours devant les tribunaux est en fait hors de portée pour une large part de la population et où les rapports de forces entre les parties à un accord sont extrêmement inégaux. Ces éléments limitent la mesure dans laquelle des pratiques optimales peuvent être appliquées au moyen d'améliorations techniques des baux ou du cadre juridique de ceux-ci.
+
+7.30 Renforcer sensiblement le respect de la loi dans un contexte particulier peut s'avérer être une tâche redoutable et faire intervenir des facteurs politiques, économiques et sociaux qui ne peuvent pas être évoqués ici. Certaines améliorations progressives peuvent néanmoins être introduites en appliquant de simples principes de réforme des lois et de rédaction juridique.
+
+7.31 L'un de ces principes est que les dispositions législatives (et, par analogie, les dispositions d'instruments juridiques comme des baux) doivent être fondées sur une appréciation réaliste de ce qui peut effectivement être accompli en un lieu et à un moment déterminé. Les lois qui exigent un infléchissement abrupt des comportements institutionnels ou sociaux dans des contextes qui n'encouragent guère un tel changement risquent fort d'être ignorées.
+
+7.32 Des exemples classiques de ce phénomène sont les tentatives qu'a faites le législateur d'interdire, comme indiqué ci-dessus, la location des terres agricoles. Il y a, on l'a vu, de nombreuses raisons de contester une telle approche. L'important, en l'occurrence, concerne un aspect différent: indépendamment du fait qu'elles sont fondées sur des principes peu rationnels, de telles lois ne sont tout simplement pas appliquées car la location de la terre est trop importante pour un trop grand nombre que pour pouvoir la supprimer. L'effet de ces interdictions est simplement de pousser cette pratique dans la clandestinité, où elle continue de prospérer hors de portée de la loi. Cela signifie non seulement que le respect de la loi se trouve compromis encore davantage mais aussi que l'État se trouve dans une situation encore plus faible pour jouer un rôle de médiateur dans une relation qu'il considère officiellement ne plus exister.
+
+7.33 D'une manière plus générale, et bien que l'État puisse légitimement souhaiter réglementer les relations créées par un bail, il est à la fois difficile et important de déterminer le degré optimal de réglementation. Une réglementation lourde et dépourvue d'objectifs traditionnels, des procédures difficilement compréhensibles où l'application est coûteuse ou laborieuse et des règles qui ne reposent pas sur la réalité constituent un appel à l'inapplication et à la corruption et accroissent les coûts de transaction.
+
+7.34 Quel que soit le cadre juridique, le respect de la loi et des engagements contractuels dépendra beaucoup de la mesure dans laquelle il existe des mécanismes fiables, équitables et accessibles permettant de régler les différends et d'obtenir réparation lorsque les promesses faites ne sont pas tenues. Dans de nombreux pays, la difficulté est que de tels mécanismes sont faibles ou inexistants. Dans de nombreux pays, le système judiciaire est très surchargé et n'a ni le personnel, ni les compétences nécessaires pour régler les innombrables affaires dont il est appelé à connaître. En outre, dans certains pays, ce sont précisément les litiges fonciers qui constituent la majorité des affaires portées devant les tribunaux et qui sont fréquemment les plus difficiles à régler rapidement, les litiges fonciers pouvant s'éterniser dans les tribunaux de nombreuses années. L'homme de la rue considère souvent la saisine d'un tribunal comme un processus onéreux, laborieux, imprévisible
+et parfois même corrompu. En outre, le jargon des avocats et des tribunaux apparaît comme une langue étrangère et complexe.
+
+7.35 De tels problèmes ont un caractère systémique et dépassent de beaucoup le cadre du présent Guide. Certaines mesures peuvent néanmoins être adoptées pour mettre aussi bien les institutions juridiques formelles que les institutions de la société civile mieux à même de traiter les litiges fonciers. Pour ce qui est des tribunaux, les pouvoirs publics doivent examiner la question de savoir s'il existe parmi les magistrats des carences techniques ou un manque de connaissances spécifiques qui expliquent la difficulté qu'il y a à régler les questions foncières. La création de tribunaux spécialisés dans les questions foncières et l'application de méthodes novatrices de règlement des différends sont des questions qui retiennent de plus en plus l'attention.
+
+7.36 Enfin, l'on prend de plus en plus conscience de l'importance qu'il y a à mobiliser et à renforcer les mécanismes non étatiques de règlement des différends. Dans les pays occidentaux, l'on pourra par exemple avoir recours aux différents mécanismes d'arbitrage auxquels il a été fait allusion dans ce Guide. Dans d'autres pays, il faudra parfois renforcer les modèles communautaires existants, dont certains opèrent depuis longtemps parallèlement au système judiciaire officiel, parfois d'origine plus récente. Étudier la possibilité de tirer parti intelligemment de ces autres formules offertes par la société civile pourrait dans certains cas être le moyen le plus prometteur de réduire la charge qui pèse sur les systèmes judiciaires et de garantir l'accès à des mécanismes de règlement des différends qui soit en accord avec les normes, les coutumes et la langue des plaideurs.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+NOTES
+
+^1 Pour des informations de caractère général et des détails techniques, prière de se référer aux documents d'information établis pour la FAO, qui peuvent être demandés au Land Tenure Center, University of Wisconsin-Madison: Lastarria-Cornhiel, S. et Melmed-Sanjak, J. (1999) Land tenancy in Asia, Africa and Latin America: a look at the past and a view to the future. Working Paper No. 27. Land Tenure Center, University of Wisconsin-Madison; Ravenscroft, N., Gibbard, G. et Markwell, S. (1999) Private sector tenancy arrangements in Europe: themes and dimensions - a critical review of current literature. Working Paper No. 28. Land Tenure Center, University of Wisconsin-Madison.
+
+^2 Perrier-Cornet, P., Blanc, M., Cavailhes, J., Dauce, P. et Le Hy, A. (1991) Farm take-over and farm entrance within the EEC. Rapport interne. Bruxelles: CESCE-CEE-EAEC; Comité économique et social de la CE (1994) Opinion of young farmers and the problem of succession in agriculture. Rapport 573/94. Bruxelles: CES.
+
+^3 Les indications recueillies en Angleterre et au Pays de Galles, où la Loi de 1995 sur les baux agricoles a considérablement réduit la réglementation des nouveaux baux, démontrent que, plutôt que des exploitations tout entières, nombre de fermiers recherchent un «surcroît de superficies marginales» pour améliorer l'efficience de leurs exploitations existantes. La plupart des nouveau baux (plus de 90 pour cent) sont donc conclus avec des fermiers existants plutôt qu'avec des nouveaux exploitants [voir Errington, A., Millard, N. et Whitehead, I. (1998) The emerging shape of farm business tenancies. Document présenté à la RICS Research Conference ROOTS `98. Londres: RICS Research Foundation].
+
+^4 Au Botswana, la reforme progressive du régime foncier a conservé des éléments des systèmes coutumiers, y compris le droit d'octroi. Selon ce système, la terre est allouée aux ménages par les chefs tribaux. La terre demeure en leur possession aussi longtemps qu'ils la cultivent. Toutefois, ce droit d'usufruit peut être résilié par le chef, et toute ou partie de la terre réaffectée selon ce qu'exigent les circonstances. «Cela signifie que les droits fonciers individuels étaient subordonnés aux droits fonciers communaux que quiconque pouvait exercer selon que de besoin» [Kalabamu, F.T. (2000) land tenure and management reforms in East and Southern Africa - the case of Botswana. Land Use Policy 17(4): 305-319].
+
+^5 Des exemples d'accords de licence dans le contexte anglais et gallois sont mentionnés dans Stratton, R., Gregory, M. et Williams, R. (1983) Share farming: a guide for farmers and landowners. Londres: Country Landowners' Association; Midland Bank (1985) Practical share farming. Londres: Midland Bank; Spicer and Pegler (1983) Joint ventures in farming. Londres: Spicer and Pegler.
+
+^6 Ce débat se reflète dans le nombre croissant d'ouvrages consacrés aux effets pervers et au risque moral associés à la possession foncière (voir Riddell, J. Agricultural land leases and the development of effective land registration systems: Reference to FAO Central and Eastern European Member Nations, in Structural changes in the farming sectors of central and eastern Europe, C. Csaki and Z. Lerman. Washington: Banque mondiale). La relation commettant-préposé entre l'exploitant (préposé) et le propriétaire (commettant) variera selon l'étendue et la qualité de l'information dont chacun dispose au sujet de l'autre lors de la négociation de l'arrangement contractuel (métayage ou fermage).
+
+^7 «Les systèmes fonciers rationnels sont le fondement indispensable de pratiques agricoles durables. La libéralisation progressive de l'économie mondiale a fait apparaître encore plus clairement la nécessité de marchés fonciers ouverts et transparents et de transactions marchandes» [Riddell, J.C. (2000) Emerging trends in land tenure reform: progress towards a unified theory. Paper in SD Dimensions Series. Rome: FAO. (www.fao.org/WAICENT/FAOINFO/SUSTDEV/Ltdirect/Ltan0038.htm).
+
+^8 Le degré de protection dont jouit le fermier en Écosse, par exemple, est considéré comme un obstacle majeur à l'expansion du secteur des baux (Land Reform Policy Group, 1998, Identifying the problems. Édimbourg: Scottish Office).
+
+^9 Lastarria-Cornhiel, S. et Melmed-Sanjak, J. (1999) Land tenancy in Asia, Africa and Latin America: a look at the past and a view to the future. Working Paper No. 27. Land Tenure Center, University of Wisconsin-Madison.
+
+^10 Bien qu'appelée différemment dans les divers systèmes juridiques, l'occupation bénéfique reflète également les normes relatives à l'état et au soin de la terre. Pour éviter une sanction (comme la résiliation du bail), le fermier doit respecter ces normes, ce qui explique une responsabilité simultanée de la part du bailleur de veiller à ce que le fermier dispose du matériel fixe nécessaire pour s'acquitter de son obligation.
+
+^11 Dans leur examen de l'impact de la libéralisation des baux en Angleterre et au Pays de Galles, Errington et al (1998) ont constaté que les principaux bénéficiaires en avaient été les fermiers désireux d'accroître l'étendue de leurs exploitations. Ils sont parvenus ainsi à la conclusion que cette libéralisation avait libéré le marché foncier en l'étendant à des «superficies marginales supplémentaires» (voir la note 4 ci-dessus).
+
+^12 L'on peut en citer comme exemple le débat qui a débouché sur la promulgation de la Loi de 1995 relative aux baux agricoles en Angleterre et au Pays de Galles, qui a assoupli les restrictions imposées à la liberté de contracter du propriétaire (voir Gibbard, R. et Ravenscroft, N., 1997, `The reform of agricultural holdings law' in Jackson, P. & Wilde, D.C. (eds) The reform of property law. Aldershot: Dartmouth Publishing Co. Ltd. pp 111-126)
+
+^13 Les clauses de résiliation sont les dispositions du bail stipulant que celui-ci peut être résilié à des moments et à des fins spécifiques (par exemple si le bailleur a besoin de la terre pour recommencer à l'exploiter directement).
+
+^14 Voir Wulff, H. (1992) `Agrarian land law in Denmark', in Grossman, M.R. et Brussaard, W. (eds) Agrarian land law in the western world. Wallingford, Oxon: CAB International.
+
+^15 Voir Country Landowners' Association (1997) CLA farm business tenancy survey 1996. Londres: Country Landowners' Association; Millard, N., Whitehead, I. et Errington, A. (1999). Flexibility and farm business tenancies: to what extent is the industry making full use of the new-found freedom? Document présenté à la RICS Research Conference: ROOTS `99. Londres: RICS Research Foundation.
+
+^16 Wily (2000) a mis en relief le rôle que jouent les femmes dans l'agriculture et la nécessité pour toute reforme foncière de protéger leurs intérêts.
+
+^17 Dans son ouvrage sur les registres fonciers, Palmer (1999) a fait observer que l'enregistrement des éléments fondamentaux des transactions foncières offre à la fois information et sécurité à tous les intéressés. Il va de soi que le degré de protection dépend entièrement de la mesure dans laquelle les parties à un bail peuvent en faire respecter les dispositions, ce qui, en soi, dépend de la possibilité d'obtenir que la loi soit respectée [voir Palmer, D. (1999) Making land registration more effective. Land Reform, Land Settlement and Co-operatives 1999/1-2].
+
+^18 Voir par exemple la loi de 1976 réglementant différents aspects des exploitations agricoles qui, en Angleterre et au Pays de Galles, a accordé aux conjoints et enfants de fermiers décédés, sous réserve de répondre à certaines conditions de qualification, le droit d'être subrogés dans le bail.
+
+^19 La déréglementation des baux en Angleterre et au Pays de Galles a permis aux parties à un bail de s'entendre sur une durée appropriée à leurs besoins respectifs. Dans le cas de baux portant sur une terre marginale nue, la durée du bail est habituellement courte (généralement de un à trois ans). Dans le cas d'exploitations tout entières, la durée est plus longue étant donné qu'il faut plus longtemps aux fermiers pour s'établir et développer l'exploitation [Millard, N., Whitehead, I. et Errington, A. (1999). Flexibility and farm business tenancies: to what extent is the industry making full use of the new-found freedom? Document présenté à la RICS Research Conference: ROOTS `99. Londres: RICS Research Foundation].
+
+^20 Si un accord oral suffit généralement pour la location de petits lopins de terre sur une base annuelle, il n'en demeure pas moins que, selon la localité, il pourrait être approprié de suivre une autre approche. En particulier, les terres agricoles situées dans les régions urbaines et péri-urbaines peuvent avoir une grande valeur à d'autres fins, ce qui signifie que les propriétaires doivent pouvoir protéger cette valeur si l'on veut qu'ils louent leur terre à des fins agricoles pour des périodes de courte durée. En pareils cas, un accord écrit sera généralement mieux approprié.
+
+^21 Voir Wulff, H. (1992) `Agrarian land law in Denmark' in Grossman, M.R. et Brussaard, W. (eds) Agrarian land law in the western world. Wallingford, Oxon: CAB International.
+
+^22 Grossman, M.R. et Brussaard, W. (eds) Agrarian land law in the western world. Wallingford, Oxon: CAB International.
+
+^23 Voir Kalabamu, F.T. (2000) Land tenure and management reforms in East and Southern Africa - the case of Botswana. Land Use Policy 17(4): 305-319.
+
+^24 Voir Millard, N., Whitehead, I. et Errington, A. (1999). Flexibility and farm business tenancies: to what extent is the industry making full use of the new-found freedom? Document présenté à la RICS Research Conference: ROOTS `99. Londres: RICS Research Foundation.
+
+^25 Bien qu'il soit rationnel et juste de dissocier les obligations de réparation et d'entretien, la tendance, dans de nombreuses régions, est à faire supporter intégralement cette responsabilité aux fermiers. Pour la position en Angleterre et au Pays de Galles depuis la déréglementation des baux, voir Millard, et al (1999).
+
+^26 Bien que les baux agricoles en Angleterre et au Pays de Galles aient été applaudis pour leur flexibilité, les analyses initiales des reformes portent à conclure que la plupart des contrats de fermage ont continué d'être fondés sur les baux agricoles classiques [voir Millard, N., Whitehead, I. et Errington, A. (1999). Flexibility and farm business tenancies: to what extent is the industry making full use of the new-found freedom? Document présenté à la RICS Research Conference: ROOTS `99. Londres: RICS Research Foundation].
+
+^27 Cet argument est pleinement développé dans Ravenscroft, N., Gibbard, R. et Markwell, S. (1998) Private sector tenancy arrangements in Europe, volume 3: position paper. Rapport non publié à la FAO. School of Management Studies for the Service Sector, University of Surrey, Royaume-Uni. Voir également Ravenscroft, N., Gibbard, G. et Markwell, S. (1999) Private sector tenancy arrangements in Europe: themes and dimensions - a critical review of current literature. Working Paper No. 28. Land Tenure Center, University of Wisconsin-Madison.
+
+^28 Voir Lorvellec, L. 1992. `Agrarian land law in France', pp 51-70 in Grossman, M.R. et Brussaard, W. (eds) Agrarian land law in the western world. Wallingford, Oxon: CAB International.
+
+^29 Il ne faut pas perdre de vue que la propriété foncière comporte également des aspects économiques, tant que les petites exploitations familiales deviennent de moins en moins rentables dans de nombreux pays développés.
+
+^30 Voir Kerr, J. (1994) Farm business tenancies: new farms and land 1995-97. Londres: Royal Institute of Chartered Surveyors.
+
+^31 Voir Arnison, C. (1999) Land tenure and land markets in the transitional economies of Eastern Europe: a review of progress to date. Document présenté à la RICS Research Conference: ROOTS `99. Londres: RICS Research Foundation.
+
+^32 Voir Commission des Communautés européennes (1982) Factors influencing ownership, tenancy, mobility and use of farmland in the member states of the European Community. Luxembourg: Commission des Communautés européennes; Lipinsky, E. (1992) `The functions of taxation and farm credit in agrarian reforms and land tenure systems in EEC member countries', pp. 241-279 in Kern, E.S. (ed) International seminar on land reform and the problems of land legislation. Moscou et Rome: Académie Pan-Union des sciences agricoles et FAO.
+
+^33 Voir Kalabamu, F.T. (2000) Land tenure and management reforms in East and Southern Africa - the case of Botswana. Land Use Policy 17(4): 305-319.
+
+^34 Voir Melmed-Sanjak, J. et Lastarria-Cornhiel, S. (1998) Land access, off-farm income and capital access in relation to the reduction of rural poverty. Land Reform, Land Settlement and Co-operatives 1998/1: 5-18; Riddell, J.C. (2000) Emerging trends in land tenure reform: progress towards a unified theory. Paper in SD Dimensions Series. Rome: FAO. (www.fao.org/WAICENT/FAOINFO/SUSTDEV/Ltdirect/Ltan0038.htm).
+
+^35 En Allemagne, par exemple, la loi relative aux aliénations foncières limite le prix de vente des terres agricoles à 150 pour cent du prix de vente moyen de terres de qualité comparable.
+
+^36 Ciparisse, G. (1997) `Dynamiques foncières et agriculture en zones périurbaines'. Land Reform, Land Settlement and Co-operatives 1997/1: 67-73.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+BIBLIOGRAPHIE
+
+Anderson, H., (1995) `Landowners and farmers: implications of disparities in bargaining power for tenancy in agriculture', Agricultural Economics 12: 151-162,
+
+Arkleton Trust (Research) Ltd (1992) Farm household adjustment in western Europe 1987-1991. Luxembourg: Bureau des publications officielles des Communautés européennes.
+
+Biesele, M.A., Hubbard, D. et Ford, J. (1991) Land issues in Nyae Nyae: a communal areas example in Namibia. Windhoek: Nyae Nyae Development Foundation of Namibia.
+
+Blanc, M. et Perrier-Cornet, P. (1993) `Farm transfer and farm entry in the European community', Sociologica Ruralis XXXIII (3/4): 319-335.
+
+Braverman, A., Brooks, K.M. et Csaki, C. (eds) (1993) The agricultural transition in central and eastern Europe and the former USSR. Washington: Banque mondiale.
+
+Bruce, J. (1998) Learning from comparative experience with agrarian reform. In Barry, J. (ed) Proceedings of the International Conference on Land Tenure in the Developing World. Cape Town: University of Cape Town.
+
+Commission des Communautés européennes (1982) Factors influencing ownership, tenancy, mobility and use of farmland in the member states of the European Community. Luxembourg: Bureau des publications officielles des Communautés européennes.
+
+Commission des Communautés européennes (1987) Survey on farm structures. Luxembourg: Bureau des publications officielles des Communautés européennes.
+
+Commission des Communautés européennes (1991) Report on the Agricultural situation in the community. Luxembourg: Bureau des publications officielles des Communautés européennes.
+
+Cruz, J.R. et Muñoz, M.G. (1997) Situación actual de la coinversión y el arrendamiento de tierras en grupos del sector reformado de cuatro regiones de Honduras. Tegucigalpa: Secretaría de Recursos Naturales, Unidad de Planeamiento y Evaluación de Gestión: Instituto Nacional Agrario.
+
+Dulley, R.D. et Santos de Souza, Z.A.P. (1991) `A questão da decisão do proprietário em arrendamento agrícola: estudo de casos de Ituverava e Miguelópolis, São Paulo', Agricultura em Sao Paulo 38(3): 137-147.
+
+Duran, E. (1985) La mediería de tierras en una localidad de Ñuble. Serie Documentos de Trabajo, No. 24. Santiago: Grupo de Investigaciones Agrarias, Academia de Humanismo Cristiano.
+
+Comité économique et social de la Commission européenne (1994) Opinion of young farmers and the problem of succession in agriculture. Report 573/94. Strasbourg: Bureau des publications officielles des Communautés européennes.
+
+Commission européenne (1996) Young farmers and the problem of succession in European agriculture. Bruxelles: Bureau des publications officielles des Communautés européennes.
+
+Gibbard, R. et Ravenscroft, N. (1997) `The reform of agricultural holdings law', in Jackson, P. & Wilde, D.C. (eds) The reform of property law. Aldershot: Dartmouth Publishing Co. Ltd., pp. 111-126.
+
+Goodale, M.R.G. et Sky, P.K. (2001) A comparative study of land tenure, property boundaries and dispute resolution: case studies from Bolivia and Norway. Journal of Rural Studies 17(2): 183-200.
+
+Grossman, M.R. et Brussaard, W. (eds) Agrarian land law in the western world. Wallingford, Oxon: CAB International.
+
+Hagedorn, K. et Klare, K. (1986) `Farm cessation programs and tax problems', Landbauforschung Volkenrode, 36, Jahgang, Heft 1: 7-27.
+
+Herrera, A., Riddell, J. et Toselli, P. (1997) `Recent FAO experiences in land reform and land tenure', Land Reform, Land Settlement and Co-operatives 1997/1: 52-64.
+
+Horowitz, A. (1996) `Wage-homestead tenancies: technological dualism and tenant household size', Land Economics 72(3): 370-380.
+
+Banque internationale pour la reconstruction et le développement et Euroconsult (1995) Farm restructuring and land tenure in reforming socialist economies. A comparative analysis of Eastern and Central Europe. Washington: Banque mondiale.
+
+Kalabamu, F.T. (2000) Land tenure and management reforms in East and Southern Africa - the case of Botswana. Land Use Policy 17(4): 305-319.
+
+Kern, E.S. (ed) International seminar on land reform and the problems of land legislation. Moscou et Rome: Académie Pan-Union des sciences agricoles et FAO.
+
+Keily, G. et Reyniers, J. (1996) `Report on young farmers in the European Union', Spokesman's Service, Publication IP/96/819. Bruxelles: Commission européenne.
+
+Klare, K (1985) `Current market tension for farm land tenancy from farmers view and possibilities for government intervention', Landbauforschung Volkenrode 35, Jahgang, Heft 3: 114-126.
+
+Lastarria-Cornhiel, S. et Melmed-Sanjak, J. (1999) Land tenancy in Asia, Africa and Latin America: a look at the past and a view to the future. Working paper No. 27. Land Tenure Center, University of Wisconsin-Madison;
+
+Laxton, H., Hodge, I., et Davidson, G., (1987) Smallholdings under pressure. Cambridge: Granta Editions Ltd.
+
+Lerman, Z., Brooks, K. et Csaki, C. (1994) Land reform and farm restructuring in Ukraine. Discussion Paper No. 270. Washington: Banque mondiale.
+
+Mathuba, B.M. (1989) Report of the review of the Tribal Lands Act, land policies and related issues. Gaborone, Botswana: Government Printer.
+
+Mueller, B. (1997) `Property rights and the evolution of a frontier', Land Economics 73(1): 42-57.
+
+Ng'ong'ola, C. (1996) Customary law, land tenure and policy in some African countries at the threshold of the twenty-first century. In van Maanen, G.E. et van der Walt, A.J. (eds) Property law on the threshold of the twenty-first century. Anverse: Maklu.
+
+Northfield, Lord (1979) Report of the Committee of Inquiry into the acquisition and occupancy of agricultural land. HMSO, Londres.
+
+Palmer, D. (1999) Making land registration more effective. Land Reform, Land Settlement and Co-operatives 1999/1-2.
+
+Perrier-Cornet, P., Blanc, M., Cavailhes, J., Dauce, P., Le Hy, A. (1991) Farm take-over and farm entrance within the EEC. Rapport interne à la Cimmission européenne, CESCE-CEE-EAEC, Brusselles.
+
+Ravenscroft, N., Gibbard, G. et Markwell, S. (1999) Private sector tenancy arrangements in Europe: themes and dimensions - a critical review of current literature. Document de travail No. 28. Land Tenure Center, University of Wisconsin-Madison.
+
+Riddell, J. (2000) `Agricultural land leases and the development of effective land registration systems: Reference to FAO Central and Eastern European Member Nations'. Proceedings of the Second EU Accession Workshop (Warsaw 1999). Washington: Banque mondiale.
+
+Shivji, I.G. (1998) Not yet democracy: reforming land tenure in Tanzania. Document de travail. Dar Es Salaam: Faculté de droit, Université de Dar Es Salaam.
+
+Stockdale, A., Lang, A.J. et Jackson, R.E. (1996) `Changing land tenure patterns in Scotland: a time for reform?', Journal of Rural Studies, 12(4): 439-449.
+
+Symes, D. et Anton, J.J. (eds) (1994) Agricultural restructuring and rural change in Europe. Agricultural University, Wageningen, Pays-Bas.
+
+Commision économique des Nations Unies pour l'Europe (1996) Land administration guidelines with special reference to countries in transformation. New York: Organisation des Nations Unies.
+
+Commission économique des Nations Unies pour l'Europe/Organisation des Nations Unies pour l'alimentation et l'agriculture (1992) Specific problems of the transformation of collective farms into viable market oriented units. Bonn: Bureau régional des Nations Unies pour l'Europe.
+
+Wegren, S. (1998) Russian agrarian reform and rural capitalism reconsidered. Journal of Peasant Studies 26(1): 82-111.
+
+Werczberger, E. et Borukhov, E. (1999) The Israel Land Authority: relic or necessity? Land Use Policy 16(2): 129-138.
+
+Winter, M., Richardson, C., Short, C. et Watkins, C. (1990) Agricultural land tenure in England and Wales. Londres: Royal Institute of Chartered Surveyors.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières
+
+
+COUVERTURE ARRIERE
+
+Les informations présentées dans ces «Directives concernant les bonnes pratiques en matière de baux agricoles» visent à aider les gouvernements et la société civile à mieux comprendre comment fonctionnent les systèmes de location des terres agricoles et autres conventions similaires, et quels sont les avantages des arrangements équitables qui équilibrent les intérêts des différentes parties concernées - généralement le locataire et le propriétaire terrien. Pour ce faire, ces directives abordent le contexte institutionnel des systèmes de location des terres, mais elles visent aussi à fournir un guide pratique et des commentaires concernant les différents aspects que doivent prendre en considération le propriétaire et le locataire lors de la négociation d'un contrat de location.
+
+Ces directives ne peuvent pas fournir des conseils spécifiques pour chaque contexte institutionnel: elles se concentrent sur les recommandations et principes généraux valides pour de nombreuses régions. Elles examinent en fait ce que l'on peut considérer comme des «bonnes pratiques» en matière de location de terres, abordant les divers points qui devraient être inclus dans un contrat de bail, dans les contrats de métayage et de licence. Elles recommandent aussi diverses voies pour la mise en &#156;uvre concrète de ces bonnes pratiques. Les directives se terminent par un examen des divers facteurs contextuels des contrats de location, incluant des questions plus vastes telles que les politiques foncières, l'environnement fiscal et financier, les politiques d'aménagement du territoire et le contexte juridique.
+
+
+Page précédente Début de page

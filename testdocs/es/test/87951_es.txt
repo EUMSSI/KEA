@@ -1,0 +1,1680 @@
+Desarrollo de la Acuicultura - 1. Procedimientos Idóneos en la Fabricación de Alimentos para la Acuicultura
+
+
+
+ISSN 1020-5314
+
+FAO
+ORIENTACIONES
+TÉCNICAS
+PARA LA PESCA
+RESPONSABLE
+5
+Supl.1
+
+Indice
+
+
+ORGANIZACIÓN DE LAS NACIONES UNIDAS PARA LA AGRICULTURA Y LA ALIMENTACIÓN
+Roma, 2003
+
+Las denominaciones empleadas en esta publicación y la forma en que aparecen presentados los datos que contiene no implican, de parte de la Organización de las Naciones Unidas para la Agricultura y la Alimentación, juicio alguno sobre la condición jurídica de países, territorios, ciudades o zonas, o de sus autoridades, ni respecto de la delimitación de sus fronteras o límites.
+
+ISBN 92-5-304613-9
+
+Todos los derechos reservados. Se autoriza la reproducción y difusión de material contenido en este producto informativo para fines educativos u otros fines no comerciales sin previa autorización escrita de los titulares de los derechos de autor, siempre que se especifique claramente la fuente. Se prohibe la reproducción de material contenido en este producto informativo para reventa u otros fines comerciales sin previa autorización escrita de los titulares de los derechos de autor. Las peticiones para obtener tal autorización deberán dirigirse al Jefe del Servicio de Gestión de las Publicaciones de la Dirección de Información de la FAO, Viale delle Terme di Caracalla, 00100 Roma, Italia, o por correo electrónico a copyright@fao.org
+
+© FAO 2003
+
+
+Indice
+
+
+PREPARACIÓN DE ESTE DOCUMENTO
+
+ANTECEDENTES
+
+1. INTRODUCCIÓN
+
+2. DEFINICIÓN DE OBJETIVOS
+
+3. DEFINICIONES
+
+4. PANORAMA GENERAL SOBRE LA PRODUCCIÓN DE ALIMENTOS PARA LA ACUICULTURA
+
+5. LOCALIZACIÓN Y DISEÑO DE LOS MEDIOS DE PRODUCCIÓN
+
+6. SELECCIÓN Y ADQUISICIÓN DE LA MATERIA PRIMA INCLUYENDO EL CONTROL DE CALIDAD DE LOS INGREDIENTES
+
+7. RECEPCIÓN DE LOS INGREDIENTES
+
+8. ALMACENAMIENTO Y MANIPULACIÓN DE LOS INGREDIENTES Y LOS PRODUCTOS FINALES
+
+9. ELABORACIÓN DE LOS INGREDIENTES ALIMENTARIOS
+
+10. FORMULACIÓN Y FABRICACIÓN DE LOS ALIMENTOS
+
+11. ENVASADO Y ETIQUETADO
+
+12. ALMACENAMIENTO Y EXPEDICIÓN
+
+13. MÉTODOS DE MUESTREO Y ANÁLISIS
+
+14. RETIRO DEL MERCADO DE LOS PRODUCTOS DEFECTUOSOS O MAL ETIQUETADOS
+
+15. LIMPIEZA DE LA PLANTA DE PRODUCCIÓN Y SEGURIDAD EN EL TRABAJO; GESTIÓN GENERAL
+
+16. MANTENIMIENTO Y REPARACIÓN DE LA PLANTA DE PRODUCCIÓN
+
+17. PERSONAL
+
+18. DOCUMENTACIÓN
+
+19. REFERENCIAS
+
+APÉNDICE I: ESQUEMA DEL PROCEDIMIENTO PARA RETIRAR UN PRODUCTO DEL MERCADO
+
+APÉNDICE II: ESTUDIO DEL PRODUCTO Y DE SU RENDIMIENTO Y LISTA DE CONTROLES
+
+APÉNDICE III: MANTENIMIENTO PREVENTIVO EN LA PLANTA DE PRODUCCIÓN
+
+APÉNDICE IV: CÓDIGO PROVISIONAL DE PROCEDIMIENTOS PARA UNA CORRECTA ALIMENTACIÓN ANIMAL (FAO, 1998)
+
+CUBIERTA POSTERIOR
+Indice Página siguiente
+
+
+PREPARACIÓN DE ESTE DOCUMENTO
+
+Estas orientaciones fueron preparadas por el Departamento de Pesca de la FAO. Los primeros borradores fueron escritos por Q. Dick Stephen-Hassard (consultor) y Albert G.J. Tacon (ex Oficial de Recursos Pesqueros en el Servicio de Acuicultura y Recursos de Pesca Continental de la FAO), quienes han colaborado con la Secretaría de la Consulta de expertos de la FAO en alimentación animal y seguridad alimentaria celebrada en Roma del 10 al 14 de marzo de 1997; esta consulta produjo el primer Código provisional de prácticas para una correcta alimentación animal de la FAO (FAO, 1998. Alimentación animal y seguridad alimentaria. Documento de alimentación y nutrición (69) Roma, 48p)^[1].
+
+El documento cuenta con información proveniente de Asia, Europa, América del Norte, América del Sur y África, y representa un esfuerzo de colaboración internacional. Un borrador de estas orientaciones fue presentado por primera vez en febrero de 1998 en la Conferencia y Exposición Internacional Anual de la Sociedad de Acuicultura Mundial en Las Vegas, Nevada (Estados Unidos de América) y en marzo de 1998 en la Segunda Conferencia de Productores de Alimentos del Mediterráneo en Reus, España. Un breve manual titulado Orientaciones técnicas provisionales para la práctica adecuada de la fabricación de alimentos para la acuicultura fue publicado dentro del Directorio internacional de alimento acuático y guía de compradores de 1999 (Turret Rai PLC, Uxbridge, Reino Unido) con el fin de lograr una distribución más generalizada. Sobre la base de los comentarios recibidos acerca del manual (y con la adicional asistencia técnica de Warren G. Dominy y Susan Frazer-Dominy, del Instituto
+Oceánico de los Estados Unidos de América), un segundo borrador revisado fue enviado en marzo de 2001 a más de 200 representantes de la industria de fabricación de alimentos y alimentos acuícolas (incluyendo industrias afines, como las proveedoras de ingredientes de alimentos y de equipos para su fabricación y asociaciones de productores de acuicultura) en más de 50 países de las regiones más importantes del mundo. Las respuestas recibidas fueron tenidas en cuenta para concluir estas orientaciones.
+
+Estas orientaciones son preliminares y serán evaluadas y revisadas a la luz de la información que se obtenga a lo largo de su uso como apoyo al artículo 9 del Código de conducta para la pesca responsable de la FAO, relativo al desarrollo de la acuicultura, y en particular como apoyo a su artículo 9.4.3, referido a la selección y uso de alimentos y aditivos (FAO, 1999. Desarrollo de la acuicultura. Orientaciones Técnicas para la Pesca Responsable n°5. Roma. 54p)^[2].
+
+Distribución:
+
+Todos los Miembros y Miembros Asociados de la FAO
+Estados y organizaciones internacionales interesados
+Departamento de Pesca de la FAO
+Oficiales de Pesca de las Oficinas Regionales de la FAO
+Organizaciones no gubernamentales interesadas
+
+FAO Departamento de Pesca.
+Desarrollo de la acuicultura. 1. Procedimientos idóneos en la fabricación de alimentos para la acuicultura.
+FAO Orientaciones Técnicas para la Pesca Responsable. No. 5, Supl. 1. Roma, FAO. 2003. 49p.
+
+RESUMEN
+
+El documento presenta orientaciones técnicas para los procedimientos idóneos en la fabricación de alimentos para la acuicultura. Las orientaciones fueron elaboradas por la FAO como apoyo al artículo 9 del Código de conducta para la pesca responsable referido al desarrollo de la acuicultura (FAO, 1997), y en particular como apoyo a su artículo 9.4.3 dedicado a la selección y el uso de alimentos y aditivos. Las orientaciones tratan numerosos aspectos que van desde la adquisición de ingredientes, la fabricación, el almacenamiento de grandes volúmenes, la manipulación, el control y la documentación, hasta asuntos como la capacitación y la seguridad del personal, las relaciones con los clientes y el envío de los productos terminados al acuicultor. Sin embargo, los aspectos concernientes a la gestión y manejo de alimentos de acuicultura elaborados por los mismos acuicultores en su planta no están contemplados aquí, dado que serán considerados dentro de otra guía práctica que será
+elaborada posteriormente y que tratará sobre las prácticas adecuadas de la gestión de alimentos en la granja piscícola.
+
+Palabras clave: Acuicultura, alimentos para la acuicultura, garantía de calidad, ingredientes, adquisición, fabricación, almacenamiento.
+
+
+^[1] http://www.fao.org/docrep/W8901E/W8901E00.htm
+^[2] http://www.fao.org/DOCREP/003/W4493S/W4493S00.htm
+
+
+Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+ANTECEDENTES
+
+Desde la antigüedad la pesca ha sido una fuente importante de alimentos para la humanidad y de empleo y beneficios económicos para quienes se dedican a esta actividad. Sin embargo, el aumento de los conocimientos y la evolución dinámica de la pesca demostró que, aunque renovables, los recursos acuáticos no son infinitos y es necesario explotarlos de manera apropiada para que sigan contribuyendo al bienestar nutricional, económico y social de una población mundial en constante crecimiento.
+
+En 1982 la Convención de las Naciones Unidas sobre el Derecho del Mar proporcionó un nuevo marco para mejorar la gestión de los recursos marinos. El nuevo régimen jurídico de los océanos confirió a los Estados costeros derechos y responsabilidades para la administración y la utilización de los recursos pesqueros dentro de sus zonas de jurisdicción nacional, que comprenden alrededor del 90 por ciento de la pesca marina mundial.
+
+En los últimos años, la pesca mundial se ha convertido en un sector de la industria alimentaria con una evolución dinámica, y muchos Estados han procurado aprovechar sus nuevas oportunidades invirtiendo en flotas pesqueras y plantas de elaboración modernas, en respuesta a la creciente demanda internacional de pescado y productos derivados. Sin embargo, se puso de manifiesto que muchos recursos pesqueros no podrían soportar un aumento a menudo incontrolado de la explotación.
+
+Comenzaron a observarse signos claros de sobreexplotación de importantes poblaciones de peces, modificaciones de ecosistemas, pérdidas económicas considerables y conflictos internacionales en relación con la administración y el comercio pesqueros que representaban una amenaza para la sostenibilidad a largo plazo de la pesca y su contribución al suministro de alimentos. Por consiguiente, el Comité de Pesca de la FAO (COFI), en su 19° período de sesiones celebrado en marzo de 1991, recomendó que se adoptaran con urgencia nuevos enfoques para la administración de la pesca que comprendieran la conservación y los aspectos ecológicos, así como los sociales y económicos. Se pidió a la FAO que desarrollara el concepto de pesca responsable y elaborara un código de conducta para fomentar su aplicación.
+
+Posteriormente, el Gobierno de México, en colaboración con la FAO, organizó en mayo de 1992 una Conferencia Internacional sobre la Pesca Responsable en Cancún. La Declaración de Cancún, aprobada en dicha Conferencia, se presentó en julio de 1992 en la Cumbre de Río de la CNUMAD, en la cual se respaldó la preparación de un Código de conducta para la pesca responsable. En la Consulta técnica de la FAO sobre la pesca en alta mar, celebrada en septiembre de 1992, se recomendó asimismo la elaboración de un código que se ocupara de las cuestiones relativas a ese tipo de pesca.
+
+En su 102° período de sesiones, celebrado en noviembre de 1992, el Consejo de la FAO examinó la elaboración del código, recomendando que se concediera prioridad a las cuestiones relativas a alta mar, y pidió que se presentaran propuestas en el período de sesiones de 1993 del Comité de Pesca.
+
+En su 20° período de sesiones, celebrado en marzo de 1993, el COFI examinó en general el marco propuesto y el contenido de dicho código, incluida la preparación de orientaciones, y aprobó un calendario para la ulterior elaboración del código. También pidió a la FAO que preparase, «por la vía rápida» y como parte de éste, propuestas para impedir cambios de pabellón de los buques de pesca que afectaran las medidas de conservación y administración en alta mar. En consecuencia, la Conferencia de la FAO, en su 27° período de sesiones celebrado en noviembre de 1993, aprobó el Acuerdo para promover el cumplimiento de las medidas internacionales de conservación y gestión por los buques pesqueros que pescan en alta mar, el cual, según la Resolución 15/93 de la Conferencia de la FAO, forma parte integrante del código.
+
+El código se formuló de manera que se interpretase y aplicase conforme a las normas pertinentes del derecho internacional, tal como estaban recogidas en la Convención de las Naciones Unidas sobre el Derecho del Mar de 1982, así como en concordancia con el Acuerdo para la aplicación de las disposiciones de la Convención de las Naciones Unidas sobre el Derecho del Mar del 10 de diciembre de 1982 relativo a la conservación y gestión de las poblaciones de peces cuyos territorios se encuentran dentro y fuera de las zonas económicas exclusivas y las poblaciones de peces altamente migratorias,S de 1995, y a la vista, entre otras cosas, de la Declaración de Cancún de 1992 y la Declaración de Río sobre el Medio Ambiente y el Desarrollo de 1992, en particular el Capítulo 17 del Programa 21.
+
+La FAO elaboró el código en consulta y colaboración con los organismos pertinentes de las Naciones Unidas y otras organizaciones internacionales, entre ellas organizaciones no gubernamentales.
+
+El Código de conducta tiene cinco artículos introductorios: naturaleza y ámbito; objetivos; relación con otros instrumentos internacionales; aplicación, seguimiento y actualización; y necesidades especiales de los países en desarrollo. Estos artículos introductorios van seguidos de un artículo en el que se exponen principios generales y seis artículos temáticos sobre: gestión pesquera, operaciones pesqueras, desarrollo de la acuicultura, integración de la pesca en la administración de la zona costera, prácticas postcaptura y comercio, e investigación pesquera. Como ya se ha señalado, el Acuerdo para promover el cumplimiento de las medidas internacionales de conservación y gestión por los buques pesqueros que pescan en alta mar forma parte integrante del código.
+
+El código tiene carácter voluntario. Sin embargo, ciertas partes están basadas en las principales normas del derecho internacional, tal como aparecen en la Convención de las Naciones Unidas sobre el Derecho del Mar del 10 de diciembre de 1982. El código también contiene disposiciones a las que se puede conferir o haber conferido ya carácter vinculante mediante otros instrumentos jurídicos obligatorios entre las partes, como el Acuerdo para promover el cumplimiento de las medidas internacionales de conservación y gestión por los buques pesqueros que pescan en alta mar, de 1993.
+
+En su 28° período de sesiones, la Conferencia aprobó, mediante la Resolución 4/95, el Código de conducta para la pesca responsable, el 31 de octubre de 1995. En la misma resolución se pidió a la FAO, entre otras cosas, que elaborara orientaciones técnicas apropiadas que facilitaran la aplicación del código, en colaboración con los miembros y otras organizaciones pertinentes interesadas.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+1. INTRODUCCIÓN
+
+* Estas orientaciones técnicas para los procedimientos idóneos en la fabricación de alimentos para la acuicultura han sido preparadas por el Departamento de Pesca de la FAO como apoyo al artículo 9 del Código de conducta para la pesca responsable referido al desarrollo de la acuicultura (FAO, 1997) y en particular como apoyo al artículo 9.4.3 de dicho código relativo a la selección y uso de alimentos y aditivos.
+* El propósito de esta publicación es incentivar la adhesión a los procedimientos idóneos de fabricación durante el aprovisionamiento, manipulación, almacenamiento, procesamiento y distribución de alimentos acuícolas elaborados para animales de granjas acuícolas.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+2. DEFINICIÓN DE OBJETIVOS
+
+* El propósito de los productores de alimentos debe ser abastecer a sus clientes con productos de buena calidad, asumiendo esa responsabilidad mediante la implementación de procesos de control de calidad eficaces.
+* Asegurar la calidad es responsabilidad directa de todos los empleados de la planta de producción, y cada uno estará obligado a seguir las prácticas adoptadas con el fin de implementar procedimientos idóneos de fabricación en la producción de alimentos acuícolas manufacturados.
+* Los alimentos acuícolas de calidad solamente pueden elaborarse utilizando ingredientes de calidad, y no de categoría inferior, descompuestos, deteriorados o contaminados, siendo la protección de la salud humana y animal el requisito principal en la producción de alimentos acuícolas de buena calidad y costo conveniente (D'Mello, 2001; Machin, 2001).
+* La capacitación y la asistencia son indispensables para que los trabajadores, expertos o no, resuelvan los problemas y realicen las tareas de una manera que asegure la manufactura de productos alimentarios de alta calidad. Cada empleado deberá hacer el esfuerzo necesario para implementar este programa, porque asegurar la calidad es vital para la eficacia de los alimentos acuícolas que se producen y, en consecuencia, para el éxito de la empresa.
+* También es responsabilidad del productor de alimentos informar al acuicultor, a través de etiquetas con instrucciones y de manuales técnicos, acerca del método correcto de la manipulación y uso de los alimentos según las especies particulares y los sistemas de acuicultura para los cuales se hayan destinado (Davis, 2001).
+* El productor de alimentos debería esforzarse por manifestar a sus clientes y empleados que se encuentra comprometido en implementar métodos de producción adecuados y en llevar a cabo con continuidad un programa para mejorar el resultado final del producto alimentario y minimizar el impacto ambiental.
+* En lo posible, el productor del alimento debe trabajar en conjunto con los acuicultores, no sólo para aumentar la producción sino también para mejorar las prácticas de acuicultura que pudieran afectar el ambiente o tener otros impactos negativos (Davis, 2001).
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+3. DEFINICIONES
+
+* Acondicionado, acondicionamiento: (Proceso) Modificar los ingredientes o su mezcla para darles características predeterminadas de humedad y/o temperatura previamente a un proceso ulterior (AAFCO, 2000).
+* Aditivo: Ingrediente o combinación de ingredientes añadidos a la mezcla base del alimento o a parte de ésta para satisfacer una necesidad específica. Normalmente se utiliza en microcantidades y requiere un mezclado y una manipulación cuidadosos (AAFCO, 2000).
+* Agente nocivo: Agente biológico, químico o físico presente en los alimentos que puede causar efectos dañinos para la salud (FAO/OMS, 1997).
+* Alimento(s): Sustancia(s) comestible(s) consumida(s) por los animales que aportan energía y/o nutrientes a su dieta. Se usa normalmente para referirse al consumo animal y no humano (AAFCO, 2000).
+* Alimento completo: Alimento que aporta la nutrición adecuada destinado a animales (no al hombre). Por su fórmula específica, está preparado para ser consumido como única ración y es capaz de mantener con vida y/o promover la producción sin que sea necesario proporcionar ninguna sustancia adicional, excepto agua (AAFCO, 2000).
+* Alimento compuesto: Mezcla de productos de origen vegetal o animal en su estado natural (frescos o conservados), productos derivados de un procesamiento industrial o sustancias orgánicas o inorgánicas, contengan o no aditivos, que constituyen un alimento completo para suministro oral (HMSO, 1992; véase también «Alimento según fórmula»).
+* Alimentos fabricados por el acuicultor: Alimentos presentados en gránulos u otras formas, que consisten en uno o más piensos artificiales y/o naturales, producidos para el uso exclusivo de una particular actividad acuícola, no para la venta comercial o el provecho económico (New, Tacon y Csavas, 1995).
+* Alimento puro: Producto vegetal o animal en su estado natural, ya sea fresco o conservado, productos derivados de éste por procesos de elaboración industriales ulteriores y cualquier sustancia simple orgánica o inorgánica, contenga o no aditivos, concebida para la alimentación (HMSO, 1992).
+* Alimento según fórmula: Alimento que resulta de la combinación de dos o más ingredientes, mezclados y procesados según determinadas especificaciones (AAFCO, 2000).
+* Alimento con medicación: Alimento que contiene ingredientes medicinales, concebido o presentado para la cura, alivio, tratamiento o prevención de enfermedades animales (no humanas) o para influir sobre la estructura o cualquier función del cuerpo de éstos (AAFCO, 2000).
+* Cocción al vapor: (Proceso) Someter los ingredientes al vapor para alterar sus propiedades físicas y/o químicas (AAFCO, 2000).
+* Cocido, cocción: Calentar, en presencia de humedad, para alterar las características químicas y/o físicas de un elemento o para esterilizarlo (AAFCO, 2000).
+* Comida: Sustancia elaborada, semielaborada o cruda destinada al consumo humano. Incluye bebidas, goma de mascar y cualquier sustancia que se use en su producción, preparación o tratamiento. No incluye cosméticos, tabaco ni sustancias utilizadas sólo como medicinas (FAO/OMS, 1999).
+* Concentrado: Alimento combinado con otro para mejorar el balance nutritivo del producto y que será posteriormente diluido y mezclado para producir un suplemento o un alimento completo (AAFCO, 2000).
+* Desmenuzado, desmenuzamiento: (Proceso) Reducir a forma granular (AAFCO, 2000).
+* Dieta: Ingredientes o mezcla de ingredientes alimentarios, incluyendo agua, que son consumidos por animales (AAFCO, 2000).
+* Diluyente: (Forma física) Sustancia comestible que se mezcla con el fin de reducir alimentos concentrados y/o aditivos, para hacerlos más aceptables por los animales, más seguros de usar y con más capacidad de ser mezclados uniformemente en un alimento. También puede actuar como vehículo (AAFCO, 2000).
+* Empastillado: (Proceso) Obtención de alimento aglomerado mediante la compactación y forjadura en moldes (AAFCO, 2000).
+* Etiqueta: Tarjeta, marca, distintivo, ilustración o cualquier otro elemento descriptivo escrito, estampado, estarcido, marcado, tallado, impreso o pegado en un envase de alimento (FAO/OMS, 1999).
+* Expandido, expansión: (Proceso) Someter una sustancia a humedad, presión y temperatura para gelatinizar la parte de almidón. Una vez extruida, se logra incrementar su volumen mediante una gran reducción de la presión (AAFCO, 2000).
+* Extruido, extrusión: (Proceso) Ejercer presión para comprimir, empujar y expulsar el alimento a través de orificios (AAFCO, 2000).
+* Fecha de envasado: Fecha en la cual el alimento se deposita en el envase en el cual será finalmente vendido (FAO/OMS, 1999).
+* Fecha de producción: Fecha en la cual el alimento se convierte en el producto tal como ha sido concebido (FAO/OMS, 1999).
+* Filtrado: (Proceso) Pasaje de materiales a través de un filtro metálico para separarlos en partículas, de diferentes tamaños según el filtro utilizado. Para obtener partículas más finas se emplea un tamiz (AAFCO, 2000).
+* Gelatinizado, gelatinización: (Proceso) Fracturar completamente los gránulos de almidón mediante una combinación de humedad, calor y presión, y en algunos casos mediante un cortador mecánico (AAFCO, 2000).
+* Gestión de riesgos: Evaluar políticas alternativas a la luz de los resultados del análisis de riesgos y, si fuera necesario, seleccionar e implementar medidas de control apropiadas, incluyendo reglamentaciones (FAO/OMS, 1997).
+* HACCP: Análisis de peligros y de puntos críticos de control. Sistema que identifica, evalúa y controla los riesgos que resultan relevantes para la seguridad de los alimentos (FAO/OMS, 1997).
+* Harina de gambas: (Ingrediente de alimentos) Desecho de partes y/o de toda la gamba, no descompuesto, molido y seco. Si contiene más del 3 por ciento de sal (NaCl), la cantidad debe figurar en la etiqueta, sin exceder en ningún caso el 7 por ciento (AAFCO, 2000).
+* Harina de pescado: (Ingrediente de alimentos) Tejido limpio, seco y molido de pescado entero o en trozos, no descompuesto, con o sin todo su aceite. No debe contener más del 10 por ciento de humedad. Si contiene más del 3 por ciento de sal (NaCl), la cantidad debe figurar en la etiqueta, sin exceder en ningún caso el 7 por ciento (AAFCO, 2000).
+* Harina: (Forma física) Ingrediente que ha sido desmenuzado o reducido de alguna otra manera al tamaño de partículas (AAFCO, 2000).
+* Ingrediente, ingrediente alimentario: Uno de los componentes o el constituyente principal de cualquier mezcla o combinación que constituye un alimento comercial (AAFCO, 2000).
+* Irradiado, irradiante: (Proceso) Tratar, preparar o alterar una sustancia por exposición a una radiación específica (AAFCO, 2000).
+* Marcado: Cualquier elemento escrito o gráfico que figura en la etiqueta, acompaña el alimento o se encuentra colocado cerca de éste, incluyendo los que tienen propósitos promocionales, de venta o referidos a la distribución (FAO/OMS, 1999).
+* Microingredientes: Vitaminas, minerales, medicinas y otras sustancias que normalmente se utilizan en pequeñas cantidades y se miden en miligramos, microgramos o partes por millón (ppm) (AAFCO, 2000).
+* Molido, molienda: (Proceso) Reducir el tamaño de las partículas por impacto, corte o fricción (AAFCO, 2000).
+* Pastilla: (Forma física) Alimento aglomerado formado en un molde por un proceso mecánico de compactación (AAFCO, 2000).
+* Premezcla: Mezcla uniforme de uno o más microingredientes con un diluyente y/o un vehículo. Las premezclas son utilizadas para facilitar la dispersión uniforme de los microingredientes en una mezcla mayor (AAFCO, 2000).
+* Premezclado: (Proceso) Mezclar en primer término los ingredientes con diluyentes y/o vehículos (AAFCO, 2000).
+* Puré: (Forma física) Mezcla de ingredientes en forma de harina (AAFCO, 2000).
+* Ración: Cantidad total de alimento que se suministra a un animal en un período de 24 horas (AAFCO, 2000).
+* Riesgo: Probabilidad de efectos adversos sobre la salud de poblaciones expuestas, como consecuencia de la presencia de agentes nocivos en los alimentos (FAO/OMS, 1997).
+* Suplemento: Alimento usado en combinación con otro para mejorar el balance nutricional o el resultado de esa mezcla y concebido para: i) utilizar sin diluir, como suplemento de otro alimento; ii) ofrecerlo separadamente y a libre elección como parte de la ración disponible o iii) diluirlo y mezclarlo con otros para conformar un alimento completo (AAFCO, 2000).
+* Tamizado, tamizar: (Proceso) Separar un material pasándolo a través de tamices hasta obtener partículas de tamaños variados (AAFCO, 2000).
+* Tratamiento térmico: (Proceso) Someter sustancias a un método de preparación que comporta el uso de elevadas temperaturas, con o sin presión (AAFCO, 2000).
+
+Para definiciones adicionales de los términos alimentarios y de los ingredientes alimentarios véase AAFCO (2000).
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+4. PANORAMA GENERAL SOBRE LA PRODUCCIÓN DE ALIMENTOS PARA LA ACUICULTURA
+
+* Aunque la acuicultura existe desde fechas remotas de la historia del hombre en Asia, Europa y las islas del Pacífico (Stickney, 2000), solamente en las últimas décadas ha comenzado a alcanzar al resto de la agricultura animal en cuanto ciencia de fabricación de alimentos y nutrición.
+* Actualmente la acuicultura representa el segmento de más rápido crecimiento dentro de la agricultura y la industria de producción de alimentos animales, particularmente en China continental y en Asia, donde hoy en día se lleva a cabo más del 90 por ciento de la producción global de acuicultura (Akiyama y Hunter, 2000; Tacon y Forster, 2000).
+* La manufactura de alimentos para la acuicultura presenta un desafío especial al tradicional concepto de producción de alimentos, debido al medio acuático donde el alimento tiene que ser depositado e ingerido y a la pequeña dimensión y a la variedad de animales que se cultivan. Por ejemplo, especies que se alimentan lentamente, como las gambas marinas, requieren la producción de alimentos que sean físicamente estables en agua por varias horas. Además, los animales de las granjas acuícolas son generalmente mucho más pequeños que los terrestres, como por ejemplo cerdos, aves y ganado; las gambas marinas pueden comercializarse en cantidades tan pequeñas como 20 gramos.
+Como consecuencia, la producción de alimentos para las especies acuáticas requiere un mayor grado de precisión, siendo necesaria la reducción de las partículas de los ingredientes a dimensiones tan pequeñas como 50 micrones o la mezcla exacta de hasta cuatro docenas de ingredientes en un alimento que es muy pequeño en comparación con el suministrado a animales terrestres (para una visión general ver Akiyama y Tan, 1991; Barrows, 2000; Barrows y Hardy, 2000; Bartone, 1999; Dominy, 1994; Dominy et al., 1994; Erickson, 2000; Langdon, 2000a, 2000b; McEllhiney, 1994; Rokey, 2001; Tan y Dominy, 1997).
+* Estas son las apremiantes razones por las cuales muchas modernas fábricas dedicadas a alimentos acuáticos a menudo emplean estándares de calidad propios de la comida humana en su producción. A estos estándares más altos en la producción se les suman estándares de calidad más elevados y precios más caros respecto de los ingredientes usados para preparar alimentos destinados a animales cultivados, a menudo muy sensibles a los componentes de su dieta (Boonyaratpalin y Chittiwan, 1999; Barrows y Hardy, 2000).
+* Los principios del procedimiento de Análisis de peligros y de puntos críticos de control pueden aplicarse en la acuicultura (FAO/NACA/OMS, 1999; Nickelson, 1998; Reilley y Kaferstein, 1997) y en la producción de alimentos acuícolas (Hardy, 1991) si justifican verdaderamente el costo, en términos de proporcionar científicamente una adecuada protección a la salud animal y humana. Es necesario identificar los puntos críticos de control y en este sentido el Código provisional para la práctica de la pesca y productos de pesca de la FAO/OMS (FAO/OMS, 2000a), que incluye una sección especial (sección 16) acerca de la producción acuícola, proporciona un modelo que puede de ser adaptado a la actividad que nos ocupa.
+* La aplicación mundial de los procedimientos idóneos de fabricación representados en estas orientaciones técnicas se ha demostrado acertada para la producción de alimentos efectivos y saludables (Whitehead, 1998). Consecuentemente, los impactos adversos en la salud humana o animal provocados por piensos compuestos han sido insignificantes (FAO, 1998).
+* Aunque la limpieza de los ingredientes es importante, en última instancia la salubridad de los alimentos dependerá de su calidad (Jones, 2000), así como de la aplicación de tratamientos para eliminar organismos que dan lugar a enfermedades, por ejemplo, Salmonela (Anon. 2001; FAO, 1998; D'Mello, 2001; Gill, 1999; Machin, 2001; Pearl, 2000; Said, 1996; Van De Venter, 2000), y para prevenir la posibilidad de recontaminación después de que la peletización o la extrusión se han completado (Beumer and Van der Poel, 1997).
+* La administración de la granja de acuicultura es el factor que tiene mayor impacto en la salubridad del producto, que compromete la salud de los consumidores animales y humanos. La destrucción de agentes patógenos y la reducción de factores tóxicos implica un trabajo de equipo en todos los niveles de producción, desde el campo a la planta de producción, procesamiento y envasado y de allí a la granja, así como el cuidado en la preparación por parte del usuario final (FAO, 1998; FAO/NACA/OMS, 1999; Howgate, 1998; Spencer Garrett, dos Santos y Jahncke, 1997; Sutmoller, 1998).
+* La investigación es necesaria para demostrar los beneficios que aportan a la gestión los programas de garantía de calidad y de alimentos libres de patógenos. Los tests microbiológicos tradicionales para patógenos son normalmente demasiado lentos para volver practicable el análisis de peligros y de puntos críticos de control en el caso de los alimentos acuícolas (Cahill, 2000; FAO/OMS, 1995; FAO/OMS, 2000b).
+* De hecho, aunque no todos los procedimientos idóneos de fabricación siguen los criterios del análisis de peligros y de puntos críticos de control en su totalidad, algunos de ellos se encuadran globalmente en ese sistema, y es importante que los productores de alimentos acuícolas utilicen un programa que reduzca al mínimo los efectos adversos para la salud animal y humana, mientras que continúan mejorando la producción de alimentos (Lobo, 2000). La contaminación por aves y roedores del alimento elaborado podría ser el principal obstáculo que sea necesario superar (Fedorka-Cray and Lautner, 1996).
+* Todavía queda mucho por investigar para determinar los requisitos exactos de la dieta de una gran variedad de especies acuícolas (Forster, 2000; Lovell, 1997; Shiau, 1998); cuando esta información se encuentre disponible, será inevitable implementar modificaciones en el diseño y el funcionamiento de la fábrica de alimentos acuícolas. Por esta razón, el productor actual debería administrar sus plantas con flexibilidad y tener en cuenta los descubrimientos que están ocurriendo mientras se escriben estas mismas orientaciones.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+5. LOCALIZACIÓN Y DISEÑO DE LOS MEDIOS DE PRODUCCIÓN
+
+* El diseño y la localización de la fábrica deberían estar determinados por sus clientes, tomando en consideración, como factores importantes, las condiciones del suelo y si el área es o no propensa a inundaciones (Parr, 1988).
+* Es importante que la planta esté situada en un lugar tal que los efectos derivados de las condiciones de humedad sean minimizados y que el área se mantenga libre de malezas y arbustos.
+* Es igualmente importante tener en cuenta la infraestructura local del transporte, de modo que los cruces ferroviarios, los muelles y las autopistas puedan utilizarse para la recepción de las materias primas, y también que resulte favorable desde el punto de vista de la comodidad y la rentabilidad para expedir el producto a los acuicultores que deberán recibir el alimento.
+* Las áreas propensas a inundaciones, mareas altas e incendios en lo posible deben evitarse. Es importante recordar que si no puede entregarse el alimento en el tiempo previsto por inundación u otros desastres naturales, el fabricante no será el único perjudicado, sino que extenderá ese perjuicio al acuicultor.
+* Es importante localizar la planta de manera que ampliaciones futuras de las instalaciones puedan realizarse rentablemente. Desde el principio, el equipamiento tiene que ser de un tamaño y diseño tales que permitan la expansión y la sustitución sencilla de la maquinaria cuando aparezcan nuevas técnicas de elaboración y/o cambien las especies acuícolas. La flexibilidad en el diseño es vital para que el establecimiento siga siendo competitivo a lo largo del tiempo.
+* Los factores de seguridad e higiene tienen que ser considerados en el diseño de la planta. Los edificios deben ser proyectados de manera de prevenir la entrada y desarrollo de parásitos y aves.
+* La limpieza y el mantenimiento de todos los edificios así como evitar áreas que no puedan limpiarse son factores que deben considerarse en el diseño, la construcción y la selección de materiales.
+* La propiedad debe concebirse de tal modo que pueda prevenir y/o solucionar cualquier pérdida o fallo de la fábrica. En áreas húmedas el ascensor y las cavidades de contención deben tener un drenaje (y/o bombas de succión) para prevenir la acumulación de agua (McEllhiney, 1994).
+* Es importante también que la planta de producción respete las reglas de convivencia de la comunidad en la que está inserta y constituya una fuerza positiva, ajustando su diseño, cumpliendo con las normas de seguridad e higiene y las regulaciones medio ambientales y manteniendo siempre un aspecto limpio y prolijo.
+* Las inspecciones regulares de la dirección son importantes para garantizar el buen aspecto exterior y un alto estándar de limpieza, así como para asegurar que todo el equipamiento funcione de acuerdo con las normas específicas.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+6. SELECCIÓN Y ADQUISICIÓN DE LA MATERIA PRIMA INCLUYENDO EL CONTROL DE CALIDAD DE LOS INGREDIENTES
+
+* Los alimentos de calidad tienen su origen en ingredientes de calidad y es responsabilidad del productor cerciorarse de que aquellos que integran sus alimentos sean sanos y seguros.
+* Con este fin, el jefe de compras debe disponer de una lista de los ingredientes necesarios y comprar solamente a proveedores reputados, que cumplan con los estándares fijados por la empresa para la adquisición. (Boonyaratpalin y Chittiwan, 1999; Pike y Hardy, 1997; Sitasit, 1995).
+* Idealmente los proveedores de mercadería y las compañías subsidiarias a quienes se compran los ingredientes de los alimentos deberían proporcionar al cliente especificaciones exactas acerca de los productos que adquiera.
+* Es inevitable que la calidad de los ingredientes varíe, aun proviniendo del mismo proveedor, de lote a lote y/o de mes en mes; es importante que estas oscilaciones sean detectadas y controladas.
+* Para asegurarse de que los ingredientes cumplen con las especificaciones, el personal que controla la calidad nutritiva de los alimentos debe llevar a cabo un muestreo periódico (Cruz, 1996; Dong y Hardy, 2000).
+* Además de las características nutricionales y analíticas de los ingredientes, las especificaciones deberán incluir: orígenes y fuentes, cualquier detalle significativo del proceso previo, peligros o limitaciones, información variada que incluya el grado de humedad contenido y los posibles contaminantes no nocivos (piedras, arena, etc.) (Kangleon, 1994; Polidori y Renaud, 1995; Tan, 1993).
+* Todos los ingredientes que llegan a la planta deben ser examinados; es necesario leer sus etiquetas para verificar si contienen drogas medicinales, restos de minerales u otros aditivos.
+* En el caso de que el análisis indique que un ingrediente no cumple las especificaciones requeridas y su proveedor suministre continuamente ingredientes inferiores al nivel medio, este último deberá ser borrado de la lista de proveedores.
+* Para readmitir a un proveedor, éste debe demostrar que ha tomado las medidas oportunas para corregir las deficiencias.
+* Todas las especificaciones del ingrediente tienen que ser actualizadas anualmente o según se considere necesario, para asegurar que su utilización en fórmulas sea coherente con orientaciones actualizadas, es decir con los últimos conocimientos en materia de salud alimentaria. El jefe de producción es responsable de controlar la lista de especificaciones, en colaboración con el jefe de compras.
+* Los granos u otras materias primas usados en la fabricación de los alimentos acuícolas que estén mohosos, teñidos o descoloridos no deben utilizarse para elaborar ningún alimento o comida.
+* Los granos de color brillante indican generalmente que han sido tratados para usarlos como raticida o para el control de otras plagas; pueden ser altamente tóxicos para los animales acuáticos y el hombre.
+* Las micotoxinas que se encuentran en los ingredientes mohosos, inclusive en concentraciones muy bajas, de algunas partes por billón, tienen efectos perjudiciales para las especies acuáticas cultivadas (Li, Raverty y Robinson, 1994; Meronuck y Xie, 2000). Existen más de cien micotoxinas distintas y su impacto sobre las especies acuícolas todavía no ha sido bien aclarado (Lovell, 2000; Trigo-Stocki, 1994).
+* De la misma manera, bajas concentraciones de pesticidas o residuos veterinarios no solamente pueden causar serios efectos en la producción de numerosas especies de acuicultura sino que la acumulación de tales residuos puede tornar invendibles las especies acuáticas, si se superan los niveles límite de las regulaciones locales (Boyd y Massaut, 1999; FAO/OMS, 1996; FAO/NACA/OMS, 1999; FAO/OMS, 2000; GESAMP, 1997; Poh Sze, 2000; Spencer-Garrett, dos Santos y Jahncke, 1997).
+* Las compañías de producción de alimentos acuícolas y sus instalaciones tienen que cumplir con todas las regulaciones gubernamentales (Boonyaratpalin y Chittiwan, 1999; Boyd, 1999). Un ejemplo de guía de cumplimiento se encuentra en la Publicación oficial de los oficiales americanos de control alimentario (Asociación de Oficiales Americanos de Control Alimentario, 2000): se trata de un formulario de inspección de fábricas de alimentos. Este formulario puede ser utilizado tan sólo como lista de control o ser impuesto por el jefe de producción como una guía general para la fábrica.
+* Es útil que el productor de alimentos acuícolas conozca bien las instalaciones receptoras del cliente (Preston, 1995), para asegurar dentro de lo posible el cuidado y el uso correctos de los alimentos e ingredientes.
+* En algunas regiones podrá solicitarse a los acuicultores y a los almacenadores de alimentos que cumplan con ciertos estándares de almacenamiento y manipulación para asegurar la frescura y la mínima exposición a fuentes de contaminación como aves, roedores y otros factores ambientales.
+* La garantía del proveedor debe incluirse en la orden de compra para demostrar que el ingrediente es de uso alimentario, que no está adulterado y que se halla en conformidad con las normas de regulación del gobierno (UKASTA, 1998, 2000, 2001).
+* Todos los proveedores deben proporcionar un cierto tipo de documento oficial que permita a la persona responsable de recibir el/los producto/s en la fábrica identificar correctamente el producto entrante y constatar que pertenezca realmente al establecimiento que lo produjo.
+* Los proveedores o las compañías que normalmente transportan la mercadería son responsables de asegurar que los equipos estén limpios antes de ser cargados y que previamente no se haya transportado en los camiones, contenedores, balsas o vagones ningún material que pudiera ser peligroso para los animales. Los vehículos deben contar con certificados que acrediten su limpieza y que se encuentran libres de materiales perjudiciales para la salud humana y de animales acuáticos.
+* Los certificados de los análisis a los que son sometidos los componentes del alimento según corresponda deben solicitarse periódicamente.
+* Al adquirir ingredientes de un nuevo proveedor, se deben seguir los siguientes pasos: inspeccionar las instalaciones de su planta; revisar los estándares de sus previsiones (por ejemplo, los referidos a la higiene y pureza de las materias primas); solicitar los certificados de los análisis correspondientes; verificar la fecha del último análisis de laboratorio de los ingredientes que se piensa adquirir; controlar la calidad de los programas de seguridad; constatar su confiabilidad a través de las referencias y comprobando la disponibilidad de los ingredientes, solicitando el certificado que demuestra que todos sus proveedores y vendedores se encuentran asegurados como un procedimiento de rutina, y solicitando muestras representativas de los ingredientes y analizando los elementos en cuestión.
+* El control de calidad de la producción debe asegurar que el alimento elaborado sea adecuado para las especies que se propone alimentar. El proceso debe incluir un sistema claro de archivado para documentar que se han alcanzado los estándares propios de una fórmula durante todo el período de fabricación. Tales registros deben bastar para permitir la identificación fehaciente del origen del producto (Cruz, 1996).
+* La reutilización de ingredientes de alimentos derivados de productos acuícolas elaborados o no (incluyendo desechos de pescados y de crustáceos cultivados, harinas de pescados, harinas de gambas, animales muertos, etc.) debe ser evitada a toda costa para prevenir la posibilidad de difusión de enfermedades a través de la alimentación (Gill, 2000a; UKASTA, 2001).
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+7. RECEPCIÓN DE LOS INGREDIENTES
+
+* Las características de los ingredientes entrantes deben coincidir con la información mencionada en la etiqueta, que debe incluir especificaciones acerca del producto adquirido, el destino de la carga, el número/fecha del lote y la sujeción a las reglas correspondientes, especialmente en el caso de los materiales destinados a la elaboración de alimentos con medicación.
+* Antes de comenzar los trámites de aceptación y descarga, deben verificarse los siguientes factores: color, olor, textura, densidad, humedad, peso y temperatura del producto, así como la presencia de cualquier sustancia ajena o infestación por insectos.
+* Una comparación visual de la carga con una muestra conocida del ingrediente es otra de las medidas necesarias. Conviene observar también si existen hundimientos, los cuales podrían indicar pérdidas.
+* Antes o durante la descarga de los ingredientes embalados (es decir, premezclas, minerales, medicaciones, etc.), éstos deben contarse físicamente y comparar las cifras resultantes con las que figuran en los documentos de salida y en las pólizas de carga. Cualquier variación en el número de los sacos o deterioro de los productos debe anotarse en los documentos de recepción y en la póliza de carga. Estas variaciones tendrán que comunicarse al director de la fábrica, así como al gerente de compras, de manera que pueda reclamarse al abastecedor y/o transportista.
+* Al hacer un muestreo, conviene seguir los procedimientos que figuran en la sección 13 de estas orientaciones, referida a métodos de muestreo y análisis.
+* Periódicamente deben realizarse análisis aleatorios de todos los ingredientes, para controlar su humedad y que su contenido de proteínas, grasas, fibras, cenizas, calcio, fósforo, sal y otros componentes sea el apropiado. También puede ser conveniente efectuar un examen microscópico para determinar la calidad de los ingredientes y premezclas (AOAC, 1990; Bates, Akiyama y Lee, 1995; Jones, 2000; Khajarern y Khajarern, 1999).
+* Si antes o durante la descarga se observa que un ingrediente no cumple con los requisitos de compra, debe informarse inmediatamente al jefe de producción y/o al jefe de compras, quienes deberían tener la autoridad suficiente para ejercer el «derecho de rechazo».
+* No aceptar una carga puede ser una decisión muy difícil, especialmente si en la fábrica queda poca cantidad de cierto ingrediente que debe ser rechazado por encontrarse contaminado, presentar deficiencias o cualquier otra razón válida. Resulta muy arriesgado para todos los clientes y para la estabilidad financiera del establecimiento que se admitan ingredientes contaminados en su sistema. Según la naturaleza de la contaminación, eliminarla puede ser muy difícil y costoso.
+* Durante toda la operación debe mantenerse una documentación de respaldo que permita el rastreo de la mercadería y consigne el tipo de ingrediente recibido, la fecha de recepción, los nombres del expedidor y el abastecedor, la asignación de la descarga, el número de sacos, la dimensión del saco, el número de lote, observaciones sobre la calidad del producto y la firma de la persona que recibe la mercadería.
+* Trátese de ingredientes empaquetados o sueltos, deben usarse de acuerdo con el principio según el cual el primero en entrar es el primero en salir.
+* Se debe controlar diariamente, o según lo aconsejen las características del ingrediente, que en ningún depósito se produzcan estados de compactación. Cuando se comprueben compactaciones o bloqueos, deben iniciarse de inmediato acciones para disolverlos o removerlos. Hay que tener mucho cuidado de no exponer a los empleados a la posibilidad de sufrir asfixia y/o de ser sepultados vivos por un repentino colapso del material compactado. La masa de grano o harina endurecida, al desintegrarse repentinamente, puede causar la implosión de la tapa del silo, con riesgo de producir serios daños a los empleados que se encuentran alrededor.
+* Los ingredientes arribados por ferrocarril, en balsas o camiones deben ser controlados para detectar posibles pérdidas resultantes de un defecto físico del vehículo transportador. Es necesario inspeccionar los escotillones de los vagones y contenedores para asegurarse de que las puertas no hayan sido abiertas o forzadas. Cualquier cierre roto o puerta no sellada deben ser consignados y comunicada la irregularidad al jefe de compras.
+* Cuando sea posible, deben controlarse el peso de todos los ingredientes entrantes, ya sean éstos empaquetados o a granel, y compararse con el consignado en los documentos de expedición. Las variaciones deben ser anotadas y comunicadas al jefe de compras.
+* El adecuado mantenimiento y la seguridad del área de descarga a granel debe examinarse diariamente. Cuando se cambia de ingrediente es necesario hacer una limpieza total.
+* La ruta que seguirá un ingrediente tiene que ser cuidadosamente planificada por el administrador de la planta y supervisada por el superintendente antes de la descarga. La contaminación cruzada de ingredientes es un gravoso error, que pone en riesgo la producción y perjudica a los clientes y consumidores de los alimentos.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+8. ALMACENAMIENTO Y MANIPULACIÓN DE LOS INGREDIENTES Y LOS PRODUCTOS FINALES
+
+* Los ingredientes secos deben mantenerse secos y frescos y usarlos según el principio de que el primero en entrar es el primero en salir. Como regla general, el porcentaje de humedad tendría que ser menor al 13 por ciento, en particular en áreas húmedas y/o tropicales (Cruz, 1996; Parr, 1988).
+* Los tanques donde normalmente se almacenan estos ingredientes deben limpiarse mensualmente o con la frecuencia que indique la experiencia, para prevenir la acumulación de polvo o residuos de alimentos. Esta acumulación crea un hábitat adecuado para mohos (con la posible producción de micotoxinas) e insectos que pueden destruir rápidamente el valor nutritivo de los productos almacenados; el calor producido por estos organismos también puede generar una combustión espontánea que redunde en graves pérdidas de los ingredientes y posiblemente también de la propiedad. Por las mismas razones, también deben inspeccionarse y limpiarse periódicamente la base del montacargas y las demás maquinarias de transporte, así como las tuberías.
+* Aunque la elaboración ulterior podría diluir o eliminar las concentraciones de moho e insectos, mantener los equipos y los almacenes libres de polvo y de alimentos viejos previene o al menos reduce la posibilidad de contaminación de los alimentos terminados.
+* Los ingredientes líquidos como sebo, aminoácidos y melazas deben almacenarse de acuerdo con los procedimientos recomendados por el fabricante para proteger su frescura.
+* Es posible que las grasas y aceites necesiten ser calentadas para mejorar su manejo y/o añadirles antioxidantes (de modo de prevenir la perioxidación de los lípidos y controlar los sabores no consentidos de los alimentos), con el fin de conservar la calidad (Hardy y Roley, 2000).
+* En general, los alimentos para la acuicultura están compuestos por algunos ingredientes altamente degradables y a menudo muy caros; por lo tanto hay que tener mucho cuidado de conservar tanto estos ingredientes como el alimento elaborado lejos de contaminantes como luz y calor y también lejos de factores biológicos como moho, insectos, aves y roedores (Cruz, 1996; O'Keefe, 2000).
+* El ácido propiónico y otros agentes antihongos pueden utilizarse durante la elaboración, pero estos elementos químicos pueden afectar negativamente el sabor y la eficacia del alimento. Tanto el productor de alimentos como el acuicultor -como usuario final de aquellos- deben recordar que el calor, la luz y la humedad pueden estropear los alimentos. Los sacos que los contienen deben almacenarse a distancia del suelo, sobre bandejas de carga, y no estar expuestos a la luz directa del sol debido a los efectos nocivos de los rayos ultravioletas (New, Tacon y Csavas, 1995).
+* Según el origen y la naturaleza del alimento a granel, puede ser necesario limpiar los ingredientes. La mayoría de las fábricas de alimentos acuícolas posee sistemas de limpieza del grano diseñados para eliminar las semillas rotas, detritos de metal y otros materiales extraños que contaminan ocasionalmente los ingredientes almacenados.
+* La especificación de que el polvo y otros contaminantes no excederán cierto nivel resulta útil para el cliente. Los ingredientes entrantes podrán ser rechazados si sus niveles de contaminación exceden los valores especificados.
+* Los animales acuáticos son particularmente sensibles aun a niveles bajos de, por ejemplo, fumigantes, y posiblemente micotoxinas; por esta razón, se debe tener mucho cuidado en la elección, origen y manejo de los ingredientes de alimentos para la acuicultura (Cruz, 1996).
+* Los bidones, silos, almacenes y el sistema de manipulación de los ingredientes en general deben ser diseñados de manera que la humedad, los roedores, las aves y otras plagas no tengan acceso a él. La limpieza regular de los equipos de almacenamiento ayudará a alcanzar un producto final de alta calidad.
+* Uno de los factores más influyentes en las etapas de recepción y almacenamiento es la correcta programación del arribo de los ingredientes, con el fin de minimizar el tiempo de almacenamiento y la manipulación. Una excesiva manipulación puede disminuir el valor nutritivo o la eficacia, ya se trate de suplementos y/o medicamentos ensacados, o de maíz a granel o harina de soja, por ejemplo, merma de calidad que también favorece pérdidas económicas.
+* El alimento mal formulado, dañado o devuelto debe ser almacenado de manera tal que no pueda contaminar otros alimentos y será necesario analizarlo para determinar si puede ser reprocesado o, por el contrario, debe ser destruido. En este caso se pone nuevamente de manifiesto la importancia de la documentación que permita el rastreo, especialmente si se trata de alimentos tratados con drogas medicinales.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+9. ELABORACIÓN DE LOS INGREDIENTES ALIMENTARIOS
+
+* La elaboración consiste en tratamientos mecánicos, individuales o colectivos, aplicados a los componentes únicos o múltiples durante la fabricación de alimentos acuícolas compuestos. Estos procesos se llevan a cabo para modificar las propiedades físicas nutricionales de los ingredientes así como del alimento elaborado con el fin de asegurar un producto de calidad apropiada. Los procesos clave son agrupación, mezclado, reducción del tamaño de las partículas, acondicionamiento, aglomeración, acondicionamiento post empastillado, revestimiento de grasa, secamiento/enfriamiento, desmenuzado y envasado.
+* Las partículas de hierro que pueden depositarse sobre las máquinas y otros elementos deben ser controladas por el supervisor de producción y eliminadas cuando sea necesario. No quitarlas puede redundar en reparaciones muy caras de la maquinaria, heridas del personal, contaminación del producto, retraso en la expedición o la concurrencia de todos estos problemas, incluyendo la insatisfacción del cliente.
+* Las producciones en tandas de alimentos tratados con medicamentos deben unificarse todo lo posible. Cuando no pueda llevarse a cabo la producción consecutiva, el sistema de procesamiento debe limpiarse con un granulado a base de maíz o un ingrediente similar. Es conveniente que el flujo del material de limpieza se dirija hacia los recipientes que hayan contenido medicaciones similares.
+* Todos los operadores tienen que estar familiarizados con el funcionamiento básico de la maquinaria, tal como se encuentra explicado en las instrucciones contenidas en el manual de operación para la reducción a tamaño de partícula, en el manual sobre empastillado, en el manual del operador para la extrusión-expulsión u otros manuales de las diversas máquinas de la planta.
+* Antes de poner en marcha la maquinaria, el operador debe controlar el flujo del producto hacia su destino para prevenir la contaminación cruzada. La maquinaria empleada para reducir sustancias al tamaño de partículas (martillos, rodillos, etc.) debe controlarse periódicamente para lograr que éstas resulten del tamaño correcto.
+* Durante la peletización, debe controlarse que se obtengan gránulos duraderos y estables en el agua si fuera necesario (Tacon y Obaldo, 2001).
+* El acondicionamiento apropiado con vapor optimiza el proceso de gelatinización del almidón, que además de acentuar la digestibilidad también mejora la estabilidad de los alimentos en el agua (Bartone, 1999).
+* Luego de la extrusión, habrá que controlar la forma del producto, la densidad de la masa, su manera de flotar, a qué velocidad se hunde y también, periódicamente, el correcto tamaño de las partículas (McEllhiney, 1994).
+* Las cabezas orientables, los distribuidores, las válvulas de derivación y descarga deben ser controladas periódicamente para evaluar su funcionamiento, su papel en las pérdidas y su grado de precisión. El productor debe asegurarse de que los ingredientes cumplan con el proceso previsto.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+10. FORMULACIÓN Y FABRICACIÓN DE LOS ALIMENTOS
+
+* Los alimentos acuícolas deben fabricarse de acuerdo con una fórmula recomendada por un nutricionista competente y ser específicos tanto para las especies acuáticas a las que se destinen como para el sistema de producción previsto en una granja acuícola determinada (Csengeri y Tacon, 2000; Tacon, 1996).
+* Aunque la mayoría de las dietas para agua dulce y templada pueden basarse principalmente en el uso de proteínas vegetales y fuentes de energía, y las dietas para agua salada y fría en el uso de harina de pescado u otros subproductos de la industria pesquera, pueden darse diferencias regionales que demuestran el uso optimizado de los recursos locales disponibles y/o de un menor costo de los ingredientes (Lazo y Davis, 2000; Li, Robinson y Hardy, 2000).
+* En la mayoría de las fábricas de alimentos, los granos brutos enteros y los demás ingredientes posibles se muelen con una trituradora de martillo o una laminadora, o son tratados de alguna otra manera con medios adecuados para permitir la mezcla uniforme de los ingredientes según las especificaciones de la fórmula y la posterior transformación por la empastilladora o la extrusión hasta lograr el producto terminado. Concluido el proceso y una vez correctamente enfriado y seco, el alimento está listo para el ensacado o para ser entregado a granel al acuicultor.
+* En las fábricas antiguas, el tamaño de los gránulos obtenidos puede estar limitado por el tipo de equipo disponible. En lo que se refiere a alimentos para la acuicultura, las partículas son muy pequeñas -algunas miden tan sólo 50 micrones-, para permitir una mezcla adecuada, el empastillado o la extrusión del alimento (Erickson, 2000; Halvorsen, 2000).
+* Un factor importante es el acondicionamiento y el proceso de cocido del puré, ya sea en pastillas o extruido (o elaborado con otro sistema que emplee el principio de ambos); el almidón debería gelatinizarse de manera que el alimento sea digerible y mantenga su integridad en el agua. Así se asegura que los nutrientes del alimento serán consumidos por el animal y no terminarán siendo un fertilizante o un potencial contaminante dentro del sistema de producción de la fábrica (Bartone, 1999).
+* Generalmente el empastillado es menos caro que la extrusión y podría ser más rentable dependiendo de una variedad de factores que incluyen el tipo y comportamiento de las especies que se cultivan, el tipo de ingredientes disponibles y los recursos del productor.
+* Las máquinas modernas que combinan las mejores cualidades de empastilladoras y extruidoras pueden significar un interesante progreso para la acuicultura. Si el lector desea conocer detalles específicos acerca de los diferentes tipos de procesos de fabricación que podrían emplearse para la producción de alimentos animales, incluyendo aquellos para la acuicultura, puede consultar Akiyama y Tan (1991), Barber (2000), Barrows (2000), Barrows y Hardy (2000), Best (1999), Gill (2000b), Kearns (1998), McEllhiney (1994), Pipa y Frank (1989), Riaz (2001), Rout y Bandyopadhyay (1999), Sunderland (2001), Tan y Dominy (1997), Tsang (2001) y Woodroofe (1999).
+
+Alimentos preparados con fórmulas del fabricante
+* Las fórmulas son determinadas por el nutricionista de la propia fábrica, sobre la base de las necesidades alimentarias conocidas del animal y el sistema de acuicultura en el que se empleará el alimento, según la experiencia previa o el resultado de investigaciones.
+* El productor debe usar especificaciones nutricionales razonables y precisas para cada ingrediente.
+* Ya que las necesidades nutricionales de la dieta de las especies acuáticas cultivadas están todavía en proceso de definición, es importante que el acuicultor/nutricionista preste atención a las conclusiones y descubrimientos de las investigaciones en curso.
+* El uso de medicinas u otros ingredientes debe seguir las especificaciones del proveedor que figuran en la etiqueta y los requisitos regulatorios. Los productos sin etiqueta no deben utilizarse sin consultar al responsable de proporcionar las instrucciones.
+* Todos los aditivos medicinales alimentarios deben almacenarse separadamente de los demás materiales alimentarios, productos y premezclas. El acceso a esa área de almacenamiento debe limitarse sólo al personal autorizado (UKASTA, 1998, 2000).
+* El jefe de producción es el responsable de que la planta cuente con un conjunto completo de fórmulas actuales para las especies acuáticas que se desea alimentar.
+* Todas las fórmulas deben indicar: un número de identificación propio, el nombre del alimento (tipo y especies), la fecha de caducidad, el porcentaje o peso de cada ingrediente y el medicamento incluido (si corresponde).
+* Las fórmulas obsoletas deben archivarse en el establecimiento al menos durante un año después de haber sido usadas por última vez.
+
+Alimentos preparados según fórmulas del cliente
+* Antes de aceptar la fórmula de un cliente, ésta tiene que ser aprobada por el director general del establecimiento. Las fórmulas de clientes son aquellas que difieren de una fórmula de producción estándar y son encargadas específicamente por un comprador.
+* Las bases de aprobación de la orden de un cliente pueden ser: que no exista un alimento alternativo en el programa para sustituirlo, que la planta sea físicamente capaz de producir el alimento y que sus ingredientes no comprometan la calidad de otros alimentos que se fabrican, y que sea legal (según los informes de un oficial de control de alimentos estatal).
+* Todos y cada uno de los pedidos del cliente tienen que ser revisados para su aprobación. No deben aceptarse aprobaciones generales.
+* Normalmente se obtiene del cliente una declaración que descarga al productor de cualquier responsabilidad por los daños que el alimento pueda causar a los animales.
+* Mezcla y loteado de fórmulas acuícolas. El operador de lotes debe recibir una instrucción adecuada acerca de la tarea de mezclado y conocer el etiquetado de los ingredientes, las premezclas, las medicinas y los concentrados, así como el flujo de los ingredientes y del producto, los pesos y medidas, y el funcionamiento y mantenimiento de la maquinaria.
+* La fecha de mezclado, el tipo de alimento mezclado, la fórmula y el número de lote, el rendimiento real, el personal que ha llevado a cabo la mezcla, el silo asignado, la inclusión de medicinas y la secuencia de producción y limpieza constituyen una información que debería consignarse en los archivos de producción, que deben mantenerse actualizados.
+* Todos los sistemas de aplicación de líquidos deben ser controlados trimestralmente para asegurar su precisión por el jefe de producción o quien corresponda. Los tiempos de mezclado de todos los alimentos deben ser explicitados.
+* Las balanzas de los sucesivos contenedores deben calibrarse periódicamente para garantizar su precisión y ser revisadas anualmente por una compañía autorizada de inspección de balanzas (o una entidad gubernamental calificada).
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+11. ENVASADO Y ETIQUETADO
+
+* La función del envasado es proteger los alimentos elaborados de la luz, la humedad y otros contaminantes ambientales. Junto con la etiqueta, debe informar al acuicultor la identidad del productor y de qué tipo de alimento se trata.
+* La etiqueta del alimento describe el contenido del saco o paquete y para qué especies está destinado. En el caso de los alimentos a granel, que son expedidos en grandes cantidades por camión o contenedores marítimos, la etiqueta y las instrucciones para el uso del alimento deberán ir adjuntas a la factura.
+* Si el alimento incluye medicinas, las advertencias y las instrucciones específicas para las especies que se desea alimentar deberán explicitarse claramente.
+
+Ensacado
+* El operador de ensacado debe controlar y limpiar la maquinaria antes de usarla.
+* Hay que verificar la precisión de las balanzas por medio de su inspección y calibrado.
+* Se debe comprobar que los sacos y/o etiquetas correspondientes a la producción del día estén apropiadamente codificados.
+* Al comenzar a trabajar con un lote de ensacado, los primeros sacos de un nuevo alimento deben apartarse hasta que se observe que el producto alcanza la calidad prevista. El alimento de esos sacos podrá ser reprocesado y no necesariamente eliminado; si se trata de alimentos con medicación, habrá que consultar con el supervisor antes del reprocesamiento. Todos los sacos tienen que ser correctamente provistos de etiquetas que incluyan instrucciones acerca de cómo alimentar las especies a las que el alimento está destinado.
+* El peso de los sacos debe controlarse al principio del ensacado de cada lote y a intervalos regulares durante todo el proceso; se debe renovar anualmente los certificados de precisión de todas las balanzas.
+
+Etiquetas y tarjetas
+* Las etiquetas y tarjetas que acompañan los alimentos deben ajustarse a las leyes que rigen en la jurisdicción en la cual los productos para la alimentación acuícola serán vendidos.
+* Es responsabilidad del director de la fábrica coordinar el diseño y la impresión de las etiquetas, así como controlar la precisión de la información incluida y que cumplan con las normas gubernamentales vigentes, antes de imprimirlas en cantidad.
+* Las etiquetas deben ser recibidas, manipuladas y almacenadas de manera tal que no se traspapelen y que contribuya a lograr que cada etiqueta sea colocada en el alimento que corresponde.
+* Todos los alimentos, sean ensacados o a granel, deben ser adecuadamente etiquetados; la información provista por la etiqueta debe incluir instrucciones apropiadas que aseguren la nutrición adecuada de las especies acuáticas correspondientes.
+* Ante un lote de ensacado, conviene que en el área de trabajo sólo se encuentren las etiquetas correspondientes al producto que se ha dispuesto ensacar. Las que ya hayan sido fechadas y no se hayan utilizado al finalizar la jornada deben ser destruidas inmediatamente.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+12. ALMACENAMIENTO Y EXPEDICIÓN
+
+* Hasta aquí se han señalado los cuidados que requiere la manufactura y manipulación de los alimentos para la acuicultura. Similar cuidado se deberá tener en el almacenamiento y expedición del producto final.
+* Los alimentos ensacados deben ser almacenados en el depósito lejos de la luz del sol sobre bandejas de carga situadas a una distancia aproximada de 30 cm entre sí para asegurar una buena circulación de aire.
+* El almacenamiento debe basarse en el principio de que el primer producto en entrar es el primero en salir.
+* La primera condición del almacenamiento de los alimentos elaborados es proteger las especies seleccionadas y la salud humana. Alcanzados estos objetivos, el fabricante buscará asegurar la satisfacción del cliente.
+* Los registros de expedición y distribución deben conservarse para facilitar el retiro del mercado de una producción específica si sucedieran errores en el procesamiento. (Véase el Apéndice I, Esquema del proceso para el retiro del mercado de un producto).
+* Los documentos de expedición del alimento a granel deben identificar los contenidos de cada compartimiento del camión o del contenedor marítimo.
+* Todos los sacos que se envíen deben encontrarse en buenas condiciones (sin roturas ni orificios que originen pérdidas). Todos los productos vendidos y expedidos deberán ser debidamente pesados, y se acompañarán con una copia de la orden de expedición/venta.
+* Los camiones que lleven alimentos con medicación a granel deben limpiarse con líquidos apropiados o bien usarse en una secuencia organizada para asegurar que las sucesivas entregas no serán contaminadas por materiales químicos no autorizados o dañinos, afectando negativamente a otros clientes.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+13. MÉTODOS DE MUESTREO Y ANÁLISIS
+
+* El muestreo de los ingredientes básicos y de los productos terminados de la fábrica de alimentos para la acuicultura debe ser un procedimiento de rutina que tiene el objetivo de asegurarse de que cumplan con las especificaciones de la fórmula (Bates, Akiyama y Lee, 1995) y de que no sufran defectos que puedan ser dañinos para la producción del acuicultor o para el consumidor humano. Para más información y detalles ver: AFIA (1993), AOAC (1990), Boonyaratpalin y Chittiwan (1999), Divakaran (1999), Dong y Hardy (2000), Hardy y Roley (2000), McEllhiney (1994) y Parr (1988).
+
+Ingredientes
+* Si se seleccionan muestras de productos a granel cargados en camiones, éstas deben tomarse una vez comenzada la descarga, en la mitad del proceso y poco antes de terminar. Se debe evitar tomar muestras al principio propiamente dicho y también exactamente al final. El granulado tiene que ser examinado con una sonda en al menos cinco lugares (las 4 esquinas y el medio).
+* En los vagones de tren, balsas y contenedores marítimos el muestreo debe realizarse en distintos sitios durante la operación de descarga. Se debe evitar tomar muestras cerca de las paredes externas del contenedor.
+* Cuando se hace un muestreo de vagones cisternas de tren (y de algunas balsas), deben tomarse tres muestras de cada compartimiento a intervalos apropiados (una vez comenzada la descarga, en la mitad del proceso y poco antes de terminar), evitando tomar muestras al principio propiamente dicho y también exactamente al final.
+* El muestreo de ingredientes líquidos, como grasas, aceites, etc., debe realizarse por lo menos cinco minutos después de iniciado el flujo de descarga.
+* Si se hace un muestreo de cargas empaquetadas, las muestras deben tomarse introduciendo una sonda en diagonal. (El agujero hecho por la sonda deberá ser tapado con cinta adhesiva inmediatamente después).
+* Todas las submuestras deben colocarse en un recipiente grande, mezclarse y separar luego entre 1/4 kg y 1/2 kg del material, el cual se colocará en otro recipiente adecuado. Todas las muestras deben identificarse por fecha, medio de transporte (balsa, contenedor, etc.), número, ingrediente, número de documento de entrada, proveedor, nombre de la muestra y nombre del encargado de tomarla.
+* Los ingredientes deben examinarse periódicamente cuando haya sospecha de que contienen pesticidas u otros agentes tóxicos, y, en algunos casos, el producto deberá ser controlado microscópicamente. El muestreo para determinar si los ingredientes cumplen las especificaciones puede ser necesario si hay alguna duda sobre la calidad de los productos recibidos.
+* El jefe de producción debe determinar cuáles son los exámenes apropiados y también será el responsable de evaluar los resultados.
+* Todas las muestras de los ingredientes y del producto final deben ser adecuadamente conservadas y protegidas contra su destrucción (por roedores, insectos, etc.), deterioro (por humedad, moho, etc.) o adulteración. Una buena manera de conservarlas consiste en colocarlas en un congelador o refrigerador.
+
+Alimento elaborado
+* Cada ciclo de producción de alimento ensacado o a granel deberá ser inspeccionado físicamente para evaluar su color, olor, granulado y, cuando sea apropiado, también su humedad.
+* Periódicamente deben tomarse muestras de los ciclos de producción de los alimentos ensacados.
+* Cuando se hace un muestreo en las expediciones a granel, las muestras deben tomarse a intervalos apropiados (una vez comenzada la carga, hacia la mitad y poco antes de terminar). Debe evitarse tomar muestras al principio propiamente dicho y también exactamente al final.
+* Todas las submuestras deben colocarse en un recipiente grande, mezclarse y separar luego entre 1/4 kg y 1/2 kg del material, el cual se colocará en otro recipiente adecuado. Las muestras de la producción ensacada en un ciclo deben ser identificadas con la correspondiente etiqueta codificada. Las muestras de alimentos a granel o líquidos deberán identificarse con el nombre del cliente, la fecha de entrega y la cantidad.
+* El jefe de producción determinará los exámenes apropiados y será el responsable de la valoración de los resultados.
+* El procedimiento de muestreo antes mencionado puede aplicarse también a alimentos líquidos, premezclas, suplementos y concentrados. El análisis de ciertos ingredientes específicos para determinar la presencia de agentes tóxicos debe seguir los métodos estándares AOAC (1990) o métodos analíticos equivalentes aprobados por organismos oficiales.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+14. RETIRO DEL MERCADO DE LOS PRODUCTOS DEFECTUOSOS O MAL ETIQUETADOS
+
+* La mayoría de los fabricantes de alimentos usan una vasta gama de ingredientes y existe la posibilidad de que sea necesario retirar del mercado un producto, si hubiera pruebas suficientes de la mala calidad de un alimento o un error en su etiquetado.
+* No se trata solamente de no incurrir en una violación potencial de las regulaciones gubernamentales y evitar el peligro para los animales acuáticos y/o los consumidores; además debe mantenerse una relación continua y sana con el acuicultor.
+* Por estas razones es necesario implementar un procedimiento de retiro del mercado eficiente aplicable a todos los productos fabricados por la compañía y que puede reducir o evitar importantes denuncias contra ella y cimentar una provechosa relación de confianza con el cliente.
+* Todos los retiros de productos del mercado tienen consecuencias en la relación con el cliente y en las relaciones públicas en general, por lo cual es absolutamente necesario que el retiro sea implementado inmediata y apropiadamente y quede bien documentado, de manera que una futura defensa legal, si fuera necesaria, pueda basarse en el hecho de que la compañía haya actuado a tiempo y apropiadamente para minimizar cualquier amenaza a la producción del acuicultor o la intervención del gobierno.
+* Los procedimientos que pueden seguirse ante dicha intervención están detallados en el Apéndice I.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+15. LIMPIEZA DE LA PLANTA DE PRODUCCIÓN Y SEGURIDAD EN EL TRABAJO; GESTIÓN GENERAL
+
+Generalidades
+* La compañía productora de alimentos para la acuicultura debe sostener un programa de gestión general de calidad, que proporcione un ambiente seguro y saludable para sus empleados y para la comunidad.
+* El objetivo es mantener la propiedad de manera que se minimicen los daños a las personas o a la propiedad y se maximice la garantía de calidad del producto.
+* La marcha del establecimiento es responsabilidad directa de todos los empleados, y cada uno tendrá que hacer lo que sea necesario para implementar un programa eficaz en ese sentido.
+
+Procedimientos
+* Los desechos deben ser eliminados o reciclados como resulte apropiado.
+* Hay que limpiar inmediatamente los derrames de alimentos y/o ingredientes. El material perdido debe colocarse en recipientes designados y rotulados para su correcta eliminación.
+* Ante ocasionales puntos de acumulación de polvo hay que investigar y evaluar sus causas, para llevar a cabo las acciones correctivas necesarias.
+* Las oficinas, locales de recreo y aseos deben ser limpiados con regularidad.
+* Todos los empleados deben mantener sus áreas de trabajo limpias y ordenadas.
+* Todas las áreas de la planta deben limpiarse diariamente.
+* Las herramientas manuales deben recogerse y colocarse en su sitio.
+* Las bandejas de carga de productos empaquetados deben apilarse prolija y ordenadamente. Es necesario recuperar los sacos rotos y repararlos tan pronto como sea posible.
+
+Control de plagas
+* Es preciso reparar todas las ventanas rotas y mantener el edificio bien cerrado para impedir el acceso de aves, roedores u otros factores que pueden afectar negativamente la calidad de los alimentos elaborados.
+* La planta y el almacén deben ser desrratizados y fumigados según sea necesario, utilizando métodos aprobados para el control de insectos y roedores. Tanto la desrratización como la fumigación deben ser realizados por personal calificado, preferiblemente por una empresa de control de plagas autorizada. Debe llevarse un registro de todos los pesticidas usados y su tipo de aplicación.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+16. MANTENIMIENTO Y REPARACIÓN DE LA PLANTA DE PRODUCCIÓN
+
+El programa de mantenimiento de la planta es vital para lograr la producción de alimentos de alta calidad y no menos importante para el control de costos y para asegurar al cliente que los alimentos solicitados llegarán a tiempo y según las especificaciones de la fórmula (Parr, 1988).
+
+La maquinaria fuera de servicio es obviamente perjudicial puesto que impide la producción de los alimentos, pero tan perjudicial como eso es un equipo que no funciona como debiera, lo cual podría, por fallos en los procesos de preparado y mezclado, producir un alimento defectuoso.
+
+Tal alimento defectuoso puede, cuanto menos, afectar la producción del acuicultor y, peor aún, malograrla. También puede constituir una amenaza a la salud humana.
+
+Mantener motores, balanzas, moldes de pastillas, cintas transportadoras y todos los demás componentes del establecimiento en perfecto orden es tan importante como las fórmulas que se apliquen o la calidad de los ingredientes que compondrán el alimento elaborado.
+
+En un sistema tan complejo como el de una fábrica de alimentos para la acuicultura, pueden ocurrir de vez en cuando fallos mecánicos o electrónicos, pero prestar la atención adecuada al mantenimiento preventivo minimizará el tiempo de interrupción de las tareas y la perspectiva de que el cliente reciba un alimento que no cumpla con las especificaciones. Esta última posibilidad puede causar un costoso retiro del alimento o posiblemente una compensación por daños a la producción del cliente, si el error no se ha detectado a tiempo (Apéndice II).
+
+Un buen programa de mantenimiento preventivo tendría que proveer el mantenimiento adecuado a un costo razonable (Apéndice III).
+
+La capacitación del personal de mantenimiento debe considerarse de alta prioridad y ser controlado por quienes detentan altos cargos en la dirección. Demasiado a menudo el mantenimiento es visto como el último peldaño de la escalera, cuando en realidad debe otorgarse suma importancia a la calidad y la capacitación del personal que desempeña esta gran responsabilidad.
+
+Objetivos del mantenimiento preventivo
+* Reducir la necesidad de grandes reparaciones, corrigiendo dificultades menores apenas aparezcan. Para detectarlas es necesario escuchar a los operadores, que normalmente se dan cuenta antes que la dirección de que una máquina hace «un ruido raro» o de otras irregularidades en su rendimiento, así como no reprender a aquellos empleados que intenten comunicar un fallo producido fuera de su área de control.
+* Mantener la maquinaria en su estado de máxima productividad. Para eso es necesario seguir las recomendaciones del manual correspondiente, conservarla limpia y reparar o sustituir las partes desgastadas o faltantes inmediatamente. Agilizar el calendario de reparaciones sin posponer las que sean necesarias previene problemas que después resultará mucho más caro corregir.
+* Resguardar la seguridad. A medida que se desgastan, algunas partes de la maquinaria se vuelven peligrosas, como las cadenas gastadas o las correas de transmisión consumidas. El personal es valioso y las heridas son costosas desde el punto de vista del tiempo perdido y la capacitación del reemplazante, para no hablar del impacto negativo que producen en el ánimo de los empleados.
+* Mejorar el servicio al cliente. Un establecimiento bien mantenido causa mejor impresión al cliente y, en ocasión de la primera compra, ayuda a convencerlo de que el alimento estará correctamente elaborado.
+* Reducir los costos operativos generales. El productor de alimentos para la acuicultura obtiene más beneficios de una planta bien mantenida, que disminuye los costos y aumenta la satisfacción del cliente.
+
+Mantenimiento del edificio y terrenos aledaños
+* Las superficies donde se ubica la planta deben ser adecuadamente drenadas y mantenidas razonablemente libres de basura, sobras, desechos, arbustos o hierba sin cortar, agua estancada y maquinaria impropiamente almacenada.
+* Los edificios deben mantenerse limpios y ordenados.
+* Conservar el espacio, la ventilación y la iluminación adecuadas es un factor que contribuye al funcionamiento apropiado de todos los aspectos de la producción de alimentos para la acuicultura, como almacenamiento, etiquetado, control de calidad y mantenimiento.
+
+Áreas de mantenimiento preventivo
+* En el Apéndice III figura una lista de medidas de mantenimiento preventivo que debe ser controlada periódicamente. Cada administrador de planta tendría que contar con esta lista y revisarla para adaptarla a las condiciones de su establecimiento.
+* Conviene llevar un registro, en forma de libro o bien informático, que se actualice diariamente, y prestar la máxima atención al calendario de mantenimiento sugerido por el productor de la maquinaria.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+17. PERSONAL
+
+* Los alimentos acuícolas de calidad pueden ser producidos sólo por personal instruido y preparado.
+* La capacitación es un proceso dinámico ya mencionado en varias secciones anteriores, y puede ser resumido como sigue: la dirección general debe poseer conocimientos formales de tecnología alimentaria suficientes para asegurar la compra competente y el manejo de ingredientes de calidad, así como la correcta manufactura, almacenamiento y manipulación de los alimentos elaborados. Además de asegurar que el alimento producido cumpla con las especificaciones concebidas para las especies a alimentar, el gerente debe conservar una documentación del proceso suficiente para permitir un preciso trazado del origen de los ingredientes y lo sucedido a lo largo de la fabricación del alimento. Estos documentos incluirán el registro de quién recibió el alimento y cualquier otro detalle pertinente, como las medicinas agregadas.
+* El personal debe recibir regularmente cursos de actualización o instrucción adicional sobre nuevos equipos y/o procesos que vayan a utilizarse. Se dará una importancia particular a la organización de reuniones periódicas acerca de la seguridad, donde los empleados informen de cualquier problema o violación relativos al área que sea necesario corregir. Lo conversado o establecido en estas reuniones debe consignarse en actas. Se debe prestar especial atención a la actualización del registro cuando se trata de productos para la salud animal; éstos deberán almacenarse siempre separadamente de los demás ingredientes para evitar cualquier posibilidad de contaminación cruzada.
+* Los procedimientos de capacitación y actualización, así como la estructura organizativa de la planta deben ser lo suficientemente flexibles para permitir una adaptación inmediata a los progresos tecnológicos en el área de alimentos para la acuicultura.
+* Conviene que cada empleado, desde la dirección general hasta los niveles inferiores, conozca el funcionamiento del establecimiento y las diferentes especializaciones necesarias para obtener el producto final. La capacitación cruzada puede ser particularmente útil para la resolución de problemas y puede otorgar mayor flexibilidad a a la empresa.
+* Reuniones regulares para comunicar la satisfacción del cliente, evaluar procesos, presentar nueva tecnología y resolver problemas aseguran una eficaz comunicación entre todos los miembros del escalafón (UKASTA, 1998, 2000).
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+18. DOCUMENTACIÓN
+
+La documentación es una necesidad primordial en el control de calidad y el rastreo.
+* Su propósito principal es definir el sistema de control necesario para reducir el riesgo de error. Este sistema incluye la definición y el dominio de los puntos críticos del proceso de producción y el diseño y la implementación del plan de control de calidad.
+* Es también necesaria para probar que el personal ha sido instruido en los detalles de los procedimientos necesarios y para rastrear productos defectuosos e investigar el problema.
+* El sistema de documentación debe organizarse de manera tal que permita determinar la historia de cada lote, mezcla o proceso del producto.
+* La documentación debe ser adecuada y sistemática, relativa tanto al proceso de fabricación como al control de calidad.
+* Todos los documentos relevantes, incluyendo aquellos que se refieren al control de calidad o los procedimientos del análisis de peligros y de puntos críticos de control, deben conservarse el tiempo requerido por las regulaciones locales o bien por un período prudencial.
+* Un ejemplo real de Código de práctica y de procedimientos correctos a seguir son el Código de procedimientos para la fabricación de UKASTA «Code of Practice for the Manufacture of Safe Compound Animal Feedingstuffs» (UKASTA, 1998, 2000) y el Código provisional de procedimientos para una correcta alimentación animal (FAO, 1998; Apéndice IV).
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+19. REFERENCIAS
+
+AAFCO (Association of American Feed Control Officials). 2000. 2000 Official Publication, Association of American Feed Control Inc. West Lafayette, IN 47971 USA, 444p. http://www.aafco.org
+
+Akiyama, D.M. y Tan, R.K.H. (eds). 1991. Proceedings of the Aquaculture Feed Processing and Nutrition Workshop, Thailand and Indonesia, September 19-25. American Soybean Association, Singapore 0923, Republic of Singapore, 241p.
+
+Akiyama, D. y Hunter, B. 2000. A review of the Asian aquafeed industry, pp.36-38. International Aquafeed Directory y Buyers Guide 2001. Turret RAI plc, Uxbridge, UK.
+
+AFIA (American Feed Industry Association). 1993. Model Feed Quality Assurance Manual (Non FDA-registered facilities and feed manufacturing facilities manufacturing no medicated feeds). AFIA, Arlington, VA 22209 USA. http://www.afia.org
+
+Anonymous (Anon.). 2001. ADT claims invention of new BSE-free, environmentally friendly rendering process. Feedstuffs, 73(1):19.
+
+AOAC (Association of Official Analytical Chemists). 1990. Official Methods of Analysis of the Association of Official Analytical Chemists. Thirteenth Edition. Association of Official Analytical Chemists (publisher), Washington, DC 20044, USA, 1018p.
+
+Barber, T. 2000. Trends in drying aquaculture feeds. International Aquafeed, Issue 3 (2000):26-33.
+
+Barrows, F.T. 2000. Larval feeds: two methods for production of on-size, microbound particles. The Global Aquaculture Advocate, 3(1):61-63.
+
+Barrows, F.T. y Hardy, R.W. 2000. Feed manufacturing technology, pp.354-359. In: Stickney, R.R. (Editor), Enclyclopedia of Aquaculture, John Wiley y Sons Inc., New York, 1063p.
+
+Bartone, E. 1999. Steam conditioning of crustacean feeds reviewed. International Aquafeed, 3:.27-35.
+
+Bates, L.S., Akiyama, D.M. y Lee, R.S. 1995. Aquaculture Feed Microscopy Manual. American Soybean Association, Singapore, 49p.
+
+Best, P. 1999. Danish innovation: spraying vitamins onto pellets. Feed International, 20(9):39-46.
+
+Beumer, H. y Van Der Poel, A.F.B. 1997. Effects on hygienic quality of feeds examined. Feedstuffs 69(53):13-15.
+
+Boonyaratpalin, M. y Chittiwan, V. 1999. Shrimp feed quality control in Thailand. International Aquafeed, 3:23-26.
+
+Boyd, L.H. 1999. Feed regulation. Feedstuffs Reference Issue, 71(31):112-114.
+
+Boyd, C.E. y Massaut, L. 1999. Risks associated with the use of chemicals in pond aquaculture. Aquaculture, 20:113-132.
+
+Cahill, S. 2000. Evaluación de riesgos microbiológicos en los alimentos: enfoque internacional. Alimentación, Nutrición y Agricultura, 27:13p. FAO División de Alimentación y Nutrición, FAO, Roma, Italia.
+http://www.fao.org/docrep/003/X8576M/X8576M00.htm
+
+Cruz, P.S. 1996. Feed quality problems and management strategies, pp.64-73. In: Santiago, C.B., Coloso, R.M., Millamena, O.M., y Borlongan, I.G., (Editors), Feeds for Small-Scale Aquaculture, Aquaculture Department, Southeast Asian Fisheries Development Center, Iloilo, Philippines.
+
+Csengeri, I. y A.G.J. Tacon. 2000. Progress in freshwater fish and crustacean nutrition methodology and needs for research for semi-intensive pond based farming systems, pp.7-17. In: I. Csengeri, A. Szito, Z.G. Papp and A.G.J. Tacon (Editors), Fish and Crustacean Nutrition Methodology and Research for Semi-intensive Pond-based Farming Systems. HALASZATFEJLESZTES 23 - Fisheries Development, Vol. 23, HAKI, Szarvas, Hungary.
+
+Davis, D.A. 2001. Best management practices for feeds and feeding practices. Book of Abstracts, p.166. Aquaculture 2001, The Annual International Conference and Exhibition of the World Aquaculture Society, Jan 21-25, 2001. Orlando, Florida.
+
+Divakaran, S. 1999. Analytical Procedures manual for Aquaculture Feeds and Feed Ingredients, Volume 4 of the AFIA Laboratory Methods Compendium II. American Feed Industry Association, Arlington, VA., USA, 109 pp.
+
+D'Mello, J.P.F. 2001. Contaminants and toxins in animal feeds. FAO Feed and Food Safety Page. Animal Production and Health Division. FAO, Rome, Italy.
+http://www.fao.org/agrippa/publications/ToC3.htm
+
+Dominy, W.G. 1994. Aquatic feeds processing, pp.495-496. In: Feed Manufacturing Technology IV. R. McEllhiney (Technical Editor). American Feed Industry Association, Inc., Arlington, Virginia.
+
+Dominy, W.G., Tan, R.K.H., Akiyama, D. y Bewley, W.H. 1994. The pelleting process for shrimp feeds, pp.505-509. In: Feed Manufacturing Technology IV. R. McEllhiney (Technical Editor). American Feed Industry Association, Inc., Arlington, Virginia.
+
+Dong, F.M. y Hardy, R.W. 2000. Feed evaluation, chemical, pp.340-350. In: Stickney, R.R. (Editor), Enclyclopedia of Aquaculture, John Wiley y Sons Inc., New York, 1063p.
+
+Erickson, P. 2000. Experiences in ultra fine aquatic feed size reduction. International Aquafeed, Issue 4 (2000):40-41.
+
+FAO. 1998. Animal feeding and food safety. Food and Nutrition Paper 69. Rome, FAO. 48p.
+http://www.fao.org/docrep/W8901E/W8901E00.htm
+
+FAO. 1999. Desarrollo de la Acuicultura. FAO Orientaciones Técnicas para la Pesca Responsable N°5, Roma, FAO. 54p.
+http://www.fao.org/DOCREP/003/W4493S/W4493S00.htm
+
+FAO/NACA/WHO. 1999. Report of the FAO/NACA/WHO Study Group on Food Safety Issues Associated with Products from Aquaculture. WHO Technical Report Series 883, WHO-HQ, Geneva, Switzerland, 55p.
+
+FAO/OMS. 1996. Codex Alimentarius: Vol. 3 - Normas Codex sobre residuos de medicamentos veterinarios en los alimentos. (2a ed., rev.1995) 1996, 91p.
+http://www.codexalimentarius.net
+
+FAO/OMS. 1997. Higiene de los alimentos: Normas codex sobre requisitos generales, HACCP Principios para el establecimiento y la aplicación de criterios microbiológicos a los alimentos, 1997, 64pp.
+http://www.codexalimentarius.net
+
+FAO/OMS. 1999. Etiquetado de los alimentos: textos completos, 1998, 53pp. 1999 Rev. Edición. http://www.codexalimentarius.net
+
+FAO/OMS. 2000. Codex Alimentarios: Vol. 2B - Residuos de plaguicidas en los alimentos - límites máximos en residuos. Segunda edición (Rev. 2000), 552p.
+http://www.codexalimentarius.net
+
+FAO/WHO. 1995. Report of the FAO/WHO Expert Consultation on Application of Risk Analysis to Food Standards Issues, WHO-HQ, Geneva, 13-17 May 1995. WHO/FNU/FOS/95.3.
+
+FAO/WHO. 1997. Risk management and food safety. Report of a Joint FAO/WHO Consultation, Rome, Italy, 27 to 31 January 1997. FAO Food and Nutrition Paper 65. Rome, FAO. 27p.
+http://www.fao.org/docrep/W4982E/W4982E00.htm
+
+FAO/WHO.2000a. Proposed Draft Code of Practice for Fish and Fishery products. Report prepared as Agenda Item 4 for the Codex Alimentarius Commission, Codex Committee on Fish and Fishery Products, Twenty-fourth Session, Alesund, Norway, 5-9 June 2000. CX/FFP00/4.
+http://www.codexalimentarius.net
+
+FAO/WHO. 2000b. Report of the Joint FAO/WHO Expert Consultation on Risk Assessment of Microbial Hazards in Foods, FAO HQ, Rome, Italy, 17-21 July 2000. 52p.
+http://www.codexalimentarius.net
+
+Fedorka-Cray, P. y Lautner, B. (eds). 1996. Ecology of Salmonella in Pork Production. National Animal Disease Center, Ames, Iowa.
+
+Forster, I. 2000. Nutrient requirements, pp.592-600. In: Stickney, R.R. (Editor), Enclyclopedia of Aquaculture, John Wiley y Sons Inc., New York, 1063p.
+
+GESAMP (IMO/FAO/UNESCO-IOC/WMO/WHO/IAEA/UN/UNEP Joint Group of Experts on the Scientific Aspects of Marine Environmental Protection). 1997. Towards safe and effective use of chemicals in coastal aquaculture. Rep.Stud.GESAMP,(65):40p.
+http://www.fao.org/DOCREP/MEETING/003/W6435E.HTM
+
+Gill, C. 1999. Dedicated to hygiene: pathogen-free poultry breeder feeds. Feed International, 20(12): 26-29.
+
+Gill, T.A. 2000a. Waste from processing aquatic animals and animal products: implications on aquatic animal pathogen transfer. FAO Fisheries Circular No. 956, FIIU/C956 (En), FAO, Rome, Italy, 26p.
+
+Gill, C. 2000b. New commercial application: vacuum liquid coating for pressed pellets. Feed International, 21(8):26-27.
+
+Halvorsen, S. 2000. The nutritional impact of fine grinding. International Aquafeed, Issue 4 (2000):37-41.
+
+Hardy, R.W. 1991. Application of hazard analysis and critical control point principles to feed manufacturing, pp.121-128. In: D.M. Akiyama y R.K.H. Tan (eds), Proceedings of the Aquaculture Feed Processing and Nutrition Workshop, Thailand and Indonesia, September 19-25, 1991. American Soybean Association, Singapore 0923, Republic of Singapore. 241p.
+
+Hardy, R.W. y Roley, D.D. 2000. Lipid oxidation and antioxidants, pp.470-476. In: Stickney, R.R. (Editor), Enclyclopedia of Aquaculture, John Wiley y Sons Inc., New York, 1063p.
+
+HMSO. 1992. The Report of the Expert Group on Animal Feedingstuffs to the Minister of Agriculture, Fisheries and Food, the Secretary of State for Health and the Secretaries of State for Wales, Scotland and Northern Ireland. London. Her Majesty's Stationary Office, 606pp.
+
+Howgate, P. 1998. Review of the public health safety of products from aquaculture. Journal of Food Science and Nutrition, 33:99-125.
+
+Jones, F.T. 2000. Quality control in feed manufacturing. 2000 Feedstuffs Reference Issue, Feedstuffs, 72(29):85-89.
+
+Kangleon, R.A. 1994. Quality management in a feedmill laboratory. American Soybean Association (ASA) Technical Bulletin, MITA (P) No. 071/12/93, Vol. FT16-1994, 9p. American Soybean Association, Republic of Singapore.
+
+Khajarern, J. y Khajarern, S. 1999. Manual of feed microscopy and quality control, Third Edition. American Soybean Association and US Grains Council, Klang Nana Wittaya Co. Ltd, Khon Kaen, Thailand, 256p.
+
+Kearns, J.P. 1998. Extrusion reviewed. International Aquafeed, Issue 3 (1998):33-37.
+
+Langdon, C. 2000a. Microparticulate feeds, complex microparticles, pp.528-529. In: Stickney, R.R. (Editor), Enclyclopedia of Aquaculture, John Wiley y Sons Inc., New York, 1063p.
+
+Langdon, C. 2000b. Microparticulate feeds, micro encapsulated particles, pp.529-530. In: Stickney, R.R. (Editor), Enclyclopedia of Aquaculture, John Wiley y Sons Inc., New York, 1063p.
+
+Lazo, J.P. y Davis, D. 2000. Ingredients and feed evaluation, pp.453-463. In: Stickney, R.R. (Editor), Enclyclopedia of Aquaculture, John Wiley y Sons Inc., New York, 1063p.
+
+Li, M.H., Raverty, S.A. y Robinson, E.H. 1994. Effects of dietary mycotoxins produced by the mold fusarium moniliforme on channel catfish (Ictalurus punctatus). Journal of the World Aquaculture Society, (25)512-516.
+
+Li, M.H., Robinson, E.H. y Hardy, R.W. 2000. Protein sources for feeds, pp.688-695. In: Stickney, R.R. (Editor), Enclyclopedia of Aquaculture, John Wiley y Sons Inc., New York, 1063p.
+
+Lobo, P. 2000. Canadian Update: Implementing GMPs and HACCP in the mill to improve feed safety. Feed Management, 51(1):27-30.
+
+Lovell, R.T. 1997. Dietary nutrient allowances of fish. Feedstuffs Reference Issue 69(30): 90-96.
+
+Lovell, R.T. 2000. Mycotoxinas, pp.579-582. In: Stickney, R.R. (Editor), Enciclopedia de Acuicultura, John Wiley y Sons Inc., New York, 1063p.
+
+Machin, D.H. 2001. Safe use of plant and animal by-products. FAO Feed and Food Safety Page. Animal Production and Health Division. FAO, Rome, Italy.
+http://www.fao.org/agrippa/publications/ToC5.htm
+
+McEllhiney, R.R. 1994. Feed Manufacturing Technology IV. American Feed Industry Association, Inc. Arlington, VA 22209 USA, 606p.
+
+Meronuck, R. y Xie, W.Q. 2000. Mycotoxins in feed. 2000 Feedstuffs Reference Issue 72(29):95-102.
+
+New, M.B., Tacon, A.G.J. y Csavas, I. 1995. Farm-made aquafeeds. FAO Fisheries Technical Paper No. 343.
+
+Nickelson, R. 1998. The quality and safety of aquacultured foods. World Aquaculture, 29(1):60-62.
+
+O'Keefe, T. 2000. Feed handling and storage, pp.350-354. In: Stickney, R.R. (Editor), Enclyclopedia of Aquaculture, John Wiley y Sons Inc., New York, 1063p.
+
+Parr, W.H. (Compiler) and contributors, 1988. The small-scale manufacture of compound animal feed. Overseas Development Natural Resources Institute, Bulletin No.9, Chatham, UK, 87p.
+
+Pearl, G.G. 2000. Rendering's role in biosecurity and emerging diseases. Render, 29(2):46-54.
+
+Pike, I.H. y Hardy, R.W. 1997. Standards for assessing quality of feed ingredients, p.473-491. In: D'Abramo, L.R., Conklin, D.E. y Akiyama, D.M. (Editors), Crustacean Nutrition, Advances in World Aquaculture No.6, World Aquaculture Society, Baton Rouge, USA.
+
+Pipa, F. y Frank, G. 1989. High-Pressure Conditioning with Annular Gap Expander. Advances in Feed Technology, 2:22-30.
+
+Poh Sze, C. 2000. Antibiotic use in aquaculture: the Malaysian perspective. INFOFISH International 2/2000:24-28.
+
+Polidori, P. y Renaud, J. (Editors). 1995. Quality control and requirements of food of animal origin. FAO Regional Office for Europe (REU), REU Technical Series No. 40, FAO, Rome, 178p.
+
+Preston, T.R. 1995. Tropical Animal Feeding. A manual for research workers. FAO Animal Production and Health Paper No. 126, FAO, Rome, 305p.
+http://www.fao.org/docrep/W0613T/W0613T00.htm
+
+Reilley, A. y Kaferstein, F. 1997. Food safety hazards and the application of the principles of the hazard analysis and critical control point (HACCP) system for their control in aquaculture production. Aquaculture Research, 28:735-752.
+
+Riaz, M. 2001. Developments in extrusion technology for aquafeeds. International Aquafeeds, Issue 1(2001):34-38.
+
+Rokey, G.J. 2001. Extrusion production of aquatic feeds. The Global Aquaculture Advocate, 4(2):39-41.
+
+Rout, R.K. y Bandyopadhyay, S. 1999. A comparative study of shrimp feed pellets processed through cooking extruder and meat mincer. Aquacultural Engineering, 19 (1999):71-79.
+
+Said, N.W. 1996. Extrusion of alternative ingredients: an environmental and a nutritional solution. Journal of Applied Poultry Research, 5:395-407.
+
+Shiau, S-Y. 1998. Nutrient requirements of penaeid shrimps. Aquaculture, 164:77-93.
+
+Sitasit, P. 1995. Feed ingredients and quality control, p.75-86. In: New, M.B., Tacon, A.G.J. y Csavas, I. (Editors). Proceedings of the Regional Expert Consultation on Farm-Made Aquafeeds, 14-18 December 1992, Bangkok, Thailand. FAO-RAPA/AADCP, Bangkok, Thailand.
+
+Spencer Garrett, E., dos Santos, C. y Jahncke, M.L. 1997. Public, animal, and environmental health implications of aquaculture. Emerging Infectious Diseases, 3(4):453-457.
+
+Stickney, R.R. 2000. History of aquaculture, pp.436-446. In: Stickney, R.R. (Editor), Enclyclopedia of Aquaculture, John Wiley y Sons Inc., New York, 1063p.
+
+Sunderland, R. 2001. Drying of extruded sinking aquatic feeds, pp.33-35. International Aquafeed Directory and Buyers Guide 2001. Turret RAI, Uxbridge, UK.
+
+Sutmoller, P. 1998. Contaminated food of animal origin: hazards and risk management. Synthesis of the OIE Scientific and Technical Review Volume 16(2), 1997, OIE, Paris, France, 28p.
+
+Tacon, A.G.J. 1996. Nutritional studies in crustaceans and the problems of applying research findings to practical farming systems. Aquaculture Nutrition 2:165-174.
+
+Tacon, A.G.J. and Forster, I.N. 2000. Global trends and challenges to aquaculture and aquafeed development in the new millennium, pp.4-25. International Aquafeed Directory y Buyers Guide 2001, Turret RAI plc, Uxbridge, Middlesex, UK..
+
+Tacon, A.G.J. y Obaldo, L.G. 2001. Determining physical stability of shrimp feeds. The Global Aquaculture Advocate, 4(1):30-31.
+
+Tan, R.K.H. 1993. Quality assurance in feed milling. ASA Technical Bulletin, MITA (P) No. 518/12/92, Vol. FT5-1993, p.16. American Soybean Association, Republic of Singapore.
+
+Tan, R.K.H. y Dominy, W.G. 1997. Commercial pelleting of crustacean feeds, pp.520-549. In: D'Abramo, L.R., Conklin, D.E. y Akiyama, D.M. (Editors), Crustacean Nutrition, Advances in World Aquaculture No.6, World Aquaculture Society, Baton Rouge, USA.
+
+Trigo-Stocki, D.M. 1994. Control and management of molds and mycotoxins in feed ingredients. ASA Technical Bulletin, MITA (P) No. 071/12/93, Vol. FT17-1994, 9p. American Soybean Association, Republic of Singapore.
+
+Tsang, B. 2001. Liquid applications in feed manufacturing. ASA/USB Technical Bulletin, MITA (P) No.271/10/2000, FT51-2001, American Soybean Association, Republic of Singapore, 4p.
+
+UKASTA (United Kingdom Agricultural Supply Trade Association). 1998. UKASTA Code of Practice for the Manufacture of Safe Animal Feedingstuffs and Guidelines for the Implementation of the UKASTA Code of Practice for the Manufacture of Safe Compound Animal Feedingstuffs. September 1998. UKASTA, London.
+
+UKASTA. 2000. UKASTA Code of Practice for the Manufacture of Safe Compound Animal Feedingstuffs. November 2000 (2^nd Edition). UKASTA, London.
+
+UKASTA. 2001. FEMAS - Fish Meal: A Feed Materials Assurance Scheme Standard. A joint UKASTA y UKAFMM Certification Scheme Standard for Fish Meal used in Animal Feed. May 2001, 35p. UKASTA, London.
+
+Van De Venter, T. 2000. Emerging food-borne diseases: a global responsibility. Food, Nutrition and Agriculture, 26:18p. FAO Food and Nutrition Division, FAO, Rome, Italy.
+http://www.fao.org/DOCREP/003/X7133M/X7133M00.HTM
+
+Whitehead, A.J. 1998. Ensuring food quality and safety and FAO technical assistance. Food, Nutrition and Agriculture, 21:12p. FAO Food and Nutrition Division, FAO, Rome, Italy.
+http://www.fao.org/docrep/W9474T/w9474t03.htm
+
+Woodroofe, J. 1999. The bottom line of using extrusion technology in fish feed production in the Asia Pacific region. International Aquafeed, Issue 4, 1999, pp.8-9.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+APÉNDICE I: ESQUEMA DEL PROCEDIMIENTO PARA RETIRAR UN PRODUCTO DEL MERCADO
+
+1. Resumen
+
+La posibilidad de tener que retirar un producto del mercado debe ser notificada a tiempo e investigada por un funcionario responsable que tenga la autoridad de establecer la clase de retiro en esa situación determinada. Cuando sea posible, se nombrará un Comité de Retiro.
+
+El Comité de Retiro y su presidente se reunirán rápidamente cuando se trate de una situación de Clase I, II o III.
+
+Todas las informaciones recibidas y las comunicaciones difundidas sobre el retiro deben ser aprobadas por el presidente del Comité de Retiro.
+
+El jefe de producción debe proveer un registro completo y las muestras correspondientes. La comunicación es tan importante en una situación de retiro que los miembros del Comité de Retiro pueden necesitar dedicarse a ella casi por completo en las fases iniciales de la emergencia. Una línea telefónica reservada para informar a los clientes u otras personas puede resultar necesaria.
+
+La política y los procedimientos que se implementarán en caso de retiro de productos deben revisarse cada año.
+
+2. Definiciones
+
+A continuación figuran algunas definiciones orientadoras acerca del procedimiento de retiro de productos.
+
+Retiro de Clase I - Situación de retiro que corresponde a una seria emergencia concerniente a un producto que puede tener un efecto inmediato o de largo plazo sobre la vida de los animales acuáticos o de los consumidores humanos.
+
+Retiro de Clase II - Situación de retiro prioritaria concerniente a un producto que puede ser un potencial peligro para la vida o la salud humana o animal.
+
+Retiro de Clase III - Situación de retiro concerniente a un producto que no comporta amenazas para la salud, pero que puede tener serias o extendidas consecuencias en la relación con el cliente o en el prestigio de la empresa ante la opinión pública.
+
+Retiro externo - Retiro del mercado de un producto que haya sido distribuido y que se encuentre más allá del control directo de la organización del productor.
+
+Retiro interno - Retiro del mercado de un producto que se encuentra todavía bajo el control directo del productor.
+
+Retención - Retener un producto, ya sea que se encuentre en el mercado, en un punto del proceso ulterior a la fabricación o en la etapa de expedición, cuando haya pruebas de una disminución de la calidad o de un error de etiquetado.
+
+3. Procedimientos
+
+Cuando se hace evidente la posibilidad de tener que retirar un producto, hay que informar inmediatamente al director de producción y al director de control de calidad.
+
+El director de control de calidad debe asumir la responsabilidad de investigar inmediatamente, utilizando todos lo recursos de la compañía, para determinar lo antes posible si se trata de una situación de retiro de Clase I, II, III, o bien de una de menor importancia.
+
+Si la conclusión del director de control de calidad es que se trata de un retiro de Clase I, II o III, debe convocar inmediatamente el Comité de Retiro. A partir de entonces el presidente del comité coordinará todas las actividades de retiro, manteniendo informados al resto de los miembros. Una situación menos prioritaria puede manejarse con los recursos de la planta, sin convocar un comité.
+
+El Comité de Retiro debería incluir personas expertas en las siguientes áreas:
+* Reglamentación
+* Producción
+* Ventas
+* Control de calidad
+* Relaciones públicas
+* Asesoramiento legal
+* Compras
+* Nutrición
+
+El Comité de Retiro debe determinar las mejores y más rápidas medidas generales con que se encarará el retiro. Aunque cada situación será distinta, pueden ser útiles las siguientes orientaciones generales:
+* Determinar los códigos de identificación y las fechas de manufactura del lote del producto sospechoso.
+* Establecer dónde se encuentra en ese momento el lote completo del producto. En otras palabras, ¿cuál es el estado del alimento acuícola en cuestión?
+* Avisar inmediatamente a todos los sitios a donde se ha expedido el producto. Ordenar un «alto a las ventas». Si el producto ya ha llegado a manos de los consumidores, contactar a los vendedores y/o distribuidores y pedirles que preparen una lista de todos los clientes que han recibido el producto.
+* Procurar que el Comité de Retiro emita instrucciones acerca de cómo manejar los contactos externos de la compañía, con clientes, agentes, concesionarios, medios de comunicación, etc.
+* Decidir si se informará a los medios de comunicación. Si es así, poner el asunto en manos del departamento de relaciones públicas o quien designe su responsable.
+* Definir si es necesario informar inmediatamente a los organismos gubernamentales. Esta medida puede ayudar, pero también puede empeorar las cosas si los oficiales se convencen de que se ha intentado ocultar el hecho.
+* Nombrar a una persona que tome y conserve notas precisas acerca de la mercadería producida, expedida, más tarde retirada y al fin eliminada. Un registro de las acciones de retiro con su fecha y hora también puede ser necesario como cobertura legal.
+* Asegurarse de que las muestras tomadas sean adecuadamente identificadas y custodiadas; refrigerarlas si necesario, para prevenir su descomposición. Si fuera indicado hacer un análisis de la muestra, proceder enseguida, conservando siempre una copia de cada lote de muestras analizado.
+* Mantener informados al Comité de Retiro, al director de la planta, a cada cliente y a los medios de comunicación si corresponde, de modo que los hechos no sean reemplazados por informaciones imprecisas o que puedan resultar mal interpretadas.
+* Activar una línea telefónica durante las 24 horas del día para atender las consultas de los consumidores, si se lo considera necesario.
+
+4. Comité de retiro
+
+Nombre
+
+Tel. particular
+
+Presidente:
+
+
+
+_
+
+Reglamentación:
+
+
+
+_
+
+Producción:
+
+
+
+_
+
+Ventas:
+
+
+
+_
+
+Control de calidad:
+
+
+
+_
+
+Relaciones públicas:
+
+
+
+_
+
+Asesoramiento legal:
+
+
+
+_
+
+Compras:
+
+
+
+_
+
+Nutrición:
+
+
+
+_
+
+Contactos adicionales relativos a un retiro de producto
+
+Compañía aseguradora
+
+
+
+Tel. 
+
+Línea reservada:
+
+
+
+Ministerio de Agricultura:
+
+
+
+Únicamente el presidente del Comité de Retiro debe llevar a cabo los contactos con los organismos gubernamentales. Cuando reporte un retiro, debe asegurarse de que se registren la fecha y la hora de llamada, y anotar el nombre del empleado que lo atendió.
+
+5. Lista sugerida para supervisar el retiro
+
+Sí
+
+No
+
+Comentarios
+
+1. ¿Se ha puesto en actividad el Comité de Retiro?
+
+_
+
+_
+
+
+
+2. ¿Se ha identificado el producto sospechoso?
+
+_
+
+_
+
+
+
+3. ¿Se han determinado el código y la fecha de identificación?
+
+_
+
+_
+
+
+
+4. ¿Se ha establecido dónde se encuentra la totalidad del producto?
+
+_
+
+_
+
+
+
+5. ¿Se ha avisado a todos los receptores?
+
+_
+
+_
+
+
+
+6. ¿Se ha expedido el producto a los consumidores?
+
+_
+
+_
+
+
+
+Si es así, ¿se ha hecho una lista de consumidores?
+
+_
+
+_
+
+
+
+7. ¿Se ha avisado a los consumidores?
+
+_
+
+_
+
+
+
+8. Si es el caso, ¿se ha avisado a los medios?
+
+_
+
+_
+
+
+
+9. ¿Se ha avisado a un departamento gubernamental?
+
+_
+
+_
+
+
+
+Si no es así, ¿por qué?
+
+_
+
+_
+
+
+
+10. ¿Se han guardado los siguientes documentos?
+
+_
+
+_
+
+
+* Registros del lote del producto
+
+_
+
+_
+
+
+* Registros de expedición
+
+_
+
+_
+
+
+* Registros de los ingredientes
+
+_
+
+_
+
+
+* Registros del producto a granel
+
+_
+
+_
+
+
+* Registros del ensacado
+
+_
+
+_
+
+
+* Registros de etiquetado
+
+_
+
+_
+
+
+* Actas del Comité de Retiro
+
+_
+
+_
+
+
+
+11. ¿Se han recibido las muestras y se las ha identificado y preservado con propiedad?
+
+_
+
+_
+
+
+
+12. ¿Están bien guardadas las muestras?
+
+_
+
+_
+
+
+
+13. ¿Se han analizado las muestras sospechosas de ser el origen o la causa del incidente?
+
+_
+
+_
+
+
+
+Cuando se notifica al cliente, al consumidor o al intermediario/distribuidor, prestar atención a las siguientes recomendaciones:
+* Alertar, pero no alarmar
+* Ser franco y honesto
+* Comunicar los números de identificación del lote en cuestión
+* Ofrecer una opción para sustituir el alimento
+* Estar preparado para responder preguntas o quejas
+* Documentar en detalle todas las conversaciones
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+APÉNDICE II: ESTUDIO DEL PRODUCTO Y DE SU RENDIMIENTO Y LISTA DE CONTROLES
+
+1. Consideraciones generales
+
+A lo largo de esta sección, los términos quejas, reclamos, exigencias y demandas se utilizarán de manera intercambiable, para significar que un tercero, normalmente un cliente, no está satisfecho con un producto o servicio, lo cual redunda en un perjuicio a sus finanzas. Estos términos pueden referirse también a los daños corporales o personales sufridos por un individuo debido a un acto de negligencia de la compañía. Es posible que de vez en cuando surjan reclamos de clientes así como quejas relacionadas con la responsabilidad de la empresa. El manejo exitoso de estas quejas o reclamos dependerá de la posibilidad de contar rápidamente con información referida a los hechos que los originaron.
+
+Prestar atención inmediata al problema planteado por un cliente u otro demandante normalmente puede prevenir que el problema se complique. El productor deberá defender sus productos. Si ha cometido un error, su política debe ser cumplir velozmente con la obligación que este error le ha creado. Las quejas que son ignoradas o encaradas de un modo inapropiado terminarán en un pleito, que resultará costoso. Si hay un error en la fórmula, la compañía deberá pagar la demanda; de otro modo, deberá pagar para probar que no hubo falta por su parte. Todas los reclamos deben ser considerados. Denegar el más pequeño de ellos costará a la compañía tiempo, dinero y prestigio. Cada queja deberá manejarse de manera que el fabricante se encuentre en una posición defendible si debiera terminar en pleito.
+
+2. Archivos de investigación del producto y su rendimiento
+
+Contar con archivos detallados y bien documentados es imprescindible para la defensa y el acuerdo durante las demandas. El jefe de control de calidad debe ser responsable de mantener completa y actualizada la información de los siguientes archivos:
+* De investigación de los productos sin medicación.
+* De investigación de los productos con medicamentos.
+* Informes del servicio al cliente.
+
+El jefe de producción debe revisar semanalmente el archivo correspondiente al producto, para garantizar que las demandas hayan sido respondidas o satisfechas.
+
+3. Sugerencias acerca de lo que hay y lo que no hay que hacer en la gestión de las investigaciones sobre alimentos
+
+La situación creada por quejas sobre un alimento debería encararse y resolverse rápidamente; dos semanas podría ser demasiado tiempo. Es imprescindible contar por adelantado con un plan de acción especiífico. A continuación figuran varias ideas sobre formas correctas e incorrectas de manejar las investigaciones del producto y su eficacia.
+* Tomar seriamente todas las quejas desde el mismo momento en que son presentadas. Las pequeñas podrían tornarse grandes y terminar en importantes demandas legales.
+* Analizar a fondo la situación creada mientras que los hechos están frescos. Utilizar una lista de control estándar de manera que se cubran todas las cuestiones posibles.
+* Convocar a un veterinario acreditado u otro consultor de acuicultura para tener una tercera opinión si se la necesita, dependiendo de la naturaleza del reclamo.
+* Tomar una apropiada muestra representativa del alimento en cuestión. El muestreo del producto debe efectuarse de acuerdo con los estándares de la industria de una manera aséptica. Algunas veces es posible lograr que sea el oficial de control alimentario quien tome la muestra representativa. De la misma manera, las muestras de agua deben tomarse en la granja lo más pronto posible una vez ocurrido el incidente.
+* Garantizar que se tomen fotografías (preferiblemente diapositivas en color) de los animales, las instalaciones, los daños y de la granja, molino, estanque o canal en el momento del reclamo. Si hay animales enfermos y/o muertos, la investigación in situ deberá llevarse a cabo tan pronto como sea posible en presencia del cliente y de un veterinario calificado que represente a la fábrica de alimentos acuícolas.
+* Ser extremamente cuidadoso en el manejo y envío de las muestras. El uso del correo certificado es fundamental, así como recurrir a laboratorios acreditados.
+* Si se decide detener el abastecimiento del producto, retirar inmediatamente todos los productos dudosos. Abastecer con un nuevo lote de alimento fresco después de haber analizado exhaustivamente la fórmula, los procedimientos de control de calidad y haberse asegurado de que cada contenedor del alimento haya sido limpiado completamente. Recordar que retirar el alimento no es una admisión de culpa sino un adecuado procedimiento precautorio.
+* Obtener un diagnóstico veterinario rápidamente, que puede confirmarse con un segundo veterinario no asociado con el cliente. Recordar que desde el principio debería intervenir un veterinario calificado. Sin embargo, resulta útil contar con un veterinario «de confianza» para responder las preguntas del cliente y trabajar junto al nutricionista.
+* Conservar un registro preciso del nombre, dirección y número de teléfono de todas las personas implicadas.
+* Redactar una precisa cronología de todos los sucesos, con fechas, horarios, condiciones meteorológicas y del agua, etc.
+* Obtener una exacta descripción del daño. Documentarla con números, hechos y fotografías, según se considere apropiado.
+* Controlar si las fuentes de agua están contaminadas. Puede ser indicado efectuar análisis químicos y/o microbiológicos.
+* No retrasar el momento de las aclaraciones directas con el cliente. Si se trata de un error del encargado de ventas al tomar la orden, o del conductor del camión al entregar el contenedor equivocado, o de una equivocación en la misma planta al usar una fórmula incorrecta, etc., notificarlo inmediatamente a la dirección y tomar las apropiadas medidas correctivas. Actuar rápidamente puede ahorrar mucho tiempo, esfuerzo y dinero, y, sobre todo, mantendrá intacta la confianza y buena voluntad del cliente.
+* No tomar a la ligera las «quejas oportunistas» y notificarlas a la dirección inmediatamente. Podrían ser un indicio de que el cliente intenta no pagar una cuenta vencida.
+
+Se debe obtener la información contenida en la lista siguiente:
+
+LISTA DE CONTROLES EN LA INVESTIGACIÓN DEL PRODUCTO ACUÍCOLA Y SU EFICACIA
+
+Fecha del reclamo:  Nombre del cliente: _
+
+Dirección: _
+
+Teléfono:  Valor del reclamo: 
+
+Descripción del reclamo:
+
+Sí
+
+No
+
+Comentarios
+
+1. ¿Se ha respondido al reclamo en 24 horas?
+
+_
+
+_
+
+
+
+2. ¿Se investigó el origen del reclamo?
+
+_
+
+_
+
+
+
+3. ¿Se hizo una investigación en el lugar?
+
+_
+
+_
+
+
+
+Sí es así,
+* ¿se tomaron muestras del producto provenientes de alimentadores o tanques?
+
+_
+
+_
+
+
+* ¿se tomaron muestras del agua?
+
+_
+
+_
+
+
+* ¿se tomaron muestras de otros ingredientes?
+
+_
+
+_
+
+
+* ¿se tomaron fotos, películas o videos?
+
+_
+
+_
+
+
+* ¿se reportaron las condiciones del estanque/canal?
+
+_
+
+_
+
+
+* ¿se tomó testimonio a los empleados, en particular a quien efectuó la entrega del alimento?
+
+_
+
+_
+
+
+* ¿se verificaron los números de lote?
+
+_
+
+_
+
+
+
+4. ¿Se consideró el retiro del producto?
+
+_
+
+_
+
+
+
+5. ¿Hubo animales enfermos o muertos?
+
+_
+
+_
+
+
+
+Sí es así,
+* ¿se obtuvo un informe del veterinario?
+
+_
+
+_
+
+
+* ¿se obtuvo la autorización veterinaria correspondiente?
+
+_
+
+_
+
+
+
+6. ¿Se completó el informe de investigación de producción y entrega?
+
+_
+
+_
+
+
+
+7. ¿Se recibió el informe de laboratorio sobre las muestras del producto y del agua?
+
+_
+
+_
+
+
+
+8. ¿Se convocó al Comité de Retiro?
+
+_
+
+_
+
+
+
+9. ¿Se contactó a la compañía aseguradora?
+
+_
+
+_
+
+
+
+10. Si se trataba de un alimento con medicación, ¿se avisó a los productores de la medicina?
+
+_
+
+_
+
+
+
+11. ¿Se propuso un acuerdo?
+
+_
+
+_
+
+
+
+Si es así,
+
+_
+
+_
+
+
+* ¿tuvo éxito?
+
+_
+
+_
+
+
+* ¿se obtuvo una declaración libratoria?
+
+_
+
+_
+
+
+* ¿hay evidencia de denuncia?
+
+_
+
+_
+
+
+
+12. ¿Hubo testigos?
+
+Si es así, ¿quiénes fueron?
+
+_
+
+_
+
+
+
+13. ¿Se hizo una lista de otros usuarios del producto?
+
+_
+
+_
+
+
+
+14. ¿Se recogió el alimento?
+
+_
+
+_
+
+
+
+15. ¿Se enviaron a analizar muestras del lote?
+
+_
+
+_
+
+
+
+Persona que ha completado la lista de control:
+
+Adjuntar copias de todos los informes y documentos a esta hoja.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+APÉNDICE III: MANTENIMIENTO PREVENTIVO EN LA PLANTA DE PRODUCCIÓN
+
+EQUIPOS PIEZAS Y ACCIONES DE MANTENIMIENTO QUE SE DEBE CONTROLAR
+
+MONTACARGAS DE CUBETAS
+
+Cubetas, correa, empalme de transmisión
+Caja de engranajes
+Engrasado de cojinetes
+Tensión y alineamiento
+
+MEZCLADORA DE ALIMENTOS
+
+Caja de engranajes
+Puertas y engrasador
+Engrasado de cojinetes
+Arrastre
+Correas o álabes
+Barredor a aire
+Colectores
+
+CINTAS TRANSPORTADORAS
+
+Álabes
+Estado de la cadena y los piñones
+Caja de engranajes
+Arrastre
+Engrasado de cojinetes
+Variador de velocidades (cojinetes, cinta)
+Depósito
+
+TRANSPORTADORAS A TORNILLO
+
+Desplazamiento
+Caja de engranajes
+Arrastre
+Engrasado de cojinetes
+Variador de velocidades (cojinetes, cintas)
+
+PELETIZADORA
+
+Lubricado
+Cambio de aceite y filtro
+Variador de velocidades
+Engrasado de rodillos
+Engrasado de cojinetes
+Árbol principal y arrastre
+Engrasado de los cojinetes del motor
+Estado de rodillos y moldes
+
+ENFRIADORAS
+
+Cadenas
+Variador de velocidades
+Engranajes
+Engrasado de cojinetes
+Caja de engranajes
+Arrastre
+
+DESMENUZADORA
+
+Correas y arrastre
+Engrasado de cojinetes
+
+SACUDIDORAS y DESHIERBADORAS
+
+Cribas
+Caja de engranajes
+Engrasado de arandelas
+Engrasado de cojinetes
+
+SECADORAS DE GRANO
+
+Cadena
+Cucharones
+Elevadores
+Cojinetes
+
+BOBINA PULVERIZANTE
+
+Arrastre y cojinetes
+
+MEZCLADORA
+
+Variador de velocidades
+Engrasado de cojinetes
+Arrastre y correa
+
+TRITURADORA DE MARTILLO
+
+Cribas y martillos
+Limpieza de imanes
+Engrasado de cojinetes
+Arrastre y caja de engranajes
+Embrague
+Encofrado
+
+LAMINADORAS
+
+Imanes
+Correas
+Rodillos
+Cojinetes y bloqueos
+Tensores
+
+ENSACADORAS
+
+Caja de engranajes
+Cojinetes de engranajes
+Aceitadora
+Puertas y cilindros de aire comprimido
+
+COSEDORA
+
+Lubricación y limpieza
+
+TRANSPORTADORA DE SACOS
+
+Arrastre y correa
+Engrasado de cojinetes
+
+COMPRESORES DE AIRE
+
+Drenaje del agua
+Correas
+Filtro
+Cambio de aceite
+
+EMPUJADOR DE VAGONES
+
+Estado del aceite
+Estado de los engranajes
+
+CALDERA
+
+Muestreo del agua y añadido de aditivos químicos si es necesario
+Válvulas de seguridad a presión
+Bajo nivel de agua
+Inspección internacional
+Estado del quemador
+Lubricación de la bomba
+Acondicionador de agua
+
+BOMBAS PARA LÍQUIDOS
+
+Arrastre, guarnición y lubricación
+
+ELEVADOR DE PERSONAS
+
+Lubricación, ajuste y funcionamiento
+
+DISTRIBUIDORES
+
+Limpieza, ajuste, funcionamiento y lubricación
+(cabezas orientables-Verti Flo y Swing Flo)
+
+BALANZAS PEQUEÑAS
+
+Limpieza, lubricación y calibrado de la pesada llevado a cabo por un reparador de balanzas calificado (se recomienda un contrato de mantenimiento)
+
+BALANZA PARA CAMIONES
+
+Precisión de la impresora (en relación con la lectura de la aguja)
+Precisión de la pesada (en relación con otras balanzas)
+Libertad de movimiento
+Limpieza del puente y del foso
+Limpieza, lubricación y calibrado de la pesada llevado a cabo por un reparador de balanzas calificado (se recomienda un contrato de mantenimiento)
+
+TRACTORES Y CARRETILLAS
+
+Instrucción de operadores
+
+ELEVADORAS
+
+Remisión al manual de instrucciones
+
+HERRAMIENTAS Y ACCESORIOS DE MANTENIMIENTO
+
+Estado y adecuación para las tareas en curso
+
+PIEZAS DE RECAMBIO
+
+Inventario del tipo y número de piezas de recambio, adecuadas para efectuar un programa de mantenimiento preventivo eficaz
+
+MAQUINARIA DE LA PLANTA
+
+Planificación de la modificación, sustitución o complemento.
+
+EDIFICIO
+
+Pintura, albañilería, reparación de puertas, tejados y artefactos de iluminación. Planificación de mejoras.
+
+INSTALACIÓN DE FILTROS/FILTROS COLECTORES
+
+Presión diferencial, colectores, jaulas, caños,
+válvulas de aire y conexiones.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+APÉNDICE IV: CÓDIGO PROVISIONAL DE PROCEDIMIENTOS PARA UNA CORRECTA ALIMENTACIÓN ANIMAL (FAO, 1998)
+
+Introducción
+
+Este código de práctica se aplica a la fabricación de alimentos y al uso de todos aquellos que no sean los que se consumen en la pastura libre. El objetivo del código es incentivar la adhesión a los procedimientos idóneos de fabricación durante el aprovisionamiento, la manipulación, la elaboración, el almacenamiento y la distribución de alimentos para los animales que servirán a la vez de comida. Un objetivo ulterior es incentivar el uso de prácticas correctas de alimentación en la granja.
+
+Existen riesgos potenciales para la salud humana asociados con la contaminación de alimentos con agentes químicos ó biológicos. Este código reseña los medios a través de los cuales estos agentes nocivos pueden ser minimizados adoptando procedimientos apropiados de fabricación, manejo y control. Los requerimientos para afrontar los daños producidos por alimentos a la salud humana han sido tratados en otra parte.^[3]
+
+La administración general
+
+La responsabilidad final en cuanto a la producción de alimentos seguros y sanos recae en el productor o fabricante, quien debe elaborar alimentos con el menor nivel de agentes contaminantes posible y cumplir con todos los requisitos legales aplicables.
+
+La implementación efectiva de los protocolos de los procedimientos idóneos de fabricación asegurará que:
+
+- Edificios y equipos, incluyendo maquinaria de procesamiento, se construyan de una manera que facilite la operatoria, el mantenimiento y la limpieza;
+
+- el personal sea adecuadamente capacitado y esta capacitación se sostenga y actualice;
+
+- se mantengan registros concernientes a la fuente de los ingredientes, las fórmulas incluyendo el detalle y origen de todos los aditivos, la fecha de fabricación, las condiciones de elaboración y la fecha de expedición, así como especificaciones acerca del transporte y el destino;
+
+- se utilice agua potable durante la fabricación;
+
+- se seque la maquinaria que haya estado en contacto con alimentos después de cualquier proceso de limpieza con agua;
+
+- se minimice la condensación;
+
+- las aguas residuales, los desechos y el agua de lluvia circulen de una manera que no contamine los equipos, los ingredientes ni los alimentos;
+
+- las plantas de procesado de alimentos, los almacenes y sus alrededores se mantengan limpios y libres de insectos.
+
+Materias primas de origen animal y vegetal
+
+Las materias primas de origen animal o vegetal deben obtenerse de fuentes confiables y contar preferiblemente con la garantía del proveedor. El control de los ingredientes debe incluir la inspección y el muestreo para identificar contaminantes por medio de protocolos basados en los riesgos existentes. Los análisis de laboratorio deben seguir métodos estándares. Los ingredientes también deben satisfacer estándares aceptables y, si corresponde, legales, en cuanto a los niveles de agentes patógenos, micotoxinas, herbicidas, pesticidas y otros contaminantes que puedan causar daños a la salud humana.
+
+Para controlar la difusión de agentes patógenos específicos es necesario consignar, respecto de cada ingrediente, el país y la especie de origen y cualquier tratamiento o proceso que haya sufrido antes de su compra. Se debe tener la precaución de conservar la identidad de tal material después del aprovisionamiento, para facilitar su rastreo en caso de necesidad.
+
+Minerales, suplementos, medicinas veterinarias y otros aditivos
+
+Minerales, suplementos, medicinas veterinarias y otros aditivos deben obtenerse de proveedores reputados, que garanticen la concentración y pureza de los ingredientes y proporcionen instrucciones para su uso correcto.
+
+Gestión general de los alimentos
+
+Los alimentos deben almacenarse de manera de prevenir su deterioro y contaminación.
+
+Es necesario conservar por separado los ingredientes y los alimentos elaborados.
+
+Los contenedores y equipos usados para el transporte, almacenamiento, transferencia, manipulación y pesado deben mantenerse limpios.
+
+Los equipos deben limpiarse con chorros de material alimentario limpio entre lotes de fórmulas diferentes para evitar la contaminación cruzada.
+
+Los procesos de control de agentes patógenos, como la pasteurización o el añadido de un ácido orgánico para inhibir el crecimiento de moho, deben implementarse según las necesidades y es necesario verificar sus resultados.
+
+Los ingredientes y alimentos, excepto aquellos que necesiten humedad, como el forraje y los subproductos de la fermentación, deben conservarse secos para limitar el crecimiento de hongos y bacterias, lo cual probablemente requiera ventilación y control de la temperatura.
+
+Los desechos y materiales no comercializables deben aislarse e identificarse, y solamente podrán recuperarse como alimento una vez que se cuente con la seguridad de que están libres de contaminación nociva. Aquellos que contengan niveles dañinos de medicinas veterinarias, contaminantes o cualquier otro agente peligroso deben ser manipulados de manera adecuada y de acuerdo con las reglamentaciones, si las hubiera, y no ser utilizados como alimentos. Si no puede establecerse que se halla libre de agentes contaminantes, el material debe ser destruido.
+
+Los materiales que se usen para el envasado deben ser nuevos, a menos que se sepa que están libres de agentes que puedan difundirse con el alimento.
+
+Las etiquetas deben ser acordes con los requisitos legales, describir el alimento y proporcionar instrucciones para su uso.
+
+Los alimentos deben ser expedidos y utilizados lo antes posible después de su fabricación.
+
+Personal
+
+Todo el personal de la planta debe ser adecuadamente entrenado y trabajar según los estándares de los procedimientos idóneos de fabricación.
+
+
+^[3] Aplicación del Consulta de Expertos Unidos FAO/OMS, Ginebra, Suiza. 13-17 de marzo de 1995 (OMS/FNU/FOS/95.3).
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice
+
+
+CUBIERTA POSTERIOR
+
+Este estudio presenta orientaciones técnicas para la fabricación idónea de alimentos para la acuicultura. Las orientaciones fueron compiladas por la FAO como documentos de apoyo al Artículo 9 del Código de conducta para la pesca responsable sobre desarrollo de la acuicultura, y en particular al Artículo 9.4.3 en lo que respecta a la selección y uso de alimentos y aditivos. Las orientaciones tratan numerosos aspectos que van desde la compra de los ingredientes, la elaboración, el almacenamiento a granel, el manejo, seguimiento y documentación, hasta aspectos como el adiestramiento y seguridad del personal, las relaciones con los clientes, y el envío de los productos acabados al acuicultor. Sin embargo, los aspectos relativos a la gestión y manejo de los alimentos destinados a la acuicultura, elaborados por los mismos acuicultores en su factoría, no se tratan en este libro, ya que serán considerados en otra guía sobre las prácticas adecuadas de gestión de alimentos en la
+granja piscícola, que será objeto de una ulterior publicación.
+
+
+Página precedente Inicìo de página

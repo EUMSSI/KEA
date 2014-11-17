@@ -1,0 +1,986 @@
+FAO, Rapport sur les pêches No. 289 FIPP/FIRM/R 289
+
+Cover
+
+RAPPORT DE LA CONSULTATION TECHNIQUE SUR LA REGULATION DE L'EFFORT DE PECHE (MORTALITE PAR PECHE)
+
+Table des matières
+
+
+Rome, 17 - 26 janvier 1983
+
+Réunion préparatoire à la Conférence mondiale de la FAO sur l'aménagement et le développement des pêches
+
+PREPARATION DU PRESENT DOCUMENT
+
+Le présent document est le rapport de la Consultation technique sur la régulation de l'effort de pêche (mortalité par pêche), l'une des réunions préparatoires à la Conférence mondiale de la FAO sur l'aménagement et le développement des pêches, tel qu'il a été approuvé par les participants à l'issue de la réunion à Rome (17-26 janvier 1983). MM Beddington et Rettig préparent actuellement, sur la base des communications écrites présentées à la consultation et des débats de la réunion, une étude plus vaste des problèmes que pose le contrôle de l'effort de pêche, qui paraîtra comme document technique sur les pêches. Un choix des communications faites lors de la consultation sera publié comme supplément au présent rapport.
+
+RESUME
+Le présent rapport passe en revue les problèmes que pose le contrôle de l'effort de pêche. Toute méthode doit répondre à certains critères - maintien de la productivité de la ressource, performance économique, et équité (ou besoins sociaux). Il étudie les méthodes permettant d'atteindre ces objectifs : limite des prises, contrôle direct de la capacité de la flotille (limitation des permis, etc.), mesures indirectes (contrôle du maillage des filets, interdiction de pêche dans certaines zones, etc.) mesures financières et droits de propriété. Il expose les avantages et les inconvénients de chacune d'elle à la lumière des critères établis. Il n'y a pas de méthode universelle et simple. L'aménagement de la plupart des pêcheries doit faire appel à plusieurs méthodes et ne peut être isolé du développement.
+
+Liste de distribution: La référence bibliographique de ce document doit être donnée ainsi:
+Département des pêches de la FAO
+Fonctionnaires régionaux des pêches de la FAO
+Directeurs des pêches
+Sélecteur SM
+
+FAO, 1983 Rapport de la Consultation technique sur la régulation de l'effort de pêche (mortalité par pêche). Rome, 17-26 janvier 1983. Réunion preparatoire à la Conférence mondiale de la FAO sur l'aménagement et le développement des pêches. FAO,Rapp. Pêches, (289):36 p.
+
+ORGANISATION DES NATIONS UNIES POUR L'ALIMENTATION ET L'AGRICULTURE
+Rome 1983
+
+
+Les liens hypertextes vers d'autres sites de l'Internet ne signifient nullement que l'Organisation approuve officiellement les opinions, idées, données ou produits qui y sont présentés, qu'elle en assume la responsabilité ou qu'elle garantit la validité des informations qui s'y trouvent. Leur seul objectif est d'indiquer où trouver un complément d'informations sur des thèmes apparentés.
+
+Cette version numérique du document a été scannérisé en utilisant des logiciels de reconnaissance optique de texte (OCR). La FAO décline toute responsabilité pour les éventuelles différences pouvant apparaître dans ce document par rapport à la version imprimée originale.
+
+
+Table des matières
+
+OUVERTURE DE LA REUNION
+
+CRITERES DE LA REGULATION DE L'EFFORT DE PECHE
+
+TECHNIQUES DE REGULATION DE L'EFFORT DE PECHE
+
+Imposition de limites des captures
+
+Autres solutions envisagées pour réglementer l'effort de pêche et problèmes particuliers
+
+Sélectivité des engins/réglementation du maillage des filets
+
+Réactions des pêcheries
+
+Régulation de l'effort de pêche au moyen de permis accordés aux navires ou aux pêcheurs et du contrôle des engins
+
+Conservation de la ressource
+
+Efficacité économique
+
+Justice
+
+Viabilité politique et administrative
+
+Conclusions
+
+Régulation de l'effort de pêche par des mesures monétaires
+
+Régulation de l'effort de pêche par les droits de propriété
+
+EVALUATION DES TECHNIQUES DE REGULATION DE L'EFFORT DE PECHE
+
+Résumé du rapport
+
+Objectifs
+
+Choix des instruments d'aménagement
+
+ANNEXE 1: LISTE DES PARTICIPANTS
+
+ANNEXE 2: ORDRE DU JOUR PROVISOIRE ET CALENDRIER
+
+ANNEXE 3: LISTE DES DOCUMENTS
+Table des matières Page suivante
+
+
+OUVERTURE DE LA REUNION
+
+1. La Consultation technique sur la régulation de l'effort de pêche s'est tenue à Rome du 17 au 26 janvier 1983. Dix-huit spécialistes, ainsi que six consultants et sept fonctionnaires de la FAO y ont participé. La liste des participants figure à l'annexe I.
+
+2. La Consultation a été présidée par M.G.D. Waugh. Le discours de bienvenue a été prononcé par M.D. Menasveta au nom de M.A. Labon, fonctionnaire chargé du Département des pêches.
+
+3. La Consultation a approuvé l'ordre du jour et le calendrier tels qu'ils figurent à l'annexe 2. La liste des documents présentés au cours de la réunion est donnée à l'annexe 3.
+
+
+Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+CRITERES DE LA REGULATION DE L'EFFORT DE PECHE (Documents 1,2,3 et 4)
+
+4. L'une des raisons qui a motivé le ré-examen approfondi du Droit de la mer, il y a dix ans ou plus, est la préoccupation que suscitaient l'appauvrissement de nombreux stocks de poissons et les difficultés d'y trouver un remède dans le cadre du régime international alors en vigueur. La nouvelle Convention a donné aux pays la possibilité - mais aussi la responsabilité - d'aménager les pêcheries, spécialement dans les zones économiques exclusives nationales. En l'absence d'aménagement, les ressources risquent d'être menacées, la quantité et la stabilité des approvisionnements de poisson réduites et les pays pourraient ne pas profiter des avantages économiques et sociaux considérables que peuvent offrir une industrie et des communautés de pêcheurs bien organisées; mais le coût de toute mesure d'aménagement, quelle que soit la forme d'intervention gouvernementale, tend à augmenter avec l'importance et la complexité de l'intervention. Il faut donc que s'établisse un équilibre
+entre les coûts et les avantages de toute mesure d'aménagement proposée. Cet équilibre variera avec le degré de développement du pays et de la pêcherie concernée. Il peut même se faire que les conditions - faible dimension de la pêcherie, difficulté d'intervention, etc... - justifient la décision du gouvernement de ne pas chercher à réglementer l'effort de pêche.
+
+5. Les participants à la Consultation avaient été choisis en fonction de leur expérience en matière de régulation de l'effort de pêche, expérience acquise essentiellement bien sûr dans les pays développés de l'Atlantique nord et du Pacifique nord où la surcapacité pose un problème crucial depuis environ 20 ans. Ayant identifié les facteurs de succès et d'échec dans les pays développés, ils estiment qu'il faudrait procéder à de nouvelles études et consultations pour évaluer la possibilité de mettre cette expérience en pratique sous forme de conseils spécifiques fournis à chaque pays en développement. Etant donné toutefois la grande variété des situations dans chaque pays, il serait souhaitable que ces consultations ultérieures se déroulent au niveau régional (par exemple Asie du Sud-Est, Amérique latine) comme déjà prévu, par exemple au Comité pour le développement des pêches dans l'Atlantique centre-est (COPACE) en 1983.
+
+6. La Consultation a étudié les objectifs généraux d'aménagement et les critères d'évaluation des différents systèmes. Elle a souligné qu'il fallait avoir une idée claire des objectifs avant de commencer à aménager mais qu'il n'était pas pour autant nécessaire de les spécifier en détails; en fait, il pourrait même être souhaitable au début de ne les définir qu'en termes généraux. Les objectifs que l'on peut envisager sont très variés. Ils ne peuvent pas toujours être atteints simultanément et il pourrait être bon de ne prendre les décisions pertinentes que progressivement, dans le cadre du processus normal d'aménagement.
+
+7. Ces objectifs peuvent se classer en trois groupes - sauvegarde des ressources, efficacité économique, et justice (ou besoins sociaux). Ils pourraient servir de critères d'évaluation des résultats des différents plans d'aménagement, mais il faudrait en outre tenir compte des coûts de leur réalisation (recherche, administration et application des règlements). Autrement dit, le coût de réalisation de cette combinaison d'objectifs (coûts/avantages) fait partie intégrante du processus itératif de détermination et d'affinement des objectifs. Certes la quantification des avantages est parfois difficile, mais elle est indispensable aux décisions touchant le volume, les méthodes et la complexité de la réglementation.
+
+8. La Consultation a reconnu que le principal objectif de l'aménagement des pêches n'est par normalement de parvenir à une rente économique maximale. Même si l'on est d'accord sur ce point, il ne faut pas cependant négliger les objectifs d'efficacité économique car, à long terme, le secteur des pêches deviendrait un fardeau pour la société qu lieu d'être une source sûre d'emplois et d'approvisionnement alimentaires. Les critères utilisés pour déterminer l'efficacité économique varieront évidemment d'un pays à l'autre en fonction des besoins en matière d'emploi, de la pénurie de carburant et d'autres conditions spécifiques.
+
+9. Toutes les mesures d'aménagement ont des répercussions sur la vie des pêcheurs. Aussi, doit-on tenir compte de leurs intérêts et de leurs opinions. La très grande majorité d'entre eux sont de petits pêcheurs qui contribuent très largement à la production halieutique mondiale. Ils vivent pour la plupart dans des communautés ayant de longues traditions de pêches, et où se sont peu à peu développés des types complexes de concurrence et de coopération dont tout plan d'aménagement doit tenir compte. Si les pêcheurs sont convaincus de la nécessité et de l'équité des règlements ils s'y conformeront plus facilement; mais dans le cas contraire, ils ne respecteront pas les lois, et les imposer sera très difficile.
+
+10. Certains participants estimaient que la pêche artisanale menaçait beaucoup moins les ressources que la pêche industrielle moderne. Ceci est sans aucun doute vrai des pêcheries traditionnelles où s'est peut-être crée, avec le temps, un équilibre entre l'homme et la ressource, mais avec la croissance démographique, les progrès de la commercialisation et la diffusion de la nouvelle technologie (moteurs hors-bord, filets synthétiques etc..) la petite pêche exerce dans bien des cas une pression beaucoup plus grande sur les ressources. S'il peut être injuste de blâmer la pêche artisanale pour l'épuisement des ressources, il serait également faux de croire que les problèmes d'aménagement qui se posent dans un grand nombre de pêcheries industrielles sont inconnus dans les pêcheries artisanales.
+
+11. Le secteur de la transformation et de la commercialisation joue un rôle crucial dans toutes les pêcheries, rôle qui est pourtant souvent négligé lorsque l'on envisage des mesures d'aménagement. Ces dernières portent généralement sur les captures. Aussi, les besoins des transformateurs - approvisionnements réguliers et sûrs de poisson de bonne qualité; captures aux dates et dans les lieux où le poisson est de meilleure qualité - sont-il parfois négligés, et les règlements ont alors pour résultat que la valeur totale des prises - au premier stade de la vente ou au dernier, celui de la consommation-est très inférieure à ce qu'elle aurait pu être.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+TECHNIQUES DE REGULATION DE L'EFFORT DE PECHE
+
+Imposition de limites des captures
+
+12. Le débat sur ce thème a commencé par la présentation des documents de travail (1.1 à 1.13). Ces derniers donnaient une vue générale de la question (document 1.1), et décrivaient certains des processus et des problèmes inhérents à l'établissement scientifique des limites de captures (documents 1.2 et 1.4) ainsi que l'expérience pratique acquise dans un certain nombre de pêcheries des Etats-Unis (documents 1.5, 1.9, 1.11, 1.12 et 1.13), du Canada (document 1.7), du Chili (document 1.6) et de la Communauté économique européenne (documents 1.3 et 1.10). Tous ces documents s'accordaient pour reconnaître que la mise en oeuvre de limites de captures risquait de rencontrer de graves difficultés, mais que toute autre méthode de contrôle se heurterait à des difficultés analogues ou similaires. Correctement appliquées, les limites de captures peuvent être un moyen utile, sinon le plus utile, d'aménager les pêches.
+
+13. Avant de commencer à imposer des limites de captures, et en fait toute autre mesure d'aménagement, il faut avoir une idée claire des objectifs. Il ne s'agit pas nécessairement de les définir de façon détaillée et explicite, ce qui pourrait être nuisible à l'avenir si la situation se modifiait et pourrait faire naître des espoirs irréalisables.
+
+(i) Détermination des prises totales autorisées (PTA)
+
+14. Une fois fixés les objectifs, il faut en premier lieu déterminer le montant des prises totales à effectuer. Ces objectifs peuvent être spécifiques (par exemple, on fixera pour un stock donné le volume ou la mortalité par pêche à atteindre) ou plus généraux (par exemple, éviter la surexploitation ou accroître l'importance d'un stock). Quels que soient les objectifs, c'est essentiellement une tâche scientifique mais des débats se sont engagés sur la question de savoir qui prendrait la décision finale: certains participants estimaient que les scientifiques devraient se limiter à exposer les différentes options et leurs effets biologiques; d'autres pensaient que les scientifiques devraient, en se basant sur leur connaissance des ressources et des objectifs d'aménagement, fixer le montant des prises totales autorisées ou la limite biologique à ne pas dépasser. En fait, les opinions divergentes reflètent sans doute les expériences différentes des participants et diffèrent en
+particulier selon que les décisions d'aménagement ont été prises par consensus ou au sein de comités (comme dans les pêches multinationales) ou bien par un seul responsable (comme dans les pêches purement nationales). Le degré de développement de l'industrie joue également un rôle.
+
+15. La Consultation a reconnu que les changements intervenus dans la juridiction des pêches ont profondément modifié les conditions dans lesquelles les limites de captures (ou autres contrôles) sont établies. Examinant la notion d'"excédent" que mentionne le Traité du Droit de la mer, il a été décidé pour les besoins de la Consultation, de considérer que l'Etat côtier a toute liberté pour fixer le montant des prises autorisées et sa propre capacité de capture. Toutefois, d'autres interprétations avaient également été suggérées.
+
+16. Calculer les PTA, du moins dans le détail et avec la fréquence requise pour l'Atlantique nord-est, demande beaucoup de travail. Les participants se sont préoccupés des coûts de cette opération et de son incidence sur l'activité scientifique générale; en effet, les scientifiques seraient ainsi dans l'ensemble occupés à n'étudier que des problèmes à court terme, à l'exclusion de ceux qui se posent à moyen et long terme, ce qui risquerait d'abaisser la qualité générale des conseils scientifiques.
+
+17. Les calculs ne doivent pas toujours être faits chaque année; la réévaluation pourrait être moins fréquente pour les stocks longévitaux, pour les stocks dont l'exploitation est relativement faible et pour ceux dont le recrutement n'a guère varié.
+
+18. Quant à la précision et à la fiabilité escomptées et effectives du calcul des PTA, la Consultation a noté que les chiffres les plus fiables avaient été fournis par les groupes de travail dont les membres connaissaient bien la pêcherie, ou bien ceux qui intéressaient une pêcherie où le recrutement variait peu. On pourrait améliorer la précision des PTA actuelles en organisant mieux la collecte et l'analyse des données - et en élargissant les recherches - mais, a-t-on estimé, on ne peut porter la variance au-dessous d'un minimum absolu, probablement 10 pour cent. De tous les facteurs en cause, le plus important est l'estimation du nombre des ressources de l'année.
+
+19. On a fait remarquer que la précision requise ainsi que la fréquence de la ré-évaluation dépendaient de la stratégie d'aménagement. Si l'on vise à tirer le maximum de la ressource, le prix à payer pour les erreurs pourrait être élevé, et il importe de parvenir à une grande précision; il faut aussi recueillir des données de très bonne qualité ce qui coûte cher. Si, au contraire, on se contente de prises moins abondantes qui assurent une marge raisonnable de sécurité, on peut tolérer des erreurs plus importantes. On peut également opter pour d'autres compromis analogues, par exemple entre le niveau moyen des captures et la variation d'une année à l'autre autour de cette moyenne. Les transformateurs préféreront probablement une moyenne plus faible et une variation moins importante.
+
+(ii) Attribution de parts des PTA
+
+20. Une fois établie une limite aux captures totales, ces dernières sont généralement réparties d'une façon ou d'une autre. Dans une pêcherie internationale, le premier stade consiste à les répartir entre les pays; ces parts (ainsi que les prises totales dans une pêcherie n'appartenant qu'à un seul pays) peuvent alors être divisées entre différents groupes dans chaque pays. Ce processus ne va pas sans de graves difficultés, mais l'on admet qu'il s'agit là de maux nécessaires. S'il n' y avait pas de répartition et que le seul contrôle soit la fixation d'un plafond des prises totales, on ne pourrait limiter l'augmentation de la capacité, d'où un certain nombre de difficultés et le risque notamment de perturber considérablement la structure saisonnière de la pêche, et d'entraîner des désastres économiques, comme celui qui s'est produit dans la pêcherie de crabe royal en Alaska. On a également fait remarquer que même ai aucune décision n'était prise en matière d'attribution,
+cette décision elle-même reviendrait à accorder implicitement des avantages à ceux qui sont le mieux placés pour capturer plus de poissons au début de la campagne.
+
+21. En ce qui concerne l'attribution de parts nationales dans une pêcherie multinationale, on a distingué quatre cas : la pêche avec accès libre, les stocks partagés, les stocks anadromes, et la pêche de navires étrangers dans une zone économique exclusive nationale. Avant la Convention sur le droit de la mer, la pêche en accès libre était la situation normale. Maintenant, seuls les stocks de haute mer, comme les thonidés, sont librement pêchés.
+
+22. La Communauté économique européenne offre l'exemple unique d'un groupe de nations qui sont convenues de mettre leurs ressources halieutiques en commun, se les répartissant sur une base convenue et qui négocient comme Etat côtier unique les attributions aux pays tiers.
+
+23. La Consultation a estimé qu'il n'y avait pas lieu de définir des critères scientifiques pour la répartition des stocks entre nations puisque cette dernière sera fonction de nombreux autres facteurs. Toutefois, pour les stocks partagés, l'accent sera mis davantage sur leurs caractéristiques biologiques, - l'emplacement des frayères par exemple - qui purraient fournir une base objective initiale de négociations. Dans ce cas il serait utile que les conseils biologiques viennent d'un groupe assez large, comprenant même des personnes non directement intéressées aux négociations, par souci d'impartialité. Sur ce point, même ceux qui étaient partisans de limiter la participation aux négociations proprement dites à ceux qui y sont immédiatement intéressés, sont tombés d'accord.
+
+24. Pour les stocks qui se trouvent totalement à l'intérieur d'une zone économique exclusive d'un seul pays, les décisions sur la part éventuelle revenant aux navires étrangers ne sont prises que par l'Etat côtier. Pour les stocks anadromes, cette décision est prise par la nation où le poisson fraie. Quant à l'attribution des parts, on accorde maintenant moins d'importance aux résultats obtenus dans le passé qu'à d'autres aspects comme le respect des règlements dans les années précédentes, la coopération à la recherche ou à la surveillance, l'accès aux marchés, etc.. Là où, lorsque les considérations historiques comptent encore, on a constaté qu'il n'existait pas toujours d'informations précises en la matière.
+
+25. La Consultation a noté que l'objectif final implicite de l'Etat côtier était de faire disparaître toute pêche étrangère. Ce n'est pas nécessairement la meilleure politique. Ainsi, par exemple, l'abondance et la disponibilité de plusieurs stocks varient considérablement d'une année à l'autre ou sur une période plus longue. Il pourrait alors être judicieux de limiter la capacité locale de pêche au niveau où elle pourrait être utilisée de façon satisfaisante les mauvaises années. Ainsi, dans les bonnes années, toute quantité dépassant les besoins intérieurs pourrait être offerte aux flotilles étrangères, auxquelles il appartiendrait de résoudre le problème de la surcapacité dans les mauvaises années.
+
+26. Les attributions à l'intérieur d'un pays peuvent améliorer l'efficacité économique et l'équité dans une mesure qui dépend du système d'allocation. Elles peuvent permettre aux entreprises individuelles d'étaler leurs captures sur toute la campagne de façon à obtenir les meilleurs prix ou à effectuer leurs prises au moindre coût. Ces attributions représenteront normalement une proportion fixe des PTA, mais avec les changements de la répartition ou de la disponibilité du poisson, il peut être difficile d'atteindre ce pourcentage fixe à chaque campagne.
+
+27. On a souligné qu'en l'absence d'attributions, les effets indirects des contrôles par contingentement, (une courte saison d'ouverture, par exemple) pourraient modifier l'efficacité relative de différents types de navires. Les gros bateaux coûteux faisant appel à une technologie avancée sont rarement les plus efficaces. Toutefois, les petits navires doivent généralement être en mesure de travailler sur une longue période; les gros tendent à être utilisés plus efficacement lorsque la saison d'ouverture est considérablement réduite.
+
+(iii) Administration des limites de capture
+
+28. Les pêcheurs doivent participer à l'administration et à la mise en vigueur de toute règlementation. Sans la compréhension et une certaine collaboration de ces derniers, il est difficile, sinon impossible, de faire respecter les règlements. Lorsque les pêcheurs sont convaincus de la nécessité et de l'équité d'un règlement, ils sont les premiers à le faire respecter. Par contre, certains règlements ont eu pour effet de contraindre d'honnêtes pêcheurs à se mettre en contravention avec la loi pour conserver leurs moyens d'existence. Aussi, on a estimé qu'aucun effort ne devait être épargné pour éviter cette situation.
+
+29. Les acheteurs et les transformateurs du poisson participent plus ou moins, selon les pays, à la mise en vigueur des règlements. On a fait remarquer qu'en ce qui concerne par exemple le poisson capturé en excès des contingents de captures, la situation d'un acheteur pourrait être assimilée à celle d'un recéleur. Il serait probablement plus facile de faire respecter les contingents de captures si l'acheteur, comme le pêcheur, était poursuivi quand il enfreint les règlements.
+
+30. Les participants ont beaucoup débattu de l'incidence des limites de captures sur la qualité des données statistiques, particulièrement les chiffres relatifs aux prises totales utilisées pour l'évaluation des stocks. Dans un certain nombre de pêcheries, les chiffres officiellement communiqués sont presque certainement très inférieurs aux valeurs réelles. Certains participants ont suggéré qu'il pourrait être utile de mettre sur pied des systèmes parallèles de collectes de données pour la mise en vigueur des règlements et pour la recherche. D'autres ont estimé que ce n'était pas souhaitable, notamment à long terme. Ces systèmes, et aussi la "confidentialité" habituelle des données statistiques, pourraient être interprétés comme une approbation officielle de l'inexactitude des rapports.
+
+31. Les journaux de bord sont une source importante de données. On en a suggéré deux utilisations : un système obligatoire d'application des règlements et un système apportant des données statistiques sous une forme plus détaillée que n'en offrait en général l'ancien système. Il faut se garder de mélanger les deux systèmes et d'essayer de les utiliser simultanément - les pêcheurs ont bien autre chose à faire. Lorsque les contrôles des captures sont complexes, avec des chiffres distincts par zones et par stock, il sera probablement indispensable de compléter les autres formes de contrôle par la tenue obligatoire d'un journal de bord.
+
+32. Dans ce dernier cas, le contrôle et l'application des règlements supposent un tribunal. Plus les règlements sont compliqués (on a mentionné à titre d'exemple un contingent de 650 kgs par membre d'équipage et par semaine) plus il y a de chances que la voie juridique permette de répondre aux problèmes que posent par exemple les définitions - à quel moment un navire se trouve-t-il effectivement en action de pêche ? quel est l'effectif réel de l'équipage, etc.? - On a souligné que la procédure judiciaire et, en particulier la politique de plus ou moins grande fermeté, peuvent être déterminantes. La confiance des pêcheurs dans l'efficacité des règlements et leur volonté d'aider à punir ceux qui les enfreignent ne résistent pas longtemps si la punition est légère et si le coupable recommence à pêcher le jour d'après. En Alaska, les sanctions prévues pour des infractions visent avant tout à empêcher le contrevenant de retourner à la pêche.
+
+33. Faire respecter les règlements est coûteux, comme le montre le coût des navires et des avions utilisés par les Etats-Unis (document 1.8). Beaucoup de participants ont estimé que ces coûts étaient trop élevés bien qu'ils soient souvent inévitables. On a alors étudié des méthodes permettant de les réduire, et suggéré d'utiliser des bateaux de pêche pour la surveillance. On a également envisagé la possibilité d'utiliser des appareils spéciaux, par exemple des mémorisateurs de données du type "boites noires" d'avions. Le type d'appareil le plus souvent préconisé est une sorte de transpondeur qui identifie le navire et sa position et qui est relié à un satellite, mais avec la technologie actuelle, ces appareils ne sont pas rentables. Par contre, de simples avions pourraient se charger de surveiller de vastes superficies à un coût raisonnable.
+
+Autres solutions envisagées pour réglementer l'effort de pêche et problèmes particuliers
+
+34. Le document général (2.1) ainsi que les communications relatant l'expérience acquise avec le flétan du Pacifique (2.5), à Cuba (2.7) et en Israël (2.8) montrent que d'autres solutions sont utilisées dans la plupart des régions depuis très longtemps, et qu'elles constituent encore les principales mesures de contrôle dans les pêcheries traditionnelles, spécialement pour la pêche côtière. Certaines de ces mesures sont incorporées dans les règlements; d'autres résultent de diverses pratiques culturelles, spécifiques de certaines zones.
+
+35. Comme l'a noté la Consultation, les objectifs poursuivis ont varié. Les principales incidences et la rationalisation ultérieure de ces mesures s'écartaient souvent de l'objectif d'aménagement initialement prévu, ce qui a entraîné une grande confusion à propos de l'incidence et du potentiel véritables de ce type de mesures. Les différentes catégories d'objectifs envisagés sont les suivantes :
+a. Objectifs économiques : exemple : une pêcherie peut être fermée si les conditions du marché sont médiocres, si les poissons sont en piètre condition, ou bien à des époques ou des saisons, ou dans des zones où l'on risque de capturer des poissons ou des crustacés vénémeux.
+b. Objectifs d'équité : exemple : l'interdiction du chalutage dans les zones côtières est courante dans de nombreuses régions, notamment sous les tropiques, pour protéger les petits pêcheurs et minimiser les conflits (en Malaisie par exemple).
+c. Objectifs sociaux : exemple : interdire la pêche à des périodes de l'année où le temps ou d'autres facteurs la rendent dangereuse ou lorsque d'autres activités sont plus importantes.
+d. Objectifs biologiques : la fermeture des alevinières et des campagnes de pêche peuvent être des mesures visant à protéger les juvéniles ou même les espèces secondaires. On peut aussi clore la campagne pour protéger les poissons au moment de la ponte.
+
+36. On interdit à certaines époques la pêche d'espèces comme celles du homard et de certains vivaneaux à Cuba et du thon rouge qui sont alors si vulnérables que les contrôles directs (limitation du nombre de navires, etc..) ne suffisent pas à maintenir le taux d'exploitation à un niveau acceptable. Dans les pêcheries multispécifiques, la fermeture des campagnes et des zones peut aider à équilibrer la pression de la pêche sur différentes espèces.
+
+37. La fermeture de la pêche peut assurer une protection des stocks très vulnérables; mais lorsqu'on l'utilise comme principale mesure de contrôle de l'effort de pêche, elle peut réduire la durée de la campagne de façon excessive. On peut alors enregistrer une perte de productivité économique car les taux de capacité augmentent et les pêcheurs travaillent très au-dessous de leur efficacité maximale. Toutefois, cette mesure présente l'avantage d'être relativement facile à mettre en oeuvre.
+
+38. Ces méthodes indirectes présentent des avantages : elles sont souvent relativement bon marché, faciles à appliquer, aisément acceptées par les pêcheurs et représentent un moyen simple d'administrer les PTA. Telle qu'elle a été utilisée à Cuba et en Islande, la fermeture de la pêche dans certaines zones et à certaines époques, s'est révélée un élément utile d'un système d'aménagment sensible.
+
+39. On a fait remarquer, dans la suite des débats, que la mise en oeuvre de la fermeture de la pêche à certaines époques ou dans certaines zones pouvait comporter de grosses difficultés juridiques et administratives. Les pêcheurs côtiers n'ont pas toujours de carte et peuvent donc ignorer où se trouvent les zones interdites. Les définitions de ces zones ne sont pas toujours claires, (par exemple, limite de 3 milles à partir des lignes de base); et sont parfois arbitraires (fondées sur la latitude et la longitude) et ne semblent pas toujours logiques aux pêcheurs. Il serait préférable et moins ambigü d'utiliser les coordonnées fournies par les auxiliaires de navigation (Loran, Decca etc.) là où les pêcheurs utilisent ces appareils. Si, dans certaines zones, il est permis de ne pêcher que certaines espèces, il peut être difficile de constater les infractions. La fermeture de la pêche dans certaines zones nécessitera une définition juridique précise de la pêche. Un pays a
+proposé la définition suivante : la pêche commence avec la mise en place de l'engin et se termine lorsque le dernier poisson est retiré de l'eau.
+
+40. Faire respecter l'interdiction de pêche dans certaines zones et à certaines époques soulève les mêmes problèmes de coûts et d'efficacité que l'application des contingents de captures, bien que les coûts soient généralement inférieurs. Là encore, on a suggéré d'utiliser éventuellement des transpondeurs qui pourraient "témoigner" des activités réelles de pêche. La surveillance aérienne des zones interdites peut souvent être très rentable.
+
+41. L'interdiction de pêcher dans certaines zones ou à certaines époques, destinée à prévenir la capture de certaines espèces peut faire obstacle à la pêche autorisée d'autres espèces. La fermeture saisonnière de la pêche peut affecter les pêcheurs d'une seule espèce plus que ceux qui peuvent diriger leurs efforts vers d'autres zones ou vers d'autres ressources. L'interdiction de pêche dans certaines zones, imposée par les Etats ou responsables locaux, peut avoir des incidences contradictoires et jeter la confusion dans les objectifs nationaux d'aménagement.
+
+42. En conclusion, la Consultation a estimé que l'interdiction de la pêche dans certaines zones et à certaines époques est un bon moyen d'obtenir un "réglage fin" de la pêche si elle est associée à d'autres mesures, mais qu'elle est beaucoup moins efficace si elle est utilisée seule comme méthode principale d'aménagement. Si elle est applicable et rentable, une partie des stocks, les junéviles par exemple, auxquels il faut accorder une attention particulière, ou tout le stock dans les périodes ou les zones où il est très vulnérable, peut être protégé. Toutefois, avant d'interdire la pêche dans certaines zones ou à certaines époques, il faut être très prudent et étudier tout particulièrement l'incidence que cette mesure aura sur d'autres espèces, particulièrement si l'effort est détourné pour se porter ailleurs. Cette méthode doit généralement être associée à d'autres ressources, plus directes, notamment si la pression exercée par la pêche est forte. Comme l'ont fait
+remarquer les participants, il faudrait étudier très soigneusement les conséquences à long terme de tels programmes sur la répartition des avantages entre les pêcheurs, car ils risquent d'avoir des résultats inattendus. Sous l'effet de différence de mobilité d'origine culturelle, ces programmes peuvent avoir des effets différents selon les pays.
+
+43. De toute évidence c'est lorsqu'elles sont utilisées conjointement avec le contrôle de l'effort de pêche ou les contingents de captures comme dans la pêcherie de flétans du Pacifique, que ces réglementations sont le plus efficaces. Certaines méthodes, comme l'instauration de campagnes de durée variable que l'on peut clore lorsque les taux de prises descendent au-dessous d'un niveau donné peuvent être utiles dans quelques pêcheries. Mais pour être efficaces, ces mesures indirectes, quelles qu'elles soient, exigent la coopération des pêcheurs.
+
+44. L'interdiction de pêche dans certaines zones, la création de réserves et de refuges, et autres mesures analogues aident à protéger les ressources halieutiques côtières contre la surexploitation et contribuent à la réalisation d'autres objectifs sociaux dans la zone côtière. Une autre mesure adoptée contre l'utilisation inconsidérée des ressources côtières consiste à octroyer des droits de propriété, soit pour le poisson soit pour l'accès aux lieux de pêche.
+
+Sélectivité des engins/réglementation du maillage des filets
+
+45. Certains documents présentés exposaient les principes généraux de la réglementation du maillage, particulièrement dans la pêche au chalut (document 2.4) ainsi que la façon dont différents types de pêche et différentes méthodes d'utilisation d'engins similaires peuvent aboutir à capturer des poissons d'espèce et de taille très différentes (document 2.3). Le document 2.6 relatait des expériences faites en utilisant de différentes manières des enfins fixes dans la pêche au flétan et d'autres espèces. Le principe de la réglementation du maillage est simple. On choisit la dimension de maille voulue pour laisser échapper les poissons petits, jeunes et à croissance rapide, et retenir les poissons suffisamment gros pour être commercialisables. Cette réglementation est efficace dans les pêcheries monospécifiques, comme celle de la morue des côtes d'Islande par exemple. Mais l'on s'est heurté à de grosses difficultés dans les pêcheries multispécifiques tropicales. La dimension
+optimale de la maille est beaucoup plus grande pour les grosses espèces que pour les crevettes et les petits poissons. Même dans ces pêcheries, il pourrait bien souvent y avoir avantage à augmenter la dimension des mailles, par rapport à la très petite taille actuellement utilisée bien que le maillage probablement adopté serait encore très petit par rapport à la dimension optimale pour les grosses espèces; aussi d'autres mesures sont-elles nécessaires. On a mentionné que dans ces pêcheries tropicales, il serait également utile de contrôler le matériau des filets monofilament par exemple pour moduler leur sélectivité. Ce contrôle pourrait être relativement facile dans les pays où la majeure partie des matériaux est importée.
+
+46. Le contrôle du maillage des chaluts n'est pas le seul exemple d'aménagement par sélectivité des engins. Les mailles des filets maillants, les tailles des hameçons, les trappes de sortie des casiers à homards en sont d'autres exemples.
+
+47. Les débats qui ont suivi ont souligné la nécessité de travailler en étroite collaboration avec l'industrie pour la mise au point et l'application des règlements concernant les engins. On a cité un certain nombre de moyens utilisés par les pêcheurs pour éviter ou contourner ces restrictions. Ils se conformeront plus volontiers aux règlements s'ils en comprennent et en soutiennent le but. On a également fait remarquer que les avantages tirés des changements de règlementation concernant les engins - par exemle le passage à une maille plus grande - seront probablement dans l'immédiat précédés d'une diminution des quantités débarquées pendant la période où le poisson libéré grossira. Les pêcheurs qui verront s'échapper les petits poissons s'opposeront sans doute à la réglementation à moins qu'on leur en donne une justification. Il est difficile de démontrer sans équivoque les avantages de la réglementation du maillage même si elle donne de bons résultats. Ceci tient au fait
+que la variabilité naturelle des stocks de poisson masquera tout accroissement du rendement moyen.
+
+48. Une grande partie des débats ont porté sur les problèmes liés à la réglementation du maillage. Mention a de nouveau été faite de difficultés pratiques rencontrées dans l'application de cette réglementation dans un certain nombre de pêcheries. On a mis en doute ses bases biologiques et son efficacité dans la préservation des stocks ou la réalisation de rendements optimaux, particulièrement dans les pêcheries tropicales et multispécifiques. En outre, on s'est posé la question de son efficacité matérielle et des dommages que peuvent subir les poissons passant à travers les mailles. Néanmoins, les limites de taille et la réglementation du maillage assurent un certain niveau de protection des stocks de nombreuses pêcheries, particulièrement si, en l'absence de ce contrôle, le poisson devait être capturé avant sa maturité et la ponte. Dans ce cas particulier, si on peut les faire respecter, les limites de taille minimale devraient au moins éviter un appauvrissement excessif
+des stocks, même si d'autres mesures de contrôle de la mortalité par pêche sont temporairement inefficaces. Elles sont particulièrement utiles lorsque le sujet qui n'a pas atteint la taille voulue peut être rejeté vivant à la mer comme les homards, les coquilles Saint-Jacques, etc.
+
+49. Un certain nombre de participants ont mentionné des mesures complémentaires susceptibles d'"affiner" les régimes de contrôle fondés sur les restrictions appliquées aux engins, telles que la surveillance d'espèces importantes dans une pêcherie, la sélectivité des contingents ou des interdictions de pêche, etc.
+
+50. Les changements de la réglementation relative aux engins devraient, si possible, laisser le temps aux pêcheurs de remplacer leurs engins à un rythme de rotation normal plutôt que de les forcer à jeter du matériel encore en bonnes conditions.
+
+51. Comme on l'a fait remarquer, les meilleurs pêcheurs utilisent souvent volontairement un maillage plus grand que ne le prescrivent les règlements, sans doute en raison du prix plus élevé qu'ils obtiennent pour les gros poissons dans de nombreuses régions. Les pêcheurs auront plus tendance à enfreindre les règlements relatifs aux engins si les pêcheries sont surexploitées et économiquement déprimées.
+
+52. La réglementation du maillage a souvent été introduite lorsque l'intensité de pêche avait déjà considérablement réduit la taille des poissons survivants. Elle ne faisait alors que refléter la situation existante. Dans ce cas, elle est inefficace à moins de l'associer à un certain contrôle de l'intensité de pêche.
+
+53. La nouvelle technologie permet de localiser le poisson plus rapidement et avec plus de précision et de jeter les filets plus fréquemment. Aussi faudra-t-il suivre constamment la réglementation relative aux engins pour s'assurer qu' elle reste efficace. Une nette augmentation de la puissance de pêche pourrait nécessiter sa modification.
+
+54. En conclusion, les restrictions relatives aux engins et les limites de taille peuvent constituer d'importants éléments d'une stratégie d'aménagement; elles peuvent être utilisées avec recherche et souplesse pour atteindre les objectifs économiques et biologiques fixés. Dans des conditions favorables - particulièrement dans les pêcheries monospécifiques où les restrictions sont comprises et acceptées par les pêcheurs elles ont donné de bons résultats; même dans ces circonstances, elles ne peuvent résoudre un certain nombre de difficultés, notamment le problème économique de la surcapacité. Dans d'autres conditions, elles ne présentent qu'un intérêt très limité.
+
+55. La Consultation a noté qu'en Alaska, (où les sanctions infligées aux contrevenants sont sévères) dans une pêcherie multispécifique, les pêcheurs étaient parvenus à maintenir les captures d'espèces non visées dans les limites légales.
+
+Réactions des pêcheries
+
+56. Deux documents (2.2 et 2.9) ont été présentés sur la dynamique des pêcheries et des stocks de poissons. Ces deux études insistaient sur le fait que les pêcheries sont des systèmes dynamiques et que la vie d'une pêcherie, même en l'absence d'aménagement actif est plus complexe que ne l'illustrent les modèles simples et statiques.
+
+57. Le premier document notait que toutes les pêcheries non réglementées ou dont l'accès est libre, peuvent endommager les stocks, ce que confirment la préhistoire et l'histoire, même pour la pêche artisanale.
+
+58. Plusieurs participants ont fait remarquer que les mécanismes d'autorégulation existants s'étaient développés peu à peu parfois au cours de centaines d'années. Souvent, l'intensité de pêche était si faible que le stock n'était pas sérieusement menacé, et de toutes façons la pêche avait changé lentement. Certes, on ne peut s'attendre à ce que ce mécanisme fonctionne toujours, particulièrement avec la technologie moderne, alors que même une personne ou un groupe partisan de la conservation pourrait endommager "ses" stocks par ignorance des incidences des captures ou par son incapacité de coopérer. En outre, l'effort de pêche peut atteindre un niveau très dangereux avant que ne s'en manifestent les effets, même légers.
+
+59. Une régulation passive se produit lorsque pour une raison quelconque les pêcheurs se consacrent à d'autres activités. Ceci peut découler de motifs religieux ou culturels (pêcheurs qui restent à la maison les jours de fête religieuse, tabous culturels qui interdisent de manger du poisson à certaines époques, etc.). Ceci peut également se produire lorsqu'un individu ou un groupe obtient les droits de propriété d'une pêcherie.
+
+60. La régulation passive peut garantir la sécurité du stocks, souvent au prix d'une sous-exploitation. L'absence de technologie moderne dans les pêcheries primitives fait que généralement seule une fraction du stock est exploitée et, bien souvent, la pêche n'est que l'une des nombreuses activités exercées.
+
+61. Même la pêche artisanale utilisant des engins "primitifs" peut surexploiter les stocks, particulièrement au moment du passage de l'économie de subsistance à celle de marché ou de troc. Le fait qu'il existe un marché pour le poisson et que l'on puisse vendre ce dernier à un nombre plus grand de consommateurs peut en fait déclencher une amélioration de l'efficacité, et donc augmenter la possibilité de surexploiter les stocks.
+
+62. Les participants ont également noté que le groupe contrôlant l'accès aux ressources halieutiques a dû exercer un contrôle intérieur strict à la fois sur les activités de ses membres et, dans une certaine mesure, sur l'importance de ce groupe. L'expérience a montré que ces groupes et leurs droits sont parfois très fragiles. Par exemple, un groupe peut exercer un contrôle sur lui-même et sur la distance qui sépare d'autres groupes de ses propres lieux de pêche; dans ce cas, les droits de propriété assurent une conservation suffisante. Toutefois, les innovations technologiques, (moteurs hors-bord, nouveaux types d'engins, etc.) qui permettent à des gens de l'extérieur d'accéder à leurs lieux de pêche, peuvent annihiler ce système.
+
+63. La pluriactivité des pêcheurs favorise la régulation passive et le maintien du niveau de leurs revenus. Ceci contraste avec l'opinion selon laquelle les pêcheurs à plein temps devraient avoir la priorité. En fait, on a fait remarquer que ces multiples occupations peuvent faciliter la réduction de l'effort de pêche lorsque l'exploitation est trop intense. Ce n'est pas le cas lorsque se constituent des "castes de pêcheurs" spécialisés à plein temps qui sont souvent incapables de diversifier leurs activités dans ce genre de situation. Aussi le pluralisme dans l'exploitation a probablement été une importante valve de sécurité dans la pêche traditionnelle.
+
+64. Les participants ont reconnu que dans l'ensemble les "locaux" sont plus enclins à exercer une autorégulation dans une pêcherie donnée que ne le sont les flotilles nomades; mais même les pêcheurs locaux peuvent surexploiter un stock en l'absence d'un contrôle social approprié du nombre de participants locaux.
+
+65. Le deuxième document accordait plus d'attention à l'interaction dynamique des stocks de poissons et de la pêcherie. Il soulignait que bien que l'analyse de la théorie de l'équilibre (analyse du rendement par recrue, modèle de production) puisse convenir comme premier stade de l'étude d'une pêcherie, l'instabilité des facteurs économiques et environnementaux pouvaient perturber la pêcherie, tant à court terme qu'à long terme, d'une manière dont la théorie de l'équilibre ne peut rendre compte.
+
+66. La planification et l'application des mesures d'aménagement doivent tenir compte de cette éventualité. Pourtant bien souvent les gestionnaires et les participants ont une optique à court terme. Ils risquent alors de ne pas voir certains aspects très importants de l'exploitation et de contribuer eux-mêmes à la déstabilisation future de la pêcherie.
+
+67. Les gestionnaires ont du mal à évaluer l'instabilité et les fluctuations périodiques des pêcheries, car ils travaillent sur des horizons proches et parce qu'ils ne peuvent se procurer des séries de données historiques portant sur une longue période.
+
+68. L'une des principales causes des cycles et des irrégularités des ressources dans les pêcheries est sans doute la variabilité du recrutement qui elle-même reflète les variations à court ou à long terme de la production biologique du milieu. Toutefois, des oscillations peuvent se produire dans des systèmes par ailleurs stables; elles sont en général déclenchées par les investissements de quelques pêcheurs entreprenants qui ont vu la possibilité d'utiliser de nouvelles techniques et de profiter des nouveaux marchés et de la plus grande abondance des ressources traditionnelles ou nouvelles. Leur succès suscite rapidement des imitateurs et le point de vue soutenu dans le document est que ce processus"d'exagération de l'effort", la prise de conscience du phénomène et les renseignements fournis par son étude, qui permettent d'y remédier progressivement par diverses mesures (législation, retrait et diversification des navires et des pêcheurs) peuvent être eux-mêmes une source
+d'oscillations de systèmes par ailleurs relativement stables. Les débats ont révélé plusieurs théories, à la fois biologiques (théorie prédateur-proie par exemple) et économiques qui pourraient conduire à ce comportement cyclique et il apparaît clairement que l'intervention des gestionnaires après la phase initiale d'investissement ne pourra pas corriger le déséquilibre de l'effort aussi efficacement qu'un contrôle effectif du rythme d'injection de nouveaux efforts en un point antérieur du cycle.
+
+69. Les aspects économiques et les causes des cycles ont suscité une importante discussion. D'une part, les pêcheurs peuvent parcourir eux-mêmes une sorte de "cycle biologique" : d'abord matelot, puis propriétaire d'un petit bateau, puis d'un plus grand navire, etc. Selon l'effectif des cohortes de pêcheurs passant dans le système, ce facteur peut conduire à des cycles dans la pêche. En outre, les pêcheurs peuvent "passer" d'une pêcherie à l'autre selon la rentabilité potentielle de l'exploitation de différents stocks et de la facilité avec laquelle ils peuvent ré-équiper leurs navires, bien que la sous-division progressive des zones marines en ZEE, la fermeture de zones nationales et la limitation des permis limitent sévèrement de tels transferts d'activités. En outre, les navires ont une durée de vie, qui peut être influencée par l'idée qu'ont les pêcheurs de la stabilité des stocks : en effet, s'ils pensent que le stock diminuera dans quelques années, ils s'équiperont
+d'engins relativement peu durables et donc moins chers, ce qui leur permet de se transférer lorsque le stock commence à diminuer. Toutefois, s'ils se trompent dans leur estimation, ils peuvent, selon les possibilités de leurs engins et leurs compétences, demeurer dans la pêcherie, accentuant ainsi la diminution des stocks.
+
+70. Il peut être utile de faire une distinction entre les stocks qui fluctuent naturellement ou même qui sont "sujets aux catastrophes" et les stocks qui sont normalement stables. Le document distingue quatre catégories de pêcheries : (1) stables - on peut alors utiliser des modèles d'équilibre pour l'aménagement; (2) qui fluctuent régulièrement en raison des périodicités environnementales - on peut alors faire des prévisions; (3) qui fluctuent irrégulièrement et (4) où l'on enregistre une croissance et un effondrement périodiques des ressources ou leur remplacement par d'autres. Dans les pêcheries des deux dernières catégories, il pourrait être souhaitable d 'utiliser, en matière d'aménagement, les mauvaises années comme base et de profiter alors des entreprises mixtes, des flottilles étrangères mobiles, etc. pour leur laisser le surplus dans les bonnes années. Dans ce dernier cas, il faut exercer un contrôle approprié qui prenne en compte les considérations d'équité et
+de politique.
+
+Régulation de l'effort de pêche au moyen de permis accordés aux navires ou aux pêcheurs et du contrôle des engins.
+
+71. Un certain nombre de documents (3.2 à 3.8), traitant de cette question, ont porté à l'attention des participants les expériences faites dans des pays ou des régions déjà très avancées dans l'utilisation de ces moyens de régulation de l'effort : Alaska, Australie, Canada, Israël, Japon, Malaisie, Norvège et Etats-Unis. Les expériences rapportées étaient très différentes : dans certains cas, ces mesures ont été difficiles à appliquer et n'ont pas permis d'atteindre entièrement les objectifs de politique fixés. Dans d'autres, elles semblent avoir donné de bons résultats, de l'avis même des pêcheurs.
+
+72. Au cours des débats qui ont suivi, on s'est demandé si le système de limitation des permis permettait d'atteindre certains des objectifs fondamentaux de l'aménagement des pêches : conservation de la ressource, efficacité économique, équité, et faisabilité administrative et politique.
+
+Conservation de la ressource
+
+73. En matière d'aménagement, le problème le plus décourageant est la tendance de l'effort de pêche à augmenter avec le temps jusqu'à menacer l'existence du stock et la viabilité de la pêcherie. Une simple politique de contingentement n'est généralement pas parvenue à diminuer l'effort de pêche dans les pêcheries surdéveloppées. Ceci aboutit à des campagnes de pêche de plus en plus courtes et bien souvent à la perturbation du secteur de la commercialisation. Aussi, devrait-on recourir à des moyens plus efficaces notamment à l'octroi de permis, pour contrôler le niveau de l'effort de pêche.
+
+74. Les participants ont estimé qu'une capacité de pêche excessive pourrait affaiblir l'efficacité d'autres mesures d'aménagement des pêches (contrôle du maillage, interdiction de pêche dans certaines zones ou à certaines époques) destinées à protéger la viabilité de certaines pêcheries, car elle réduirait la rentabilité des navires à un niveau où la pêche illicite est la seule possibilité de survie. En outre, la capacité excessive conduit à des pressions politiques en faveur d'une augmentation des PTA ou d'un réajustement des attributions. Lorsque la capacité est excessive dans plusieurs pays, elle peut à la fois créer une pression supplémentaire pour augmenter les PTA et entraver les négociations internationales sur l'allocation des PTA aux différentes nations.
+
+75. La grande question est de savoir si, en l'absence d'un plan de limitation des entrées, pourrait exister un mécanisme autorégulateur (bio-économique) en mesure d'arrêter l'augmentation de l'effort de pêche à un niveau donné avant que le système biologique ne subisse de graves dommages; avec la diminution des taux de captures, les pêcheurs quitteraient volontairement la pêcherie. Comme on l'a fait remarquer, ceci ne se produira pas si la pêcherie reste rentable malgré la faiblesse des ressources, (rapport entre espèces prisées et espèces bon marché), si les stocks diminuent plus rapidement que le taux de captures (comme cela se passe pour la plupart des petites ressources pélagiques par exemple), ou si les pêcheurs ont trop peu d'autres possibilités de pêche.
+
+76. Les processus dynamiques d'ajustement dans les pêcheries ont fait l'objet de longs débats. Beaucoup étaient d'avis qu'il fallait limiter l'octroi de permis lorsqu'une pêcherie était en voie de croissance, soit que le stock ait été jusque là peu exploité, ou que l'amélioration des conditions du milieu en ait favorisé l'accroissement. Toutefois, pour la plupart des pêcheries développées, il s'agit là d'un espoir auquel il faut renoncer.
+
+77. Dans le passé, la limitation des permis a souvent été introduite lorsqu'un stock était sur le déclin, probablement sous l'effet combiné de l'effort de pêche et de modifications naturelles ou du milieu. Dans ce cas, la limitation des permis est politiquement plus facile à proposer et à introduire, mais a de fortes chances de ne pas donner de résultats positifs (restauration des stocks).
+
+78. En conclusion, la limitation des permis est une technique qui pourrait avoir des effets positifs sur la conservation des ressources dans la mesure où elle pourrait effectivement maintenir la mortalité par pêche au-dessous de certains niveaux prédéterminés; mais pour atteindre cet objectif, il est généralement nécessaire de l'associer à d'autres réglementations.
+
+79. Selon les participants, un problème particulièrement difficile à résoudre est l'aménagement d'une ressource démersale multispécifique. Si on limite les entrées, certaines espèces tendront à être surexploitées alors que d'autres ne le seront pas assez. Toutefois, le même problème se pose quelle que soit la méthode d'aménagement et limiter les entrées pourrait encore être la meilleure façon de le résoudre.
+
+80. On a fait remarquer que les modalités d'octroi de permis constituaient un instrument précieux et souple pour les gestionnaires. On pourrait en particulier poser, comme condition de détention d'un permis, de fournir des données adéquates (types de poissons capturés, lieux de capture et intensité de pêche).
+
+Efficacité économique
+
+81. De l'avis général, l'octroi de permis ne suffit pas à favoriser les "gains" économiques par une diminution de la capacité de pêche excessive. La puissance de pêche moyenne par navire tend à augmenter avec l'introduction de la nouvelle technologie et d'autres investissements dans chaque navire, puisque persiste l'incitation à investir davantage dans l'espoir d'obtenir une part plus importante des captures potentielles du groupe d'unités de pêche titulaires d'un permis. Il en résulte généralement une augmentation de l'efficacité de pêche des navire, un raccourcissement de la campagne et la perturbation du marché et de la situation de l'emploi à terre.
+
+82. Afin d'améliorer l'efficacité, le plan de régulation devrait donc comprendre un ensemble de mesures complémentaires visant à éviter cette tendance à l'accumulation de capital. A cet égard, on peut recourir à des mesures monétaires (augmentation des droits de permis, taxes, etc) pour décourager les investissements excessifs (voir paragraphe sur les mesures monétaires).
+
+83. Les débats sur le bien-être économique ont porté essentiellement sur la question de la stabilisation des revenus par l'atténuation des effets des fluctuations causées par les variations des effectifs de poisson, des prix et des coûts. Dans certains cas, un fonds d'urgence, approvisionné pendant les années où les captures dépassent le chiffre moyen, sert à compenser les maigres revenus dans les mauvaises années. Les représentants de plusieurs pays ont décrit ces programmes de stabilisation des revenus des pêcheurs.
+
+84. Les programmes de limitation des permis ont souvent amélioré les gains des pêcheurs, mais moins souvent conduit à de fortes rentrées d'impôts. Les débats sur le montant approprié du droit de permis n'ont pas dégagé de consensus, certains des participants étant partisans de droits élevés pour récupérer les coûts d'aménagement et créer un fonds de développement d'urgence, d'autres préconisant des droits plus élevés, en considération du faible revenu et de la vulnérabilité politique de certains groupes de pêcheurs.
+
+85. En dépit des carences, les participants ont estimé que certains des avantages évidents de la limitation des entrées avaient une valeur de prévention et que la situation serait pire si elle n'avait pas été introduite.
+
+86. Enfin, on a fait remarquer que l'augmentation de la capacité de chaque navire pouvait être au moins compensée par un programme de mise au rebut ou une politique de rachat qui pourraient éventuellement être financés par le fonds alimenté par les droits de permis. Le rachat peut également être effectué par les pêcheurs eux-mêmes.
+
+Justice
+
+87. Les considérations de justice sont parmi les plus difficiles à cerner pour le gestionnaire. Elles sont fondées sur des objectifs particuliers généralement propres à ce secteur. Au lieu de concerner l'horaire, les salaires, les conditions de travail, elles visent à protéger les petits pêcheurs contre les effets néfastes de la pêche industrielle, les groupes ethniques minoritaires, etc... Les principales questions qui se posent alors sont les suivantes: qui profite de la limitation des permis ? qui y perd ? les changements sont-ils raisonables et justes ?
+
+88. Une question importante : qui sera admis à participer au Plan ? Considérant que le libre accès conduirait automatiquement à une capacité excessive dans la plupart des cas, on a étudié trois systèmes pour l'attribution des permis :
+* Vente et vente au plus offrant,
+* Priorité à ceux qui opèrent depuis longtemps dans la pêcherie,
+* Considération de critères socio-économiques, régionaux et nationaux.
+
+89. Les participants ayant une grande expérience des pays possédant une pêche artisanale ont soutenu qu'il fallait utiliser les systèmes d'octroi de permis avec prudence, si même il le fallait, lorsqu'ils ont une influence négative sur les objectifs nationaux de protection du bien-être des pêcheurs artisanaux. Ils ont donné, comme exemple, le traitement particulier réservé aux pêcheurs aborigènes aux Etats-Unis et au Canada et aux pêcheurs artisanaux au Japon.
+
+90. Ils ont également déclaré que les pêcheurs à plein temps étaient souvent l'objet d'un traitement particulier, qui toutefois dépendait des circonstances et n'était pas généralisé.
+
+91. Certains orateurs ont suggéré que les conditions d'accès initiales et ultérieures seraient plus équitables si elles étaient mises au point en étroite collaboration avec les pêcheurs, leur industrie et les responsables des communautés de pêcheurs.
+
+92. Outre la consultation lors de l'élaboration du programme, un Comité d'appel est souvent crée pour résoudre les conflits nés de son application. Ces comités seraient plus efficaces, ont estimé certains participants, s'ils comprenaient des pêcheurs soit comme membres, soit comme conseillers. D'autres ont signalé que la participation directe des pêcheurs avait eu des effets très négatifs. Pour éviter des recours trop fréquents, les administrateurs ont souvent choisi de pêcher par trop de libéralité, ce qui a parfois conduit à une augmentation exagérée du nombre de permis initialement distribués.
+
+93. Il faut également prendre une décision sur la transférabilité des permis et l'opportunité de les délivrer aux navires ou aux pêcheurs ou à des pêcheurs appartenant à des groupes ou des familles spécifiques, ou bien encore à tout acheteur au marché libre.
+
+Viabilité politique et administrative
+
+94. Certains se sont inquiétés de ce que la limitation des permis serait suivie de règlements de plus en plus complexes ; d'autres ont fait remarquer que la limitation des permis est le moyen le plus souvent adopté dans une pêcherie qui se trouve déjà en mauvaise situation ; le nombre de règlements peut simplement refléter un problème que l'on ne peut laisser de côté et qui peut être difficile à résoudre, quelle que soit l'approche adoptée. On a toutefois reconnu que, lorsque cela est faisable, il était préférable et plus simple d'adopter ce système rapidement et si possible avant que la situation ne devienne vraiment critique.
+
+95. Dans les pays ayant une grande expérience en la matière, le système des limitations a évolué lentement, avec le temps, de manière empirique. Certains pays souhaitant adopter ce système aujourd'hui pourraient avoir tendance à s'attendre à des solutions optimales un peu trop rapidement.
+
+96. L'adoption d'un moratoire était généralement une mesure prise rapidement en cas de crise et sur une base temporaire pour donner un coup d'arrêt à l'accroissement de l'effort de pêche, en attendant l'élaboration d'un programme de limitation de permis plus complet et à plus long terme. Les permis sont aussi un outil précieux d'aménagement à court terme (pour autoriser ou interdire à bref délai les opérations de pêche).
+
+97. Là encore, les pêcheurs accepteraient plus facilement les limitations de l'effort de pêche s'ils étaient convaincus (et pouvaient effectivement s'en assurer) que les autres participants à la pêcherie étaient traités de la même façon. Cette responsabilité incombe généralement à l'Administration qui devra élaborer un programme adéquat de surveillance et de collectes de données.
+
+98. Dans les pays en développement, la difficulté vient de ce que ces règlements ne sont pas respectés et de ce que les permis sont considérés davantage comme une source de recettes que comme moyens de conserver les ressources.
+
+Conclusions
+
+99. La limitation des permis accordés aux pêcheurs, aux navires, aux engins, etc.. est dans l'ensemble considérée par tous les participants comme un outil d'aménagement potentiel à étudier soigneusement. Son adoption doit être envisagée dans le contexte du système économique et social du pays et de la région intéressés.
+
+100. Elle doit être associée à d'autres réglementations pour limiter les risques d'effets indésirables. Avant de concevoir le plan, il faudrait autant que possible spécifier les objectifs d'aménagement et, lors de l'application d'une nouvelle politique, mettre sur pied un programme de surveillance soigneusement étudié; il faudrait prévoir les difficultés et adopter des mesures correctives en temps voulu pour s'assurer que les résultats sont bien adaptés à la pêcherie intéressée.
+
+101. On a également estimé que la limitation des permis pourrait compléter utilement la politique des contingents PTA, de façon à assurer la répartition recherchée des parts au niveau national.
+
+102. Au cours de la réunion, la seule expérience relatée en matière de limitation de permis pour la pêche artisanale concernait les populations aborigènes d'Amérique du Nord. Elle a, semble-t-il donné des résultats relativement bons, mais certains participants ont estimé que les systèmes d'octroi de permis pouvaient ne pas être applicables aux pêches côtières des pays en développement et ont préféré souligner les bons résultats obtenus dans la pêche artisanale avec le système des droits de propriété et dans la pêche industrielle avec le système d'octroi de permis. Selon d'autres participants, la limitation des permis est utile dans toutes les pêcheries, même dans les pays en développement.
+
+Régulation de l'effort de pêche par des mesures monétaires
+
+103. Les participants ont étudié les caractéristiques générales de ces mesures telles qu'elles étaient présentées dans le document. L'accent a été mis sur les aspects positifs des mesures financières et notamment sur la nécessité de prendre des mesures suffisamment strictes pour avoir un effet disuasif sur les pêcheurs. A titre d'exemple, on a cité le système Islandais qui consiste à taxer les espèces préférées et à subventionner les espèces sous-exploitées, ainsi que le système du lagon de Bardawil selon lequel les taxes payées par les pêcheurs servent à maintenir l'environnement à son niveau productif.
+
+104. Les participants ont demandé des explications sur le plan islandais de taxes et de subventions et on leur a expliqué que cette méthode pouvait être appliquée grâce à l'établissement de prix fixes pour la durée de la campagne. En fait, donc, le prix de la morue était fixé au-dessous des cours du marché et le prix des sébastes au-dessus. Ce système, a-t-on remarqué, serait didficile à appliquer si les pêcheurs devaient faire face à la concurrence des mêmes poissons importés ou si différents pêcheurs pêchaient ces espèces séparément.
+
+105. L'auteur du document sur les mesures monétaires a mis l'accent sur la différence entre la théorie économique et les pratiques en cours dans les pêcheries. Il a souligné que dans nombre de pêcheries, l'objectif essentiel était en pratique non pas la maximisation des excédents économiques mais plutôt la viabilité économique de zones relativement éloignées.
+
+106. Ce document appelle l'attention sur l'incidence des subventions destinées à accroître les possibilités d'emploi et à améliorer le niveau des revenus. L'augmentation des revenus et l'adoption d'innovations technologiques accroissent la capacité déjà excessive. Lorsqu'on en arrive au niveau de surcapacité, il n'est plus alors possible de retirer des subventions parce que la situation économique de la pêcherie s'est aggravée et en fait, la nécessité des subventions s'est accrue.
+
+107. En outre, avec l'extension de la juridiction à 200 milles, plutôt que d'imposer des taxes, nombre de gouvernements préfèrent subventionner le capital pour stimuler les investissements en vue d'intensifier le développement des pêches. Une telle approche a directement nui à l'aménagement des pêches.
+
+108. L'attention s'est portée sur l'incidence des subventions dans un pays où l'accroissement de l'effort de pêche, imputable aux subventions, avait entraîné l'augmentation des captures. Chaque stock a bientôt été pleinement exploité et a maintenant perdu sa compétitivité, ce qui ne se serait pas produit sans subventions. Les gestionnairs ont alors dû réagir en imposant une réglementation.
+
+109. Les conclusions du document étaient les suivantes :
+a. les droit de permis doivent être maintenus pour limiter les investissements et la surcapacité;
+b. les taxes sur la pêche sont bien souvent inutiles car il suffirait d'annuler les subventions pour diminuer l'effort de pêche;
+c. un soutien économique peut être nécessaire pour stimuler l'industrie mais il devrait être orienté vers l'infrastructure et non conduire le secteur de l'exploitation du poisson à supporter le fardeau des problèmes d'une société.
+
+110. Dans son résumé, l'auteur indiquait comment d'une mesure d'encouragement positive, les subventions se sont transformées en une stimulation négative lorsque l'on a atteint la pleine exploitation des ressources et le début de la surcapacité.
+
+111. Les participants ont procédé à un examen des taxes et ont noté que bien souvent elles n'étaient pas proportionnelles à l'effort de pêche. En particulier, dans certains pays, le mécanisme de changement des taxes est trop lent pour constituer un moyen efficace de modifier l'effort de pêche d'une année à l'autre lorsque l'importance des stocks varie, en raison, par exemple, d'un bon ou d'un mauvais recrutement. Mais les droits de permis - qui permettent de récupérer une partie des coûts d'aménagement - plus les droits de débarquement, calculés sur le poids brut à l'usine de transformation, ont tous deux une valeur monétaire et statistique.
+
+112. Le rôle des programmes de soutien financier a suscité de nombreux débats. Certains participants soutenaient que ces programmes peuvent soulever de grosses difficultés et ne devraient être adoptés qu'après mûre réflexion. De nombreuses subventions ont introduit de telles distorsions dans certaines pêcheries qu'il est très difficile d'en comprendre la véritable situation économique. Par exemple, les subventions au carburant des navires de pêche pourraient aider les grandes flottilles mobiles, grosses consommatrices de carburant, aux dépens de flottilles locales, souvent dans des zones éloignées, mais voisines de la ressource.
+
+113. Le soutien financier est accordé pour différentes raisons, par exemple pour encourager le développement de la pêche d'une ressource sous-exploitée, pour résoudre dans une pêcherie développée des problèmes dûs à la surcapacité née de crises temporaires comme l'effondrement du marché ou du recrutement etc. Ces raisons sont fondées et conduisent souvent les nations ou les organismes internationaux à de sages investissements.
+
+114. La Consultation a estimé que le soutien financier se justifie souvent, notamment dans les pays en développement, pour la première raison, c'est-à-dire pour stimuler le développement. Toutefois, même dans ce cas là, il présente des risques dans la mesure où, une fois accordées, les subventions sont difficiles à annuler. Elles peuvent donc continuer, même une fois que la pêcherie s'est développée, et conduire à des problèmes de surcapacité. Certaines formes de subventions (les prêts à faible intérêt par exemple) sont plus faciles à annuler que d'autres.
+
+115. On a estimé que le second type de soutien financier était moins justifié, à moins qu'il soit strictement temporaire, pour quelques mois après une forte tempête, par exemple. Toutefois, on a noté que dans certaines pêcheries multinationales, des subventions temporaires avaient été adoptées par des pays pour permettre à leurs pêcheries de survivre en attendant l'introduction d'un plan national d'aménagement.
+
+116. Les programmes de soutien financier ont un défaut commun : celui de manquer souvent de discrimination. Des navires subventionnés, conçus pour pêcher des espèces sous-exploitées, se mettront souvent, en l'absence d'autres contrôles, à opérer dans des pêcheries surexploitées. Il est souvent difficile, sur le plan politique, d'accorder des subventions sélectives en faveur, par exemple, de pêcheurs se trouvant dans des zones éloignées. En même temps, certains types de subventions pourraient être utilisées pour corriger des distorsions du système économique existant, par exemple en fournissant des prêts aux petits pêcheurs qui n'ont pas facilement accès au crédit ordinaire.
+
+117. La Consultation a noté les pressions financières qui pourraient conduire à des difficultés dans les pêcheries des pays en développement. Dans ces derniers, les organismes d'aide bilatérale, les banques internationales de développement et autres agences, fournissent des fonds pour contribuer au développement des pêcheries. En principe, cette assistance devrait être tout à fait la bienvenue et très souvent elle a été utilisée comme il faut et a donné de bons résultats; mais, dans certains cas, elle a conduit à l'importation de méthodes de pêche inadéquates et à la création d'une forte surcapacité. Ceci tient au fait que certains des intérêts de ces organismes peuvent en partie se préoccuper de la surcapacité des navires de pêche ou des chantiers dans le pays donateur ou de réaliser un vaste programme de prêt, sans se demander si un prêt moins important (20 chalutiers au lieu de 400 par exemple) serait préférable.
+
+118. Selon les participants, certains de ces problèmes naissent de l'absence de liaison, au sein des gouvernements ou des organismes internationaux, entre ceux qui s'intéressent au développement (construction d'un plus grand nombre de navires) et ceux qui s'intéressent à l'aménagement (réduction de la surcapactié).
+
+Régulation de l'effort de pêche par les droits de propriété
+
+119. Les documents présentés à cette session ont exposé le système utilisé pour octroyer des droits de propriété aux pêcheurs artisanaux au Japon, les programmes de contingents individuels au Canada Atlantique pour le hareng et les poissons de fond, et les débats d'une consultation technique récente sur les droits d'usage territorial pour la pêche (TURFs). On a également présenté un bref résumé d'un système de parts individuelles de l'allocation d'un contingent pour le flétan du Pacifique en Alaska. Enfin, on a signalé le succès d'un système de parts-contingent dans les pêcheries de maquereaux espagnols dans le lac Supérieur aux Etats-Unis.
+
+120. La conclusion générale que l'on peut tirer de ces documents et des débats est que si les pêcheurs pouvaient obtenir suffisamment de droits de propriété, ils auraient une attitude plus positive envers les mesures d'aménagements lorsqu'ils estiment que les pêcheries sont surexploitées. En fait, ils proposeraient sans doute des mesures plus restrictives que celles avancées par les administrateurs. Il existe toutefois des limites pratiques (degré de mobilité de la ressource, par exemple) et des obstacles juridiques et politiques à l'adoption généralisée ou immédiate de cette approche.
+
+121. Au Canada, la méthode des droits de propriété était très prometteuse, mais introduite tard dans les pêcheries de la côte orientale, elle s'est heurtée à d'énormes difficultés dues au très grand nombre de types de flottilles et de pêcheries multispécifiques. Les pêcheurs ont mis longtemps à s'habituer au système et ont eu du mal à l'accepter lorsqu'il s'agissait de groupes divisés par des différences de types d'engins et des dimensions de navires, cherchant tous à exploiter la même ressource. Même les sociétés ont eu des difficultés à tirer plainement parti des droits de propriété pour leur navire. Toutefois, la conclusion est que les pêcheries de cette région sont à l'excès réglementées et que le système des droits de propriété permet d'espérer un assouplissement.
+
+122. Si le système des droits de propriété est peut être un concept nouveau dans le domaine des pêches, il est en usage depuis des siècles dans certains pays (au Japon et à Sri Lanka par exemple). Sur terre, il est bien sûr largement accepté car on considère qu'il contribue à l'utilisation rationnelle de la terre.
+
+123. Les droits de propriété peuvent prendre plusieurs formes - attribution de poisson (une part des PTA par exemple), de territoires ou de permis de pêche. Ces droits peuvent être accordés à des individus ou à des collectivités : dans le premier cas, c'est une forme d'accès limité, mais une communauté ayant des droits de propriété devra probablement envisager d'établir des contrôles supplémentaires (sur le nombre de navires par exemple).
+
+124. Selon certains participants, le système des droits de propriété est un instrument d'aménagement injuste puisqu'il favorise ceux qui peuvent les obtenir et prive les autres de certaines possibilités. Si la propriété des droits entraîne bien des effets distributifs, il ne faut cependant rien y voir d'inhabituel puisque les droits de propriété sont un aspect fondamental de l'accès aux ressources dans les entreprises à terre. On a cependant souligné que les bénéficiaires devraient payer ces avantages sous forme de redevances (ou d'autres arrangements) pour couvrir les coûts de recherche et d'administration.
+
+125. Les droits d'usage territorial (TURFs) donnent de bons résultats depuis des siècles dans différentes localités, spécialement dans les régions côtières et à l'intérieur des terres. Dans des conditions favorables (manque de mobilité de la ressource par exemple) ces droits peuvent constituer une bonne stratégie d'aménagement s'ils aboutissent à une répartition équitable des avantages, assurent la conservation des ressources et procurent aux gouvernements des recettes suffisantes pour payer les dépenses d'aménagement. Ce sytème peut aussi encourager les participants à faire des investissements dans leur pêcherie et amener les gouvernements à les garantir ou à les financer. Les programmes de TURF devront être souples, permettre la vente ou le transfert des parts, la fusion avec d'autres plans analogues, etc.. Il faudra aussi être vigilant pour éviter que ces programmes se dégradent et que la propriété ne se concentre dans un nombre toujours plus faible de mains pour finir
+par un monopole, etc.. la raison d'être d'un système de TURF étant la propriété commune et non la propriété individuelle. On a fait remarquer que dans les zones côtières des conflits pourraient naître entre les droits de propriété et les intérêts d'autres utilisateurs des eaux côtières.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+EVALUATION DES TECHNIQUES DE REGULATION DE L'EFFORT DE PECHE
+
+Résumé du rapport
+
+126. L'une des raisons qui a motivé le ré-examen approfondi du Droit de la mer il y a dix ans ou plus est l'inquiétude que suscitaient l'appauvrissement de nombreux stocks de poissons et les difficultés de trouver une solution à ce problème dans le cadre du régime international alors en vigueur. La nouvelle Convention a apporté aux pays les possibilités, mais aussi les responsabilités, d'aménager les pêcheries, spécialement dans les zones économiques exclusives nationales. En l'absence d'aménagement, les ressources pourraient être menacées, la quantité et la stabilité des approvisionnements de poissons réduites et les pays pourraient ne pas bénéficier des avantages économiques et sociaux considérables qu'offrent une industrie et des communautés de pêcheurs bien organisées ; mais le coût de toute mesure d'aménagement, quelle que soit la forme d'intervention gouvernementale, tend à augmenter avec l'importance et la complexité de l'opération. Il faut donc que s'établisse un
+équilibre favorable entre les coûts et les avantages de toute mesure d'aménagement proposée. Cet équilibre variera avec le degré de développement du pays et de la pêcherie intéressée. Il peut même y avoir des cas où les conditions (faible dimension de la pêcherie, difficulté d'intervention, et.) justifient la décision du gouvernement de ne pas chercher à réglementer l'effort de pêche.
+
+127. Les participants à la Consultation avaient été choisis en fonction de leur expérience en matière de régulation de l'effort de pêche, expérience acquise essentiellement bien sûr dans les pays développés de l'Atlantique Nord et du Pacifique Nord où la surcapacité pose un problème crucial depuis environ 20 ans. Ayant identifié les facteurs de succès et d'échec dans les pays développés, ils estiment qu'il faudrait procéder à de nouvelles études et consultations pour évaluer les possibilités de mettre cette expérience en pratique sous forme de conseils spécifiques fournis à chaque pays en développement. Etant donné toutefois la grande variété de situations dans chaque pays, il serait souhaitable que ces consultations ultérieures se déroulent au niveau régional (par exemple Asie du Sud-Est, Amérique Latine, etc.) comme déjà prévu, par exemple au Comité sur le développement des pêches dans l'Atlantique Centre Est (COPACE) en 1983.
+
+Objectifs
+
+128. La Consultation a étudié les objectifs généraux d'aménagement et les critères d'évaluation des différents systèmes. Elle a souligné qu'il fallait avoir une idée claire des objectifs avant de commencer à aménager mais qu'il n'était pas pour autant nécessaire de les spécifier en détail; en fait, il pourrait même être souhaitable au début de ne les définir qu'en termes généraux. Les objectifs que l'on peut envisager sont très variés. Ils ne peuvent pas toujours être atteints simultanément et il pourrait être bon de ne prendre les décisions pertinentes que progressivement, dans le cadre du processus normal d'aménagement.
+
+129. Ces objectifs peuvent se classer en trois groupes : maintien des ressources, performance économique et équité (ou besoins sociaux). Ils pourraient servir de critères d'évaluation des résultats des différents plans d'aménagement, mais il faudrait en outre tenir compte des coûts des opérations (coûts de la recherche, de l'administration et de la mise en vigueur des règlements). Autrement dit, le coût nécessaire pour atteindre l'ensemble des objectifs (coûts/avantages) fait partie intégrante du processus itératif de détermination et d'affinement des objectifs. Certes la quantification des avantages est parfois difficile, mais elle est indispensable à ceux qui doivent prendre les décisions sur l'ampleur, les méthodes et la complexité de la réglementation.
+
+130. La Consultation a reconnu que le principal objectif de l'aménagement des pêches n'est pas normalement de parvenir à une rente économique maximale. Même si l'on est d'accord sur ce point, il ne faut pas pour autant négliger les objectifs d'efficacité économique car, à long terme, le secteur des pêches deviendrait un fardeau pour la société au lieu d'être une source sûre d'emplois et d'approvisionnements alimentaires. Les critères utilisés pour déterminer l'efficacité économique varieront évidemment d'un pays à l'autre en fonction des besoins en matière d'emploi, de l'abondance ou de la pénurie de carburant et d'autres conditions spécifiques.
+
+131. On est très conscient des conflits/arbitrages entre objectifs, par exemple entre un taux élevé d'emplois et un revenu élevé par personne. Ce que l'on dit moins, c'est que les tentatives visant à s'assurer un rendement annuel élevé accroissent le risque d'un effondrement des stocks. Il y a donc arbitrage entre le risque et le volume des captures et entre frais administratifs et autres dépenses. Les coûts de la recherche seront sans doute également moindres si l'on peut faire accepter une diminution du rendement par rapport au maximum théorique, et adopter un niveau de rendement raisonnable.
+
+132. Un objectif couramment mentionné est celui de parvenir à une forme quelconque de stabilité, par exemple dans le revenu des pêcheurs ou dans les approvisionnements aux producteurs ou aux consommateurs. Toutefois, tous les stocks de poissons connaissent des fluctuations naturelles, parfois importantes. On ne peut demander aux mesures d'aménagement d'éliminer ces fluctuations et leur incidence ultérieure sur les captures. Un objectif plus raisonnable est d'essayer de les réduire, mais ceci sera particulièrement difficile si l'on veut avoir un rendement moyen élevé. On peut atténuer l'effet néfaste de ces fluctuations en recourant à des fonds "d'assurance" qui, dans certains pays, peuvent faire partie intégrante du système d'aménagement des pêches.
+
+133. La plupart des objectifs intéressent les pêcheurs et presque toutes les mesures d'aménagement ont des répercussion sur leur vie. Ces mesures ne donneront de bons résultats que si les pêcheurs participent étroitement à tous les stades de l'aménagement, et comprennent et soutiennent les mesures proposées.
+
+Choix des instruments d'aménagement
+
+134. Le responsable de l'aménagement dispose de nombreux moyens - contingents de captures, interdiction de la pêche dans certaines zones, limitation des engins, etc. Selon les participants, il faudra, dans la plupart des cas, en employer plusieurs simultanément. L'un d'entre eux - le contingent de captures - ne peut qu'avoir des résultats limités. Ayant eu la possibilité d'étudier l'utilisation de ces différents instruments d'aménagement grâce à l'expérience des participants, la Consultation a fait observer que chaque type de mesure aurait sans doute des effets analogues quel que soit le lieu où elles sont appliquées, bien qu'on puisse s'attendre à quelque variation entre les pêcheries selon la latitude. En fait le choix doit répondre aux conditions particulières de chaque pêcherie.
+
+135. Il importe que les mesures d'aménagement soient souples. Le responsable devrait être en mesure de modifier rapidement la réglementation sur la base de nouvelles informations, par exemple d'interdire la pêche pendant une certaine période dans une zone où la proportion de junéviles est particulièrement élevée. Le cadre juridique et administratif du système d'aménagement devrait être tel qu'il permette cette souplesse.
+
+136. Dans le passé, des méthodes indirectes telles que l'interdiction de pêche dans certaines zones et le contrôle du maillage ont été souvent les premières à être appliquées. Dans certaines circonstances, spécialement lorsqu'elles peuvent assurer la protection du poisson jusqu'à ce qu'il ait frayé au moins une fois, elles peuvent suffire à garantir une protection adéquate des ressources. Des mesures supplémentaires sont parfois nécessaires pour des raisons économiques ou sociales, bien que certaines mesures indirectes (fermeture de ceintures côtières, maillage des chaluts, etc.) puissent aussi aider. Dans d'autres circonstances (pêcheries monospécifiques au chalut) les réglementations du maillage ou l'interdiction de certaines zones peuvent contribuer considérablement à améliorer l'aménagement. Dans certaines pêcheries, ces mesures ne seront pas aussi utiles mais lorsqu'elles sont applicables elles sont généralement comprises et acceptées par les pêcheurs; elles sont donc
+utiles et relativement faciles à appliquer.
+
+137. Les pêcheries multinationales posent des problèmes particuliers. Des méthodes indirectes, comme la réglementation du maillage, peuvent être appliquées à tous les participants, mais l'adoption de mesures directes exige une décision sur l'attribution à chaque pays. Cette dernière devrait se faire, a-t-on estimé, en termes de captures, par exemple, d'attribution de parts de PTA. Toutefois, les pays peuvent encore choisir entre de nombreuses méthodes (contingents de captures, limitation de l'effort, etc.) pour s'assurer que leurs captures restent en deça des quantités qui leur ont été attribuées.
+
+138. Le contrôle au moyen des limites de captures a été l'objet d'une attention particulière, dûe partiellement à son importance historique dans les pêcheries internationales. A quelques exceptions près (espèces très variables à cycle biologique court), les PTA peuvent en principe résoudre le problème de la conservation d'une espèce donnée. Toutefois, les flottilles de pêche peuvent encore avoir une capacité excédant de loin celle qui est nécessaire à un rendement équilibré. Les pressions politiques et sociales qui en résultent peuvent menacer les objectifs de conservation. Pour l'application des PTA il est indispensable de disposer de bonnes statistiques et ceci limite leur valeur dans les pays en développement. Faire respecter les PTA et assurer la surveillance scientifique régulière nécessaire peut être coûteux. En outre leur intérêt peut être limité dans les pêcheries multi-spécifiques.
+
+139. Les difficultés économiques et sociales peuvent être moindres si les PTA nationales (ou les parts des PTA multinationales) sont attribuées à des groupes de pêcheurs du pays, bien que d'importants problèmes de contrôle subsistent. Cette allocation - qui peut être considérée comme une forme de droit de propriété - pourrait être faite par exemple, comme dans plusieurs pays représentés à la Consultation - pêcheurs artisanaux de subsistance (qui ne pêchent que pour leur propre consommation), engins fixes, engins semi-mobiles et engins mobiles en dernier.
+
+140. Un contrôle direct du nombre de navires de pêche par la limitation de l'accès aux ressources ou des permis semble constituer le meilleur moyen de résoudre les problèmes de la surcapacité. En principe, cette approche devrait également résoudre les problèmes de conservation. A long terme toutefois l'incidence effective sur le stock peut atteindre des niveaux excessifs en raison de l'accroissement de la dimension et de l'efficacité de chaque navire. Ce résultat est également indésirable sur le plan économique en raison des fortes dépenses en capital en jeu. La limitation des permis devrait toujours comprendre des contrôles sur la capacité effective de pêche du navire autorisé (sur le tonnage ou la puissance par exemple). Même ainsi quelques améliorations technologiques seront généralement intervenues. Pour résoudre ce problème, les responsables de l'aménagement doivent à long terme être en mesure de réduire le nombre de navires autorisés (ou leur tonnage global). Pour
+certains stocks, comme les espèces pélagiques en bancs, une menace plus grave à court ou à moyen terme pourrait être la capacité de la flottille de se concentrer sur les bans survivants d'une ressource en voie de disparition.
+
+141. Adopter des mesures comme la limitation des permis ou de l'accès peut être plus facile et entraîner moins de perturbation dans une pêcherie qui est encore en développement que dans une pêcherie qui connaît déjà des problèmes de surcapacité ou de sur-exploitation. Il est difficile d'obtenir une réduction immédiate de l'intensité de pêche grâce à ces mesures et l'effet immédiat de leur introduction, ou de la menace de leur introduction, peut en fait accroître l'effort de pêche. Toutefois, adoptées suffisamment tôt, elles peuvent arrêter l'expansion et si l'on n'y prend pas garde, aisément dépasser les limites fixées. On peut aussi faire des objections pratiques aux mesures prises de bonne heure; par exemple, les gouvernements n'aiment pas dépenser de l'argent pour résoudre des problèmes qui ne se poseront pas avant quelques années. Le plus grand intérêt de la limitation des permis, du moins dans les pêcheries développées, est probablement d'être une mesure de complément
+des contingents de captures.
+
+142. Les mesures financières - soutien, notamment subventions, taxes directes ou structure des taxes, (taux d'amortissement) - peuvent constituer des instruments stratégiques utiles pour guider les décisions (des pêcheurs, des sociétés de pêche ou des investisseurs) dans la direction désirée. Elles peuvent être mal utilisées les soutiens financiers sont généralement poursuivis trop longtemps. En outre, elles sont lentes à produire leurs effets et n'ont donc aucune valeur comme "arme tactique"; enfin, elles ne sont bien souvent pas utilisées lorsque l'aménagement est le plus nécessaire. Quelques politiciens augmenteront les taxes sur une industrie qui est dans une mauvaise passe, même si cette situation est due à la capacité excédentaire. Les subventions sont à éviter autant que possible. Lorsque certaines formes de soutien financier peutent être utiles - par exemple pour encourager la pêche d'un stock sous-exploité, - elles ne doivent être accordées que pour une période
+strictement limitée. Les taxes seraient plus utiles dans les phases finales d'un bon aménagement pour orienter les profits "excessifs" et devraient essentiellement servir à couvrir les dépenses d'aménagement.
+
+143. Les organismes d'aide bilatérale, les banques internationales de développement et autres organismes exercent parfois des pressions financières pour accroître la dimention et la capacité des flottilles de certains pays en développement. Ces pressions qui prennent la forme de prêts à faible intérêt, etc. peuvent être extrêmement bienvenues lorsqu'elles sont exercées prudemment; mais, appliquées sans discrimination, elles peuvent conduire à importer des méthodes de pêche inadéquates, à avoir des navires trop nombreux pour les ressources, à endommager ces dernières et à entraîner des pertes pour les pêcheurs et pour le pays.
+
+144. A cet égard, les participants ont souligné qu'un navire utilisant la technologie avancée n'est pas nécessairement rentable. Il est rare que les grands chalutiers - usines capturent le poisson dans des conditions aussi avantageuses que les petits navires locaux qui consomment peu de carburant.
+
+145. Les droits de propriété peuvent prendre plusieurs formes - contingents individuels de captures, droits d'usage territorial, etc. Ils présentent un certain nombre d'avantages. Lorsque les pêcheurs considèrent les stocks de poisson comme leur propriété, ils adoptent une attitude plus positive envers les mesures de conservation et d'aménagement, dont la mise en vigueur est généralement plus facile et moins coûteuse. Le produit peut souvent être débarqué dans de meilleures conditions et au cours d'une campagne plus longue, au grand bénéfice du consommateur. En général, la Consultation a estimé que l'octroi de droits de propriété, quelle que soit leur forme, est l'une des mesures d'aménagement les plus prometteuses, spécialement dans les pays en développement comptant une forte population de pêcheurs artisanaux.
+
+146. En résumé, les principales conclusions de la Consultation sont les suivantes:
+i. Il est indispensable d'aménager les pêcheries, faute de quoi on ne peut en tirer les grands avantages qu'elles sont en mesure de fournir - quantités importantes de produits alimentaires, emplois dans les communautés côtières (particulièrement dans les régions éloignées) et forte contribution au bien-être économique.
+ii. Dans l'aménagement de leurs pêcheries, les pays développés ont commis beaucoup d'erreurs pour plusieurs raisons et notamment l'impossibilité où ils étaient de contrôler les pêcheries au large de leurs côtes dans le cadre du régime international précédent. Les pays en développement, spécialement ceux qui ont des pêcheries en voie de développement, seraient bien inspirés de tirer les leçons de ces erreurs au lieu de prendre pour exemples les pratiques actuellement en vigueur dans les pays développés.
+iii. L'aménagement des pêcheries peut être coûteux, selon le niveau souhaité de développement, spécialement pour ce qui est de la recherche et de la mise en vigueur des règlements. Les décisions relatives à l'aménagement doivent rechercher un équilibre entre les coûts et les avantages escomptés.
+iv. Les pêcheurs et autres membres de l'industrie (commerçants, travailleurs à terre, transformateurs, etc.) devraient être associés à l'aménagement des pêches. Ils devraient avoir la possibilité d'y participer à tous les stades, depuis l'élaboration et le choix des mesures d'aménagement jusqu'à leur application et leur mise en vigueur. S'ils peuvent eux-mêmes se charger de cette dernière, c'est évidemment plus efficace et meilleur marché mais il faudra prévoir une surveillance.
+v. Il n'existe pas de méthode simple et universelle pour réglementer l'effort de pêche. Pour obtenir de bons résultats il faut faire appel à plusieurs réglementations et mesures simultanément. La meilleure combinaison de mesures diffère d'une pêcherie à l'autre. Elle doit être adaptée aux conditions spécifique de chaque pêcherie.
+vi. On ne peut séparer l'aménagement du développement. Il arrive souvent que des mesures prises sans discrimination pour encourager la croissance d'une pêcherie (l'introduction de subventions par exemple) compromettent gravement le succès ultérieur de l'aménagement. Les fonctions administratives liées au "développement" et à "l'aménagement", qu'il s'agisse d'un pays ou d'un organisme international, devraient être étroitement intégrées.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+ANNEXE 1
+LISTE DES PARTICIPANTS
+
+EXPERTS
+
+Australie
+
+Dr. R. Bain
+First Assistant Secretary
+Fisheries Division
+Department of Primary Industry
+Canberra ACT 2614
+
+Canada
+
+Mr. R.A. Crouter
+Director General
+Scotia Fundy Region
+Department of Fisheries and Oceans
+Boutiers Point
+Halifax, Nova Scotia
+
+Chili
+
+Sr. Alejandro Zuleta
+Under-Secretariat of Fisheries
+Ministerio de Economia
+Teatinos 120 piso 11
+Santiago
+
+Cuba
+
+Dr. J.A. Baisre
+Sub-Director
+Ministerio de la Industria Pesquera
+Centro de Investigaciones Pesqueras
+Ave. Primera y 26
+Miramar
+La Habana
+
+Israel
+
+Mr. M. Bar Ilan
+c/o Department of Fisheries
+Ministry of Agriculture
+P.O. Box 21170
+Tel Aviv 62263
+
+Prof. Adam Ben-Tuvia
+Department of Zoology
+Hebrew University of Jerusalem
+91904 Jerusalem
+
+Japon
+
+Dr. T. Yamamoto
+Professor of Fishery Economics
+College of Economics
+Nihon University
+Tokyo
+
+Malaisie
+
+Mr. Shahrom Majid
+Assistant Director-General
+Fisheries Management & Protection Branch
+Department of Fisheries
+Ministry of Agriculture
+Jalan Mahameru, Kuala Lumpur
+
+Nouvelle-Zélande
+
+Dr. G. Duncan Waugh
+Director
+Fisheries Research Centre
+Ministry of Agriculture & Fisheries
+P.O. Box 297
+Wellington
+
+Norvège
+
+Mr. B. Brochmann
+Director of Planning
+Ministry of Fisheries
+Fishery Economic Division
+Box 8118, DEP
+Oslo 1
+
+Royaume-Uni
+
+Mr. Peter Derham
+Chief Inspector of Fisheries
+Ministry of Agriculture, Fisheries & Food
+Great Westminster House
+Horseferry Road
+London SWIP 2AE
+
+Mr. J. Pope
+Fisheries Laboratory
+Ministry of Agriculture, Fisheries & Food
+Lowestoft, Suffolk
+
+Etats-Unis d'Amérique
+
+Mr. Wm. Gordon
+Assistant Administrator
+NOAA-NMFS
+3300 Whitehaven Street, N.W.
+Washington, D.C. 20235
+
+Dr. B.E. Skud
+Adj. Professor of Oceanography
+University of Rhode Island
+National Marine Fisheries Service (NMFS)
+South Ferry Road
+Narragansett
+Rhode Island 02882
+
+Mr. Clement V. Tillion
+North Pacific Fisheries Management Council
+P.O. Box 3136 DT
+Anchorage, Alaska 9951
+
+Capt. L.N. Schowengerdt, Jr.
+Chief
+Operational Law Enforcement
+US Coast Guard (Gole)
+2100 Second Street SW
+Washington, D.C. 205930
+
+Conseil international pour l'exploration de la mer
+
+Mr. K. Hoydal
+Palaegade 2-4
+1261 Copenhagen
+Danemark
+
+Commission des communautés européennes
+
+Mr. M.J. Holden
+Directorate-General for Fisheries
+Rue de la Loi 200
+B-1049 Bruxelles
+Belgique
+
+Consultants FAO
+
+Mr. I. McSween
+Scottish Fish Producers Organization
+601 Queensferry Road
+Edingurgh 4, Scotland
+R.U.
+
+Mr. J. Goodlad
+Shetland Fishermen's Association
+Lerwick, Scotland
+R.U.
+
+Mr. D. Thomson
+Farmhouse Baberton
+EH 14 2 SR Edinburgh, Scotland
+R.U.
+
+Prof. R. McGoodwin
+University of Colorado
+Boulder
+Etats-Unis
+
+Prof. B. Rettig
+Oregon State University
+Corvallis, Oregon
+Etats-Unis
+
+Mr. M. Ben Yami
+Director
+Fisheries Technology Division
+Haïfa
+Israël
+
+Membres de la FAO
+
+Dr. C. Newton
+Secrétaire de la Consultation
+Fonctionnaire principal chargé de la planification des pêches
+Division des politiques et de la
+planification
+
+Membres de la FAO
+
+M.A. Gumy
+Fonctionnaire chargé de la planification des pêches
+Division des politiques et de la planification
+
+Dr. J. Gulland
+Chef du Service des ressources marines
+Division des ressources halieutiques et de l'environnement
+
+Dr. J. Caddy
+Fonctionnaire principal chargé des ressources halieutiques
+Division des ressources halieutiques et de l'environnement
+
+Dr. S.M. Garcia
+Fonctionnaire principal chargé des ressources halieutiques
+Division des ressources halieutiques et de l'environnement
+
+M. I. Robertson
+Spécialiste principal des industries de la pêche
+Division des industries de la pêche
+
+Dr. E. Ruckes
+Spécialiste des industries de la pêche (commercialisation)
+Division des industries de la pêche
+
+Mme Luisa Almagia
+Fonctionnaire chargée des réunions
+
+Mme Pat Bowton
+Secrétaire
+
+Mme Jessica Kwang
+Secrétaire
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières Page suivante
+
+
+ANNEXE 2
+ORDRE DU JOUR PROVISOIRE ET CALENDRIER
+
+Lundi, 17 janvier
+Matin
+9 h 30 Discours d'ouverture du Sous-Directeur général, Département des pêches de la FAO
+
+Observations liminaires
+
+10 h 30 - 12 h 30 PREMIERE SESSION
+CRITERES A UTILISER POUR LA REGULATION DE L'EFFORT DE PECHE
+
+Présentation des documents (20 minutes par document et 10 minutes pour les questions)
+
+Documents:
+
+Somes notes for the Consultation on Fishing Effort (Gulland)
+
+Objectives and criteria for fisheries regulations (Waugh)
+
+Fishermen and fisheries management (Thomson)
+
+Processing and marketing considerations for regulations (McSween)
+
+Après-midi DEUXIEME SESSION
+TECHNIQUES DE LA REGULATION DE L'EFFORT DE PECHE
+
+14 h 00 - 17 h 00 Premier groupe: régulation par les limites de captures
+
+Présentation des documents (20 minutes par document et 10 minutes pour les questions, etc.)
+
+Documents:
+
+ICES Procedures in formulating management advice (Hoydal)
+
+Biological complexities in the calculation of TACs - Provisional title (Pope)
+
+Procedures of the European Community in implementing scientific recommendations from ICES - Provisional title (Holden)
+
+US experiences in allocation of TACs - Provisional title (Gordon)
+
+Quota allocation by fishing gears for the herring fishery in the Bay of Fundy - Provisional title (Crouter)
+
+Chilean experience of setting catch limits (Zuleta)
+
+The problems of quota management in the European Community Context (Derham)
+
+Enforcement of quota regulations for domestic and foreign fishing - Provisional title (Schowengerdt)
+
+Mardi, 18 janvier
+Matin
+9 h 00 - 12 h 00 DEUXIEME SESSION: premier groupe (suite)
+
+i) Détermination des prises totales autorisées (PTA)
+
+On se concentrera sur les problèmes biologiques que pose la détermination du niveau des PTA pour la campagne suivante
+
+Après-midi
+14 h 00 - 17 h 00 ii) Attribution de parts des PTA
+
+Intérêt, principes et processus de l'attribution nationale et internationale
+
+Mercredi, 19 janvier
+Matin
+9 h 00 - 12 h 00 DEUXIEME SESSION: premier groupe (suite)
+
+iii) Administration des limites de captures
+
+Mesures qu'implique la mise en vigueur des limites de captures (inspection à terre et en mer) et incidence indirecte des limites de captures
+
+Après-midi
+14 h 00 - 17 h 00 Deuxième groupe: autres méthodes de régulation de l'effort et problèmes particuliers
+
+Présentation des documents
+
+De brefs débats suivront la présentation des documents; ils devront être limités essentiellement aux demandes d'éclaircissements. Les discussions de fond auront lieu le jour suivant.
+
+Documents:
+
+Vue d'ensemble - Indirect approaches to regulation of fishing mortality (Caddy)
+
+The history and evaluation of closure regulations in the Pacific Halibut Fishery (Skud)
+
+Regulatory measures in the Cuban domestic fishery - Provisional title (Baisre)
+
+Experience in regulating the fisheries of the Bardawil lagoon - Provisional title (Ben-Tuvia)
+
+Débat sur l'interdiction de pêche dans certaines zones, ceintures côtières à certaines époques:
+
+a) par quatre membres des groupes
+b) par l'ensemble des participants
+
+Jeudi 20 janvier
+Matin
+9 h 00 - 12 h 00 Deuxième groupe (suite)
+
+Documents:
+
+Fishing gear selectivity and performance (Thomson & Ben-Yami)
+
+Manipulation of fixed gear and the effect of catch-per-unit effort (Skud)
+
+Mesh size regulation and its role in fisheries management (Jones)
+
+Examen des réglementations concernant les engins et le maillage et de leur incidence sur la mortalité:
+a) par quatre membres du groupe
+b) par l'ensemble des participants
+
+Après-midi
+14 h 00 - 15 h 00 Deuxième groupe (suite)
+
+Self-regulatory mechanisms in unmanaged fisheries - Provisional title - (McGoodwin)
+
+An alternative to equilibrium theory for management of fisheries (Caddy)
+
+Examen des incidences des mesures indirectes d'aménagement et de leur mode d'application:
+a) par le membres du groupe
+b) par l'ensemble des participants
+
+Discussion du premier projet des rapporteurs et du secrétaire technique
+
+Vendredi 21 janvier
+Matin
+9 h 00 - 12 h 00 DEUXIEME SESSION:
+TECHNIQUES DE LA REGULATION DE L'EFFORT DE PECHE
+
+Troisième groupe: régulation de l'effort de pêche au moyen de permis octroyés aux navires ou aux pêcheurs et du contrôle des engins
+
+Document liminaire:
+
+Practices and problems with licence limitation in the US and Canada (Rettig)
+
+Comptes-rendus:
+
+Alaska (Tillion)
+Australie (Bain)
+Japon (Yamamoto)
+
+Débat
+
+Après-midi
+14 h 00 - 17 h 00 Troisième groupe (suite)
+
+Comptes-rendus:
+
+Norvège (Brochman)
+Israel (Bar-Ilan)
+Malaisie (Majid)
+Pologne (Ropelewski)
+
+Débat
+
+Samedi 22 janvier
+Libre
+
+Dimanche 23 janvier
+Libre
+
+Lundi 24 janvier
+Matin
+9 h 00 - 12 h 00 Troisième groupe (suite)
+
+Débat sur les incidences du contrôle direct du nombre des unités de pêche
+
+Après-midi
+14 h 00 - 17 h 00 Quatrième groupe: Régulation de l'effort par des mesures monétaires
+
+Documents:
+
+Islande (Ellison)
+Norway (Brochman)
+
+Débat
+
+Cinquième groupe: Régulation de l'effort par les droits de propriété
+
+Documents:
+
+Canada (Doucet)
+Panayoutou
+
+Débat
+
+Mardi 25 janvier
+Matin
+9 h 00 - 12 h 00 TROISIEME SESSION:
+EVALUATION DES TECHNIQUES DE REGULATION DE L'EFFORT DE PECHE
+
+a) incidences sur les ressources
+
+b) incidences sur les résultats économiques, notamment sur le secteur transformation-commercialisation
+
+Après-midi
+14 h 00 - 17 h 00 TROISIEME SESSION (suite)
+
+c) questions de justice
+
+d) viabilité administrative et acceptabilité sur le plan politique
+
+Mercredi 26 janvier
+Matin
+9 h 00 - 12 h 00 Conclusions générales et mesures proposées.
+
+Après-midi
+14 h 00 Adoption du rapport officiel de la Consultation au Secrétaire général de la Conférence mondiale sur l'aménagement et le développement des pêches.
+
+
+Page précédente Début de page Page suivante
+Page précédente Table des matières
+
+
+ANNEXE 3
+LISTE DES DOCUMENTS
+
+Session Groupe Titre Auteur
+1 Document d'inf. Catch, effort and fishing power J.F. Caddy
+
+1 Document 1 Some Notes for the Consultation on the Regulation of Fishing Effort J.A. Gulland
+
+1 Document 2 Fishermen and fisheries management D. Thomson
+
+1 Document 3 Regulation of fishing effort (fishing mortality), New Zealand G.D. Waugh
+
+1 Document 4 The interaction between fisheries management and the marketing of fish I. McSween
+
+2 1.1 Control of the amount of fishing by catch limits J.A. Gulland
+
+2 1.2 ICES procedures in formulating management advice K. Hoydal
+
+2 1.3 The problems of quota management in the European Community Context P. Derham
+
+2 1.4 Notes on the scientific problems of TAC management J. Pope
+
+2 1.5 Enforcement of foreign fishing quota allocations by the United States Coast Guard L.N. Schowengerdt
+
+2 1.6 The management of Chilean pelagic fisheries with emphasis on the Spanish sardine A. Zuleta
+
+2 1.7 Quotas by fishing gear for the herring fishery of the Bay of Fundy R.A. Crouter
+
+2 1.8 United States fishing effort restrictions and fishing vessel licensing under the 200-Mile limit W.D. Chappell
+
+2 1.9 Anchovy management by quota Wm. Gordon (NMFS)
+
+2 1.10 The procedures followed and the problems met by the European Economic Community in implementing the scientific recommendations of the International Council for the Exploration of the Sea on total allowable catches M.J. Holden
+
+2 1.11 Management of the Atlantic groundfish fishery under the US Magnuson Fishery Conservation and Management Act, 1977 to 1982 F. Grice
+P. Colosi
+(NMFS)
+
+2 1.12 Management of the shrimp fishery of the Gulf of Mexico NMFS
+
+2 1.13 Management of the Atlantic surf clam fishery under the US Magnuson Act, 1977 to 1982 B.Nicholls
+(NMFS)
+
+2 2.1 Indirect approaches to regulation of fishing effort J.F.Caddy
+
+2 2.2 An alternative to equilibrium theory for management of fisheries J.F. Caddy
+
+2 2.3 Fishing gear selectivity and performance D. Thomson
+M. Ben-Yami
+
+2 2.4 Mesh size regulation and its role in fisheries management R. Jones
+
+2 2.5 The history and evaluation of closure regulations in the Pacific halibut fishery B.E. Skud
+
+2 2.6 Manipulation of fixed gear and the effect on catch-per-unit effort B.E. Skud
+
+2 2.7 Regulation of fishing effort in Cuban shelf fisherise: The case studies of shrimp, lane snapper and spiny lobster fisheries J.A. Baisre
+
+2 2.8 Biological basis for the fishery relugation and management of the Bardawil Lagoon, Mediterranean coast of Sinaï A. Ben-Tuvia
+
+2 2.9 Some examples of self-regulatory mechanisms in unmanaged fisheries R. McGoodwin
+
+2 3.2 Practices and problems with licence limitation in the US and Canada B. Rettig
+
+2 3.3 Controlling of fishing efforts: Malaysia's experience and problems S. Majid
+
+2 3.4 Fisheries management on Lake Kinnereth M.Bar-Ilan
+
+2 3.5 Fisheries management in Alaska C.V. Tillion
+
+Back Cover
+
+
+Page précédente Début de page

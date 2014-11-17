@@ -1,0 +1,7479 @@
+Manual de Métodos de Muestreo para la Evaluación de las Poblaciones de Langosta Espinosa
+
+
+
+ISSN 1014-1138
+
+FAO
+DOCUMENTO
+TÉCNICO
+DE PESCA
+399
+
+DANIDA
+
+Organización
+de las
+Naciones Unidas
+para la
+Agricultura y la Alimentación
+
+Indice
+
+
+por
+Raúl Cruz
+Centro de Investigaciones Marinas
+Universidad de La Habana
+Calle 16, 114, Miramar Playa
+La Habana
+Cuba
+
+Roma, 2002
+
+Las denominaciones empleadas en esta publicación y la forma en que aparecen presentados los datos que contiene no implican, de parte de la Organización de las Naciones Unidas para la Agricultura y la Alimentación, juicio alguno sobre la condición jurídica de países, territorios, ciudades o zonas, o de sus autoridades, ni respecto de la delimitación de sus fronteras o límites.
+
+ISBN 92-5-304766-6
+
+Todos los derechos reservados. Se autoriza la reproducción y difusión de material contenido en este producto informativo para fines educativos u otros fines no comerciales sin previa autorización escrita de los titulares de los derechos de autor, siempre que se especifique claramente la fuente. Se prohíbe la reproducción del material contenido en este producto informativo para reventa u otros fines comerciales sin previa autorización escrita de los titulares de los derechos de autor. Las peticiones para obtener tal autorización deberán dirigirse al Jefe del Servicio de Publicaciones y Multimedia de la Dirección de Información de la FAO, Viale delle Terme di Caracalla, 00100 Roma, Italia, o por correo electrónico a copyright@fao.org
+
+© FAO 2002
+
+
+Indice
+
+
+PREPARACIÓN DE ESTE DOCUMENTO
+
+1 INTRODUCCIÓN
+
+2 DISEÑO GENERAL DE LA COLECTA DE DATOS
+
+3 MUESTREO DE LA POBLACIÓN EN LAS ZONAS DE PESCA
+
+4 MUESTREO DEL CICLO DE VIDA
+
+4.1 MUESTREO DE LA FASE PUÉRULOS
+4.2 MUESTREO DE LOS JUVENILES
+4.3 MUESTREO DE LOS ADULTOS
+
+4.3.1 Estratificación
+4.3.2 Colecta de los datos
+4.3.3 Procesamiento de los datos
+
+4.3.3.1 Factor de amplificación
+4.3.3.2 Índices pesqueros
+4.3.3.3 Índices independientes de la pesquería
+
+5 CONVERSIÓN DE LAS TALLAS INDUSTRIALES A LARGOS BIOLÓGICOS
+
+5.1 RELACIONES MORFOMÉTRICAS
+
+5.1.1 Relación entre longitudes
+5.1.2 Relaciones largo - peso
+
+5.2 DATOS DE ENTRADA
+5.3 GENERACIÓN DE NÚMEROS ALEATORIOS Y PROPORCIONES POR TALLAS
+5.4 CÁLCULO DEL NÚMERO DE LANGOSTAS EN PESO POR TALLA
+5.5 COMPOSICIONES POR TALLA
+5.6 RESUMEN
+5.7 RESUMEN DEL TOTAL
+5.8 RESUMEN DE LAS HEMBRAS
+5.9 RESUMEN DE LOS MACHOS
+
+6 COLECTA DE LAS ESTADÍSTICAS DE CAPTURA Y ESFUERZO
+
+7 REFERENCIAS
+
+CUBIERTA POSTERIOR
+Indice Página siguiente
+
+
+PREPARACIÓN DE ESTE DOCUMENTO
+
+Este documento ha sido preparado como parte de las actividades del Proyecto FAO/DANIDA para la "Capacitación en evaluación de stocks de peces y planificación de la investigación pesquera" (GCP/INT/575/DEN) y se ha basado mayormente en las experiencias cubanas en el desarrollo de un sistema de muestreo del ciclo de vida de la langosta. El documento describe diversos métodos y técnicas de muestreo que seguramente serán de interés para quienes trabajan en la investigación de pesquerías y recursos pesqueros similares en otros países. En el texto se hace referencia a cuatro modelos elaborados en hojas de cálculo de Microsoft Excel que han servido para el procesamiento de algunos ejemplos y cuadros presentados en este manual. Estos son: Modelo-Puérulos, Modelo-Juvenil, Modelo-Estratos, Modelo-Biológico y Modelo-Industria, que están disponibles en línea desde esta sección.
+
+Distribución:
+
+Selector FAO Recursos Marinos
+Departamento de Pesca de la FAO
+Oficiales de Pesca en las Oficinas
+Regionales y Subregionales de la FAO
+
+Cruz, R.
+Manual de métodos de muestreo para la evaluación de las poblaciones de langosta espinosa.
+FAO Documento Técnico de Pesca. No. 399. Roma, FAO. 2002. 43p.
+(Incluye un disco compacto-ROM)
+
+RESUMEN
+
+En el presente Manual se describen diferentes métodos de muestreo, con especial énfasis en la utilización de técnicas que permiten estudiar el comportamiento de las fases del ciclo de vida de la langosta, para mejorar las evaluaciones de las poblaciones en toda su área de distribución. Después de una breve introducción, se analiza el diseño general de la colecta de datos, donde se proponen técnicas de muestreo, a partir del desarrollo de diferentes dispositivos artificiales para la captura de los puérulos, juveniles y adultos, con el fin de desarrollar metodologías estandarizadas que mejoren las estimaciones de la abundancia relativa de estos estadios, la evaluación del reclutamiento y otros índices independientes de la pesquería, así como la predicción de las futuras capturas. Además, se discute la utilización del muestreo aleatorio estratificado y los factores de amplificación, donde se desarrollan ejemplos de cálculo en una pesquería de langosta, con el propósito de
+mostrar el diseño que se debe emplear en las zonas de pesca para lograr muestras que sean representativas de los verdaderos valores de la población, minimizando los errores sistemáticos o sesgos. El manual brinda un modelo para convertir los datos de las categorías industriales de la langosta en peso (langosta entera precocinada y cola) a los largos biológicos correspondientes, a través de su procesamiento en una hoja de cálculo Microsoft Excel. El manual se complementa con la colecta y análisis de los datos de captura y esfuerzo, teniendo en cuenta el tipo de pesquería que se desarrolla en cada región de pesca de langosta.
+
+
+Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+1 INTRODUCCIÓN
+
+La Región del Gran Caribe es considerada como el mayor productor de langosta espinosa en todo el mundo (aproximadamente 33000 toneladas métricas, t) representando el 17% de la producción mundial. La especie más importante es la langosta común o del Caribe (Panulirus argus), le siguen en orden de importancia la langosta verde (Panulirus laevicauda), 29% del total desembarcado en Brasil, y la manchada (Panulirus guttatus). Los principales productores en la región son Cuba (10 853 t), Brasil (8 177 t), Bahamas (4 740 t), Honduras (3 432 t), Florida (2 762 t), Nicaragua (1 652 t) y México (1 156 t). Los cuales contribuyeron con el 86% de los desembarques totales en 1978-1994 (Cruz et al., 1995).
+
+Su extenso ciclo de vida planctónico en aguas oceánicas, desde 6-8 meses en el Caribe y hasta 12 meses en aguas de Bermudas, facilita la interconexión de poblaciones o segmentos poblacionales de diferentes países. Por otra parte los estudios más recientes realizados sobre el DNA mitocondrial han generado evidencias más concluyentes sobre la hipótesis del origen Pan Caribeño de la langosta P. argus. Es por lo anterior que se deben desarrollar metodologías estandarizadas de muestreo en la región para mejorar la evaluación de los stocks, las estimaciones del reclutamiento, así como la predicción de las futuras capturas.
+
+La eficacia de todo plan de muestreo está en relación con la posibilidad de que ofrezca una generalización satisfactoria de la población a partir de la muestra o muestras. Algunas propiedades del ciclo de vida de la langosta, como son: el sexo, la talla, el estadio de maduración, hembras ovígeras, crecimiento, el reclutamiento larval y juvenil y la distribución de las larvas en el océano, no serán observados o medidas directamente para el conjunto de la población por lo que se examinará una parte o muestra de la población para deducir las características que la definen.
+
+Existen en la literatura una gran variedad de valiosos manuales y libros sobre métodos de muestreos en los que se explica muy bien la teoría para la colecta de las muestras sobre la población que se investiga. El presente manual tiene la finalidad de aplicar esa teoría del conocimiento, incorporando diferentes técnicas novedosas para el muestreo del ciclo de vida de la langosta espinosa, permitiendo mejorar las estimaciones de sus abundancias relativas, la evaluación del reclutamiento y otros índices independientes de la pesquería, así como establecer la utilidad del mismo en la predicción. Sin embargo, para transferir esta tecnología a otros países de la región se necesita que los científicos conozcan la teoría que la sustenta, la aplicación y utilidad práctica de los diferentes métodos empleados e introducirlos en las investigaciones que se realizan sobre este valioso recurso.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+2 DISEÑO GENERAL DE LA COLECTA DE DATOS
+
+Este manual se diseñó principalmente teniendo en cuenta las experiencias de los biólogos cubanos en el desarrollo de un sistema de muestreo del ciclo de vida de la langosta, con diferentes dispositivos artificiales; programa que se inició en la fase adulta desde el año 1963 con la participación de "recolectores de datos" (Buesa, 1965) y que se fue perfeccionando a partir del año 1980 (Cruz, 1981a y b), posteriormente en las áreas de cría de los juveniles desde 1982 (Cruz et al., 1986a) y finalmente en el estadio puérulos desde 1987 (Cruz et al., 1991). En otros países de la región los programas de monitoreo de la población han tenido las siguientes características: en la Florida, el muestreo de los puérulos y los adultos se inició en 1987 y 1993 respectivamente (Muller y Doug, 1997); en México, sólo la fase postlarval y adulta desde el año 1987 (Briones, 1994), en otros países se han desarrollado de una forma esporádica y en Belice conjuntamente con algunos países del
+CARICOM se ha iniciado recientemente un programa de muestreo (CFRAMP, 1997).
+
+Para estudiar la fase puérulos se han desarrollado diferentes tipos de colectores para especies y áreas diferentes (Phillips, 1995; Cruz y Marshalleck 1997). Aunque los utilizados para Panulirus argus han sido los tipos Witham-Florida (Witham, Ingle y Joyce, 1968), hogs-hair-Florida (Hunt, com. personal), GuSi-México (Gutierrez-Carbonell, Simonin-Díaz y Briones, 1992) y Phillips-Australia-Cuba modificado (Phillips, 1972; Cruz et al., 1991). En los estudios de dinámica poblacional en la especie P. argus recomendamos este último diseño teniendo en cuenta lo siguiente:
+
+a) Han sido utilizados con buenos resultados para evaluar la variación espacio-temporal del reclutamiento larval (Cruz et al., en prensa), los niveles de asentamiento de puérulos se relacionan con los índices de reclutamiento a la pesquería (Cruz, León y Puga, 1995; Phillips et al., 1994; Caputi, Brown y Phillips, 1991) y han permitido pronosticar las capturas de la langosta australiana (Phillips, 1986).
+
+b) Poseen buena capacidad para capturar los puérulos en las áreas de arrecifes adyacentes al talud, por ejemplo en Cuba se han colectado 15 150 ejemplares en doce meses.
+
+c) Su diseño y construcción permiten una mayor durabilidad en localidades donde penetran las aguas oceánicas comparada con la de otros colectores, por ejemplo en la plataforma cubana han resistido por más de 10 años los embates de los vientos y las olas en la barrera arrecifal e incluso la del huracán Gilbert (septiembre de 1988) lo cual justifica el costo de la inversión inicial (100 $ USD).
+
+d) También han sido utilizados como proveedores de animales para su estudio en el laboratorio y para el futuro desarrollo del maricultivo.
+
+Una variedad de refugios artificiales ha sido instalada de forma experimental en la Florida (Sweat, 1968; Davis, 1976, 1978, 1985), México (Miller, 1982; Eggleston, 1991; Aguilar, Sosa y Arce, 1995), Bermuda (Evans, Evans y Lockwood, 1995) y Cuba (Cruz et al., 1986a y b) para estudiar la efectividad de los diferentes diseños en el mejoramiento del hábitat, investigar los procesos de reclutamiento en las áreas de cría de langosta (P. argus) y predecir las capturas (Cruz, León y Puga, 1995; Cruz, Puga y León, 1995).
+
+En Cuba, los datos sobre la abundancia de juveniles de langosta (1982-1997), obtenidos a partir del monitoreo de estructuras de bloques de hormigón en un área de cría (Cruz, Brito, Díaz y Lalana, 1986a), han demostrado ser una herramienta útil en los análisis de dinámica de poblaciones, para evaluar el reclutamiento en las áreas de cría y para realizar el pronóstico de las capturas con un año de antelación (Cruz, León y Puga, 1995; Cruz, Puga y León, 1995); por lo que se recomienda este diseño para este tipo de estudio. En Australia, ésta información con el mismo propósito se obtiene a través del muestreo de las capturas comerciales en el mar (Caputi y Brown, 1986).
+
+Se ha demostrado que los refugios artificiales (pesqueros o casitas cubanas), como los utilizados en Cuba, México y Bahamas, proveen un refugio adecuado para la fase pre-adulta y adulta de la langosta (Cruz et al., 1986a; Cruz, León y Puga, 1993) garantizando su supervivencia y desarrollo, así como también es colonizado por hembras ovígeras, con masa espermatófora o individuos en fase de muda (Cruz y Phillips, 1994). El comportamiento gregario de los machos y las hembras en el refugio no se ve afectado por la presencia de animales en diferentes estados reproductivos o de crecimiento. En localidades con una alta actividad reproductiva, que por lo general se localizan en áreas cercanas al borde de la plataforma, las hembras ovígeras pueden llegar a constituir el 80% del total de las hembras colectadas en los refugios, variando su composición por talla entre los 70 y 139 mm Lc, en dependencia de la localidad. Además, en este tipo de refugio el número de langostas es muy
+variable y esto refleja la densidad poblacional en cada área y la estructura por edad (Cruz, León y Puga, 1992). Se ha podido precisar en los estudios realizados, los niveles de reclutamiento a la pesquería, los procesos reproductivos, el crecimiento, el comportamiento migratorio de la especie y se han realizados estimaciones de la CPUE para contrastar con las estadísticas pesqueras (Cruz y Phillips, 1994; Cruz, León y Puga, 1992 y 1993).
+
+Se recomienda utilizar este tipo de refugio para realizar los muestreos, ya que por ejemplo cuando las colectas se hacen en trampas o nasas, el número de hembras o en cualquier otro estado reproductivo se puede subestimar, como lo demostraron Morgan (1974) en la especie Panulirus cynus, Kanciruk y Herrnkind (1976) y Cruz y León (1991) en la langosta Panulirus argus. En pesquerías que no se utilice este tipo de refugio-arte, en ausencia de arrecifes, es recomendable realizar un diseño experimental por área de pesca con el fin de calar un número de pesqueros para apoyar la actividad de muestreo.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+3 MUESTREO DE LA POBLACIÓN EN LAS ZONAS DE PESCA
+
+Este tipo de muestreo tiene como objetivo conocer el área de distribución de la especie y describir la dinámica de la población que estamos explotando.
+
+La composición por sexo y talla, los parámetros de crecimiento, los coeficientes de mortalidad y el reclutamiento, son estimaciones a tener en cuenta para lograr un adecuado ordenamiento pesquero, lo que nos permitirá definir la unidad de stock. Una característica esencial de un stock es que sus parámetros poblacionales permanecen constantes en toda su zona de distribución.
+
+Calcular los diferentes índices correspondientes a las capturas por unidades de esfuerzo para contrastar con las estadísticas pesqueras, así como determinar el aporte que cada una de las áreas representa para el total capturado constituye otra de las finalidades de este tipo de muestreo.
+
+Sin embargo, no es conveniente muestrear los mismos barcos cada mes, es mejor que este aspecto del muestreo, así como el correspondiente a las langostas que se clasificarán y medirán, quede al azar.
+
+Con vistas a la selección al azar de los barcos pesqueros, se debe proceder de la siguiente forma:
+
+a) El observador debe efectuar un censo del número de barcos langosteros de cada empresa, cooperativa o región costera, donde se señale el nombre del barco, el nombre del capitán o dueño de la embarcación, artes de pesca que utiliza y los caladeros donde usualmente pesca.
+
+b) A finales de cada mes debe efectuarse una especie de sorteo (al azar) para determinar cuáles de esos barcos, en cada zona, va a muestrear en el transcurso del mes.
+
+c) Seleccionados los barcos, el observador se debe poner en contacto con el capitán o dueño, con vistas a conocer la fecha de zarpar y la duración de la campaña de pesca a fin de hacerle el muestreo y al mismo tiempo enterarse sí ese barco pescará ese mes en esa zona o sí estará en reparaciones. En caso contrario, deberá seleccionar otro, también sorteándolo, hasta que tenga completa su programación de trabajo para el mes.
+
+Las pesquerías de langosta en México (González, 1991), Belice (CFRAMP, 1997), Brasil (Fonteles-Filho, 1994), Florida (Muller y Doug, 1997) y Cuba (Cruz, León y Puga, 1993) se caracterizan por tener una división territorial de las zonas de pesca que permite la colecta de la información biológica y pesquera, aunque el sistema empleado es muy variable entre estas regiones. Esta zonificación facilita la selección de las áreas de pesca que deben ser muestreadas así como de los artes de pesca y embarcaciones de los que necesitamos tener datos.
+
+El éxito de este tipo de muestreo también dependerá en parte sí la pesquería es de acceso limitado o abierto. Bajo esta última condición la mayoría de las pesquerías en el mundo han presentado el síndrome de sobrepesca.
+
+Fig. 1 Mapa del archipiélago cubano donde se muestra el acceso limitado a la pesquería de la langosta mediante la división del área de pesca en zonas, empresas y regiones (plataformas).
+
+Una entrada limitada a la pesquería permite conocer el número de barcos y artes de pesca operando en cada una de ellas, la variación geográfica de las capturas, facilita el diseño de los estratos de acuerdo a las densidades de langosta, el registro de la información pesquera y el muestreo que hemos señalado anteriormente con un elevado nivel de precisión.
+
+En la Figura 1 se muestra la división territorial de la pesquería de langosta en el archipiélago cubano. Este tipo de organización ha propiciado un acceso limitado a la misma no solamente por el número de empresas pesqueras que participan por regiones o plataformas, sino que también existe una división de estas áreas de pesca por subzonas (pescador), zonas (barco), empresas (área empresarial) y regiones (plataformas) y evita que en una misma zona concurran barcos de otras zonas, empresas o regiones. La misma ha permitido la colecta de la información biológica, pesquera y económica, considerando el tamaño y dinámica de la estructura de la población, de la flota y la captura.
+
+En el próximo epígrafe se describe la metodología que se debe utilizar para ejecutar el plan de muestreo de la población por estratos, teniendo en cuenta las características de las diferentes fases del ciclo de vida de esta especie. Esta información se puede adquirir a bordo de los barcos de investigaciones y comerciales que participan en la pesquería de la langosta.
+
+
+Página precedente Inicìo de página Página siguiente
+Fig. 1 Mapa del archipiélago cubano donde se muestra el acceso limitado a la pesquería de la langosta mediante la división del área de pesca en zonas, empresas y regiones (plataformas).
+
+Página precedente Indice Página siguiente
+
+
+4 MUESTREO DEL CICLO DE VIDA
+
+Antes de discutir las diferentes metodologías para el muestreo, es necesario resumir los aspectos más relevantes del ciclo de vida de esta especie.
+
+Después del apareamiento en aguas someras, las hembras de P. argus se desplazan varios kilómetros hacia el borde de los arrecifes o las plataformas costeras para incubar y/o liberar las larvas (Buesa, 1965). El desove principal es entre marzo-mayo (Cruz y León, 1991); después que las larvas eclosionan, pasan por 11 estadios larvales como filosoma en el océano durante 6-8 meses (Baisre, 1976; Alfonso et al., 1991; Cruz et al., 1991) y antes de la metamorfosis los últimos estadios migran hacia dentro. Los puérulos nadan activamente hacia la costa cada mes, pero con picos de asentamiento principalmente entre los meses de septiembre-diciembre (Cruz et al., 1991; Cruz et al., en prensa). El asentamiento en las aguas costeras ocurre en los clones de algas Laurencia spp.(Marx y Herrnkind, 1985; Herrnkind y Butler, 1986) y ocasionalmente en las raíces sumergidas del mangle (Witham, Ingle y Sims, 1964; Baisre, com. personal). Los puérulos se convierten en juveniles 10 meses después
+del asentamiento (17 meses de nacido) y estos permanecen en áreas someras (áreas de cría) entre 8 y 10 meses, se reclutan al área de pesca entre los meses de marzo-mayo con 25 meses de nacido y 76 mm Lc (Cruz, Brito, Díaz y Lalana, 1986b). En la plataforma cubana, los juveniles entran en la fase explotada de la población en el mes de junio (conclusión del período de veda) a los 2 años y 3 meses.
+
+La madurez sexual se alcanza entre las tallas de 78-81 mm Lc (Cruz y León, 1991; Baisre y Cruz, 1994) y el apareamiento tiene lugar principalmente en febrero-marzo. En las hembras ovígeras la eclosión de los huevos ocurre en 3-4 semanas, principalmente entre abril-mayo. El número de huevos en los pleópodos presenta un rango entre 159000 y 1629000 y está relacionado con el largo del cefalotórax (mm) por la siguiente ecuación: F = 59110 Lc^2,9666 (Cruz y León, 1991).
+
+La langosta presenta tres tipos de movimientos; los desplazamientos nocturnos o migraciones alimentarias, las migraciones propiamente dichas y los movimientos nomádicos. Los recorridos nocturnos son diarios, se realizan por individuos aislados y cubren cortas distancias hasta el seibadal más cercano, efectuando un recorrido irregular y sinuoso en busca de alimento. Las migraciones son movimientos estacionales, orientados y cubren generalmente grandes distancias. Las migraciones masivas otoñales o "recalos" ejercen una gran influencia en las capturas anuales de esta especie (Herrnkind, 1985; García et al., 1991). El nomadismo, es un movimiento al azar, individual, de carácter esporádico y sin un rumbo o dirección definida; este tipo de desplazamiento, en la fase adulta, se incrementa en las estaciones de primavera-verano (Cruz, Brito, Díaz y Lalana, 1986b).
+
+4.1 MUESTREO DE LA FASE PUÉRULOS
+
+Los caracteres morfológicos del estadio puérulos siguen el mismo patrón descrito por Lewis, Moore y Babis, (1952). Elevada transparencia, excepto los ojos que son pigmentados, desprovistos de espinas en el carapacho, manteniendo varios caracteres larvales como son: cuerpo deprimido, pleópodos muy desarrollados y carapacho poco calcificado y transparente (Fig. 3).
+
+Fig. 2 Ciclo de vida de la langosta Panulirus argus, tomado de Cruz, León, Díaz, Brito, Puga, 1991
+
+Fig. 3 Puérulos de langosta Panulirus argus
+
+
+Los puérulos una vez que penetran a las áreas costeras se fijan a un sustrato, este es el estímulo que propicia los cambios morfológicos que culminarán en el primer estadio post-puérulos, que es fácil de distinguir por la configuración del área rostral (Phillips, 1972) y por las bandas oscuras que recorren ambos lados del cuerpo, en los pereiópodos son fragmentados. A partir de este momento adquiere un hábito de vida bentónico y no gregario, su talla media es de 7,27 mm Lc. En la Figura 4 se observa la coloración típica de esta fase de vida.
+
+Fig. 4 Post-puérulos de langosta Panulirus argus.
+En la foto se observa la coloración típica de esta fase de vida
+
+
+El colector flotante (Fig. 5) para capturar las langostas, consiste en una estructura triangular y acanalada de aluminio que soporta 3 láminas de PVC, de 59*30*1 cm de ancho. Las láminas se retienen al marco con una tira plástica (venoclísis).
+
+El colector posee un eje vertical que presenta dos boyas G-8 de PVC (con una flotabilidad de 4,1 kg cada una) en el interior, que sustentan al dispositivo en la superficie del agua. En la parte superior del colector se coloca una boya numerada que permite su localización.
+
+El colector es retenido por: un grillete, un quitavueltas, un grillete unido a una cadena de hierro galvanizada (eslabón de 8 mm) y unido con un grillete a un peso muerto de hormigón (50 kg). El largo de la cadena es el doble de la profundidad.
+
+Se colocan en cada lámina de PVC, 20 motas o borlas de fibra sintética no elaborada de Tanikalón (polypropylene fiber, Taniyama Chemical Industries Lts., Okayama, Japan) de 23 cm de largo. Cada borla está amarrada con alambre de acero inoxidable de 3,0 mm y a su vez cogida a la lámina de PVC con una tira plástica (venoclisis) con un doble nudo. Las láminas ya completas se hacen pasar por los canales de la estructura de aluminio y se aseguran con una venoclisis a la parte superior del colector. Los colectores después de sumergidos toman el aspecto de un conglomerado de algas a los pocos días.
+
+Fig. 5 Diagrama del colector de Phillips, modificado por Cruz et al., 1991
+
+
+Fig. 6 Equipo empleado para sacudir las láminas de PVC que libera a las langostas de las motas o borlas de fibra sintética. Denominado "equipo sacudidor"
+
+
+Los colectores se ubican en los parches de arena de la barrera coralina donde la profundidad varía entre 1-3 m. Por su construcción, quedan dispuestos verticalmente y en la superficie, ya que se ha demostrado que los puérulos cuando penetran en las aguas costeras se fijan a objetos flotantes y a la vegetación que crece sobre las raíces del mangle rojo (Lewis, Moore y Babis, 1952; Witham, Ingle y Sims, 1964 y Sweat, 1968), debido a su capacidad natatoria durante la noche se sumergen entre los 2 cm (P. argus; Calinski y Lyons, 1983) y los 5 cm (P. cygnus; Phillips y Olsen, 1975) de agua, aunque estos dos últimos autores reportan que en condiciones de turbidez el puérulos puede nadar por debajo de los 20 cm.
+
+Los colectores son chequeados después de cada período de luna nueva (Phillips, 1972; Phillips y Hall, 1978; Little, 1977; Mc Donald, 1986). Cada lámina se saca del marco sobre un tamiz (que impide la pérdida de animales), y son fuertemente sacudidos a través de un "equipo sacudidor" que libera las langostas. El dispositivo "sacudidor" es un marco de aluminio de 74*63*32 cm (Fig. 6 y 7) que sostiene a la lámina de PVC y una bandeja plástica colectora en la parte inferior. Dos técnicos sacuden la lámina un total de 30 veces (en series de 10), sí en el último intento no se observan langostas el proceso finaliza. Sí por el contrario, se observan langostas en la última sacudida los técnicos continúan el procedimiento hasta que no se observen ejemplares (Fig. 8 y 9).
+
+Las langostas caen desde las borlas dentro de una bandeja plástica por debajo del marco (Fig. 10). Los animales son encontrados a lo largo de las borlas y también entrelazados en las fibras sintéticas muy cerca de la lámina de PVC (Phillips y Booth, 1994). El contenido de la bandeja es filtrada con el auxilio de un tamiz; la fauna asociada en las borlas de cada lámina es muy rica y diversa, por lo que la separación de los puérulos y post-puérulos del resto de los organismos debe ser muy minuciosa. Cada tres o cuatro meses las láminas viejas son remplazadas por nuevas y limpias.
+
+Una vez que las langostas se extraen de los colectores se pueden apreciar diferentes estadios de desarrollo, estos son:
+
+a) Puérulos (P). Completamente transparentes, sólo con los ojos pigmentados.
+
+b) Puérulos (P1). Ligeramente pigmentado lateralmente, cuerpo deprimido y transparente.
+
+c) Puérulos (P2). Pigmentación lateral bien definida de color carmelita pálido, cuerpo deprimido y aún transparente.
+
+d) Post-puérulos (PP). Han experimentado una muda, bandas oscuras que recorren ambos lados del cuerpo, en las patas son fragmentadas.
+
+e) Juvenil (PJ). Han experimentado dos o más mudas, poseen la coloración disruptiva de la especie, exoesqueleto duro, cilíndrico y con numerosas espinas.
+
+Las fases predominantes en los colectores son entces puérulos y post-puérulos, aunque también se han observado juveniles de hasta de 18,7 mm Lc y desde los 16 mm Lc se pueden distinguir los sexos en esta especie. Esta clasificación permite discernir cualitativamente cuando una langosta, que no fue capturada y que mudó al menos dos veces en el colector, se fijó al dispositivo. Los juveniles capturados en los colectores, que han experimentado dos o más mudas, se consideran pertenecientes al mes anterior (Cruz et al., 1991).
+
+Fig. 7 Diagrama del "equipo sacudidor" donde se muestran sus dimensiones
+
+
+Fig. 8 En la foto se ilustra la forma en que los técnicos deben
+sacar la lámina de PVC del colector
+
+
+Fig. 9 En la foto se ilustra la manera en que se debe sacudir la lámina de PVC
+
+
+Fig. 10 Se ilustra la bandeja plástica donde se colectan las langostas que se desprenden
+de las motas o borlas. El contenido de la bandeja es filtrada con el auxilio
+de un tamiz para lograr una separación minuciosa de los animales
+
+
+También en estos tipos de colectores, principalmente en aguas cubanas, se han colectado otras especies de langosta: puérulos de Justitia longimanus, 1 Nisto y puérulos de Panulirus guttatus, por lo que se pueden utilizar para capturar otras especies de langostas.
+
+Los ejemplares capturados en cada colector son contados, clasificados, y sí el estudio lo requiere se les mide el largo del cefalotórax con un pie de rey electrónico digital (Max-Cal) de 150 mm y con una precisión de 0,01 mm. El traslado de los ejemplares al laboratorio es muy fácil, vivos en un recipiente con suficiente aireación o se pueden preservar en una solución con formol al 5%. En la Tabla 1 se brindan valores de la talla media de ambos estadios como valores de referencia (Cruz et al., 1991)
+
+Tabla 1. Largo del cefalotórax de los ejemplares capturados en los colectores ubicados en el archipiélago cubano
+
+ESTADIO
+
+N
+
+Largo medio (Lc - mm)
+
+INTERVALO (mm)
+
+Puérulos
+
+376
+
+5,63 ± 0,06
+
+4,24 - 6,09
+
+Post-puérulos
+
+868
+
+7,27 ± 0,09
+
+6,09 - 16,50
+
+La talla media de los puérulos no difiere significativamente (P< 0,05) entre meses, aunque si se observan diferencias significativas (P<0,05) con la talla de los post-puérulos.
+
+Durante el muestreo, para agilizar el trabajo con los ejemplares capturados, se recomienda clasificar las langostas en las siguientes categorías:
+
+P = puérulos: PP = post-puérulos; Pj = juveniles
+
+El modelo utilizado para el registro de la información primaria es el siguiente:
+
+MUESTREO DE PUÉRULOS
+
+AÑO:
+
+DÍA / MES:
+
+T (MAR):
+
+O[2]:
+
+ZONA:
+
+S:
+
+T (AIRE):
+
+COLECTOR
+
+P
+
+PP
+
+PJ
+
+TOTAL
+
+OBSERVACIONES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+etc
+
+TOTAL
+
+Instrucciones para llenar del modelo:
+
+Año
+
+anotar el año
+
+Día / Mes
+
+anotar el día y mes que se realiza el muestreo
+
+Zona
+
+anotar la zona de muestreo
+
+T (mar)
+
+anotar la temperatura del mar (¡ C)
+
+S
+
+anotar la salinidad
+
+O[2]
+
+anotar los valores de oxigeno
+
+T (aire)
+
+anotar la temperatura del aire
+
+Colector
+
+anotar en la columna el número asignado a cada colector en cada zona
+
+P
+
+anotar el número de puérulos
+
+PP
+
+anotar el número de post-puérulos
+
+Pj
+
+anotar los animales que han experimentado más de una muda, son del mes anterior
+
+Total
+
+se suman las tres columnas anteriores (P, PP, Pj)
+
+Observaciones
+
+anotar cualquier incidencia, por ejemplo sí faltó una bandeja, sí hay que sustituir la cadena, etc.
+
+El índice de asentamiento (índice de puérulos, Ip = No Puérulos / No de colectores) es calculado como la captura media por colector, por mes y por estación (Cruz et al., 1991; Cruz, León y Puga, 1995; Cruz, Puga y León, 1995).
+
+Para posibilitar el procesamiento de la información primaria de los puérulos de una forma rápida y segura, se confeccionó una hoja de cálculo en Microsoft Excel denominado Modelo-Puérulo.
+
+4.2 MUESTREO DE LOS JUVENILES
+
+La fase post-puérulos (talla media de 7,27 mm Lc) se extiende desde el estadio inmediato de la metamorfosis del puérulos hasta que alcanza un largo del cefalotórax entre los 6 y 16,50 mm. Entre los 16 y 20 mm ya se pueden diferenciar los sexos y los animales adquirieren los colores típicos de la especie. Desde esta talla (16,50 mm) y hasta que alcanzan la madurez sexual consideramos los ejemplares como juveniles.
+
+El arrecife artificial de hormigón diseñado para el muestreo de los juveniles, consiste en ocho bloques dispuestos en un cuadrado en el nivel inferior con otros ocho bloques en una segunda ringla coronan la estructura, 118 * 30 cm, conformando una estructura de 16 bloques y cada bloque tiene un peso aproximado de 14 kg (Fig. 11). Tiene una altura de 30 cm que no estimula la concentración de peces adultos.
+
+Fig. 11 Diagrama del arrecife artificial de bloques de hormigón
+
+
+Este tipo de bloque puede ser adquirido en cualquier empresa que venda o fabrique materiales de construcción, su precio y/o costo de producción es bajo, es muy fácil de transportar a bordo de una embarcación, su manipulación y ubicación en el fondo marino se puede realizar manualmente por dos o tres buzos. Presenta una gran durabilidad, se ha utilizado por más de 15 años en un área de cría de langosta en Cuba, y es relativamente fácil su localización. No obstante, los orificios del bloque requieren de una limpieza periódica con el fin de eliminar determinados organismos, por ejemplo anémonas, cangrejos y determinados moluscos, que compiten por el alimento, el refugio y el espacio al desplazar a los juveniles.
+
+El tiempo de permanencia del arrecife en el medio natural influye notablemente en el proceso de colonización, aunque el tipo de material, forma, tamaño, estabilidad y la productividad biológica en la estructura son los factores que pueden influir en una mayor o menor tasa de colonización. La superficie irregular y porosa de los bloques facilita el crecimiento de organismos incrustantes y algas, que conjuntamente con la fauna asociada (gasterópodos, pelecípedos y otros invertebrados) constituyen sin lugar a dudas una fuente alimentaria para los juveniles. Además, las oquedades y orificios de los bloques son aprovechados al máximo, protegen a los juveniles de los depredadores y les permite concentrarse, lo cual es un hábito específico, defensivo y natural de las langostas en esta fase del ciclo de vida (Berril, 1975), (Fig. 12).
+
+Fig. 12 Estructura de hormigón colonizado por juveniles de langosta.
+Nótese como las oquedades y orificios de los bloques son aprovechadas al máximo
+
+
+Este tipo de refugio debe ubicarse en las áreas que por lo general se concentran los juveniles de langosta, conocidas comúnmente como áreas de cría. Estas son localidades que por lo general son de fondos someros, de una fauna muy rica y diversas donde predominan los anélidos, los moluscos, de una abundante vegetación marina (con cobertura variable de Thalassia testudinum, algas de los géneros Penicilius y Halimeda), por lo general aparecen bordeando los cayos y en ocasiones cercanas a la costa. El biotopo en ésta región se caracteriza por presentar bajos valores del diámetro medio de las partículas, seibadal de fango (microaleurítico), las menores densidades y biomasas de la macroinfauna, menores porcentajes de organismos con tallas superiores a los 5 mm y el menor número de taxones (Herrera et al., 1991). Este tipo de hábitat garantiza una alta tasa de crecimiento en los estadios post-puérulos y juveniles.
+
+Para localizar estas áreas se deben realizar encuestas a los pescadores en las áreas de pesca. La extensión del criadero se debe delimitar a través de una inspección submarina de buceo autónoma, los juveniles por lo general se refugian en la vegetación submarina, en agregaciones de erizo negro (Diadema antillarum), en agrupaciones de 5 ó 6 ejemplares ocultos en el seibadal (Thallasia testudinum), en esponjas o gorgonáceos.
+
+Cuando las capturas de juveniles se quieren utilizar para los análisis de la dinámica de poblaciones y/o con fin de pronosticar las capturas (Cruz, León y Puga, 1995; Cruz, Puga y León, 1995), el número adecuado de arrecifes dependerá de los siguientes aspectos:
+* El área disponible, se debe determinar el área que cubre la zona de cría y conocer las principales características de los factores bióticos y abióticos de los diferentes biotopos.
+* La densidad de juveniles, se puede estimar a partir de datos de marcado y recaptura (Jones, 1966) y/o utilizando el método de rastreo circular (James, 1979) mediante buceo autónomo nocturno.
+* El número de ejemplares por estructura de hormigón (índice de abundancia), sí es muy bajo es recomendable incrementar el número de arrecifes.
+* El grado de precisión requerido, sí las variaciones del reclutamiento entre temporadas o años son muy bajas se debe valorar nuevamente el área seleccionada o incrementar el número de arrecifes. También es recomendable seleccionar más de un área de estudio, aunque esto dependerá de la fuerza de trabajo disponible y de los costos de operación.
+
+El estudio se debe iniciar calando como mínimo 20 estructuras de hormigón. Después de un año de muestreo inicial piloto se puede calcular el tamaño de la muestra, realizando un análisis de varianza (ANOVA) entre la interacción de los meses y la posición del refugio. El error permisible que va a decidir el investigador debe estar en función de la importancia del trabajo que se va acometer, así como en el costo del muestreo. En este caso es recomendable utilizar una precisión del ±10% (Yamane, 1970), que es muy aceptable para trabajos ecológicos en general, para estimar el número de estructuras que se deben ubicar en el área de cría.
+
+A los conteos de juveniles se les realizó una transformación logarítmica (log10) antes del análisis para satisfacer las asunciones de normalidad (Sigarroa, 1985).
+
+El número de estructuras (N) se calcula en:
+
+N = (n1 * (s)^2) / d^2
+
+Donde:
+
+N= número de estructuras de bloques de hormigón
+
+n1 = número de estructuras utilizadas durante el muestreo piloto
+
+(s)^2 = valor residual del ANOVA
+
+d = precisión (± 10% del valor medio)
+
+Los arrecifes se ubican con una separación entre 25 a 30 metros y se distribuyen conformando un rectángulo, como se ilustra en el esquema. Para localizarlas, se les amarra una chapilla plástica numerada y se posicionan con el auxilio de un GPS.
+
+
+Este tipo de diseño incrementa la disponibilidad de refugio, el comportamiento gregario y residencial de los juveniles, ya que cuando estos concluyen sus desplazamientos nocturnos (en busca de alimento) o nomádicos por lo general regresan al mismo refugio o seleccionan otro adyacente y no se desplazan fuera del área de cría. Los resultados de las marcaciones realizadas en el área de cría de Bocas de Alonso (Golfo de Batabanó) y los estudios de colonización efectuados en 60 estructuras de bloques, que cubren un área de 0,25 km^2 (León et al., 1991), avalan este comportamiento, teniendo en cuenta que la velocidad media de los juveniles es de sólo 44 m/día y el 74% de los animales marcados permanecieron en el área de cría con una talla media igual a los 52 mm Lc, que fue significativamente diferente (p=0,05) a la de los emigrantes (76 mm Lc) cuando se reclutaron a la pesquería.
+
+La captura se efectúa desde un bote o lancha con motor fuera de borda, en el cual van como mínimo 3 técnicos. Las langostas que se van a cuantificar y medir por estructura debe ser colectadas por dos buzos manualmente, con el auxilio de un pequeño chapingorro o el chinchorro langostero (Cruz y Phillips, 1994) en dependencia del número de ejemplares que se observen en el refugio. Los ejemplares capturados se colocan en un recipiente con agua de mar, se les mide el largo del cefalotórax con un pie de rey, sé sexan y por último se liberan en el mismo refugio donde fueron capturados a fin de eliminar las migraciones inducidas. Cuando no se necesite medir y sexar más los ejemplares se puede realizar un censo submarino directo, cada buzo cuenta los ejemplares de un lado y se lo comunica al técnico que se encuentra en el bote, la operación se repite hasta completar los cuatro lados del refugio.
+
+Una vez que el buzo le haya suministrado las langostas capturadas al técnico en el bote, este registrará la información general por estructura y anotará algunos datos oceanográficos de interés, en la planilla que se muestra a continuación.
+
+MUESTREO DE JUVENILES
+
+Nombre del técnico:--------------------------------------------------
+
+Nombre del barco:----------------------------------------------------
+
+Fecha:------------------------ Zona de cría: -------------------------
+
+Tipo de fondo:---------------------------------- Profundidad:------
+
+Temperatura:-------- Salinidad:----------- Oxigeno--------------
+
+NÚMERO ESTRUCTURA
+
+MACHOS
+
+HEMBRAS
+
+TOTAL
+
+NÚMERO ESTRUCTURA
+
+MACHOS
+
+HEMBRAS
+
+TOTAL
+
+1
+
+11
+
+2
+
+12
+
+3
+
+13
+
+4
+
+14
+
+5
+
+15
+
+6
+
+16
+
+7
+
+17
+
+8
+
+18
+
+9
+
+19
+
+10
+
+20
+
+El índice anual de abundancia se calcula como la media del número de juveniles capturados por refugio, por mes y estación, el cual proporciona una medida de la fortaleza relativa de la abundancia por unidad de área.
+
+Ij = No juveniles / No de estructuras artificiales
+
+donde:
+
+Ij = índice de juveniles
+
+Para posibilitar el procesamiento de la información primaria de los juveniles de una forma rápida y segura, se confeccionó una hoja de cálculo en Microsoft Excel denominado Modelo-Juvenil.
+
+4.3 MUESTREO DE LOS ADULTOS
+
+4.3.1 Estratificación
+
+Para el muestreo de los pre-adultos y los adultos se recomienda el método aleatorio estratificado, de manera que nos permita obtener una muestra representativa de la población que se desea estudiar.
+
+Tabla 2. Estratificación de las zonas de pesca de langosta
+
+ESTRATOS
+
+ESTRATIFICACIÓN
+
+C
+
+Iar
+
+IPR
+
+TALLA MEDIA Lc (mm)
+
+MACHOS
+
+HEMBRAS
+
+1
+(Sur)
+
+Sur Juan García
+
+P3
+
+0,22
+
+Sur del Coco
+
+P5
+
+0,30
+
+Sur Los Indios
+
+P6
+
+0,31
+
+Sur Matías
+
+I4
+
+0,31
+
+0,79
+
+92,5
+
+84,4
+
+Sur de Cantiles
+
+B6
+
+0,25
+
+Cayo Sigua
+
+B5
+
+0,21
+
+Diego Pérez
+
+B4
+
+0,22
+
+2
+(Norte)
+
+Norte Juan García
+
+P2
+
+0,14
+
+Norte del Coco
+
+P4
+
+0,11
+
+Norte Aguardiente
+
+I3
+
+0,13
+
+1,69
+
+82,1
+
+76,9
+
+La Gata
+
+B1
+
+0,11
+
+3
+(Zonas someras)
+
+Costa de la Coloma
+
+P1
+
+0,06
+
+El Verde
+
+P8
+
+0,04
+
+Cayo Dios
+
+P7
+
+0,07
+
+Cayo Redondo
+
+I1
+
+0,06
+
+2,99
+
+La Manteca
+
+I2
+
+0,06
+
+Rabihorcado
+
+B2
+
+0,09
+
+La Traviesa
+
+B7
+
+0,05
+
+C = código utilizado para cada estrato
+Iar = índice de actividad reproductora (Cruz y León, 1991).
+IPR = índice de reclutamiento a la pesquería (Cruz, Puga y León, 1995).
+Talla media (mm Lc) = Sansón et al., (1991)
+
+La población total se divide o estratifica (estratificación) y las categorías o estratos (por ejemplo, región sur, norte y zonas someras) se seleccionan teniendo en cuenta las características del hábitat y/o de la información que se tenga sobre el comportamiento de diferentes índices independientes de la pesquería. En la Tabla 2 que se muestra a continuación se detallan los diferentes estratos seleccionados en la región del Golfo de Batabanó. La primera al sur de los cayos (cercana al talud de la plataforma), presenta los ejemplares de mayor talla y con valores muy altos de la actividad reproductora durante casi todo el año; una segunda región al norte con valores más bajos; por último una tercera de aguas someras y en ocasiones más cercana a la costa con una talla promedio más baja, un elevado número de pre-recluta e índices reproductivos casi nulos.
+
+Sí se tiene un conocimiento previo de la zona y se han realizado muestreos durante varios meses en el mar, los datos se pueden organizar y proceder con los cálculos para obtener un tamaño de muestra dentro de cada estrato. Sí no se tiene un conocimiento de la zona a muestrear, habrá que esperar que la investigación esté bastante avanzadas como para conocer la variabilidad de la composición por tallas de las capturas en el mar y otros parámetros.
+
+En la Tabla 3 se ilustra el número de langostas muestreadas por estratos durante el año 1987 en el Golfo de Batabanó. Como las observaciones dentro de los estratos es aproximadamente del mismo tamaño es muy probable que se obtengan ganancias en la precisión debido a la estratificación.
+
+Tabla 3. Número de langostas muestreadas por estratos en 1987. Golfo de Batabanó
+
+ESTRATOS
+
+ESTRATIFICACIÓN
+
+E
+
+F
+
+M
+
+A
+
+M
+
+J
+
+J
+
+A
+
+S
+
+O
+
+N
+
+D
+
+1
+(Sur)
+
+Sur Juan García
+
+142
+
+175
+
+124
+
+243
+
+225
+
+227
+
+197
+
+214
+
+154
+
+170
+
+115
+
+188
+
+Sur del Coco
+
+167
+
+203
+
+71
+
+131
+
+207
+
+196
+
+180
+
+184
+
+162
+
+209
+
+153
+
+104
+
+Sur los Indios
+
+173
+
+163
+
+209
+
+224
+
+230
+
+214
+
+182
+
+138
+
+212
+
+183
+
+188
+
+148
+
+Sur Matías
+
+170
+
+192
+
+200
+
+194
+
+210
+
+232
+
+178
+
+214
+
+211
+
+207
+
+95
+
+215
+
+Sur Cantiles
+
+203
+
+202
+
+208
+
+201
+
+201
+
+206
+
+209
+
+204
+
+193
+
+214
+
+200
+
+201
+
+Cayo Sigua
+
+200
+
+200
+
+155
+
+70
+
+203
+
+200
+
+200
+
+200
+
+200
+
+194
+
+200
+
+205
+
+Diego Pérez
+
+200
+
+206
+
+213
+
+201
+
+228
+
+207
+
+201
+
+198
+
+225
+
+205
+
+200
+
+200
+
+2
+(Norte)
+
+Norte Juan García
+
+222
+
+125
+
+231
+
+114
+
+185
+
+166
+
+197
+
+246
+
+224
+
+162
+
+124
+
+211
+
+Norte del Coco
+
+209
+
+144
+
+231
+
+228
+
+232
+
+202
+
+229
+
+203
+
+173
+
+212
+
+167
+
+168
+
+Norte Aguardiente
+
+277
+
+330
+
+390
+
+211
+
+204
+
+257
+
+206
+
+273
+
+324
+
+230
+
+299
+
+249
+
+La Gata
+
+216
+
+200
+
+192
+
+200
+
+211
+
+201
+
+200
+
+204
+
+213
+
+203
+
+201
+
+203
+
+3
+(Sur)
+
+Costa la Coloma
+
+150
+
+204
+
+213
+
+239
+
+223
+
+234
+
+218
+
+278
+
+176
+
+198
+
+203
+
+268
+
+El Verde
+
+181
+
+177
+
+133
+
+181
+
+138
+
+196
+
+207
+
+143
+
+200
+
+177
+
+137
+
+249
+
+Cayo Dios
+
+163
+
+210
+
+281
+
+261
+
+276
+
+214
+
+313
+
+252
+
+181
+
+178
+
+207
+
+229
+
+Cayo Redondo
+
+205
+
+200
+
+200
+
+223
+
+211
+
+190
+
+252
+
+263
+
+208
+
+227
+
+254
+
+381
+
+Rabihorcado
+
+214
+
+200
+
+201
+
+202
+
+201
+
+198
+
+202
+
+200
+
+200
+
+200
+
+200
+
+200
+
+La Traviesa
+
+200
+
+124
+
+178
+
+131
+
+161
+
+204
+
+129
+
+202
+
+143
+
+178
+
+188
+
+200
+
+Para calcular los tamaños de muestra por estrato se adoptó la metodología de Gulland (1966), ejemplificada por Sparre y Venema (1995). Las ecuaciones básicas son las siguientes:
+
+n(j) = n * ((N(j) * S(j)) / (SN(j) * S(j))))
+
+n = n1 + n2 + n3
+
+
+
+donde:
+
+N (j) = número de localidades muestreadas
+n (j) = tamaño de la muestra
+S (j) = desviación estándar
+Y(media) (j) = promedio del estrato
+
+ESTRATO 1
+
+n(1) = 15874
+N (1) = 84
+Y (1) = 185
+S (1) = 34,05
+n = 165 n = 170 (aproximadamente)
+
+ESTRATO 2
+
+n(2) = 10298
+N (2) = 48
+Y (2) = 209
+S (2) = 50,98
+n = 247 n = 250 (aproximadamente)
+
+ESTRATO 3
+
+n(3) = 14757
+N (3) = 72
+Y (3) = 268
+S (3) = 43,77
+n = 212 n = 200 (aproximadamente)
+
+En la Figura 13 se ilustra a modo de ejemplo, la estratificación de las zonas de pesca de la langosta en el archipiélago cubano teniendo en cuenta los aspectos discutidos en este epígrafe^[1].
+
+Fig. 13 Mapa de Cuba mostrando los diferentes estratos donde se realizan los muestreos de langosta
+
+
+Gulland y Rosenberg (1992) señalan algunas orientaciones generales para la fase inicial de una investigación, que en nuestro caso lo hemos adaptado a las características de la población y al tipo de diseño estadístico:
+* Como la especie es de ciclo largo y la pesquería es muy estacional el muestreo deberá abarcar todos los meses del año, incluyendo los períodos de veda, para examinar las diferencias entre un año y otro.
+* El muestreo debe distribuirse por toda la pesquería, estableciendo todos los estratos necesarios. Las muestras deben ser moderadamente grandes (250 ejemplares) para establecer la composición por tallas de las capturas en un determinado momento y lugar.
+* Deberá haber suficiente duplicación dentro de los estratos, es decir, muestras del mismo arte, en la misma zona y el mismo mes, para establecer el nivel de la varianza dentro de los estratos y, por tanto, el grado de precisión que probablemente se pueda alcanzar.
+
+El tamaño de muestra para cada estrato se ha calculado entre 170 y 250 ejemplares que coincide con el calculado por Coyula y Cruz (no publicado) de 250 langostas. Este calculo coincide con la norma establecida Hoenig et al. (1987) y con las recomendaciones publicadas por la CIPAN (1974), que establecen al menos una muestra de 200 ejemplares por cada estrato.
+
+Es importante destacar, que el tipo de arte y la técnica de pesca que se utilice pueden influir en los resultados que se pretendan alcanzar durante la selección de la muestra. Los muestreos de langostas se deben realizar a bordo de los barcos comerciales que operan en diferentes zonas de pesca como se explico anteriormente. Este procedimiento aportará datos de alta calidad, con información exacta sobre el lugar de la captura y otros aspectos. Este tipo de muestra será eficiente en la medida que se establezca para toda la pesquería.
+
+4.3.2 Colecta de los datos
+
+Para la colecta de la información, el observador se pondrá de acuerdo con el pescador para que le entregue la captura sin efectuarle la selección de las langostas fuera de talla, con freza, con masa espermatófora y muda. Este procedimiento eliminará o disminuirá el sesgo en cada muestra. En cada uno de los muestreos se desarrollará el siguiente procedimiento:
+
+Una vez que el pescador le vaya suministrando las langostas capturadas al observador, este procederá y registrará la información general, pesquera y biológica, en la planilla MUESTREO DE LANGOSTA que se muestra a continuación.
+
+Sexo:
+
+Esta especie presenta un conjunto de caracteres anatómicos externos que permiten diferenciar el macho de la hembra. Estos se pueden resumir en los siguientes:
+
+Caracteres anatómicos
+
+Machos
+
+Hembras
+
+Orificios genitales.
+
+Por donde expulsa el semen. En la base del 5 to par de patas. Se dilata mucho durante la época de copulación.
+
+Por donde expulsa los óvulos. En la base del 3er par de patas.
+
+Quinto pereiópodo.
+
+El quinto par de patas termina en un dactilopodio sencillo, con una uña afilada y única, con setas.
+
+El dactilopodio posee una pequeña chela o "uña" en su extremo distal, la cual le sirve para romper la masa espermatófora.
+
+Pleópodos.
+
+Sencillos
+
+Dobles, esta pinza posee una serie de cerdas largas donde se fijarán los huevos fecundados.
+
+Esternón.
+
+Es alargado y casi romboidal.
+
+Es más corto y cuadrado.
+
+Cefalotórax y abdomen.
+
+Más robusto, de cefalotórax ancho y abdomen estrecho.
+
+Abdomen ancho, para poder soportar los huevos.
+
+El 2do par de pereiópodos.
+
+Es más largo y robusto y le sirve para sostener la hembra durante el apareamiento.
+
+Normal, no desarrollado.
+
+MUESTREO DE LANGOSTA
+
+Nombre del observador:----------------------------------------------------------------------------
+
+Empresa o Cooperativa pesquera:---------------------------------------------------------------
+
+Nombre del barco:-------------------------------------------------------------------------------------
+
+Fecha:----------------- Zona:---------------------------------- Sub-zona:---------------------------
+
+Arte de pesca:------------------------------------ Técnica de pesca:-----------------------------
+
+Artes trabajados:----------- Artes vacíos:---------- Días de calado:------------------------
+
+Tipo de fondo:------------------------------------------------------- Profundidad:-----------------
+
+MACHOS
+
+HEMBRAS
+
+Talla / peso
+
+Muda
+
+Talla / peso
+
+Muda
+
+Estados reproductivos
+
+Lc
+
+Wt
+
+Pre
+
+Post
+
+Lc
+
+Wt
+
+Pre
+
+Post
+
+CHCM
+
+CHSM
+
+SHCM
+
+SHSM
+
+Ovario
+
+Talla y peso:
+
+Las langostas colectadas son sexadas, se les mide el largo del cefalotórax, con un pie de rey de 200 mm y una precisión de 0,01 mm. Sí el estudio lo requiere, a cada ejemplar se le determina el peso total (gramos) con una balanza monoplato o de resorte con una capacidad de 2 000 g y una precisión de 5 g.
+
+Lc = largo del cefalotórax, medición que se realiza desde la escotadura que existe entre los grandes acúleos al borde posterior del carapacho.
+
+Wt = peso total del ejemplar en gramos.
+
+Muda:
+
+El acto de la muda, cuya duración es de aproximadamente 20-30 minutos, es una breve interrupción en los procesos normales en la vida de la langosta y constituye el período más vulnerable hasta tanto el nuevo carapacho se endurece. Durante el muestreo se pueden determinar externamente, de una manera muy fácil, los estadios de Pre-muda y Post-muda. En la Pre-muda se presentan unas incisuras a ambos lados del carapacho y en la Post-muda el exoesqueleto tiene la consistencia de una delgada membrana y al tacto es como si fuese de goma elástica.
+
+Estados reproductivos:
+
+Durante la colecta de los datos se pueden encontrar ejemplares hembras en diferentes estados reproductivos, por lo que en la planilla se debe consignar con una cruz (X) en la celda correspondiente.
+
+CHCM: hembras con la fresa (hueva externa) y con la masa espermatófora (chapa), (Fig. 14).
+
+CHSM: hembras con la fresa (hueva externa) y sin la masa espermatófora (chapa).
+
+SHCM: hembras sin la fresa (hueva externa) y con la masa espermatófora (chapa), (Fig. 15).
+
+SHSM: hembras sin la fresa (hueva externa) y sin la masa espermatófora (chapa).
+
+El diámetro de los huevos, desde el desove hasta el momento de la eclosión de las larvas, varía entre los 509 mm y 618 mm. Estos aumentos de tamaño ocurren paralelamente con los cambios de color. En hembras recién desovadas los huevos tienen un color naranja brillante; posteriormente, en un estadio más avanzado toman una coloración naranja oscura, en los cuales se pueden delimitar los ojos de la futura larva y en masas ovígeras próximas a la eclosión la coloración es carmelita oscuro (Cruz, 1980).
+
+El macho depositará el semen en forma de una masa espermatófora, que puede presentar un color gris claro (recién puesta) o negro (oxidada), que se endurecerá y aportará los espermatozoides para fecundar los huevos, una vez que la hembra, al ovular, los libere, rompiendo partes de la masa espermatófora. Después de haber madurado los machos y haberse apareado con las hembras, depositándole el semen en la forma descrita, el paso siguiente es el de la maduración de las hembras. Este paso puede ser previo, sincrónico o posterior al apareamiento y llegado a él la hembra ovula.
+
+Fig. 14 Hembra ovígera y con masa espermatófora
+
+
+Fig. 15 Hembra con la masa espermatófora, de color gris, recién puesta
+
+
+Los ovarios de la langosta sufren una serie de transformaciones micro y macroscópicas. El tamaño y color de los ovarios van variando, desde una filamentosa e incolora, hasta una grande y rojiza. Estas manifestaciones macroscópicas no son más que la integración de toda una serie de cambios microscópicos, en el transcurso de los cuales las ovogonias maduran y crecen hasta convertirse en óvulos. Los ovarios pueden ser estudiados mediante una escala (Buesa y Mota Alves, 1970) donde aparecen las diferentes coloraciones que van adquiriendo estos desde la fase de reposo hasta la preovulatoria. Las fases del desarrollo están agrupadas según los datos de la Tabla 4
+
+Tabla 4. Clasificación macroscópica de los ovarios de langosta, tomado de Buesa y Alves, 1970
+
+Fase
+
+Estadio de los ovarios
+
+Colores
+
+Código de colores (Villalobos-Domínguez y Villalobos, 1947)
+
+I
+
+Reposo (regresión)
+
+8
+
+YYO-19-6°
+
+II
+
+Inicio del desarrollo
+
+0, 1
+
+N 20; Y-19-9°
+
+III
+
+Desarrollo medio
+
+2, 3, 4
+
+YYO-19-9°; YYO-18-10°; O-15-12°
+
+IV
+
+Desarrollo final o pre-ovulatorio
+
+5, 6, 7
+
+SO-13-12°; SSO-10-12°; RS-7-10°
+
+Para el análisis del estadio de los ovarios, del total de langostas sin hueva y sin chapa (SHSM) se procederá a descolar un número de ejemplares. Los cambios de coloración, en un sucesivo aumento de las talidades amarillo-anaranjado-rojiza, se corresponden con los cambios en tamaño y con el aumento del volumen de los ovarios, con su consecuente incremento en peso, llegando a alcanzar entre 25 y 30 gramos en los últimos estadios (6-7). El ovario maduro (fase IV) presenta una coloración rojiza intensa y ocupa casi la totalidad del cefalotórax, incluso en hembras de talla pequeña los extremos caudales del ovario llegan a introducirse entre los músculos del abdomen, llegando inclusive a conferirle un cierto tinte anaranjado a esas masas musculares. En la columna Ovario se debe consignar el estadio, poniendo el número arábigo o romano que le corresponda según la escala de colores (Tabla 5).
+
+Tabla 5. Escala de colores para la clasificación de los ovarios de la langosta Panulirus argus
+
+
+Fig. 16 Ovario maduro de langosta
+
+
+4.3.3 Procesamiento de los datos
+
+4.3.3.1 Factor de amplificación
+
+En la elaboración de los datos obtenidos mediante un sistema de muestreo de este tipo, son importantes los factores de amplificación, que consisten en la relación entre el peso muestreado de las langostas en las zonas de pesca y el peso total desembarcado, tanto para la totalidad de los desembarques como para cada barco muestreado. Sí la muestra es pequeña con relación al desembarque total, el factor de amplificación puede llegar a ser muy grande y sí las muestras están sesgadas esto se verá reflejado en los totales a una mayor escala.
+
+El procedimiento es el siguiente:
+
+Sea b = número de barcos de los que se tomaron las muestras, y para un barco cualquiera de ellos, digamos el i-ésimo.
+
+Wi = peso desembarcado
+
+wi = peso muestreado
+
+ni = número de peces del tamaño requerido en la muestra
+
+FA = Wi / wi = factor de amplificación
+
+FA*ni = ni * (Wi / wi) = número de langostas del tamaño requerido en la muestra
+
+Para todos los barcos muestreados en los diferentes estratos:
+
+b
+
+Sni * FAi = n = número total de langostas que hay en todos los barcos muestreados
+
+Supóngase el siguiente ejemplo hipotético, donde se han muestreado 220 langostas, en un barco cualquiera y durante un mes. Los resultados de los datos contenidos en la planilla Muestreo de Langosta fueron los siguientes (Tabla 6):
+
+Tabla 6. Parámetros de la población muestreada
+
+TOTAL
+
+MACHOS
+
+HEMBRAS
+
+N
+
+220
+
+118
+
+102
+
+Lc (media)
+
+87,8
+
+90,3
+
+85,0
+
+Desv. Estándar
+
+12,0
+
+11,3
+
+12,3
+
+Interv. Confianza
+
+1,59
+
+2,03
+
+2,38
+
+Wt (media)
+
+0,562
+
+0,607
+
+0,512
+
+El peso desembarcado del barco en el mes de abril de 1998 fue de 800 kg y el de la muestra fue de 124 kg, obtenida al multiplicar el peso medio (Wt 0,562 kg) por el número de langostas muestreadas (N = 220).
+
+Donde el factor de multiplicación fue el siguiente:
+
+Wi / wi = FA = 800 / 124 = 6,47
+
+El número de ejemplares para todo el barco vendrá dado multiplicando el número de langostas (N) de cada categoría por el FA. Este procedimiento se puede aplicar para el número de ejemplares por talla, edad, diferentes estados reproductivos y de muda, como se ilustra en la Tabla 7.
+
+Tabla 7. Aplicación del factor de amplificación
+
+N
+
+FA* N
+
+N
+
+FA* N
+
+1-
+
+TOTAL LANGOSTA
+
+220
+
+1424
+
+3
+
+TOTAL DE MACHOS
+
+118
+
+764
+
+1.1
+
+Sublegales
+
+12
+
+78
+
+3.1
+
+Sublegales
+
+1
+
+6
+
+1.2
+
+Mudas
+
+8
+
+52
+
+3.2
+
+Mudas
+
+2
+
+13
+
+2
+
+TOTAL DE HEMBRAS
+
+102
+
+660
+
+4
+
+TOTAL DESCOLE
+
+50
+
+324
+
+2.1
+
+Sublegales
+
+11
+
+71
+
+4.1
+
+Ovario maduro
+
+19
+
+123
+
+2.2
+
+CHCM
+
+3
+
+19
+
+2.3
+
+CHSM
+
+2
+
+13
+
+2.4
+
+SHCM
+
+5
+
+32
+
+2.5
+
+SHSM
+
+87
+
+563
+
+2.6
+
+Mudas
+
+6
+
+39
+
+4.3.3.2 Índices pesqueros
+
+Sí la captura total desembarcada (Capt2) es de 800 kg, se puede realizar un estimado del esfuerzo total (f2) ejercido durante el mes por el barco langostero en la zona de pesca (Tabla 8).
+
+Tabla 8. Datos de captura y esfuerzo del muestreo y el desembarque
+
+Muestreo
+
+Desembarque
+
+Captura
+
+(Capt1)
+
+124
+
+(Capt2)
+
+800
+
+Esfuerzo
+
+(f1)
+
+40
+
+(f2)
+
+259
+
+CPUE
+
+3,1
+
+3,1
+
+CPUE = Capt1 / f1 = 124 / 40 = 3,10
+
+Donde: Esfuerzo total (f2) = Capt2 / CPUE = 800 / 3,10 = 259.
+
+f2 = 259 pesqueros levados o revisados durante el mes de abril.
+
+4.3.3.3 Índices independientes de la pesquería
+
+Con los datos registrados en el modelo "Muestreo de Langosta". El índice anual de pre-reclutas, basado en el número de langostas inferiores a la talla de reclutamiento (£ 76 mm Lc), puede ser calculado mediante el cociente que relaciona el número de langostas capturadas entre 50 y 76 mm Lc con el número de pesqueros revisados, por mes y estación (Cruz, Puga y León, 1995). Este índice también puede ser calculado por sexo.
+
+IPR = No langostas (50-76mm) / No de pesqueros trabajados.
+
+donde: IPR = índice de pre-recluta
+
+Los resultados del y la utilización del factor de amplificación se presenta en Tabla 9.
+
+Tabla 9. Aplicación del factor de amplificación a los pre-reclutas (ejemplares £ 76 mm Lc)
+
+MUESTREO
+
+FA
+
+Número de langostas <= 76 mm
+
+200
+
+1294
+
+Número de pesqueros revisados
+
+40
+
+259
+
+IR
+
+5,00
+
+5,00
+
+Otros índices (Tabla 10) que se relacionan con la reproducción y el crecimiento pueden ser calculados de la siguiente manera:
+
+Índice = (FA * N) / f2
+
+Donde f2 = 259 pesqueros revisados.
+
+Tabla 10. Índices independientes de la pesquería
+
+FA* N
+
+Índice
+
+FA* N
+
+Índice
+
+1
+
+TOTAL LANGOSTA
+
+1424
+
+6
+
+3
+
+TOTAL DE MACHOS
+
+764
+
+2,95
+
+1.1
+
+Sublegales
+
+78
+
+0,30
+
+3.1
+
+Índice Sublegales
+
+6
+
+0,03
+
+1.2
+
+Mudas
+
+52
+
+0,20
+
+3.2
+
+Índice Mudas
+
+13
+
+0,05
+
+2
+
+TOTAL DE HEMBRAS
+
+660
+
+2,55
+
+4
+
+TOTAL DESCOLE
+
+324
+
+1,25
+
+2.1
+
+Sublegales
+
+71
+
+0,28
+
+4,1
+
+Índice Ovario maduro
+
+123
+
+0,48
+
+2.2
+
+CHCM
+
+19
+
+0,08
+
+2.3
+
+CHSM
+
+13
+
+0,05
+
+2.4
+
+SHCM
+
+32
+
+0,13
+
+2.5
+
+SHSM
+
+563
+
+2,18
+
+2.6
+
+Mudas
+
+39
+
+0,15
+
+Para caracterizar la reproducción por localidad o estratos se propone el índice de actividad reproductora utilizado por Cruz et al. (1990) en el archipiélago cubano, el cual se expresa como la relación del total de hembras muestreadas en cualquier estado reproductivo entre el total de hembras capturadas.^[2]
+
+Iar = H-ER / T-H = 29 / 102 = 0,28
+
+Iar = índice de actividad reproductora.
+
+H-ER = hembras en estado reproductivo (con freza, masa espermatófora y madura).
+
+T-H = total de hembras capturadas.
+
+
+^[1] Para posibilitar el cálculo de los tamaños de muestra por estratos, se confeccionó una hoja de cálculo en Microsoft Excel denominado Modelo-Estrato. Para su utilización se adjunta el disquete.
+^[2] Para facilitar el procesamiento de los muestreos de langosta de una forma rápida y segura, se confeccionó una hoja de cálculo en Microsoft Excel denominado Modelo-Biológico.
+
+
+Página precedente Inicìo de página Página siguiente
+Fig. 2 Ciclo de vida de la langosta Panulirus argus, tomado de Cruz, León, Díaz, Brito, Puga, 1991
+
+Página precedente Indice Página siguiente
+
+
+5 CONVERSIÓN DE LAS TALLAS INDUSTRIALES A LARGOS BIOLÓGICOS
+
+La industria pesquera de procesamiento está dirigida, en los países del área, a dos objetivos fundamentales: la transformación de la langosta y otros mariscos de alto valor comercial para el mercado exterior y a la producción de bienes de consumo dirigidos al ámbito doméstico. En la langosta, las estadísticas de la industria de procesamiento están compuestas por los volúmenes de las categorías comerciales, langosta entera precocinada y la cola congelada principalmente, en que se clasifican los desembarques en peso de las diferentes plantas de proceso.
+
+Los datos de las categorías industriales en peso están disponibles todos los meses y su clasificación, aunque varia de un país a otro, puede convertirse fácilmente a los largos biológicos correspondientes a través de su procesamiento en una hoja de cálculo EXCEL u otra similar. Con esta información se puede calcular la captura en número y peso, el valor de la producción por talla, la talla (Lc o Lt), el peso medio y el porcentaje de langosta sublegal en los desembarques; puede convertirse en una herramienta muy útil para estimar índices de reclutamiento y su variación espacial y temporal. Los largos pueden ser convertidos a edad para ser utilizados en diferentes modelos de la dinámica de poblaciones.
+
+La implementación y aplicación de este método permite perfeccionar el proceso de la investigación (Sotomayor y Cruz, 1991; Alfonso et al., 1995), la información obtenida puede ser utilizada en los modelos de VPA (Puga. León y Cruz, 1995 y 1996), el predictivo de Thompson y Bell, 1934 (Puga, 1996), el de Beverton y Holt, 1957 (Cruz et al., 1991) y en los cálculos del potencial reproductor. Este método puede fácilmente sustituir el muestreo de las capturas comerciales, se ahorra tiempo y se obtiene todos los desembarques realizados en un determinado lugar.
+
+El modelo utilizado consta de 5 partes para la transformación de los datos y el procesamiento de la información.
+
+Parte 5.1: Se presentan las relaciones morfométricas utilizadas;
+
+Parte 5.2: Está destinado a la captación de los datos de entrada y su transformación;
+
+Parte 5.3: Está destinado a la generación de números aleatorios y en la estimación de las proporciones por tallas;
+
+Parte 5.4: Se calcula el número de langostas en peso por talla y
+
+Parte 5.5: Se presentan las composiciones por talla y sexo en los largos biológicos correspondientes y un resumen de los principales datos que se pueden obtener. El modelo puede ser adaptado, sí la composición de los datos industriales (langosta entera precocinada y cola) de entrada es diferente al utilizado en el método empleado.
+
+5.1 RELACIONES MORFOMÉTRICAS
+
+Se presentan las relaciones morfométricas y las definiciones de la longitud corporal utilizadas en el texto. Los datos para establecer estas relaciones de la langosta provienen de los estudios realizados en el Golfo de Batabanó durante 1978 y 1985.
+
+5.1.1 Relación entre longitudes
+
+La forma de medir con más exactitud las langostas es utilizando la longitud del caparazón (largo del cefalotórax), medido desde el reborde de las espinas supraorbitales hasta el extremo posterior del caparazón. Sin embargo, en determinadas regiones se ha tenido que utilizar el largo total o la longitud de la cola. En tales casos se establecen las relaciones entre las diferentes medidas a fin de poder convertirlas.
+
+En estas relaciones se utiliza el largo total antenular (Lta), medida sobre la parte inferior del animal y desde la base de las anténulas hasta el final del telson. La longitud de la cola se mide desde el borde anterior del primer anillo hasta el extremo posterior del último. Largo del cefalotórax (Lc en mm) vs largo total antenular (Lta en mm). (Cruz, Coyula y Ramírez, 1981)
+
+MACHOS
+
+HEMBRAS
+
+AMBOS SEXOS
+
+Lc
+
+Lc = -11,7974 + 0,3925 * Lt a
+
+Lc = - 2,3439 + 0,3374 * Lta
+
+Lc = -11,6569 + 0,3838 *Lta
+
+N
+
+N = 796 r = 0,9945
+
+N = 741 r = 0,9941
+
+N =1537 r = 0,9874
+
+Lta
+
+Lta= 32,8431 + 2,5197 * Lc
+
+Lta = 9,8740 + 2,9290 * Lc
+
+Lta = 36,3535 + 2,5402 * Lc
+
+Lc
+
+40 /= Lc /- 160 mm
+
+30 /= Lc /- 130 mm
+
+30 /= Lc /- 160 mm
+
+Lta
+
+120 <= Lta<= 430 mm
+
+110 <= Lt a<= 400 mm
+
+110 <= Lt a<= 430 mm
+
+Largo del cefalotórax (mm) vs largo de la cola (mm). (Cetina, comu. personal)
+
+MACHOS
+
+Lc = - 9,11 + 0,65 Lcola
+
+HEMBRAS
+
+Lc = - 1,23 + 0,56 Lcola
+
+AMBOS SEXOS
+
+Lc = - 5,44 + 0,611 Lcola
+
+5.1.2 Relaciones largo - peso
+
+Largo del cefalotórax (mm) vs peso total (g)
+
+TOTAL
+
+Wt = 0,002582 * Lc^ 2,7461
+
+N = 963 r = 0,9704
+
+Hembras
+
+Wt = 0,002790 * Lc ^2,7360
+
+N = 374 r = 0,9457
+
+Machos
+
+Wt = 0,002065 * Lc ^2,7920
+
+N = 589 r = 0,9806
+
+Largo del cefalotórax (mm) vs peso de la cola (g)
+
+TOTAL
+
+Wcola = 0,7098 * Lc^2,5607
+
+N = 375 r = 0,9571
+
+Hembras
+
+Wcola = 0,5073 * Lc ^2,7583
+
+N = 173 r = 0,9261
+
+Machos
+
+Wcola = 0,7297 * Lc ^2,5260
+
+N = 202 r = 0,9870
+
+Largo total antenular (mm) vs peso total (g)
+
+TOTAL
+
+Wt = 0,000076 * Lta^ 2,7242
+
+N = 1145 r = 0,9452
+
+Largo total antenular (mm) vs peso cola (g)
+
+TOTAL
+
+Wcola = 0,0156 * Lta ^2,8940
+
+N = 492 r = 0,9812
+
+Hembras
+
+Wcola= 0,0139 * Lta ^2,9368
+
+N = 224 r = 0,9823
+
+Machos
+
+Wcola = 0,0156 * Lta ^2,8898
+
+N = 268 r = 0,9808
+
+Largo total antenular (mm) vs peso del cefalotórax (g)
+
+Hembras
+
+Wcef = 0,0185 * Lta ^ 3,0378
+
+N = 183
+
+r = 0,9810
+
+Machos
+
+Wcef = 0,0091 * Lta^ 3,2783
+
+N = 209
+
+r = 0,9754
+
+Peso total (g) vs peso de la cola (g)
+
+TOTAL
+
+Wt = - 50,6578 + 3,3286 * Wcola
+
+N = 559
+
+r = 0,9822
+
+Hembras
+
+Wt = 4,4819 + 2,8463 * Wcola
+
+N = 269
+
+r = 0,9886
+
+Machos
+
+Wt = - 58,8939 + 3,5041 * Wcola
+
+N = 290
+
+r = 0,9908
+
+Peso total (g) vs peso del cefalotórax (g)
+
+Hembras
+
+Wt = - 0,9355 + 1,5552 * Wcef
+
+N = 271
+
+r = 0,9957
+
+Machos
+
+Wt = 20,6339 + 1,4325 * Wcef
+
+N = 288
+
+r = 0,9971
+
+5.2 DATOS DE ENTRADA
+
+El modelo matemático utilizado se presenta en el formato de hoja de cálculo Microsoft EXCEL, en las tablas que se presentan a lo largo del texto.
+
+Las equivalencias entre la talla industrial de la LEPC (columnas B y C) y la biológica (columnas D y E), expresadas en el largo del cefalotórax, se obtuvieron a partir de la siguiente fórmula:
+
+columna D (EXP((LN(B#) - LN (0,002582)) / 2,7461) y
+
+columna E (EXP((LN(C#) - LN (0,002582)) / 2,7461)
+
+Los resultados se presentan en las celdas D7: D20 y E7: E20.
+
+En la columna F se calcula la talla media (D#+E#/2).
+
+En la columna G se entran los datos de la LEPC (kg) y en la columna H se transforman los datos a langosta entera viva (LEV 1) utilizando la formula $H$2 * G7: G20; en la celda H21 se obtiene la suma total (SUMA H7: H20) (Tabla 11).
+
+Tabla 11. Datos de entrada del modelo (LEPC)
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+1
+
+2
+
+IDI
+
+1,08
+
+3
+
+Datos de entrada
+
+IDI * RD
+
+3,3
+
+4
+
+5
+
+Talla industrial
+
+Talla biológica
+
+LEPC
+
+LEV 1
+
+6
+
+CATEGORÍAS
+
+LEPC (gr.)
+
+Lc (mm)
+
+MEDIA
+
+(kg)
+
+(kg)
+
+7
+
+CL1
+
+180 / 250
+
+58,04
+
+65,41
+
+61,72
+
+4100
+
+4428
+
+8
+
+CL2
+
+250 / 300
+
+65,41
+
+69,90
+
+67,66
+
+10700
+
+11556
+
+9
+
+CL3
+
+300 / 350
+
+69,90
+
+73,94
+
+71,92
+
+15200
+
+16416
+
+10
+
+CL4
+
+350 / 400
+
+73,94
+
+77,62
+
+75,78
+
+13400
+
+14472
+
+11
+
+CL5
+
+400 / 460
+
+77,62
+
+81,68
+
+79,65
+
+16800
+
+18144
+
+12
+
+CL6
+
+460 / 520
+
+81,68
+
+85,41
+
+83,54
+
+18200
+
+19656
+
+13
+
+CL7
+
+520 / 575
+
+85,41
+
+88,59
+
+87,00
+
+14000
+
+15120
+
+14
+
+CL8
+
+575 / 630
+
+88,59
+
+91,59
+
+90,09
+
+16300
+
+17604
+
+15
+
+CL9
+
+630 / 690
+
+91,59
+
+94,67
+
+93,13
+
+15800
+
+17064
+
+16
+
+CL10
+
+690 / 860
+
+94,67
+
+102,58
+
+98,62
+
+27100
+
+29268
+
+17
+
+CL11
+
+860 / 1200
+
+102,58
+
+115,81
+
+109,19
+
+8000
+
+8640
+
+18
+
+CL12
+
+1200 / 1500
+
+115,81
+
+125,61
+
+120,71
+
+6000
+
+6480
+
+19
+
+CL13
+
+1500 / 2000
+
+125,61
+
+139,48
+
+132,55
+
+3000
+
+3240
+
+20
+
+CL14
+
+2000 / 3000
+
+139,48
+
+161,68
+
+150,58
+
+1000
+
+1080
+
+21
+
+TOTAL
+
+183168
+
+Región sombreada = datos de entrada.
+LEPC = langosta entera precocinada.
+IDI = índice de insumo industrial.
+RD = rendimiento del descole industrial.
+LEV 1 = langosta entera viva = LEPC * IDI.
+
+Para obtener las equivalencias entre la talla industrial de la COLA (columnas B y C) y la biológica (columnas D y E), expresadas en el largo del cefalotórax, se utilizó la siguiente fórmula:
+
+columna D (EXP((LN(B#/0,03527) - LN (0,7098)) / 2,5607) * 10) y
+
+columna E (EXP((LN(C#/0,03527) - LN (0,7098)) / 2,5607) * 10)
+
+Los resultados se presentan en las celdas D31: D43 y E31: E43.
+
+En la columna F se calculó la talla media (D#+E#/2).
+
+En la columna G se entran los datos de la COLA (kg) y en la columna H se transforman los datos a langosta entera viva (LEV 2) utilizando la formula $H$3 * G31: G43; en la celda H44 se obtiene la suma total (SUMA H31: H43), (Tabla 12).
+
+Tabla 12. Datos de entrada del modelo (COLA)
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+29
+
+Talla industrial
+
+Talla biológica
+
+COLA
+
+LEV 2
+
+30
+
+CATEGORIAS
+
+COLA (onzas)
+
+Lc (mm)
+
+MEDIA
+
+(kg)
+
+(kg)
+
+31
+
+CL15
+
+2 / 3
+
+55,33
+
+64,82
+
+60,08
+
+100
+
+330
+
+32
+
+CL16
+
+3 / 4
+
+64,82
+
+72,53
+
+68,68
+
+1400
+
+4620
+
+33
+
+CL17
+
+4 / 5
+
+72,53
+
+79,13
+
+75,83
+
+1600
+
+5280
+
+34
+
+CL18
+
+5 / 6
+
+79,13
+
+84,97
+
+82,05
+
+1400
+
+4620
+
+35
+
+CL19
+
+6 / 7
+
+84,97
+
+90,25
+
+87,61
+
+1400
+
+4620
+
+36
+
+CL20
+
+7 / 8
+
+90,25
+
+95,08
+
+92,66
+
+1400
+
+4620
+
+37
+
+CL21
+
+8 / 9
+
+95,08
+
+99,55
+
+97,31
+
+1700
+
+5610
+
+38
+
+CL22
+
+9 / 10
+
+99,55
+
+103,73
+
+101,64
+
+1700
+
+5610
+
+39
+
+CL23
+
+10 / 12
+
+103,73
+
+111,39
+
+107,56
+
+5200
+
+17160
+
+40
+
+CL24
+
+12 / 14
+
+111,39
+
+118,30
+
+114,84
+
+4400
+
+14520
+
+41
+
+CL25
+
+14 / 16
+
+118,30
+
+124,63
+
+121,47
+
+2000
+
+6600
+
+42
+
+CL26
+
+16 / 20
+
+124,63
+
+135,98
+
+130,31
+
+1900
+
+6270
+
+43
+
+CL27
+
+20 / 24
+
+135,98
+
+146,01
+
+141,00
+
+1300
+
+4290
+
+44
+
+TOTAL
+
+84150
+
+COLA = langosta descolada.
+LEV 2 = langosta entera viva = COLA * (IDI * RD).
+RD = rendimiento del descole industrial.
+IDI = índice de insumo industrial.
+
+5.3 GENERACIÓN DE NÚMEROS ALEATORIOS Y PROPORCIONES POR TALLAS
+
+Primero se deben calcular las proporciones por tallas, según los intervalos establecidos en la Parte 1, para poder distribuir las capturas en peso (LVE1 y LVE2) entre cada una de las longitudes de la LEPC y COLA.
+
+En el menú HERRAMIENTAS (EXCEL) se selecciona la opción ANÁLISIS DE DATOS y entre las funciones para el análisis se elige GENERACIÓN DE NUMEROS ALEATORIOS, seguidamente se completa el siguiente cuadro de diálogo:
+
+Número de variables: 1 (introduzca el número de columnas que desee incluir en la tabla de resultados)
+
+Cantidad de números aleatorios: 100 (introduzca el número de datos que desee ver)
+
+Distribución: Normal (se elige el método de distribución que desee utilizar para crear los valores aleatorios)
+
+Media: valor medio (intervalo de cada categoría industrial (F7:F20 y F31:F43; Parte 1)
+
+Desviación estándar: entre 1,0 y 5,5 (se selecciona hasta establecer el intervalo por cada categoría)
+
+Iniciar: se introduce el valor inicial de cada intervalo (D7:D20 y D31: D43; Parte 1)
+
+Por ejemplo (Tabla 13), en la columna A (A4:A103) se presentan los diferentes números aleatorios generados por el análisis de datos, con los siguientes datos de entrada: intervalo de tallas: 65,41 - 69,90mm; Lc (media) = 67,66 mm y S = 1,2 (se prueban varios valores). Los números obtenidos se aproximan en la columna B con la siguiente fórmula: (REDONDEAR (A4:A103, 0)). En la columna C se introducen las tallas, según el intervalo utilizado, y en la D se establece una columna de frecuencias con la formula (CONTAR.SI ($B$4:$B$103, "64" y con 65,66,67,68,69,70,71,72, y 73). En la columna E (E4: E13) se calculan las proporciones por tallas a través de la siguiente operación: (D# / $D$14). Los cálculos se repiten para cada uno de los intervalos de longitud en la LEPC (CL1 hasta CL14) y COLA (CL15 hasta CL27).
+
+Las salidas se presentan en la Tabla 13
+
+Tabla 13. Ejemplo, generación de números aleatorios y proporciones por talla
+
+A
+
+B
+
+C
+
+D
+
+E
+
+3
+
+CL2 (S=1,2)
+
+REDONDEAR
+
+Lc
+
+N
+
+P
+
+4
+
+64,749
+
+65
+
+64
+
+0
+
+0
+
+5
+
+67,831
+
+68
+
+65
+
+4
+
+0,04
+
+6
+
+66,008
+
+66
+
+66
+
+10
+
+0,1
+
+7
+
+68,702
+
+69
+
+67
+
+33
+
+0,33
+
+8
+
+68,398
+
+68
+
+68
+
+33
+
+0,33
+
+9
+
+66,412
+
+66
+
+69
+
+14
+
+0,14
+
+10
+
+67,446
+
+67
+
+70
+
+4
+
+0,04
+
+11
+
+66,555
+
+67
+
+71
+
+1
+
+0,01
+
+12
+
+65,907
+
+66
+
+72
+
+1
+
+0,01
+
+13
+
+68,427
+
+68
+
+73
+
+0
+
+0
+
+14
+
+69,102
+
+69
+
+100
+
+1
+
+15
+
+69,578
+
+70
+
+16
+
+69,640
+
+70
+
+17
+
+68,808
+
+69
+
+18
+
+68,116
+
+68
+
+19
+
+69,061
+
+69
+
+20
+
+67,571
+
+68
+
+21
+
+67,202
+
+67
+
+22
+
+68,370
+
+68
+
+23
+
+66,204
+
+66
+
+24
+
+66,976
+
+67
+
+25
+
+68,228
+
+68
+
+26
+
+67,494
+
+67
+
+27
+
+68,307
+
+68
+
+28
+
+67,751
+
+68
+
+29
+
+70,056
+
+70
+
+30
+
+66,416
+
+66
+
+31
+
+68,470
+
+68
+
+32
+
+66,246
+
+66
+
+33
+
+67,423
+
+67
+
+34
+
+65,356
+
+65
+
+35
+
+69,586
+
+70
+
+36
+
+68,154
+
+68
+
+37
+
+67,917
+
+68
+
+38
+
+68,242
+
+68
+
+39
+
+65,218
+
+65
+
+40
+
+68,663
+
+69
+
+41
+
+67,731
+
+68
+
+42
+
+67,549
+
+68
+
+43
+
+69,457
+
+69
+
+44
+
+66,874
+
+67
+
+45
+
+68,663
+
+69
+
+46
+
+64,878
+
+65
+
+47
+
+66,797
+
+67
+
+48
+
+67,181
+
+67
+
+49
+
+65,666
+
+66
+
+50
+
+66,579
+
+67
+
+51
+
+67,757
+
+68
+
+52
+
+66,820
+
+67
+
+53
+
+67,002
+
+67
+
+54
+
+68,572
+
+69
+
+55
+
+67,375
+
+67
+
+56
+
+68,704
+
+69
+
+57
+
+67,965
+
+68
+
+58
+
+66,210
+
+66
+
+59
+
+68,491
+
+68
+
+60
+
+66,752
+
+67
+
+61
+
+67,059
+
+67
+
+62
+
+65,739
+
+66
+
+63
+
+69,327
+
+69
+
+64
+
+66,802
+
+67
+
+65
+
+67,388
+
+67
+
+66
+
+67,427
+
+67
+
+67
+
+67,663
+
+68
+
+68
+
+66,969
+
+67
+
+69
+
+67,050
+
+67
+
+70
+
+67,354
+
+67
+
+71
+
+67,138
+
+67
+
+72
+
+66,959
+
+67
+
+73
+
+67,788
+
+68
+
+74
+
+69,266
+
+69
+
+75
+
+67,397
+
+67
+
+76
+
+67,273
+
+67
+
+77
+
+68,375
+
+68
+
+78
+
+67,775
+
+68
+
+79
+
+67,072
+
+67
+
+80
+
+67,361
+
+67
+
+81
+
+66,757
+
+67
+
+82
+
+71,270
+
+71
+
+83
+
+69,035
+
+69
+
+84
+
+67,270
+
+67
+
+85
+
+69,091
+
+69
+
+86
+
+68,256
+
+68
+
+87
+
+68,204
+
+68
+
+88
+
+68,421
+
+68
+
+89
+
+67,069
+
+67
+
+90
+
+67,278
+
+67
+
+91
+
+66,221
+
+66
+
+92
+
+68,392
+
+68
+
+93
+
+71,845
+
+72
+
+94
+
+67,679
+
+68
+
+95
+
+67,853
+
+68
+
+96
+
+67,844
+
+68
+
+97
+
+68,928
+
+69
+
+98
+
+66,796
+
+67
+
+99
+
+67,528
+
+68
+
+100
+
+68,486
+
+68
+
+101
+
+67,137
+
+67
+
+102
+
+68,079
+
+68
+
+103
+
+68,479
+
+68
+
+5.4 CÁLCULO DEL NÚMERO DE LANGOSTAS EN PESO POR TALLA
+
+En ésta sección se calcula la captura en peso (columna B) para cada una de las tallas (largo del cefalotórax) que se presentan en la columna A. El cálculo se realiza multiplicando la captura en peso para cada un de los rangos de tallas (CL1 hasta CL14 y CL15 hasta CL27), columnas D3, F3, H3, etc (LEPC) o D117, F117, H117, etc. (COLA), por las proporciones obtenidas en la Parte 3 (por ejemplo $D$3 * (D8: D16) y se obtienen los valores de la columna C. En la columna B, los valores estimados para cada talla se suman a través de la siguiente fórmula: SUMAR. SI (C8: AC8, ">1"), el calculo se repite para cada fila (LEPC y COLA). En las tablas que se muestran a continuación sólo se representa a modo de ejemplo una parte de los cálculos realizados, para la LEPC y COLA respectivamente (Tabla 14).
+
+Tabla 14. Ejemplo, cálculo de la captura en peso por talla (LEPC y COLA)
+
+LEPC
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+J
+
+3
+
+(mm)
+
+TOTAL
+
+4428
+
+11556
+
+16416
+
+14472
+
+4
+
+Lc
+
+Kg
+
+Kg
+
+CL1
+
+Kg
+
+CL2
+
+Kg
+
+CL3
+
+Kg
+
+CL4
+
+5
+
+55
+
+0
+
+6
+
+56
+
+0
+
+7
+
+57
+
+0
+
+8
+
+58
+
+89
+
+89
+
+0,02
+
+9
+
+59
+
+177
+
+177
+
+0,04
+
+10
+
+60
+
+354
+
+354
+
+0,08
+
+11
+
+61
+
+1284
+
+1284
+
+0,29
+
+12
+
+62
+
+1107
+
+1107
+
+0,25
+
+13
+
+63
+
+797
+
+797
+
+0,18
+
+14
+
+64
+
+443
+
+443
+
+0,1
+
+15
+
+65
+
+551
+
+89
+
+0,02
+
+462
+
+0,04
+
+16
+
+66
+
+1244
+
+89
+
+0,02
+
+1156
+
+0,1
+
+17
+
+67
+
+3813
+
+3813
+
+0,33
+
+18
+
+68
+
+3813
+
+3813
+
+0,33
+
+19
+
+69
+
+1618
+
+1618
+
+0,14
+
+20
+
+70
+
+2432
+
+462
+
+0,04
+
+1970
+
+0,12
+
+21
+
+71
+
+3070
+
+116
+
+0,01
+
+2955
+
+0,18
+
+22
+
+72
+
+5513
+
+116
+
+0,01
+
+5253
+
+0,32
+
+145
+
+0,01
+
+COLA
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+J
+
+117
+
+(mm)
+
+TOTAL
+
+330
+
+4620
+
+5280
+
+4620
+
+118
+
+Lc
+
+Kg
+
+Kg
+
+CL15
+
+Kg
+
+CL16
+
+Kg
+
+CL17
+
+Kg
+
+CL18
+
+119
+
+55
+
+3
+
+3
+
+0,01
+
+120
+
+56
+
+7
+
+7
+
+0,02
+
+121
+
+57
+
+30
+
+30
+
+0,09
+
+122
+
+58
+
+43
+
+43
+
+0,13
+
+123
+
+59
+
+40
+
+40
+
+0,12
+
+124
+
+60
+
+59
+
+59
+
+0,18
+
+125
+
+61
+
+69
+
+69
+
+0,21
+
+126
+
+62
+
+33
+
+33
+
+0,10
+
+127
+
+63
+
+36
+
+36
+
+0,11
+
+128
+
+64
+
+53
+
+7
+
+0,02
+
+46
+
+0,01
+
+129
+
+65
+
+234
+
+3
+
+0,01
+
+231
+
+0,05
+
+130
+
+66
+
+370
+
+370
+
+0,08
+
+131
+
+67
+
+647
+
+647
+
+0,14
+
+132
+
+68
+
+1063
+
+1063
+
+0,23
+
+133
+
+69
+
+1063
+
+1063
+
+0,23
+
+134
+
+70
+
+508
+
+508
+
+0,11
+
+135
+
+71
+
+554
+
+554
+
+0,12
+
+136
+
+72
+
+198
+
+92
+
+0,02
+
+106
+
+0,02
+
+137
+
+73
+
+416
+
+46
+
+0,01
+
+370
+
+0,07
+
+138
+
+74
+
+739
+
+739
+
+0,14
+
+5.5 COMPOSICIONES POR TALLA
+
+La columna A contiene los intervalos de tallas (mm) y el peso medio para cada longitud se calcula en la columna B (=0,002582*(potencia(A4*2,7461)))/1000). En la columna C se suman la captura en peso de la LEPC y COLA obtenida en la parte 4, por ejemplo (=+´parte-4´!B5+´parte-4!B119). La captura en número (N) se obtiene dividiendo la columna C entre la B, proporcionando el número de ejemplares capturados y procesados industrialmente. Los cálculos realizados en las columnas F (=+A4*D4) y G (=+D4*potencia((A4-$I$5),2) sirven de base para la estimación de la talla media y la desviación estándar (Tabla 15).
+
+Tabla 15. Composiciones por tallas en número
+
+A
+
+B
+
+C
+
+D
+
+F
+
+G
+
+3
+
+Lc
+
+Wt (kg)
+
+CAPTURA
+(kg)
+
+N
+
+Lc * N
+
+N*(Lc-Lc(media))2
+
+4
+
+55
+
+0,155
+
+3
+
+21
+
+1169
+
+18941
+
+5
+
+56
+
+0,163
+
+7
+
+40
+
+2265
+
+33679
+
+6
+
+57
+
+0,171
+
+30
+
+173
+
+9883
+
+134532
+
+7
+
+58
+
+0,180
+
+131
+
+732
+
+42434
+
+527677
+
+8
+
+59
+
+0,188
+
+217
+
+1151
+
+67898
+
+769354
+
+9
+
+60
+
+0,197
+
+414
+
+2097
+
+125845
+
+1295820
+
+10
+
+61
+
+0,206
+
+1353
+
+6558
+
+400048
+
+3732281
+
+11
+
+62
+
+0,216
+
+1140
+
+5283
+
+327532
+
+2759682
+
+12
+
+63
+
+0,225
+
+833
+
+3696
+
+232829
+
+1765367
+
+13
+
+64
+
+0,235
+
+496
+
+2105
+
+134711
+
+915552
+
+14
+
+65
+
+0,246
+
+785
+
+3195
+
+207702
+
+1259817
+
+15
+
+66
+
+0,256
+
+1614
+
+6298
+
+415697
+
+2239383
+
+16
+
+67
+
+0,267
+
+4460
+
+16704
+
+1119172
+
+5325817
+
+17
+
+68
+
+0,278
+
+4876
+
+17533
+
+1192259
+
+4981575
+
+18
+
+69
+
+0,289
+
+2680
+
+9259
+
+638904
+
+2327926
+
+19
+
+70
+
+0,301
+
+2940
+
+9764
+
+683469
+
+2154862
+
+20
+
+71
+
+0,313
+
+3625
+
+11577
+
+821959
+
+2222607
+
+21
+
+72
+
+0,325
+
+5711
+
+17554
+
+1263857
+
+2901160
+
+22
+
+73
+
+0,338
+
+5408
+
+16002
+
+1168146
+
+2249285
+
+23
+
+74
+
+0,351
+
+5729
+
+16331
+
+1208487
+
+1924612
+
+24
+
+75
+
+0,364
+
+4680
+
+12858
+
+964324
+
+1248981
+
+25
+
+76
+
+0,377
+
+4014
+
+10636
+
+808322
+
+834138
+
+26
+
+77
+
+0,391
+
+4313
+
+11025
+
+848887
+
+680382
+
+27
+
+78
+
+0,405
+
+4097
+
+10108
+
+788412
+
+475105
+
+28
+
+79
+
+0,420
+
+5476
+
+13044
+
+1030500
+
+447312
+
+29
+
+80
+
+0,435
+
+5926
+
+13638
+
+1091069
+
+321592
+
+30
+
+81
+
+0,450
+
+5405
+
+12020
+
+973640
+
+178718
+
+31
+
+82
+
+0,465
+
+4467
+
+9606
+
+787700
+
+78350
+
+32
+
+83
+
+0,481
+
+6539
+
+13602
+
+1128962
+
+46851
+
+33
+
+84
+
+0,497
+
+6405
+
+12892
+
+1082955
+
+9445
+
+34
+
+85
+
+0,513
+
+5721
+
+11146
+
+947446
+
+231
+
+35
+
+86
+
+0,530
+
+5972
+
+11267
+
+968971
+
+14748
+
+36
+
+87
+
+0,547
+
+5655
+
+10336
+
+899204
+
+47514
+
+37
+
+88
+
+0,565
+
+6107
+
+10818
+
+952011
+
+106942
+
+38
+
+89
+
+0,582
+
+6835
+
+11737
+
+1044626
+
+201571
+
+39
+
+90
+
+0,600
+
+6852
+
+11411
+
+1027021
+
+301962
+
+40
+
+91
+
+0,619
+
+8377
+
+13534
+
+1231592
+
+510904
+
+41
+
+92
+
+0,638
+
+5164
+
+8097
+
+744904
+
+413243
+
+42
+
+93
+
+0,657
+
+5970
+
+9086
+
+844996
+
+602637
+
+43
+
+94
+
+0,677
+
+4755
+
+7027
+
+660523
+
+587544
+
+44
+
+95
+
+0,697
+
+2726
+
+3913
+
+371747
+
+402671
+
+45
+
+96
+
+0,717
+
+4091
+
+5706
+
+547753
+
+708602
+
+46
+
+97
+
+0,738
+
+5083
+
+6891
+
+668434
+
+1016286
+
+47
+
+98
+
+0,759
+
+9337
+
+12306
+
+1206015
+
+2126117
+
+48
+
+99
+
+0,780
+
+9802
+
+12565
+
+1243932
+
+2513686
+
+49
+
+100
+
+0,802
+
+5300
+
+6609
+
+660873
+
+1515667
+
+50
+
+101
+
+0,824
+
+3439
+
+4173
+
+421445
+
+1087542
+
+51
+
+102
+
+0,847
+
+3010
+
+3554
+
+362552
+
+1044717
+
+52
+
+103
+
+0,870
+
+1247
+
+1433
+
+147612
+
+471795
+
+53
+
+104
+
+0,893
+
+1399
+
+1566
+
+162888
+
+574016
+
+54
+
+105
+
+0,917
+
+1430
+
+1560
+
+163761
+
+632874
+
+55
+
+106
+
+0,941
+
+3181
+
+3380
+
+358301
+
+1511193
+
+56
+
+107
+
+0,966
+
+4810
+
+4980
+
+532900
+
+2442178
+
+57
+
+108
+
+0,991
+
+5240
+
+5290
+
+571277
+
+2833369
+
+58
+
+109
+
+1,016
+
+4213
+
+4146
+
+451966
+
+2417132
+
+59
+
+110
+
+1,042
+
+2324
+
+2231
+
+245402
+
+1410450
+
+60
+
+111
+
+1,068
+
+1644
+
+1539
+
+170847
+
+1052037
+
+61
+
+112
+
+1,095
+
+1734
+
+1584
+
+177400
+
+1167040
+
+62
+
+113
+
+1,122
+
+2264
+
+2019
+
+228095
+
+1598867
+
+63
+
+114
+
+1,149
+
+2610
+
+2271
+
+258894
+
+1928940
+
+64
+
+115
+
+1,177
+
+5057
+
+4296
+
+494073
+
+3903890
+
+65
+
+116
+
+1,205
+
+3107
+
+2577
+
+298977
+
+2499946
+
+66
+
+117
+
+1,234
+
+1213
+
+983
+
+114964
+
+1015259
+
+67
+
+118
+
+1,263
+
+1026
+
+812
+
+95855
+
+892373
+
+68
+
+119
+
+1,293
+
+853
+
+659
+
+78460
+
+768657
+
+69
+
+120
+
+1,323
+
+2431
+
+1837
+
+220439
+
+2268884
+
+70
+
+121
+
+1,354
+
+2894
+
+2138
+
+258713
+
+2793232
+
+71
+
+122
+
+1,385
+
+3026
+
+2185
+
+266605
+
+3014998
+
+72
+
+123
+
+1,416
+
+1775
+
+1254
+
+154181
+
+1823808
+
+73
+
+124
+
+1,448
+
+752
+
+520
+
+64440
+
+796276
+
+74
+
+125
+
+1,480
+
+480
+
+324
+
+40548
+
+522760
+
+75
+
+126
+
+1,513
+
+482
+
+318
+
+40117
+
+538983
+
+76
+
+127
+
+1,546
+
+536
+
+347
+
+44039
+
+615896
+
+77
+
+128
+
+1,580
+
+443
+
+281
+
+35904
+
+522130
+
+78
+
+129
+
+1,614
+
+1362
+
+844
+
+108849
+
+1644295
+
+79
+
+130
+
+1,648
+
+1548
+
+939
+
+122060
+
+1913517
+
+80
+
+131
+
+1,683
+
+1076
+
+639
+
+83763
+
+1361478
+
+81
+
+132
+
+1,719
+
+949
+
+552
+
+72867
+
+1226904
+
+82
+
+133
+
+1,755
+
+793
+
+452
+
+60113
+
+1047619
+
+83
+
+134
+
+1,791
+
+998
+
+557
+
+74659
+
+1345606
+
+84
+
+135
+
+1,828
+
+743
+
+406
+
+54868
+
+1021929
+
+85
+
+136
+
+1,866
+
+313
+
+168
+
+22786
+
+438240
+
+86
+
+137
+
+1,904
+
+398
+
+209
+
+28606
+
+567731
+
+87
+
+138
+
+1,942
+
+333
+
+172
+
+23669
+
+484416
+
+88
+
+139
+
+1,981
+
+483
+
+244
+
+33905
+
+715082
+
+89
+
+140
+
+2,020
+
+516
+
+255
+
+35723
+
+775923
+
+90
+
+141
+
+2,060
+
+859
+
+417
+
+58770
+
+1313835
+
+91
+
+142
+
+2,101
+
+1019
+
+485
+
+68911
+
+1584687
+
+92
+
+143
+
+2,142
+
+409
+
+191
+
+27288
+
+645123
+
+93
+
+144
+
+2,183
+
+312
+
+143
+
+20578
+
+499880
+
+94
+
+145
+
+2,225
+
+183
+
+82
+
+11943
+
+297941
+
+95
+
+146
+
+2,267
+
+76
+
+33
+
+4870
+
+124710
+
+96
+
+147
+
+2,310
+
+173
+
+75
+
+11013
+
+289336
+
+97
+
+148
+
+2,353
+
+55
+
+23
+
+3430
+
+92409
+
+98
+
+149
+
+2,397
+
+76
+
+32
+
+4746
+
+131056
+
+99
+
+150
+
+2,442
+
+76
+
+31
+
+4691
+
+132714
+
+100
+
+151
+
+2,487
+
+55
+
+22
+
+3312
+
+95961
+
+101
+
+152
+
+2,532
+
+44
+
+17
+
+2619
+
+77687
+
+102
+
+153
+
+2,578
+
+87
+
+34
+
+5179
+
+157180
+
+103
+
+154
+
+2,625
+
+44
+
+17
+
+2560
+
+79479
+
+104
+
+155
+
+2,672
+
+44
+
+16
+
+2531
+
+80353
+
+105
+
+156
+
+2,720
+
+55
+
+20
+
+3129
+
+101517
+
+106
+
+157
+
+2,768
+
+11
+
+4
+
+619
+
+20515
+
+107
+
+158
+
+2,816
+
+11
+
+4
+
+612
+
+20723
+
+108
+
+159
+
+2,866
+
+22
+
+8
+
+1211
+
+41856
+
+109
+
+160
+
+2,915
+
+44
+
+15
+
+2395
+
+84518
+
+110
+
+161
+
+2,966
+
+11
+
+4
+
+592
+
+21328
+
+111
+
+112
+
+TOTAL
+
+267318
+
+483321
+
+41012605
+
+115515919
+
+5.6 RESUMEN
+
+En la Tabla 16 se resumen los principales parámetros de la distribución por talla, de uso común en la biología pesquera.
+
+Tabla 16. Resumen, cálculos basados en la Tabla 15
+
+H
+
+I
+
+3
+
+N
+
+483321
+
+4
+
+5
+
+Lc (medio)
+
+84,86
+
+6
+
+7
+
+S (desv. Estándar)
+
+15,46
+
+8
+
+9
+
+Interv. Confianza
+
+0,04358
+
+10
+
+11
+
+Wt (medio)
+
+511
+
+12
+
+13
+
+Lt (medio)
+
+252
+
+14
+
+15
+
+Captura (kg)
+
+267318
+
+16
+
+17
+
+Sublegal
+
+< 69 mm
+
+%
+
+18
+
+Peso (kg)
+
+16359
+
+6,12
+
+19
+
+Número
+
+65588
+
+13,57
+
+N = número de langostas = +D112
+
+Lc (medio) = +E112/D112
+
+S (desv. Estándar) = +RAIZ(F112/(D112-1))
+
+Intervalo de confianza = intervalo.confianza (0,05,17,13)
+
+Wt (medio) = (0,002582*(POTENCIA(15,2,7461)))
+
+Lt (medio) = Largo total antenular = 36,3535+(2,5402*15)
+
+Captura (kg) = +C112
+
+Langosta sublegal = establecida en cada país o región (e.g < 69 mm)
+
+Peso (kg) = +SUMA (C4:C17) y% que representa del total = +118/C112*100
+
+Número = +SUMA (D4:D17) y% que representa del total = +I19/D112*100
+
+En la Tabla 17 se presentan las tallas agrupadas en intervalos de 4 mm y un resumen de los parámetros calculados.
+
+Tabla 17. Composiciones por tallas por intervalo
+
+TOTAL
+
+L
+
+M
+
+N
+
+O
+
+P
+
+Q
+
+R
+
+3
+
+Lc
+
+Lc medio
+
+Wt (kg)
+
+CAPTURA (kg)
+
+N
+
+Lc * N
+
+N*(Lc-Lc(media))2
+
+4
+
+55 - 59
+
+57
+
+0,171
+
+388
+
+2264
+
+129032
+
+1738733
+
+5
+
+60 - 64
+
+62
+
+0,216
+
+4236
+
+19630
+
+1217039
+
+10127824
+
+6
+
+65 - 69
+
+67
+
+0,267
+
+14416
+
+53988
+
+3617171
+
+16941353
+
+7
+
+70 - 74
+
+72
+
+0,325
+
+23413
+
+71958
+
+5180979
+
+11632481
+
+8
+
+75 - 79
+
+77
+
+0,391
+
+22581
+
+57715
+
+4444046
+
+3434743
+
+9
+
+80 - 84
+
+82
+
+0,465
+
+28743
+
+61809
+
+5068335
+
+455413
+
+10
+
+85 - 89
+
+87
+
+0,547
+
+30290
+
+55364
+
+4816668
+
+289215
+
+11
+
+90 - 94
+
+92
+
+0,638
+
+31119
+
+48788
+
+4488466
+
+2589635
+
+12
+
+95 - 99
+
+97
+
+0,738
+
+31038
+
+42079
+
+4081699
+
+6351272
+
+13
+
+100 - 104
+
+102
+
+0,847
+
+14394
+
+16999
+
+1733874
+
+5079083
+
+14
+
+105 - 109
+
+107
+
+0,966
+
+18875
+
+19545
+
+2091280
+
+9706806
+
+15
+
+110 - 114
+
+112
+
+1,095
+
+10577
+
+9661
+
+1082078
+
+7192947
+
+16
+
+115 - 119
+
+117
+
+1,234
+
+11256
+
+9120
+
+1067020
+
+9506137
+
+17
+
+120 - 124
+
+122
+
+1,385
+
+10878
+
+7856
+
+958484
+
+10922113
+
+18
+
+125 - 129
+
+127
+
+1,546
+
+3303
+
+2136
+
+271305
+
+3819781
+
+19
+
+130 - 134
+
+132
+
+1,719
+
+5364
+
+3121
+
+411929
+
+6977602
+
+20
+
+135 - 139
+
+137
+
+1,904
+
+2270
+
+1192
+
+163325
+
+3259078
+
+21
+
+140 - 144
+
+142
+
+2,101
+
+3114
+
+1483
+
+210520
+
+4865145
+
+22
+
+145 - 149
+
+147
+
+2,310
+
+563
+
+244
+
+35817
+
+945246
+
+23
+
+150 - 154
+
+152
+
+2,532
+
+305
+
+121
+
+18335
+
+546102
+
+24
+
+155 - 159
+
+157
+
+2,768
+
+142
+
+51
+
+8045
+
+267744
+
+25
+
+160 - 164
+
+162
+
+3,017
+
+55
+
+18
+
+2929
+
+108007
+
+26
+
+27
+
+TOTAL
+
+267318
+
+485140
+
+41098376
+
+116756460
+
+5.7 RESUMEN DEL TOTAL
+
+En la Tabla 18 se resumen los principales parámetros de la distribución de tallas por intervalo.
+
+Tabla 18. Resumen, talla por intervalo
+
+H
+
+I
+
+3
+
+N
+
+485140
+
+4
+
+5
+
+Lc (medio)
+
+84,71
+
+6
+
+7
+
+S (desv. Estándar)
+
+15,51
+
+8
+
+9
+
+Interv. Confianza
+
+0,04365
+
+10
+
+11
+
+Wt (medio)
+
+509
+
+12
+
+13
+
+Lt (medio)
+
+252
+
+14
+
+15
+
+Captura (kg)
+
+267318
+
+16
+
+17
+
+Sublegal
+
+< 69 mm
+
+%
+
+18
+
+Peso (kg)
+
+19039
+
+7,12
+
+19
+
+Número
+
+75881
+
+15,64
+
+Sí se tiene un estimado de la proporción por sexo, obtenido de muestreos realizados previamente, es factible de realizar los cálculos para cada uno de los sexos separadamente. Los cálculos utilizados por columnas para las hembras fueron los siguientes (Tablas 19a y b):
+
+Columna X = intervalo de tallas
+
+Columna Y = longitud media
+
+Columna Z = proporción de las hembras
+
+Columna AA = peso medio = (0,00279*(POTENCIA(Y4,2,736)))/1000
+
+Columna AB = captura en peso = + SUMA (C4: C8) * Z4 (se repiten hasta C110)
+
+Columna AC = captura en número = AB / AA
+
+Columna AD = longitud * frecuencia = Y4 * AC4 (se repiten hasta Y110 * C110)
+
+Columna AE = +AC4* (POTENCIA ((Y4-$AH$5),2))
+
+Tabla 19a. Tallas de las hembras por intervalo
+
+HEMBRAS
+
+X
+
+Y
+
+Z
+
+AA
+
+AB
+
+AC
+
+AD
+
+AE
+
+3
+
+Lc
+
+Lc medio
+
+Proporción
+
+Wt (kg)
+
+Captura
+
+(kg)
+
+N
+
+Lc * N
+
+N*(Lc-Lc(media))2
+
+4
+
+55 - 59
+
+57
+
+0,52
+
+0,178
+
+202
+
+1135
+
+64682
+
+753720
+
+5
+
+60 - 64
+
+62
+
+0,54
+
+0,224
+
+2287
+
+10227
+
+634094
+
+4412880
+
+6
+
+65 - 69
+
+67
+
+0,55
+
+0,277
+
+7929
+
+28672
+
+1920999
+
+7132318
+
+7
+
+70 - 74
+
+72
+
+0,55
+
+0,337
+
+12877
+
+38243
+
+2753503
+
+4437648
+
+8
+
+75 - 79
+
+77
+
+0,55
+
+0,405
+
+12419
+
+30694
+
+2363452
+
+1022638
+
+9
+
+80 - 84
+
+82
+
+0,53
+
+0,481
+
+15234
+
+31696
+
+2599098
+
+18895
+
+10
+
+85 - 89
+
+87
+
+0,53
+
+0,565
+
+16054
+
+28408
+
+2471518
+
+507805
+
+11
+
+90 - 94
+
+92
+
+0,52
+
+0,658
+
+16182
+
+24575
+
+2260932
+
+2092699
+
+12
+
+95 - 99
+
+97
+
+0,48
+
+0,761
+
+14898
+
+19576
+
+1898894
+
+3962884
+
+13
+
+100 - 104
+
+102
+
+0,43
+
+0,873
+
+6190
+
+7088
+
+722978
+
+2620529
+
+14
+
+105 - 109
+
+107
+
+0,4
+
+0,995
+
+7550
+
+7585
+
+811561
+
+4452144
+
+15
+
+110 - 114
+
+112
+
+0,36
+
+1,128
+
+3808
+
+3376
+
+378103
+
+2883950
+
+16
+
+115 - 119
+
+117
+
+0,31
+
+1,271
+
+3489
+
+2745
+
+321200
+
+3216252
+
+17
+
+120 - 124
+
+122
+
+0,28
+
+1,425
+
+3046
+
+2137
+
+260716
+
+3288498
+
+18
+
+125 - 129
+
+127
+
+0,24
+
+1,591
+
+793
+
+498
+
+63280
+
+974672
+
+19
+
+130 - 134
+
+132
+
+0,21
+
+1,768
+
+1127
+
+637
+
+84103
+
+1544048
+
+20
+
+135 - 139
+
+137
+
+0,21
+
+1,957
+
+477
+
+243
+
+33358
+
+716026
+
+21
+
+140 - 144
+
+142
+
+0,18
+
+2,159
+
+561
+
+260
+
+36869
+
+910795
+
+22
+
+145 - 149
+
+147
+
+0,14
+
+2,373
+
+79
+
+33
+
+4880
+
+136958
+
+23
+
+150 - 154
+
+152
+
+0,13
+
+2,601
+
+40
+
+15
+
+2321
+
+73169
+
+24
+
+155 - 159
+
+157
+
+0,08
+
+2,842
+
+11
+
+4
+
+627
+
+21997
+
+25
+
+160 - 164
+
+162
+
+0,07
+
+3,096
+
+4
+
+1
+
+200
+
+7741
+
+26
+
+27
+
+TOTAL
+
+125254
+
+237850
+
+19687368
+
+45188264
+
+5.8 RESUMEN DE LAS HEMBRAS
+
+Tabla 19b. Resumen de las hembras
+
+AG
+
+AH
+
+3
+
+N
+
+237850
+
+4
+
+5
+
+Lc (medio)
+
+82,77
+
+6
+
+7
+
+S (desv. Estándar)
+
+13,78
+
+8
+
+9
+
+Interv. Confianza
+
+0,05539
+
+10
+
+11
+
+Wt (medio)
+
+493
+
+12
+
+13
+
+Lt (medio)
+
+247
+
+14
+
+15
+
+Captura (kg)
+
+125254
+
+16
+
+17
+
+Sublegal
+
+< 69 mm
+
+%
+
+18
+
+Peso (kg)
+
+10418
+
+8,32
+
+19
+
+Número
+
+40034
+
+16,83
+
+Los cálculos para los machos se relacionan a continuación (Tabla 20)
+
+Columna AK = intervalo de tallas
+
+Columna AL = longitud media
+
+Columna AM = proporción de las hembras
+
+Columna AN = peso medio = (0,002065*(POTENCIA(AL4,2,792)))/1000
+
+Columna AO = captura en peso = + SUMA (C4: C8) * AM4 (se repiten hasta C110)
+
+Columna AP = captura en número = AO / AN
+
+Columna AQ = longitud * frecuencia = AL4 * AP4 (se repiten hasta AL110 * AP110)
+
+Columna AR = +AP4* (POTENCIA ((AL4-$AU$5),2))
+
+Tabla 20. Talla de los machos por intervalo
+
+MACHOS
+
+AK
+
+AL
+
+AM
+
+AN
+
+AO
+
+AP
+
+AQ
+
+AR
+
+3
+
+Lc
+
+Lc medio
+
+PROPORCIÓN
+
+Wt (kg)
+
+CAPTURA (kg)
+
+N
+
+Lc * N
+
+N*(Lc-Lc(media))2
+
+4
+
+55 - 59
+
+57
+
+0,48
+
+0,165
+
+186
+
+1129
+
+64325
+
+988019
+
+5
+
+60 - 64
+
+62
+
+0,46
+
+0,209
+
+1949
+
+9342
+
+579199
+
+5648314
+
+6
+
+65 - 69
+
+67
+
+0,45
+
+0,259
+
+6487
+
+25045
+
+1678035
+
+9610631
+
+7
+
+70 - 74
+
+72
+
+0,45
+
+0,317
+
+10536
+
+33272
+
+2395570
+
+7081563
+
+8
+
+75 - 79
+
+77
+
+0,45
+
+0,382
+
+10161
+
+26604
+
+2048506
+
+2446221
+
+9
+
+80 - 84
+
+82
+
+0,47
+
+0,455
+
+13509
+
+29672
+
+2433074
+
+624860
+
+10
+
+85 - 89
+
+87
+
+0,47
+
+0,537
+
+14236
+
+26506
+
+2305987
+
+4477
+
+11
+
+90 - 94
+
+92
+
+0,48
+
+0,628
+
+14937
+
+23793
+
+2188958
+
+696627
+
+12
+
+95 - 99
+
+97
+
+0,52
+
+0,728
+
+16140
+
+22178
+
+2151234
+
+2403802
+
+13
+
+100 - 104
+
+102
+
+0,57
+
+0,837
+
+8205
+
+9798
+
+999387
+
+2326986
+
+14
+
+105 - 109
+
+107
+
+0,6
+
+0,957
+
+11325
+
+11832
+
+1266050
+
+4929406
+
+15
+
+110 - 114
+
+112
+
+0,64
+
+1,087
+
+6769
+
+6226
+
+697293
+
+4020130
+
+16
+
+115 - 119
+
+117
+
+0,69
+
+1,228
+
+7767
+
+6323
+
+739824
+
+5847942
+
+17
+
+120 - 124
+
+122
+
+0,72
+
+1,381
+
+7832
+
+5673
+
+692133
+
+7113860
+
+18
+
+125 - 129
+
+127
+
+0,76
+
+1,544
+
+2510
+
+1625
+
+206416
+
+2654225
+
+19
+
+130 - 134
+
+132
+
+0,79
+
+1,720
+
+4238
+
+2464
+
+325201
+
+5080416
+
+20
+
+135 - 139
+
+137
+
+0,79
+
+1,908
+
+1793
+
+940
+
+128718
+
+2387640
+
+21
+
+140 - 144
+
+142
+
+0,82
+
+2,109
+
+2554
+
+1211
+
+171931
+
+3717549
+
+22
+
+145 - 149
+
+147
+
+0,86
+
+2,323
+
+484
+
+208
+
+30630
+
+760425
+
+23
+
+150 - 154
+
+152
+
+0,87
+
+2,551
+
+266
+
+104
+
+15837
+
+445800
+
+24
+
+155 - 159
+
+157
+
+0,92
+
+2,792
+
+130
+
+47
+
+7337
+
+231701
+
+25
+
+160 - 164
+
+162
+
+0,93
+
+3,047
+
+51
+
+17
+
+2697
+
+94673
+
+26
+
+27
+
+TOTAL
+
+142064
+
+244007
+
+21128343
+
+69115264
+
+5.9 RESUMEN DE LOS MACHOS
+
+Tabla 21. Resumen de los machos
+
+AT
+
+AU
+
+3
+
+N
+
+244007
+
+4
+
+5
+
+Lc (medio)
+
+86,59
+
+6
+
+7
+
+S (desv. estándar)
+
+16,83
+
+8
+
+9
+
+Interv. Confianza
+
+0,06678
+
+10
+
+11
+
+Wt (medio)
+
+530
+
+12
+
+13
+
+Lt (medio)
+
+256
+
+14
+
+15
+
+Captura (kg)
+
+142064
+
+16
+
+17
+
+Sublegal
+
+< 69 mm
+
+%
+
+18
+
+Peso (kg)
+
+8622
+
+6,07
+
+19
+
+Número
+
+35516
+
+14,56
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+6 COLECTA DE LAS ESTADÍSTICAS DE CAPTURA Y ESFUERZO
+
+Para obtener este tipo de información será necesario establecer un modelo estadístico de acuerdo a un esquema predeterminado, teniendo en cuenta el tipo de pesquería que se desarrolla en cada región de pesca de langosta. Los datos de captura y esfuerzo recolectados deben ser verificados e ingresados en una base de datos computarizada, que debe ser accesible a todos los científicos, especialistas y a los que manejan el recurso.^[3]
+
+El registro primario de la información estadística se realiza en las localidades donde se recepciona por primera vez los desembarques. La captura desembarcada por cada embarcación es pesada (kg) y clasificada industrialmente, además el pescador debe brindar información sobre la región, subzona o microzona de pesca y el número de artes de pesca (nasas, redes, pesqueros o casitas cubanas) revisados o levados en cada área. La información posteriormente es compilada por la empresa, cooperativa o planta procesadora a través de un modelo estadístico, donde se anota la captura y el esfuerzo empleado por tipo de arte o técnica de pesca por cada embarcación con una frecuencia diaria y mensual.
+
+Se sugiere el uso del siguiente modelo estadístico (tamaño reducido), donde se ilustra la información que se debe compilar mensualmente en cada una de las cooperativas o empresas pesqueras que pescan langosta.
+
+DATOS DE CAPTURA Y ESFUERZO EN LA PESQUERÍA DE LA LANGOSTA.
+
+COOPERATIVA O EMPRESA PESQUERA:
+
+FECHA:
+
+NOMBRE DEL BARCO:
+
+DÍAS MAR:
+
+DÍAS PESCA:
+
+N° de PESCADORES:
+
+N° de BOTES:
+
+DÍA
+
+ZONA DE PESCA
+
+CAPTURA TOTAL
+
+RECURSOS NATURALES
+
+CAPTURA
+
+N° ARTES
+
+CAPTURA
+
+N° ARTES
+
+CAPTURA
+
+N° ARTES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Instrucciones para llenar el modelo:
+
+Cooperativa o empresa pesquera: anotar el nombre.
+
+Fecha: mes y año.
+
+Días mar: anotar el número total de días que el barco permaneció en la zona de pesca.
+
+Días pesca: anotar el total de días que se pescó.
+
+No de pescadores: número de hombres que componen la tripulación del barco.
+
+No de botes: anotar el número de botes o chalanas que participan directamente en la pesca, en el caso que el barco tenga estos botes auxiliares para pescar en el barco.
+
+Día: anotar el día que se pescó (columna 1).
+
+Zona de pesca: anotar el número o el nombre de la zona donde el barco realizó su pesquería (columna 2).
+
+Captura total: anotar la captura total de langosta en kg (columna 3).
+
+En los espacios sombreados se anotará el arte de pesca utilizado: columnas 4-5, 6-7, 8-9.
+
+Captura: anotar la captura de langosta (kg) en el arte de pesca correspondiente; por ejemplo, nasas, casitas cubanas o pesqueros, gomas de carro, trampas diversas, red de enmalle (columnas 4, 6, 8).
+
+No de artes: anotar el número de artes trabajados, revisados o levados en el arte de pesca correspondiente (columna 5, 7, 9).
+
+Recurso natural: anotar la captura de langosta (kg) obtenida con chapingorro, lazo, pincho, etc. en piedras, lajas, oquedades, seibadales o sorribos.
+
+
+^[3] Para facilitar la conversión y el procesamiento de los datos de la industria que se detalla en el texto, se confeccionó una hoja de cálculo en Microsoft Excel denominado Modelo-Industria. Para su utilización se adjunta el disquete.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice Página siguiente
+
+
+7 REFERENCIAS
+
+Aguilar, W., E. Sosa y A.M. Arce. 1995. Reclutamiento de juveniles de langosta (Panulirus argus) en hábitats artificiales al norte de Quintana Roo, México. Rev. Cub. Inv. Pesq. 19 (1): 18-26.
+
+Alfonso, A., R. Sotomayor, R. Cruz, R. Puga y M.E. de León. 1995. Software para la evaluación de la biología y pesquería de la langosta (Panulirus argus) en Cuba. Rev. Inv. Mar. 19 (2) (1-3): 77-81.
+
+Alfonso, I., M.P. Frías, J.A. Baisre, y A. Campos. 1991. Distribución y abundancia de larvas de la langosta Panulirus argus en aguas alrededor de Cuba. Rev. Inv. Mar. 12 (1-3): 5-19
+
+Baisre, J.A. 1976. Distribución de las larvas de Panulirus argus y Scyllarus americanus (Crustácea, Decapoda) en aguas alrededor de Cuba. Rev. Inv. Inst. nac. Pesca, 2 (3): 277-297
+
+Baisre, J.A. y R. Cruz. 1994. The Cuban spiny lobster fishery. In: B.F. Phillips, J.S. Cobb, J. Kittaka, (eds). Spiny Lobster Management, Chapter 8, Oxford, Fishing New Books.
+
+Berril, M. 1975. Gregarious behaviour of juveniles of the spiny lobster, Panulirus argus (Crustacean, Decapoda). Bull. Mar. Sci. 25 (4): 515-522
+
+Beverton, R.J.H. y S.J. Holt. 1957. On the dynamics of exploited fish populations. Fish. Invest. Minist. Agric. Fish. Food G. B. (2 Sea Fish), 19: 533 pp
+
+Briones, F.P. 1994. Variability in postlarval recruitment of the spiny lobster Panulirus argus (Latreille, 1804) to the Mexican Caribbean coast. Crustaceana 66 (3): 326-340
+
+Buesa, R.J. 1965. Biología de la langosta Panulirus argus, Latreille, 1804 (Crustácea, Decapado, Reptantia) en Cuba. INPP/CIP, Cuba mimeogr.) 228 pp
+
+Buesa, R.J. y M.I. Mota Alves. 1970. Escala de colores para el estudio del ciclo reproductor de la langosta P. argus (Latr.) en el área del mar Caribe. FAO. Fish. Rep. 71 (2): 9-12
+
+Calinski, M. D. y W.G. Lyons. 1983. Swimming behavior of the puerulus of the spiny lobster Panulirus argus (Latreille, 1804) (Crustacea: Palinuridae). Journal of crustacean biology (3): 329-335.
+
+Caputi, N. y R.S. Brown. 1986. Prediction of recruitment in the western rock lobster (Panulirus argus) fishery based on indices of juvenile abundance. Can. J. Fish. Aguat. Sci. 43: 2131-2139
+
+Caputi, N., R.S. Brown y B.F. Phillips. 1991. Prediction of the catches of the western rock lobster (Panulirus cygnus) based on indices of puerulus and juvenile abundance. Rev. Inv. Mar. 12: 57-65
+
+CFRAMP. 1997. Lobster and conch subproject specification and training workshop proceedings, 9-12 October, Kingston, Jamaica. CARICOM Fishery Research Document No 19: 290 pp
+
+Cruz, R. 1980. Fecundidad y madurez sexual en la langosta comercial Panulirus argus (Latreille, 1804) (Crustácea: Palinuridae) en Cuba. Rev. Cub. Inv. Pesq. 5 (1):1-27
+
+Cruz, R. 1981a. Metodología para la programación de la veda de la langosta. Centro de Investigaciones Pesqueras. MIP, 12 pag., enero de 1981.
+
+Cruz, R. 1981b. Metodología para la programación de la veda de la langosta. Centro de Investigaciones Pesqueras. MIP, 6 pag., abril de 1981.
+
+Cruz, R., J.A. Baisre, E. Díaz, R. Brito, C. García y C. Carrodeguas. 1990. Atlas Biológico-Pesquero de la Langosta en el archipiélago Cubano. Pub. Esp. Rev. Cuba. Inv. Pesq. y Rev. Mar y Pesca.125 pp
+
+Cruz, R., R. Brito, E. Díaz y R. Lalana. 1986a. Ecología de la langosta (Panulirus argus) al SE de la Isla de la Juventud. I. Colonización de arrecifes artificiales. Rev. Inv. Mar. VII (3): 3-17
+
+Cruz, R., R. Brito, E. Díaz y R. Lalana. 1986b. Ecología de la langosta (Panulirus argus) al SE de la Isla de la Juventud. II. Patrones de movimiento. Rev. Inv. Mar. VII (3): 19-35
+
+Cruz, R., R. Coyula y A.T. Ramírez. 1981. Crecimiento y mortalidad de la langosta espinosa (Panulirus argus) en la plataforma suroccidental de Cuba. Rev. Cub. Inv. Pesq. 6(4): 89-119
+
+Cruz, R., J. González, M.E. de León y R. Puga. 1995. La pesquería de la langosta espinosa (Panulirus argus) en el Gran Caribe. Evaluación y pronóstico. Rev. Cub. Inv. Pesq. 19 (2): 63-76
+
+Cruz, R. y M.E. de León. 1991. Dinámica reproductiva de la langosta (Panulirus argus) en el archipiélago cubano. Rev. Inv. Mar. 12(1-3): 234-245
+
+Cruz, R., M.E. de León, E. Díaz, R. Brito y R. Puga. 1991. Reclutamiento de puérulos de langosta (Panulirus argus) a la plataforma cubana. Rev. Inv. Mar. 12(1-3): 66-75
+
+Cruz, R., M.E. de León y R. Puga. 1992. La utilización de los refugios artificiales, como alternativa para el mejoramiento de las pesquerías cubanas de langosta. Memorias. I Reunión Internacional sobre mejoramiento de hábitats acústicos para pesquerías. 29-30 Octubre 1992. Manzanillo, Colima. México.
+
+Cruz, R., M.E. de León y R. Puga. 1993. Desarrollo, utilización y manejo de los refugios artificiales en las pesquerías cubanas de langosta. En: J.M González y R. Cruz (eds), Memorias del Taller Binacional México-Cuba sobre la utilización de refugios artificiales en las pesquerías de langosta: sus implicaciones en la dinámica y manejo del recurso, 17-21 mayo de 1993 Isla Mujeres, Q.R., México.
+
+Cruz, R., M.E. de León y R. Puga. 1995. Prediction of comercial catches of the spiny lobster Panulirus argus in the Gulf of Batabanó. Fourth International Workshop on Lobster Biology and Management, 1993. Crustaceana 68 (2): 238-244
+
+Cruz, R. y S. Marshalleck. 1997. Spiny lobster larval and juvenile monitoring program for the CARICOM region. CFRAMP Lobster and Conch Subproject Specification and Training Workshop Proceedings, 9-12 October, Kingston, Jamaica. CARICOM Fishery Research Document No 19: 290 p.
+
+Cruz, R. y B.F. Phillips. 1994. The artificial shelters-pesqueros-for the spiny lobster (Panulirus argus) fisheries in Cuba. In: B.F. Phillips, J.S. Cobb y J. Kitataka,(eds). Spiny Lobster Management, Chapter 21, Oxford, Fishing New Books.
+
+Cruz, R., R. Puga y M.E. de León. 1995. Pronóstico de la captura de langosta (Panulirus argus por regiones de pesca, Cuba. Rev. Cub. Inv. Pesq. 19 (1): 51- 58
+
+Cruz R., R. Sotomayor, M.E. de León y R. Puga 1991. Impacto en el manejo de la pesquería de langosta (Panulirus argus) en el archipiélago cubano. Rev. Inv. Mar. 12 (1-3): 246-253
+
+Davis, G.E. 1976. "U.S. National Park Service Spiny Lobster Study " Interim Rep. U.S. Natl. Park. Serv., Washington, D.C.
+
+Davis, G.E. 1978. Field evaluation of a tag for juvenile spiny lobster, Panulirus argus. Trans. Am. Fish. Soc. 107 (1): 100-103
+
+Davis, G.E. 1985. Artificial structures to mitigate marina construction impacts on spiny lobster, Panulirus argus. Bull. Mar. Sci. 37: 151-156
+
+Eggleston, D.B. 1991. Stock enhancement of Caribbean spiny lobster, Panulirus argus Latreille, using artificial shelters: patterns of survival and dynamics of shelter selection. PhD. Dissertion, College of William and Mary Virginia, 143 pp
+
+Evans, C. R., A.J. Evans y A.P.M. Lockwood. 1995. Scaled-Down Shelters (casitas) with predator-barriers having potential for spiny lobster Panulirus argus nursery habitat enhancement. Rev. Cub. Inv. Pesq. 19 (3): 22-40
+
+FAO. 1995. Code of conduct for responsible fisheries. Rome, FAO. 41p.
+
+FAO. 1999. Guidelines for the routine collection of capture fishery data. Prepared at the FAO/DANIDA Expert Consultation. Bangkok, Thailand, 18-30 May 1998. FAO Fish. Tech. Pap. No. 382. Rome, FAO.113p.
+
+FAO / Western Central Atlantic Fishery Commission. 2000. Report on the FAO/DANIDA/CFRAMP/WECAFC regional workshops on the assessment of the Caribbean spiny lobster (Panulirus argus). FAO Fish. Rep. No. 619. Rome, FAO. 382p.
+
+Fonteles-Filho, A.A. 1994. State of the lobster fishery in north-east Brasil. In: B.F. Phillips, J.S. Cobb y J. Kittaka (eds), Spiny lobster management, Chapter 7. Oxford, Fishing News Books.
+
+García, C., B. Hernández, J. Baisre y R. Cruz. 1991. Factores climáticos en las pesquerías cubanas de langosta (Panulirus argus): su relación con las migraciones masivas. Rev. Inv. Mar. 12 (1-3). 131-139
+
+González, J. 1991. Migration and refuge in the assessment and management of the spiny lobster Panulirus argus in the Mexican Caribbean. PhD. Thesis, Imperial College, University of London. 448 pp
+
+Gulland, J.A. 1966. Manual of sampling and statistical methods for fisheries biology. Part 1. Sampling methods. FAO Man. Fish. Sci. (3): 87 pp (también publicado en español y francés).
+
+Gulland, J.A. y A.A Rosenberg. 1992. A review of length-based approaches to assessing fish stocks. FAO Fish. Tech. Pap., (323): 102 pp
+
+Gutierrez-Carbonell, D., J. Simonin-Díaz y P. Briones. 1992. A simple collector for postlarvae of the spiny lobster Panulirus argus. Proc. Gulf caribb. Fish. Inst. 41: 516-527
+
+Harper, D. y R. Muller. 2000. Spiny lobster fisheries of the United States of America. FAO Fish. Rep. No. 619: 258-278
+
+Herrera, A., D. Ibarzábal, J. Foyo, G. Gotera, G. González, R. Brito, E. Díaz y C. Arrinda. 1991. Caracterización ecológica de la ensenada de Bocas de Alonso: un área de juveniles de la langosta Panulirus argus. Rev. Inv. Mar. 12 (1-3): 154-162
+
+Herrnkind, W.F. 1985. Evolution and mechanisms of mass single migration in spiny lobster: Synopsis. Cont. No. 1018 Flda St. Univ. Mar. Lab.
+
+Herrnkind, W.F. y M.J. Butler. 1986. Factors regulating postlarval settlement and juvenile micro-habitat use by spiny lobsters. Panulirus argus. Mar. Ecol. Prog. Ser. 34: 23-30
+
+Hoenig, J.M., J. Csirke, M.J. Sanders, A. Abella, M.G. Andreoli, D. Levi, S. Ragonese, M. Al-Shoushani y M.M. el-Musa. 1987. Data acquisition for length-based stock assessment. Report of Working Group 1. In: Pauly D. y G. R. Morgan (eds). Length-based methods in fisheries research. ICLARM Conf. Proc.:13: 343-3452
+
+James, W. M. 1979. Working diving procedures en: NOAA Diving Manual second edition, United States Department of Commerce Chapter. 7, 31 pp
+
+Jones, R. 1966. Manual of methods for fish stock assessment Part IV-Marking. FAO Fish. Tech. Pap. (51) Suppl. 1: 90 pp
+
+Kanciruk, P. y W.F. Herrnkind. 1976. Autumnal reproduction in the spiny lobster P. argus, at Bimini, Bahamas. Bull. Mar. Sci., 26 (4): 417-422
+
+León, M.E. de, R. Cruz, E. Díaz, R. Brito, R. Puga y J. del Castillo. 1991. Distribución y estacionalidad de los juveniles de Panulirus argus en la plataforma cubana. Rev. Inv. Mar. 12(1-3): 117-124.
+
+Lewis, J. B., H. B. Moore y W. Babis. 1952. The post-larval stages of the spiny lobster Panulirus argus. Bull. Mar. Sci. Gulf. Caribb. 2: 324-337
+
+Little, E.J. Jr. 1977. Observations on recruitment of postlarval spiny lobsters, Panulirus argus, to the south Florida coast. Fla. Mar. Res. Publ. 29: 35pp
+
+Marx, J.M y W.F. Herrnkind. 1985. Macroalgae (Rhodophytae: Laurencia spp) as habitat for young juvenile spiny lobsters, Panulirus argus. Bull. Mar. Sci. 36: 423-31
+
+McDonald, C.D. 1986. Recruitment of spiny lobster, Panulirus argus, pueruli in south Florida: an evaluation from two perspectives. Can. J. Fish. Aq. Sci. 43(11): 2221-2227
+
+Miller, D. 1982. Construction of shallow water habitats to increase lobster production in México. Proc. Gulf. Caribb. Fish. Inst. 34: 168-179
+
+Morgan, G.R. 1974. Aspects of the population dynamics of the western rock lobster Panulirus cygnus, George, I. Estimation of population density. Aust. J. Mar. Freshwater Res. 25: 235-248
+
+Phillips, B.F. 1972. A semi-quantitative collector of the puerulus larvae of the western rock lobster Panulirus longipes cygnus George (Decapoda: Palinuridea) Crustaceana 22: 147-154
+
+Phillips, B.F. 1995. Collectors for catching the puerulus stage of spiny lobsters: a summary. Rev. Cub. Invest Pesq. 19 (1): 33-41
+
+Phillips, B.F. y J. Booth. 1994. Design, use and effectivness of collectors for catching the puerulus stage of spiny lobsters. Reviews in Fisheries Science 2(3): 181-215
+
+Phillips, B.F. y L. Olsen. 1975. The swimming behaviour of the puerulus stage of the western rock lobster. Aust. J. Mar. Freshw. Res. 26: 415-417
+
+Phillips, B.F. y N.G. Hall. 1978. Catches of puerulus larvae on collectors as a measure of natural settlement of the western rock lobster Panulirus cygnus George. CSIRO Div. Fish. Oceanogr. Rep. 98. 18
+
+Phillips B.F., R. Cruz, R. Brown y N. Caputi. 1994. Predicting the catch of spiny lobster fisheries. In: B.F. Phillips, J.S. Cobb, J. Kittaka,(eds). Spiny Lobster Management, Chapter 18, Oxford, Fishing New Books.
+
+Puga, R. 1996. Análisis bioeconómico de la pesquería de langosta Panulirus argus en el Golfo de Batabanó, Cuba. Tesis presentada en opción al grado académico de Maestro en Biología Marina. Centro de Investigaciones Pesqueras, Cuba. 46 p.
+
+Puga, R., M.E. de León y R. Cruz. 1995. Estado de explotación y estructura poblacional de la langosta Panulirus argus en Cuba. Rev. Cub. Inv. Pesq. 19 (2): 41-49
+
+Puga, R., M.E. de León y R. Cruz. 1996. Catchability for the main fishing methods in the cuban fishery of the spiny lobster Panulirus argus (Latreille, 1804), and implications for management (Decápoda, Palinuridea). Crustaceana 69 (4): 703-718
+
+Sigarroa, A. 1985. Biometría y diseño experimental. Primera parte Editorial Pueblo y Educación. 394p.
+
+Sotomayor, R. y R. Cruz. 1990. Sistema automatizado de dirección para la investigación y el manejo de la pesquería de langosta en Cuba. Resumen International Workshop on Lobster Ecology and Fisheries. La Habana, Cuba, 16-12 junio de 1990.
+
+Sparre, P.J. 2000. Manual on sample-based data collection for fisheries assessment (with examples from Viet Nam). FAO Fish. Tech. Pap. No. 398. Rome, FAO. 171p.
+
+Sparre, P. y S.C. Venema.1995. Introducción a la evaluación de recursos pesqueros tropicales. Parte 1 - Manual. FAO Fish. Technical Paper, No 306.1, Rev. 1. Rome, 376 p.
+
+Sweat, D.E. 1968. Growth and tagging studies on Panulirus argus (Latr.) in the Florida Keys. Fla. Sta. Bd. Conserv. Tech. Ser. 57: 1-30
+
+Thompson, W.F y F.H Bell. 1934. Biological statistics of the Pacific halibut fishery. 2. Effect of changes in intensity upon total yield and yield per unit of gear. Rep. Int. Fish. (Pacific Halibut) Comm. 8: 49 pp
+
+Villalobos-Domínguez, C y J. Villalobos. 1947. Atlas de colores- Colour atlas. Buenos Aires, Librería El Ateneo, Editorial Buenos Aires.
+
+Witham, R., R.M. Ingle y E.A. Joyce. 1968. Physiological and ecological studies of Panulirus argus from the St. Lucie Estuary. Fla. Board Conserv. Mar. Lab. Tech. Ser. 53: 31pp
+
+Witham, R., R.M. Ingle y H.W. Sims. 1964. Notes on postlarvae of Panulirus argus. Q.J. Fla. Acad. Sci., 27: 289-297
+
+Yamane, T. 1970. Elementary sampling theory. La Habana, Ediciones Revolucionarias, 405p.
+
+
+Página precedente Inicìo de página Página siguiente
+Página precedente Indice
+
+
+CUBIERTA POSTERIOR
+
+En el presente manual se describen diferentes métodos de muestreo, con especial énfasis en la utilización de técnicas que permiten estudiar el comportamiento de las fases del ciclo de vida de la langosta y mejorar las evaluaciones de las poblaciones en toda su área de distribución. Después de una breve introducción, se analiza el diseño general de la colecta de datos, donde se proponen técnicas de muestreo, a partir del desarrollo de diferentes dispositivos artificiales para la captura de los puérulos, juveniles y adultos, con el fin de desarrollar metodologías estandarizadas que mejoren las estimaciones de la abundancia relativa de estos estadios, la evaluación del reclutamiento y otros índices independientes de la pesquería, así como la predicción de las futuras capturas. Además, se discute la utilización del muestreo aleatorio estratificado y los factores de amplificación, donde se desarrollan ejemplos de cálculo en una pesquería de langosta, con el propósito de mostrar
+el diseño que se debe emplear en las zonas de pesca para lograr muestras que sean representativas de los verdaderos valores de la población, minimizando los errores sistemáticos o sesgos.
+
+El manual brinda un modelo para convertir los datos de las categorías industriales de la langosta en peso (langosta entera precocinada y cola) a los largos biológicos correspondientes, a través de su procesamiento en una hoja de cálculo Microsoft Excel.
+
+Se complementa con la colecta y análisis de los datos de captura y esfuerzo, teniendo en cuenta el tipo de pesquería que se desarrolla en cada región de pesca de langosta.
+
+
+Página precedente Inicìo de página

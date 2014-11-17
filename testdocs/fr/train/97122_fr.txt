@@ -1,0 +1,3695 @@
+#ToC
+
+SYSTEME MONDIAL D'INFORMATION ET D'ALERTE RAPIDE SUR L'ALIMENTATION ET L'AGRICULTURE DE LA FAO
+PROGRAMME ALIMENTAIRE MONDIAL
+
+RAPPORT SPÉCIAL
+
+MISSION FAO/PAM D'ÉVALUATION DES RÉCOLTES ET DES DISPONIBILITÉS ALIMENTAIRES AU SOUDAN
+
+17 janvier 2002
+
+-------
+
+FAITS SAILLANTS
+1. VUE D'ENSEMBLE
+2. ÉVOLUTION RÉCENTE DE L'ÉCONOMIE
+3. PRODUCTION CÉRÉALIERE EN 2001
+
+* 3.1 Les principaux facteurs relatifs à la production en 2001
+* 3.2 Prévisions de la production céréalière
+* 3.3 Autres cultures
+* 3.4 Élevage
+
+4. SITUATION DE L'AGRICULTURE PAR RÉGION
+
+* 4.1 Secteur septentrional
+* 4.2 Secteur méridional
+
+5. MESURES DE SOUTIEN D'URGENCE POUR LA SÉCURITÉ ALIMENTAIRE DES MÉNAGES
+6. SITUATION DES APPROVISIONNEMENTS ALIMENTAIRES
+
+* 6.1 Situation actuelle des marchés
+* 6.2 Bilan de l'offre et de la demande céréalières pour 2001/02
+* 6.3 Situation nutritionnelle
+* 6.4 Besoins d'aide alimentaire d'urgence en 2002
+* 6.5 Autres interventions du PAM
+
+----
+
+----
+
+----
+
+FAITS SAILLANTS
+
++ La production céréalière de 2001 devrait atteindre 4,8 millions de tonnes, et progresser ainsi de 38 pour cent par rapport à l'an dernier et de 9 pour cent par rapport à la moyenne des cinq dernières années.
++ Cette hausse de la production est due à l'accroissement des superficies cultivées - résultat, en partie, de l'aide du gouvernement - et aux bonnes conditions météorologiques qui ont prévalu dans de nombreuses régions.
++ L'année 2002 sera marquée par une amélioration très nette de la disponibilité en céréales. La forte baisse des prix du sorgho dans les principales régions productrices pourrait cependant entraîner la faillite d'agriculteurs et se traduire l'année prochaine par une importante réduction des emblavures.
++ Malgré cette hausse globale de la production, on prévoit d'importants déficits alimentaires dans le sud du pays, imputables essentiellement aux déplacements de populations, ainsi que dans l'ouest et dans certaines régions des États du Darfour, du Kordofan et de la mer Rouge, où des vagues de sécheresse et l'arrêt prématuré des précipitations ont été responsables de la troisième mauvaise récolte consécutive.
++ Les besoins d'aide alimentaire sont estimés à 155 000 tonnes et concernent environ 2 millions de personnes déplacées par la guerre, victimes de la sécheresse ou en situation de vulnérabilité, principalement dans le sud et l'ouest du Soudan, ainsi que dans l'État de la mer Rouge et dans les monts Nouba.
++ L'aide alimentaire devrait, dans la mesure du possible, être fournie sur place. Il est indispensable de transférer rapidement des céréales des régions excédentaires aux régions déficitaires accessibles afin de venir en aide aux groupes vulnérables et de stabiliser les prix.
++ Une aide d'urgence est également nécessaire pour la fourniture de semences et d'autres intrants agricoles aux populations touchées, en prévision de la prochaine campagne agricole 2002 qui commencera en juin/juillet dans le Nord et en avril /mai dans le Sud..
+
+1. VUE D'ENSEMBLE
+
+Une mission FAO/PAM d'évaluation des récoltes et des approvisionnements alimentaires s'est rendue au Soudan - dans le sud du pays du 8 au 30 octobre, puis dans le nord du 16 novembre au 6 décembre 2001 - pour évaluer la production céréalière de la campagne en cours, établir une prévision de la production de blé des superficies préparées pour les semis, et estimer les besoins d'importation de céréales pour la campagne de commercialisation 2001/2002 (novembre/octobre). La mission a pu se rendre dans 24 des 26 États que compte le pays et accéder aux zones sous contrôle gouvernemental comme à celles passées aux mains des rebelles. L'envoi de cette mission a été en grande partie motivé par les graves pénuries alimentaires dues à la sécheresse qui ont touché le Soudan l'an dernier et qui ont nécessité d'importantes interventions humanitaires.
+
+La mission a bénéficié de l'entière collaboration du Ministère fédéral de l'agriculture et de la Commission chargée de l'aide humanitaire (HAC) qui ont désigné certains de leurs hauts fonctionnaires pour l'accompagner. Le Ministère de l'agriculture et les périmètres d'irrigation ont fourni à la mission des données avant-récolte sur les superficies et les rendements pour l'ensemble des cultures céréalières de tous les États du Nord. La mission a pu comparer ces données à celles qu'elle a recueillies au cours de ses visites sur le terrain et lors d'entretiens avec des agriculteurs et des négociants. Les collectivités locales, les organismes des Nations Unies et les ONG ont également fourni des informations essentielles.
+
+Dans le sud du Soudan, l'accès aux régions passées sous le contrôle des rebelles s'est fait par le Kenya. Les éléments d'appréciation ont été fournis par les services d'appui technique et d'analyse et cartographie de la vulnérabilité du PAM (VAM), le système d'alerte rapide en cas de famine (FEWSNET) de USAID et par plusieurs ONG, dont l'Organisation de secours et de relèvement du Soudan (SRRA), l'Association de secours du Soudan méridional (RASS), CONCERN, CRS, Save the Children (Royaume-Uni), TEARFUND et MSF. Faute d'infrastructure et de collecte systématique des données, la mission a établi ses prévisions concernant les superficies et les rendements en s'appuyant sur les estimations fournies par la population. S'agissant de la dimension des exploitations et de la répartition des cultures, elle s'est fondée sur les données existantes. Dans les régions tenues par les rebelles, les données ont été fournies par les ministères d'État de l'agriculture et le service d'alerte
+rapide de la HAC. D'autres informations ont pu être obtenues auprès d'autres ONG, dont ACCORD, Action contre la faim, l'organisation humanitaire de l'Église de Norvège (NCA), Women's Self Help (WSH), Ben International Foundation (BIF), le Croissant rouge soudanais et le Conseil des églises du Soudan.
+
+Malgré quelques inondations et vagues de sécheresse dans certaines régions, la campagne agricole au Soudan a bénéficié de conditions météorologiques généralement favorables.
+
+Dans le nord du pays, la bonne production de cette année s'explique surtout par l'accroissement des superficies cultivées. De bonnes conditions météorologiques, le prix relativement élevé des céréales au moment des semis et les mesures incitatives du gouvernement, favorable au développement des cultures céréalières - en particulier dans les périmètres d'irrigation - ont encouragé les agriculteurs à accroître les semis. De ce fait, la superficie ensemencée en céréales a augmenté en 2001 de 30 pour cent par rapport à 2000. Par rapport à l'an dernier, la production de céréales a augmenté de 32 pour cent dans les périmètres d'irrigation, de 36 pour cent dans les exploitations agricoles mécanisées et de 41 pour cent dans le secteur traditionnel.
+
+Dans le sud du pays, la guerre civile et l'insécurité ont continué à freiner les activités agricoles. Les précipitations ont cependant été favorables sur une grande partie de la région méridionale en 2001, d'où une meilleure production que l'an dernier, surtout dans l'Équatoria Ouest. Un meilleur accès aux régions agricoles - à l'exception notable de Raga, de certaines régions de l'État de l'Union et du couloir de la Sobat dans l'État du Haut Nil - a permis d'accroître les superficies ensemencées. Les ravageurs et les maladies ont été rares, ce qui a également contribué au bon déroulement de la campagne. Les pluies ont eu un effet favorable sur les parcours, et le bétail est pour l'instant en bonne condition. Le respect durable de l'accord de paix entre les Dinka et les Nuer laisse augurer un meilleur avenir pour les éleveurs dans une importante partie de la région méridionale.
+
+La mission prévoit une production totale de céréales avoisinant les 4,81 millions de tonnes, dont 3,77 millions de tonnes de sorgho, 579 000 tonnes environ de mil, 315 000 tonnes de blé (dont la récolte aura lieu en avril et mai 2002), et à peu près 146 000 tonnes d'autres céréales. Ces chiffres indiquent que la production céréalière est supérieure de 38 pour cent environ au résultat moyen de l'an dernier et d'à peu près 9 pour cent à la moyenne des cinq dernières années.
+
+Grâce à cette récolte supérieure à la moyenne, à laquelle il faut ajouter les stocks de report et les importations commerciales prévues (il s'agira essentiellement de blé), l'approvisionnement en céréales sera soutenu en 2002, ce qui permettra d'augmenter la consommation et de constituer des stocks. Ce bon résultat s'est traduit par une baisse importante du prix des céréales dans les grandes régions productrices du pays, dans le centre et dans l'est. Dans le Gedaref, le prix du sorgho en novembre/décembre était nettement plus bas que l'an dernier et continuait à baisser. Cette baisse des prix, jointe à l'augmentation du coût de l'essence, a eu un effet dissuasif sur les agriculteurs qui, dans certaines localités, n'ont pas récolté les cultures sur pied.
+
+Avec des perspectives d'exportation limitées en 2002 - du fait, essentiellement, de meilleures récoltes dans les pays avoisinants - on s'attend à ce que des réserves aussi importantes entraînent les prix vers le bas. Le gouvernement, soucieux de stabiliser les prix, a l'intention d'adopter une politique interventionniste en confiant à l'autorité chargée de gérer les stocks de denrées stratégiques (SCRA) le soin d'établir un prix minimum. Le Programme alimentaire mondial (PAM) a également fait quelques achats sur place pour poursuivre son programme d'aide alimentaire dans le pays. Il faudra acheter de grandes quantités dans les régions excédentaires pour venir en aide aux agriculteurs et aux consommateurs des régions déficitaires.
+
+Dans le nord du pays, le bétail est généralement en bonne condition. On s'attend toutefois à ce que la médiocre productivité des pâturages de certaines régions, notamment dans certaines zones du Kordofan et du Darfour, se solde dans les mois à venir par d'importantes pénuries d'aliments du bétail, qui contraindront les troupeaux à se déplacer. Cette situation, qui en elle-même n'a rien d'inhabituel, est aggravée cette année par les très bas prix du bétail, conséquence de l'embargo imposé par certains pays de la péninsule arabique sur les importations en provenance de la Corne de l'Afrique et justifié par la présence possible de la fièvre de la vallée du Rift. Des rapports récents indiquent que l'Arabie saoudite - de loin le plus gros importateur - a levé l'embargo, mais il faudra du temps avant que les effets de cette mesure bénéficient aux éleveurs. Entre-temps, les troupeaux devraient, faute de débouché commercial, rester trop importants pour que les pâturages disponibles
+puissent assurer correctement leur subsistance.
+
+La situation alimentaire est dans l'ensemble satisfaisante, mais cette perspective globale cache d'importantes pénuries au niveau régional et local. Malgré la hausse de la production, plusieurs zones dans le sud du Soudan, notamment Kapoeta et Torit dans l'Équatoria Est, les comtés d'Aweil Est et Aweil Ouest, Gogrial, les comtés de Twic et Abyei dans le nord de Bahr-el-Ghazal, Raja dans l'ouest de Bahr-el-Ghazal, les États de Jonglei et de l'Unité, enregistreront un déficit céréalier à cause des déplacements de populations et de l'insécurité. L'excédent de céréales prévu dans les États de l'Équatoria Ouest, des lacs et du Haut Nil ne pourra pas être transféré dans les régions déficitaires à cause du cloisonnement du marché ou du démantèlement des voies commerciales habituellement utilisées et de l'infrastructure. Même dans les États excédentaires, l'incapacité des couches défavorisées de la population - urbaine aussi bien que rurale - à accéder aux vivres disponibles rendra
+nécessaire la fourniture d'une aide alimentaire en 2002. Dans le nord du Soudan, certaines régions dans le nord et l'ouest du Kordofan, le Darfour Sud et Nord et l'État de la mer Rouge ont engrangé de piètres récoltes en raison des caprices de la météorologie. Pour la plupart de ces États, il s'agit de la troisième mauvaise récolte consécutive. Ceci explique que le prix des céréales - en particulier du mil, culture vivrière de base - soit resté inhabituellement élevé, sapant le pouvoir d'achat d'une population dont une grande partie est tributaire de l'aide alimentaire. Il faudra par conséquent distribuer une aide alimentaire ciblée dans ces régions. Il importe tout particulièrement de faciliter l'achat en temps utile de céréales et leur transfert des régions excédentaires aux régions déficitaires afin de venir en aide aux producteurs et aux consommateurs.
+
+On estime qu'il faudra 78 000 tonnes de céréales pour assurer les diverses interventions prévues dans les régions des États du Kordofan, du Darfour et de la mer Rouge touchées par la sécheresse. Dans le Sud-Soudan, les besoins d'aide alimentaire - dus principalement à l'insécurité - sont estimés globalement à 52 000 tonnes. Il faudra en outre prévoir approximativement 25 000 tonnes pour couvrir les besoins dans les monts Nouba (au nord comme au sud). En tout, 155 000 tonnes d'aide alimentaire seront nécessaires en 2002 pour venir en aide à environ 2 millions de personnes déplacées dans le pays, victimes de la sécheresse ou en situation de vulnérabilité.
+
+-------
+
+2. ÉVOLUTION RÉCENTE DE L'ÉCONOMIE
+
+L'agriculture reste le secteur le plus important de l'économie soudanaise, aussi bien en termes de contribution au PIB (42 pour cent en 2000) que d'emploi (elle occupe plus de deux tiers de la population). La place de l'agriculture dans l'économie tend cependant à devenir moins prépondérante à mesure que s'accroissent les exportations de pétrole. Les produits pétroliers ont en effet été le principal produit d'exportation du pays en 2000 (1,3 milliard de dollars E.-U., soit 75 pour cent de la totalité des exportations), suivi par le sésame (147 millions de dollars E.-U.) et les produits animaux (66 millions de dollars E.-U.) Le coton et l'or, qui ont rapporté respectivement 52 et 46 millions de dollars E.-U., ont également été d'importants produits d'exportation.
+
+En mars 2001, le gouvernement a instauré de nouvelles réformes agricoles, dont la suppression ou la réduction de la plupart des impôts directs ou indirects sur les produits agricoles et leur commercialisation, ainsi qu'une réduction de 35 à 10 pour cent de l'impôt sur les bénéfices de toutes les sociétés de production, de transformation et de commercialisation des produits agricoles.
+
+Pour compenser la perte de revenue subie par les États régionaux, la taxe sur l'essence a été rehaussée de 12,5 pour cent en octobre 2001. Cette augmentation est toutefois survenue pendant la période des récoltes, imposant aux agriculteurs une hausse sensible des coûts de production. Ce facteur, conjugué au bas prix du sorgho dans les grandes régions de production disposant d'excédents, a contraint certains agriculteurs à réduire, voire à complètement abandonner la récolte de leurs cultures.
+
+En septembre 2000, le gouvernement a créé l'autorité chargée de gérer les stocks de denrées stratégiques (SCRA) pour faire face aux pénuries alimentaires dont souffraient certaines régions suite à une longue période de sécheresse. Cet organe est notamment chargé de la stabilisation du marché - surtout celui des céréales de base - par des importations et des achats locaux, ainsi que de la distribution gratuite ou subventionnée de vivres aux groupes vulnérables en situation d'urgence. En 2000/2001, la SCRA a importé environ 70 000 tonnes de céréales pour combler le déficit alimentaire du pays. On prévoit actuellement d'acheter d'importantes quantités de céréales aux agriculteurs qui ont été incités à accroître les semis de céréales pour la campagne en cours. Malheureusement, l'allocation de fonds à la SCRA a été différée, et ce retard a provoqué une perte de temps préjudiciable au soutien des agriculteurs et à l'assainissement du marché. Au moment où la mission était sur
+place, le prix du sorgho était en chute libre dans toutes les grandes régions productrices, y compris l'État du Nil Bleu et l'État de Gedaref.
+
+-------
+
+3. PRODUCTION CÉRÉALIERE EN 2001
+
+3.1 Les principaux facteurs relatifs à la production en 2001
+
+Précipitations
+
+Au Soudan, les précipitations annuelles sont très variables: presque nulles dans le nord du pays, elles peuvent atteindre 1 800 mm dans l'état méridional d'Équatoria Ouest. Cette année, les pluies ont généralement commencé à temps dans le nord, ce qui laisse augurer une production agricole supérieure à celle de l'an dernier. On constate que tel est le cas un peu partout, surtout dans l'importante région du centre.
+
+A Gezira et Kassala, les précipitations ont été nettement plus favorables que l'an dernier. Il a beaucoup plu dans les régions de Gedaref et du Nil Bleu en juin et juillet. Une période de sécheresse est ensuite survenue, mais elle a fait place à d'abondantes précipitations en août. En septembre et octobre, les pluies, bien réparties, ont continué à tomber en quantité suffisante. Dans l'État de Sennar, après un départ tardif de la campagne agricole, les précipitations ont été bien réparties dans les mois suivants. Il faut cependant relever que dans certaines régions de l'ouest du pays, où les cultures pluviales traditionnelles fournissent la quasi-totalité de la production céréalière, les pluies prometteuses tombées au début de la campagne ont manqué de constance. Certaines régions ont connu de longues périodes de sécheresse, d'autres un arrêt inhabituellement précoce des précipitations. La région située à l'extrémité occidentale du Darfour Ouest constitue une exception
+notable, avec une quantité et une distribution des précipitations supérieures à la normale laissant présager une bonne production céréalière. L'État de la Mer rouge a connu sa troisième année consécutive de sécheresse, sauf sur la bande côtière où les précipitations semblent devoir être favorables à la campagne d'hiver.
+
+Compte tenu de l'importance des précipitations tombées dans de nombreuses régions et de l'appréciable quantité de pluie tombée en amont, le niveau du Nil a, cette année, été plus élevé qu'à l'accoutumée, ce qui a permis - malgré quelques inondations localisées qui ont provoqué des dégâts au mois d'août - d'accroître la superficie consacrée aux cultures de riz. Le niveau élevé du fleuve a également été propice à la production de légumes.
+
+Dans le sud, le volume annuel des précipitations augmente lorsqu'on passe du nord au sud et de l'est à l'ouest. Cette année, les pluies ont commencé à temps dans la plupart des régions et ont été bien réparties dans l'ensemble; selon la plupart des agriculteurs, elles étaient plus favorables qu'au cours des dernières années. Des précipitations trop abondantes ont cependant abîmé quelques cultures, surtout à Bahr-el-Ghazal, et empêché les derniers semis de sorgho dans certaines zones de Jonglei où les sols sont restés gorgés d'eau pendant plusieurs semaines.
+
+Intrants agricoles
+
+Au Soudan, les agriculteurs qui pratiquent les cultures sous irrigation sont les principaux utilisateurs d'engrais, de pesticides, d'herbicides et de semences améliorées. Parmi les variétés améliorées de sorgho cultivées cette année figurent "Wad Ahmed", "Tabet", "White Dwarf" and "Gadam Hamam" L'engrais - en règle générale il s'agit d'urée - est normalement fourni par les sociétés qui gèrent les périmètres irrigués. Il peut arriver que les applications soient insuffisantes, parce que les agriculteurs ont vendu une partie ou la totalité des quantités qui leur étaient attribuées. Les pesticides restent peu utilisés pour les céréales, les agriculteurs en réservant l'usage aux cultures de rapport comme le coton. Dans le secteur pluvial et mécanisé, les agriculteurs sont de plus en plus convaincus des avantages potentiels de certains intrants comme les semences améliorées. "Tabet" and '"eterita" sont des variétés couramment utilisées. Les résultats ne sont cependant pas toujours
+convaincants, car ils sont tributaires de toutes les autres pratiques culturales et d'une bonne répartition des précipitations. S'il est vrai que la grande majorité des agriculteurs du secteur traditionnel continuent à utiliser les semences provenant de la précédente récolte et ne recourent pas à des intrants commercialisés, le nombre, pour l'instant peu élevé, de ceux qui utilisent les semences améliorées s'accroît progressivement dans les régions qui bénéficient des divers programmes de distribution mis en place par le gouvernement, les ONG et les organisations internationales. Les résultats sont en général encourageants. Dans l'État de la Mer Rouge, par exemple, les variétés de sorgho "Arfa Gadamek", "Aklamoy" et "Hamashin" ont été distribuées. La distribution de semences est particulièrement importante dans les régions touchées par des sécheresses répétées où les agriculteurs n'ont pas pu en stocker à cause de récoltes médiocres ou inexistantes.
+
+La hausse du prix du pétrole en octobre 2001, qui semble n'avoir guère influé sur les semis de sorgho et de mil, s'est fait ressentir pendant la récolte et devrait peser sur la production de blé de la campagne d'hiver en cours. Plusieurs États qui prévoyaient une forte production céréalière n'ont pas été approvisionnés comme il l'aurait fallu en sacs vides.
+
+Adventices, ravageurs et maladies
+
+En 2001, les cultures céréalières n'ont pas été fortement affectées par les ravageurs ou les maladies. Dans les régions où la production a été médiocre, ce sont plutôt des problèmes de répartition des pluies qui sont à l'origine des mauvais rendements. Dans la plupart des zones productrices, on a cependant noté la présence localisée de la cécydomie du sorgho (Contarinia sorghicola), qui a été responsable d'une baisse des rendements. Certains indices semblent indiquer que la variété "Tabet" serait plus vulnérable que d'autres. Le phénomène est cependant resté sans gravité et bien en-deça de l'ampleur qu'il avait eue il y a deux ans, où il avait provoqué la destruction des cultures dans les États de l'est du pays. On a parfois signalé la présence du ver américain dans certaines régions du centre et de l'est. Le charbon du sorgho a endommagé quelques cultures, mais les dégâts ont généralement été peu importants; le secteur traditionnel est à cet égard plus vulnérable en raison
+de l'utilisation de semences non traitées. On a noté quelques occurrences de mildiou du mil dans quelques régions du Darfour Nord. Les oiseaux se sont souvent attaqués aux cultures de sorgho et de mil dans les localités où les terres boisées offrent des sites de nidification, mais les dégâts ont généralement été atténués par une campagne de pulvérisation à grande échelle et efficace menée contre le Quelea quelea, espèce considérée comme un fléau national. Les sauteriaux ont attaqué le mil et le sorgho (ce dernier a été moins touché) dans de nombreuses régions, surtout dans l'ouest. On a signalé la présence du ver du mil dans plusieurs territoires de l'ouest. Les rendements, déjà faibles dans ces régions touchées par une mauvaise répartition des pluies, ont par conséquent enregistré une baisse encore plus sensible. De nombreux champs de sorgho ont été touchés par le striga, mais il ne semble pas que les dégâts soient importants. Dans certaines régions - notamment certaines
+parties du Kordofan - l'arrivée progressive des pluies permet normalement de procéder au désherbage. Cette année, les pluies ont commencé d'un seul coup, empêchant de désherber correctement une part importante des terres cultivées. L'herbe du Soudan et le chiendent ont été les plantes adventices qui ont posé le plus de difficultés.
+
+Les ravageurs et les maladies des cultures non céréalières n'ont généralement pas provoqué de dégâts notables cette année, exception faite de la punaise de la pastèque qui a dévasté des centaines de milliers d'hectares de pastèques dans l'ouest du pays. Une campagne "vivres-contre-travail" a été lancée l'an dernier, dont le but était d'offrir des vivres en échange du travail consistant à enlever ces punaises à la main. Malgré l'efficacité avérée de l'opération, il ne semble pas que l'expérience ait été renouvelée cette année.
+
+Prix
+
+Le prix élevé des céréales en 2001 - résultat de la mauvaise récolte de 2000 - et les faibles quantités de céréales engrangées ont favorisé une reprise accrue de la production céréalière dans les secteurs mécanisés et irrigués du nord du Soudan. Le prix de détail du sorgho, par exemple, variant entre 45 000 et 50 000 LSd par sac de 90 kg au début de la campagne agricole (de mai à juillet 2001) a largement dépassé le prix d'équilibre, évalué pour la production pluviale à 20 000 LSd. Le mil s'est quant à lui vendu à un prix pouvant atteindre 100 000 LSd par sac de 100 kg dans les régions de production chroniquement déficitaires.
+
+3.2 Prévisions de la production céréalière
+
+Le tableau 1 indique les prévisions de la production céréalière du Soudan pour 2001/2002 et les met en regard des données de 2000/2001. On trouvera dans le tableau 2 des estimations des superficies cultivées, des rendements et de la production, par culture et par région, pour les cinq années de la période 1997/1998-2001/2001. La production totale de céréales de chacune des régions du nord pour 2001/2001 et 2001/2002 figure dans le tableau 3.
+
+La production de céréales du Soudan est cette année d'environ 4,81 millions de tonnes. Elle est supérieure d'approximativement 38 pour cent à celle de l'an dernier et de 9 pour cent à la moyenne des cinq dernières années, mais reste encore loin des 5,8 millions de tonnes produits en 1998/1999. La hausse de la production de cette année s'explique plutôt par une augmentation sensible des emblavures que par l'amélioration des rendements. Dans le nord, par exemple, les superficies ensemencées en sorgho et en mil ont été respectivement supérieures de 33 et de 31 pour cent à celles de l'an dernier.
+
+Tableau 1. Soudan: prévision de la production céréalière pour 2001/2002 et estimations de celles de 2000/2001 (en milliers de tonnes)
+
+État / Secteur
+
+Sorgho
+
+Mil
+
+Blé
+
+Total
+
+Production de 2001/02 exprimée en pourcentage de la production 2000/01
+
+2000/01
+2001/02
+2000/01
+2001/02
+2000/01
+2001/02
+2000/01
+2001/02
+Irrigué
+Nord 13 12 0 0 159 153 172 165 96
+Nil 111 180 0
+
+0
+
+61
+
+60
+
+172
+
+240
+
+140
+
+Sennar
+
+44
+
+83
+
+0
+
+0
+
+0
+
+0
+
+44
+
+83
+
+188
+
+Nil Blanc
+
+58
+
+68
+
+0
+
+0
+
+1
+
+12
+
+59
+
+80
+
+126
+
+Gezira
+
+449
+
+632
+
+0
+
+0
+
+52
+
+65
+
+501
+
+697
+
+139
+
+Rahad
+
+105
+
+128
+
+0
+
+0
+
+0
+
+0
+
+105
+
+128
+
+122
+
+Suki
+
+48
+
+44
+
+0
+
+0
+
+0
+
+0
+
+48
+
+44
+
+91
+
+New Halfa
+
+37
+
+59
+
+0
+
+0
+
+22
+
+20
+
+59
+
+79
+
+133
+
+Gash
+
+30
+
+55
+
+0
+
+0
+
+0
+
+0
+
+30
+
+55
+
+184
+
+Tokar
+
+4
+
+4
+
+2
+
+4
+
+0
+
+0
+
+6
+
+8
+
+130
+
+Kassala
+
+1
+
+6
+
+0
+
+0
+
+0
+
+0
+
+1
+
+6
+
+640
+
+Total partiel
+
+900
+
+1 271
+
+2
+
+4
+
+295
+
+310
+
+1 197
+
+1 585
+
+132
+
+Mécanisé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kassala
+
+35
+
+72
+
+0
+
+0
+
+0
+
+0
+
+35
+
+72
+
+206
+
+Gedaref
+
+495
+
+446
+
+12
+
+10
+
+0
+
+0
+
+507
+
+456
+
+90
+
+Nil Bleu
+
+70
+
+155
+
+1
+
+3
+
+0
+
+0
+
+71
+
+158
+
+223
+
+Sennar
+
+157
+
+210
+
+5
+
+4
+
+0
+
+0
+
+162
+
+214
+
+132
+
+Nil Blanc
+
+36
+
+76
+
+3
+
+2
+
+0
+
+0
+
+39
+
+78
+
+200
+
+Kordofan Nord
+
+0
+
+21
+
+0
+
+0
+
+0
+
+0
+
+0
+
+21
+
+-
+
+Kordofan Sud
+
+44
+
+147
+
+0
+
+0
+
+0
+
+0
+
+44
+
+147
+
+333
+
+Kordofan Ouest
+
+0
+
+20
+
+0
+
+0
+
+0
+
+0
+
+0
+
+20
+
+-
+
+Darfour Sud
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+100
+
+Total partiel
+
+837
+
+1 147
+
+21
+
+19
+
+0
+
+0
+
+858
+
+1 166
+
+136
+
+Traditionnel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gezira
+
+34
+
+83
+
+0
+
+0
+
+0
+
+0
+
+34
+
+83
+
+244
+
+Nil Bleu
+
+27
+
+43
+
+1
+
+2
+
+0
+
+0
+
+28
+
+45
+
+162
+
+Sennar
+
+20
+
+27
+
+11
+
+6
+
+0
+
+0
+
+31
+
+33
+
+105
+
+Nil Blanc
+
+30
+
+43
+
+5
+
+6
+
+0
+
+0
+
+35
+
+49
+
+139
+
+Kassala
+
+2
+
+4
+
+0
+
+0
+
+0
+
+0
+
+2
+
+4
+
+216
+
+Nil
+
+0
+
+11
+
+0
+
+0
+
+0
+
+0
+
+0
+
+11
+
+-
+
+Mer Rouge
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+1
+
+0
+
+26
+
+Kordofan Nord
+
+25
+
+56
+
+17
+
+64
+
+0
+
+0
+
+42
+
+120
+
+287
+
+Kordofan Sud
+
+16
+
+71
+
+11
+
+42
+
+0
+
+0
+
+27
+
+113
+
+420
+
+Kordofan Ouest
+
+81
+
+80
+
+82
+
+63
+
+0
+
+0
+
+163
+
+143
+
+88
+
+Darfour Nord
+
+9
+
+8
+
+61
+
+66
+
+0
+
+0
+
+70
+
+74
+
+106
+
+Darfour Sud
+
+166
+
+80
+
+180
+
+106
+
+3
+
+3
+
+349
+
+189
+
+54
+
+Darfour Ouest
+
+64
+
+328
+
+87
+
+191
+
+1
+
+2
+
+152
+
+521
+
+343
+
+Sud
+
+419
+
+518
+
+3
+
+10
+
+0
+
+0
+
+422
+
+528
+
+125
+
+Total partiel
+
+893
+
+1 352
+
+459
+
+556
+
+4
+
+5
+
+1 356
+
+1 913
+
+141
+
+TOTAL GÉNÉRAL*
+
+2 630
+
+3770
+
+482
+
+579
+
+299
+
+315
+
+3 472
+
+4 810
+
+138
+
+Source: Prévisions du Ministère de l'agriculture et estimations de la mission.
+* Y compris le maïs produit essentiellement dans les États méridionaux, et de petites quantités de riz.
+
+Tableau 2. Soudan: superficies, rendements et prévisions de production par culture et par région pour 2001/02 par rapport aux années précédentes
+
+Région
+
+Superficies récoltées
+(milliers d'ha) Rendements
+(tonnes/ha) Production
+(milliers de tonnes)
+
+
+97/98
+
+98/99
+
+99/00
+
+00/01
+
+01/02
+
+97/98
+
+98/99
+
+99/00
+
+00/01
+
+01/02
+
+97/98
+
+98/99
+
+99/00
+
+00/01
+
+01/02
+
+Sorgho
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nord
+
+36
+
+64
+
+107
+
+58
+
+107
+
+2,36
+
+1,45
+
+1,74
+
+2,14
+
+1,89
+
+85
+
+93
+
+186
+
+124
+
+203
+
+Centre
+
+1 925
+
+2 027
+
+1 348
+
+1 084
+
+1 701
+
+0,60
+
+0,86
+
+0,66
+
+0,89
+
+0,90
+
+1 127
+
+1 738
+
+886
+
+973
+
+1 534
+
+Est
+
+1 759
+
+2 377
+
+1 355
+
+1 431
+
+1 553
+
+0,49
+
+0,78
+
+0,34
+
+0,50
+
+0,45
+
+870
+
+1 860
+
+456
+
+709
+
+704
+
+Kordofan
+
+799
+
+627
+
+813
+
+1 003
+
+1 018
+
+0,42
+
+0,65
+
+0,32
+
+0,17
+
+0,39
+
+332
+
+406
+
+261
+
+166
+
+394
+
+Darfour
+
+269
+
+299
+
+462
+
+193
+
+605
+
+1,97
+
+0,67
+
+0,53
+
+1,24
+
+0,69
+
+530
+
+200
+
+245
+
+239
+
+417
+
+Sud
+
+538
+
+917
+
+550
+
+768
+
+863
+
+0,40
+
+0,58
+
+0,57
+
+0,54
+
+0,60
+
+215
+
+535
+
+313
+
+419
+
+518
+
+Total partiel
+
+5 326
+
+6 311
+
+4 635
+
+4 537
+
+5 847
+
+
+
+
+
+
+
+
+
+
+
+3 159
+
+4 832
+
+2 347
+
+2 630
+
+3 770
+
+Mil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nord
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Centre
+
+54
+
+92
+
+125
+
+76
+
+71
+
+0,44
+
+0,46
+
+0,40
+
+0,34
+
+0,31
+
+24
+
+42
+
+50
+
+26
+
+22
+
+Est
+
+36
+
+19
+
+35
+
+34
+
+48
+
+0,39
+
+0,68
+
+0,40
+
+0,44
+
+0,29
+
+14
+
+13
+
+14
+
+15
+
+14
+
+Kordofan
+
+1 632
+
+1 061
+
+1 079
+
+775
+
+1 171
+
+0,14
+
+0,13
+
+0,11
+
+0,14
+
+0,15
+
+230
+
+140
+
+123
+
+110
+
+170
+
+Darfour
+
+1 086
+
+1 571
+
+1 138
+
+1 197
+
+1 536
+
+0,34
+
+0,30
+
+0,27
+
+0,27
+
+0,24
+
+374
+
+468
+
+309
+
+328
+
+363
+
+Sud*
+
+18
+
+20
+
+6
+
+5
+
+20
+
+0,33
+
+0,35
+
+0,50
+
+0,60
+
+0,50
+
+6
+
+7
+
+3
+
+3
+
+10
+
+Total partiel
+
+2 826
+
+2 763
+
+2 383
+
+2 087
+
+2 846
+
+
+
+
+
+
+
+
+
+
+
+648
+
+670
+
+499
+
+482
+
+579
+
+Blé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nord
+
+113
+
+55
+
+63
+
+92
+
+69
+
+2,79
+
+1,96
+
+2,87
+
+2,39
+
+3,10
+
+315
+
+108
+
+181
+
+220
+
+213
+
+Centre
+
+137
+
+55
+
+19
+
+31
+
+42
+
+1,74
+
+0,65
+
+1,21
+
+1,71
+
+1,83
+
+239
+
+36
+
+23
+
+53
+
+77
+
+Est
+
+24
+
+28
+
+6
+
+11
+
+12
+
+1,66
+
+0,75
+
+1,17
+
+2,00
+
+1,66
+
+40
+
+21
+
+7
+
+22
+
+20
+
+Kordofan
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Darfour
+
+3
+
+3
+
+3
+
+4
+
+4
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,25
+
+3
+
+3
+
+3
+
+4
+
+5
+
+Sud
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Sous-total
+
+277
+
+141
+
+91
+
+138
+
+127
+
+
+
+
+
+
+
+
+
+
+
+597
+
+168
+
+214
+
+299
+
+315
+
+TOTAL PAYS*
+
+8 429
+
+9 215
+
+7 109
+
+6 762
+
+8 820
+
+
+
+
+
+
+
+
+
+
+
+4 404
+
+5 670
+
+3 139
+
+3 472
+
+4 810
+
+Source: Estimations du Ministère de l'Agriculture et prévisions de la mission.
+* Chiffre incluant le maïs, cultivé principalement dans les États du sud, et de petites quantités de riz.
+
+3.3 Autres cultures
+
+La superficie sous riz a augmenté cette année suite à la hausse du niveau des eaux fluviales. D'après les prévisions, environ 20 000 feddans (8 260 hectares) seront récoltés dans l'État du Nil Blanc, avec un rendement d'environ 10 sacs de 50 kg par feddan (1,2 t/ha). Les superficies cultivées dans certaines secteurs du Bahr el Ghazal sont plus restreintes.
+
+Le niveau généralement satisfaisant des précipitations de l'année a également permis une augmentation de la production maraîchère dans le secteur nord, particulièrement dans les zones fluviales qui ont bénéficié des niveaux d'eau supérieurs à la moyenne. Dans l'ensemble, les rendements d'arachides ont été meilleurs que l'an dernier, tout comme ceux du sésame et du karkadé; d'après les prévisions, les rendements de coton devraient s'établir au niveau de l'an passé. Néanmoins, la superficie sous sésame a diminué cette année par rapport aux deux dernières années, la tendance étant un retour à davantage de sorgho. Dans le sud, les superficies sous arachides ont été légèrement inférieures à l'an passé mais les rendements ont été satisfaisants. Pour le manioc, on prévoit des rendements semblables à l'an dernier mais une augmentation des superficies cultivées. Le prix de la farine de manioc est actuellement très bas.
+
+La pastèque joue un rôle important dans une grande partie du Soudan occidental. Elle représente une source d'eau et d'éléments nutritifs facile à conserver, utilisable aussi bien par les hommes que par le bétail. Dans le Kordofan Nord et Ouest, on estime que cette année deux millions de feddans (826 000 hectares) de cultures de pastèques ont été entièrement détruites en raison d'une infestation de punaises. Le grand Darfour a été moins touché, mais les pertes ont malgré tout été considérables.
+
+3.4 Élevage
+
+Dans le secteur nord, le bétail se porte actuellement bien. Moins sensibles que les cultures à la répartition des pluies, les pâturages sont généralement en bon état suite à des précipitations totales satisfaisantes sur presque tout le pays. Cependant, dans certaines parties du Darfour Sud où les troupeaux sont très nombreux, les parcours sont déjà sérieusement épuisés et les pasteurs se préparent à déplacer leurs troupeaux vers le sud et l'ouest. Ces déplacements forcés peuvent être source de conflit dans les zones où les pâturages font l'objet de concurrence. Plus au nord, dans certaines zones du Darfour Nord, une pénurie d'eau pourrait avoir lieu dans quelques mois. Les niveaux sont déjà bas dans de nombreux réservoirs et certains seraient restés à sec pendant toute la saison des pluies. Dans le sud, l'amélioration des pâturages est générale cette année, suite à un bon régime de pluies et au nombre limité de grosses inondations, ce qui a éliminé en grande partie la
+surcharge pastorale et ses conséquences souvent conflictuelles. Le bétail est en bonne condition et grâce au programme annuel de vaccination, la peste bovine reste bien maîtrisée, sans foyers confirmés au cours de ces six dernières années.
+
+-------
+
+4. SITUATION DE L'AGRICULTURE PAR RÉGION
+
+4.1 Secteur septentrional
+
+D'après les estimations, la production céréalière totale du Soudan septentrional en 2001/02 devrait être en augmentation de 38 pour cent par rapport à l'an dernier, comme indiqué au Tableau 3. Cette augmentation est due en grande partie au sorgho, plus largement ensemencé cette année.
+
+Tableau 3. Soudan septentrional - Production céréalière totale en 2001/02 et 2000/01
+
+(milliers de tonnes)
+
+Région
+
+Sorgho
+
+Mil
+
+Blé
+
+Total
+
+
+
+2000/01
+
+2001/02
+
+%
+
+2000/01
+
+2001/02
+
+%
+
+2000/01
+
+2001/02
+
+%
+
+2000/01
+
+2001/02
+
+%
+
+Nord 124 203 164 0 0 220 213 97 344 416 121
+Centre 1031 1534 149 26 22 86 57 77 135 1114 1633 147
+Est 652 704 108 15 14 92 22 20 91 689 738 107
+Kordofan 166 394 238 110 170 154 0 0 276 564 204
+Darfour 239 417 174 328 363 111 4 5 113 571 784 137
+TOTAL GÉNÉRAL 2212 3252 147 479 569 119 303 315 104 2994 4136
+
+138
+
+Région du nord (Nord, Nil)
+
+Les populations de la Région septentrionale, qui comprend les États du Nord et du Nil, sont principalement installées sur les rives du Nil. La production céréalière est en grande partie basée sur l'irrigation, avec des cultures de maïs et de sorgho pendant l'été et de blé pendant les mois d'hiver. Les céréales d'été sont cultivées le long du Nil dans des périmètres irrigués équipés de pompes et dans les terres basses ou demiras (zones de décrue). Grâce à ses hivers relativement frais et à son accès à l'irrigation, la Région septentrionale est la principale région productrice de blé.
+
+D'après les estimations, la production de sorgho de la région devrait cette année être supérieure de plus de 60 pour cent à celle de l'an dernier en raison principalement de l'expansion des terres arables de l'État du Nil: les superficies récoltables ont pratiquement doublé par rapport à l'an dernier. Bien que les prévisions indiquent pour la région des rendements de sorgho assez satisfaisants cette année, de l'ordre de 1,9 t/hectare, la productivité sera inférieure à celle réalisée l'an dernier sur une plus petite superficie.
+
+Les températures hivernales ont été inférieures à la normale l'an dernier, et à en juger par les températures de début décembre, cette situation est en passe de se reproduire cette année. Les températures basses de décembre favoriseront l'établissement des cultures de blé et, si ces conditions se maintiennent jusqu'en février, on peut espérer une bonne récolte. Sur la base de ce début de saison favorable, on prévoit des rendements semblables à ceux de l'an dernier, de 1,2 à 1,3 t/hectares. Une augmentation importante des emblavures était prévue pour cette année mais d'après l'état d'avancement constaté début décembre, il semblerait que les objectifs fixés ne puissent être atteints. Les superficies récoltées devraient être du même ordre que l'an dernier.
+
+Région orientale (Gedaref, Kassala, mer Rouge)
+
+Dans la région orientale, on trouve le principal périmètre irrigué (New Halfa), 45 pour cent d'un autre grand périmètre (Rahad), un périmètre irrigué en expansion(Kassala), deux périmètres d'irrigation de décrue (Gash et Tokar) et la plus grande zone de cultures pluviales mécanisées du pays. Cette année, en progression marquée par rapport à 2000/01, la région a produit environ 17 pour cent de la récolte céréalière totale du nord. Les pluies ont en général été favorables dans les principales zones de production et l'on a enregistré une augmentation générale des superficies récoltées par rapport à l'an dernier. Les superficies sous sorgho de Gedaref, zone de cultures pluviales mécanisées, dépassent les trois millions de feddans (1,3 millions d'hectares), soit une augmentation de 20 pour cent par rapport à l'an dernier. Par contre les rendements, de l'ordre d'un sac et demi par feddan en moyenne, ont été inférieurs à ceux de l'an passé, ramenant ainsi le total de la production
+juste en dessous du niveau de l'an dernier. On a également enregistré une augmentation des superficies sous sorgho dans les périmètres de New Halfa, Gash et Rahad, tandis que celles de Tokar ont légèrement diminué. Les rendements de New Halfa, Gash et Rahad ont tous été meilleurs que l'an passé et par conséquent la production dans les quatre périmètres a été supérieure à celle de l'an dernier. Malgré une augmentation importante des superficies sous sorgho irrigué (de 1000 à 32 000 feddans), le périmètre de Kassala a enregistré des rendements très faibles, de moins d'une demi-tonne par hectare. Selon les prévisions, la production de blé de New Halfa devrait être semblable à 2000/01, de l'ordre de 20 000 tonnes.
+
+La baisse des rendements enregistrée dans le Gedaref pour le sorgho pluvial mécanisé, et ceci en dépit de précipitations généralement favorables, peut être une manifestation de la perte de fertilité du sol à laquelle il a souvent été fait allusion pour cette zone de monoculture du sorgho où ne sont utilisés ni engrais ni semences améliorées.
+
+Les ravageurs, maladies et plantes adventices ont été généralement peu importants cette année, avec une incidence mineure de striga et seulement quelques cas localisés signalés de ver américain du cotonnier.
+
+Avec la perspective d'une production satisfaisante, les prix du sorgho ont commencé à baisser en septembre, passant de 50 000 LSd par sac de 90 kg à 25 000 LSd en novembre. Cette situation fait craindre qu'une partie de la récolte encore sur pied ne soit pas moissonnée, le faible niveau des rendements et des prix ne justifiant pas la dépense.
+
+Dans le nord de l'État de la mer Rouge, les pluies d'hiver ont bien débuté le long du littoral, mais les zones situées plus à l'intérieur subissent leur troisième année consécutive de sécheresse.
+
+Région centrale (Gezira, Sennar, Damazin, Nil Bleu, Nil blanc)
+
+Selon les prévisions, la Région centrale devrait produire cette année presque 50 pour cent de céréales en plus par rapport à l'an dernier, ce qui représentera environ 40 pour cent de la production céréalière totale du nord du Soudan. La région englobe quatre grands périmètres irrigués (Gezira, Nil Bleu, Nil Blanc et Suki), 55 pour cent du périmètre d'irrigation de Rahad et de vastes étendues de cultures pluviales mécanisées et traditionnelles.
+
+Dans les zones de cultures pluviales, les précipitations ont été très satisfaisantes cette année à la fois en quantité et en distribution: on a enregistré 850 mm de précipitations à Damazin. En fait, les quelques retards signalés dans les semis étaient dus le plus souvent à la violence des pluies. Les hausses importantes de la production dans la région peuvent s'expliquer, dans la grande majorité des cas, par l'augmentation des superficies cultivées, aussi bien dans les périmètres irrigués que dans les zones de cultures pluviales. Les rendements sont restés à peu près semblables à ceux de l'an dernier.
+
+En raison du niveau relativement élevé des eaux du Nil cette année, la production de riz dans l'État du Nil Blanc a beaucoup augmenté passant d'environ 5 000 feddans l'an dernier à 20 000 cette année. La production maraîchère a également bénéficié de ce régime de hautes eaux.
+
+Les ravageurs, maladies et adventices ont été généralement peu importants cette année, avec une incidence mineure de striga et seulement quelques cas localisés signalés de ver américain du cotonnier.
+
+Les prix du sorgho dans la région à la fin de novembre étaient comparables à ceux de la zone du Gedaref, laissant craindre là aussi que le sorgho encore sur pied tard dans la saison ne soit pas récolté, par manque d'incitation.
+
+Le bétail se porte bien. La saison des pluies ayant été satisfaisante, les conditions des pâturages sont excellentes et selon les prévisions, les disponibilités en eau des troupeaux devraient être assurées.
+
+Kordofan (Nord, Sud et Ouest)
+
+Les précipitations ont été satisfaisantes cette année sur la majeure partie du Grand Kordofan, à la fois en quantité et en distribution, à l'exception cependant de certaines zones septentrionales du Kordofan Nord. Dans ces zones, les premières pluies ont été éparses, nécessitant en général un réensemencement, et elles se sont arrêtées tôt. Sur les grandes étendues où les pluies ont été plus abondantes, le démarrage uniforme plutôt qu'échelonné des précipitations a souvent provoqué une pénurie de main d'_uvre pour la culture et les semis. La fertilité réduite de certains sols plus légers a été imputée aux fortes pluies du début de saison.
+
+D'après les prévisions, la production céréalière du Grand Kordofan pourrait être plus de deux fois supérieure à celle de l'an dernier, principalement en raison d'un fort accroissement des superficies de sorgho récoltées. La production de sorgho devrait s'établir bien au-dessus de la moyenne des cinq dernières années et se rapprocher des niveaux très satisfaisants de 1998/99.
+
+En raison d'une pluviométrie généralement meilleure, on attend pour le Grand Kordofan une production céréalière bien supérieure cette année à celle de l'an 2000, reflet à la fois d'une augmentation des superficies et d'une hausse générale des rendements. Cette embellie masque cependant de graves déficits locaux, particulièrement dans certaines zones du Kordofan Nord où les pluies ont été insuffisantes. Malgré les pulvérisations de zones importantes de nidation, les oiseaux ont posé problème dans certaines parties du Kordofan Sud et Ouest. Peu d'autres ravageurs céréaliers importants ont été signalés, même si le ver du mil a causé quelques dommages localisés.
+
+Les bonnes pluies du début de saison ont souvent eu un effet néfaste sur la production de sésame avec une croissance végétale trop importante par rapport à la production de graines. Dans les secteurs du Kordofan Nord où l'on enregistre de nouveau des pertes de récolte de mil après la germination, les agriculteurs ont souvent commencé le mil tard dans la saison, mais les résultats n'ont pas été satisfaisants.
+
+Dans le Kordofan Nord et Ouest où la pastèque contribue de manière notable à la sécurité alimentaire des ménages, les récoltes cette année ont été presque totalement détruites par les punaises ainsi que par d'autres facteurs non identifiés. La situation de la partie septentrionale de l'État du Kordofan Ouest est comparable à la partie septentrionale de l'État du Kordofan Nord, régions considérées toutes deux comme poches de déficit alimentaire dans le Grand Kordofan.
+
+Darfour (Nord, Sud et Ouest)
+
+Les précipitations dans le Grand Darfour ont considérablement varié selon les endroits pendant l'année 2001, et il en a été de même pour la production agricole.
+
+La production agricole a été très satisfaisante cette année dans le Darfour Ouest après une saison où les pluies ont été bien distribuées, avec un total de précipitations situé entre 320 et 750 mm. Les superficies récoltées pour le sorgho et le mil ont été bien supérieures à celles de l'an passé, avec en particulier des rendements de sorgho bien plus élevés ; les rendements de mil ont aussi été légèrement supérieurs à ceux de 2000.
+
+La production agricole du Darfour Nord est semblable à celle de l'an dernier, malgré une augmentation très marquée des superficies sous mil. Le total des rendements de mil a cependant été réduit de manière importante par des résultats très médiocres sur les sols sableux du nord et de l'est de l'état. La pastèque a également souffert dans ces régions, victime principalement d'infestations de punaises.
+
+Certains secteurs du Darfour Sud ont été particulièrement touchés cette année par un arrêt précoce des pluies. Après un début encourageant pour la culture du mil, il y a eu de longues périodes de temps sec en juillet et août, et septembre n'a souvent connu que des averses sporadiques, ce qui a permis l'épiaison et la floraison mais pas le remplissage des grains. Des superficies importantes n'ont pu être moissonnées suite au manque total de précipitations après cette période. Des secteurs au nord du Kordofan Nord et du Darfour Nord ont également souffert de précipitations peu abondantes cette année. Dans le Darfour Nord, on a enregistré une période de temps sec de trois à six semaines de la fin juillet à début septembre, et, contrairement à la plupart des autres régions du pays, le Kordofan Nord n'a pas reçu de pluies valables pour l'agriculture avant juillet. Après cette date, l'arrêt des pluies a été rapide.
+
+La production d'arachides a été bonne cette année. On a enregistré des superficies particulièrement importantes dans le Darfour Sud où, selon les prévisions, les superficies récoltées devraient être supérieures à celles du mil. De grandes étendues ont été ensemencées en sésame, avec des rendements contrastés partant de 25 kg/feddan dans le Darfour Nord pour atteindre presque 100kg/feddan dans d'autres zones.
+
+Le bétail se porte bien et, à l'heure actuelle, les pâturages sont dans l'ensemble en bon état mais des problèmes vont apparaître prochainement dans certains secteurs. Dans certaines zones à l'est et au nord du Darfour Nord, les niveaux d'eau dans les réservoirs sont bas et plusieurs d'entre eux sont restés à sec cette saison. Dans ces secteurs, les troupeaux sont déjà moins nombreux après les mauvaises conditions de pâture de l'an dernier, et les cours sont bas pour le bétail. Dans certains secteurs du Darfour Sud, les pâturages ont déjà été broutés et les pasteurs s'apprêtent à déplacer leurs troupeaux plus au sud ou plus à l'ouest à la recherche de meilleurs pâturages. Les troupeaux sont nombreux dans ces secteurs, risque potentiel de conflit si la concurrence pour les pâturages se fait sentir plus tard dans la saison sèche.
+
+4.2 Secteur méridional
+
+Le Soudan méridional, avec une superficie de 640 000 km2 et une population estimée à 6,3 millions d'habitants en 2001 est en état de conflit permanent depuis 1983.
+
+Les diverses ressources qui, par tradition sont le support de systèmes économiques complexes où se mêlent agriculture, pêche, pastoralisme, chasse et commerce, sont devenues inaccessibles à des degrés divers selon les endroits, en raison de la guerre civile, des rivalités entre les différentes factions, des pillages, des vols de bétail, et des tactiques alliant terreur et politique de la terre brûlée. Les conséquences du conflit et la désintégration du droit et de l'ordre public ont mis en pièce l'intégrité de la région. Il en résulte une série de bourgades sous contrôle gouvernemental, accessibles seulement par voie aérienne ou par convois ferroviaires ou fluviaux protégés, situées dans une région divisée, contrôlée par les forces rebelles.
+
+Sur le plan administratif, il existe trois régions distinctes qui englobent les zones contrôlées par le Gouvernement du Soudan, les zones sous contrôle de l'APLS (Armée populaire de libération du Soudan) et les zones du ALSS (Armée de libération du Soudan Sud). Le Gouvernement divise le Soudan méridional en dix états, groupés en trois régions. La partie du pays tenue par les rebelles est divisée en six régions, subdivisées maintenant en 34 comtés.
+
+Le système agro-écologique complexe du sud se caractérise par une période de croissance variant de 150 jours au nord à 300 jours au sud, permettant au nord le réensemencement en cas de pertes de récoltes précoces et la culture sur la même superficie d'au moins deux cycles de récoltes dans la « Ceinture verte » de l'Équatoria Ouest, du Yei et du KajoKeji. Les politiques de développement antérieures, un accès plus facile et l'amélioration de la sécurité pour les investissements ont permis la mise en place d'exploitations mécanisées à grande échelle dans les plaines argileuses septentrionales de la région du Haut Nil, région fournissant généralement 25 pour cent de la production céréalière. Ailleurs, à part quelque 2000 hectares de cultures mécanisées autour des villes de Juba et de Wau, la production agricole provient de quelque 900 000 foyers pratiquant à la main une agriculture de subsistance ou de quasi-subsistance. Les paysans cultivent différentes variétés locales de
+sorgho accompagnées de cultures moins importantes de mil chandelle, d'éleusine cultivée et de riz. Les autres cultures pratiquées varient selon la zone agro-écologique. Dans le nord, les cultures d'arachides contribuent de manière très importante à l'alimentation des ménages, complétées par de petites cultures de sésame, de tabac, de courges et de haricots. Dans les régions du sud et du centre, la culture principale est le manioc qui dans l'Équatoria Ouest, le Bahr el Ghazal ouest, le Bahr el Jebel et les Lacs peut fournir, selon les zones, jusqu'à plus de la moitié des besoins en glucides. En conséquence, le régime alimentaire varie de manière sensible entre les différentes zones agro-écologiques. D'après les estimations du PAM concernant l'alimentation des ménages, la consommation annuelle de céréales varie de 60 à 110 kg par personne.
+
+Production céréalière en 2001
+
+La désorganisation des services administratifs a provoqué l'effondrement complet du système officiel de recueil de statistiques agricoles. Dans les zones sous contrôle gouvernemental, les bureaux des Ministères de l'Agriculture des États, bien qu'existants, manquent de personnel et de fonds, et n'ont accès qu'à des périmètres limités autour des villes. Ils ne disposent pratiquement d'aucun moyen de fonctionnement. Dans les zones contrôlées par la rébellion, les coordinateurs agricoles des comtés, attachés aux bureaux du SRRA et du RASS, sont également privés de moyens. Ils dépendent en grande partie des renseignements fournis par les agents de vulgarisation agricole bénévoles qui manquent de formation en matière de relevé et de traitement des données sur les ressources naturelles.
+Les informations sont par conséquent très fragiles. Elles sont basées sur des jugements subjectifs et des témoignages anecdotiques extrapolés au niveau de l'état. Aussi bien dans les zones septentrionales que méridionales, les ONG conduisant des projets agricoles recueillent des renseignements précieux en matière de production agricole et d'élevage dans le cadre de leurs activités, mais ils s'aventurent rarement dans des mesures objectives de superficie et de production.
+
+De plus, même si les opérations de suivi de l'aide et d'évaluation annuelle des besoins menées conjointement par l'OSS et le PAM fournissent des estimations utiles en matière de réserves alimentaires, de conditions et de résultats, toutes ces estimations ont peu de choses à voir avec les relevés cadastraux et les estimations de rendement nécessaires à une évaluation précise de la production.
+
+Estimations de superficies
+
+En ce qui concerne l'estimation des superficies, la Mission utilise donc des calculs basés sur les estimations de population les plus probables corrigées par différents facteurs. Cette année, l'Enquête par grappes multi-indicateurs de l'UNICEF a été utilisée, corrigée par des informations du Ministère de l'Agriculture de l'État en provenance de Juba et de Renk (Haut Nil) et des mises à jour de 2001 de l'Unité de Soutien Technique du PAM. Différents facteurs ont été utilisés selon les endroits en matière de a) composition familiale b) taille des exploitations et c) céréales cultivées, pour déterminer les superficies cultivées figurant au Tableau 4. Les facteurs ont été mis à jour grâce aux observations terrestres et aériennes de la Mission et les rapports conjoints OSS/PAM/ONG/Ministère de l'Agriculture.
+
+Dans la plupart des régions, à part le Jonglei par suite d'engorgement des terres, le Raga à cause des conflits importants et l'Union en raison de l'insécurité, les surfaces cultivées sont restés stables ou ont augmenté. Le Bahr el Ghazal Nord enregistre une superficie cultivée beaucoup plus élevée par suite de l'inclusion dans cette zone du Tonj (Warrab) en 2001^1 .
+
+Tableau 4. Estimations de la population et des superficies au Soudan méridional en 2001
+
+Région
+
+Population totale
+(milliers de pers.)
+
+Ménages
+(milliers)
+
+Ménages
+agricoles
+
+(%)
+
+ha par ménage
+
+Superficie totale
+(milliers d'ha)
+
+Haut Nil
+
+1 312
+
+
+
+
+
+
+
+
+
+111
+
+Haut Nil
+
+420*
+
+70
+
+67
+
+(95)
+
+0,7
+
+47
+
+Union
+
+486
+
+81
+
+57
+
+(70)
+
+0,7
+
+40
+
+Jonglei
+
+406
+
+68
+
+34
+
+(50)
+
+0,7
+
+24
+
+Équatoria
+
+2 230
+
+
+
+
+
+
+
+
+
+261
+
+Bahr el Jebel
+
+869
+
+
+
+
+
+
+
+
+
+102
+
+Yei
+
+434
+
+72
+
+61
+
+(85)
+
+0,9
+
+55
+
+Kajokaji
+
+105
+
+18
+
+16
+
+(85)
+
+0,9
+
+14
+
+Juba
+
+330*
+
+55
+
+47
+
+(85)
+
+0,7
+
+33
+
+Est
+
+686
+
+
+
+
+
+
+
+
+
+45
+
+Kapoeta
+
+301
+
+50
+
+35
+
+(70)
+
+0,4
+
+14
+
+Totit
+
+385
+
+64
+
+51
+
+(80)
+
+0,6
+
+31
+
+Ouest
+
+675
+
+
+
+
+
+
+
+
+
+114
+
+Tambura
+
+392
+
+65
+
+55
+
+(85)
+
+1,2
+
+66
+
+Yambio
+
+67
+
+11
+
+10
+
+(90)
+
+1,2
+
+12
+
+Maridi
+
+58
+
+10
+
+9
+
+(90)
+
+1,2
+
+11
+
+Mundri
+
+158
+
+26
+
+21
+
+(80)
+
+1,2
+
+25
+
+Bahr el Ghazal
+
+2 786
+
+
+
+
+
+
+
+
+
+286
+
+Nord
+
+1 885
+
+
+
+
+
+
+
+
+
+180
+
+Aweil W
+
+494
+
+82
+
+78
+
+(95)
+
+0,6
+
+47
+
+Aweil E
+
+419
+
+70
+
+66
+
+(95)
+
+0,6
+
+40
+
+Twic/Abyei
+
+283
+
+47
+
+45
+
+(95)
+
+0,6
+
+27
+
+Gogrial
+
+382
+
+64
+
+61
+
+(95)
+
+0,6
+
+37
+
+Tonj
+
+307
+
+51
+
+48
+
+(95)
+
+0,6
+
+29
+
+Ouest
+
+273
+
+
+
+
+
+
+
+
+
+26
+
+Wau
+
+215
+
+36
+
+32
+
+(90)
+
+0,8
+
+26
+
+Raga
+
+58
+
+10
+
+0
+
+(0)
+
+0
+
+0
+
+Lacs
+
+628
+
+
+
+
+
+
+
+
+
+80
+
+Rumbek
+
+426
+
+71
+
+68
+
+(95)
+
+0,8
+
+54
+
+Yirol
+
+202
+
+34
+
+32
+
+(95)
+
+0,8
+
+26
+
+Total
+
+6 328
+
+
+
+
+
+
+
+
+
+658
+
+Source principale: Services de recensement (ajustements de l'UNICEF et du PAM pour 2001) à 6 membres par ménage.
+* Source: Estimations du Ministère de l'Agriculture de l'État.
+NB: Aucune culture supposée dans le Raga cette année. Le Warrab a été inclus sous le nom de Tonj dans le Bahr el Ghazal Nord.
+
+Estimations de production
+
+Les estimations de production comprennent toutes les céréales récoltées au cours de l'année 2001, y compris celles déjà consommées. Dans le but d'équilibrer les disponibilités et les besoins en céréales pour la saison commerciale 2002, on présuppose qu'une quantité semblable sera disponible l'an prochain (en 2002). Si le régime des pluies dans les zones septentrionales correspond à ce qui est normalement attendu et si la sécurité continue à s'améliorer, cette présupposition est peu risquée pour la plupart des régions.
+
+La production céréalière du secteur traditionnel en 2001 est en hausse de 12 pour cent par rapport à l'an passé, suite à une augmentation importante des rendements et à une extension des superficies sous sorgho. Ces chiffres masquent l'absence de semis de céréales dans la région de Raja et une baisse de la production dans le Jonglei. Dans le Bahr el Jebel, la production est en hausse suite à une augmentation des surfaces cultivées aux alentours de Juba. Aucun renseignement n'étant disponible pour les États de Yei, Kajo-Keji ou de l'Union, on a utilisé des chiffres semblables à ceux de l'an dernier.
+
+Dans les conditions de pluies régulières annoncées par les prévisions météorologiques à long terme et avec une lutte adéquate contre les oiseaux granivores, le secteur mécanisé devrait produire 122 000 tonnes de sorgho.
+
+Par conséquent, la mission estime à 650 000 tonnes la récolte céréalière de 2001/2002 au Soudan méridional. Pour le secteur traditionnel, on attend une récolte de 529 000 tonnes, la part du sorgho devant s'établir autour de 396 000 tonnes.
+
+On trouvera dans les tableaux 5a et 5b des séries chronologiques de la production céréalière respectivement par état et par régions, mais elles devront être interprétées avec prudence en raison des variations dans les estimations de population et des inclusions territoriales d'une année sur l'autre.
+
+Tableau 5a. Soudan méridional - Physionomie de la production céréalière traditionnelle 1997-2001
+
+Région
+
+Superficie (milliers d'ha)
+
+Production (milliers de tonnes)
+
+
+
+97/98
+
+98/99
+
+99/00
+
+00/01
+
+01/02
+
+97/98
+
+98/99
+
+99/00
+
+00/01
+
+01/02
+
+Haut Nil
+
+151
+
+133
+
+120
+
+127
+
+111
+
+91
+
+45
+
+85
+
+83
+
+92
+
+Haut Nil
+
+53
+
+52
+
+34
+
+44
+
+47
+
+33
+
+22
+
+41
+
+23
+
+41
+
+Union
+
+41
+
+40
+
+21
+
+40
+
+40
+
+34
+
+10
+
+17
+
+14
+
+32
+
+Jonglei
+
+57
+
+41
+
+65
+
+43
+
+24
+
+24
+
+13
+
+27
+
+46
+
+19
+
+Équatoria
+
+148
+
+194
+
+190
+
+250
+
+261
+
+218
+
+71
+
+166
+
+175
+
+242
+
+Bahr el Jebel
+
+43
+
+39
+
+24
+
+91^1
+
+102
+
+68
+
+13
+
+28
+
+15
+
+87
+
+Équatoria Est
+
+54
+
+55
+
+45
+
+45
+
+45
+
+17
+
+19
+
+39
+
+37
+
+22
+
+Équatoria Ouest
+
+51
+
+100
+
+121
+
+114
+
+114
+
+133
+
+39
+
+99
+
+123
+
+133
+
+Bahr el Ghazal
+
+153
+
+94
+
+158
+
+273
+
+286
+
+168
+
+46
+
+70
+
+112
+
+195
+
+Bahr el Ghazal Nord
+
+41
+
+22
+
+34
+
+127
+
+180
+
+68
+
+10
+
+15
+
+23
+
+109
+
+Bahr el Ghazal Ouest
+
+42
+
+30
+
+29
+
+70^2
+
+26
+
+46
+
+13
+
+22
+
+22
+
+21
+
+Lacs
+
+70
+
+42
+
+95
+
+76^3
+
+80
+
+54
+
+23
+
+33
+
+67
+
+65
+
+Total
+
+452
+
+421
+
+468
+
+650
+
+658
+
+477
+
+162
+
+321
+
+370
+
+529
+
+Tableau 5b. Soudan méridional - Physionomie par zone de la production céréalière mécanisée,1997-2001
+
+Région
+
+Superficie (`milliers d'ha)
+
+Production (milliers de tonnes)
+
+
+
+97/98
+
+98/99
+
+99/00
+
+00/01
+
+01/02
+
+97/98
+
+98/99
+
+99/00
+
+00/01
+
+01/02
+
+Renk, pluviale
+
+140
+
+207
+
+27
+
+82
+
+125
+
+127
+
+157
+
+18
+
+52
+
+101
+
+Renk, irriguée
+
+0
+
+0
+
+0
+
+0
+
+10
+
+0
+
+0
+
+0
+
+0
+
+18
+
+Malakal
+
+4
+
+6
+
+3
+
+3
+
+3
+
+4
+
+4
+
+2
+
+2
+
+3
+
+Melut
+
+8
+
+10
+
+0
+
+0
+
+na
+
+8
+
+8
+
+0
+
+0
+
+na
+
+Total
+
+152
+
+223
+
+30
+
+85
+
+138
+
+139
+
+169
+
+20
+
+54
+
+122
+
+Autres cultures
+
+Le potentiel agricole du Sud-Soudan est élevé et, dans tous les états de la région, il est possible de planter avec succès une vaste gamme de cultures, y compris des espèces horticoles et arboricoles. Dans le mode d'exploitation traditionnel, la production est insignifiante pour la plupart des cultures car les retombées de la guerre civile exacerbent l'absence de développement qui caractérisait cette région avant le conflit. Les États d'Équatoria-Ouest, des lacs et de Yei constituaient auparavant une exception à la règle, mais la stagnation des activités économiques dans les agglomérations urbaines au cours des 15 dernières années a anéanti tout progrès antérieur. En conséquence, sur l'ensemble du territoire, les cultures autres que celles traitées plus haut sont associées à la subsistance plutôt qu'à la rente. Cependant, dans ces zones, des excédents de fruits sont enregistrés à chaque campagne, notamment, pour les mangues, les bananes, les papayes et les graines
+oléagineuses, disponibles en quantités suffisantes pour justifier une transformation à l'échelle villageoise, à condition d'assurer des marchés.
+
+Les deux cultures les plus importantes, à part les céréales, sont le manioc et les arachides. Le manioc constitue partout un filet de sécurité pour les ménages sauf dans les trois états situés le plus au nord, où l'arachide, plante à cycle court, plus tardive que le sorgho, joue un rôle comparable. Dans le Bahr el Ghazal, les arachides sont habituellement plantées séparément dans des parcelles sarclées de 0,2 à 0,4 hectares. Avec la diffusion de la traction animale, bien adaptée aux sols plus sableux du nord, apparaissent des planteurs d'arachides avec, ça et là, des exploitations pouvant atteindre 5 à 10 hectares. Cette année, les chiffres indiquent un recul des zones plantées en arachides par rapport à l'année dernière puisque davantage de sorgho a été planté en début de campagne. Toutefois, la zone reste étendue.
+
+Cette année, la récolte de manioc est normale. Des coupes-échantillons effectuées à Wau et en Équatoria-Ouest suggèrent que la production pourrait se situer aux environs de 20-25 tonnes par hectare pour la variété biennale. En Équatoria-Ouest, le manioc n'est pas seulement cultivé en combinaison avec diverses céréales, il est aussi utilisé comme plante pérenne à la fin du cycle d'assolement. Les zones plantées en manioc sont par conséquent plus importantes qu'ailleurs, ce qui explique le très bas prix de la farine de manioc sur les marchés locaux, à 3 000 LSd le quintal. Étant donné que les stocks de manioc seront probablement perdus au Raja, la farine de manioc de l'Équatoria-Ouest est une source d'approvisionnement toute désignée à condition d'en organiser l'achat et le transport.
+
+En Équatoria-Ouest, dans le Bahr el Ghazal, le Warrab et le Bahr el Jebel, des cultures diverses sont souvent intercalées au sorgho à cycle long sur les parcelles les plus éloignées du lieu d'habitation. Ces associations incluent le manioc, le sésame, les haricots et les arachides. Les zones de production du manioc et de l'arachide sont donc semblables aux zones où la culture du sorgho est moins intensive.
+
+L'autre culture importante dans l'exploitation mécanisée est le sésame. Cette année, les superficies plantées en sésame sont estimées à 52 000 hectares à Renk et les rendements s'annoncent variables, ce qui dénote une baisse d'intérêt pour la culture du sésame par rapport aux deux années passées.
+
+Élevage
+
+La contribution de l'élevage à la sécurité alimentaire varie d'un état à l'autre, selon l'incidence de la trypanosomiase. Généralement, sa contribution à l'économie alimentaire des ménages est la plus marquée dans le Bahr el Ghazal, le Jonglei, le Haut-Nil et dans les zones plus arides de l'Équatoria-Est.
+
+Cette année, les pluies ont été précoces et la croissance des pâturages a démarré tôt. Les précipitations tombées par la suite ont permis une pousse normale ou supérieure à la normale de la végétation dans toutes les zones de parcours. Des inondations moins fréquentes jusqu'à présent laissent supposer que les pâturages riverains ont été plus accessibles et que les mouvements des animaux ont été facilités, réduisant ainsi le surpâturage autour des villages et des villes. En conséquence, les animaux des troupeaux sédentaires sont en meilleur état physique cette année. La diminution des inondations a également réduit l'incidence des infections parasitaires associées aux marécages. Chez les femelles, l'amélioration de l'état de santé influe sur les performances maternelles, ce qui devrait réduire la mortalité néonatale et accroître la production laitière et les taux de croissance des jeunes animaux. Malheureusement, il n'existe pas de données fondées sur des paramètres de
+production animale qui permettent d'identifier des valeurs de référence ni, a fortiori, des écarts par rapport à celles-ci. La seule information concrète disponible détaille les activités vétérinaires des ONG s'occupant d'élevage nomade et sédentaire. Ces données confirment que les campagnes de vaccination contre la peste bovine ont été effectuées, par le biais d'agents de santé animale et de vaccinateurs communautaires, ainsi que le traitement de routine des foyers de charbon symptomatique, de septicémie hémorragique, de peste des petits ruminants (PPR) et de péripneumonie contagieuse des bovins (PCB). L'absence de foyers confirmés de peste bovine depuis 5 ou 6 ans a entraîné la modification partielle des politiques de vaccination. A partir de l'année prochaine, les programmes de vaccination annuels seront abandonnés au profit du dépistage des anticorps dans les zones situées à l'ouest du Nil. Il n'est pas possible de définir l'incidence financière de cette mesure ou son
+impact sur l'accès aux troupeaux dans le cadre d'autres activités de soins vétérinaires ou de collecte de données.
+
+Approvisionnements alimentaires au Sud-Soudan
+
+Malgré une année plus satisfaisante, un déficit global est attendu en 2002, qui s'ajoutera à des besoins accrus si les récoltes de début de campagne ne sont pas aussi bonnes que cette année. Le Bahr el Ghazal accuse un déficit plus important qui accompagne l'augmentation du nombre de jours de précipitations. Toutefois, les besoins de 29 000 tonnes sont surtout dus à l'insuffisance de la production céréalière par rapport à la demande dans l'État du Nord, insuffisance traditionnellement palliées par les arachides, le commerce des bovins et les salaires rapatriés. Ces mécanismes existent encore mais sont moins dynamiques. Une intervention sera donc nécessaire jusqu'au rétablissement des conditions d'avant-guerre.
+
+Le tableau 6 fournit une ventilation de la situation par zone, notamment pour la production et les besoins combinés des zones sous contrôle du gouvernement ou des rebelles. Le déficit total ne tient pas compte de quelque 10 000 tonnes de blé, importé dans les villes qui sont aux mains des forces gouvernementales. L'on estime qu'un marché urbain existe pour le blé, en dehors des schémas d'économie alimentaire servant à déterminer la consommation céréalière et qu'il s'ajoute aux besoins par habitant déclarés.
+
+Tableau 6. Sud-Soudan: Bilan de l'offre et de la demande de céréales pour le secteur traditionnel en 2001/02
+
+
+
+Population (milliers de pers.)
+
+Production
+brute
+(milliers de tonnes)
+
+Production
+nette
+(milliers de tonnes)
+
+Utilisation de céréales
+(kg/hab/année)
+
+Besoins de
+consommation (milliers de tonnes)
+
+Solde
+(milliers de tonnes)
+
+Haut Nil
+
+1 312
+
+92
+
+79
+
+60
+
+79
+
+0
+
+Haut Nil
+
+420
+
+40
+
+34
+
+60
+
+25
+
++9
+
+Unity
+
+486
+
+32
+
+29
+
+60
+
+29
+
+0
+
+Jonglei
+
+406
+
+19
+
+16
+
+60
+
+25
+
+-9
+
+Équatoria
+
+2 230
+
+242
+
+210
+
+88
+
+196
+
++14
+
+Bahr el Jebel
+
+869
+
+87
+
+75
+
+80
+
+69
+
++6
+
+Yei
+
+434
+
+49
+
+42
+
+80
+
+35
+
++7
+
+Kajo Keji
+
+105
+
+12
+
+10
+
+80
+
+8
+
++2
+
+Juba
+
+330
+
+26
+
+23
+
+80
+
+26
+
+-3
+
+Équatoria-Est
+
+686
+
+22
+
+20
+
+80
+
+55
+
+-36
+
+Kapueta
+
+301
+
+6
+
+5
+
+80
+
+24
+
+-19
+
+Torit
+
+385
+
+17
+
+15
+
+80
+
+31
+
+-17
+
+Équatoria-Ouest
+
+675
+
+133
+
+115
+
+110
+
+74
+
++41
+
+Tambura
+
+392
+
+79
+
+69
+
+110
+
+43
+
++26
+
+Yambio
+
+67
+
+18
+
+15
+
+110
+
+7
+
++8
+
+Maridi
+
+58
+
+13
+
+11
+
+110
+
+6
+
++5
+
+Mundi
+
+158
+
+23
+
+20
+
+110
+
+17
+
++3
+
+Bahr el Ghazal
+
+2 786
+
+195
+
+169
+
+71
+
+198
+
+-29
+
+Nord
+
+1 885
+
+109
+
+93
+
+73
+
+138
+
+-45
+
+Aweil-Ouest
+
+494
+
+28
+
+25
+
+73
+
+36
+
+-11
+
+Aweil-Est
+
+419
+
+24
+
+21
+
+73
+
+31
+
+-10
+
+Twic / Abyei
+
+283
+
+16
+
+14
+
+73
+
+21
+
+-7
+
+Gogrial
+
+382
+
+22
+
+20
+
+73
+
+28
+
+-8
+
+Tonj
+
+307
+
+18
+
+16
+
+73
+
+22
+
+-7
+
+Ouest
+
+273
+
+21
+
+18
+
+77
+
+21
+
+-3
+
+Wau
+
+215
+
+21
+
+18
+
+73
+
+13
+
++5
+
+Raja
+
+58
+
+0
+
+0
+
+140
+
+8
+
+-8
+
+Lacs
+
+628
+
+65
+
+55
+
+60
+
+38
+
++17
+
+Rumbek
+
+426
+
+44
+
+37
+
+60
+
+26
+
++11
+
+Yirol
+
+202
+
+21
+
+18
+
+60
+
+12
+
++6
+
+Total
+
+6 328
+
+529
+
+458
+
+
+
+473
+
+-16
+
+Note: Semences à 10kg/ha et pertes et autres usages (élevages de basse-cour) à 12 pour cent.
+
+Étant donné les difficultés posées par le transfert non assisté des céréales des zones excédentaires aux zones déficitaires, à cause des problèmes de commercialisation et d'accès, les besoins d'intervention seront sans doute supérieurs au déficit estimé. Les achats locaux sont évidemment souhaitables pour stimuler la production locale mais il importe de les ajuster ponctuellement, compte tenu des produits disponibles (sorgho, maïs, éleusine cultivée, farine de manioc) et dans la limite des quantités faciles à obtenir. Des associations d'agriculteurs, qui se sont formées en Équatoria-Ouest, ont déjà été testées en tant que mécanisme pour l'achat du maïs et du sorgho. Il sera plus facile de se procurer des excédents d'éleusine cultivée et de farine de manioc s'il existe une demande des consommateurs et si des normes de contrôle de qualité peuvent être formulées et introduites pour cette deuxième denrée.
+
+Malgré ce qui précède, la quantité de sorgho nécessaire pour satisfaire les besoins du Sud-Soudan peut être aisément couverte par les céréales du secteur mécanisé de Renk. Ces stocks sont commercialisés vers le nord via Kosti, mais peuvent constituer une bonne source d'approvisionnement pour le sud, pendant la saison sèche.
+
+-------
+
+5. MESURES DE SOUTIEN D'URGENCE POUR LA SÉCURITÉ ALIMENTAIRE DES MÉNAGES
+
+Il est urgent de pouvoir procéder très tôt à l'achat, au traitement, au stockage et au transport des semences de cultures locales (sorgho, millet, maïs et riz), afin de les distribuer aux agriculteurs nécessiteux et aux PDI, à temps pour la campagne suivante qui commence en juin/juillet 2002 au nord et en avril/mai au sud. Les agriculteurs dans les régions sujettes à la sécheresse du Soudan occidental et oriental, qui ont essuyé de mauvaises récoltes en 2001, auraient besoin d'environ 1 550 tonnes de semences de millet et de sorgho pour les prochains semis. Quelque 400 000 ménages touchés par la guerre au Sud-Soudan, y compris 100 000 familles de PDI auront également besoin d'outils, de semences de plantes cultivées et horticoles appropriées.
+
+En outre, un élan donné à la production de fourrages, de préférence par une remise en valeur des pâturages et des terres de parcours à travers l'achat local de semences à cette fin, et un soutien aux campagnes d'immunisation, permettront à 600 000 familles possédant du bétail au Sud-Soudan et dans la zone de transition, d'être moins vulnérables à la malnutrition et d'avoir des moyens d'existence plus stables.
+
+La fourniture d'équipement de pêche permettra aussi aux ménages les plus déshérités de se procurer des protéines animales bon marché.
+
+-------
+
+6. SITUATION DES APPROVISIONNEMENTS ALIMENTAIRES
+
+6.1 Situation actuelle des marchés
+
+Les prix moyens des céréales sont restés relativement élevés pendant la plus grande partie de 2001 en raison des récoltes médiocres de l'année précédente. La figure 1 indique les prix de 2000 et 2001 pour le sorgho à Gedaref, l'un des principaux marchés céréaliers du pays. Toutefois, les bonnes récoltes attendues dans la plupart des grandes zones productrices semblent se confirmer et de fortes baisses des prix ont été observées en septembre. Par exemple, un sac de 90 kg de sorgho qui se vendait à près de 45 000 LSd en août 2001 est tombé à 28 000 LSd en novembre 2001 - une chute de 38 pour cent sur une période de trois mois. Dans certaines zones périphériques de Gedaref, des baisses allant jusqu'à 15 000 LSd le sac en novembre ont été signalées.
+
+Undisplayed Graphic
+Source: Marché céréalier de Gadaref
+
+Les prix du millet dans les principales régions productrices du Kordofan et du Darfour ont constamment dépassé en 2001 ceux de l'année précédente. Les prix du bétail, par ailleurs, ont été généralement plus bas pendant la plus grande partie de 2001. Comme il est indiqué dans la figure 2, les termes de l'échange se sont détériorés de manière croissante pour les éleveurs nomades, les forçant à vendre davantage de chèvres pour acheter la même quantité de mil.
+Undisplayed Graphic
+Source: Marché des céréales et du bétail de Nyala.
+
+Au Sud-Soudan les prix du sorgho dans les grands systèmes de production de l'État du Haut Nil a commencé à baisser par rapport à une fourchette de 45 000 LSd à 50 000 LSd avant la récolte; à Bahr el Jebel les prix du sorgho à la même période pouvaient atteindre 90 000 LSd. La farine de manioc se vendait environ 3 000 LSd le sac de 100 kg début novembre.
+
+Tableau 7. Prix du sorgho au Sud-Soudan en octobre 2001 comparés aux prix de 2000
+
+Lieu
+
+Prix (LSd/100kg)
+
+
+
+2000
+
+2001
+
+Yambio
+
+45 000
+
+15 000
+
+Kapueta
+
+64 000
+
+54 000
+
+Juba
+
+108 000
+
+72 000
+
+Malakal
+
+70 000
+
+55 000
+
+Wau
+
+-
+
+55 000
+
+Pulmerk
+
+50 000
+
+50 000
+
+Rumbek
+
+15 000-30 000
+
+24 000
+
+N. Bahr el Ghazal
+
+63 000
+
+28 000
+
+Aweil
+
+112 000
+
+56 000
+
+Source: Données collectées par la mission à partir de différentes sources.
+
+Les prix des cultures de rente sont restés bas en 2001 par rapport à 2000 sur les différents marchés du Soudan septentrional. Les arachides se vendent actuellement entre 8 000 LSd et 14 000 LSd le sac de 45 kg, et le sésame est vendu entre 20 000 LSd et 30 000 LSd le sac de 45 kg. L'augmentation de la production, couplée à des prix mondiaux déprimés, a exposé de nombreux planteurs à de grosses pertes financières. De nombreuses exploitations mécanisées ont cessé la récolte des cultures de rente afin de ne pas aggraver leurs pertes.
+
+6.2 Bilan de l'offre et de la demande céréalières pour 2001/02
+
+Le bilan céréalier montré au tableau 8 est fondé sur les hypothèses suivantes:
+
+* Les stocks céréaliers d'ouverture, principalement détenus par l'Autorité des réserves stratégiques de produits et dans les entrepôts du PAM sont estimés, au début de la campagne de commercialisation 2001/01 (novembre/octobre), à 106 000 tonnes dont environ 50 pour cent de blé.
+* La production totale de céréales est estimée à 4,81 millions de tonnes ce qui, avec les stocks de report donne une disponibilité intérieure de 4,92 millions de tonnes de céréales.
+* En calculant les besoins totaux de céréales, la mission a tenu compte des différences régionales concernant le régime alimentaire, la production et les disponibilités alimentaires, des tendances historiques et des conditions dues au conflit civil en cours. Pour les États du nord et les villes de garnisons du sud, la moyenne des besoins céréaliers par habitant en 2001/2002 a été estimée à 145 kg, comme pour l'année écoulée. Cette quantité comprend 80 kg de sorgho, 16 kg de mil, 47 kg de blé et 2 kg d'autres céréales. Les dernières estimations indiquent, en milieu de campagne de commercialisation 2001/02, une population de 27,5 millions de personnes dans les états septentrionaux et les villes de garnisons du sud. Les besoins céréaliers de cette population se chiffrent à environ quatre millions de tonnes. Pour les zones rurales du Sud-Soudan, où les gens consomment plus de manioc et d'autres racines, les besoins par habitant toutes céréales confondues sont estimés à 75 kg,
+soit un peu plus que l'année dernière en raison de meilleurs approvisionnements intérieurs et de la révision des estimations démographiques (voir tableau 6). Ce chiffre inclut 10 kg de maïs, 36 kg de sorgho, 7 kg de millet et 22 kg de blé. Sur la base d'une population d'environ 6,3 millions de personnes en milieu d'année, les besoins céréaliers pour les zones rurales du Sud-Soudan sont d'environ 472 000 tonnes.
+* Les besoins fourragers nationaux, les semences et récoltes perdues sont estimés à environ 15 pour cent de la production. Les doses d'ensemencement sont normalement estimées à 7,5 kg pour le sorgho, 5 kg/ha pour le millet et 150 kg/ha pour le blé.
+* Les exportations, principalement vers le Tchad et d'autres pays voisins, sont estimées à 100 000 tonnes de sorgho.
+* Les importations de blé ont presque quintuplé de 1990 à 2000, sous l'effet de l'accroissement démographique, d'un changement de goût des consommateurs encouragé par l'urbanisation et de l'amélioration des revenus dans certains segments de la société. La consommation de blé, qui devrait atteindre 1,451 million de tonnes pendant la campagne de commercialisation 2001/02 (novembre à octobre), dépassera nettement la production intérieure prévue de 315 000 tonnes. Par conséquent, près de 1,1 millions de tonnes de blé devront être importées pour couvrir ces besoins. Les importations commerciales de blé et de farine de blé devraient avoisiner 1,15 millions de tonnes, quantité équivalente aux importations effectives de l'an passé.
+
+Tableau 8. Soudan. Bilan céréalier pour 2001/02 (en milliers tonnes)
+
+
+
+Céréales
+
+Riz
+
+Sorgho
+
+Mil
+
+Blé
+
+Divers
+
+Disponibilités
+
+4 916
+
+24
+
+3 802
+
+579
+
+371
+
+140
+
+Stocks d'ouverture
+
+106
+
+0
+
+32
+
+0
+
+56
+
+18
+
+Production
+
+4 810
+
+24
+
+3 770
+
+579
+
+315
+
+122
+
+Utilisation
+
+6 099
+
+49
+
+3 802
+
+579
+
+1 529
+
+140
+
+Consommation humaine
+
+4 460
+
+45
+
+2 427
+
+484
+
+1 431
+
+73
+
+Fourrages
+
+400
+
+0
+
+318
+
+37
+
+0
+
+45
+
+Semences
+
+112
+
+3
+
+50
+
+21
+
+22
+
+16
+
+Pertes
+
+236
+
+1
+
+185
+
+28
+
+16
+
+6
+
+Exportations
+
+100
+
+0
+
+100
+
+0
+
+0
+
+0
+
+Stocks de clôture
+
+791
+
+0
+
+722
+
+9
+
+60
+
+0
+
+Importations commerciales
+
+1 183
+
+25
+
+0
+
+0
+
+1 158
+
+0
+
+L'accroissement de la production céréalière en 2001 permettra de reconstituer les stocks nationaux. Avec une augmentation importante de la production de sorgho, les stocks devraient grossir considérablement à plus de 700 000 tonnes, l'équivalent de plus de trois mois des besoins de consommation. Toutefois, le tableau général dissimule de graves déficits à l'échelle régionale et locale. Malgré la production accrue plusieurs zones du Sud-Soudan seront déficitaires en céréales à cause, surtout, des déplacements de population et de l'insécurité. Les excédents céréaliers annoncés dans certains régions ne profiteront pas aux zones déficitaires en raison de la segmentation des marchés et de l'absence ou de l'interruption des voies commerciales habituelles et de l'infrastructure. Même dans les états excédentaires, l'impossibilité pour les citadins et les ruraux pauvres d'accéder aux denrées disponibles signifie qu'il faudra recourir à l'aide alimentaire en 2002. En outre, dans
+certains parties du Soudan occidental et de l'état de la Mer rouge les récoltes ont été détruites à cause des intempéries. Il s'agit dans la plupart des cas de la troisième année consécutive de mauvaises récoltes. De ce fait, les prix des céréales, et en particulier du millet qui est la récolte de base, sont restés exceptionnellement élevés en 2001, érodant le pouvoir d'achat de la population dont de vastes segments dépendent de l'aide alimentaire. En conséquence, une aide alimentaire d'urgence ciblée sera nécessaire dans ces zones.
+
+Pour les besoins d'aide alimentaire en 2002, la mission recommande vivement de procéder à des achats locaux de céréales nationales. Les disponibilités seront suffisantes, à des prix qui devraient être compétitifs, et les achats locaux devraient donner de la vigueur à un marché qui s'annonce déprimé en 2002.
+
+6.3 Situation nutritionnelle
+
+L'état nutritionnel de la population est suivi grâce aux données fournies par l'UNICEF et par les ONG. En 2001, l'état nutritionnel s'est détérioré par endroits et les progrès accomplis pour enrayer la malnutrition en 1999 jusqu'à la mi-2000 ont été anéantis dans certaines parties du pays par l'escalade du conflit et par la sécheresse. Cette situation a exacerbé l'insécurité alimentaire dans l'ensemble de ces zones et affaibli davantage les mécanismes de survie des plus vulnérables. Dans les zones où règne l'insécurité, comme dans certaines parties du Bahr el Ghazal, du Haut Nil, d'Équatoria-Est et d'Unity, la malnutrition est généralement élevée, atteignant 15-30 pour cent pendant toute l'année. Cependant, dans d'autres zones plus accessibles, l'aide alimentaire a contribué à ramener les taux de malnutrition à moins de 10 pour cent, à l'exception de l'état de la Mer rouge où la sécheresse grave qui sévit sans relâche depuis 1998 a touché un grand nombre de personnes. Le
+manque de services de base, comme la santé, l'eau et l'assainissement, s'ajoute au problème de la malnutrition et reste un défi majeur.
+
+L'indice de malnutrition relevé dans la quasi-totalité du pays, soit plus de 15 pour cent, est le signe d'une situation qui reste précaire. En 2002, l'état nutritionnel devrait se détériorer ou stagner dans l'état de la Mer rouge, certaines parties du Kordofan-Nord et du Kordofan-Ouest, du Darfour-Nord et du Darfour-Sud, à cause de mauvaises récoltes en 2001; et dans plusieurs zones du Sud-Soudan, notamment Kapueta et Torit en Équatoria-Est, Aweil-Ouest, Aweil-Est, Gogrial, Twic/Abyei et Tonj au Bahr el Ghazal-Nord, Raja au Bahr el Ghazal-Ouest, Jonglei et Unity surtout en raison des déplacements de population et de l'insécurité.
+
+6.4 Besoins d'aide alimentaire d'urgence en 2002
+
+Les résultats de l'évaluation des besoins annuels pour le Soudan indiquent qu'en 2002, plus de 2 millions de personnes dans les états de Unity, Bahr El Ghazal, Équatoria, Jonglei, Mer rouge et certaines parties du Kordofan et du Darfour auront besoin d'une aide alimentaire.
+
+Dans l'état d'Unity, la situation est restée instable et précaire pendant toute l'année 2001. Les combats à proximité des gisements de pétrole, couplés aux affrontements avec la milice ou entre tribus ont déplacé plus de 50 000 personnes de Bentiu, Rubkona et Pariang. La production agricole en a souffert, car les gens sont nombreux à fuir leurs foyers pour se déplacer à la recherche de zones relativement plus sûres et d'aide alimentaire. Dans le Bahr el Ghazal, les combats à Raga ont déplacé plus de 18 000 personnes dont la plupart au moment des semis, au préjudice de la production agricole. Raga était l'un des principaux fournisseurs de cultures vivrières pour Wau et d'autres parties de la région. A Kapueta, en Équatoria-Est, des vagues de sécheresse, la pénurie d'intrants tels que les semences, les inondations et les ravageurs ont endommagé les récoltes, augmentant les besoins d'aide alimentaire au moins jusqu'à la fin de la période de soudure en juillet 2002. Une aide
+d'urgence sera également nécessaire dans l'état de la Mer rouge, dans certains parties du Darfour-Nord et du Darfour-Sud et dans le Kordofan-Nord et le Kordofan-Ouest, pendant une bonne partie de 2002, en raison des mauvaises récoltes causées par l'irrégularité des pluies.
+
+Si les approvisionnements alimentaires sont globalement satisfaisants dans le pays, des îlots de déficit alimentaire grave ont déjà été identifiés et leurs besoins vivriers estimés. Dans les états touchés du Kordofan, du Darfour et de la Mer rouge, le déficit vivrier est estimé à environ 78 000 tonnes. Au Sud-Soudan, où l'insécurité motive en grande partie la nécessité d'une aide alimentaire, les besoins globaux d'aide alimentaire sont estimés à 52 000 tonnes. En outre, les besoins d'aide alimentaire dans les montagnes de Nuba (aussi bien au sud qu'au nord) se chiffrent à environ 25 000 tonnes. Au total, 155 000 tonnes d'aide alimentaire sont requises en 2002 pour aider les PDI, les personnes touchées par la sécheresse et les groupes vulnérables.
+
+6.5 Autres interventions du PAM
+
+Vivres contre travail (VCT): Le PAM a exécuté des programmes de VCT dans les états du Darfour, du Kordofan et de la Mer rouge qui sont sujets à la sécheresse. Dans ces états, la sécheresse a souvent entraîné la destruction des cultures et des pénuries d'eau qui font que ces régions sont chroniquement en proie à l'insécurité alimentaire. L'objectif est de soutenir les foyers pauvres en fournissant des emplois et en améliorant les disponibilités en eau. En 2001, la région a souffert d'une grave sécheresse et en guise de première intervention, les activités VCT ont été étendues à un plus grand nombre de bénéficiaires. Au total, 11 000 tonnes de vivres assortis ont été distribuées à 294 000 personnes touchées par la sécheresse. Dans le cadre du programme de pays, la construction/remise en état de hafirs (réservoirs d'eau) améliorés, de barrages en terre, et de puits creusés à la main constituerait l'intervention principale des activités de VCT. En 2002, il est prévu de
+construire ou de réparer 44 hafirs et 60 puits. An total, 21 000 ménages devraient bénéficier de possibilités de travail et, selon les prévisions, 126 000 personnes recevront environ 9 000 tonnes d'aide alimentaire.
+
+Programmes d'alimentation scolaire (PAS): le PAM soutient des programmes d'alimentation scolaire (PAS) dans les cinq états où sévit un déficit vivrier chronique (Darfour-Nord et Darfour-Sud, Kordofan-Nord et Kordofan-Sud, Mer rouge). Ces états affichent un faible taux de scolarisation et des taux élevés d'abandon scolaire, surtout chez les fillettes. L'intervention devrait renverser la situation et améliorer la capacité d'apprentissage des enfants. En 2001, près de 337 000 enfants ont reçu des repas, qui ont représenté 8 500 tonnes de produits alimentaires assortis. En 2002, le programme d'alimentation scolaire normal sera complété par un élément de nutrition maternelle et infantile pour répondre aux besoins des femmes enceintes, des mères allaitantes et des enfants d'âge préscolaire souffrant de malnutrition. Le PAS couvrira les besoins d'environ 9 000 enfants de moins de cinq ans et de 5 000 femmes. Le PAM fournira environ 18 000 tonnes de denrées alimentaires assorties
+pour toute l'année.
+
+Opérations prolongées en faveur des réfugiés: Le PAM fournit depuis 1967 une aide aux réfugiés érythréens et éthiopiens au Soudan oriental. En 2001, le PAM a fourni de l'aide alimentaire à 132 931 réfugiés dans le cadre de son programme d'activités ordinaire. En outre, il a fourni une aide à environ 90 000 érythréens qui ont fui la zone du conflit frontalier entre l'Érythrée et l'Éthiopie. Le rapatriement des deux effectifs de réfugiés est en cours et il est prévu qu'en 2002, une moyenne de 110 000 réfugiés érythréens soient aidés chaque mois de janvier à avril tandis que 55 000 d'entre eux seront aidés de mai à décembre, dans le cadre du même projet. Au total, 10 724 tonnes de vivres seront nécessaires pendant cette période. Le PAM continue de soutenir et d'encourager la participation des femmes à toutes les activités, et particulièrement aux fonctions décisionnelles.
+
+Appui aux producteurs de céréales à travers les achats locaux: chaque fois que les circonstances le permettent, le PAM recourt aux achats locaux pour transférer des aliments des zones excédentaires aux zones déficitaires, aidant ainsi les agriculteurs et les groupes vulnérables. Cette année, la production céréalière excédentaire est disponible dans les principales zones de production du Soudan central et oriental et les prix, particulièrement pour le sorgho, baissent rapidement. Jusqu'à présent, le PAM a prévu d'acheter à concurrence de 15 000 tonnes dans les zones excédentaires et des transactions sont déjà en cours. La mobilisation financière et l'engagement des donateurs en temps opportun sont essentiels pour poursuivre les achats locaux et permettre aux agriculteurs d'optimiser la production en fonction des besoins en 2002.
+
+Logistique
+
+Le programme du PAM au Soudan gère une opération logistique d'une grande complexité afin de livrer des aliments aux groupes les plus vulnérables touchés par la sécheresse et l'insécurité. Dans les zones du Soudan touchées par la guerre, l'accès aux bénéficiaires est une gageure et le PAM a recours à différents modes de transport pour acheminer les vivres nécessaires.
+
+Dans le secteur septentrional, les aliments sont achetés localement dans les zones excédentaires ou importés par Port-Soudan, selon les contributions des donateurs. Pour faciliter l'entreposage et assurer la distribution efficace des denrées aux bénéficiaires, le PAM possède des bases logistiques dotées d'une capacité d'entreposage suffisante à Khartoum, Port Soudan, Kosti, El Obeid, Malakal, Juba, Wau, Bentiu, Nyala et Ed Daein. Les secours alimentaires au départ de ces villes sont acheminés vers des points de livraison dans les deux secteurs, en combinant divers moyens de transport, par voie terrestre, fluviale, ferroviaire ou aérienne. Le transport ferroviaire et le transport fluvial n'ont pas été très utilisés en 2001 pour des raisons de sécurité mais l'on espère qu'ils seront employés le cas échéant dans le cadre d'arrangements commerciaux. Le PAM fait voler des Ilyushin 76, des Hercules C-130 et des Antonov-12 depuis les bases du secteur septentrional afin de desservir
+les localités du secteur méridional surtout dans le Bahr el Ghazal. Le transport aérien constitue le principal mode d'opération (plus de 95 pour cent), surtout pour le Sud-Soudan et, la plupart du temps, le seul mode de transport envisageable, ce qui explique le coût exorbitant de la livraison des vivres. Chaque fois que possible, des péniches sont utilisées pour livrer l'aide alimentaire d'urgence et les articles non alimentaires aux bénéficiaires le long des quatre couloirs fluviaux de Sobat, Bentiu, Zeraf et Juba.
+Dans le secteur méridional, les denrées alimentaires sont soit achetées au Kenya soit importées à travers le port kenyan de Mombasa. Les produits sont transportés de Mombasa par route et chemin de fer jusqu'à Lokichoggio, ou par voie ferroviaire jusqu'aux entrepôts de transit de Kampala pour emprunter ensuite la route vers Koboko en Ouganda du Nord. De Koboko, l'aide alimentaire est livrée aux bénéficiaires par fret terrestre, surtout dans la région du Bahr el Ghazal. De Lokichoggio, les livraisons s'effectuent principalement par avion avec des C-130 Hercules et des Buffalo. Des livraisons limitées sont également effectuées par route vers des localités de l'Équatoria-Est et du Jonglei. Les points de livraison du secteur septentrional, tels que les villes sous contrôle gouvernemental en Équatoria-Est, sont également desservis depuis Lokichoggio par souci d'économie.
+
+Le présent rapport a été établi sous la responsabilité des secrétariats de la FAO et du PAM à partir d'informations provenant de sources officielles et officieuses. La situation pouvant évoluer rapidement, prière de s'adresser aux soussignés pour un complément d'informations le cas échéant.
+
+Bureau du Chef
+SMIAR, FAO, Rome
+Télécopie: 0039-06-5705-4495
+Mél: GIEWS1@FAO.ORG
+
+Ms. J. Lewis
+Directeur régional, ODK, PAM
+Télécopie: 00256-41-255115
+Mél: Judith.Lewis@WFP.ORG
+
+Les alertes spéciales et les rapports spéciaux peuvent aussi être reçus automatiquement par courrier électronique dès leur publication, en souscrivant à la liste de distribution du SMIAR. A cette fin, veuillez envoyer un courrier électronique à la liste électronique de la FAO à l'adresse suivante: mailserv@mailserv.fao.org sans remplir la rubrique sujet, avec le message ci-après:
+
+subscribe GIEWSAlerts-L
+
+Pour être rayé de la liste, envoyer le message:
+
+unsubscribe GIEWSAlerts-L
+
+
+back to the table of contents Retour au menu
+
+
+1 Zone incluse auparavant dans le Bahr el Ghazal Ouest ou dans les Lacs en 1999.
