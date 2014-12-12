@@ -815,6 +815,7 @@ public class KEAModelBuilder implements OptionHandler {
 		BufferedOutputStream bufferedOut = 
 			new BufferedOutputStream(new FileOutputStream(m_modelName));
 		ObjectOutputStream out = new ObjectOutputStream(bufferedOut);
+		m_KEAFilter.getStemmed2surface().clear();
 		out.writeObject(m_KEAFilter);
 		out.flush();
 		out.close();

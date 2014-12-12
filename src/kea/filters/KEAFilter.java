@@ -4,6 +4,7 @@ import java.lang.Math;
 import java.util.Arrays;
 import java.util.Enumeration;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.StringTokenizer;
 import java.util.Vector;
@@ -160,6 +161,19 @@ public class KEAFilter extends Filter implements OptionHandler {
 
 	/** The Vocabulary format */
 	private String m_vocabularyFormat = "skos";
+	
+	/** Save all surface forms for each stemmed phrase */
+	private HashMap<String,HashSet<String>> stemmed2surface;
+	
+	public KEAFilter(){
+		stemmed2surface = new HashMap<String, HashSet<String>>();
+	}
+	
+	/** Retrieves the HashMap which contains all original forms 
+	 * of a pseudo phrase */
+	public HashMap<String, HashSet<String>> getStemmed2surface() {
+		return stemmed2surface;
+	}
 
 	/**
 	 * Get the M_Vocabulary value.
@@ -1674,7 +1688,7 @@ public class KEAFilter extends Filter implements OptionHandler {
 	 * Returns the total number of words (!) in the string.
 	 */	
 	private int getPhrases(HashMap<String,FastVector> hash, String str) {
-
+		
 		//FileOutputStream out = new FileOutputStream("candidates_kea41.txt");		
 		//PrintWriter printer = new PrintWriter(new OutputStreamWriter(out)); 
 
@@ -1736,9 +1750,6 @@ public class KEAFilter extends Filter implements OptionHandler {
 
 						// Create internal representation:
 						// either a stemmed version or a pseudo phrase: 
-
-
-
 						String id;
 						if (m_vocabulary.equals("none")) {
 							String pseudo = pseudoPhrase(orig);
@@ -1747,7 +1758,7 @@ public class KEAFilter extends Filter implements OptionHandler {
 //							Match against the Vocabulary		
 							id = (String)m_Vocabulary.getID(orig);
 						}
-
+			
 						//	 System.out.println(orig + "\t" + pseudo + " \t " + id);
 
 						if (id != null) {
@@ -1817,7 +1828,7 @@ public class KEAFilter extends Filter implements OptionHandler {
 		while (phrases.hasNext()) {
 			String phrase = (String)phrases.next();
 			FastVector info = (FastVector)hash.get(phrase);
-
+			
 			// Occurring less than m_MinNumOccur? //m_MinNumOccur			
 			if (((Counter)((FastVector)info).elementAt(1)).value() < m_MinNumOccur) {
 				phrases.remove();
@@ -1900,7 +1911,7 @@ public class KEAFilter extends Filter implements OptionHandler {
 		String[] words;
 		String str_nostop;
 		String stemmed;
-
+		String ori = str;
 
 		str = str.toLowerCase();
 
@@ -1952,11 +1963,21 @@ public class KEAFilter extends Filter implements OptionHandler {
 				}
 			}
 		}
+		
 		stemmed = m_Stemmer.stemString(str_nostop);
-
+		
 		String[] currentwords = stemmed.split(" ");
 		Arrays.sort(currentwords);
-		return join(currentwords);
+		String sortedStemmedPhrase = join(currentwords);
+
+		if (stemmed2surface.containsKey(sortedStemmedPhrase)){
+			stemmed2surface.get(sortedStemmedPhrase).add(ori);
+		}
+		else {
+			stemmed2surface.put(sortedStemmedPhrase, new HashSet<String>());
+			stemmed2surface.get(sortedStemmedPhrase).add(ori);
+		}
+		return sortedStemmedPhrase;
 	}
 
 	/** 
@@ -1994,14 +2015,3 @@ public class KEAFilter extends Filter implements OptionHandler {
 		}
 	}
 }
-
-
-
-
-
-
-
-
-
-
-

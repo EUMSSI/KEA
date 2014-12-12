@@ -626,7 +626,7 @@ public class KEAKeyphraseExtractor implements OptionHandler {
 		return stems;
 	}
 	
-	public HashMap<String,HashMap<String,String>> extractKeyphrasesToMap(String text) {
+	public ArrayList<KeyPhrase> extractKeyphrasesToList(String text) {
 
 		m_KEAFilter.setNumPhrases(m_numPhrases);
 		m_KEAFilter.setVocabulary(m_vocabulary);
@@ -700,29 +700,28 @@ public class KEAKeyphraseExtractor implements OptionHandler {
 				topRankedInstances[index] = inst;
 			}
 		}
-
-		HashMap<String,HashMap<String,String>> output = new HashMap<String,HashMap<String,String>>();
+		
+		ArrayList<KeyPhrase> output = new ArrayList<KeyPhrase>();
 		
 		for (int i = 0; i < m_numPhrases; i++) {
 			if (topRankedInstances[i] != null){
-				output.put(topRankedInstances[i].stringValue(m_KEAFilter
-						.getUnstemmedPhraseIndex()), new HashMap<String, String>());
-				output.get(topRankedInstances[i].stringValue(m_KEAFilter
-						.getUnstemmedPhraseIndex())).put("stemmed",
-								topRankedInstances[i].
-								stringValue(m_KEAFilter.getStemmedPhraseIndex()));
-				output.get(topRankedInstances[i].stringValue(m_KEAFilter
-						.getUnstemmedPhraseIndex())).put("probability",
-								String.valueOf(topRankedInstances[i].
-								value(m_KEAFilter.
-										getProbabilityIndex())));
-				output.get(topRankedInstances[i].stringValue(m_KEAFilter
-						.getUnstemmedPhraseIndex())).put("rank",String.valueOf(i));
-				output.get(topRankedInstances[i].stringValue(m_KEAFilter
-						.getUnstemmedPhraseIndex())).put("stem",
-								topRankedInstances[i].stringValue(m_KEAFilter
-								.getStemmedPhraseIndex()));
+				
+				String next = topRankedInstances[i].stringValue(m_KEAFilter.getStemmedPhraseIndex());
+//				System.out.println(topRankedInstances[i].
+//								stringValue(m_KEAFilter.getUnstemmedPhraseIndex()));
+				KeyPhrase kp = new KeyPhrase(
+						next, 
+						topRankedInstances[i].
+						stringValue(m_KEAFilter.getUnstemmedPhraseIndex()),
+						m_KEAFilter.getStemmed2surface().get(next),
+						i,
+						topRankedInstances[i].
+						value(m_KEAFilter.
+								getProbabilityIndex())
+						);
+			output.add(kp);
 			}
+			
 		}
 		return output;
 	}
@@ -874,11 +873,13 @@ public class KEAKeyphraseExtractor implements OptionHandler {
 					if (printer != null) {
 						printer.print(topRankedInstances[i].
 								stringValue(m_KEAFilter.getUnstemmedPhraseIndex()));
-
-						if (m_AdditionalInfo) {
-							printer.print("\t");
+						printer.print("\t");
+						if (m_AdditionalInfo) {								
 							printer.print(topRankedInstances[i].
 									stringValue(m_KEAFilter.getStemmedPhraseIndex()));
+							String next = topRankedInstances[i].stringValue(m_KEAFilter.getStemmedPhraseIndex());
+							printer.print("\t");
+							printer.print(m_KEAFilter.getStemmed2surface().get(next));
 							printer.print("\t");
 							printer.print(Utils.
 									doubleToString(topRankedInstances[i].
