@@ -32,7 +32,7 @@ public class SpanishStemmer extends Stemmer {
 			word = removeSpanishAccent(word);
 			
 			if (word.endsWith("eses")) {
-				//  corteses -> cortés  
+				//  corteses -> cortï¿½s  
 				word = word.substring(0,len-1);
 				return word;
 			}
@@ -63,11 +63,11 @@ public class SpanishStemmer extends Stemmer {
 	
 	private String removeSpanishAccent (String word)
 	{ 
-		word = word.replaceAll("à|á|â|ä","a");
-		word = word.replaceAll("ò|ó|ô|ö","o");
-		word = word.replaceAll("è|é|ê|ë","e");
-		word = word.replaceAll("ù|ú|û|ü","a");
-		word = word.replaceAll("ì|í|î|ï","a");
+		word = word.replaceAll("Ã |Ã¡|Ã¢|Ã¤","a");
+		word = word.replaceAll("Ã²|Ã³|Ã´|Ã¶","o");
+		word = word.replaceAll("Ã¨|Ã©|Ãª|Ã«","e");
+		word = word.replaceAll("Ã¹|Ãº|Ã»|Ã¼","a");
+		word = word.replaceAll("Ã¬|Ã­|Ã®|Ã¯","a");
 
 		return word;
 	}
