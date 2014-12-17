@@ -65,11 +65,6 @@
   	<version>1.0.4</version>
   </dependency>
   <dependency>
-  	<groupId>weka</groupId>
-  	<artifactId>weka</artifactId>
-  	<version>3.7.3</version>
-  </dependency>
-  <dependency>
   	<groupId>org.cleartk</groupId>
   	<artifactId>cleartk-snowball</artifactId>
   	<version>2.0.0</version>
