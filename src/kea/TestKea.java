@@ -57,7 +57,7 @@ public class TestKea {
 		km.setStemmer(new PorterStemmer()); 
 		
 		// 8. Stopwords -- adjust if you use a different language than English!
-		km.setStopwords(new StopwordsEnglish());
+		km.setStopwords(new StopwordsEnglish("data/stopwords/stopwords_en.txt"));
 		
 		// 9. Maximum length of a keyphrase
 		km.setMaxPhraseLength(5);
@@ -110,7 +110,7 @@ public class TestKea {
 		ke.setStemmer(new PorterStemmer());
 		
 		// 8. Stopwords
-		ke.setStopwords(new StopwordsEnglish());
+		ke.setStopwords(new StopwordsEnglish("data/stopwords/stopwords_en.txt"));
 		
 		// 9. Number of Keyphrases to extract
 		ke.setNumPhrases(10);

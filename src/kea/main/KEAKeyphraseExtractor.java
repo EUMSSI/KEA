@@ -133,7 +133,7 @@ public class KEAKeyphraseExtractor implements OptionHandler {
 	
 	
 	/** The list of stop words to be used */
-	private Stopwords m_Stopwords = new StopwordsEnglish();
+	private Stopwords m_Stopwords;
 	
 	
 	/** Also write stemmed phrase and score into .key file. */

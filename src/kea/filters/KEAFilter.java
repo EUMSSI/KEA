@@ -145,9 +145,8 @@ public class KEAFilter extends Filter implements OptionHandler {
 	/** The default stemmer to be used */
 	private Stemmer m_Stemmer = new SremovalStemmer();
 
-
 	/** The list of stop words to be used */
-	private Stopwords m_Stopwords = new StopwordsSpanish();
+	private Stopwords m_Stopwords;
 
 	/** The default language to be used */
 	private String m_documentLanguage = "en";

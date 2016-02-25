@@ -128,7 +128,7 @@ public class KEAModelBuilder implements OptionHandler {
 	private Stemmer m_Stemmer = new SremovalStemmer();
 	
 	/** The list of stop words to be used */
-	private Stopwords m_Stopwords = new StopwordsEnglish();
+	private Stopwords m_Stopwords;
 	
 	/** Determines whether check for proper nouns is performed */
 	private boolean m_CheckForProperNouns = true;

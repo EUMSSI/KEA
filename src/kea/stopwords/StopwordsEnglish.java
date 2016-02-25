@@ -24,15 +24,14 @@ public class StopwordsEnglish extends Stopwords {
 	
 	
 	/** The hashtable containing the list of stopwords */
-	private static Hashtable m_Stopwords = null;
-	
-	
-	static {
+	private Hashtable m_Stopwords = null;
+
+	public StopwordsEnglish(String path) {
 		
 		if (m_Stopwords == null) {
 			m_Stopwords = new Hashtable();
 			Double dummy = new Double(0);
-			File txt = new File("data/stopwords/stopwords_en.txt");	
+			File txt = new File(path);	
 			InputStreamReader is;
 			String sw = null;
 			try {

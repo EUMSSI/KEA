@@ -25,9 +25,9 @@ public class StopwordsGerman extends Stopwords {
 	
 	
 /** The hashtable containing the list of stopwords */
-  private static Hashtable m_Stopwords = null;
+  private Hashtable m_Stopwords = null;
 
-  static {
+  public StopwordsGerman(String path) {
    
     if (m_Stopwords == null) {
       m_Stopwords = new Hashtable();
