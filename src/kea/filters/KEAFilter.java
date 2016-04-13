@@ -1905,15 +1905,22 @@ public class KEAFilter extends Filter implements OptionHandler {
 	 * which are stemmed and sorted into alphabetical order. 
 	 */
 	public String pseudoPhrase(String str) {
-		//System.err.print(str + "\t");
+//		System.err.print(str + "\t");
 		String[] pseudophrase;
 		String[] words;
 		String str_nostop;
 		String stemmed;
 		String ori = str;
-
-		str = str.toLowerCase();
-
+	
+//		if (str.matches(".+?'s")) {      //SPnew does not work
+////			System.err.print("UNCHANGED: " + ori + "\t"); //SPnew
+//			String[] elements = str.split("'s");
+//			str = elements[0];
+//			ori = str;                 //SPnew to account for surface form Germany instead of Germany's
+////			System.err.print("ORI: " + ori + "\t");
+//		}
+			str = str.toLowerCase();
+			
 		// This is often the case with Mesh Terms,
 		// where a term is accompanied by another specifying term
 		// e.g. Monocytes/*immunology/microbiology
@@ -1922,7 +1929,12 @@ public class KEAFilter extends Filter implements OptionHandler {
 			String[] elements = str.split("/");		
 			str = elements[0];
 		}	
-
+		if (str.matches(".+?'s")) {                  //SPnew delete apostrophe s as in: Germany's otherwise PorterStemmer provides empty stem
+//			System.out.println("pseudo before: " + str);
+			String[] elements = str.split("'s");
+			str = elements[0];
+//			System.out.println("pseudo after: 's " + str);
+		}
 		// removes scop notes in brackets
 		// should be replaced with a cleaner solution
 		if (str.matches(".+?\\(.+?")) {
@@ -1976,6 +1988,7 @@ public class KEAFilter extends Filter implements OptionHandler {
 			stemmed2surface.put(sortedStemmedPhrase, new HashSet<String>());
 			stemmed2surface.get(sortedStemmedPhrase).add(ori);
 		}
+//		System.out.println("OUT: STEM: " + sortedStemmedPhrase + "ORI: " + ori);
 		return sortedStemmedPhrase;
 	}
 

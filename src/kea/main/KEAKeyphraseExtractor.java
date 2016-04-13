@@ -707,12 +707,23 @@ public class KEAKeyphraseExtractor implements OptionHandler {
 			if (topRankedInstances[i] != null){
 				
 				String next = topRankedInstances[i].stringValue(m_KEAFilter.getStemmedPhraseIndex());
+				String unstemmed = topRankedInstances[i].
+						stringValue(m_KEAFilter.getUnstemmedPhraseIndex()); 
+				if (unstemmed.matches(".+?'s")) {      //SPnew works! unstemmed of Germany's is Germany
+//					System.err.print("UNCHANGED: " + unstemmed + "\t"); //SPnew
+					String[] elements = unstemmed.split("'s");
+					unstemmed = elements[0];
+//					System.err.print("UNSTEMMED: " + unstemmed + "\t"); //SPnew
+				}
+//				System.out.println("UNSTEMMED: " + unstemmed);
 //				System.out.println(topRankedInstances[i].
 //								stringValue(m_KEAFilter.getUnstemmedPhraseIndex()));
+//				System.out.println("surface: " + m_KEAFilter.getStemmed2surface().get(next)); //SPnew
 				KeyPhrase kp = new KeyPhrase(
 						next, 
-						topRankedInstances[i].
-						stringValue(m_KEAFilter.getUnstemmedPhraseIndex()),
+						unstemmed,
+//						topRankedInstances[i].                                     //ORI
+//						stringValue(m_KEAFilter.getUnstemmedPhraseIndex()),        //ORI
 						m_KEAFilter.getStemmed2surface().get(next),
 						i,
 						topRankedInstances[i].
