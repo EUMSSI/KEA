@@ -12,7 +12,6 @@ import java.util.Vector;
 import kea.stemmers.SremovalStemmer;
 import kea.stemmers.Stemmer;
 import kea.stopwords.Stopwords;
-import kea.stopwords.StopwordsSpanish;
 import kea.util.Counter;
 import kea.vocab.Vocabulary;
 import weka.core.Attribute;

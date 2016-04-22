@@ -1,5 +1,7 @@
 package kea;
 
+import java.io.FileNotFoundException;
+
 import kea.main.KEAKeyphraseExtractor;
 import kea.main.KEAModelBuilder;
 import kea.stemmers.*;
@@ -22,7 +24,7 @@ public class TestKea {
 	private KEAKeyphraseExtractor ke;
 	
 	
-	private void setOptionsTraining() {
+	private void setOptionsTraining() throws FileNotFoundException {
 		
 		km = new KEAModelBuilder();
 		
@@ -57,7 +59,7 @@ public class TestKea {
 		km.setStemmer(new PorterStemmer()); 
 		
 		// 8. Stopwords -- adjust if you use a different language than English!
-		km.setStopwords(new StopwordsEnglish("data/stopwords/stopwords_en.txt"));
+		km.setStopwords(new StopwordsEnglish());
 		
 		// 9. Maximum length of a keyphrase
 		km.setMaxPhraseLength(5);
@@ -74,7 +76,7 @@ public class TestKea {
 	}
 	
 	
-	private void setOptionsTesting(String m_testdir) {
+	private void setOptionsTesting(String m_testdir) throws FileNotFoundException {
 		
 		ke = new KEAKeyphraseExtractor();
 		
@@ -87,8 +89,9 @@ public class TestKea {
 		
 		ke.setDirName(m_testdir);
 		
-		// 2. Name of the model -- give the path to the model 
-		ke.setModelName("testdocs/en/model");
+		// 2. Name of the model -- give the path to the model
+		//    needs to be on classpath (i.e. include '.' in classpath for this to work)
+		ke.setModelName("/testdocs/en/model");
 		 
 		// 3. Name of the vocabulary -- name of the file (without extension) that is stored in VOCABULARIES
 		//    or "none" if no Vocabulary is used (free keyphrase extraction).
@@ -110,7 +113,7 @@ public class TestKea {
 		ke.setStemmer(new PorterStemmer());
 		
 		// 8. Stopwords
-		ke.setStopwords(new StopwordsEnglish("data/stopwords/stopwords_en.txt"));
+		ke.setStopwords(new StopwordsEnglish());
 		
 		// 9. Number of Keyphrases to extract
 		ke.setNumPhrases(10);
@@ -148,8 +151,9 @@ public class TestKea {
 	 * with sample documents included in this package.
 	 * 
 	 * @param args
+	 * @throws FileNotFoundException 
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] args) throws FileNotFoundException {
 		
 		
 		TestKea test = new TestKea();

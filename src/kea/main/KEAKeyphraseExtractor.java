@@ -45,7 +45,7 @@ import kea.filters.KEAPhraseFilter;
 import kea.stemmers.SremovalStemmer;
 import kea.stemmers.Stemmer;
 import kea.stopwords.Stopwords;
-import kea.stopwords.StopwordsEnglish;
+import kea.stopwords.Stopwords;
 import kea.util.Counter;
 
 /**
@@ -982,7 +982,7 @@ public class KEAKeyphraseExtractor implements OptionHandler {
 	public void loadModel() throws Exception {
 		
 		BufferedInputStream inStream =
-			new BufferedInputStream(new FileInputStream(m_modelName));
+			new BufferedInputStream(this.getClass().getResourceAsStream(m_modelName));
 		ObjectInputStream in = new ObjectInputStream(inStream);
 		m_KEAFilter = (KEAFilter)in.readObject();
 		
