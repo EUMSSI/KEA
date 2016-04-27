@@ -73,6 +73,12 @@
   	<groupId>com.github.fracpete</groupId>
   	<artifactId>snowball-stemmers-weka-package</artifactId>
   	<version>1.0.0</version>
+  	<exclusions>
+  		<exclusion>
+  			<artifactId>weka-dev</artifactId>
+  			<groupId>nz.ac.waikato.cms.weka</groupId>
+  		</exclusion>
+  	</exclusions>
   </dependency>
   </dependencies>
 </project>
